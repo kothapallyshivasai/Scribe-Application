@@ -1,9 +1,12 @@
 from django.http import JsonResponse, FileResponse
 from django.shortcuts import render
-from .key import openai_api_key
 from django.views.decorators.http import require_POST
 import requests
 from .models import Summary
+
+
+key = ""
+
 
 def home(request):
     return render(request, 'index.html')
@@ -16,7 +19,7 @@ def validate_and_save(request):
         cleaned_text = '\n'.join(line for line in text.splitlines() if line.strip())
         cleaned_text += f"\nSummarize the given data in {response_size} words like a doctor's note. And also Upper Case all the important points or key terms."
         url = "https://api.openai.com/v1/completions"
-        headers = {'Authorization': f'Bearer {openai_api_key}'}
+        headers = {'Authorization': f'Bearer {key}'}
         print(len(cleaned_text))
         cleaned_text = cleaned_text[22863:]
         print(len(cleaned_text))
