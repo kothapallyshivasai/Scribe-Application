@@ -1,0 +1,695 @@
+
+DOCTOR X509
+PATIENT?
+
+PATIENT X509
+That's me.
+
+DOCTOR X509
+How you feeling?
+
+PATIENT X509
+Oh so, so doctor.
+
+DOCTOR X509
+So do you remember me?  I saw you once before.
+
+PATIENT X509
+Oh yeah.  
+
+DOCTOR X509
+Oh yeah I saw you over the summer.
+
+PATIENT X509
+Yes sir.
+
+DOCTOR X509
+How you feeling?
+
+PATIENT X509
+Uh just like a pain that's gonna be @@@ but sometimes.
+
+DOCTOR X509
+Is it getting better or getting worse?
+
+PATIENT X509
+Getting worse.
+
+DOCTOR X509
+Okay.  
+
+PATIENT X509
+But it'll @@@ I'm dying @@@.
+
+DOCTOR X509
+Just walking makes it worse?
+
+PATIENT X509
+Yes and it'll last a couple of days.
+
+DOCTOR X509
+Uh-huh.
+
+PATIENT X509
+@@@.
+
+DOCTOR X509
+Uh-huh.
+
+PATIENT X509
+Because when you get home you lay day you know.
+
+DOCTOR X509
+@@@.
+
+PATIENT X509
+Feel bad.  When I lay down the burning @@@.
+
+DOCTOR X509
+Uh-huh.
+
+PATIENT X509
+Because it's all so much pain that um during the day it gets worse and worse.  After three or four programs I would like to lay down but I got to wait till 8:30.
+
+DOCTOR X509
+Uh-huh.
+
+PATIENT X509
+@@@.
+
+DOCTOR X509
+Uh any other problems?
+
+PATIENT X509
+Oh I got, uh @@@ bed bugs.
+
+DOCTOR X509
+You have bed bugs?
+
+PATIENT X509
+Yes, it's really crowding.
+
+DOCTOR X509
+Okay.  Have you taken anything for it?
+
+PATIENT X509
+Uh I washed my hair with NIX.
+
+DOCTOR X509
+Uh-huh.
+
+PATIENT X509
+But I made a mistake; I used the same comb at the same time.
+
+DOCTOR X509
+Uh-huh.
+
+PATIENT X509
+So they back.
+
+DOCTOR X509
+So do you have, do you think you have them right now?
+
+PATIENT X509
+Yes.
+
+DOCTOR X509
+Okay.  Are they in your hair or is it everywhere?
+
+PATIENT X509
+In my hair and my beard.
+
+DOCTOR X509
+Okay what do they look like?  Can you see them?
+
+PATIENT X509
+Uh I have some but I don't think.
+
+DOCTOR X509
+Are they?
+
+PATIENT X509
+@@@ not lice.
+
+DOCTOR X509
+What color are they?
+
+PATIENT X509
+Uh like white or brown.
+
+DOCTOR X509
+White or brown?
+
+PATIENT X509
+Yes sir.
+
+DOCTOR X509
+Okay.  Which one are they white or are they brown?
+
+PATIENT X509
+Well I think like they just both.  They kind of white.
+
+DOCTOR X509
+Okay.
+
+PATIENT X509
+But I have taken uh, I guess @@@ I try to smash it, they don't smash.  The new ones do but the old ones they have to smash it with your nail.
+
+DOCTOR X509
+Okay.
+
+PATIENT X509
+With your fingernail.
+
+DOCTOR X509
+And you used the NIX shampoo before?
+
+PATIENT X509
+Yes sir.
+
+DOCTOR X509
+And that helped.
+
+PATIENT X509
+Yes sir.
+
+DOCTOR X509
+Okay.  So do you want to try that again?
+
+PATIENT X509
+I'd like to @@@.
+
+DOCTOR X509
+Okay um.
+
+PATIENT X509
+And here on my back here, my low back are painful uh my about right here but it's by the @@@ of the back it's uh.
+
+DOCTOR X509
+It's painful as well.
+
+PATIENT X509
+Yes sir um sometimes it radiates also to my neck.  Thank God it's not every day but sometimes I'm afraid to move.
+
+DOCTOR X509
+Okay.  Uh are you still using the drugs?
+
+PATIENT X509
+Yes sir.
+
+DOCTOR X509
+Okay.  So you know obviously it's gonna be very difficult to get like a surgeon or someone to do something about that if you're still doing that um.  I know we've discussed it in the past.  You maybe doing the Outpatient Treatment Program and then doing the Inpatient Treatment Program.  Do you feel like that's something you want to do right now or no?
+
+PATIENT X509
+I'd like to stop.
+
+DOCTOR X509
+Okay.
+
+PATIENT X509
+I'm tired you know, every day @@@.
+
+DOCTOR X509
+Okay.  Do you know how to get in touch with them?
+
+PATIENT X509
+No sir.
+
+DOCTOR X509
+Okay.  Uh I believe the way it works here is you go to the Outpatient Treatment Program and you kind of have to show up every day, show them you know that you can be reliable to come here every day and then after a while you transition to the Inpatient Treatment Program.
+
+PATIENT X509
+I'd like to.
+
+DOCTOR X509
+Okay.
+
+PATIENT X509
+I'd like to yes.
+
+DOCTOR X509
+Alright.  I can get you some information on somewhere you can go for that uh and you know that's kind of the road you need to start going down and then we can talk about maybe doing something for the back pain okay.
+
+PATIENT X509
+Yes sir.
+
+DOCTOR X509
+Any other problems?
+
+PATIENT X509
+Oh my arms also, especially in my left arm.  I get different kind of.
+
+DOCTOR X509
+Uh-huh.
+
+PATIENT X509
+Shoot pains.
+
+DOCTOR X509
+Where does it hurt?
+
+PATIENT X509
+About this part here.
+
+DOCTOR X509
+Right there?
+
+PATIENT X509
+Yes sir.
+
+DOCTOR X509
+Okay.  Anywhere else?
+
+PATIENT X509
+Hmm my leg sometimes um how do I say, like a sharp pain but suddenly you know it doesn't match like the back pain.
+
+DOCTOR X509
+Uh-huh.
+
+PATIENT X509
+Just sometimes I can't tell why you know suddenly what kind of movement that I made it just happens sometimes, I don't know.
+
+DOCTOR X509
+Sometimes.  Um where does this arm hurt?  Point to it for me.
+
+PATIENT X509
+Oh this side here.
+
+DOCTOR X509
+Right here.  Okay can you put this down for a second?
+
+PATIENT X509
+Sure.
+
+DOCTOR X509
+Alright.  Straighten your arm out for me.  Does that hurt?
+
+PATIENT X509
+No.
+
+DOCTOR X509
+No.  Pull it in real tight, does that hurt?
+
+PATIENT X509
+No it doesn't hurt.
+
+DOCTOR X509
+Okay.  Does it hurt when I push?  No it's not hurting right now?
+
+PATIENT X509
+No.
+
+DOCTOR X509
+Okay.  Down here, does it hurt on any of these bones?
+
+PATIENT X509
+No sir.
+
+DOCTOR X509
+Okay.  So it's not hurting much right now?
+
+PATIENT X509
+No.
+
+DOCTOR X509
+Okay.
+
+PATIENT X509
+The second one, when I get @@@ and when I'm walking I'm pulling it.
+
+DOCTOR X509
+Okay.  How do you use your drugs?  You use heroin correct?
+
+PATIENT X509
+Yes sir.
+
+DOCTOR X509
+Do you smoke it, do you inject it?
+
+PATIENT X509
+I inject it.
+
+DOCTOR X509
+You inject it, where do you inject it?  
+
+PATIENT X509
+Here.
+
+DOCTOR X509
+Okay and you don't have any spots that you're worried are infected or anything?
+
+PATIENT X509
+Oh no sir.
+
+DOCTOR X509
+No.
+
+PATIENT X509
+I try to wash it with.
+
+DOCTOR X509
+Okay.
+
+PATIENT X509
+Uh alcohol prior.
+
+DOCTOR X509
+Yeah but this is the only arm?
+
+PATIENT X509
+Well lately yes.
+
+DOCTOR X509
+Okay.
+
+PATIENT X509
+Before I used this one.
+
+DOCTOR X509
+You know how to look to see if it's infected right?
+
+PATIENT X509
+Hmm.
+
+DOCTOR X509
+If it gets like really red and swollen and hot and painful, then you need to come to the ER okay.
+
+PATIENT X509
+I hope that never happens.
+
+DOCTOR X509
+I hope you never do as well.  Alright.  What medications are you taking right now?
+
+PATIENT X509
+Uh I was taking ibuprofen 600.
+
+DOCTOR X509
+Uh-huh.
+
+PATIENT X509
+But they're gone.
+
+DOCTOR X509
+They're gone.
+
+PATIENT X509
+Yes.
+
+DOCTOR X509
+Okay.
+
+PATIENT X509
+And.
+
+DOCTOR X509
+You just ran out or what?
+
+PATIENT X509
+Well uh before run out I was starting stored in my car; I have too many thieves here in xxx.  When I came back they were already stolen and uh I'm taking uh for the prostate too, they have @@@ I think @@@ mg and multivitamins.
+
+DOCTOR X509
+Okay.  Just were you, are you having indigestion?  Like acid reflux?
+
+PATIENT X509
+Not all the time uh when I go to shit then it's very hard, I push pretty hard.
+
+DOCTOR X509
+Okay.  Uh you may be dehydrated, especially now in the summer.  You're probably outside a lot and you sweat.  You get dehydrated and that's gonna cause that so, plenty of water okay.
+
+PATIENT X509
+Oh, yes sir.
+
+DOCTOR X509
+Um what do you eat?
+
+PATIENT X509
+Oh sometimes I eat lunch and sometimes I have a sister who is in Washington, they make very good soup and fruit salads and lettuce salad.
+
+DOCTOR X509
+Uh-huh.
+
+PATIENT X509
+@@@.
+
+DOCTOR X509
+The more fruits and vegetables you eat yet, that's more fiber and that'll make it easier for you to go to the bathroom too.
+
+PATIENT X509
+Oh okay.
+
+DOCTOR X509
+Okay so a lot of that stuff.
+
+PATIENT X509
+Alright sir.
+
+DOCTOR X509
+Alright.  Do you need that prostate pill?
+
+PATIENT X509
+Oh no I, I lost it the other day, I just got it last week.
+
+DOCTOR X509
+Okay so you have some of it still?
+
+PATIENT X509
+Yes sir, I still have some.
+
+DOCTOR X509
+Good, good.  Um so do you want to keep taking the ibuprofen, was it helping you?
+
+PATIENT X509
+Well it helps a little, better than nothing.
+
+DOCTOR X509
+Right so I could get you some more of the ibuprofen.
+
+PATIENT X509
+Alright.
+
+DOCTOR X509
+Uh and then has anyone ever checked your cholesterol?
+
+PATIENT X509
+Well a long time ago.
+
+DOCTOR X509
+Alright so they just checked it last year.  Your cholesterol looks really good.
+
+PATIENT X509
+Thank you.
+
+DOCTOR X509
+You're doing something right.  You probably walk a lot every day don't you?
+
+PATIENT X509
+Well I paint houses.
+
+DOCTOR X509
+You do what?
+
+PATIENT X509
+Paint houses.  You know with a @@@.
+
+DOCTOR X509
+Oh you paint, but you're moving a lot right?
+
+PATIENT X509
+Right.
+
+DOCTOR X509
+So you walk around the city quite a bit.
+
+PATIENT X509
+Well yes I @@@.
+
+DOCTOR X509
+That's good for your heart.  That's why your cholesterol looks so good.  Okay.
+
+PATIENT X509
+How, you have the numbers there?
+
+DOCTOR X509
+Yep.  So the most important numbers are the bad cholesterol um.  Did anyone in your family ever die of a heart attack?
+
+PATIENT X509
+Yes sir.
+
+DOCTOR X509
+Who?
+
+PATIENT X509
+My father.
+
+DOCTOR X509
+Your father.  Uh and did anyone, do you uh smoke?
+
+PATIENT X509
+Yes.
+
+DOCTOR X509
+You do, how much?
+
+PATIENT X509
+Um about 8 or 10.
+
+DOCTOR X509
+Okay.
+
+PATIENT X509
+I'm trying to do less sometimes though.
+
+DOCTOR X509
+Um and you don't have diabetes right?
+
+PATIENT X509
+My two, my father and my two grandmothers.
+
+DOCTOR X509
+But you don't have it?
+
+PATIENT X509
+Uh I hope I don't.  I have it in the family.
+
+DOCTOR X509
+I don't think you do.  So yours should be less than 130 and its 111 so you're doing great.
+
+PATIENT X509
+Oh.
+
+DOCTOR X509
+And then your good cholesterol should be greater than 45 and it's 52.
+
+PATIENT X509
+Oh.
+
+DOCTOR X509
+That's also good.  Alright.
+
+PATIENT X509
+And one thing that I always forget and now it's on my mind now about the prostate uh how uh, how do I say this in English uh, what the prognosis uh in the future of if I.
+
+DOCTOR X509
+Right.
+
+PATIENT X509
+That might get cancer?
+
+DOCTOR X509
+So um has anyone in your family ever had prostate cancer?
+
+PATIENT X509
+Not that I know of.
+
+DOCTOR X509
+No.  And you were, so the high risk rate for having prostate cancer is African-American and you're not African-American.   You have no family history of prostate cancer um so even if we, there's two steps you can do.  There's a blood test and then you can do an exam where you have to stick a finger in your butt to feel your prostate and based on what we find on those sometimes they recommend biopsies but there's a lot of evidence that shows that we end up biopsying too many people and causing more problems than we're actually helping people.
+
+PATIENT X509
+Hmm.
+
+DOCTOR X509
+So I would not recommend we even do that.  I think your prostate problem is very normal for someone your age and you don't have any family history of problems so I wouldn't want to go any further down that road okay.
+
+PATIENT X509
+Okay.  Um @@@ population.
+
+DOCTOR X509
+Uh-huh.
+
+PATIENT X509
+How, like a percent that you know.
+
+DOCTOR X509
+Right, right.
+
+PATIENT X509
+Give me a statistic.
+
+DOCTOR X509
+So if you um, if everyone so let's do like 90, if you cut them open when they die and looked at their prostate, almost all of them would have prostate cancer.  But in most people it's a very slow growing non-dangerous tumor.
+
+PATIENT X509
+Hmm.
+
+DOCTOR X509
+So if you, if you start drawing the blood tests on people and if you see it looks a little elevated, maybe we should do a biopsy or maybe we should take the prostate out.  You're probably gonna cause more problems with those surgical procedures than you're gonna fix because most of those people would have lived their regular, normal, completely healthy life and never had any problems with that prostate cancer okay.
+
+PATIENT X509
+Oh okay, thank you so much.
+
+DOCTOR X509
+So I think in you I would recommend not even testing it okay.  How many times do you have to get up at night to go to the bathroom?
+
+PATIENT X509
+Before @@@ a bunch of times time but.
+
+DOCTOR X509
+But now that you're on the terazosin you don't?
+
+PATIENT X509
+Mainly about two, three times.  Sometimes I sleep straight.
+
+DOCTOR X509
+So it's been better.
+
+PATIENT X509
+And no going to the room.
+
+DOCTOR X509
+Alright.  Let me go talk to my boss and we'll get you moving okay.
+
+PATIENT X509
+Yes sir.
+
+DOCTOR X509
+Alright I'll see you in a little bit.
+
+PATIENT X509
+Alright sir.  I wait outside?
+
+DOCTOR X509
+You what?  You can wait right here, you're fine.
+
+PATIENT X509
+Oh okay.
+
+(DOCTOR OUT:  56:19  DOCTOR IN:  61:55)
+
+DOCTOR X509
+Alright so here's what we're gonna do today.  When you leave you can schedule your follow-up appointment here um, just go out front and tell them you need to come back in six months right and then whenever you're ready to try the Outpatient Rehab Program, do you know where the PACC is, right across from the ER, you can just walk in there any day.  Okay I'll put the consult in the computer and they'll be ready for you whenever um you want to show up and then you want, we'll get you the ibuprofen, the NIX hair wash and then you need some of the omeprazole for your stomach, for your reflux okay, we'll get that as well.  Alright.
+
+PATIENT X509
+Thank you.
+
+DOCTOR X509
+Anything else?
+
+PATIENT X509
+Not right now, I don't think so.
+
+DOCTOR X509
+Alright.  I'll see you back in six months okay.
+
+PATIENT X509
+Alright sir.
+
+DOCTOR X509
+Alright.  It was good to see you, take care of yourself okay.
+
+PATIENT X509
+Thank you very much.
+
+DOCTOR X509
+You're welcome.  Take care now.
+
+PATIENT X509
+Alright, have a good night now.
+
+DOCTOR X509
+You too.
+
+PATIENT LEAVES:  63:37.
+
+
+
+

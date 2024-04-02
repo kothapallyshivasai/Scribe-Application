@@ -1,0 +1,1191 @@
+
+DOCTOR X127
+PATIENT?
+
+PATIENT X127
+Yes.
+
+DOCTOR X127
+How are you sir?
+
+PATIENT X127
+Fine.
+
+DOCTOR X127
+Nice to see you again.
+
+PATIENT X127
+You too.
+
+DOCTOR X127
+It's been a while.  Come on back here.
+
+PATIENT X127
+Okay.
+
+DOCTOR X127
+How you doing today?
+
+PATIENT X127
+Hmm the same.
+
+DOCTOR X127
+Hanging in there?
+
+PATIENT X127
+Yeah.
+
+DOCTOR X127
+Trying to figure out @@@ huh.
+
+PATIENT X127
+Uh, yeah two of @@@ now.
+
+DOCTOR X127
+Oh it looks like the sun's coming out.
+
+PATIENT X127
+Yeah.  It was raining when I first got here.
+
+DOCTOR X127
+Oh yeah, it was raining when I left the house at 6 something this morning.  Yeah it was really coming down.  So we'll go over a few things, go ahead and take a seat.
+
+PATIENT X127
+Okay.
+
+DOCTOR X127
+Run through your medicines and what not.
+
+PATIENT X127
+I need to have some of my medicine refilled I guess.
+
+DOCTOR X127
+Sure, well not a problem.  We'll take good care by all means. Um let's see, no I don't know that I've seen you before.  This may be the first time I'm meeting you.
+
+PATIENT X127
+I think so.
+
+DOCTOR X127
+I'm going to take a look.  Oh no last year I saw you in August.
+
+PATIENT X127
+Oh last year.
+
+DOCTOR X127
+Yeah.
+
+PATIENT X127
+So that could be that I don't remember everybody's face you know.
+
+DOCTOR X127
+That's alright @@@.  I thought I recognized you.  So today you're here for medication review, anything is new or any other complaints?
+
+PATIENT X127
+Uh not really uh.
+
+DOCTOR X127
+Okay.
+
+PATIENT X127
+I'm going to get my knee replaced sometime.
+
+DOCTOR X127
+Sure.
+
+PATIENT X127
+But I don't know when.
+
+DOCTOR X127
+Have you already seen the doctor about that?
+
+PATIENT X127
+Well yeah but I can't get it done until um probably in late fall or maybe early spring.
+
+DOCTOR X127
+And that's because?
+
+PATIENT X127
+Because my wife is testing all that.
+
+DOCTOR X127
+Oh, oh okay.
+
+PATIENT X127
+You know that's, but I need a bunch of the medicine refilled.  I don't know what some of this stuff is.  @@@.
+
+DOCTOR X127
+@@@ by all means, sometimes if you don't know what it is that means you won't take it.
+
+PATIENT X127
+Yeah.
+
+DOCTOR X127
+So we better make sure you know uh exactly what's going on with your health.
+
+PATIENT X127
+Well I know what some of them are.
+
+DOCTOR X127
+How are you, okay let's go through them.
+
+PATIENT X127
+Okay.
+
+DOCTOR X127
+You tell the names they are, I have them in front of me as we go through them I'll tell you what they're for.
+
+PATIENT X127
+Okay, yeah, this one has got 11 refills, this has got 3 refills.  
+
+DOCTOR X127
+Albuterol, allopurinol.  This one's for breathing.
+
+PATIENT X127
+Right.
+
+DOCTOR X127
+That one's for gout.
+
+PATIENT X127
+Right.
+
+DOCTOR X127
+Let me see if you have enough refills on that.  Three refills on the allopurinol so that's nine months.
+
+PATIENT X127
+Yeah I know, I don't use aspirin.
+
+DOCTOR X127
+Good.
+
+PATIENT X127
+But the uh.
+
+DOCTOR X127
+Allopurinol you're good.
+
+PATIENT X127
+Yeah.  The other one is the.
+
+DOCTOR X127
+Amlodipine.
+
+PATIENT X127
+Yeah, what's that?
+
+DOCTOR X127
+That one's for your blood pressure.
+
+PATIENT X127
+Okay and there's no refills left on that.
+
+DOCTOR X127
+Okay.  I will renew it.  Do you want me to send it to you in the mail?
+
+PATIENT X127
+Well I think I have it at home.
+
+DOCTOR X127
+Do you have enough for a week or so?
+
+PATIENT X127
+Oh yeah, yeah I'm sure I do.
+
+DOCTOR X127
+These are some we'll send in the mail then.
+
+PATIENT X127
+Yes.
+
+DOCTOR X127
+Will that work out okay for you?
+
+PATIENT X127
+Yeah that's fine, that's fine.
+
+DOCTOR X127
+Okay.
+
+PATIENT X127
+And uh calcium that's going to expire too but I filled that.
+
+DOCTOR X127
+Calcium, looks like you have one refill left.
+
+PATIENT X127
+Right.
+
+DOCTOR X127
+That's the calcium vitamin D yeah.
+
+PATIENT X127
+Yeah.
+
+DOCTOR X127
+Do you want me to give you some new refills?
+
+PATIENT X127
+Yeah.
+
+DOCTOR X127
+Let's do that.  I'll give you three more refills for that.
+
+PATIENT X127
+Okay.  Coricidin I don't need, that's four.
+
+DOCTOR X127
+Okay.
+
+PATIENT X127
+And uh flunisolide or whatever that is, that's what I get.
+
+DOCTOR X127
+Flunisolide, that's for the @@@.
+
+PATIENT X127
+Yeah.
+
+DOCTOR X127
+I see you have fluticasone, you have two of them.  We probably don't need both.  One's a steroid; they're both steroid-like.  Do you use both of them?
+
+PATIENT X127
+What uh, yes I do.
+
+DOCTOR X127
+You use both.
+
+PATIENT X127
+Yeah.
+
+DOCTOR X127
+Okay.  So you need a refill on the fluticasone.  The flunisolide looks like you have five refills left.
+
+PATIENT X127
+Yeah the other one I don't need that one.
+
+DOCTOR X127
+So you just need this one.
+
+PATIENT X127
+Right, okay.  
+
+DOCTOR X127
+That we can do.
+
+PATIENT X127
+Okay and the flunisolide has three refills.  Okay what is this thing?
+
+DOCTOR X127
+Oh let me see.
+
+PATIENT X127
+Oh that's my injection thing.
+
+DOCTOR X127
+Yep.
+
+PATIENT X127
+There's no refills but.  I didn't know.
+
+DOCTOR X127
+I'm not going to refill that.  That's the implant that they put in there, you know what I mean, for your, that's from the Urology Clinic.
+
+PATIENT X127
+Right.
+
+DOCTOR X127
+So that's not something that I would do.
+
+PATIENT X127
+Okay that's fine.
+
+DOCTOR X127
+Yeah.
+
+PATIENT X127
+Uh because I don't have, I don't feel like I can go.  I have 84 days before I can jump. 
+DOCTOR X127
+Yeah.
+
+PATIENT X127
+But the indomethacin that's gone.
+
+DOCTOR X127
+That's for the gout.
+
+PATIENT X127
+Right.
+
+DOCTOR X127
+Uh do not until you finish the prednisone, so when did that get refilled?  Did you have a gout attack recently?
+
+PATIENT X127
+No but that keeps it away.
+
+DOCTOR X127
+Do you take that all the time?
+
+PATIENT X127
+Yep.
+
+DOCTOR X127
+Well you just need to be careful, that one can be dangerous to your kidneys.
+
+PATIENT X127
+I know that what's they said.
+
+DOCTOR X127
+Yeah.
+
+PATIENT X127
+But I've been on it so long and I don't have any kidney problems.
+
+DOCTOR X127
+Well I don't want to just blindly refill it.  Let me uh; let me look at it closely here.
+
+PATIENT X127
+Cause I've been taking @@@ too.
+
+DOCTOR X127
+Yeah you're taking a lot of things for your gout and has been troublesome for you before?
+
+PATIENT X127
+Oh it can.
+
+DOCTOR X127
+Uh-huh.
+
+PATIENT X127
+For the @@@ surgery on my knee they took me off that.  Three days later the underneath swelled up.
+
+DOCTOR X127
+Oh yeah.
+
+PATIENT X127
+And it hurt worse than surgery did.  But the indomethacin I've actually for, I bet you 15 years or more.
+
+DOCTOR X127
+Yeah.  Well your kidneys are not entirely normal last time they were checked.
+
+PATIENT X127
+Well he put me on another one that I don't know, I don't two capfuls a day, I only take one because they put me on some other things that supposedly easier.  I don't know what the name of it is.
+
+DOCTOR X127
+Allopurinol?
+
+PATIENT X127
+What is that?
+
+DOCTOR X127
+And colchicine.  You take a lot of medicines for gout.
+
+PATIENT X127
+Yeah.
+
+DOCTOR X127
+I don't know, I don't know that I feel very comfortable giving you the indomethacin.  Let me talk it over with my attending.
+
+PATIENT X127
+Okay.
+
+DOCTOR X127
+Your renal function here is not great.  Normally for you it probably would be about 1 and that's the creatinine I look at.  The last time it was checked was about a year ago and it was 1.7, so what I want to do is probably check it again today before I refill that.
+
+PATIENT X127
+Okay, that's fine.
+
+DOCTOR X127
+To make sure your kidneys are doing okay cause we don't want to put you into kidney failure.
+
+PATIENT X127
+No.
+
+DOCTOR X127
+I think we'll hold off on refilling that one for now, until we get your blood work back okay.
+
+PATIENT X127
+Okay.  I was going to ask you, do I have to go downstairs to get the blood work?
+
+DOCTOR X127
+Yeah you're going to have to.
+
+PATIENT X127
+Okay.
+
+DOCTOR X127
+Looks like you had your PSA drawn not long ago.
+
+PATIENT X127
+Yeah the other day.  I think Monday or so I think it was, it seemed to take forever.
+
+DOCTOR X127
+Yeah.  @@@.
+
+PATIENT X127
+And I didn't want omeprazole.
+
+DOCTOR X127
+Omeprazole that's for your stomach.
+
+PATIENT X127
+Oh there's no refills up on that.
+
+DOCTOR X127
+Do you have, did they give it for you for GERD?  Let's take a look.
+
+PATIENT X127
+I don't know what they gave it to me for.
+
+DOCTOR X127
+Yeah I remember this.  We talked about this before.  I'm looking at my note from August and in this note I said encouraged to titrate off indomethacin due to chronic renal insufficiency but you were very hesitant.
+
+PATIENT X127
+Pretty much and I think I still am.
+
+DOCTOR X127
+Yeah.  Would like to see improvement 20% @@@.  Yeah that's right we gave you the allopurinol at a renal dose.  Yeah and we started colchicine.  I remembered all this now, it's all coming back.  It's all coming back.  It's been a while.  Hmm and hold off on knee replacement due to medical illness of wife.  Yeah I remember all that.  I'm just reading through my previous notes.  Um what I think would be reasonable is to see what happens if we stop the indomethacin because we now started a new medicine the colchicine.  Have you been taking that pretty regularly?
+
+PATIENT X127
+Yeah I take one tablet a day or whatever it is.
+
+DOCTOR X127
+Yeah.  It's one tablet every day.
+
+PATIENT X127
+Yeah one tablet in the morning every day.
+
+DOCTOR X127
+Let me talk with my boss and we'll get repeat labs too and uh it may be worthwhile.  The reason I said is we don't want to hurt your kidneys.  
+
+PATIENT X127
+Well I know I understand that.
+
+DOCTOR X127
+Yeah that's the only reason.  We talked about that last time.
+
+PATIENT X127
+Right.
+
+DOCTOR X127
+Uh the omeprazole I can refill, that's not a problem and I'll send you that in the mail.  Let me advise him about the colchicine.
+
+PATIENT X127
+Okay.
+
+DOCTOR X127
+I'm sorry the indomethacin.
+
+PATIENT X127
+Okay.
+
+DOCTOR X127
+Okay other question, other @@@ on the medicine?
+
+PATIENT X127
+No I think that's everything.  Let me see.
+
+DOCTOR X127
+How about the metoprolol do you still take that?
+
+PATIENT X127
+Uh, I take a half tablet by mouth yeah.  I do take that.
+
+DOCTOR X127
+You've got two refills so I'm going to give you some more.
+
+PATIENT X127
+Okay.
+
+DOCTOR X127
+And the other one that we need to talk about is your, is the two medicines that are expired.  One is the simvastatin, that's your cholesterol medicine.
+
+PATIENT X127
+Yeah.
+
+DOCTOR X127
+You're only taking a half a tablet at bedtime?
+
+PATIENT X127
+Yeah @@@.
+
+DOCTOR X127
+Do you still have it?
+
+PATIENT X127
+Yeah they still had some.
+
+DOCTOR X127
+You still have some but it looked like it expired already.  I'm going to refill then okay.
+
+PATIENT X127
+Okay.
+
+DOCTOR X127
+And then they'll send you some in the mail.  @@@.
+
+PATIENT X127
+That's right you went to xxx xxx didn't you?
+
+DOCTOR X127
+I did, I did.  I think we talked about this last time.
+
+PATIENT X127
+Yeah, I think we did.
+
+DOCTOR X127
+You went to uh you had a daughter or you had somebody that went to Michigan right?
+
+PATIENT X127
+Oh my uh my wife's husband went to xxx xxx and then one of the daughters went there.
+
+DOCTOR X127
+Okay.
+
+PATIENT X127
+But the other daughter went to the University of Michigan.
+
+DOCTOR X127
+Gotcha, so there was a little bit of a battling.
+
+PATIENT X127
+Just somewhat.
+
+DOCTOR X127
+Just somewhat.
+
+PATIENT X127
+(Laughter)
+
+DOCTOR X127
+And you're from Michigan originally right?
+
+PATIENT X127
+Right, right.
+
+DOCTOR X127
+We'll give you @@@ okay, I'm going to reorder that.  I reordered that medicine yeah so, we'll see, it should be an interesting year this year for xxx xxx.
+
+PATIENT X127
+Uh-huh.
+
+DOCTOR X127
+You think the football season's going to go okay?
+
+PATIENT X127
+I would think so.  Well they've changed one of the coaches and all that so.  You know how that goes; if you don't win they get rid of you.
+
+DOCTOR X127
+@@@.  Okay I'm going to send you a refill on the statin medicine.
+
+PATIENT X127
+But really check on the indomethacin because.
+
+DOCTOR X127
+I will yeah.
+
+PATIENT X127
+Uh I've been taking that so long and I haven't had any problems.
+
+DOCTOR X127
+Yeah.  I know it's a good medicine for your knee and it'll work well both with your knee pain but we definitely have to be careful with that kidney.
+
+PATIENT X127
+Yeah I know, I know.
+
+DOCTOR X127
+You don't want.
+
+PATIENT X127
+I think they check my kidney stuff all the time.
+
+DOCTOR X127
+The last time it was checked was uh, I just looked at them, see it was May, May of last year.
+
+PATIENT X127
+Okay.
+
+DOCTOR X127
+So it's been a year.
+
+PATIENT X127
+Yeah.
+
+DOCTOR X127
+Unless are you following in a different hospital for it?
+
+PATIENT X127
+No, no.
+
+DOCTOR X127
+Only here right?
+
+PATIENT X127
+I don't follow with anyone outside.
+
+DOCTOR X127
+Yeah the last time it's been checked was May so for sure we need to get some more blood work.
+
+PATIENT X127
+Okay, yeah @@@.
+
+DOCTOR X127
+We'll need to check your cholesterol and make sure that's okay.  You don't take any diabetic, you don't have diabetes right.
+
+PATIENT X127
+No, no.
+
+DOCTOR X127
+So we're not going to check that.  How about your last colonoscopy?  When did you have a colonoscopy last do you remember?  That's where they go and they use a camera and they look up from behind to see if there's any.
+
+PATIENT X127
+Oh God I don't remember now but it's been quite a while.
+
+DOCTOR X127
+I'll look.  You've gotten all your care here at xxx.
+
+PATIENT X127
+Yeah.
+
+DOCTOR X127
+Okay, well I'll look into it when I go talk to the boss.
+
+PATIENT X127
+Okay.
+
+DOCTOR X127
+Just make sure that everything else is squared away.  Blood pressure today was a little on the higher side.
+
+PATIENT X127
+Right.
+
+DOCTOR X127
+A little on the higher side.
+
+PATIENT X127
+Well I walked a long ways too.
+
+DOCTOR X127
+Right.  Why don't we have you go sit up there and I'll let you sit down about five minutes, calm down then I'll recheck your blood pressure and we'll see how it goes.
+
+PATIENT X127
+Okay.
+
+DOCTOR X127
+Now let me just look at the rest of the things here.  Heart rate's good.  Let's see, how about the prostate?
+
+PATIENT X127
+Uh as far as I know everything is fine.
+
+DOCTOR X127
+When was the last time you saw those guys?
+
+PATIENT X127
+Uh I seen the doctor I don't know, I think it was a week or so ago.  I'd have to check my calendar.
+
+DOCTOR X127
+You saw the prostate guy?
+
+PATIENT X127
+Yeah.  He interviewed me again and they took my, they gave me my shot and then they interviewed me after that.
+
+DOCTOR X127
+The knee guy, not the knee guys right?
+
+PATIENT X127
+No, no.
+
+DOCTOR X127
+You came to the clinic before oh I see, here's something.  You were taking the valsartan before right?
+
+PATIENT X127
+Yeah.
+
+DOCTOR X127
+And that ran out so you stopped it.  That's probably why and you came in to see DOCTOR because of a runny nose too right?
+
+PATIENT X127
+Yeah right and that stuff's been really good.  I think basically the runny nose is caused by some of these; I could be allergic to some of the new plants that come up.
+
+DOCTOR X127
+Gotcha.
+
+PATIENT X127
+You know.
+
+DOCTOR X127
+How's your skin been doing?
+
+PATIENT X127
+Fine.
+
+DOCTOR X127
+Is it dry still or no?
+
+PATIENT X127
+Well it's a little dry.
+
+DOCTOR X127
+Okay.  And you're taking the valsartan at home is that right or is that one been stopped?
+
+PATIENT X127
+Which one is that?
+
+DOCTOR X127
+That expired.  That's the blood pressure medicine.  I don't think it's on your list.
+
+PATIENT X127
+No it's not.  I probably don't take that anymore; they probably put me on something else.
+
+DOCTOR X127
+@@@ squared away here.  How about your thyroid medicine?
+
+PATIENT X127
+It's fine.  Uh the last time I seen you everything was fine.
+
+DOCTOR X127
+Your thyroid level was really high though.
+
+PATIENT X127
+Well, what happened I think when I had my thyroid removed in 77, they only took part of it and the other part continued to work and then it started to whatever elevate or whatever, whatever it does and that's when they changed my medicine and they did adjusting that but I, I don't know I think I see him in December and I don't think he changed anything then.  
+
+DOCTOR X127
+Hmm.  This says it's markedly elevated but informed him it was no different than last year.  I'm trying to figure out if they decided that you're supposed to be taking thyroid medicine or @@@.  Okay.  So you should be taking the Synthroid, your thyroid medicine.
+
+PATIENT X127
+Yeah.  I think I do.  Is that on my list?
+
+DOCTOR X127
+It's not on your list here.  Oh it is on your list, I'm sorry.  @@@.  Yeah you have two more refills.  You have enough for six more months.
+
+PATIENT X127
+Yeah.
+
+DOCTOR X127
+Okay that's good.  Alright.  I'm sorry I got a little nervous there.
+
+PATIENT X127
+That's alright.  What would you guys do without those computers?
+
+DOCTOR X127
+We'd have to write everything down.  Just like we used to do, yeah just like we used to do.  Could you take that sweatshirt off so I can take your blood pressure?
+
+PATIENT X127
+Oh sure.  Here let me take my lid off.
+
+DOCTOR X127
+Alright.
+
+PATIENT X127
+There you go.  You want both arms?
+
+DOCTOR X127
+No one arm is okay.  Let's see if there's anything we need to do about your blood pressure.  Looks like they got you @@@.
+
+PATIENT X127
+Yeah that was the uh the thing I came in and gave blood on me.
+
+DOCTOR X127
+Monday?
+
+PATIENT X127
+Monday and that's unusual cause normally I don't bruise but whatever day she dug around in their.
+
+DOCTOR X127
+Gotcha.
+
+PATIENT X127
+And then they got me.
+
+DOCTOR X127
+The vampire got you.
+
+PATIENT X127
+Yep.
+
+DOCTOR X127
+Just relax your arm for me, let me hold it up, @@@.  It'll squeeze on the arm.  Perfect.  I got 118/65.
+
+PATIENT X127
+See cause I walked the whole way so.
+
+DOCTOR X127
+Perfect.
+
+PATIENT X127
+They make me walk a long ways and wonder why you're blood pressure goes up.
+
+DOCTOR X127
+Hey it's normal.  Of course they go up.
+
+PATIENT X127
+Yeah.
+
+DOCTOR X127
+Let me just document that.
+
+PATIENT X127
+Okay.
+
+DOCTOR X127
+Alright.  Before you slide that all the way down, I'm okay, you're okay.
+
+PATIENT X127
+Okay.
+
+DOCTOR X127
+Just take some deep breaths.  Good again, again, again, again.  Now let me just listen here.  I'll have you lay back for me.
+
+PATIENT X127
+Oh.
+
+DOCTOR X127
+Be on your belly a little bit.
+
+PATIENT X127
+Okay.  I can do that.
+
+DOCTOR X127
+That's something to support your leg.
+
+PATIENT X127
+Okay thanks.
+
+DOCTOR X127
+Any belly pain?
+
+PATIENT X127
+Nope.
+
+DOCTOR X127
+Nausea, vomiting?
+
+PATIENT X127
+Nope.
+
+DOCTOR X127
+Diarrhea, constipation?
+
+PATIENT X127
+Nope.
+
+DOCTOR X127
+You can sit up.  You been urinating okay?
+
+PATIENT X127
+Yes.  Ain't no problems.
+
+DOCTOR X127
+No trouble with starting and stopping?
+
+PATIENT X127
+Nope.
+
+DOCTOR X127
+You got some dry skin here?
+
+PATIENT X127
+Yeah I know.
+
+DOCTOR X127
+Is that normal for you?
+
+PATIENT X127
+Yeah it's kind of normal.
+
+DOCTOR X127
+It could be related to your thyroid but they just increased the medicine not long ago so we'll check a bunch of labs today actually.
+
+PATIENT X127
+Okay.
+
+DOCTOR X127
+It looks like the last PSA was just fine and that was just Monday.
+
+PATIENT X127
+Yeah.
+
+DOCTOR X127
+Uh and your thyroid level was checked in March and that actually was normal.  So it's pretty fluctuant.
+
+PATIENT X127
+Yeah.
+
+DOCTOR X127
+Wow, hmm, it was 127 in December and then it was 0.02 in March, really interesting.  Okay let me go talk to the boss.
+
+PATIENT X127
+Okay.
+
+DOCTOR X127
+I'll be back in to see you in a second.
+
+PATIENT X127
+Okay that's fine.
+
+DOCTOR X127
+I've got most of your medications refilled, everything you need today.
+
+PATIENT X127
+Okay.
+
+DOCTOR X127
+Um we're going to have to get labs done and I'll look and make sure there's nothing else we're missing.
+
+PATIENT X127
+Okay.
+
+DOCTOR X127
+Thanks.
+
+PATIENT X127
+Okay.
+
+DOCTOR X127
+@@@
+
+PATIENT X127
+Okay.
+
+(DOCTOR OUT:  69:26  DOCTOR IN:  80:20)
+
+DOCTOR X127
+Okay, so here's what we came up with as far as the indomethacin.
+
+PATIENT X127
+Okay.
+
+DOCTOR X127
+You're taking it twice a day now?
+
+PATIENT X127
+No, no just once.
+
+DOCTOR X127
+Just once a day.
+
+PATIENT X127
+Once a day cause I take that other one.
+
+DOCTOR X127
+Yeah, the other one, the allopurinol and the colchicine.
+
+PATIENT X127
+Yeah.
+
+DOCTOR X127
+One uh, one thing that I think I need to continue stressing with you is if you keep going on this medicine particularly it will continue to harm your kidneys.
+
+PATIENT X127
+Okay.
+
+DOCTOR X127
+And eventually just because of that medicine you may need to go on dialysis.
+
+PATIENT X127
+Okay.
+
+DOCTOR X127
+That's something that you need to think about down the road.
+
+PATIENT X127
+Okay.
+
+DOCTOR X127
+One thing I would consider and encourage to you is to prove to yourself that you may not need it now because we've given you these other medicines.
+
+PATIENT X127
+I will try to take.
+
+DOCTOR X127
+Could you take it every other day?
+
+PATIENT X127
+I'll try to take it every other day.
+
+DOCTOR X127
+And see what happens.
+
+PATIENT X127
+And see what happens.
+
+DOCTOR X127
+I'd like to give it a shot.
+
+PATIENT X127
+Okay.
+
+DOCTOR X127
+If you can take it every other day and you're doing good and you do it for a month, maybe try taking every third day.
+
+PATIENT X127
+Yeah.
+
+DOCTOR X127
+Cause that medicine, I'm okay with you taking it but every day or more frequently it's going to continue to hurt your kidneys.
+
+PATIENT X127
+Okay.  Alright.
+
+DOCTOR X127
+Eventually I'd like to get you off of it completely.
+
+PATIENT X127
+Well I can, I'll just, when I do my @@@.
+
+DOCTOR X127
+Uh-huh.
+
+PATIENT X127
+I'll just put, just put it every other day and then if that works then I'll go every other two days you know.
+
+DOCTOR X127
+@@@.
+
+PATIENT X127
+And then if it uh, I don't have any problems then I'll go every four days.
+
+DOCTOR X127
+@@@ and eventually what the medicine will be good for is you don't take it unless you have a flare.
+
+PATIENT X127
+Okay.
+
+DOCTOR X127
+Then if you have a flare-up then you take it every day for a week or so.
+
+PATIENT X127
+Yeah.
+
+DOCTOR X127
+That's what I'd like you to do.
+
+PATIENT X127
+Okay.  I can do that.
+
+DOCTOR X127
+So we'll give it to you by mail again every other day so you'll get uh four refills but you have to promise that you're gonna do that.
+
+PATIENT X127
+I will.
+
+DOCTOR X127
+Uh the rest of them we refilled I think, is that right?
+
+PATIENT X127
+As far as I know.
+
+DOCTOR X127
+Labs today that are going to be important for you.
+
+PATIENT X127
+Uh-huh.
+
+DOCTOR X127
+It looks like your CBC which is the blood that you have.
+
+PATIENT X127
+Uh-huh.
+
+DOCTOR X127
+@@@ blood in there.  We'll check your urine, I'm sorry we'll check your kidneys.  We don't need to check your urine.
+
+PATIENT X127
+Uh-huh.
+
+DOCTOR X127
+I also want to check your uric acid level; that sort of tells us how the gout's doing.  Last time it was really high.  We'll check and see how that's going and I'm going to also check your thyroid okay.
+
+PATIENT X127
+Okay.  Did you check @@@.
+
+DOCTOR X127
+Blood is all of that.
+
+PATIENT X127
+Okay.
+
+DOCTOR X127
+That's alright and they just checked your prostate so we don't really need to check that.
+
+PATIENT X127
+Uh uh.
+
+DOCTOR X127
+Alright and then I'll see you back in uh, oh nine months?
+
+PATIENT X127
+Uh-huh.
+
+DOCTOR X127
+You're doing pretty good otherwise.
+
+PATIENT X127
+Well otherwise I'm fine.  But I just want a gout attack.
+
+DOCTOR X127
+I don’t blame you.  I mean you have to think about no gout attack versus we don't want it to continue to bottom out your kidneys.
+
+PATIENT X127
+Do I have to take this with me?
+
+DOCTOR X127
+Yeah you can just take it up to the front and give it to them.
+
+PATIENT X127
+Oh I see.
+
+DOCTOR X127
+Check out okay.  Alright.
+
+PATIENT X127
+I'll check this.
+
+DOCTOR X127
+And for right now you won't need to take that, losartan the other medicine for your blood pressure, the one that you don't have on your list.
+
+PATIENT X127
+Oh yeah I probably haven't taken it.
+
+DOCTOR X127
+Right that's why I say we'll hold it for now.
+
+PATIENT X127
+Okay, @@@.
+
+DOCTOR X127
+Don't forget to go down to the Lab.
+
+PATIENT X127
+I won't.
+
+DOCTOR X127
+Have the blood work done.
+
+PATIENT X127
+I won't.  
+
+DOCTOR X127
+If there's any problems or any changes I'll call you.
+
+PATIENT X127
+Okay.
+
+DOCTOR X127
+Okay.
+
+PATIENT X127
+That's fine.
+
+DOCTOR X127
+Take care, nice to see you again.
+
+PATIENT X127
+Nice to see you.
+
+PATIENT LEAVES:  84:22
+
+Time is @@@
+
+
+
+

@@ -1,0 +1,1077 @@
+
+DOCTOR X453
+PATIENT?
+
+PATIENT X453
+How you doing?
+
+DOCTOR X453
+I'm doing fine, how are you?  
+
+PATIENT X453
+Uh do you know uh DOCTOR?
+
+DOCTOR X453
+Yes uh @@@.
+
+PATIENT X453
+I had him the last time I came in here.  Very, very informative, thorough.  
+
+DOCTOR X453
+He's a good guy.  
+
+PATIENT X453
+No she.
+
+DOCTOR X453
+Oh DOCTOR, he's the pharmacist.
+
+PATIENT X453
+Yeah.
+
+DOCTOR X453
+Okay.  No I don't know her.
+
+PATIENT X453
+Oh.  
+
+DOCTOR X453
+Okay, let's see looks like you were increased on 12.4 @@@ of glyburide @@@.  And your sugars are doing much better okay.
+
+PATIENT X453
+Okay.
+
+DOCTOR X453
+Uh 60, I want to recheck this.  @@@.  So we changed metformin to 1 gram b.i.d. @@@ at 5 b.i.d. @@@.  
+
+PATIENT X453
+What I ran out of was the @@@ anti-depressant.
+
+DOCTOR X453
+No problem.  I'd be happy to refill that for you.
+
+PATIENT X453
+Also uh I did finish that uh the cholesterol, what is it called sima?
+
+DOCTOR X453
+Simvastatin?
+
+PATIENT X453
+Right.  I didn't finish it; do I keep taking it until I finish it or what?
+
+DOCTOR X453
+That's a medication you take every day.
+
+PATIENT X453
+Okay but right now I guess she's making me take half of the 20 mg which is 10, is that right?
+
+DOCTOR X453
+Let's see, so you take @@@, albuterol @@@, start simvastatin at 20 mg, so it says 20 mg.
+
+PATIENT X453
+Well on the bottle it says one half.  Its 20 mg pills, that's what I've been taking.
+
+DOCTOR X453
+Okay that's fine.  It's a 40 mg tab so that's okay.
+
+PATIENT X453
+Is it?
+
+DOCTOR X453
+Yeah.
+
+PATIENT X453
+Oh okay.
+
+DOCTOR X453
+So you're just taking half which is 20 mg, that's correct okay.
+
+PATIENT X453
+Oh okay.
+
+DOCTOR X453
+So you're on metformin.  You're on 1 gram b.i.d. uh, lisinopril.  Your blood pressure is 137/74.  Have you been taking your blood pressure medication?
+
+PATIENT X453
+Uh yeah.
+
+DOCTOR X453
+Every day, all the time?
+
+PATIENT X453
+I'm taking half a day right?
+
+DOCTOR X453
+You're taking 10 mg of lisinopril.
+
+PATIENT X453
+Yeah.
+
+DOCTOR X453
+Yeah.  The last time your blood pressure was @@@.
+
+PATIENT X453
+Well that's the smoking.
+
+DOCTOR X453
+Let's see.  We need to figure out @@@.
+
+PATIENT X453
+Uh I just need to quit.  It should be on file though.
+
+DOCTOR X453
+@@@ let's see if I can recall @@@.  Okay.  @@@.
+
+PATIENT X453
+Okay.
+
+DOCTOR X453
+@@@.  
+
+PATIENT X453
+Also the test strips.  You know the little thing you slide into the.
+
+DOCTOR X453
+Uh-huh.  You need more of those?
+
+PATIENT X453
+Yeah.
+
+DOCTOR X453
+Sure.
+
+PATIENT X453
+Cause I had already called and they said it was gonna take from five to seven days but I need one now so I can start taking it cause I completely ran out.
+
+DOCTOR X453
+You can just pick it up at the Pharmacy actually today.
+
+PATIENT X453
+Okay.
+
+DOCTOR X453
+@@@.
+
+PATIENT X453
+They added lisinopril.
+
+DOCTOR X453
+Lisinopril.
+
+PATIENT X453
+Yes.
+
+DOCTOR X453
+I'm gonna go up on the dose for that.
+
+PATIENT X453
+Okay.  So I could go right ahead and just take the whole pill then.
+
+DOCTOR X453
+Right.  So we'll increase it to 20 mg, the whole pill.  And let's see.
+
+PATIENT X453
+DOCTOR, the Korean, she's Korean right or Chinese?
+
+DOCTOR X453
+I'm not sure.
+
+PATIENT X453
+Well she's got the one for uh special science or something like that.  I was supposed to have a class with her but I never made it.
+
+DOCTOR X453
+What kind of class?
+
+PATIENT X453
+Just an orientation or something like that.  Maybe I'm wrong.
+
+DOCTOR X453
+@@@. Let's see.
+
+PATIENT X453
+I had an appointment that I didn't make cause I had, I couldn't make it.  @@@ this month earlier?
+
+DOCTOR X453
+Oh I can't @@@.
+
+PATIENT X453
+The one before this one, it should have been an appointment in there.
+
+DOCTOR X453
+I don't know how that's set up.
+
+PATIENT X453
+Oh okay.
+
+DOCTOR X453
+But uh.
+
+PATIENT X453
+Is there a phone number I could get in contact with her?
+
+DOCTOR X453
+I don't know, I'll see if I can find it.  Looks like you had @@@ follow-up with the Pharmacy on the 26th.
+
+PATIENT X453
+What's it for?
+
+DOCTOR X453
+@@@.
+
+PATIENT X453
+Okay.  March?
+
+DOCTOR X453
+Uh-huh.
+
+PATIENT X453
+Okay.
+
+DOCTOR X453
+@@@.
+
+PATIENT X453
+Does it have the time?
+
+DOCTOR X453
+Uh let's see.
+
+PATIENT X453
+Right.
+
+DOCTOR X453
+I'm sorry I don't have the time.
+
+PATIENT X453
+You don't.
+
+DOCTOR X453
+Have a seat up here.  9:00 a.m.
+
+PATIENT X453
+9 a.m.
+
+DOCTOR X453
+Yeah.  For follow-up with the pharmacist.  So.  
+
+PATIENT X453
+Right now.
+
+DOCTOR X453
+Do you check your blood pressures at home?
+
+PATIENT X453
+No.
+
+DOCTOR X453
+@@@.  
+
+PATIENT X453
+Yes.
+
+DOCTOR X453
+Did you eat breakfast this morning?
+
+PATIENT X453
+Yes.
+
+DOCTOR X453
+You know she @@@ some blood tests for you.
+
+PATIENT X453
+She did.
+
+DOCTOR X453
+@@@.
+
+PATIENT X453
+Okay.
+
+DOCTOR X453
+Uh how long are you here for today?
+
+PATIENT X453
+Well as long, as long as I'm here I probably am going to do what I have to do.
+
+DOCTOR X453
+Okay, alright.
+
+PATIENT X453
+You know what I'm saying.
+
+DOCTOR X453
+I'm gonna have you get those blood tests for me today.
+
+PATIENT X453
+Blood tests okay.  What do I need for that, just walk over there and get it?
+
+DOCTOR X453
+Yep.
+
+PATIENT X453
+Okay.
+
+DOCTOR X453
+They'll have all the information.  So from what I can tell, did you get @@@ test?
+
+PATIENT X453
+That's the one I need too, that's the one I need @@@.  That's the eye doctor right.
+
+DOCTOR X453
+Very good.  Uh what @@@.
+
+PATIENT X453
+@@@.
+
+DOCTOR X453
+Good.  I'll put it in.
+
+PATIENT X453
+When was that March uh, March.
+
+DOCTOR X453
+I have March 26th 9 a.m.  And I'm also going to put in @@@ foot doctor okay.
+
+PATIENT X453
+Okay.
+
+DOCTOR X453
+And they'll make this appointment for you up front okay.  So I bumped up your blood pressure medication today cause your blood pressure's a little high.
+
+PATIENT X453
+Okay.  Did it go up to?
+
+DOCTOR X453
+Um so right now you're just on 10 right?
+
+PATIENT X453
+That's right.
+
+DOCTOR X453
+Of the lisinopril so we're bumping you up to 20 so you can take a full pill now okay.
+
+PATIENT X453
+That's it.
+
+DOCTOR X453
+And let me see, I just want to make sure I have a good number to contact you.  
+
+PATIENT X453
+Who is that with, with NAME?  March 26th?
+
+DOCTOR X453
+Yeah it's the pharmacist.  I don't know which one it is unfortunately.  Although you know, I may have you follow up in three weeks with another pharmacist.
+
+PATIENT X453
+Not the 26th?
+
+DOCTOR X453
+Yeah they'll make a new one for you okay.  So you know what, leave that on, leave that on.  Let's see how much closer we could get for you.
+
+PATIENT X453
+So keep that one.
+
+DOCTOR X453
+Yeah.
+
+PATIENT X453
+Okay.
+
+DOCTOR X453
+Alright let me ask you a few questions okay.
+
+PATIENT X453
+Okay.
+
+DOCTOR X453
+Uh your sugars, any low sugars?  What's the lowest your sugar's been?
+
+PATIENT X453
+90 something.
+
+DOCTOR X453
+Okay, okay.  Alright cause I don't, like even @@@.
+
+PATIENT X453
+I don't want to go down lower cause, eat something to bring it back up or @@@.
+
+DOCTOR X453
+Right. Um I don't want like anything lower than 80 something okay.
+
+PATIENT X453
+Okay.
+
+DOCTOR X453
+Um what's the highest your sugar's been.
+
+PATIENT X453
+The highest since I been taking these medication, uh close to 300.
+
+DOCTOR X453
+Oh.
+
+PATIENT X453
+No 200, 200 and that's when I first started.
+
+DOCTOR X453
+Okay, okay @@@.
+
+PATIENT X453
+It's been under 200.
+
+DOCTOR X453
+Oh that's pretty good.
+
+PATIENT X453
+It's been under 200.
+
+DOCTOR X453
+Pretty good.
+
+PATIENT X453
+Now there's some days that it might go up a little, over 200 or something like that but.
+
+DOCTOR X453
+Okay.
+
+PATIENT X453
+The majority is under 200.
+
+DOCTOR X453
+Wow that's excellent.
+
+PATIENT X453
+Yeah I see a difference too.
+
+DOCTOR X453
+Better energy.
+
+PATIENT X453
+Yeah.
+
+DOCTOR X453
+Not drinking so much.
+
+PATIENT X453
+Right.
+
+DOCTOR X453
+Good I'm glad.
+
+PATIENT X453
+At nighttime too I.
+
+DOCTOR X453
+Yeah.
+
+PATIENT X453
+It used to be three, four times, now it's a couple you know.
+
+DOCTOR X453
+And when your sugars are that high it's what we call @@@ to make you pee basically.
+
+PATIENT X453
+Yeah.
+
+DOCTOR X453
+Sugar pools in your urine and then it makes a lot more urine basically.
+
+PATIENT X453
+She was telling me that the metformin, she gave me the metformin 1000.
+
+DOCTOR X453
+Twice a day.
+
+PATIENT X453
+Twice a day right.
+
+DOCTOR X453
+Uh-huh.
+
+PATIENT X453
+Because if I do work, if I work out well that is going to go to the bone right?
+
+DOCTOR X453
+No exactly.
+
+PATIENT X453
+Or it's good for bones or what's the reason behind the fact that I got to go out and walk around and you know like do four or five blocks and everything like that?
+
+DOCTOR X453
+Well exercise by itself will help you lower your sugars.
+
+PATIENT X453
+Okay.
+
+DOCTOR X453
+But uh it might help what we call, so metformin is what we call a sensitizer.
+
+PATIENT X453
+Okay.
+
+DOCTOR X453
+It makes your body more receptive to the insulin that you're earlier.
+
+PATIENT X453
+Oh gotcha okay.
+
+DOCTOR X453
+Yeah so um so if you take metformin and you work out and it basically helps your body and @@@ the sugar in your blood, it goes to the muscle, everywhere else, supports the liver and things like that.  So instead of hanging in around your blood, which is bad, it goes to where it should go basically like the liver.
+
+PATIENT X453
+So a good workout would be, consist of what, sitting up, standing up, walking around, two blocks, three blocks, exactly.
+
+DOCTOR X453
+@@@.
+
+PATIENT X453
+I mean walking, uh going around the block one time or what?  So before I take the pill, after I take the pill or?
+
+DOCTOR X453
+@@@.
+
+PATIENT X453
+What way works better?
+
+DOCTOR X453
+Uh it doesn't matter.  The idea for exercise is consistency and duration.  Um it doesn't matter what you do but the idea is to raise your heart rate for at least 30 minutes a day.
+
+PATIENT X453
+Consistently.
+
+DOCTOR X453
+Consistently.  Uh but it doesn't have to be @@@ day.
+
+PATIENT X453
+That would be what, that would how?
+
+DOCTOR X453
+If you like to swim, if you like to walk really fast.
+
+PATIENT X453
+I'll be doing it; I just finished taking a course on swimming.
+
+DOCTOR X453
+Great.
+
+PATIENT X453
+Okay, learning how to swim.
+
+DOCTOR X453
+Uh-huh.
+
+PATIENT X453
+And I'm going to college over at @@@.
+
+DOCTOR X453
+Great.
+
+PATIENT X453
+And I took a class and then now for some reason they shut it down for just the @@@.
+
+DOCTOR X453
+Oh.
+
+PATIENT X453
+Cause of safety hazard.
+
+DOCTOR X453
+Okay.
+
+PATIENT X453
+Some reason, something to do with safety.
+
+DOCTOR X453
+Any aerobic activity, swimming, walking really fast, treadmills, Stairmasters, elliptical training, things like that.
+
+PATIENT X453
+Okay.
+
+DOCTOR X453
+This will help bring up your heart rate, help you burn some calories and work on your muscles.  Cause muscles, when you work on them, they get stronger and then they give you more energy which is good.
+
+PATIENT X453
+That's good.
+
+DOCTOR X453
+Yeah exactly so the glucose that's hanging around in your blood gets burned off by your muscles.
+
+PATIENT X453
+Okay.
+
+DOCTOR X453
+Okay.  So I'm glad you asked me about that um otherwise I'm going to continue things, except for increasing the blood pressure medication, I'm going to continue.  Tell you what; do you have a good phone number I could reach you at?
+
+PATIENT X453
+Yeah.  My wife's.
+
+DOCTOR X453
+Oh she'll get on your case then.
+
+PATIENT X453
+Yeah.
+
+DOCTOR X453
+Okay.
+
+PATIENT X453
+NUMBER.
+
+DOCTOR X453
+NUMBER.
+
+PATIENT X453
+Right it any time.
+
+DOCTOR X453
+Okay.  As soon as we get the blood results today.  Sometime maybe in the evening today or tomorrow or in the afternoon today I'll call you with the results and based on what they are, I may change your diabetes medications okay.
+
+PATIENT X453
+Okay.
+
+DOCTOR X453
+But.
+
+PATIENT X453
+Why?
+
+DOCTOR X453
+So I mean, you're clearly heading in the right direction and I'm very encouraged by it.
+
+PATIENT X453
+Oh okay.
+
+DOCTOR X453
+Um you're last; we'll see what the A1c is today.
+
+PATIENT X453
+Right.
+
+DOCTOR X453
+Whenever we get your blood tests results and we'll talk about that.
+
+PATIENT X453
+Okay.
+
+DOCTOR X453
+What's a good time to call you to make sure that you're home?
+
+PATIENT X453
+Uh me, about 5, well tonight no I got school tonight, uh probably 5:30, 6 o'clock. 
+
+DOCTOR X453
+6 o'clock.  What about tomorrow?
+
+PATIENT X453
+Tomorrow, you can call me earlier.
+
+DOCTOR X453
+What time?
+
+PATIENT X453
+About uh 2 o'clock, 3 o'clock.
+
+DOCTOR X453
+Okay.  We'll aim for tomorrow then.
+
+PATIENT X453
+2 o'clock, 3 o'clock.
+
+DOCTOR X453
+Yeah.
+
+PATIENT X453
+Okay.
+
+DOCTOR X453
+2 or 3 o'clock I'll call you with the lab results.
+
+PATIENT X453
+Okay.
+
+DOCTOR X453
+And then we'll go over them and then to see if we want to change any of your medications.
+
+PATIENT X453
+Okay.
+
+DOCTOR X453
+Okay.  But you're doing all the right things.  You just have to follow up with the foot doctor to make sure, you know as a diabetes, you know you're prone to having more foot ulcerations and ulcerations can lead to really bad.
+
+PATIENT X453
+I've heard, that I had, when I bought these boots they were giving me a scab.
+
+DOCTOR X453
+Yeah.
+
+PATIENT X453
+But look at it, it healed.  It's healed.  I usually takes a while for it to heal and over this time right there.
+
+DOCTOR X453
+Exactly.
+
+PATIENT X453
+So I'm doing something right.
+
+DOCTOR X453
+Right.  And really high sugars will impair your wound healing basically and it sounds like you're @@@.
+
+PATIENT X453
+Yeah.
+
+DOCTOR X453
+@@@.
+
+PATIENT X453
+I got another question, well a couple of questions uh I got this cough.
+
+DOCTOR X453
+Uh-huh.
+
+PATIENT X453
+I don't know I keep coughing and coughing and coughing and I had it for about, going on a month.
+
+DOCTOR X453
+Uh-huh.
+
+PATIENT X453
+Sometimes it lasts for about three minutes, four minutes and then it'll go away and it's kind of bad when you're in class.
+
+DOCTOR X453
+Right.
+
+PATIENT X453
+Trying to listen to the teacher and you have this cough so I've been drinking water you know.
+
+DOCTOR X453
+Okay.
+
+PATIENT X453
+To sooth it or something like that.  I need something that's going to go on ahead and cut it out, am I sick, do I have a cold or what, what is it?
+
+DOCTOR X453
+Well we're gonna talk about that.  Um like how many times do you cough like that in a day?
+
+PATIENT X453
+A day?  About three or four times.
+
+DOCTOR X453
+Okay.  Uh when you cough to you bring anything up?
+
+PATIENT X453
+Yeah it's like uh, it's something I feel in my throat come up and then it's like a glob but it's clear.
+
+DOCTOR X453
+Okay.
+
+PATIENT X453
+And then I spit it out.
+
+DOCTOR X453
+Okay that's fine.  Um any fever or chills?
+
+PATIENT X453
+No.
+
+DOCTOR X453
+Shortness of breath?
+
+PATIENT X453
+No.
+
+DOCTOR X453
+Okay.
+
+PATIENT X453
+Only when I start coughing cause it makes me want to cough and cough and then my chest I got.
+
+DOCTOR X453
+Yeah.
+
+PATIENT X453
+It's all hurting in my chest but it's tight.
+
+DOCTOR X453
+Yeah.
+
+PATIENT X453
+And then after a while if I start coughing too much I could feel like uh muscles, you know they're tightening up.
+
+DOCTOR X453
+Uh-huh.
+
+PATIENT X453
+Yeah.
+
+DOCTOR X453
+From what you're telling me I'm not too concerned about it.  People do get the irritations in their throats and these.
+
+PATIENT X453
+Sometimes I get runny nose too.  It'll run, it's just like @@@.
+
+DOCTOR X453
+Yeah.  Viruses enhance, most of them are caused by viruses.
+
+PATIENT X453
+Okay.
+
+DOCTOR X453
+There's no antibiotic or anything.
+
+PATIENT X453
+So I just got to let it run its course.
+
+DOCTOR X453
+I can give you some cough medication that maybe helps suppress the cough a little but you'll get better basically.
+
+PATIENT X453
+Um yeah well just give me that.
+
+DOCTOR X453
+Sure.
+
+PATIENT X453
+But I'm going to school right now and I kind of.
+
+DOCTOR X453
+I know.
+
+PATIENT X453
+Irritating you know what I mean in class and there are a couple of other people with a cough you know but it got, I don't know, maybe they got the same thing but uh I need to curtail it so that way I could put more.
+
+DOCTOR X453
+Do you get a tickling sensation in your throat before you cough or?
+
+PATIENT X453
+Yeah, yeah.
+
+DOCTOR X453
+So I'll give you some lozenges as well.
+
+PATIENT X453
+Okay.
+
+DOCTOR X453
+And then um you can, like when you're in class you can.
+
+PATIENT X453
+Take them.
+
+DOCTOR X453
+Yeah, you can take them a little prophylactically.
+
+PATIENT X453
+Okay.
+
+DOCTOR X453
+So when you feel like it's a bad day or something like that.
+
+PATIENT X453
+I can feel it coming cause it starts tickling you know and I'm like trying to hold it, try not to cough.  So I buy a bottle and not a cold bottle of water just regular temperature.
+
+DOCTOR X453
+Uh-huh.
+
+PATIENT X453
+And I cleanse the throat and then I'll cough a little bit and it'll go away.  But it happens like twice, twice in a class period that I'm in.
+
+DOCTOR X453
+Uh-huh.  So the cough syrup I'm giving you, you can use it every six hours or so as needed for cough.
+
+PATIENT X453
+Every six?
+
+DOCTOR X453
+Every six hours.  Okay.  Alright give me one second, I'm gonna check with DOCTOR.
+
+PATIENT X453
+Uh-huh.
+
+DOCTOR X453
+And I will be back.
+
+PATIENT X453
+Okay.
+
+(DOCTOR OUT:  63:35  DOCTOR IN:  65:41)
+
+DOCTOR X453
+Alright so cough medication is in.  The foot doctor consult.
+
+PATIENT X453
+What day is that, did you get that?
+
+DOCTOR X453
+Um you can actually go up front okay and they'll make it for you.
+
+PATIENT X453
+Oh okay.
+
+DOCTOR X453
+So I'm going to send you to Podiatry.
+
+PATIENT X453
+Okay.
+
+DOCTOR X453
+Next available so they'll make this appointment for you up front okay.
+
+PATIENT X453
+Okay.
+
+DOCTOR X453
+Uh let's see so things that might change.  Your diabetes medication we'll talk on the phone once I get the results, probably tomorrow.
+
+PATIENT X453
+Go now or?
+
+DOCTOR X453
+No, no, we might have to continue using depending, we'll see and then your cholesterol; depending on what it is we may or may not change the medications but those are the two things I'm going to check.  For today for sure I changed your blood pressure medication.
+
+PATIENT X453
+Okay.
+
+DOCTOR X453
+Okay.
+
+PATIENT X453
+Okay.
+
+DOCTOR X453
+And we'll go from there.  Um I know you're in class right now so it's tough is it tough for you to come see me?
+
+PATIENT X453
+No.
+
+DOCTOR X453
+Okay um I want to see you in about another two months.
+
+PATIENT X453
+Okay, make the, just whatever time I get today that way I tell him though.
+
+DOCTOR X453
+I put it in the computer and they mail you something in one month.
+
+PATIENT X453
+Okay.
+
+DOCTOR X453
+And you'll call for an appointment.
+
+PATIENT X453
+Okay, okay.
+
+DOCTOR X453
+Okay.
+
+PATIENT X453
+Okay.
+
+DOCTOR X453
+Now what you do need really quick, um everything looks like you're taking better care of yourself and I'm so happy you're doing that okay.
+
+PATIENT X453
+Thank you.
+
+DOCTOR X453
+Um it's tough to get there @@@ yourself.
+
+PATIENT X453
+Oh yeah.
+
+DOCTOR X453
+And especially with diabetes but you're doing everything right and if you continue to do well 30 years down the line you'll be so grateful because you're gonna have all your feet.  You're not gonna have a heart attack.  You're not gonna have a stroke.
+
+PATIENT X453
+Yeah.
+
+DOCTOR X453
+Okay.
+
+PATIENT X453
+Yeah.  So stay consistent with the.
+
+DOCTOR X453
+Yeah these medications you just take twice a day so. 
+
+PATIENT X453
+Yeah.
+
+DOCTOR X453
+So they're not that bad and you could easily drop and it sounds like you're feeling is completely different.
+
+PATIENT X453
+Yeah.  Alright. 
+
+DOCTOR X453
+So.
+
+PATIENT X453
+That's good to hear, that's good to hear.
+
+DOCTOR X453
+So continue doing it.  You're doing a wonderful job.
+
+PATIENT X453
+Okay.
+
+DOCTOR X453
+I'll talk to you tomorrow about the blood test.
+
+PATIENT X453
+Results of the blood tests.
+
+DOCTOR X453
+And we'll go from there.
+
+PATIENT X453
+Okay.
+
+DOCTOR X453
+Two months for me.
+
+PATIENT X453
+Okay.
+
+DOCTOR X453
+Alright.
+
+PATIENT X453
+Thank you.
+
+DOCTOR X453
+You're more than welcome alright.  
+
+PATIENT X453
+Yeah.
+
+DOCTOR X453
+Any questions, I'll give you this sheet.  Take this back to the front and they'll make an appointment for you and I'm gonna call you. @@@.
+
+PATIENT X453
+Yeah.
+
+DOCTOR X453
+Good.  
+
+PATIENT X453
+That's it?
+
+DOCTOR X453
+That is it.
+
+PATIENT X453
+Thank you much.  Have a good day.
+
+DOCTOR X453
+You too bye bye.
+
+PATIENT X453
+Alright.
+
+PATIENT LEAVES:  68:14.
+
+
+
+
+

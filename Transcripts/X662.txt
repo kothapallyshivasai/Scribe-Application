@@ -1,0 +1,892 @@
+
+DOCTOR X662
+PATIENT?
+
+PATIENT X662
+@@@.
+
+DOCTOR X662 
+@@@.  
+
+PATIENT X662
+@@@.  (Patient's cell phone rings, he answers it)
+
+DOCTOR X662
+I'm just pulling you up here in the computer and I can't see when the last time we saw you here in the Unit.
+
+PATIENT X662
+Last week.
+
+DOCTOR X662
+Oh you were talking to the pharmacist.
+
+PATIENT X662
+Yes.
+
+DOCTOR X662
+So I see you were in the hospital recently.
+
+PATIENT X662
+Yeah.
+
+DOCTOR X662
+Is that correct?
+
+PATIENT X662
+Uh-huh.
+
+DOCTOR X662
+Let me sort through this to make sure to see what's here.  You were in because of abdominal pain, nausea and vomiting okay.
+
+PATIENT X662
+They said gastro something; anyway it was probably messed up.  Right.
+
+DOCTOR X662
+You know I'm reading through what they wrote here and let's see, looks like they gave you some.  Well essentially things just kind of got better.
+
+PATIENT X662
+Yes.
+
+DOCTOR X662
+Without doing anything.  That's probably the gist of it.
+
+PATIENT X662
+Yes.
+
+DOCTOR X662
+I mean just a little bit of tincture of time.
+
+PATIENT X662
+Right.
+
+DOCTOR X662
+They said that got.
+
+PATIENT X662
+Once I started eating solid cause I couldn't hold nothing down for a minute and they were giving me a stomach pill and all kind of stuff but like you said eventually it came where.
+
+DOCTOR X662
+@@@ got better.  
+
+PATIENT X662
+But you know doc I'm still concerned about this blood clot in this right leg lower calf.  That's why I'm on the blood thinner.
+
+DOCTOR X662
+That's a fact so uh we need more blood work.  You have that.  When did that show up?
+
+PATIENT X662
+Um about let's see uh January, February, March, January yeah.
+
+DOCTOR X662
+In both legs?
+
+PATIENT X662
+Yes.
+
+DOCTOR X662
+Alright okay.  That can happen, why did you get them?
+
+PATIENT X662
+They just popped up.  You know I had fell, you know initially I fell on my elbow and my knee.
+
+DOCTOR X662
+Yeah.
+
+PATIENT X662
+And I guess that caused it for some reason you know.
+
+DOCTOR X662
+Were you not walking around or?
+
+PATIENT X662
+No I mean I could step up on the curb and my foot slipped back down and I lost my balance and I fell and the next thing I know two days later my leg swell up you know.
+
+DOCTOR X662
+Okay.  Trauma can sometimes cause these actually.
+
+PATIENT X662
+Yeah.
+
+DOCTOR X662
+Yeah.  Did they ever say you had clots in your lungs or just the legs?
+
+PATIENT X662
+No just in the leg.  Ooh if it get up that far I might be a nobody.
+
+DOCTOR X662
+That's actually true.
+
+PATIENT X662
+Yeah.
+
+DOCTOR X662
+So you have been on Coumadin since.
+
+PATIENT X662
+For the leg.
+
+DOCTOR X662
+October of 2010 does that sound about right?
+
+PATIENT X662
+Yes.
+
+DOCTOR X662
+Now.
+
+PATIENT X662
+I was on Warfarin too; I mean they had me on.
+
+DOCTOR X662
+You're still on that right though.
+
+PATIENT X662
+Yeah well no they took me off the Warfarin, I'm just on the uh injections; the, I can't even pronounce it.  The what.
+
+DOCTOR X662
+Um the dalteparin or?
+
+PATIENT X662
+Right, the dalteparin that's what I'm on now.
+
+DOCTOR X662
+You're not taking the Levitra from okay.  Is that where you were just going to be continued to take?
+
+PATIENT X662
+Yes.  
+
+DOCTOR X662
+See I'm just kind of reading too, it looks like there were some problems with getting you to therapeutic levels with the Coumadin.
+
+PATIENT X662
+Exactly.
+
+DOCTOR X662
+Okay so.
+
+PATIENT X662
+Fluctuating up and down, up and down.
+
+DOCTOR X662
+Yeah.
+
+PATIENT X662
+Change in my diet and all that.  And then somehow they say I'm borderline diabetic.  Now all this is starting to occur after the fact of these blood clots.
+
+DOCTOR X662
+I don't think I would attribute that to blood clots.
+
+PATIENT X662
+Well I was just saying generally you know.
+
+DOCTOR X662
+I'd just; people started looking for you know your general medical well-being.
+
+PATIENT X662
+Right.
+
+DOCTOR X662
+And finding other things.
+
+PATIENT X662
+Right.
+
+DOCTOR X662
+Alright so, give me one second.  I want to look at why you're supposed to be on this, the anti-coagulation stuff.
+
+PATIENT X662
+Coagulation right.
+
+DOCTOR X662
+For a long time.  Apparently you saw the Hem/Onc doctors.  You have, okay let's read through their notes.
+
+PATIENT X662
+Uh-huh.
+
+DOCTOR X662
+Um pardon me; I need to look through all of this.  You ended up having a second one later while you were on uh the shots.
+
+PATIENT X662
+Yes.
+
+DOCTOR X662
+What was your understanding of how long this takes @@@?
+
+PATIENT X662
+Six months.
+
+DOCTOR X662
+Said who?
+
+PATIENT X662
+Um DOCTOR.
+
+DOCTOR X662
+When did you see the last when you were there?  DOCTOR.
+
+PATIENT X662
+Um last time I seen DOCTOR and it's been I think almost three months and I been seeing DOCTOR.  He's been really monitoring you know my blood and what have you.
+
+DOCTOR X662
+Yeah.  So now you're on dalteparin okay.
+
+PATIENT X662
+Yes.  Talking about one more thing uh, DOCTOR thinks @@@.
+
+DOCTOR X662
+Someone thinks you have diabetes is that right?
+
+PATIENT X662
+Yeah.
+
+DOCTOR X662
+Okay what do you think?  @@@.
+
+PATIENT X662
+Um.  @@@.  Uh I keep a chart also.  Let me get my chart right here.  Looks like my wife has it.
+
+DOCTOR X662
+Also what do your morning blood sugars look like?
+
+PATIENT X662
+Uh in the morning it be like around 111 and then before lunch they go up to about 117.
+
+DOCTOR X662
+Well that's good.
+
+PATIENT X662
+Yeah.  But I'm taking the pills twice a day.
+
+DOCTOR X662
+Good okay, that works.  That is actually good.  You've been trying to exercise, diet, lose weight.
+
+PATIENT X662
+Yes, yes.
+
+DOCTOR X662
+What are you eating out there?
+
+PATIENT X662
+It never gets, yeah cause I have.
+
+DOCTOR X662
+I don't want to change anything @@@.
+
+PATIENT X662
+Yeah my food been bland for almost oh almost two months now, no taste, that's @@@.
+
+DOCTOR X662
+Did anybody ever talk to you about the MOVE Clinic?
+
+PATIENT X662
+No.
+
+DOCTOR X662
+It's where they can help you with uh not only dietary education.
+
+PATIENT X662
+Uh-huh.
+
+DOCTOR X662
+To make your meals a little bit more healthy from a diabetes standpoint.
+
+PATIENT X662
+Uh-huh.
+
+DOCTOR X662
+@@@ too much sugar.
+
+PATIENT X662
+Right.
+
+DOCTOR X662
+@@@.
+
+PATIENT X662
+Well I dilute my uh juices with you know seltzer water.
+
+DOCTOR X662
+Just drink water.
+
+PATIENT X662
+Yeah.
+
+DOCTOR X662
+You should probably know how much sugar.
+
+PATIENT X662
+That's right, right, right.
+
+DOCTOR X662
+Uh juice has.
+
+PATIENT X662
+Yeah I know.  Well I stopped that you know through @@@.
+
+DOCTOR X662
+Yeah okay.
+
+PATIENT X662
+Yeah it does have a lot of sugar, a lot of sugar.
+
+DOCTOR X662
+Yeah.
+
+PATIENT X662
+Almost putting on like up to 12 pounds a year you know just taking the cranberry juice is fine and I'm putting on pounds I drink it.
+
+DOCTOR X662
+Cranberry juice is @@@.
+
+PATIENT X662
+Drain you yeah right.
+
+DOCTOR X662
+And you take also some blood pressure medicines.
+
+PATIENT X662
+Uh-huh.
+
+DOCTOR X662
+And you take some mood medicines.  Do you check your blood pressures ever?
+
+PATIENT X662
+Yes.
+
+DOCTOR X662
+Okay.  Okay.  Right I'm just going through all these.  What do they look like at home?
+
+PATIENT X662
+Uh today it was 141/75 yeah.
+
+DOCTOR X662
+What do they usually run like?
+
+PATIENT X662
+They're basically around there you know.  That's why I got to sort of cut back on my smoking.  I still sneaking smoking.
+
+DOCTOR X662
+Oh boy.
+
+PATIENT X662
+You know.  You know I should tell you something, it's just kind of hard and then.
+
+DOCTOR X662
+I know that.
+
+PATIENT X662
+I know and then the patch you know, I think it's more psychological you know.
+
+DOCTOR X662
+You've tried patches?
+
+PATIENT X662
+Yeah.
+
+DOCTOR X662
+Okay.
+
+PATIENT X662
+Yeah.
+
+DOCTOR X662
+Have you been to the Smoking Cessation Clinic then.
+
+PATIENT X662
+Yeah, yeah.
+
+DOCTOR X662
+Okay.
+
+PATIENT X662
+Yeah.
+
+DOCTOR X662
+Alright, I can get you patches through the VA too.
+
+PATIENT X662
+Yeah uh I'm aware of that yeah.  But see I, you know I began you know trying to wean myself off.  I have cut back considerably you know.
+
+DOCTOR X662
+How much do you smoke now?
+
+PATIENT X662
+About uh four cigarettes a day.
+
+DOCTOR X662
+Okay.
+
+PATIENT X662
+Yeah.
+
+DOCTOR X662
+Alright well I mean there's only one way to go about it is to quit.
+
+PATIENT X662
+Right, that's true, that's true.
+
+DOCTOR X662
+Uh I mean I got to say yeah.
+
+PATIENT X662
+Considering a half a pack you know.
+
+DOCTOR X662
+Sure.
+
+PATIENT X662
+Yeah see my wife you know she made it a non-smoking house you know but she kicked cold turkey though.  I can't do that.  But she put on like almost like six, seven pounds though since she has stopped and I'm like I don't want no fat body.  @@@.  Cause she used to be petite you know.  She used to weigh like, like 128, now she's up to like 133 you know and man.  
+
+DOCTOR X662
+And @@@ diet control @@@.  When did you get out of the hospital?
+
+PATIENT X662
+Uh two weeks ago, two and a half weeks ago yeah.
+
+DOCTOR X662
+But they checked your hemoglobin A1c right when you were walking out the door.  If anything over the past year your diabetic control has gotten worse.
+
+PATIENT X662
+Yeah.
+
+DOCTOR X662
+Uh.  
+
+PATIENT X662
+You're sure?
+
+DOCTOR X662
+But then again were you taking metformin when you left the hospital?
+
+PATIENT X662
+Yes.  No, no, no I wasn't.  They just put me on uh metformin.  I been taking it almost like 13 days like.
+
+DOCTOR X662
+Okay.
+
+PATIENT X662
+Yeah.
+
+DOCTOR X662
+Okay.  So you weren't taking it before.
+
+PATIENT X662
+Right.
+
+DOCTOR X662
+Alright so maybe it'll be a little bit better yeah.  Um let's see here.  I mean you don't it to be this way, it's over a long time, you've got to make sure you're watching the diabetes because if you're not watching it you're gonna end up with eye problems, heart problems, kidney problems, you don't want to be on dialysis.
+
+PATIENT X662
+Yeah.
+
+DOCTOR X662
+Uh and have heart attacks.
+
+PATIENT X662
+Right.  
+
+DOCTOR X662
+But I can't put @@@ with you.
+
+PATIENT X662
+There's two pills but I think it used to, I have been consistent, you know I been pricking myself.
+
+DOCTOR X662
+Yeah.
+
+PATIENT X662
+You know I keep it charted down.  Like I say I got my chart out there in her purse but.
+
+DOCTOR X662
+The proper diet can do it for you.
+
+PATIENT X662
+Alright, you know.  I think the highest that it's been is like a 163.
+
+DOCTOR X662
+Okay.
+
+PATIENT X662
+And that's because I had, I ate uh, no I was drinking that Brisk Tea, that's what did it yeah.
+
+DOCTOR X662
+@@@ that high.
+
+PATIENT X662
+I know, I know.
+
+DOCTOR X662
+@@@ so we'll start right there.
+
+PATIENT X662
+Yeah.
+
+DOCTOR X662
+Cause you know.
+
+PATIENT X662
+Right, you're right.
+
+DOCTOR X662
+Yeah when you stop by the store I don't want you picking up juices.
+
+PATIENT X662
+Exactly.
+
+DOCTOR X662
+And if you've got to do something like a diet pop okay.
+
+PATIENT X662
+Okay.
+
+DOCTOR X662
+@@@ okay.
+
+PATIENT X662
+Alright.
+
+DOCTOR X662
+Um @@@.
+
+PATIENT X662
+Right.
+
+DOCTOR X662
+Salt.  
+
+PATIENT X662
+Right.
+
+DOCTOR X662
+Honestly @@@.
+
+PATIENT X662
+Gatorade.
+
+DOCTOR X662
+Full of sugar.
+
+PATIENT X662
+You right.
+
+DOCTOR X662
+Uh water.
+
+PATIENT X662
+Water, bottled water.
+
+DOCTOR X662
+Yeah, pretty simple.
+
+PATIENT X662
+Yeah.
+
+DOCTOR X662
+Milk.
+
+PATIENT X662
+Gas.
+
+DOCTOR X662
+Okay.  I'm gonna have you sit up here for a second.  Any problems with breathing when you're walking around at all or?
+
+PATIENT X662
+No.
+
+DOCTOR X662
+Any pain in here at all?
+
+PATIENT X662
+No.
+
+DOCTOR X662
+Can you open up your mouth?  And say ah.
+
+PATIENT X662
+Ah.
+
+DOCTOR X662
+Good.  Look straight up, straight up there you go.  Deep breath good, in and out, keep going good.  Good.  Have you seen the eye doctors at all?
+
+PATIENT X662
+Yes.
+
+DOCTOR X662
+When did you see them last?
+
+PATIENT X662
+I seen them about four months or so ago.
+
+DOCTOR X662
+Okay.
+
+PATIENT X662
+Yeah.  
+
+DOCTOR X662
+Cause you know as a diabetic you get to see the eye doctors every single year.  Was it here at the VA?
+
+PATIENT X662
+Yeah.
+
+DOCTOR X662
+Feel like you have good sensation in your feet?
+
+PATIENT X662
+Yeah.
+
+DOCTOR X662
+You mind taking off your shoes for a second?  Feel me touching you there?
+
+PATIENT X662
+Yes.
+
+DOCTOR X662
+Feel me touching there?
+
+PATIENT X662
+Yes.
+
+DOCTOR X662
+Okay.  Okay good.  @@@ diabetes okay.  I want to ask DOCTOR about your anticoagulation cause there are a couple of things that aren't entirely clear and I want to hash those out.
+
+PATIENT X662
+Okay.
+
+DOCTOR X662
+I'll be back in just a second okay.
+
+PATIENT X662
+Okay.  I can put on my clothes again?
+
+DOCTOR X662
+Oh yeah.
+
+PATIENT X662
+Alright.
+
+(DOCTOR OUT:  30:16  DOCTOR IN:  40:00)
+
+SECOND DOCTOR X662
+Hey PATIENT it's nice to see you.
+
+PATIENT X662
+Yes, yes, how you doing?
+
+SECOND DOCTOR X662
+I'm concerned.
+
+PATIENT X662
+Right.
+
+SECOND DOCTOR X662
+@@@ you need to follow up regularly okay.
+
+PATIENT X662
+Right, right.
+
+SECOND DOCTOR X662
+Right and like the blood doctor said this is long term, lifelong.
+
+PATIENT X662
+Yes, yes.
+
+SECOND DOCTOR X662
+Okay.  So um I just want you to tell me @@@ that way you don't have to stick yourself so much.
+
+PATIENT X662
+Okay.
+
+SECOND DOCTOR X662
+Okay so you know something we needed to talk to you about.
+
+PATIENT X662
+Right.
+
+SECOND DOCTOR X662
+Okay.
+
+PATIENT X662
+Okay.
+
+FIRST DOCTOR X662
+I'm going to put this here in the computer.  We're going to @@@ at 40.
+
+PATIENT X662
+Okay.
+
+FIRST DOCTOR X662
+So.  For your diabetes, have you ever heard of the MOVE Clinic at all?
+
+PATIENT X662
+Yes I have heard of them.
+
+FIRST DOCTOR X662
+Alright.
+
+PATIENT X662
+Yeah.
+
+FIRST DOCTOR X662
+Would you be interested in going to it?
+
+PATIENT X662
+Sure I mean if it's gonna help me of course yeah.
+
+FIRST DOCTOR X662
+Alright okay.  I'm gonna show you where it is and then you can go like at your leisure.
+
+PATIENT X662
+Okay.
+
+FIRST DOCTOR X662
+Um.  You're gonna have to start another blood pressure medicine unless you can start working on your diet getting salt out of it cause right now it's too high.
+
+PATIENT X662
+Okay.
+
+FIRST DOCTOR X662
+For being a diabetic.
+
+PATIENT X662
+Okay.
+
+FIRST DOCTOR X662
+Okay.  It's called hydrochlorothiazide.
+
+PATIENT X662
+Well they took me off of one pill.
+
+FIRST DOCTOR X662
+Well you gotta go back on.
+
+PATIENT X662
+Okay.
+
+FIRST DOCTOR X662
+Until you start taking care of yourself a little bit more yeah.
+
+PATIENT X662
+But they said the water pill was taking my potassium and what have you out, that's why they took me off.
+
+FIRST DOCTOR X662
+Well you know you're, it's just your blood pressure's back up so you can eat bananas if that's what it takes.
+
+PATIENT X662
+Yeah okay.  It's just good I like bananas.
+
+FIRST DOCTOR X662
+Um what was the medicine you used to take?
+
+PATIENT X662
+Uh the hydrochlorothiazide.
+
+FIRST DOCTOR X662
+How much did you take 12.5 or 25?
+
+PATIENT X662
+Uh a real small pill, it was 25 I believe.  Not real sure offhand but it should be in there.  I believe it was the 20 or something like that.  I only got like seven of them left before they.
+
+FIRST DOCTOR X662
+Of what?
+
+PATIENT X662
+The water pill.
+
+FIRST DOCTOR X662
+I think need @@@ get you back on it.
+
+PATIENT X662
+Okay.  And I'm down to three injections.
+
+FIRST DOCTOR X662
+When are you seeing the Anticoagulation Clinic?
+
+PATIENT X662
+Uh I thought I was seeing it today.
+
+FIRST DOCTOR X662
+Alright well they'll get you that today.
+
+PATIENT X662
+Yeah.  But the last visit she only gave me seven.
+
+FIRST DOCTOR X662
+Yeah because they want to keep seeing you.  Oh yeah we're gonna have to put you back on that hydrochlorothiazide.  Do you have any of those pills at home?
+
+PATIENT X662
+Yes like I said I have like.
+
+FIRST DOCTOR X662
+Oh you got plenty of them; I want you to go back on those.
+
+PATIENT X662
+Okay.
+
+FIRST DOCTOR X662
+There's one thing that you're gonna have to schedule, you know just as a follow up study.
+
+PATIENT X662
+What's that?
+
+FIRST DOCTOR X662
+Just to make sure things are looking okay up here uh you know just do some pictures @@@ but you have to call to set this up.
+
+PATIENT X662
+Okay.
+
+FIRST DOCTOR X662
+For you so, I'll have you call to get this set-up.
+
+PATIENT X662
+Okay.
+
+FIRST DOCTOR X662
+@@@ I'm gonna show you where the MOVE Clinic is also.
+
+PATIENT X662
+Okay.
+
+FIRST DOCTOR X662
+All the way down here.
+
+PATIENT X662
+Alright.
+
+FIRST DOCTOR X662
+I recommend stopping by and talking to them.
+
+PATIENT X662
+Okay.
+
+FIRST DOCTOR X662
+@@@ okay.
+
+PATIENT X662
+Well tomorrow would be a good day so.
+
+FIRST DOCTOR X662
+Alright.  Well you're good to go.
+
+PATIENT X662
+What about uh my medicines, like I say I'm only down to three so.
+
+FIRST DOCTOR X662
+Right so the pharmacist will see you @@@ and they'll fill that for you.
+
+PATIENT X662
+Okay.
+
+FIRST DOCTOR X662
+Okay.
+
+PATIENT X662
+Alright.  When you gonna see.
+
+
+
+PATIENT LEAVES:  46:12.
+
+
+
+

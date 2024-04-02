@@ -1,0 +1,848 @@
+
+DOCTOR X330
+PATIENT?
+
+PATIENT X330 
+Yep.
+
+DOCTOR X330
+Hi. @@@.
+
+PATIENT X330
+Good.
+
+DOCTOR X330
+How are things going?
+
+PATIENT X330
+Uh it's been a year or two when I've been to the office here.
+
+DOCTOR X330
+Okay.  @@@ right here.
+
+PATIENT X330
+Yeah.
+
+DOCTOR X330
+@@@.
+
+PATIENT X330
+Okay.  
+
+DOCTOR X330
+What's been going on?
+
+PATIENT X330
+Well, I've been getting @@@ you know.
+
+DOCTOR X330
+Yeah.
+
+PATIENT X330
+And I don't want to get sick.
+
+DOCTOR X330
+Alright I @@@.
+
+PATIENT X330
+So and another thing is uh some of my prescriptions one has expired.
+
+DOCTOR X330
+Okay.
+
+PATIENT X330
+And some are about to expire so.
+
+DOCTOR X330
+Alright we'll get them refilled then.  
+
+PATIENT X330
+Other than that, good to see you alright, that's alright.
+
+DOCTOR X330
+That's alright.  So @@@ everything else is good today.
+
+PATIENT X330
+Yeah.
+
+DOCTOR X330
+We checked a couple of things.  Did you go to the Lab today?
+
+PATIENT X330
+I didn't go to the Lab.  I had been to the labs two weeks ago.
+
+DOCTOR X330
+Okay.
+
+PATIENT X330
+I think I seen that, what's that other, @@@.
+
+DOCTOR X330
+Right, yeah right.
+
+PATIENT X330
+So it's only been two weeks I didn't want to go back.
+
+DOCTOR X330
+Well okay.  Still @@@.  Okay, @@@.
+
+PATIENT X330
+Yeah.
+
+DOCTOR X330
+So that was back in December.
+
+PATIENT X330
+No it was back in March I think.
+
+DOCTOR X330
+Uh they don't have one for March.  They just have the renal function.
+
+PATIENT X330
+Oh okay.  So that's a different one.
+
+DOCTOR X330
+We'll probably have to get some labs today after this.
+
+PATIENT X330
+Okay.
+
+DOCTOR X330
+We'll just go over your meds.
+
+PATIENT X330
+Alright.  
+
+DOCTOR X330
+Uh.  @@@.  You still taking the Lantus?
+
+PATIENT X330
+Is that the insulin?
+
+DOCTOR X330
+How much?
+
+PATIENT X330
+Well I'm taking, now I'm taking 30-40.  I lowered it from what it was from 30 to 80 @@@.
+
+DOCTOR X330
+And what are you getting in the morning?
+
+PATIENT X330
+Uh I get probably 115.
+
+DOCTOR X330
+Okay.  Maybe 100 to 115.
+
+PATIENT X330
+Yeah.
+
+DOCTOR X330
+Okay.  @@@.
+
+PATIENT X330
+@@@ in the past uh, uh I would be working and stuff and my sugar would drop.
+
+DOCTOR X330
+Okay.
+
+PATIENT X330
+Okay.  So they told me that would lower it.
+
+DOCTOR X330
+That lowers that yeah.
+
+PATIENT X330
+So.  
+
+DOCTOR X330
+But no problems like problems with urination?  Frequently drinking water?
+
+PATIENT X330
+No, I go to the bathroom like twice every night.
+
+DOCTOR X330
+Okay.  Not a problem for you?
+
+PATIENT X330
+Not a problem.
+
+DOCTOR X330
+So you've had the erectile dysfunction?
+
+PATIENT X330
+Right.
+
+DOCTOR X330
+That gets a reaction huh.  And you've uh, you've had that for a while?
+
+PATIENT X330
+Yeah, it uh just got worse.
+
+DOCTOR X330
+Okay.
+
+PATIENT X330
+Okay.
+
+DOCTOR X330
+How's the sleep been?
+
+PATIENT X330
+The sleeping is pretty good you know.  I'm working a job and it's pretty physical and so I take, sometimes I take sleeping pills, over-the-counter.
+
+DOCTOR X330
+Okay.
+
+PATIENT X330
+And it helps me out a lot you know.  
+
+DOCTOR X330
+You don't wake up at night @@@ or anything like that?
+
+PATIENT X330
+I probably get it, you know I wake.
+
+DOCTOR X330
+Is it to urinate or?
+
+PATIENT X330
+Yes to urinate.
+
+DOCTOR X330
+Do you ever get short of breath?
+
+PATIENT X330
+No, no.
+
+DOCTOR X330
+Okay um, nothing that's concerning for sleep apnea.
+
+PATIENT X330
+No.
+
+DOCTOR X330
+So that's @@@.  Anything @@@ smaller or nothing like that?
+
+PATIENT X330
+No, no.
+
+DOCTOR X330
+@@@.
+
+PATIENT X330
+@@@.
+
+DOCTOR X330
+So I'll just keep this on the medication list, sounds like nothing else is contributing.  Are you still smoking?
+
+PATIENT X330
+No I quit.
+
+DOCTOR X330
+Okay.  For how long?
+
+PATIENT X330
+I've been cheating and having a cigarette so.
+
+DOCTOR X330
+So like every week or so?
+
+PATIENT X330
+Yeah.  But the first @@@.
+
+DOCTOR X330
+Good, good.  Alright um.  What are you working doing now?
+
+PATIENT X330
+Well kind of, all I'm doing is taking this particular part and putting into a soap, taking it out of a box and cleaning to a soap.
+
+DOCTOR X330
+That sounds pretty cool.
+
+PATIENT X330
+And they call it NPN.
+
+DOCTOR X330
+Okay.
+
+PATIENT X330
+It's a shaft bearing.
+
+DOCTOR X330
+Okay.
+
+PATIENT X330
+For @@@.
+
+DOCTOR X330
+You do it cause you like it?
+
+PATIENT X330
+@@@.
+
+DOCTOR X330
+I mean what the hell.  
+
+PATIENT X330
+So I take it as it comes.  I might @@@.
+
+DOCTOR X330
+Yeah that's alright.  Um you visited the cardiologist and you didn't want an ICD put in?
+
+PATIENT X330
+No I didn't want it put in.
+
+DOCTOR X330
+Okay.  Cause you've got risks @@@ I mean you don't have to have it put in, it's proven to help people survive longer and people @@@.
+
+PATIENT X330
+Right.
+
+DOCTOR X330
+You know, think about until the next time we can talk about it again.
+
+PATIENT X330
+Yeah, yeah.
+
+DOCTOR X330
+So we are going to recheck cholesterol today too.  It was not where we wanted the last time but it was close.
+
+PATIENT X330
+Yeah.
+
+DOCTOR X330
+Um checked the kidney function again.  Um are you using the patches for the nicotine?
+
+PATIENT X330
+Yes.
+
+DOCTOR X330
+Okay.  @@@.  And how about that colonoscopy?
+
+PATIENT X330
+Yeah I had one four or five years ago.
+
+DOCTOR X330
+Yeah you had one in 2006 but you had something in there that was a little big.
+
+PATIENT X330
+Oh okay.
+
+DOCTOR X330
+A polyp.
+
+PATIENT X330
+@@@ okay.
+
+DOCTOR X330
+That's why so it's one of those things that we'd like to follow up because it could go into a cancer and I think after like three years you should probably have it checked.  @@@ if we checked it now and it's not there then you can go back and say okay we'll back off a little bit but I think it's one of @@@.
+
+PATIENT X330
+Right.
+
+DOCTOR X330
+That make sense?
+
+PATIENT X330
+Can it wait for like uh, see what it is, is I'm working and I have to take the whole day off.
+
+DOCTOR X330
+Right.
+
+PATIENT X330
+I can go off and on with work and I don't know maybe I can work days you know, I like to be working.
+
+DOCTOR X330
+Can you schedule that ahead of time because @@@ for a while so I'm worried you know about how much time is passing.
+
+PATIENT X330
+Uh-huh.
+
+DOCTOR X330
+So I want to get it done soon.
+
+PATIENT X330
+Okay.  Uh like when?
+
+DOCTOR X330
+Next few months.
+
+PATIENT X330
+Next few months okay.  Uh let's see this is April, let's go for June.
+
+DOCTOR X330
+I'll write that in here.
+
+PATIENT X330
+Okay.
+
+DOCTOR X330
+Get the labs today and @@@.  
+
+PATIENT X330
+Yeah.
+
+DOCTOR X330
+And I'll put a note in it.  So when they call you you just tell them to make it and I'll put that in.  There's no blood in your stool, nothing like that?
+
+PATIENT X330
+No.
+
+DOCTOR X330
+Abnormal bowel movements?
+
+PATIENT X330
+Yeah I they're normal.
+
+DOCTOR X330
+How's the weight doing?
+
+PATIENT X330
+Uh the weight, I'm trying to lose weight so uh it's been @@@.
+
+DOCTOR X330
+And you said you can't do the MOVE Clinic @@@.
+
+PATIENT X330
+Yeah.  Uh one question I wanted to bring up.
+
+DOCTOR X330
+Yep.
+
+PATIENT X330
+My father had shingles.
+
+DOCTOR X330
+Okay.
+
+PATIENT X330
+So is there like a vaccine I can take?
+
+DOCTOR X330
+Yeah there's actually a vaccine that um we have um that we can give to you.
+
+PATIENT X330
+Okay.  
+
+DOCTOR X330
+And if you want it I can give it to you today.
+
+PATIENT X330
+Yeah.
+
+DOCTOR X330
+That'll be fine, good.  It's a one time deal so you don't have to do it ever again, ever again.
+
+PATIENT X330
+Okay.
+
+DOCTOR X330
+@@@.  Are you still taking the pill, the glipizide pill?
+
+PATIENT X330
+Yes.
+
+DOCTOR X330
+Okay.  Along with the insulin?
+
+PATIENT X330
+Along with the insulin.  So I'm supposed to take two in the morning and two in the evening, sometimes I take one in the evening.
+
+DOCTOR X330
+We could almost stop and just use all insulin.
+
+PATIENT X330
+Okay.
+
+DOCTOR X330
+@@@.
+
+PATIENT X330
+Okay.
+
+DOCTOR X330
+If you want to stop those pills.
+
+PATIENT X330
+Yeah.  That means I would have to go to the fast-acting one?
+
+DOCTOR X330
+Oh no, all you have to do is the insulin @@@.
+
+PATIENT X330
+Okay.
+
+DOCTOR X330
+You just do the insulin by itself.
+
+PATIENT X330
+Yeah that'd be fine.
+
+DOCTOR X330
+Okay.  Let's see, how about what we do is uh, 20 b.i.d. of the glipizide.  Let me see what the pharmacist gave you last time.  So let's keep it on and we'll talk with her and then um we'll titrate it down.
+
+PATIENT X330
+Okay.
+
+DOCTOR X330
+@@@ get off of it.  
+
+PATIENT X330
+Right, right.
+
+DOCTOR X330
+And you went to the eye doctor a year ago; you're due again in two months.
+
+PATIENT X330
+In two months okay.
+
+DOCTOR X330
+Yeah I'll just put that order in so you can schedule that.  That sounds good.  And @@@.
+
+PATIENT X330
+@@@ kidney.
+
+DOCTOR X330
+Yeah.
+
+PATIENT X330
+And @@@ drugs that work on dysfunction, do you have Cialis?
+
+DOCTOR X330
+Uh right now we have Viagra.
+
+PATIENT X330
+Okay.
+
+DOCTOR X330
+That'll work for you?
+
+PATIENT X330
+That'll work.  I haven't even used it, I've never used it.
+
+DOCTOR X330
+So basically what you do is um take it like um half an hour before you have the desire and you got to give it a little time.
+
+PATIENT X330
+Right, right.
+
+DOCTOR X330
+And let me know, as long as it's working.
+
+PATIENT X330
+Right.
+
+DOCTOR X330
+Um @@@ if your blood pressure is low don't take it.
+
+PATIENT X330
+Right.
+
+DOCTOR X330
+And then as long as you don't stay erect longer than four or six hours you should be fine.
+
+PATIENT X330
+@@@.
+
+DOCTOR X330
+@@@ give me a call.
+
+PATIENT X330
+Okay.  Got it.
+
+DOCTOR X330
+Shouldn't be a problem @@@.  I haven't anyone complain about that.
+
+PATIENT X330
+Okay.
+
+DOCTOR X330
+Yeah I might ask them.
+
+PATIENT X330
+Yeah.  @@@.
+
+DOCTOR X330
+There you go.  @@@.  Viagra.
+
+PATIENT X330
+So can I pick it up today again?
+
+DOCTOR X330
+Yeah.
+
+PATIENT X330
+Okay.  Well with the carvedilol.
+
+DOCTOR X330
+Carvedilol?
+
+PATIENT X330
+Yeah, that expired and I need that reordered yeah and potassium expired too.
+
+DOCTOR X330
+Okay.
+
+PATIENT X330
+So.
+
+DOCTOR X330
+We'll order both those too.
+
+PATIENT X330
+Okay.
+
+DOCTOR X330
+I'll give you two pills to start and just let me know if it works we'll refill it.
+
+PATIENT X330
+Okay.  @@@.
+
+DOCTOR X330
+Uh-huh.  Potassium and then what else.  Yeah I'll get all these and you can pick them up today.
+
+PATIENT X330
+Okay.
+
+DOCTOR X330
+And @@@.  Okay.  We'll see if I have any @@@ reminders.  @@@.  I can't believe @@@.
+
+PATIENT X330
+What is that for?
+
+DOCTOR X330
+Uh test for HIV.
+
+PATIENT X330
+@@@.  Can I do it today?
+
+DOCTOR X330
+Yeah it's just a blood test.
+
+PATIENT X330
+Oh okay yeah, yeah.  @@@.
+
+DOCTOR X330
+@@@.
+
+PATIENT X330
+Yeah.
+
+DOCTOR X330
+Okay.  
+
+PATIENT X330
+I can get it all at once.
+
+DOCTOR X330
+Alright we've gone over all the clinical reminders.  Alright you want to hop up here.
+
+PATIENT X330
+Yep.
+
+DOCTOR X330
+@@@ alright good.  Deep breaths, again, good.  @@@.
+
+PATIENT X330
+No.
+
+DOCTOR X330
+@@@.  Good.  Now I am going to check out your feet.
+
+PATIENT X330
+Yeah.
+
+DOCTOR X330
+Can you take those off?  @@@.
+
+PATIENT X330
+Yeah.  You want me to take off my socks too?
+
+DOCTOR X330
+Uh yeah.  Oh you're also due for a tetanus.  Let me check the record.  Alright the tetanus was in 2004, you’re not due.
+
+PATIENT X330
+Is it due?
+
+DOCTOR X330
+No you're not due for that one.
+
+PATIENT X330
+Okay.
+
+DOCTOR X330
+Not for a couple years, it should be alright.  Can you feel all this?
+
+PATIENT X330
+Yeah.
+
+DOCTOR X330
+I'll do that one.  This cold?  Feel it in here?
+
+PATIENT X330
+Yes.
+
+DOCTOR X330
+It looks good.
+
+PATIENT X330
+Alright.
+
+DOCTOR X330
+So what else can you do?  We'll get you the zoster vaccine today.
+
+PATIENT X330
+Okay.
+
+DOCTOR X330
+I'll have you back in three months.
+
+PATIENT X330
+Okay.
+
+DOCTOR X330
+That's it.  Any questions?
+
+PATIENT X330
+No, no I.
+
+DOCTOR X330
+Make sure you pick up those meds.  Let me know if it works.
+
+PATIENT X330
+Right, right.  Who do I see for the shingles vaccine?
+
+DOCTOR X330
+The nurse, so after you go out there just let them know that you need the shot today.
+
+PATIENT X330
+Yeah okay.
+
+DOCTOR X330
+It's ordered so.
+
+PATIENT X330
+When I check out?
+
+DOCTOR X330
+Yeah.
+
+PATIENT X330
+Alright, okay.
+
+DOCTOR X330
+Need some help doing that?
+
+PATIENT X330
+Yes.
+
+DOCTOR X330
+Everything's going well I think you know, one thing that will help everything is losing a little bit of weight.
+
+PATIENT X330
+That's what I've been trying.
+
+DOCTOR X330
+So what have you been trying to do for it?
+
+PATIENT X330
+Well I'm trying to cut out the @@@ bread and stuff.  So sometimes I eat fries I shouldn't be eating.  
+
+DOCTOR X330
+Um the big thing I think is um watching portions, how much are you eating.  Just cut it down.
+
+PATIENT X330
+Right.
+
+DOCTOR X330
+Don't take everything away but don't eat as much @@@ stuff.
+
+PATIENT X330
+Right.
+
+DOCTOR X330
+And do you exercise at all?
+
+PATIENT X330
+I walk.
+
+DOCTOR X330
+Okay.  How far do you walk?
+
+PATIENT X330
+Oh half a mile.
+
+DOCTOR X330
+Oh that's pretty good.  Keep doing that.
+
+PATIENT X330
+Half mile, mile.
+
+DOCTOR X330
+Good.  When I see you next time, let's see what you're at right now, you are at 208 pounds.
+
+PATIENT X330
+Yeah.
+
+DOCTOR X330
+You gained 10 last time, you've been up a little higher and a little lower.
+
+PATIENT X330
+Right.
+
+DOCTOR X330
+You think you can come in at 200 at the next visit?
+
+PATIENT X330
+Yeah.
+
+DOCTOR X330
+Alright.  That's your goal.
+
+PATIENT X330
+That's my goal.
+
+DOCTOR X330
+And that'll help with the erectile dysfunction too.
+
+PATIENT X330
+Yeah.  I think it all has something to do with it.
+
+DOCTOR X330
+Hmm.  Alright.
+
+PATIENT X330
+Now do we do the blood tests first and then pick up the medicine?
+
+DOCTOR X330
+Yeah that'll give them a little time so get the shot.
+
+PATIENT X330
+Get the shot and then the blood tests and then the medicines okay.
+
+DOCTOR X330
+That's it.
+
+PATIENT X330
+Doc thanks.
+
+DOCTOR X330
+Alright.  Good to see you.
+
+PATIENT X330
+Yeah.  Take care now. Okay.
+
+DOCTOR X330
+Let me know when you have the colonoscopy.
+
+PATIENT X330
+Okay.  
+
+PATIENT LEAVES:  65:23.
+
+Time is 2:54 p.m.
+
+
+
+

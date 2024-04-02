@@ -1,0 +1,488 @@
+
+DOCTOR X417
+PATIENT?
+
+PATIENT X417
+Okay doc.  Good to see you.
+
+DOCTOR X417
+Good to see you, come on in.
+
+PATIENT X417
+Alright.  How you doing man?
+
+DOCTOR X417
+Good.
+
+PATIENT X417
+Good, good.
+
+DOCTOR X417
+Go on ahead of me.  
+
+PATIENT X417
+Okie dokie.
+
+DOCTOR X417
+Okay so I've read over your chart before you came in here.
+
+PATIENT X417
+Uh-huh.
+
+DOCTOR X417
+Uh what's been going on?
+
+PATIENT X417
+Same oh, same oh.
+
+DOCTOR X417
+Same oh, same oh, you had some cataract surgery huh?
+
+PATIENT X417
+Yeah.
+
+DOCTOR X417
+How's your vision now?
+
+PATIENT X417
+Just fine.
+
+DOCTOR X417
+Yeah beautiful right?
+
+PATIENT X417
+Beautiful.
+
+DOCTOR X417
+Those things work out great.  I've seen a few of those.
+
+PATIENT X417
+Yes uh you know cataracts can do to you.
+
+DOCTOR X417
+Yeah I know, I know.
+
+PATIENT X417
+I took my glasses and I haven't put them back on.
+
+DOCTOR X417
+I know.
+
+PATIENT X417
+And I say wow, you know.  It was all like something brand new.
+
+DOCTOR X417
+Perfectly clear huh.
+
+PATIENT X417
+But they got to do something to this eye though the right eye.
+
+DOCTOR X417
+Yeah.
+
+PATIENT X417
+I don't know if I told you but I have a little shot of glaucoma or @@@.
+
+DOCTOR X417
+Okay.  Well it looks like that's good.
+
+PATIENT X417
+Okay.
+
+DOCTOR X417
+Uh so you're blood pressure's a little bit high today.
+
+PATIENT X417
+I know it.  This is what I had doc, they gave me this the last time.
+
+DOCTOR X417
+Hydrochlorothiazide and you're out of it?
+
+PATIENT X417
+Yeah.
+
+DOCTOR X417
+Oh no.
+
+PATIENT X417
+Yeah.
+
+DOCTOR X417
+Oh you looking at your meds.
+
+PATIENT X417
+Yeah, well I still, I ran out.
+
+DOCTOR X417
+Yeah we should have done your refills.
+
+PATIENT X417
+Yes.  Well I was hoping I could get that today.
+
+DOCTOR X417
+Absolutely.  When was the last time you had these filled?
+
+PATIENT X417
+Hmm I guess about maybe two weeks, three weeks ago.
+
+DOCTOR X417
+Two or three weeks ago okay.  If you run out of these again, you need to call and get refills.
+
+PATIENT X417
+Oh do they do that?
+
+DOCTOR X417
+Yeah they'll mail them to you.
+
+PATIENT X417
+Oh okay.
+
+DOCTOR X417
+Yeah, yeah, yeah, yeah.
+
+PATIENT X417
+Good.
+
+DOCTOR X417
+So I'm gonna go ahead and give you the same amount of the pills.
+
+PATIENT X417
+Alrighty.
+
+DOCTOR X417
+Okay.  I'm going to increase this amount okay.
+
+PATIENT X417
+Gotcha.  Whatever you say doc.
+
+DOCTOR X417
+Okay.
+
+PATIENT X417
+Whatever you say.
+
+DOCTOR X417
+And @@@.
+
+PATIENT X417
+Right.
+
+DOCTOR X417
+Alright you know what, you actually higher than 4 too.
+
+PATIENT X417
+Yeah.
+
+DOCTOR X417
+So you know, I'll increase both of these okay.
+
+PATIENT X417
+Okay.
+
+DOCTOR X417
+Alright, okay and we'll go from there.  Any other problems at all?
+
+PATIENT X417
+No.
+
+DOCTOR X417
+You don't have any plans for Christmas?
+
+PATIENT X417
+No, no.  @@@.
+
+DOCTOR X417
+No plan, do you have any plans.
+
+PATIENT X417
+Oh yeah, well you know like I was coming here.
+
+DOCTOR X417
+Yeah.
+
+PATIENT X417
+And I was full.
+
+DOCTOR X417
+Oh is that right.
+
+PATIENT X417
+Eight grandchildren.
+
+DOCTOR X417
+Oh my goodness.
+
+PATIENT X417
+Oh my God.
+
+DOCTOR X417
+Oh you're gonna be busy.
+
+PATIENT X417
+I'm busy right now.
+
+DOCTOR X417
+Yeah I know.  Let me take a listen to you.
+
+PATIENT X417
+Okay.
+
+DOCTOR X417
+Yeah I'm headed off to xxx xxx myself today.
+
+PATIENT X417
+Oh yeah, man that's great.
+
+DOCTOR X417
+Where are your family members coming from?  Are they from xxx?
+
+PATIENT X417
+Right, I have five kids.
+
+DOCTOR X417
+Deep breath for me.  You grew up here all your life?
+
+PATIENT X417
+All my life.  Born and raised here yeah.  My dad was from @@@.
+
+DOCTOR X417
+Oh really.
+
+PATIENT X417
+Yeah so.
+
+DOCTOR X417
+Hmm.
+
+PATIENT X417
+You know he had to become like a citizen of the United States and all that real good stuff.  But I been here all my life.  Served in the Marine Corps and all that real good stuff yeah.  50 to 56 Korea.
+
+DOCTOR X417
+Have you ever had an abdominal ultrasound, do you know?
+
+PATIENT X417
+Not really.  I know they did uh, you know they did something with my colon here years ago.
+
+DOCTOR X417
+Yeah, yeah.
+
+PATIENT X417
+And uh that's the only thing.
+
+DOCTOR X417
+Have you ever had any bone reduction?
+
+PATIENT X417
+No.
+
+DOCTOR X417
+Okay.  How about a flu shot?
+
+PATIENT X417
+No, thank you, no thank you.
+
+DOCTOR X417
+You no thank you okay.
+
+PATIENT X417
+(Laughter)
+
+DOCTOR X417
+Well I think you should get, at least get a pneumonia vaccine.  It's once every five years.
+
+PATIENT X417
+Uh-huh.
+
+DOCTOR X417
+Um, you interested in getting that then?  You want to get this done today?
+
+PATIENT X417
+What.
+
+DOCTOR X417
+The pneumonia vaccine.
+
+PATIENT X417
+Uh I don't want no shots.
+
+DOCTOR X417
+Okay.
+
+PATIENT X417
+Yeah I feel good now.
+
+DOCTOR X417
+Okay I know you do but maybe not this time but like the next time you think about it.
+
+PATIENT X417
+Next time maybe.
+
+DOCTOR X417
+Okay.  I want you to think about it cause like the pneumonia vaccine cause most people get pneumonia and when you get older it's one of those important vaccines to get.
+
+PATIENT X417
+@@@.
+
+DOCTOR X417
+You know how when you were a little kid you got all those shots.  Same thing occurs when you get a little bit older.
+
+PATIENT X417
+Well okay.
+
+DOCTOR X417
+Okay.
+
+PATIENT X417
+Like I said I feel real good.  @@@.
+
+DOCTOR X417
+Okay, alright, we'll leave you alone then; we'll leave you alone then for now.
+
+PATIENT X417
+Thank you DOCTOR, I appreciate that.
+
+DOCTOR X417
+Okay.
+
+PATIENT X417
+So the higher dose will be better for me though huh?
+
+DOCTOR X417
+Yeah I'm doing it right now.
+
+PATIENT X417
+Okay.  But they will mail them out, that's good.
+
+DOCTOR X417
+They will.  Do you want them to mail them or do you want to pick them up?
+
+PATIENT X417
+No I'll pick them up today.
+
+DOCTOR X417
+And then from then on they'll mail them out.
+
+PATIENT X417
+Okay, right.
+
+DOCTOR X417
+Okay.  You call in for them.  Now you're gonna have to talk with, when you pick them from the Pharmacy today.
+
+PATIENT X417
+Yes.
+
+DOCTOR X417
+Ask them when you're running out of medication how do you get more?
+
+PATIENT X417
+Okay.
+
+DOCTOR X417
+And they'll give the number in order for you to call when you start running out.
+
+PATIENT X417
+Oh okay.
+
+DOCTOR X417
+When you start running out.
+
+PATIENT X417
+Okay.
+
+DOCTOR X417
+I'll be back okay.
+
+PATIENT X417
+Yes sir.
+
+(DOCTOR OUT:  48:48  DOCTOR IN:  51:31)
+
+DOCTOR X417
+Okay so uh everything is pretty much done for you.  In two to four weeks though, I want you to come back and get blood drawn and then just get a blood pressure check.
+
+PATIENT X417
+Two to four.
+
+DOCTOR X417
+Two to four weeks.
+
+PATIENT X417
+Two to four weeks.
+
+DOCTOR X417
+Like a month from now okay.
+
+PATIENT X417
+From today's date.
+
+DOCTOR X417
+Yeah from today's date.  Just come in and get your blood drawn okay.  Cause we're increasing those medications right and uh just get a blood pressure check by one of the nurses.  I'm gonna write that down and they're gonna make you an appointment.
+
+PATIENT X417
+Okay.  Good.  Yeah @@@.
+
+DOCTOR X417
+I want you to make the appointment before you leave.
+
+PATIENT X417
+Okay.
+
+DOCTOR X417
+Uh and then you should see me in about four months.
+
+PATIENT X417
+Oh okay.
+
+DOCTOR X417
+Okay.
+
+PATIENT X417
+Yeah.
+
+DOCTOR X417
+Uh and you should be set to go.  I'll give you that.
+
+PATIENT X417
+Okay.
+
+DOCTOR X417
+Okay.
+
+PATIENT X417
+Alright.  I don't need that?
+
+DOCTOR X417
+You know, uh you @@@ what would you like me to do with this?
+
+PATIENT X417
+@@@.
+
+DOCTOR X417
+Okay.
+
+PATIENT X417
+Now who do I give this to doctor?
+
+DOCTOR X417
+You go outside and you give it to the clerk in the front okay.  Have a Merry Christmas.
+
+PATIENT X417
+Good talking to you okay, same to you.
+
+DOCTOR X417
+Thank you very much.
+
+PATIENT X417
+And your family.
+
+DOCTOR X417
+Yeah thank you very much, take care.
+
+PATIENT X417
+Okay.
+
+PATIENT LEAVES 52:53
+
+10:00 a.m.
+
+

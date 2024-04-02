@@ -1,0 +1,362 @@
+
+DOCTOR X250 
+PATIENT?
+
+PATIENT X250
+Yeah.
+
+DOCTOR X250
+I'm DOCTOR.  @@@.  Tell me what brings you in here today.
+
+PATIENT X250
+@@@ primary doctor, I don't know why @@@.  You know @@@.
+
+DOCTOR X250
+What's that?
+
+PATIENT X250
+I didn't have a primary doctor.
+
+DOCTOR X250
+It looks like you do, DOCTOR.
+
+PATIENT X250
+Well I, I, oh just go ahead.
+
+DOCTOR X250
+What's that?
+
+PATIENT X250
+@@@.
+
+DOCTOR X250
+Uh well what I can tell you is unfortunately they probably shouldn't have set you up with me uh.
+
+PATIENT X250
+Because.
+
+DOCTOR X250
+I'm leaving in three months uh so.
+
+PATIENT X250
+I think that's a problem.
+
+DOCTOR X250
+What's that?
+
+PATIENT X250
+@@@ problem.
+
+DOCTOR X250
+Yeah uh, is there anything I can do for you today?
+
+PATIENT X250
+Well @@@ patches, @@@ blotches.
+
+DOCTOR X250
+Let's see when you last saw DOCTOR.  I apologize.
+
+PATIENT X250
+No problem.
+
+DOCTOR X250
+They uh, they probably shouldn't of set you up with me.  I know you've got a lot of issues um, unfortunately I'll be gone by the time we would.
+
+PATIENT X250
+You're going to practice medicine?
+
+DOCTOR X250
+Yeah I'm actually going to do just inpatient stuff, like if you were admitted to the hospital and I'm moving to xxx xxx.
+
+PATIENT X250
+Nice.
+
+DOCTOR X250
+Uh I'd be happy to see you again but I'm leaving.  I don't want you to think that I'm bailing on you uh it's just once you're in the system @@@.
+
+PATIENT X250
+Right.
+
+DOCTOR X250
+They're going to set you up with who's gonna be here longer uh.  Okay let's just kind of go over your stuff real quick to see if there's anything I can help you with, if you'll just bear with me for a moment uh.  Alright any uh chest pains?
+
+PATIENT X250
+Once every while over here.
+
+DOCTOR X250
+And is that new?
+
+PATIENT X250
+Yes.
+
+DOCTOR X250
+How long has that been going on for?
+
+PATIENT X250
+For just a few months.
+
+DOCTOR X250
+Now do you have a cardiologist?  A heart doctor?
+
+PATIENT X250
+No.
+
+DOCTOR X250
+And you had a, you've had a bypass.
+
+PATIENT X250
+Yes.
+
+DOCTOR X250
+And when do you feel that pain?
+
+PATIENT X250
+I don't know it just comes in.
+
+DOCTOR X250
+And what's it feel like?
+
+PATIENT X250
+Like a deep pain, just a deep, like somebody.
+
+DOCTOR X250
+How long does it last?
+
+PATIENT X250
+A couple seconds, I don't even know how long.
+
+DOCTOR X250
+Any trouble breathing, nausea, vomiting, anything like that?
+
+PATIENT X250
+No.
+
+DOCTOR X250
+Does it ever move around?
+
+PATIENT X250
+Yeah I always move, I mean how do you ever just sit and just, but I got back problems though.
+
+DOCTOR X250
+You know this couple of seconds pain, is it kind of sharp?
+
+PATIENT X250
+Yes.
+
+DOCTOR X250
+Yeah that's typically uh musculoskeletal pain.
+
+PATIENT X250
+Uh-huh.
+
+DOCTOR X250
+It doesn't really sound uh cardiac uh I mean it doesn't sound like that's coming from your heart.
+
+PATIENT X250
+Good.
+
+DOCTOR X250
+You're on aspirin, citalopram, hydrochlorothiazide, metformin, omeprazole, simvastatin, Valsartan.
+
+PATIENT X250
+Them are just goes up for blood pressure?
+ 
+DOCTOR X250
+Valsartan and hydrochlorothiazide.  And are you taking carvedilol Coreg?
+
+PATIENT X250
+Yes.
+
+DOCTOR X250
+It looks like some of these expired; I can try and reorder a bunch of them for you.  Your blood sugar looks pretty well controlled, that was quite a while ago, @@@.  So we want to get repeat blood work on you before you see your next doctor.
+
+PATIENT X250
+Okay.
+
+DOCTOR X250
+Okay, I'll reorder that Coreg to make sure you get that uh.  You're on Plavix as well?
+
+PATIENT X250
+Yes.
+
+DOCTOR X250
+And you're wearing a BiPAP machine, CPAP machine?  And you're not smoking?
+
+PATIENT X250
+No.
+
+DOCTOR X250
+Are you on the bupropion?
+
+PATIENT X250
+Yeah it's the pain medicine.  I have back pain.
+
+DOCTOR X250
+No this is a medication for smoking.
+
+PATIENT X250
+Oh @@@.
+
+DOCTOR X250
+Okay.
+
+PATIENT X250
+No I'm done, getting too old.
+
+DOCTOR X250
+Your thyroid function is normal.  Okay, have a seat up here.  Take a few deep breaths.  Just breathe normally.  So you know looking at your stuff here, I would continue the same medications for now.
+
+PATIENT X250
+Yeah.
+
+DOCTOR X250
+Um, really I think the thyroid function looks good, a little below normal from today.  We don't need to change anything for now.  Otherwise we'll need to have you, unfortunately, get another doctor.  I apologize.
+
+PATIENT X250
+No need to apologize.
+
+DOCTOR X250
+If I would have known that's why you were coming in I would have tried to change things but uh I didn't know.
+
+PATIENT X250
+No problem.  @@@.
+
+DOCTOR X250
+Um is there anything else I can do for you?
+
+PATIENT X250
+No everything is fine doc.
+
+DOCTOR X250
+Well let's try and set you free here.  
+
+PATIENT X250
+@@@.  I'm supposed to be using @@@.  Sometimes I just go to sleep eight hours, I'm perfectly fine, no problems and yesterday I was shopping with my wife, sleeping in the car and I @@@, I was sleeping, why is that?
+
+DOCTOR X250
+Now are you wearing the CPAP the entire time at night?
+
+PATIENT X250
+No.
+
+DOCTOR X250
+That machine.
+
+PATIENT X250
+Right no.
+
+DOCTOR X250
+How long do you wear it?
+
+PATIENT X250
+Sometimes I just kind of rip it, I would say.
+
+DOCTOR X250
+Right.
+
+PATIENT X250
+But I would say six months it was perfect and I didn't change any.
+
+DOCTOR X250
+Um that I mean that is likely why you've got this obesity hypoventilation syndrome uh so it's very important that you wear that CPAP.
+
+PATIENT X250
+Okay.
+
+DOCTOR X250
+You know other things could be thyroid problems but we just got your blood work today and that looks okay.  So you know the most.
+
+PATIENT X250
+Now that's just my question.  I don't why, is it something like being tired.  Cause everything is the same every day.
+
+DOCTOR X250
+The thing with your diagnosis and this obesity hypoventilation syndrome, that's one of the symptoms.  Uh it's just daytime fatigue, the sleepiness.  So if you don't wear the CPAP the entire time, you know if you're wearing your CPAP all day and all night then we would say maybe we need to look into other things.
+
+PATIENT X250
+Yes.
+
+DOCTOR X250
+But even then you could still have symptoms because you're not, you're gas exchange isn't normal.
+
+PATIENT X250
+Uh-huh.
+
+DOCTOR X250
+@@@ and it gets worse at night and when that happens, your CO2 starts to build up.  
+
+PATIENT X250
+Right.
+
+DOCTOR X250
+Your carbon dioxide starts to build up and you start feeling sleepy uh, so that's why it's important to keep that CPAP on because that will help maintain the normal level of carbon dioxide uh while you may still sleep well at night without it, you're gonna be sleepy during the day if those levels are high.  So that's why it's important to wear that mask uh.
+
+PATIENT X250
+But it's not every day.  For the last three or four days I've been, I bet you it'll be a couple more days and then I'll be normal again.
+
+DOCTOR X250
+You know I still think that's probably the.
+
+PATIENT X250
+@@@.
+
+DOCTOR X250
+Otherwise you know, from what I know about you and examining you, it's not clear.  That's the far and away the most likely culprit.
+
+PATIENT X250
+It seems like, it seems like after my heart surgery, six months later I was passing out, passing out, passing out right, so I say doctor I think something's wrong.  I had to go to the hospital like @@@ weeks.  They couldn't figure out anything so you know what I did, I stopped taking the vitamin, then it disappeared.  Vitamin is a medicine, which is some kind of an extra and still doctors are worried.  I said doctor that's what I did right.  I said, you see what happened I took the medicine right at home and I could see after 15 minutes @@@ go down already.  
+
+DOCTOR X250
+Yeah that's.
+
+PATIENT X250
+Okay and then I could fall back and @@@.
+
+DOCTOR X250
+Yeah.
+
+PATIENT X250
+And I passed out and was in the hospital for weeks, you know they had to take to see what it was.  So @@@ I stopped taking medicines bang, I've @@@.
+
+DOCTOR X250
+So uh, it sounds like you're having allergic reactions.
+
+PATIENT X250
+Something yeah.
+
+DOCTOR X250
+You know you've been on all these other medicines for a while too, so that shouldn't be uh.
+
+PATIENT X250
+No but that was like eight years ago.
+
+DOCTOR X250
+Yeah.
+
+PATIENT X250
+Then I stopped taking, stopped taking the vitamin everything is fine.
+
+DOCTOR X250
+We'll get repeat blood work and uh you'll see a new doctor.
+
+PATIENT X250
+Uh-huh.
+
+DOCTOR X250
+Once again I apologize.
+
+PATIENT X250
+Alright.
+
+DOCTOR X250
+That it was scheduled. Uh if there's anything I can do to help you, let me know.
+
+PATIENT X250
+Thank you, have a nice day doctor.
+
+PATIENT LEAVES:  84:27
+
+Time is 4:25.
+
+
+
+

@@ -1,0 +1,810 @@
+
+DOCTOR X748
+PATIENT.  How you doing?
+
+PATIENT X748
+Pretty good. 
+
+DOCTOR X748
+@@@  My name is DOCTOR.  I'm one of the @@@ doctors.  You haven't been seen in like a year?
+
+PATIENT X748
+Yeah, been longer.
+
+DOCTOR X748
+Any issues since then?
+
+PATIENT X748
+Yeah my hand hurt.
+
+DOCTOR X748
+Okay which hand?
+
+PATIENT X748
+The right hand.  Sometimes I get some tingling in the right surface.
+
+DOCTOR X748
+Is it, are you, is it worse when you're doing stuff with your hands?
+
+PATIENT X748
+Um.
+
+DOCTOR X748
+Or when it's just resting.
+
+PATIENT X748
+When it's just resting.
+
+DOCTOR X748
+And it gets better when you do stuff?
+
+PATIENT X748
+Yeah if I'm working on something I don't have no problem with it.
+
+DOCTOR X748
+Uh-huh.
+
+PATIENT X748
+But when it's just like sitting sometime @@@ would be alright @@@.
+
+DOCTOR X748
+It will start shaking?
+
+PATIENT X748
+Right.
+
+DOCTOR X748
+Any tremor in your upper extremities?
+
+PATIENT X748
+No.
+
+DOCTOR X748
+Alright any um dizziness upon standing?
+
+PATIENT X748
+I'm a little lightheaded, not real heavy like but enough to be concerned at the least.
+
+DOCTOR X748
+Yeah cause your blood pressure is really low.
+
+PATIENT X748
+Low yeah I know.  It's normally not like that.
+
+DOCTOR X748
+Yeah.  Okay.
+
+PATIENT X748
+Plus I need some metformin too.
+
+DOCTOR X748
+Well let's get your labs.  You haven't had labs in a year.  We can't give you metformin if we don't know what your labs are.
+
+PATIENT X748
+Okay.
+
+DOCTOR X748
+Um how long have you been feeling lightheaded with standing?
+
+PATIENT X748
+It's just every once in a while.
+
+DOCTOR X748
+Okay.  Is it right now?
+
+PATIENT X748
+No.
+
+DOCTOR X748
+Okay.  Okay any headaches, changes in your vision?
+
+PATIENT X748
+Nope.
+
+DOCTOR X748
+Okay.  Any um you know falling?
+
+PATIENT X748
+No.
+
+DOCTOR X748
+Or anything or any instability?
+
+PATIENT X748
+No.
+
+DOCTOR X748
+Okay um let's see um so you have high blood pressure um you have high cholesterol.
+
+PATIENT X748
+Right.
+
+DOCTOR X748
+And an elevated PSA right?
+
+PATIENT X748
+Uh-huh.
+
+DOCTOR X748
+Have you had any problems urinating?
+
+PATIENT X748
+Yeah.
+
+DOCTOR X748
+Like having um @@@ you haven't completely emptied your bladder?
+
+PATIENT X748
+No.  @@@ with the belt on so.
+
+DOCTOR X748
+Okay.  What a weak stream?
+
+PATIENT X748
+Yeah.
+
+DOCTOR X748
+Any blood in your urine?
+
+PATIENT X748
+No.
+
+DOCTOR X748
+Or burning when you pee?
+
+PATIENT X748
+No.
+
+DOCTOR X748
+Okay.  Any constipation?
+
+PATIENT X748
+No.
+
+DOCTOR X748
+Anything like problems with the stool like seeing pencil thin stools?
+
+PATIENT X748
+No.
+
+DOCTOR X748
+Any blood in your stool?
+
+PATIENT X748
+No.
+
+DOCTOR X748
+Any abdominal pain?
+
+PATIENT X748
+No.
+
+DOCTOR X748
+Okay.  Any history of Parkinson in your family?
+
+PATIENT X748
+No.  That's the stuff I was kind of worried about when I seen this.
+
+DOCTOR X748
+Yeah.  Any seizures or that kind of thing?
+
+PATIENT X748
+No, no.
+
+DOCTOR X748
+Um diabetes?
+
+PATIENT X748
+Yeah I got diabetes.
+
+DOCTOR X748
+In your family?
+
+PATIENT X748
+Yeah.
+
+DOCTOR X748
+High blood pressure?
+
+PATIENT X748
+Yeah.
+
+DOCTOR X748
+Stroke?
+
+PATIENT X748
+Uh not really with the strokes but high blood pressure a lot.
+
+DOCTOR X748
+What about heart attacks?
+
+PATIENT X748
+No.  You know @@@ so far.
+
+DOCTOR X748
+In your family?  Like your father and your mom?
+
+PATIENT X748
+Uh my father died from a heart attack.
+
+DOCTOR X748
+At what age?
+
+PATIENT X748
+He was uh let's see he was about 55, 55, 57 years old.
+
+DOCTOR X748
+Okay.  What about @@@ things like that?
+
+PATIENT X748
+No.
+
+DOCTOR X748
+Alright and then you're taking uh you are taking, are you still taking glyburide 5 mg twice a day?
+
+PATIENT X748
+Uh-huh oh yes.
+
+DOCTOR X748
+Lisinopril 40 mg.
+
+PATIENT X748
+Once a day.
+
+DOCTOR X748
+Once a day.
+
+PATIENT X748
+Yes.
+
+DOCTOR X748
+And then that's it?  You're not taking anything else?
+
+PATIENT X748
+Uh simvestin.
+
+DOCTOR X748
+Simvastatin?
+
+PATIENT X748
+Yeah for cholesterol.
+
+DOCTOR X748
+Okay you take 40 mg?
+
+PATIENT X748
+I take one a day, half of one a day.
+
+DOCTOR X748
+Yeah.  You take let's see metformin 1000 mg twice a day?
+
+PATIENT X748
+Right.
+
+DOCTOR X748
+Metoprolol 100 mg twice a day.
+
+PATIENT X748
+Right.
+
+DOCTOR X748
+Okay.  Um and then sildenafil, it's Viagra I believe, the sildenafil?  For ED.
+
+PATIENT X748
+That was about @@@.
+
+DOCTOR X748
+Sexual stuff, do you take that?
+
+PATIENT X748
+Not really cause I haven't had anything in over a year.
+
+DOCTOR X748
+Okay.  Do you take aspirin?  Maybe one baby aspirin?
+
+PATIENT X748
+Yeah that's what I've been using yes.
+
+DOCTOR X748
+Okay.
+
+PATIENT X748
+A baby aspirin.
+
+DOCTOR X748
+Alrighty so let me go @@@ and you don't have that okay.  And do you smoke?
+
+PATIENT X748
+Once in a while.  Uh I have a question for you.
+
+DOCTOR X748
+Uh-huh.
+
+PATIENT X748
+Okay like my blood pressure was low today.
+
+DOCTOR X748
+Uh-huh.
+
+PATIENT X748
+What causes that?
+
+DOCTOR X748
+So it could be from your medicine that you take for blood pressure.
+
+PATIENT X748
+Yeah.
+
+DOCTOR X748
+And what it could be is you're just not drinking enough fluid.
+
+PATIENT X748
+I drink a lot of water.  I drink a lot of water.
+
+DOCTOR X748
+Okay.
+
+PATIENT X748
+And I be thirsty.
+
+DOCTOR X748
+Yeah all the time?
+
+PATIENT X748
+Oh yeah I'll be thirsty all the time.  While I'm at work I drink water all day long.
+
+DOCTOR X748
+Um.
+
+PATIENT X748
+And I got another question.  What might cause those little hand tremors?  Well nobody in my family has anything like that.
+
+DOCTOR X748
+Alright so that could be um I mean you're already, you've had it for how long the tremor in the hand?
+
+PATIENT X748
+Oh about uh two months now it's been.
+
+DOCTOR X748
+Uh-huh.
+
+PATIENT X748
+Um.
+
+DOCTOR X748
+It started a couple months ago?
+
+PATIENT X748
+No it's been longer than a couple of months.
+
+DOCTOR X748
+So when did it first start?
+
+PATIENT X748
+It's hard to remember.
+
+DOCTOR X748
+Like how years ago?
+
+PATIENT X748
+Oh maybe a year.
+
+DOCTOR X748
+And it's gotten worse?
+
+PATIENT X748
+Yeah it's gotten worse.  That's why I wanted to come down here and see what's going on with that.
+
+DOCTOR X748
+Yeah.
+
+PATIENT X748
+If there's anything else I can do to stop it.
+
+DOCTOR X748
+Well I mean the thing is you're already on a beta blocker.  Beta blockers stop that.
+
+PATIENT X748
+Uh-huh.
+
+DOCTOR X748
+Um we'll probably send you to Neurology most likely.
+
+PATIENT X748
+Okay.
+
+DOCTOR X748
+And I'll put it in um.
+
+PATIENT X748
+I got another question too.
+
+DOCTOR X748
+Uh-huh.
+
+PATIENT X748
+Um @@@.  Oh man I forgot it.  It is shaking now.
+
+DOCTOR X748
+Uh-huh yeah I see.  Have you seen the eye doctor recently?
+
+PATIENT X748
+Um I don't know.
+
+DOCTOR X748
+Diabetic Eye Clinic.
+
+PATIENT X748
+Yeah it's about.
+
+DOCTOR X748
+When was the last time?
+
+PATIENT X748
+I think that was last year I think.
+
+DOCTOR X748
+Okay.  You need another one.
+
+PATIENT X748
+Yeah.
+
+DOCTOR X748
+And was it here?
+
+PATIENT X748
+Yes.  Yeah I came here.
+
+DOCTOR X748
+Can you take your shoes off for me; I want to check your feet.
+
+PATIENT X748
+Take socks off too?
+
+DOCTOR X748
+Uh-huh.  And there are so many things that could @@@.
+
+PATIENT X748
+Uh-huh.
+
+DOCTOR X748
+There we go.  @@@.
+
+PATIENT X748
+Oh in the computer?
+
+DOCTOR X748
+So we can find your yeah.
+
+PATIENT X748
+Yeah.
+
+DOCTOR X748
+I mean it's very frustrating.
+
+PATIENT X748
+I can imagine.  I'm not good with computers though.  Anything get done on the computer I go to my grandkids.
+
+DOCTOR X748
+Oh yeah.  How tall are you?
+
+PATIENT X748
+I think I'm 5 8.
+
+DOCTOR X748
+So you're 5 8.
+
+PATIENT X748
+I think I weigh about 172 pounds.  Probably 170 pounds.  I've been trying to do a little exercising.  I like get up every day and I walk like about a mile.
+
+DOCTOR X748
+Uh-huh.  That's good.
+
+PATIENT X748
+To see if that's okay.  That's what I was gonna ask you is that good?
+
+DOCTOR X748
+Yeah.
+
+PATIENT X748
+I wasn't trying to.
+
+DOCTOR X748
+Yeah.
+
+PATIENT X748
+Keep on that little dizziness.  I was kind a little dizzy though but I actually if I eat.
+
+DOCTOR X748
+Uh-huh.
+
+PATIENT X748
+What um, what should I eat?  I mean I like a lot of salads and stuff like that.
+
+DOCTOR X748
+That's perfect.  Salad and lean meat and fish.
+
+PATIENT X748
+No fried stuff.
+
+DOCTOR X748
+No fried.  You get high cholesterol.
+
+PATIENT X748
+Yeah.
+
+DOCTOR X748
+Also cut out sugar.
+
+PATIENT X748
+Hmm.
+
+DOCTOR X748
+You know you can eat brown rice and stuff.  Cut out white rice especially.
+
+PATIENT X748
+White rice?
+
+DOCTOR X748
+Uh-huh and sugar.
+
+PATIENT X748
+Yeah.  Okay.  So eat the brown rice.
+
+DOCTOR X748
+That should be fine.
+
+PATIENT X748
+Yeah brown rice is pretty good.  I just put butter on that.
+
+DOCTOR X748
+Uh-huh.  Any pain here?
+
+PATIENT X748
+No.
+
+DOCTOR X748
+Okay.
+
+PATIENT X748
+@@@ the other day.
+
+DOCTOR X748
+Okay you need to go to Podiatry then.  Okay take my fingers squeeze hard as you can okay.  Don't let me pull you forward, don't let me push you back.  Okay.  Put your hand out like this okay.  Don't let me push your fingers together.  Okay.  Don't let me @@@ that side, go like this.  Don't let me push you back; don't let me push you forward.  Okay relax this arm @@@.  Okay.  Let me test your reflexes.  Good.  Deep breath, deep breath, deep breath, deep breath, deep breath.  Okay.  I'm gonna listen to your heart.  Okay.
+
+PATIENT X748
+(Patient's cell phone rang) Let me call you back.
+
+DOCTOR X748
+Any pain when I press here?
+
+PATIENT X748
+Uh uh.
+
+DOCTOR X748
+Let's take your glasses off.  Follow my fingers with your eyes.  Have your eyes always kind of been like that?  Like.
+
+PATIENT X748
+Yeah.
+
+DOCTOR X748
+@@@, okay.  
+
+PATIENT X748
+Yeah @@@.
+
+DOCTOR X748
+Oh sorry.
+
+PATIENT X748
+I don't know, I don't want no problem.
+
+DOCTOR X748
+That's what I mean.
+
+PATIENT X748
+Yeah but you get over it.  I can't @@@ about cause @@@.
+
+DOCTOR X748
+That's true.  @@@.
+
+PATIENT X748
+@@@.
+
+DOCTOR X748
+@@@ ah.
+
+PATIENT X748
+Ah.
+
+DOCTOR X748
+Okay so your tremor is worse when you're resting and when you put your hand out.
+
+PATIENT X748
+No.
+
+DOCTOR X748
+It doesn't, do it again.
+
+PATIENT X748
+Yeah like you know, it looks like I.
+
+DOCTOR X748
+The tremor.
+
+PATIENT X748
+The tremor will be.
+
+DOCTOR X748
+Yeah.
+
+PATIENT X748
+If I put my hand out like it's @@@.
+
+DOCTOR X748
+Yeah.
+
+PATIENT X748
+The tremor starts.
+
+DOCTOR X748
+Touch your finger to your nose and then touch to my finger, as fast as you can.  Again, keep going, keep going.  Follow it.  If I keep doing it.
+
+PATIENT X748
+Okay, okay.
+
+DOCTOR X748
+Yeah.  Okay @@@ anywhere?  Good.  So you have a tremor a little when you're reaching.
+
+PATIENT X748
+Uh-huh.
+
+DOCTOR X748
+Alright so.  Yeah I'll be right back okay.
+
+PATIENT X748
+Okay.
+
+DOCTOR OUT:  57:45  DOCTOR IN:  63:02
+
+DOCTOR X748
+Hello.  
+
+PATIENT X748
+Uh-huh.
+
+DOCTOR X748
+I'm gonna check your blood pressure again.
+
+PATIENT X748
+Okay.
+
+DOCTOR X748
+It was low.  We don't want it to be low.  Let me see your arm.
+
+PATIENT X748
+@@@.
+
+DOCTOR X748
+So sit up.  And your arm is uh skinny so that's good.
+
+PATIENT X748
+Uh-huh.
+
+DOCTOR X748
+It's not fat either.
+
+PATIENT X748
+No.
+
+DOCTOR X748
+So this is too big.  On this side.  
+
+PATIENT X748
+Uh-huh.
+
+DOCTOR X748
+Oh that's good.  @@@.  I'm gonna actually have you see and you know what we're gonna, your feet should be on the ground.
+
+PATIENT X748
+On the ground.
+
+DOCTOR X748
+Yeah.  I'll still have you sit up here.  Lift up your arm, down by your side, good.  Relax, relax the arm.  Just relax.
+
+PATIENT X748
+Uh-huh.
+
+DOCTOR X748
+I'll have you sit up.  Just stand up.  And we'll check it there okay.
+
+PATIENT X748
+Uh-huh.
+
+DOCTOR X748
+Put your arm down by your side okay.  Relax.
+
+PATIENT X748
+I have a question for you.
+
+DOCTOR X748
+Oh.
+
+PATIENT X748
+@@@.  But I wanted to ask you another thing.
+
+DOCTOR X748
+Um.
+
+PATIENT X748
+When it gets low like that uh @@@.
+
+DOCTOR X748
+What for your blood pressures?
+
+PATIENT X748
+Yeah.
+
+DOCTOR X748
+No it's not @@@.  Probably just need to cut back on @@@.
+
+PATIENT X748
+Oh okay.
+
+DOCTOR X748
+And you've been taking, you've been taking metoprolol @@@.
+
+PATIENT X748
+Right.
+
+DOCTOR X748
+You need to cut back on the dose.
+
+PATIENT X748
+Okay.  @@@.  Only I can't remember a time when it was low like this.
+
+DOCTOR X748
+Uh-huh.  Oh we'll just cut back on your medicine, your lisinopril and your metoprolol dose.
+
+PATIENT X748
+Okay.
+
+DOCTOR X748
+Okay.  Alright so your blood pressure is too low, we need to send you to the ER.
+
+PATIENT X748
+Uh-huh.
+
+DOCTOR X748
+Okay.  Um so we're not going to give you any medicines today since we're gonna send you to the ER.  I'm gonna call them.  So now that may sense.  No dizziness, headaches?
+
+PATIENT X748
+No @@@.  I take @@@ at home.
+
+DOCTOR X748
+Uh-huh.  (Doctor makes a phone call)  So we're gonna take you to the ER okay.
+
+PATIENT X748
+Okay.
+
+DOCTOR X748
+Um so um I want you to, when you go out there give this to the clerk.
+
+PATIENT X748
+Uh-huh.
+
+DOCTOR X748
+So @@@.
+
+PATIENT X748
+@@@.
+
+DOCTOR X748
+Right.
+
+PATIENT X748
+@@@.  
+
+
+
+

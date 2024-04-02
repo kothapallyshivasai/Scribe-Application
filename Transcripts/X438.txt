@@ -1,0 +1,847 @@
+
+PATIENT X438
+Hi.
+
+DOCTOR X438
+@@@.  
+
+PATIENT X438
+@@@ who?
+
+DOCTOR X438
+DOCTOR.  What @@@ we can do better.
+
+PATIENT X438
+@@@.
+
+DOCTOR X438
+How's everything going?
+
+PATIENT X438
+Good.
+
+DOCTOR X438
+Good.
+
+PATIENT X438
+Uh-huh.
+
+DOCTOR X438
+Your vital signs look great.  Your blood pressure is good.
+
+PATIENT X438
+Yeah I just did the labs when I just got here @@@.
+
+DOCTOR X438
+Okay um sorry the computer is saying @@@ so I got to call you back.  Are you having any problems really?  Nope.  Take all your medicines as you should?
+
+PATIENT X438
+Uh-huh.
+
+DOCTOR X438
+Okay.
+
+PATIENT X438
+Oh I'm running out of this too by the way.  I bought a new one @@@.  
+
+DOCTOR X438
+Oh good.  You're very organized.
+
+PATIENT X438
+Got to be clean.
+
+DOCTOR X438
+Uh any recent @@@ or anything like that?  Chest pain, shortness of breath, abdominal pain?
+
+PATIENT X438
+No.
+
+DOCTOR X438
+No.  Do you need a flu shot?
+
+PATIENT X438
+H1N1?
+
+DOCTOR X438
+Yeah did you get one?
+
+PATIENT X438
+I got the regular flu shot.  I think I might go over and get the H1N1.
+
+DOCTOR X438
+Okay.
+
+PATIENT X438
+Oh they says people my age.
+
+DOCTOR X438
+Yeah.  It's plus/minus uh there haven't been that many side effects so if you like feel comfortable taking it, it's kind of nice cause they offer it here.  Um and people, you're actually @@@ getting H1N1.
+
+PATIENT X438
+Right, right.
+
+DOCTOR X438
+@@@ been exposed to it before but when they do get, they can just get sicker.
+
+PATIENT X438
+Oh @@@ yeah.
+
+DOCTOR X438
+Yeah I mean and there are some people I know that @@@.  Alright everything looks pretty good.  Let me see your labs then.  Cold outside huh?
+
+PATIENT X438
+Yeah I thought it was gonna warm up but um.
+
+DOCTOR X438
+Me too.
+
+PATIENT X438
+That's the weatherman for you.
+
+DOCTOR X438
+Yeah.  @@@ looked up though.  Okay.  No they're not.
+
+PATIENT X438
+No but I just went in at 7:30 this morning and you know I talked to DOCTOR.  I generally get a chest x-ray every year.  I don't remember the conversation she and I had about the chest x-rays.  I @@@ deem it necessary.
+
+DOCTOR X438
+Uh.
+
+PATIENT X438
+But one of the reasons I get a chest x-ray every year, other than the fact that I smoke, @@@ anyway but I'm a retired chemist.
+
+DOCTOR X438
+Uh-huh.
+
+PATIENT X438
+And I work around some pretty uh carcinogenic and toxic chemicals, plus I was exposed to Agent Orange.
+
+DOCTOR X438
+Are you having any symptoms?  Any coughs or shortness of breath?
+
+PATIENT X438
+No.
+
+DOCTOR X438
+No.
+
+PATIENT X438
+You know I really don't have any.  Is it on that side or this side?
+
+DOCTOR X438
+Oh a lump?
+
+PATIENT X438
+No not that.  There's a discoloration in the skin.
+
+DOCTOR X438
+You know it's barely noticeable. 
+
+PATIENT X438
+@@@.  And they had that Agent Orange mainly on the ground and this whole part of my face broke out and I noticed it.
+
+DOCTOR X438
+No. 
+
+PATIENT X438
+Maybe that's an individual thing.
+
+DOCTOR X438
+I don't think so.
+
+PATIENT X438 
+Or something, KF or whatever I don't know.  It's not giving me any problem.
+
+DOCTOR X438
+Okay.
+
+PATIENT X438
+I just happen to notice it.
+
+DOCTOR X438
+It's been there since you were young then?  Since you were in Vietnam?
+
+PATIENT X438
+Yeah.
+
+DOCTOR X438
+It's been that long okay.
+
+PATIENT X438
+It started out this one @@@.
+
+DOCTOR X438
+@@@.
+
+PATIENT X438
+Just you and me I guess.
+
+DOCTOR X438
+Younger then and the same age I am now.  Alright can you hop up here for me, I'll take a look.
+
+PATIENT X438
+Uh-huh.
+
+DOCTOR X438
+Take a deep breath and again okay.  
+
+(Knock on the door)
+
+PATIENT X438
+Hello DOCTOR how you doing?
+
+SECOND DOCTOR X438
+I'm doing good.  
+
+FIRST DOCTOR X438
+Yeah.
+
+SECOND DOCTOR X438
+Okay.  
+
+FIRST DOCTOR X438
+@@@.  
+
+SEOCOND DOCTOR X438 
+You got your lab work?
+
+PATIENT X438
+Yeah I did it earlier this morning.
+
+SECOND DOCTOR X438
+Oh okay uh-huh.
+
+PATIENT X438
+You know can I ask you something?
+
+SECOND DOCTOR X438
+Yeah.
+
+PATIENT X438
+The last time, not this, when we talked the other day.
+
+SECOND DOCTOR X438
+Yeah.
+
+PATIENT X438
+But uh you know I didn't get the chest x-ray, what was the determination?  Do you think it's necessary this year or?
+
+SECOND DOCTOR X438
+Um is this because you haven't quit smoking or what is the reason?
+
+PATIENT X438
+No not that I'm smoking I told you you know I'm a retired chemist and I used to work around uh real carcinogenic materials.
+
+SECOND DOCTOR X438
+Uh-huh.
+
+PATIENT X438
+And uh I was exposed to Agent Orange also.  I'm not having any problems you know.  If I had some I'd like to get it quick.
+
+SECOND DOCTOR X438
+Uh-huh.
+
+PATIENT X438
+But I did, I had that uh lung uh, what was that uh in nuclear medicine.
+
+SECOND DOCTOR X438
+@@@.
+
+PATIENT X438
+No that's a lung thing in nuclear medicine.
+
+SECOND DOCTOR X438
+Oh it's the CT scan.
+
+PATIENT X438
+Yeah.
+
+SECOND DOCTOR X438
+Well you can have that no problem.
+
+PATIENT X438
+Well I'll be going for it.
+
+SECOND DOCTOR X438
+Okay.  
+
+FIRST DOCTOR X438
+Um so if you want to make it here and you could see me here and you want to get a chest x-ray for cancer.  @@@.
+
+PATIENT X438
+Okay, that was the reason.
+
+FIRST DOCTOR X438
+Yeah.  Maybe in May, that's another year.  So yeah.  Are you thinking of it?
+
+PATIENT X438
+Thinking of what?
+
+FIRST DOCTOR X438
+Quitting smoking.
+
+PATIENT X438
+Uh I should but uh you know.  But I say again I know, you know I ain't no fool.  I know even if I don't inhale I'm still you know.
+
+FIRST DOCTOR X438
+Yeah.
+
+PATIENT X438
+Well, it's just a nervous habit.
+
+FIRST DOCTOR X438
+No I know @@@.
+
+PATIENT X438
+I don't think I probably, I think it's just the nicotine.
+
+FIRST DOCTOR X438
+Yeah I know, it's definitely just a habit I think.
+
+PATIENT X438
+Yeah.
+
+FIRST DOCTOR X438
+You're absolutely right with that, just having something in your hands and.
+
+PATIENT X438
+Yes.
+
+FIRST DOCTOR X438
+@@@.
+
+PATIENT X438
+I @@@.
+
+FIRST DOCTOR X438
+Now can you lay back?  Pain in your belly or anything like that?  Okay.
+
+PATIENT X438
+No you know what do they call it when they go around this way?
+
+FIRST DOCTOR X438
+Do you have pain in your belly?
+
+PATIENT X438
+No I did.  That's why I got a test.
+
+FIRST DOCTOR X438
+Okay.  What did they find when they did that?
+
+PATIENT X438
+Diverticulitis.
+
+FIRST DOCTOR X438
+Oh diverticulitis.
+
+PATIENT X438
+Uh-huh.
+
+FIRST DOCTOR X438
+Yeah diverticulitis, that can cause pain up in this area.
+
+PATIENT X438
+That's why they gave me @@@ pills.  They ignored it.
+
+FIRST DOCTOR X438
+The pain?
+
+PATIENT X438
+Yeah.
+
+FIRST DOCTOR X438
+@@@.
+
+PATIENT X438
+Even when I told them.  Even when I told them.
+
+FIRST DOCTOR X438
+You can hop down.
+
+PATIENT X438
+They ignored it and then I got uh diverticulitis.
+
+FIRST DOCTOR X438
+But they found it later?
+
+PATIENT X438
+Yeah but I damn near died.
+
+FIRST DOCTOR X438
+Oh really, when was that?
+
+PATIENT X438
+About five years ago.
+
+FIRST DOCTOR X438
+The pain is gone since?
+
+PATIENT X438
+Oh yeah.  Let me ask you a question, it ain't got nothing to do with me.
+
+DOCTOR X438
+Sure.
+
+PATIENT X438
+Usually when you have cancer, carcinoma.
+
+FIRST DOCTOR X438
+Uh-huh.
+
+PATIENT X438
+How long does it take that to grow?
+
+FIRST DOCTOR X438
+Depending on what cancer it is.
+
+PATIENT X438
+Uh-huh.
+
+FIRST DOCTOR X438
+Um do you have a specific cancer in mind that?
+
+PATIENT X438
+Uh spine.
+
+FIRST DOCTOR X438
+Spine like bone cancer or what?  It kind of depends on the type of cancer.  Cause some cancers are really aggressive right so you can have them grow really fast.
+
+PATIENT X438
+Yeah like lung cancer spreads to the.
+
+FIRST DOCTOR X438
+Right.
+
+PATIENT X438
+Somewhere else.  No I was just asking cause of my sister.
+
+FIRST DOCTOR X438
+It does seem like colon cancer that can start out with something like a polyp.
+
+PATIENT X438
+Right.
+
+FIRST DOCTOR X438
+Real little and @@@ and so it kind of really depends on the actual.
+
+PATIENT X438
+Hmm.
+
+FIRST DOCTOR X438
+Cancer.  @@@.
+
+PATIENT X438
+Yeah.
+
+FIRST DOCTOR X438
+Spinal symptoms?
+
+PATIENT X438
+Well they say it spread all over uh, it's uh spinal.
+
+FIRST DOCTOR X438
+Oh so was it just diagnosed?
+
+PATIENT X438
+Well yeah they just found it lately.
+
+FIRST DOCTOR X438
+What kind of cancer?
+
+PATIENT X438
+Well they said she had a mass on her spine uh her liver, @@@ it's just you know metastasizing all over now.
+
+FIRST DOCTOR X438
+Really.  How old is she?
+
+PATIENT X438
+77.
+
+FIRST DOCTOR X438
+@@@.
+
+PATIENT X438
+@@@ quite a few times @@@.  First of the year, before they used to give um @@@ instead of the one time, different forms of cancer and that's a waste of meds or maybe I just.
+
+FIRST DOCTOR X438
+Um.
+
+PATIENT X438
+Like if it was a lung cancer, you know coughing problems, blood or whatever.
+
+FIRST DOCTOR X438
+Yeah, that could.
+
+PATIENT X438
+Colon cancer you know there's blood in the stool.
+
+FIRST DOCTOR X438
+@@@.
+
+PATIENT X438
+There's still @@@ no sudden warning signs.
+
+FIRST DOCTOR X438
+Like @@@.  Is that what you mean?
+
+PATIENT X438
+Well it used to be fucking media thing.
+
+FIRST DOCTOR X438
+Yeah wouldn't say it was a media.
+
+PATIENT X438
+Right that's what I'm saying.
+
+FIRST DOCTOR X438
+You're absolutely right except it's not that we um, that's sort of definitely @@@.
+
+PATIENT X438
+But generally when you got through uh physical metamorphosis that means that if you know, it's gotten to the point you know I don't want to say what you would call it.
+
+FIRST DOCTOR X438
+Right when you have symptoms probably.
+
+PATIENT X438
+Right.
+
+FIRST DOCTOR X438
+But unfortunately they send, tell me there are some studies to see where it is beneficial to people @@@ having symptoms.
+
+PATIENT X438
+Uh-huh.
+
+DOCTOR X438
+So certain studies we do @@@.
+
+PATIENT X438
+Yeah, it's mainly just the fear @@@.
+
+DOCTOR X438
+Right.  But you haven't had one in a while but sometimes when people get older they opt not to have it anymore.
+
+PATIENT X438
+I just want to know why you take them.
+
+DOCTOR X438
+Um yeah I think it's the same thing as getting the lab tests.  Are you still having @@@ and things too?
+
+PATIENT X438
+Yeah.
+
+FIRST DOCTOR X438
+You have.
+
+PATIENT X438
+Uh-huh.
+
+FIRST DOCTOR X438
+Oh okay you have one.
+
+PATIENT X438
+I don't know why.
+
+FIRST DOCTOR X438
+You have one @@@ blood test that.
+
+PATIENT X438
+Right.
+
+FIRST DOCTOR X438
+If you're still getting @@@.
+
+PATIENT X438
+It's quick @@@ serious you know @@@.
+
+FIRST DOCTOR X438
+Yeah.  So you did it last time?
+
+PATIENT X438
+Yes.
+
+FIRST DOCTOR X438
+Okay let me go see if I can @@@.
+
+PATIENT X438
+Digital rectal examination.
+
+FIRST DOCTOR X438
+Yeah and you saw him in like September didn't you.  We'll see @@@.  Alright, okay @@@.
+
+PATIENT X438
+I got all the medications.
+
+FIRST DOCTOR X438
+Do you get everything by mail then, you're not out right?
+
+PATIENT X438
+Yeah I get them by mail.  Always @@@ making me call and transfer out of one facility to another and I never checked.  This is the first time I need these things and the battery is low.
+
+FIRST DOCTOR X438
+Oh really.  
+
+PATIENT X438
+@@@.
+
+FIRST DOCTOR X438
+Yeah but some of your medications like your folic acid and stuff, I'm just gonna renew those.
+
+PATIENT X438
+Okay.
+
+FIRST DOCTOR X438
+Do you still take medications for anxiety @@@.
+
+PATIENT X438
+Oh yeah, oh yeah.
+
+FIRST DOCTOR X438
+Who gives you that?
+
+PATIENT X438
+DOCTOR.
+
+FIRST DOCTOR X438
+Okay, @@@.
+
+PATIENT X438
+For her uh yeah, you know I, I refilled that now I can go a month.
+
+FIRST DOCTOR X438
+It looks like you had @@@ for blood pressure right?
+
+PATIENT X438
+Oh yeah.
+
+FIRST DOCTOR X438
+Right @@@ okay.
+
+PATIENT X438
+Yeah.  Cause you know I left, a while back I saw DOCTOR.  I didn't take that @@@ I was short and my heart raced.
+
+FIRST DOCTOR X438
+What happened?
+
+PATIENT X438
+But you know.
+
+FIRST DOCTOR X438
+Okay.  So you take that amlodipine also right?
+
+PATIENT X438
+Right.
+
+FIRST DOCTOR X438
+Do you still take the potassium?
+
+PATIENT X438
+Yeah, three, two tablets a day.  That's another thing I don't understand about medicine.  @@@.  But they found that my sodium was low.
+
+FIRST DOCTOR X438
+Uh-huh.
+
+PATIENT X438
+And they put me on potassium chloride; no not they put me on potassium.
+
+FIRST DOCTOR X438
+It was probably your potassium was low probably.
+
+PATIENT X438
+Potassium I see.
+
+FIRST DOCTOR X438
+Yeah so do you take that regularly?
+
+PATIENT X438
+Yeah.
+
+FIRST DOCTOR X438
+Your potassium is still a little low.
+
+PATIENT X438
+It is.
+
+FIRST DOCTOR X438
+Uh-huh and @@@.
+
+PATIENT X438
+And I take my medicines every day.  I guess I'm gonna be on, might as well get used to it.
+
+FIRST DOCTOR X438
+Okay.
+
+PATIENT X438
+Cause I hate bananas.  What other food got potassium in it?
+
+FIRST DOCTOR X438
+Um green leafy vegetables.
+
+PATIENT X438
+Uh.
+
+FIRST DOCTOR X438
+@@@ that has lots of potassium in it.  Yeah let me talk to DOCTOR and I'll be right back okay.
+
+PATIENT X438
+Okay.
+
+(DOCTOR OUT:  24:00  DOCTOR IN:  29:43)
+
+FIRST DOCTOR X438
+Okay @@@ potassium again.
+
+PATIENT X438
+Oh @@@.
+
+FIRST DOCTOR X438
+@@@ giving you any more of that.
+
+SECOND DOCTOR X438
+How are you?  Oh very good.
+
+PATIENT X438
+Alright.
+
+FIRST DOCTOR X438
+So @@@ look into your blood so.
+
+PATIENT X438
+That could work.
+
+SECOND DOCTOR X438
+But you know working on your blood pressure and your @@@.
+
+PATIENT X438
+Oh, oh, oh, yeah.
+
+SECOND DOCTOR X438
+Yeah okay and then um so um I think you're going in the right direction but we just want to get you feeling better okay.
+
+PATIENT X438
+Right, right.
+
+SECOND DOCTOR X438
+Okay, right, alright @@@.
+
+PATIENT X438
+Okay thank you.
+
+FIRST DOCTOR X438
+Should I have him come back for the blood testing or?
+
+SECOND DOCTOR X438
+You have @@@ at home right?
+
+PATIENT X438
+Yeah.
+
+SECOND DOCTOR X438
+@@@ at home.  Okay.
+
+FIRST DOCTOR X438
+Um, so I just want to, go up on the potassium again um.  It's not bad because it's @@@ but @@@ on the lisinopril usually people @@@ of the kidneys.
+
+PATIENT X438
+Uh-huh.
+
+FIRST DOCTOR X438
+From some of the blood pressure medicines you're on.
+
+PATIENT X438
+Oh I got it.
+
+FIRST DOCTOR X438
+So you're on half a tablet right now.
+
+PATIENT X438
+Right.
+
+FIRST DOCTOR X438
+We're going to increase it.
+
+PATIENT X438
+@@@.
+
+FIRST DOCTOR X438
+Yeah and then you can go up to one tablet.
+
+PATIENT X438
+Okay.
+
+FIRST DOCTOR X438
+Um just check your blood pressure at home though and if you have any problems, your blood pressure drops or anything, just go back down to half a tablet okay.
+
+PATIENT X438
+Okay.
+
+FIRST DOCTOR X438
+Sound good?
+
+PATIENT X438
+Okay.
+
+FIRST DOCTOR X438
+Um and then sometimes that can help @@@ with the potassium too so that's what we're hoping.  Uh and then @@@ class um and @@@ hypertension and diabetes @@@ and they can help you lose weight.
+
+PATIENT X438
+Okay.
+
+FIRST DOCTOR X438
+@@@.  And everything looks good.  Did you have the pneumonia shot this summer?
+
+PATIENT X438
+Yeah.  I'm good, I just got one last year.
+
+FIRST DOCTOR X438
+Last year good.
+
+PATIENT X438
+Uh-huh.  When I got the regular flu shot they gave me the pneumonia shot too.
+
+FIRST DOCTOR X438
+Yeah.  @@@.
+
+PATIENT X438
+Okay.
+
+FIRST DOCTOR X438
+So you'll see DOCTOR.
+
+PATIENT X438
+Sounds good.
+
+FIRST DOCTOR X438
+Okay.
+
+PATIENT X438
+That would be what month is, this is still January I guess.  What is February, March, April.
+
+FIRST DOCTOR X438
+Yeah we could do it.
+
+PATIENT X438
+April 8th.
+
+FIRST DOCTOR X438
+Uh-huh.
+
+PATIENT X438
+Okay. doc.
+
+FIRST DOCTOR X438
+Alright.
+
+PATIENT X438
+Thank you.
+
+FIRST DOCTOR X438
+Have a good one.
+
+PATIENT X438
+Uh-huh.
+
+PATIENT LEAVES:  32:09
+
+
+
+

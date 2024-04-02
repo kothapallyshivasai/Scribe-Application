@@ -1,0 +1,733 @@
+
+DOCTOR X403
+PATIENT?
+
+PATIENT X403
+I'm here.  @@@.
+
+DOCTOR X403
+@@@.  How you doing?
+
+PATIENT X403
+I'm better.
+
+DOCTOR X403
+You're doing good, doing bad?
+
+PATIENT X403
+@@@.
+
+DOCTOR X403
+Good.  Are you in pain after you left the hospital?
+
+PATIENT X403
+Pardon?
+
+DOCTOR X403
+Did you have any more pain after you left the hospital?
+
+PATIENT X403
+I haven't uh, gotten all of my medicine.
+
+DOCTOR X403
+You've been taking all of them?
+
+PATIENT X403
+@@@.  I feel better in the stomach.
+
+DOCTOR X403
+In the stomach good.
+
+PATIENT X403
+Yeah I feel better.
+
+DOCTOR X403
+Good.
+
+PATIENT X403
+That's about @@@ my stomach.
+
+DOCTOR X403
+Yeah, okay.  Well we were just asked to follow up on a few things.  I think your blood pressure medications are @@@ high when you were in the hospital.
+
+PATIENT X403
+Uh.
+
+DOCTOR X403
+They think @@@ and the nitrates were.
+
+PATIENT X403
+One medicine was.
+
+DOCTOR X403
+Yeah so but I know @@@ is good so we just have to check a blood test on you today just to make sure that the medication isn't affecting anything.
+
+PATIENT X403
+Hmm.
+
+DOCTOR X403
+Okay.  Um.
+
+PATIENT X403
+I think it's too much medicine.
+
+DOCTOR X403
+Um you're taking a lot but unfortunately you need all of them so.
+
+PATIENT X403
+Now @@@, is about to come home and stay for supper.  She called on me I think and chatted with my doctor.
+
+DOCTOR X403
+DOCTOR is your doctor right?
+
+PATIENT X403
+Uh-huh.
+
+DOCTOR X403
+Yeah so uh @@@ we'll have you see her.  She's actually person @@@.  So I think I'll just talk to her.  How's your blood pressure doing?
+
+PATIENT X403
+Well it's doing real good.  It was 96 this morning.
+
+DOCTOR X403
+@@@ do you do it at home?
+
+PATIENT X403
+It was 133 this morning.
+
+DOCTOR X403
+Good.  Um do you think you could get some blood tests done today?
+
+PATIENT X403
+What?
+
+DOCTOR X403
+Do you think you could get some blood tests done today?
+
+PATIENT X403
+Yeah I can go over there.
+
+DOCTOR X403
+Okay.
+
+PATIENT X403
+My @@@ test don't supposed to be @@@ uh myself.
+
+DOCTOR X403
+Uh-huh.
+
+PATIENT X403
+Not until 2, @@@ 12 o'clock.
+
+DOCTOR X403
+Good you've got some time.
+
+PATIENT X403
+Uh-huh.  My legs is going down but the pain.
+
+DOCTOR X403
+Uh-huh.
+
+PATIENT X403
+The pain is more.  I wanted to give it a full look.
+
+DOCTOR X403
+Which one?
+
+PATIENT X403
+Both them.
+
+DOCTOR X403
+Both of them are swollen?  Well they said your left lower leg.
+
+PATIENT X403
+Right.
+
+DOCTOR X403
+Are they less swollen or more swollen?
+
+PATIENT X403
+No they going down.
+
+DOCTOR X403
+Okay.
+
+PATIENT X403
+The swelling is going but the pain was @@@.
+
+DOCTOR X403
+Both of them are swelling.  Oh no.  Do both of them hurt or none of them?
+
+PATIENT X403
+Both, both, both.
+
+DOCTOR X403
+Both of them hurt.
+
+PATIENT X403
+Yeah.
+
+DOCTOR X403
+Okay.  Where does it hurt?
+
+PATIENT X403
+Right there at the knee.
+
+DOCTOR X403
+Can I look at your knee?  @@@.
+
+PATIENT X403
+Yeah.
+
+DOCTOR X403
+@@@ stuff on.
+
+PATIENT X403
+Yeah.
+
+DOCTOR X403
+So your knee's not swollen though I don't think.
+
+PATIENT X403
+No it isn't.
+
+DOCTOR X403
+Okay.  Your knee looks okay.  Um any other problems?  Any chest pain?  Shortness of breath?
+
+PATIENT X403
+@@@ with my eye, know I gots to go see the eye place.
+
+DOCTOR X403
+Yeah.  How often do you see the eye doctors?
+
+PATIENT X403
+You know the way it, the appointment that I had with the eye doctor.
+
+DOCTOR X403
+Uh-huh.
+
+PATIENT X403
+I was in the hospital.  I got to do.
+
+DOCTOR X403
+Oh okay so you're gonna go back and see them?
+
+PATIENT X403
+I got to @@@ another appointment.
+
+DOCTOR X403
+Okay.
+
+PATIENT X403
+But this right eye is bothering me.
+
+DOCTOR X403
+What's bothering you?
+
+PATIENT X403
+I have some pain.
+
+DOCTOR X403
+It looks like you're @@@ so we probably want to check a, uh we're just going to do one test @@@ bone scan.
+
+PATIENT X403
+Pardon.
+
+DOCTOR X403
+They were gonna do uh um test to look at your bone strength.  Sometimes when we get older your bones get weaker.
+
+PATIENT X403
+Yeah I had a study at @@@.
+
+DOCTOR X403
+You did.  Yeah so we should check it.  So what it is, is I'll order it and.
+
+PATIENT X403
+It's pretty thick.
+
+DOCTOR X403
+Your bone strength or the x-ray?
+
+PATIENT X403
+Uh I've done x-rays on it.
+
+DOCTOR X403
+Yeah this isn't an x-ray this is to look at the calcium levels in your bone.
+
+PATIENT X403
+Calcium.
+
+DOCTOR X403
+Yeah calcium levels in your bone because you have @@@.
+
+PATIENT X403
+I've had that before.
+
+DOCTOR X403
+Because if they're not strong enough we can give you medications to build up the strength of your bone.
+
+PATIENT X403
+Oh okay.
+
+DOCTOR X403
+So I'll order that and then whenever, they'll contact you as to when you can come back in. 
+
+PATIENT X403
+Oh you'll put it in?
+
+DOCTOR X403
+Yes.
+
+PATIENT X403
+Okay.  It's urgent.
+
+DOCTOR X403
+Yeah.
+
+PATIENT X403
+Okay.
+
+DOCTOR X403
+Uh you want to sit up here so I can check your heart and lungs?
+
+PATIENT X403
+I need a little help.
+
+DOCTOR X403
+@@@.
+
+PATIENT X403
+@@@.
+
+DOCTOR X403
+Problems with your @@@.
+
+PATIENT X403
+I said my balance.
+
+DOCTOR X403
+Yeah @@@ okay.  Something new.  Was that something that's been going on for a while or?  Problems with your balance?
+
+PATIENT X403
+It's something new.
+
+DOCTOR X403
+@@@.
+
+PATIENT X403
+@@@.
+
+DOCTOR X403
+You're getting @@@.
+
+PATIENT X403
+Yeah it used to hurt.  I mean that's what I.
+
+DOCTOR X403
+Down here right?
+
+PATIENT X403
+Yeah.
+
+DOCTOR X403
+@@@ one?
+
+PATIENT X403
+@@@.
+
+DOCTOR X403
+Okay, good.
+
+PATIENT X403
+That's what I was in the hospital for, when I was in the hospital.
+
+DOCTOR X403
+Yeah.
+
+PATIENT X403
+They said it sounds like I got Parkinson @@@.
+
+DOCTOR X403
+Have you ever tried to walk with a cane or do you need something a little better?
+
+PATIENT X403
+No I can walk with a cane.
+
+DOCTOR X403
+Okay.  Do you want to sit up?  Take a deep breath.  Again.  Okay.  Can you stand up for me.  Check out your balance. 
+
+PATIENT X403
+@@@.
+
+DOCTOR X403
+Good.  I'll have you sit up.
+
+PATIENT X403
+@@@.
+
+DOCTOR X403
+Okay good.  Can you just walk over there for me?
+
+PATIENT X403
+Yeah that's a problem.
+
+DOCTOR X403
+Okay.  So it's not terrible.
+
+PATIENT X403
+For a time I've been walking in these shoes.
+
+DOCTOR X403
+Uh-huh.
+
+PATIENT X403
+It's special.
+
+DOCTOR X403
+Oh good.  Okay you can take your shoes.
+
+PATIENT X403
+And that's why.
+
+DOCTOR X403
+That's why.
+
+PATIENT X403
+That's why I think I'm walking kind of funny.  I got to get used to new shoes.
+
+DOCTOR X403
+Oh okay.  When did you get the shoes?
+
+PATIENT X403
+Oh they came from about two weeks ago.
+
+DOCTOR X403
+Okay.
+
+PATIENT X403
+They made them up for me.
+
+DOCTOR X403
+I need to talk to DOCTOR for a minute and I'll be right back okay.
+
+PATIENT X403
+Okay.
+
+DOCTOR X403
+Good idea.
+
+PATIENT X403
+Okay.
+
+(DOCTOR OUT:  91:28 DOCTOR IN:  108:26)
+
+SECOND DOCTOR X403
+Hey PATIENT.
+
+PATIENT X403
+Hi.
+
+SECOND DOCTOR X403
+Alright let me get @@@.
+
+PATIENT X403
+But they feeling fine but they think.
+
+SECOND DOCTOR X403
+Oh I know.  I'm sending him down to the um.
+
+PATIENT X403
+Alright.
+
+SECOND DOCTOR X403
+@@@ I think you're doing much better of the lower dose of how you doing.
+
+PATIENT X403
+Pardon.
+
+SECOND DOCTOR X403
+Do you think you're doing on the higher dose of the water pill?
+
+PATIENT X403
+Oh it's good.
+
+SECOND DOCTOR X403
+@@@.
+
+PATIENT X403
+I'm really doing better.
+
+SECOND DOCTOR X403
+Okay.  Um.
+
+PATIENT X403
+I'm taking a double dose.
+
+SECOND DOCTOR X403
+Yeah.
+
+PATIENT X403
+Twice a day.
+
+SECOND DOCTOR X403
+Yeah you were taking it twice a day before also right, there's just one pill.  I think its one pill twice a day @@@ isn't it?
+
+PATIENT X403
+Two twice a day.
+
+SECOND DOCTOR X403
+No.
+
+PATIENT X403
+Now @@@.
+
+SECOND DOCTOR X403
+Once twice a day you'll remember.  But um let's do @@@ blood work.
+
+PATIENT X403
+Okay.
+
+SECOND DOCTOR X403
+Um and then um @@@ that medicine the atenolol um to just keep an eye on the blood pressure okay.
+
+PATIENT X403
+Okay but you said @@@ that @@@ doctor come by the house to visit me?
+
+SECOND DOCTOR X403
+Oh no I @@@ need the one for the hospital, you were hospitalized in the another hospital, that's what you gave me.
+
+PATIENT X403
+I think I left around three days.
+
+SECOND DOCTOR X403
+Oh @@@ but you have, I'm sorry I don't know which hospital.  What hospital were you admitted to last time?
+
+PATIENT X403
+@@@ uh xxx xxx.
+
+SECOND DOCTOR X403
+xxx xxx Hospital.
+
+PATIENT X403
+Uh-huh.
+
+SECOND DOCTOR X403
+Um I, I.
+
+PATIENT X403
+I got the dispatch of how she wanted.
+
+SECOND DOCTOR X403
+@@@.
+
+PATIENT X403
+I guess the discharge.
+
+SECOND DOCTOR X403
+Oh @@@.  Okay.
+
+PATIENT X403
+Now they gave me a prescription and they gave me some prescriptions.
+
+SECOND DOCTOR X403
+Okay.
+
+PATIENT X403
+But it was $1100 @@@.
+
+SECOND DOCTOR X403
+@@@ right.
+
+PATIENT X403
+I think so.
+
+SECOND DOCTOR X403
+@@@ back.
+
+PATIENT X403
+@@@.
+
+SECOND DOCTOR X403
+@@@ back.  @@@ recently.  @@@.
+
+PATIENT X403
+@@@.
+
+SECOND DOCTOR X403
+@@@ admitted to hospital right.
+
+PATIENT X403
+No.
+
+SECOND DOCTOR X403
+Did you have bleeding, blood in your stools that you remember?
+
+PATIENT X403
+Yes.
+
+SECOND DOCTOR X403
+Oh okay.  Let me give you another @@@ here so I will sign it and @@@.
+
+PATIENT X403
+Okay.
+
+SECOND DOCTOR X403
+Give me five minutes okay.
+
+PATIENT X403
+Okay.
+
+SECOND DOCTOR X403
+I need to go @@@.
+
+PATIENT X403
+Yeah, @@@.
+
+SECOND DOCTOR X403
+@@@.
+
+PATIENT X403
+How does that marrow test go?
+
+FIRST DOCTOR X403
+This test?
+
+PATIENT X403
+Does that marrow in your bone?
+
+FIRST DOCTOR X403
+Yeah no, no.  It's not painful.  They just scan you.  It's like a scanner test.
+
+PATIENT X403
+That's the marrow?
+
+FIRST DOCTOR X403
+For your bone marrow?
+
+PATIENT X403
+Yes.
+
+FIRST DOCTOR X403
+When did they do that?
+
+PATIENT X403
+I thought you said @@@.
+
+FIRST DOCTOR X403
+No I'm gonna check a bone density test.  That's not the marrow test where they use a needle to go in your bones and take out marrow.  This is not like that.  This is just like a CT scan that you had before, but it's done a little differently, it's like the strength of your bone.
+
+PATIENT X403
+Hmm.
+
+FIRST DOCTOR X403
+To see how much calcium is in them.  Because if you don't have enough calcium, your bones are more liable to break.
+
+PATIENT X403
+Oh.
+
+FIRST DOCTOR X403
+So we can give you medication to fix that if @@@.
+
+PATIENT X403
+So you're going to put it in so we can get it scheduled.
+
+FIRST DOCTOR X403
+Yeah I'm gonna put it in.  They'll contact you about when to get it and then otherwise we'll just get those blood tests and I think we'll be set.
+
+PATIENT X403
+Okay.  
+
+FIRST DOCTOR X403
+Did you eat today?
+
+PATIENT X403
+Yeah I just ate a little while ago.
+
+FIRST DOCTOR X403
+Okay.
+
+PATIENT X403
+Cause I'm a diabetic you know.
+
+FIRST DOCTOR X403
+Yeah uh-huh, okay.
+
+PATIENT X403
+@@@.
+
+FIRST DOCTOR X403
+Yeah I know, no you should be eating.  Good.  Alright sir, PATIENT, @@@.
+
+PATIENT X403
+@@@.
+
+SECOND DOCTOR X403
+Uh you know, I'm sorry it's my mistake I think I gave @@@ again so @@@ hospital.  Uh you remember I talked to @@@ that's because @@@ Hospital in xxx.
+
+PATIENT X403
+Yeah uh-huh.
+
+SECOND DOCTOR X403
+Alright.
+
+PATIENT X403
+I don't know the address though.
+
+SECOND DOCTOR X403
+@@@.
+
+PATIENT X403
+Yeah.
+
+SECOND DOCTOR X403
+@@@.  Doctors talking between themselves. 
+
+FIRST DOCTOR X403
+So we'll have you come back in a few months to see DOCTOR.
+
+PATIENT X403
+Okay.
+
+FIRST DOCTOR X403
+Okay so you can just get your blood tests today and all the appointments that we need to make alright?
+
+PATIENT X403
+Oh okay.
+
+FIRST DOCTOR X403
+So @@@.
+
+PATIENT X403
+Okay.  @@@.
+
+FIRST DOCTOR X403
+Yeah and then they'll contact you about that one bone test.
+
+PATIENT X403
+Oh okay.
+
+FIRST DOCTOR X403
+Your blood tests are already in there.  I just refilled your aspirin cause you were running low on that and you have plenty of refills on everything else.
+
+PATIENT X403
+Okay.
+
+FIRST DOCTOR X403
+Alright.
+
+PATIENT X403
+Okay.
+
+FIRST DOCTOR X403
+Bye.
+
+PATIENT X403
+Bye bye.
+
+PATIENT LEAVES:  114:2
+
+11:45
+
+
+
+

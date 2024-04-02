@@ -1,0 +1,1887 @@
+
+DOCTOR X355
+Oh PATIENT.
+
+PATIENT X355
+Yeah.  Hi how are you?
+
+DOCTOR X355
+Hi.  Good, how are you.  DOCTOR.
+
+PATIENT X355
+You know what I gotta find out; I was expecting some old man.
+
+DOCTOR X355
+Oh yeah.
+
+PATIENT X355
+Yeah I'm pleasantly surprised.  Actually I was expecting a young man probably.
+
+DOCTOR X355
+Oh yeah.
+
+PATIENT X355
+How you doing?
+
+DOCTOR X355
+Doing very well, how about you?
+
+PATIENT X355
+Good uh I'm doing, I guess you know alright for my age.
+
+DOCTOR X355
+Yeah, good.
+
+PATIENT X355
+Yeah.
+
+DOCTOR X355
+Have a seat.
+
+PATIENT X355
+Okay.
+
+DOCTOR X355
+Enjoying this nice weather?
+
+PATIENT X355
+Trying to yeah, yeah.
+
+DOCTOR X355
+Good.
+
+PATIENT X355
+Anxious to get out, back out there this afternoon.  I had an appointment here this morning so I left early this morning so, go drink coffee down at.  You live in xxx or where?
+
+DOCTOR X355
+Yeah I do.
+
+PATIENT X355
+You know where Viagra Triangle is?
+
+DOCTOR X355
+Uh yes.
+
+PATIENT X355
+I go down there and drink coffee a lot cause I'm an old man.
+
+DOCTOR X355
+Oh.
+
+PATIENT X355
+I'm looking forward to just stopping by there on the way home and having a cup of coffee out in the sun.
+
+DOCTOR X355
+Uh-huh.
+
+PATIENT X355
+Catching some sun.  So, now how did my tests all come out?
+
+DOCTOR X355
+Sure we can.
+
+PATIENT X355
+Do I have another year?
+
+DOCTOR X355
+I think so, I think so.  Let's get to your latest up.  This is your CBC which is your blood count.
+
+PATIENT X355
+Okay.
+
+DOCTOR X355
+Your infection-fighting cells, white blood cells are normal.  So is your hemoglobin.  Those are your red cells and your platelets, all normal.
+
+PATIENT X355
+Okay.
+
+DOCTOR X355
+Your electrolytes and normal, potassium is on the high end of normal but fine.
+
+PATIENT X355
+It was on the high end of normal?
+
+DOCTOR X355
+Uh-huh.
+
+PATIENT X355
+Is that, should be more toward normal or?
+
+DOCTOR X355
+Yep.
+
+PATIENT X355
+Oh okay, alright.
+
+DOCTOR X355
+Normal, fine.  Uh creatinine is uh 1.04, we'll compare that to the last one but that's fine and this is a measure of your liver function, it was within normal limits.
+
+PATIENT X355
+Good.
+
+DOCTOR X355
+And these are the lipid panel.
+
+PATIENT X355
+Yeah.
+
+DOCTOR X355
+For your cholesterol and your triglycerides.  I also looked at the trend for those so we'll look at your past ones as we look at this.  So today your triglycerides are 293.  Ideally we would like them less than 150, so they're high.
+
+PATIENT X355
+Yeah.
+
+DOCTOR X355
+And in the past they've been better.  The last time it was 150, 180, down to 94 here.
+
+PATIENT X355
+What was that?
+
+DOCTOR X355
+They have been worse.  Back in 2004 you were at 368.
+
+PATIENT X355
+Yeah.
+
+DOCTOR X355
+So.
+
+PATIENT X355
+That was the good life.
+
+DOCTOR X355
+Uh, total cholesterol we only go up to 200, you're at 188.
+
+PATIENT X355
+Uh-huh, okay.
+
+DOCTOR X355
+But it works.  HDL cholesterol, that's the one that's called the good cholesterol.
+
+PATIENT X355
+Yeah they said really it doesn't matter that much anymore.  The news account on it but.
+
+DOCTOR X355
+Well I think.
+
+PATIENT X355
+You know yeah.
+
+DOCTOR X355
+You know it's still not as.
+
+PATIENT X355
+Yeah.
+
+DOCTOR X355
+Especially the ratio between the good and the bad cholesterol.
+
+PATIENT X355
+Yeah.
+
+DOCTOR X355
+In your good the higher the better.  You're at 37; we like to see it above 40.
+
+PATIENT X355
+It's always been a little low on that.
+
+DOCTOR X355
+Uh-huh.
+
+PATIENT X355
+And on the LDL I've been normal haven't I, or have I been a little?
+
+DOCTOR X355
+Yeah it's still less than 100 is what we consider good.
+
+PATIENT X355
+Yeah okay.
+
+DOCTOR X355
+And you're at 92 for the good cholesterol.  The last time it was 55 so it was even better.
+
+PATIENT X355
+Uh-huh.
+
+DOCTOR X355
+Down here it was 150 so it wasn't so good back then but these are pretty good numbers.
+
+PATIENT X355
+Yeah okay.  Alright.  Yeah I never have been able with this uh, is it niacin that I take to get the.
+
+DOCTOR X355
+Uh-huh.
+
+PATIENT X355
+That thing, it's like I'm going through menopause.  I get hot flashes, I can't take it, I can't handle it.
+
+DOCTOR X355
+Yeah.
+
+PATIENT X355
+I've tried it twice and man I'll be sitting there and I'll just, hot all over, burn.
+
+DOCTOR X355
+Have you taken aspirin with it?
+
+PATIENT X355
+No.
+
+DOCTOR X355
+No.  That's something that can help but I, with this uh, with these tests I wouldn't want to start you on anything new.
+
+PATIENT X355
+Yeah, yeah okay.
+
+DOCTOR X355
+So.  
+
+PATIENT X355
+So uh.  I keep hoping that my elbow here, right elbow.
+
+DOCTOR X355
+Uh-huh.
+
+PATIENT X355
+And my left shoulder and maybe a little bit of my elbow, really bother me.  I think its arthritis or something.  I sleep on my side and I always have my arm up under my uh hand and can't really do that now because it starts bothering me if I do that so sometimes when I'm just sitting this one will bother me.  The elbow will start aching.  I don't know if there's anything I can take for that or do for that or.
+
+DOCTOR X355
+Yeah so how long has this been going on?
+
+PATIENT X355
+It's probably been going on a couple months now.
+
+DOCTOR X355
+And you notice it at night?
+
+PATIENT X355
+At night and the daytime, when I'm walking or something, sometimes too.  You know it can happen in any position really.  I notice it more at night when I try to put my arm down and put my head on it, it'll go uh no.
+
+DOCTOR X355
+And where exactly on the elbow?
+
+PATIENT X355
+Well about right here.
+
+DOCTOR X355
+Right there.
+
+PATIENT X355
+Yeah, yeah.
+
+DOCTOR X355
+Okay.
+
+PATIENT X355
+Yeah I can feel it there when you push on that.
+
+DOCTOR X355
+Push on it.
+
+PATIENT X355
+Yeah right there.
+
+DOCTOR X355
+Any new activities?
+
+PATIENT X355
+No, me?  At my age?
+
+DOCTOR X355
+Yeah you.
+
+PATIENT X355
+Yeah I do skydiving and I got a trampoline the other day and I.
+
+DOCTOR X355
+How do.
+
+PATIENT X355
+Um.
+
+DOCTOR X355
+Press down against my, good.
+
+PATIENT X355
+Underwater basket-weaving.
+
+DOCTOR X355
+And then lift your palm up.
+
+PATIENT X355
+I been doing some of that.
+
+DOCTOR X355
+Lift this palm up right here and push up.  Does that aggravate it at all?
+
+PATIENT X355
+No, no, that's fine in that hand.
+
+DOCTOR X355
+Anywhere okay.  How about with movement?
+
+PATIENT X355
+Uh not that way no but if I go to reach to my back.  Like if my belt gets twisted.
+
+DOCTOR X355
+Uh-huh.
+
+PATIENT X355
+Now it's not doing it now, it's okay now.
+
+DOCTOR X355
+But if you're reaching.
+
+PATIENT X355
+But normally it would be yeah, I wouldn't be able to do that and the same way with this one, I get it right through there.
+
+DOCTOR X355
+Right through here?
+
+PATIENT X355
+Yeah just sort of catawampus when I go to like go back like that uh it bothers me a lot.
+
+DOCTOR X355
+Okay.  Alright.
+
+PATIENT X355
+Amputation?
+
+DOCTOR X355
+No, we'll probably do that first, we'll know the reason @@@.  
+
+PATIENT X355
+Okay alright the second.
+
+DOCTOR X355
+We'll do that second.
+
+PATIENT X355
+Give me a shot huh.
+
+DOCTOR X355
+Yeah just a little shot.
+
+PATIENT X355
+Now I uh, I don't know.
+
+DOCTOR X355
+How much is it bothering you?
+
+PATIENT X355
+Uh enough that it's very, very, very annoying and it probably is, I don't know if it's stopped any of my activities.  It may have slowed me down from uh reading some because sometimes when I hold the paper or a book it might bother me slightly.  Right now, cause it squeaked all the way here.  You know when you go to the garage and you get there it doesn't squeak.
+
+DOCTOR X355
+Uh-huh.
+
+PATIENT X355
+But uh, probably if I had to say on scale of 1 to 10, probably um 4 to 5.  I mean it doesn't, it sort of keeps me from sleeping a little bit but not, if I get tired I'll go to sleep you know.
+
+DOCTOR X355
+Okay.
+
+PATIENT X355
+I'll sleep through it so yeah.
+
+DOCTOR X355
+Um and then on the, so I think this pain is probably more elbow pain but up through here on the other side.
+
+PATIENT X355
+It's like a shoulder I mean.
+
+DOCTOR X355
+It's more of a shoulder thing?
+
+PATIENT X355
+Yeah uh-huh.
+
+DOCTOR X355
+Okay, okay.  Did it start about the same time?
+
+PATIENT X355
+Yeah they did uh-huh yeah.
+
+DOCTOR X355
+Okay.
+
+PATIENT X355
+Yeah.
+
+DOCTOR X355
+Uh let me see your range of motion, lift both your arms up over your head.
+
+PATIENT X355
+Yeah now this starts hurting when I get up to there.
+
+DOCTOR X355
+Okay.
+
+PATIENT X355
+This one doesn't.
+
+DOCTOR X355
+And then reach back behind your head that's good, a little less over here, very good.
+
+PATIENT X355
+Uh-huh.
+
+DOCTOR X355
+Stand up for me.  Raise just the uh left arm.
+
+PATIENT X355
+Ooh.  That bothers me like that yeah.
+
+DOCTOR X355
+Up all the way above your head.
+
+PATIENT X355
+Yeah that.
+
+DOCTOR X355
+Now lower it slowly, no problems with that?
+
+PATIENT X355
+No that feels better when I lower it.
+
+DOCTOR X355
+Yeah.
+
+PATIENT X355
+Like when I hold it up yeah.
+
+DOCTOR X355
+What is this scar from?
+
+PATIENT X355
+That's from where they took a vein for my heart.
+
+DOCTOR X355
+Oh, oh okay.  Alright.
+
+PATIENT X355
+Not shrapnel or war wound.
+
+DOCTOR X355
+One or the other.
+
+PATIENT X355
+Yeah.
+
+DOCTOR X355
+Alright.  Any tenderness?
+
+PATIENT X355
+No.
+
+DOCTOR X355
+Let me know.
+
+PATIENT X355
+No, brings up something else that have.  I remember all my ills, I have this @@@ about a years worth of ills.
+
+DOCTOR X355
+Year's worth of what?
+
+PATIENT X355
+Ills, to lay on you.
+
+DOCTOR X355
+Ills?
+
+PATIENT X355
+@@@ oh I ought to mention that to the doc, tell me what that is, yeah, yeah you know.
+
+DOCTOR X355
+Okay.  Alright and the pain goes right through here.
+
+PATIENT X355
+Yeah and it's back, it's sort of on the whole shoulder there yeah.
+
+DOCTOR X355
+Uh-huh.  Any tenderness?
+
+PATIENT X355
+No, no.
+
+DOCTOR X355
+Just gonna have you rotate your arm for me.  So keep the elbow in.
+
+PATIENT X355
+Okay.
+
+DOCTOR X355
+And we're just gonna rotate the shoulder out.
+
+PATIENT X355
+That's okay.
+
+DOCTOR X355
+It's okay.
+
+PATIENT X355
+Uh-huh.
+
+DOCTOR X355
+Okay, let's check on the tendons, good.  Alright just going to feel the shoulder.  Go ahead and have a seat.
+
+PATIENT X355
+Okay.
+
+DOCTOR X355
+So that elbow the spot that you're.
+
+PATIENT X355
+Uh-huh.
+
+DOCTOR X355
+So.
+
+PATIENT X355
+Yeah.
+
+DOCTOR X355
+So that's the.
+
+PATIENT X355
+Right there is where it is.  I can feel it, @@@.
+
+DOCTOR X355
+Yeah.  Cause that's the lateral uh point where there's an attachment there um, where your muscles attach to your elbow.
+
+PATIENT X355
+Uh-huh.
+
+DOCTOR X355
+To your arms down here uh so then they call that tennis elbow.  Have you ever heard that term?
+
+PATIENT X355
+Oh certainly.
+
+DOCTOR X355
+Yeah so, the attachment point just gets inflamed a little bit and I think that's what's going on.
+
+PATIENT X355
+I think that's what both of them are, just some.  But I thought maybe they'd go away and I can't not sleep on my arm.  I just couldn't, try to go to sleep laying straight and it doesn't work.
+
+DOCTOR X355
+Yeah.
+
+PATIENT X355
+But it seems like that might aggravate it I don't know, uh I don't know. 
+
+DOCTOR X355
+It goes.
+
+PATIENT X355
+But I think the arm is just temporary, uh little bits of pains you get you know and discomforts you get as you go through life.
+
+DOCTOR X355
+Yeah so anti-inflammatories can help with that um.  The shoulder is you know a little bit different.  It's not really that one focus you know.
+
+PATIENT X355
+Uh-huh.
+
+DOCTOR X355
+It's the pain here, we're having pain here.
+
+PATIENT X355
+Uh-huh.
+
+DOCTOR X355
+And there are lots of muscles that could be uh involved.  You could have like a minor tear in the shoulder uh.  Both of the injuries though are usually repetitive injuries so um, tennis.
+
+PATIENT X355
+Yeah.
+
+DOCTOR X355
+The repetitive hitting.
+
+PATIENT X355
+Yeah.
+
+DOCTOR X355
+And with older folks and I know you said you're not doing any @@@.
+
+PATIENT X355
+I have a friend that goes out and hits a thousand tennis balls a day and he's 83.
+
+DOCTOR X355
+Wow.
+
+PATIENT X355
+He doesn't like to play tennis with anyone.
+
+DOCTOR X355
+Is this his.
+
+PATIENT X355
+He likes to hit the ball.
+
+DOCTOR X355
+Yeah.  Anything with repetitive motion so.
+
+PATIENT X355
+Sure.
+
+DOCTOR X355
+Writing.
+
+PATIENT X355
+Yeah I don't do.
+
+DOCTOR X355
+Reading.
+
+PATIENT X355
+The only thing I do is type on the keyboard and that's about, reading you know some but.  I don't read the same, I read some newspapers and some books and then some Kindle and you know so, it's nothing where I'm always holding it the same way you know.
+
+DOCTOR X355
+@@@ yeah.
+
+PATIENT X355
+Yeah.
+
+DOCTOR X355
+Uh have you tried Tylenol?
+
+PATIENT X355
+No.  I can do that.  That's not a bad you know.
+
+DOCTOR X355
+I think that would be the first thing that I would try.
+
+PATIENT X355
+Yeah.
+
+DOCTOR X355
+Uh and we could give you something stronger.
+
+PATIENT X355
+They gave me a steroid but that would, after a couple weeks it'd probably come back and uh.
+
+DOCTOR X355
+Yeah so.
+
+PATIENT X355
+I don't need that done.  Tylenol is fine.
+
+DOCTOR X355
+Okay.
+
+PATIENT X355
+If it gets so bad that I need a steroid I'll come back and see you yeah.
+
+DOCTOR X355
+Sounds good.
+
+PATIENT X355
+Alright.
+
+DOCTOR X355
+I like it.  Um any other problems?
+
+PATIENT X355
+Sure.  Now this is gonna seem minor but it is, but I live alone so I have nobody to tell me what is going on with spots I can't see.
+
+DOCTOR X355
+Yes.
+
+PATIENT X355
+And my shoulders just get, for a little while I had a, I get these, still get it on my shoulders, both sides and it doesn't seem to go away.  I guess I just scratch at the scabs.  I don't know if you can see but I can feel it all the way up here.
+
+DOCTOR X355
+Oh there are lots of scabs yeah.
+
+PATIENT X355
+All rough and uh I don't know what I, should I put something on them or should I, is it one of those there where I don't scratch it, you know like a cat.  @@@.
+
+DOCTOR X355
+No let's not do that yet.
+
+PATIENT X355
+But I think it's just something that's irritated and I scratched and then I just kept scratching it.
+
+DOCTOR X355
+Yeah.
+
+PATIENT X355
+But I still, I think, scratch it at night.  Feels like a little, you know like a pin prick somewhere you know.
+
+DOCTOR X355
+Uh-huh.  Anywhere else that you.
+
+PATIENT X355
+No, this is the only spot yeah.
+
+DOCTOR X355
+Okay.  It looks like you have some just dry irritated skin that you've been scratching.
+
+PATIENT X355
+Yeah I kind of figured that.
+
+DOCTOR X355
+Scratching that.
+
+PATIENT X355
+Put some cream or something on it?
+
+DOCTOR X355
+Yeah.  You could use some actually uh @@@ cream until it goes away and then just some lotion.
+
+PATIENT X355
+Okay.
+
+DOCTOR X355
+If you're able to not scratch it I think these could.
+
+PATIENT X355
+Well I'll certainly try that.
+
+DOCTOR X355
+Okay.
+
+PATIENT X355
+I hate to bother you with that but I don't have anybody to tell me what it looks like.
+
+DOCTOR X355
+No.
+
+PATIENT X355
+Cause I can't see in the mirror very well.
+
+DOCTOR X355
+Most people.
+
+PATIENT X355
+Right.
+
+DOCTOR X355
+So just have a seat over here, let me take a listen to your heart and lungs and.
+
+PATIENT X355
+Okay.  Take my hat off @@@.
+
+DOCTOR X355
+Oh @@@.  Just breathe normal.  Okay, deep breath in alright breathe alright. I'm going to listen to your arteries.  I'll have you take a deep breath in and hold it okay.  And breathe.  Take a deep breath in and breathe.  Alright.  Just feeling your thyroid.  @@@.  Good.  Any problems with chest pains, pressure?
+
+PATIENT X355
+Uh-huh.  Yeah.  
+
+DOCTOR X355
+Yeah.
+
+PATIENT X355
+We better go into that when like we could have, it's a long story.
+
+DOCTOR X355
+It's a long story.
+
+PATIENT X355
+Yeah.  We're not gonna figure it out.  Cardiology says there's nothing wrong with you PATIENT.  I don't know what it is that's doing that but it ain't anything to do with your heart.
+
+DOCTOR X355
+Okay.
+
+PATIENT X355
+And if I tell you.
+
+DOCTOR X355
+Turns out to be.
+
+PATIENT X355
+If I tell you, you'll mention it to your attending and they'll say well you should go down and have your heart checked you know and do some tests.  I've been that route about three times and open heart surgery and I still got a slight.  I can walk from here to there.
+
+DOCTOR X355
+Uh-huh.
+
+PATIENT X355
+And I'll get a burning across in my chest.
+
+DOCTOR X355
+Okay.
+
+PATIENT X355
+Or I could walk from here to I don't know xxx xxx and xxx xxx and I wouldn't feel anything you know and do perfectly fine.  But walked and the knot it bothers me so I'll have to stop walking @@@ she walked away.
+
+DOCTOR X355
+Uh-huh.
+
+PATIENT X355
+I may have to stop twice on the way and just stop for maybe 30 seconds and then you know.
+
+DOCTOR X355
+Yeah.
+
+PATIENT X355
+Sort of let it go down and sort of walk along a little more and then it'll start up again uh after I walk just a little bit. I don't know what it is.  Nobody's been able to determine what it is I have three or four angiograms and open heart surgery and I keep saying I'm gonna lose weight and if it doesn't go away after I've lost my weight then I'm gonna start rattling cages and saying you know we better find out what this is.  Cause it's really debilitating.  I can't, lot of things I can't do.  You know a lot of times I'll just go out and walk.
+
+DOCTOR X355
+Uh-huh.
+
+PATIENT X355
+But I can't because and I'm sure @@@ much but I know we're not gonna come up with any solution at xxx right away.
+
+DOCTOR X355
+Let me read through the testing.
+
+PATIENT X355
+Okay.
+
+DOCTOR X355
+Any changes, to see if there are any changes in that.
+
+PATIENT X355
+Any trend.
+
+DOCTOR X355
+Yeah.
+
+PATIENT X355
+Uh no, it's pretty much just the same thing.
+
+DOCTOR X355
+Okay.
+
+PATIENT X355
+And it was there before I had heart surgery.  After I had the surgery it went away for a month and then it came back and uh it was probably gone for the first month.  I got to find out some reason for it cause it's just really, disrupting my life.  You know I can't, like on a nice day I can't go out nap and I just.
+
+DOCTOR X355
+Uh-huh.
+
+PATIENT X355
+But I got to work on that.  When I come back and see you, I'm 160 pounds and I still have it.
+
+DOCTOR X355
+We'll get more aggressive.
+
+PATIENT X355
+Yeah very aggressive but in the meantime I can just say well I got to lose weight you know.
+
+DOCTOR X355
+Hmm.
+
+PATIENT X355
+I don't know, I had a doctor once when I was oh this was back in the 70s.
+
+DOCTOR X355
+Uh-huh.
+
+PATIENT X355
+Uh, told you're fat, you're overweight.
+
+DOCTOR X355
+Uh-huh.
+
+PATIENT X355
+You're just fat, right uh and you're diaphragm, your stomach and gut won't let you breathe that well so that's why you have no stamina.  Now that wasn't necessarily what would give me this burning across here but what I get is the same as if you were, were out of breath you know when you were running or something.
+
+DOCTOR X355
+Uh-huh.
+
+PATIENT X355
+So I always thought maybe he was the one that came closest to getting what the real problem was, I don't know.
+
+DOCTOR X355
+Well I want to go over your meds with you.
+
+PATIENT X355
+Yes.  We need, I want to change almost all of those prescriptions that I still am gonna have to Walmart cause I can get them at $4 a month.
+
+DOCTOR X355
+Okay.
+
+PATIENT X355
+As opposed to $9 a month through the VA.
+
+DOCTOR X355
+Alright.  Is this the list?
+
+PATIENT X355
+Yep and DOCTOR gave me three for what she thought was her three.
+
+DOCTOR X355
+Okay.
+
+PATIENT X355
+But I've got you know, do you have a list of my meds there?
+
+DOCTOR X355
+I do.
+
+PATIENT X355
+Okay now bupropion I gave up on it.  
+
+DOCTOR X355
+Discontinuing that.
+
+PATIENT X355
+Yeah I'm not taking that anymore.
+
+DOCTOR X355
+Okay.
+
+PATIENT X355
+And I'm not seeing Mental Health.
+
+DOCTOR X355
+And you're doing okay?
+
+PATIENT X355
+Uh.
+
+DOCTOR X355
+Mood wise?
+
+PATIENT X355
+Uh yeah I'm doing about the same as before yeah.
+
+DOCTOR X355
+Okay.
+
+PATIENT X355
+I get, I'm kind of starting to do some stuff now that uh I hope will uh help me a little bit.  You know get out of depression and I haven't been doing anything really at all except sitting around and reading and going to Starbucks and.
+
+DOCTOR X355
+Okay.
+
+PATIENT X355
+Uh that's probably not good for me you know.
+
+DOCTOR X355
+Yeah.
+
+PATIENT X355
+Maybe if I were 95 but I'm not.
+
+DOCTOR X355
+A little more active.
+
+PATIENT X355
+Yeah so uh I don't know how you've got them listed there.  We've got finasteride and I need that for Walmart.  She did glipizide.
+
+DOCTOR X355
+Hold on, @@@.
+
+PATIENT X355
+Okay, oh okay, yeah I'm sorry.
+
+DOCTOR X355
+You have 90 day supplies or 30 day supplies?
+
+PATIENT X355
+Uh 90 you might as well.
+
+DOCTOR X355
+Okay next.
+
+PATIENT X355
+Um isosorbide mononitrate.
+
+DOCTOR X355
+Okay and these are all ones that you have been taking correct?
+
+PATIENT X355
+Yeah uh-huh, they're down on the list.
+
+DOCTOR X355
+Okay.  Alright next.
+
+PATIENT X355
+Lisinopril.
+
+DOCTOR X355
+Okay.
+
+PATIENT X355
+I'll tell you a story about all this when we're done and I'm not sure.
+
+DOCTOR X355
+Uh-huh.
+
+PATIENT X355
+Uh, I don't know if simvastatin is on Wal-Mart's list or not.  I don't, let's see.
+
+DOCTOR X355
+No, okay.
+
+PATIENT X355
+Uh.
+
+DOCTOR X355
+Hold on.
+
+PATIENT X355
+Anything like that?
+
+DOCTOR X355
+I used to know these.
+
+PATIENT X355
+Oh right?
+
+DOCTOR X355
+Yeah when I did more outpatient medications through the VA.  
+
+PATIENT X355
+Uh-huh.
+
+DOCTOR X355
+The pravastatin is similar to the simvastatin.
+
+PATIENT X355
+Oh okay, well we could, if that's suitable we can do that.
+
+DOCTOR X355
+Yeah.
+
+PATIENT X355
+Yeah.
+
+DOCTOR X355
+Let's see how much you were on on simvastatin.
+
+PATIENT X355
+Uh.
+
+DOCTOR X355
+Oh you were on simvastatin 80 um.
+
+PATIENT X355
+And this is what 40?
+
+DOCTOR X355
+Yeah.  So it's not quite equivalent.  Let's stay on the simvastatin if that's okay with you.
+
+PATIENT X355
+Okay yeah we'll keep that at the VA.
+
+DOCTOR X355
+Okay.
+
+PATIENT X355
+And then uh sitagliptin. 
+
+DOCTOR X355
+Uh-huh.
+
+PATIENT X355
+Uh I don't think I see that on here either what's that on, that's diabetes?
+
+DOCTOR X355
+Diabetes yeah.
+
+PATIENT X355
+And that's not, that's not on here.
+
+DOCTOR X355
+I don't think it would be.
+
+PATIENT X355
+Yeah.
+
+DOCTOR X355
+So did you get a script for that already or not?
+
+PATIENT X355
+Uh no I need one for that.
+
+DOCTOR X355
+You need one for that okay.
+
+PATIENT X355
+So you're doing that's VA, VA okay, then there's a couple I want to add.  So I called up.  I got a Walmart Express up by me and I started going there after they opened and then.
+
+DOCTOR X355
+Uh-huh.
+
+PATIENT X355
+The Pharmacy looked nice so I hey give me your sheet, do you think you can save money for me.
+
+DOCTOR X355
+Uh-huh.
+
+PATIENT X355
+Yeah here's our sheet, shows you the prices you know.
+
+DOCTOR X355
+Yeah.
+
+PATIENT X355
+Just have your doctor there at the VA call me you know or send it over.
+
+DOCTOR X355
+Uh-huh.
+
+PATIENT X355
+So I called out here to the Pharmacy and told them what I wanted to do and they said well you have to go to your doctor to get scripts re-written you know and of course my doctor GP was gone and I hadn't seen you.
+
+DOCTOR X355
+Yeah.
+
+PATIENT X355
+But what they did at the Pharmacy, being the nice people they are, they just cancelled all my prescriptions.
+
+DOCTOR X355
+At the VA they did?
+
+PATIENT X355
+Yeah and I came out here they said okay we'll give you ten days you know.
+
+DOCTOR X355
+Uh-huh.
+
+PATIENT X355
+That'll get you up to where you can see your doctor but they just said you know said okay if you're gonna go to Walmart and your doctor will be writing them we'll just cancel them xxx, a little harsh.
+
+DOCTOR X355
+Yeah.
+
+PATIENT X355
+But anyway I lived through it.
+
+DOCTOR X355
+You did.
+
+PATIENT X355
+Yeah and I want to add a couple too if I can.
+
+DOCTOR X355
+What do you want to add?
+
+PATIENT X355
+I'd like to add, I used to get Omega 3 through the VA.
+
+DOCTOR X355
+Uh-huh.
+
+PATIENT X355
+And it's cheaper than uh I can buy it at the store that stuffs getting expensive.  So if you could write that.
+
+DOCTOR X355
+Do you want it through the VA or written at Walmart?
+
+PATIENT X355
+Uh VA.
+
+DOCTOR X355
+Okay.
+
+PATIENT X355
+And then uh the thing with uh.
+
+DOCTOR X355
+Omega 3.
+
+PATIENT X355
+Omega 3 and then well I was on 3000 a day of that.
+
+DOCTOR X355
+I doubt if we'll be able to do 3000 a day here, 2000 a day.
+
+PATIENT X355
+Oh really?
+
+DOCTOR X355
+Uh-huh.
+
+PATIENT X355
+Wasn't I on 3 at one time?  You can't tell.
+
+DOCTOR X355
+Um I can look back and see.
+
+PATIENT X355
+I think NAME at Cardiology put me on that.  
+
+DOCTOR X355
+I don't even see that you were on Omega 3 here.
+
+PATIENT X355
+Really?
+
+DOCTOR X355
+Yeah.
+
+PATIENT X355
+Hmm.
+
+DOCTOR X355
+Omeprazole, @@@.
+
+PATIENT X355
+Omeprazole, what's that now?
+
+DOCTOR X355
+That's your PPI, it looks like did you have like an EGD that showed gastritis?  Yeah, so a PPI for gastritis.
+
+PATIENT X355
+I don't remember that but anyway.
+
+DOCTOR X355
+No problems with heartburn?
+
+PATIENT X355
+Uh well I was getting a little bit at night but it's gone away now.  I think it's you know.
+
+DOCTOR X355
+Okay.
+
+PATIENT X355
+It comes once in a while.
+
+DOCTOR X355
+Alright.
+
+PATIENT X355
+I just take some Tums and uh, well do the Omega 3.  Do you think 2000 a day would be enough?
+
+DOCTOR X355
+I do.
+
+PATIENT X355
+Okay.
+
+DOCTOR X355
+Yeah.
+
+PATIENT X355
+I'll do that, you're the doctor.
+
+DOCTOR X355
+Okay.  What else?
+
+PATIENT X355
+I think that oh, can you do the vitamins prescription VA?
+
+DOCTOR X355
+Uh do you want a multivitamin or what vitamin?
+
+PATIENT X355
+A multivitamin yeah.
+
+DOCTOR X355
+A multivitamin yeah we have those.
+
+PATIENT X355
+$9 a month is cheaper I think than I can buy them at the store.
+
+DOCTOR X355
+Really.
+
+PATIENT X355
+I think.  Man some of these things that I look at them, they get expensive like 17, 18 bucks for a bottle.
+
+DOCTOR X355
+Uh-huh per month though?
+
+PATIENT X355
+Yeah.
+
+DOCTOR X355
+Whoa, okay.
+
+PATIENT X355
+I don't know, yeah.
+
+DOCTOR X355
+I take a multivitamin and it's.
+
+PATIENT X355
+What do you pay?
+
+DOCTOR X355
+I think.
+
+PATIENT X355
+You just get them at a pharmacy?
+
+DOCTOR X355
+Yeah.
+
+PATIENT X355
+You like uh.
+
+DOCTOR X355
+@@@.
+
+PATIENT X355
+You know NURSE, you never watch that?
+
+DOCTOR X355
+Uh uh.
+
+PATIENT X355
+Oh.
+
+DOCTOR X355
+No I think it's like $10 and it lasts me 2 1/2-3 months.
+
+PATIENT X355
+Oh well don't put it down then.
+
+DOCTOR X355
+Okay.
+
+PATIENT X355
+I'll just find out where you shop.
+
+DOCTOR X355
+xxx's.
+
+PATIENT X355
+xxx's.  Oh that's too expensive for me, I can't afford that stuff.
+
+DOCTOR X355
+Oh, just get generic.
+
+PATIENT X355
+I know.
+
+DOCTOR X355
+I don't get.
+
+PATIENT X355
+No I buy generic everything.
+
+DOCTOR X355
+Okay.
+
+PATIENT X355
+I look lower shelf you know.
+
+DOCTOR X355
+Okay.
+
+PATIENT X355
+Alright, I'll find them along with the Omega 3.
+
+DOCTOR X355
+Oh I put the Omega 3 in there.
+
+PATIENT X355
+Oh okay, alright, you have, okay okay that's fine.
+
+DOCTOR X355
+For @@@.
+
+PATIENT X355
+That's fine.  Alright now I got into, this is too much for me to keep track of all these different places.  I wish, you know the VA should publicize this a lot more, $4 a month is much better than $9 a month.
+
+DOCTOR X355
+Oh yeah.
+
+PATIENT X355
+I mean and these are $4 a month.
+
+DOCTOR X355
+Yeah.
+
+PATIENT X355
+Well.
+
+DOCTOR X355
+We're supposed to be working better, they should match Wal-Mart's price $4 a month.
+
+PATIENT X355
+All our @@@ tell people go to Walmart and get your drugs you know.
+
+DOCTOR X355
+Well yeah but it's nice to have everything, all your medications from one spot.
+
+PATIENT X355
+It is, that's what's you know getting confused here yeah.
+
+DOCTOR X355
+Yeah like probably scripts should price matching.  If I were in charge that's what we would do.
+
+PATIENT X355
+Yeah I don't know why if Walmart can do that I would think that the VA's probably buying almost as much as Walmart, maybe not quite as much but Wal-Mart's pretty big.
+
+DOCTOR X355
+Yeah, we could see.
+
+PATIENT X355
+Yeah they should be just about the same though.  Anyway they're not gonna change that on account of our suggestion I don't think are they?
+
+DOCTOR X355
+No.  No I don't think so either.
+
+PATIENT X355
+I was thinking I had one other thing that I wanted to lay on you.
+
+DOCTOR X355
+So metformin and okay, 15 mg alright.
+
+PATIENT X355
+I know I hope they take it with that.  Is that what yours says too?
+
+DOCTOR X355
+No, it says three weeks only VA Pharmacy @@@.
+
+PATIENT X355
+I know.
+
+DOCTOR X355
+I don't show what it was.
+
+PATIENT X355
+I know she got that other one.  If it doesn't work I'll have them call her.
+
+DOCTOR X355
+Okay or you can call me.
+
+PATIENT X355
+Okay.
+
+DOCTOR X355
+And use that @@@.  
+
+PATIENT X355
+Okay.
+
+DOCTOR X355
+Let me just try and enter these.
+
+PATIENT X355
+Yeah sure.
+
+DOCTOR X355
+Anything else you need?
+
+PATIENT X355
+I'm trying to think of uh um can I call you from the bus home cause that's when I'll think of it.  No I think we pretty well covered everything I could lay on you.
+
+DOCTOR X355
+Alright.
+
+PATIENT X355
+I didn't want to keep you laying awake at night wondering about patient PATIENT whether he got.
+
+DOCTOR X355
+I know.
+
+PATIENT X355
+He got, how long you been here?
+
+DOCTOR X355
+A year.
+
+PATIENT X355
+You like it?
+
+DOCTOR X355
+I do, I do.  I do have some reminders that they want me to do with patients every time so.
+
+PATIENT X355
+Sure.
+
+DOCTOR X355
+One of them is.
+
+PATIENT X355
+I don't smoke.
+
+DOCTOR X355
+One of them is falls, have you had a fall?
+
+PATIENT X355
+You know I was talking to the guy there you know the nurse.
+
+DOCTOR X355
+Uh-huh.
+
+PATIENT X355
+And uh the past, maybe a year or more in six months.
+
+DOCTOR X355
+Uh-huh.
+
+PATIENT X355
+I seem to stumble once in a while, even if there's just a little uh slight difference in the sidewalk, I'll catch on it sometimes.  It's like almost I have dropsy with my feet you know.  I'll be walking along and my foot will sort of you know uh sort of drag my foot.
+
+DOCTOR X355
+Uh-huh.
+
+PATIENT X355
+Not so familiar but notice, you know I notice it because I'm, I'm doing I don't know I think it may be my glasses as much as anything.  Plus I have a lot of trouble going downstairs.  Not a lot of trouble but I have to be very careful cause I can't really judge.  I don't want to go to therapy though so if that's what you're asking.  Somebody suggested that this morning and I'm not agreeing.
+
+DOCTOR X355
+Okay.
+
+PATIENT X355
+I'm not a I'll just have to put up with it.
+
+DOCTOR X355
+Alright.
+
+PATIENT X355
+You can't give me some medicine that'll cure that.
+
+DOCTOR X355
+No.
+
+PATIENT X355
+No.  Is that something that's normal?
+
+DOCTOR X355
+You know I wouldn't say normal but I'd say.
+
+PATIENT X355
+Not abnormal.
+
+DOCTOR X355
+It's common with age or when people get less active.
+
+PATIENT X355
+Yeah I need to get.
+
+DOCTOR X355
+Your muscles aren't as strong and they stumble and you know.
+
+PATIENT X355
+Yeah.
+
+DOCTOR X355
+@@@ and have more problems.
+
+PATIENT X355
+Okay yeah.
+
+DOCTOR X355
+Than they were when they were younger.
+
+PATIENT X355
+That's a good thing to tell me when you're not active and yeah I need to hear that.
+
+DOCTOR X355
+It's @@@.
+
+PATIENT X355
+Yeah uh.  I thought of something else I was gonna ask you about, oh memory.
+
+DOCTOR X355
+Uh-huh.
+
+PATIENT X355
+They didn't give me much help at Mental Health on this; they just said well that's life PATIENT.  I really seem to have a lot of memory problems lately.  They're not long term, they'll be common things that I won't be able to remember at all and that I'll.
+
+DOCTOR X355
+Like what?
+
+PATIENT X355
+Uh the name of a singer or.
+
+DOCTOR X355
+Uh-huh.
+
+PATIENT X355
+The name of a town or the name of uh, I wouldn't say a close friend but an acquaintance.
+
+DOCTOR X355
+Uh-huh.
+
+PATIENT X355
+Uh they'll just; you know I can't get it.
+
+DOCTOR X355
+Yeah.
+
+PATIENT X355
+And maybe in five minutes it'll come to me, maybe at night it'll come to me.  But that happens; of course I think about things like this a lot.  I don't know, maybe other people don't but that seems to happen to me a lot and I can be working on the computer and think I've got to do something and I'll look at this on this, I should go to this website or look at this page and I'll put my head down and when I bring it back up I won't remember what it was.
+
+DOCTOR X355
+Yeah.
+
+PATIENT X355
+You know what I'm saying.  What the hell was I gonna look at I can't remember.
+
+DOCTOR X355
+So that's pretty common, those things that you're citing.
+
+PATIENT X355
+You're no fun.
+
+DOCTOR X355
+With aging.
+
+PATIENT X355
+You're supposed to say I've got something.
+
+DOCTOR X355
+No, the ones that are you know the medical reasons.  Like Alzheimer disease, the most common cause of memory problems due to a medical diagnosis uh those people think that they're memory is just fine.  They're doing great.
+
+PATIENT X355
+So
+
+DOCTOR X355
+So you.
+
+PATIENT X355
+If I tell my parents I'm really having you know a day of I don't get a hole, gee I can't remember, I'll say oh I have no trouble with my memory, I'll say ah you're sick.
+
+DOCTOR X355
+Yeah well they don't basically don't feel that their memory but then things start happening like they didn't turn off the stove.
+
+PATIENT X355
+Yeah.
+
+DOCTOR X355
+They can't find their way home.
+
+PATIENT X355
+Yeah.
+
+DOCTOR X355
+So then they won't say that they're lost so.
+
+PATIENT X355
+Yeah okay.
+
+DOCTOR X355
+I mean I had a patient who was out biking for 16 hours straight because he couldn't find his house but wouldn't say that he couldn't find his house.
+
+PATIENT X355
+God that's sad.
+
+DOCTOR X355
+Those are things that are just red flags.
+
+PATIENT X355
+Yeah.
+
+DOCTOR X355
+I can't remember.
+
+PATIENT X355
+I don't do bicycling.
+
+DOCTOR X355
+So having an acquaintance that comes to me at night and those things, those things are not worrisome.
+
+PATIENT X355
+Yeah well I suspected that but you still worry.  When it happens to you, you're just gonna worry about it until you know you can say no I know that's common.
+
+DOCTOR X355
+Well no, okay, I'll say I'm glad @@@. So @@@.  And actually HIV screening, would you like to be screened for HIV?
+
+PATIENT X355
+I have no reason to be.
+
+DOCTOR X355
+Alright.
+
+PATIENT X355
+I was seen once in my younger days.  This girl, it was just a @@@ thing you know.  I got screened and then she laughed well I was just kidding.  Anyway I didn't tell you what I called her.
+
+DOCTOR X355
+Alright.  Well let me, give me a few minutes and I'll be right back.
+
+PATIENT X355
+Okay, alright.
+
+DOCTOR X355
+I'm gonna talk to my attending okay.
+
+PATIENT X355
+Sure.
+
+DOCTOR X355
+Alright.
+
+(DOCTOR OUT:  71:03  DOCTOR IN:  77:02)
+
+PATIENT X355
+Yes.
+
+DOCTOR X355
+Alright.  And he agrees with the plan.
+
+PATIENT X355
+They okayed it huh, good.  Yeah I had one other thing.
+
+DOCTOR X355
+Okay.
+
+PATIENT X355
+You can just fill me in.
+
+DOCTOR X355
+@@@ on leave so.
+
+PATIENT X355
+Um I call him NAME but that was my other GP.
+
+DOCTOR X355
+Uh-huh.
+
+PATIENT X355
+He was gonna refer me to some @@@ where the VA wants to mess with this and this thing bothers me, a little skin tag I got here.
+
+DOCTOR X355
+Oh.
+
+PATIENT X355
+It just bothers me, no like there's one, a little one there and one there.
+
+DOCTOR X355
+Uh-huh.
+
+PATIENT X355
+Would the VA do anything about that or should I just go to my Medicare people if they take it off?
+
+DOCTOR X355
+Uh how does it, how does it bother you?
+
+PATIENT X355
+Uh I keep rubbing it and sort of pulling on it and.
+
+DOCTOR X355
+So Derm usually considers things like that just cosmetic.
+
+PATIENT X355
+Okay yeah that's fine.  I understand that yeah.
+
+DOCTOR X355
+So.  
+
+PATIENT X355
+Cause I got, I keep I'm paying a hundred and some dollars a month for Medicare and I never have used it so why not go and have them do it?
+
+DOCTOR X355
+Why not?
+
+PATIENT X355
+Get a breast reduction and some collagen.
+
+DOCTOR X355
+You'll be a whole new man when I see you.
+
+PATIENT X355
+Yeah woman maybe.
+
+DOCTOR X355
+Oh.
+
+PATIENT X355
+Woman or man.  Now uh you got a card with your uh.
+
+DOCTOR X355
+I do.
+
+PATIENT X355
+And if that other, if Walmart says I can't take those other ones, have them call you?
+
+DOCTOR X355
+Yep.
+
+PATIENT X355
+Okay.
+
+DOCTOR X355
+Leave a message with my nurse NURSE best way to reach me.
+
+PATIENT X355
+NURSE.
+
+DOCTOR X355
+Yep it's on there.
+
+PATIENT X355
+Oh okay.
+
+DOCTOR X355
+NURSE.
+
+PATIENT X355
+I don't know why they don't use e-mails.  I did that, I used to go to the @@@ Clinic and the nurse practitioner there and I e-mailed and it was so much easier.  She used e-mail.  I don't think she told them she was doing that but it worked out really well.  Why don't they use it?  Encourage that.
+
+DOCTOR X355
+Uh they do have, it's not really e-mail it's like a website that you can use so.
+
+PATIENT X355
+Yeah.
+
+DOCTOR X355
+They because of information protection laws, the HIPPA Rule.
+
+PATIENT X355
+Oh I know all that yeah.
+
+DOCTOR X355
+So you can't use e-mail.
+
+PATIENT X355
+See I thought I put the fear of God in them you know.
+
+DOCTOR X355
+Oh me.
+
+PATIENT X355
+I tell my friends, I said I can put a suit on and walk in any hotel and any hospital in the United States at 8 o'clock in the morning and they'll say oh hello, now we'll have an office over here.  My daughter works there in the Media Department so she gave me that.
+
+DOCTOR X355
+Oh.
+
+PATIENT X355
+But I have to try it out you know.
+
+DOCTOR X355
+That's fine.
+
+PATIENT X355
+Well thank you, I'll see you again when, do I need to?
+
+DOCTOR X355
+How about six months.
+
+PATIENT X355
+Six months.
+
+DOCTOR X355
+Or sooner if you need it.
+
+PATIENT X355
+I don't, sooner is probably not you know.
+
+DOCTOR X355
+Yeah.
+
+PATIENT X355
+No if I need it I'll just call you right.
+
+DOCTOR X355
+Yep.
+
+PATIENT X355
+Alright, thank you very much.
+
+DOCTOR X355
+You're welcome.
+
+PATIENT X355
+It was a pleasure meeting you and I hope that uh we can have a long and prosperous relationship.
+
+DOCTOR X355
+Very good.  Check out.
+
+PATIENT X355
+Oh okay where it says check out.
+
+DOCTOR X355
+@@@.
+
+PATIENT X355
+Alright thanks.  Huh.
+
+DOCTOR X355
+Check out is this way.
+
+PATIENT X355
+Oh that check out okay.
+
+PATIENT LEAVES:  80:14
+
+Time is 1:00 p.m.
+
+
+

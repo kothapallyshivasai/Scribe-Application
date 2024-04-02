@@ -1,0 +1,511 @@
+
+DOCTOR X37
+Nice to see you.
+
+PATIENT X37
+How you been?
+
+DOCTOR X37
+Good, how are you?  Take a seat.
+
+PATIENT X37
+Thanks.
+
+DOCTOR X37
+How was your holiday?
+
+PATIENT X37
+Uh uneventful which is good.
+
+DOCTOR X37
+Um how have you been, anything new going on, anything different?
+
+PATIENT X37
+Uh no.  Uh, probably just a little cold and uh, so I just had to use some medicine and you know I get rid of the phlegm and pretty much.
+
+DOCTOR X37
+Uh-huh.
+
+PATIENT X37
+@@@ nothing new @@@.
+
+DOCTOR X37
+How about uh the Waldenstrom stuff is that all on the back burner?
+
+PATIENT X37
+Uh well, I'm being monitored uh I haven't uh.
+
+DOCTOR X37
+@@@.
+
+PATIENT X37
+Yeah I had, I went over there to get my port @@@ uh get the labs from them cause they did the labs so they should be coming through.
+
+DOCTOR X37
+Yeah I'm looking at them now.  They're pretty good.  Nothing abnormal in the labs.
+
+PATIENT X37
+Okay.  Good.  Uh the one thing that I was wondering about and uh I think I talked to you last time over the phone is uh, uh, I went for a chiropractic um, I can't without my teeth I guess, I don't know I'm not sure.
+
+DOCTOR X37
+Yeah.
+
+PATIENT X37
+But uh and I initiated that uh on my own because I was having trouble uh with my back sleeping and stuff like that so uh, that has been a burden to me uh but I was wondering am I in any way eligible for uh reimbursement for those uh.
+
+DOCTOR X37
+I don't think that the VA does anything with chiropractic services.
+
+PATIENT X37
+Okay.
+
+DOCTOR X37
+What about physical therapy through the VA would you be interested in trying that?
+
+PATIENT X37
+Uh I don't know if that's the same thing?
+
+DOCTOR X37
+It's not but it's the best thing that they offer.
+
+PATIENT X37
+Alright.
+
+DOCTOR X37
+So what it would be is I would send you to see a physical rehabilitation doctor and he would do an exam on you.  He would figure out, you know you have certain limitations or certain weaknesses, he would send you to a therapist and they would help to work on strengthening those.  Um for a lot of people it's very helpful.
+
+PATIENT X37
+Okay.
+
+DOCTOR X37
+You could always go and see if you don't like it, you don't have to do it anymore.  You know it's not gonna, it's not going to bind you in to anything.
+
+PATIENT X37
+Alrighty.
+
+DOCTOR X37
+Uh, would you like me to, I could put in a consult so they would see you.
+
+PATIENT X37
+Okay that's fine.
+
+DOCTOR X37
+And then it's up to you know what time you want to do it but.
+
+PATIENT X37
+Yeah right now I'm two months into the chiropractor.
+
+DOCTOR X37
+Okay.
+
+PATIENT X37
+And then again it's helped me out uh and I'm uh up tight you might say.
+
+DOCTOR X37
+All in the back?
+
+PATIENT X37
+Yeah, well I've got arthritis in the small back, small of the back anyway.  That was something that was uh found in an MRI or x-ray.
+
+DOCTOR X37
+Did you hurt your back at any point?
+
+PATIENT X37
+Years ago uh, as a bakery salesman I threw it out so it has been tender.
+
+DOCTOR X37
+I'm telling them what's wrong with you. (Doctor typing on keyboard)
+
+PATIENT X37
+But uh the x-ray or the MRI uh showed uh arthritis in the small of the back.  
+
+DOCTOR X37
+Um do you know @@@.  Okay that'd be for a colonoscopy @@@.  Did you get your shots, it looks like you did.  You got your immunization on November 5th.
+
+PATIENT X37
+Yeah, 2002, I need a colonoscopy, that was the last time.  
+
+DOCTOR X37
+@@@ follow-up.
+
+PATIENT X37
+So it's every ten years.
+
+DOCTOR X37
+Every ten years cause yours was negative.  Are you going to see the hematologist in the clinic, @@@ where he is?
+
+PATIENT X37
+Uh I got @@@.
+
+DOCTOR X37
+Yeah.
+
+PATIENT X37
+Uh and that's gonna be coming up soon, I think it's the 8th.  The 6th or the 8th.
+
+DOCTOR X37
+Okay, DOCTOR is a good friend.
+
+PATIENT X37
+Okay.
+
+DOCTOR X37
+She's a very nice girl.
+
+PATIENT X37
+Yeah.
+
+DOCTOR X37
+We worked in med school together.
+
+PATIENT X37
+Oh great.
+
+DOCTOR X37
+I know her and her husband pretty well.  Alright you're also due for some blood work.  Now your due for a PSA check.  Your last PSA was elevated, so I'm going to put um.
+
+PATIENT X37
+I've got to be here Monday so I can do it then.
+
+DOCTOR X37
+Let's do it then.  Let's just do it then.
+
+PATIENT X37
+Would I go back to uh.
+
+DOCTOR X37
+Where you got it today.
+
+PATIENT X37
+In the, okay back to Oncology.
+
+DOCTOR X37
+Oh no, no, no I didn't know that's what they're going to do; it's the first floor regular laboratory.
+
+PATIENT X37
+Hmm, first floor.
+
+DOCTOR X37
+Yeah I forgot, I forgot that you go upstairs to the special one.
+
+PATIENT X37
+Right.
+
+DOCTOR X37
+And then uh your cholesterol is fantastic, you know a little bit, but not bad at all, I mean it's pretty good.  Well let's see what you got you.  But you take no medications right?
+
+PATIENT X37
+Nothing, no.  Other than Tylenol and Advil and stuff like that to help alleviate some of the unpleasantness of the back.
+
+DOCTOR X37
+Were you ever a smoker?
+
+PATIENT X37
+At one time yes I was.
+
+DOCTOR X37
+How long were you a smoker?
+
+PATIENT X37
+Uh, I'd say from about my 16th birthday to probably my 30th, probably about 15 years.
+
+DOCTOR X37
+Yeah.
+
+PATIENT X37
+At least.
+
+DOCTOR X37
+But then you quit 30 years ago.
+
+PATIENT X37
+Yes, yeah but I had it and I wish I could have convinced my sister to do it.  She's got emphysema.
+
+DOCTOR X37
+Yeah that's when it gets tough.
+
+PATIENT X37
+I had an uncle that died from emphysema and I and believe me there's nothing worse than to go to reposition your uncle who was 6' 3" 250 pounds and then he's probably 90 pounds then and uh he tells you to get the hell out of the room.
+
+DOCTOR X37
+Oh I know it's hard.
+
+PATIENT X37
+Because that's what I was thinking you know.
+
+DOCTOR X37
+How is your mood?
+
+PATIENT X37
+Uh generally okay.  Uh I have uh problems being estranged from my uh family.
+
+DOCTOR X37
+I remember you told me about that.
+
+PATIENT X37
+Yeah and uh it's really.  I tried to investigate as many avenues as I can but it seems like nobody wants to withdraw the.
+
+DOCTOR X37
+Is there anyone in your family you still talk to?
+
+PATIENT X37
+Uh my mother and my two sisters no.  Uh I don't try to communicate with the cousin, who is now taking care of his mother.  I don't want to cause anybody any.
+
+DOCTOR X37
+More problems?
+
+PATIENT X37
+Yeah no, that's not what I want.  I wanted uh visitation rights to my mother and my sister denied me that.  She is my mother's caretaker.  I have two sisters and the one that's the caretaker is.
+
+DOCTOR X37
+But they live close by?
+
+PATIENT X37
+Uh, what my mother's house is in xxx, I live in xxx xxx.
+
+DOCTOR X37
+Okay.
+
+PATIENT X37
+So that's not really that far away.
+
+DOCTOR X37
+Yeah @@@.  Um every time you come in here, we need to look @@@.  This time your blood pressure is a little elevated and have they ever tried you on blood pressure medications or ever talked to you about this?
+
+PATIENT X37
+Years ago.
+
+DOCTOR X37
+Yeah how did you tolerate those?
+
+PATIENT X37
+Uh, it was okay but since I went through the chemo and the plasmapheresis uh they took me off the blood pressure medications so now, I feel comfortable about it really.
+
+DOCTOR X37
+You feel you wish you had some or you don't want any?
+
+PATIENT X37
+No I don't really want any.
+
+DOCTOR X37
+Okay, well then we'll just pull them off.  Your blood pressure is not terrible but uh, we'll hold off for now and if it gets worse in the future we might have to reconsider.
+
+PATIENT X37
+Hmm.
+
+DOCTOR X37
+Okay, everything else looks good.  I mean your numbers are good.  Your labs are fantastic.  Your @@@ seems to be very under control um.  There's not much else um.  You'll know we'll have @@@ in the summer but there's not much else other than we'll get that toxic value checked tomorrow.
+
+PATIENT X37
+If you could, uh well you said and there's no chiropractic uh uh.
+
+DOCTOR X37
+It was a physical rehab guy, I put that one out.
+
+PATIENT X37
+Okay, we'll work towards that and see what happens there because uh I noticed that uh with uh the chiropractor there's two parts, one is muscle and one is bones and uh it seems to be uh working.  I mean I feel better, this is over two months.  Now I feel uh a lot more comfortable.  I still ache in the morning when I get up but.
+
+DOCTOR X37
+They might be able; the rehab doctor might be able to help you with that.  That's what their whole area is.  I know you prefer seeing a chiropractor but they're very good with specific exercises and stretching to help out bones and muscle pains.
+
+PATIENT X37
+Uh-huh.
+
+DOCTOR X37
+So we're gonna get you in to see them and see what they have to offer but I think that that would be helpful to you as well.
+
+PATIENT X37
+Okay and uh I just worry about the other things, uh the vision as far as at the Waldenstrom.
+
+DOCTOR X37
+Yeah.
+
+PATIENT X37
+And also I still have the tinnitus in my ear and uh the one ear is particularly deaf but uh the tinnitus it bothers me that it's going to be with me the rest of my life, you understand?
+
+DOCTOR X37
+I think some of those are side effects as part of the Waldenstrom.
+
+PATIENT X37
+@@@ yeah.  Uh is Waldenstrom an organization or uh that has a track record and Waldenstrom patients uh they are more or less people that have it and go through it and what their experiences are?
+
+DOCTOR X37
+@@@.  Yeah I'll have to look.  I know DOCTOR might know that too because that's more of her area.
+
+PATIENT X37
+Alright.
+
+DOCTOR X37
+But I @@@.  Do you have access to a computer?
+
+PATIENT X37
+Yeah.
+
+DOCTOR X37
+Yeah I would check out the internet, if you type in Waldenstrom, I'm sure you'll find a group of people living with this.
+
+PATIENT X37
+Uh-huh.
+
+DOCTOR X37
+They kind of describe some of their symptoms and what they go through.
+
+PATIENT X37
+Uh-huh.  I would like to be @@@.
+
+DOCTOR X37
+Up-to-date.
+
+PATIENT X37
+Yeah and prepare for, I live alone and I have to prepare for some sort of uh, uh long term uh care that I can provide for myself and have the foresight.
+
+DOCTOR X37
+To take care of that.
+
+PATIENT X37
+Yeah.  
+
+DOCTOR X37
+Okay, ask her.  I'll look through; I haven't really looked for it.  You're actually the only patient I've ever taken care of with Waldenstrom.
+
+PATIENT X37
+After all my life, to finally become unique.  There's only about 300 million a year but.
+
+DOCTOR X37
+Right.  I don't know anybody else like you.
+
+PATIENT X37
+Well, actually thank you (laughter).
+
+DOCTOR X37
+Well let me talk to my boss and I'll be right back and we'll take a listen to you.
+
+PATIENT X37
+Alright.
+
+DOCTOR X37
+@@@.
+
+PATIENT X37
+Thank you.
+
+DOCTOR X37
+I'll be right back, relax.
+
+(DOCTOR OUT: 24:36  DOCTOR IN: 26:29)
+
+DOCTOR X37
+Okay, I'll take a peek, I'll take a listen to you and then I think we can do six months.  Um, you'll probably see DOCTOR in the meantime.
+
+PATIENT X37
+Right.  Uh that's next week.
+
+DOCTOR X37
+Oh fantastic.
+
+PATIENT X37
+Yeah.  Everything will @@@.
+
+DOCTOR X37
+I'm going to take a listen to your breathing okay?
+
+PATIENT X37
+Okay.
+
+DOCTOR X37
+There you go.  Oh you got your warm pants on underneath @@@.
+
+PATIENT X37
+Well, @@@ short under @@@.  Don't have the full length.
+
+DOCTOR X37
+Big breath.  Good.  Good.  Take a listen now.  @@@.  Any trouble going to the bathroom?
+
+PATIENT X37
+No.
+
+DOCTOR X37
+No pains, change in your stool, dark stool, light stool?
+
+PATIENT X37
+No.
+
+DOCTOR X37
+Nothing like that.  Uh, I forget did we, let me check my notes cause.  Um you're due for your once a year rectal exam, are you okay?
+
+PATIENT X37
+Yeah, is it up to you.
+
+DOCTOR X37
+It's just the digital one where I check the size of your prostate.
+
+PATIENT X37
+Okay.
+
+DOCTOR X37
+It's up to you. Uh we can do just the blood test and if the blood test is elevated then we can talk about further testing.
+
+PATIENT X37
+Alright.
+
+DOCTOR X37
+Would you prefer to do it that way?
+
+PATIENT X37
+Yeah.
+
+DOCTOR X37
+Okay, so otherwise I'm gonna take you over to see the nurse and then I'm gonna have you come see me in six months.  Uh I'll talk to DOCTOR and let her know about what's kind of going on and then she, we'll kind of communicate back and forth uh but otherwise everything looks pretty good.
+
+PATIENT X37
+Okay.
+
+DOCTOR X37
+@@@ and then I'm gonna take you over to see the nurse.
+
+PATIENT X37
+Oh okay.  @@@.  Yeah these armor alls are great, especially the short ones, they come up just above your knees and.
+
+DOCTOR X37
+The probably keep you warm.
+
+PATIENT X37
+Oh, you need something @@@ in the winter and if I get a cold for a long time then sometimes it's a little bit too hot @@@.  As long as I'm outside @@@.
+
+DOCTOR X37
+It's cold out there now.  
+
+PATIENT X37
+I have been in colder weather than this.  One time I was on @@@ trip and it was 28 below zero.
+
+DOCTOR X37
+Where were you?
+
+PATIENT X37
+I was up in Wisconsin.
+
+DOCTOR X37
+I grew up in Minnesota.
+
+PATIENT X37
+Oh.
+
+DOCTOR X37
+So I'm used to it.
+
+PATIENT X37
+Okay @@@ yeah.
+
+DOCTOR X37
+Um let me take you to see the nurse  @@@.
+
+PATIENT X37
+Thank you.
+
+PATIENT LEAVES 30:02.
+
+Time is 2:15.
+
+
+
+

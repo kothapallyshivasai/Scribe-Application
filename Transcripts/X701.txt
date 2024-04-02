@@ -1,0 +1,487 @@
+
+DOCTOR X701 
+PATIENT?
+
+PATIENT X701
+Yeah.
+
+DOCTOR X701
+@@@.
+
+SECOND PERSON X701
+I didn't think @@@.  Well sometimes he's got more than one name.
+
+DOCTOR X701
+You can have a seat right here.  How you doing today?
+
+PATIENT X701
+Okay.
+
+DOCTOR X701
+Tell me what brings you in?
+
+PATIENT X701
+Pardon me?
+
+DOCTOR X701
+Tell me what brings you in today.
+
+PATIENT X701
+What brought me in?  I'm scheduled.
+
+DOCTOR X701
+Anything specific that's bringing you in today?
+
+PATIENT X701
+No.
+
+DOCTOR X701
+No, I put @@@ came up with last time.  Um okay so let's see.  Last time I saw you I wanted to get your three month average of your sugars checked.  Um and did you forget to go to the Lab, do you know what happened?
+
+PATIENT X701
+You didn't tell me to go to the Lab.
+
+DOCTOR X701
+Okay uh well today we'll have you go to the Lab okay.
+
+PATIENT X701
+Now?
+
+DOCTOR X701
+Right after we're done.
+
+PATIENT X701
+Yeah.
+
+DOCTOR X701
+Um and you've been checking your sugars at home?
+
+PATIENT X701
+Yeah I have.  Uh I have a problem in the evening and I don't know why.
+
+DOCTOR X701
+What kind, what's wrong?
+
+PATIENT X701
+It shoots up in the evening.
+
+DOCTOR X701
+It shoots up in the evening but okay, last time I thought you were only checking, you were only taking your insulin if your sugar was high, is that right?
+
+PATIENT X701
+No I take it twice a day.
+
+DOCTOR X701
+You take it twice a day?
+
+PATIENT X701
+Yeah.
+
+DOCTOR X701
+Do you remember telling me that last time?  You check your sugar, the blood glucose twice a day but do you take um, last time you were only taking your insulin if your sugar was high or you take your insulin twice a day no matter what?
+
+PATIENT X701
+No matter what.  I might have said uh I take it uh you know you supposed to take it and then eat, I flipped, if it's less than 140 something, I eat before I take it, otherwise it'll drop down too low.
+
+DOCTOR X701
+Oh, okay I'm not gonna say it should do that.
+
+PATIENT X701
+Yeah I ate.
+
+DOCTOR X701
+So you are taking the NPH right?  The insulin NPH?
+
+PATIENT X701
+Yeah.
+
+DOCTOR X701
+And you take how many units in the morning?
+
+PATIENT X701
+Uh 15 uh the milky stuff and the clear 10 and at night its 22.
+
+DOCTOR X701
+Hmm.
+
+PATIENT X701
+The milky stuff and 10 of the clear.
+
+DOCTOR X701
+Okay.
+
+PATIENT X701
+But uh was it that told me that I, I said unless it's 140 something if I take the insulin I can feel my sugar dropping but uh it wouldn't work that fast.
+
+DOCTOR X701
+Uh-huh.  Um your sugars look pretty good.
+
+PATIENT X701
+Did you see those 200s in the evening?
+
+DOCTOR X701
+I see a 107, I see 200s, a couple of them but not all the time.
+
+PATIENT X701
+No.
+
+DOCTOR X701
+It seemed that the lowest you ever had was 70s.
+
+PATIENT X701
+No 65, I had a 65 in the morning.  If it, even November and December.  That's one thing, a couple things, well I been trying to lose some weight so I started eating some small amount at night but then I wake up in the night and I you know I see a different color, my sugar be low because uh I see the color around lights.
+
+DOCTOR X701
+Gotcha.  I think we need to change around your dosing like maybe you take more in the morning and less at night.  Cause your night will affect your morning sugar and your morning insulin will affect your night sugar.  See what I'm saying?
+
+PATIENT X701
+Yeah.
+
+DOCTOR X701
+When it's 60 do you feel bad?
+
+PATIENT X701
+In the morning no.
+
+DOCTOR X701
+Any fevers or chills?
+
+PATIENT X701
+No.
+
+DOCTOR X701
+Um any change in weight?
+
+PATIENT X701
+That's what bugs me.  I can't, I'm not losing any.
+
+DOCTOR X701
+Are you exercising?
+
+PATIENT X701
+Oh yeah.
+
+DOCTOR X701
+Do you want to, have you decided on the MOVE Program?
+
+PATIENT X701
+What's that?
+
+DOCTOR X701
+It's a program that'll help you lose weight.
+
+PATIENT X701
+Oh do you mean here?
+
+DOCTOR X701
+Uh-huh.
+
+PATIENT X701
+I don't see how.  I don't see how.
+
+DOCTOR X701
+It's uh yeah it deals with talking about your diet and exercises and things like that.
+
+PATIENT X701
+Yeah, the problem see I don't do the cooking.
+
+DOCTOR X701
+Who cooks?
+
+PATIENT X701
+My wife.
+
+DOCTOR X701
+So she has to get the education.
+
+PATIENT X701
+Yeah but she cook what she wants to.
+
+DOCTOR X701
+Does she have diabetes?
+
+PATIENT X701
+Yeah.  She had it about five or six years before I got it.
+
+DOCTOR X701
+Okay and she's not cooking.
+
+PATIENT X701
+Nope.
+
+DOCTOR X701
+Do you think you could help her cook and you guys could make different foods?
+
+PATIENT X701
+Help her cook?
+
+DOCTOR X701
+Uh-huh.
+
+PATIENT X701
+I don't know, that's not my bag, cooking, but she, hers go down too at night.  She gets up just about every night.
+
+DOCTOR X701
+Uh-huh.
+
+PATIENT X701
+Cause her sugar being up.
+
+DOCTOR X701
+So it seems like both of you, who does she see?  Who's her doctor?
+
+PATIENT X701
+Uh I think its DOCTOR from the xxx xxx @@@.
+
+DOCTOR X701
+Hmm.
+
+PATIENT X701
+Well her regular doctor retired so this is a new one.
+
+DOCTOR X701
+Okay, so what can we do to get her to cook differently?
+
+PATIENT X701
+(Laughs) I don't know, whether I talk with her again.  And uh the other problem about, you know vegetables and fruits and all that stuff.
+
+DOCTOR X701
+Uh-huh.
+
+PATIENT X701
+Uh, uh, back, way back when, when I was younger I messed my teeth up now I can't eat no fruit and stuff.  They say all of them gonna go out.
+
+DOCTOR X701
+Okay.
+
+PATIENT X701
+So I can't uh.
+
+DOCTOR X701
+Well it's not what you're, it's not necessarily what you're eating it's how much you're eating.  I mean obviously what you're eating matters to you but even if you're not eating fruits and vegetables you shouldn't be eating fatty foods and that seems like the problem right?
+
+PATIENT X701
+Oh.
+
+DOCTOR X701
+At home.
+
+PATIENT X701
+Might be too much I don't know.  But uh, but the doctor when he put me on that inhalant.
+
+DOCTOR X701
+Uh-huh.
+
+PATIENT X701
+Inhalant in this can cause you to gain weight right?  That's what I was told.
+
+DOCTOR X701
+No the insulin can cause you to gain weight but nothing you are, the prednisone that can cause you to gain weight.
+
+PATIENT X701
+Well one of them got steroid in it.
+
+DOCTOR X701
+Yeah but it's not going to your whole body, it's just localized to get to your lungs.  That was just in a pill that that's you know.
+
+PATIENT X701
+So that shouldn't cause anything.
+
+DOCTOR X701
+Uh uh.  You don't have any chest pain or trouble breathing?
+
+PATIENT X701
+No.
+
+DOCTOR X701
+Any cough?
+
+PATIENT X701
+Yeah I got a dry cough.
+
+DOCTOR X701
+Yeah you had that last time.  Nausea, vomiting, blood in your stool @@@?
+
+PATIENT X701
+None.
+
+DOCTOR X701
+Okay.  Um we definitely need to work on your sugars.  I want to see what your three month average is so we will send you to the Lab; I want to do the lab right after this okay.
+
+PATIENT X701
+Yes.
+
+DOCTOR X701
+Um and then is your phone number NUMBER?
+
+PATIENT X701
+Yeah.
+
+DOCTOR X701
+I'm gonna call you and we can work on your, once we get that average, I can work on what we're gonna do with your insulin okay.
+
+PATIENT X701
+Yeah.
+
+DOCTOR X701
+Why don't you have a seat up here, take your coat off, I'm gonna take a listen to your heart.
+
+PATIENT X701
+What they gonna check today?  I been eating all day.
+
+DOCTOR X701
+It's your three month average of your sugar so it's not gonna matter what you ate today; it's an average of everything for the past three months.
+
+PATIENT X701
+Take this off, shirt off too?
+
+DOCTOR X701
+No that's okay.  Take a deep breath.  Are you smoking still?
+
+PATIENT X701
+No I quit September 9th.
+
+DOCTOR X701
+Great.
+
+PATIENT X701
+Liquor too.
+
+DOCTOR X701
+Open your mouth, okay you can close.  Can you put your arm straight up?  Don't let me push down.  And you said you quit September the 9th?
+
+PATIENT X701
+Not this September, over a year ago.
+
+DOCTOR X701
+Oh great, that's good.  Okay.  You can come up and have a seat here and I see that you saw the podiatrist and the eye doctor since I saw you last right?
+
+PATIENT X701
+Yeah.
+
+DOCTOR X701
+Okay, it looks like you're up-to-date on everything.  
+
+PATIENT X701
+You mean on my medicine and I came up and leave an order before I come back.
+
+DOCTOR X701
+What's that?
+
+PATIENT X701
+I can order something before I come back here, for my med supply?
+
+DOCTOR X701
+Like your medications?
+
+PATIENT X701
+Yeah.
+
+DOCTOR X701
+Yeah, yeah, yeah.
+
+PATIENT X701
+What that eye doctor told me it was false.
+
+DOCTOR X701
+What was false?
+
+PATIENT X701
+She didn't put it in the system.
+
+DOCTOR X701
+Yeah I gave you six refills on everything.
+
+PATIENT X701
+Oh okay.
+
+DOCTOR X701
+Uh a year of refills you have on a lot of these things.
+
+PATIENT X701
+Okay then.
+
+DOCTOR X701
+So all of my medicines that I give you will have refills and then the ones that aren't I'm changing right now.  Do you want to pick them up here or send them to your house?
+
+PATIENT X701
+What?  Wonder whether I need them, I'm okay right now.
+
+DOCTOR X701
+Okay.  Okay I'll visit with DOCTOR and I'll be back okay.  I'll run this by him.
+
+(DOCTOR OUT:  47:58  DOCTOR IN:  53:20)
+
+DOCTOR X701
+Okay sir, so we talked about everything and it looks like right now like I said we're gonna leave what you're doing with your insulin um and then we're gonna check your three month average okay.  If the three month average looks good, you're not having lows that I'm worried about.  You said the lowest it's ever been is 65 right?
+
+PATIENT X701
+Yeah.
+
+DOCTOR X701
+So that's okay.  If you're having a lot of lows and you start feeling symptoms like the shaking and feeling like you're gonna pass out then I'm worried okay.  So you're doing fine.  You've got to work on the diet.  I know it's hard because you said your wife is the one that cooks but you really want to talk to her about it too cause it'll help both of you in the long run okay.
+
+PATIENT X701
+Okay.
+
+DOCTOR X701
+Um so I'll see you back, I won't see you back for another six months.  Everything is renewed so I'm gonna check your kidney function too since it's been about a year since it was checked so um the order's in so I'll have you go back to the Lab okay and I'll call you if we need to change anything.
+
+PATIENT X701
+Okay.  Now what's your name?
+
+DOCTOR X701
+Huh?
+
+PATIENT X701
+Your name.
+
+DOCTOR X701
+Oh DOCTOR is my last name.
+
+PATIENT X701
+DOCTOR.
+
+DOCTOR X701
+One minute and I'll help you out okay.
+
+PATIENT X701
+Yeah.
+
+DOCTOR X701
+Alright and you had your flu shot and everything right?  You got it the last time you were here.
+
+PATIENT X701
+Everything.
+
+DOCTOR X701
+Everything so you're good.
+
+PATIENT X701
+I had the flu shot, I don't know about that but it should be everything.
+
+DOCTOR X701
+You had the pneumonia shot when it was due you can have it every year if you want but you probably already have had it.
+
+PATIENT X701
+Oh okay.
+
+DOCTOR X701
+Okay.  Take care.
+
+PATIENT X701
+Thank you.
+
+DOCTOR X701
+Bye.
+
+PATIENT X701
+Bye.
+
+PATIENT LEAVES:  54:54.
+
+Time is 3:34 p.m.
+
+
+
+

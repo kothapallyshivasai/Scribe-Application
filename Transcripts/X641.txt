@@ -1,0 +1,896 @@
+
+DOCTOR X641
+PATIENT.
+ 
+PATIENT X641
+Yeah, yeah.
+
+DOCTOR X641
+Hi PATIENT.  How are you?
+
+PATIENT X641
+Alright.  How are you?
+
+DOCTOR X641
+@@@ huh.  Come on back.
+
+PATIENT X641
+You're gonna be my permanent doctor right?
+
+DOCTOR X641
+I sure am.
+
+PATIENT X641
+Alright.
+
+DOCTOR X641
+How's that sound?
+
+PATIENT X641
+That sounds good to me.
+
+DOCTOR X641
+Okay.  I'm pleased to meet you, come on in.
+
+PATIENT X641
+Okay.
+
+DOCTOR X641
+Have a seat.
+
+PATIENT X641
+Alright.
+
+DOCTOR X641
+So how are you today?
+
+PATIENT X641
+I'm okay.
+
+DOCTOR X641
+Enjoying this, okay.
+
+PATIENT X641
+Yeah I enjoy the weather.
+
+DOCTOR X641
+What a beautiful day and unfortunately you had to come see me.
+
+PATIENT X641
+I enjoy much of it whatever.  My scheduled appointment, I am gonna accept it.
+
+DOCTOR X641
+I'm glad you came okay, one second.  Alright the last time we saw you is 2008.  Oh my God.
+
+PATIENT X641
+Ooh.
+
+DOCTOR X641
+What'd you doing to us?
+
+PATIENT X641
+I'm @@@.
+
+DOCTOR X641
+Yeah I know right.
+
+PATIENT X641
+Yeah I came to see ya'll.  I'm like having shortness of breath, I don't know.
+
+DOCTOR X641
+Alright, let me.
+
+PATIENT X641
+Yeah.
+
+DOCTOR X641
+What medical problems do you have?
+
+PATIENT X641
+I been having shortness of breath.
+
+DOCTOR X641
+What medical problems do you have?
+
+PATIENT X641
+Is that like.
+
+DOCTOR X641
+No, I'll talk to you about that.  You have hepatitis, anything else.  Any other medical?
+
+PATIENT X641
+Hepatitis C um uh.  It ought to be on file actually.
+
+DOCTOR X641
+Okay, okay.  You told me you had shortness of breath.
+
+PATIENT X641
+Shortness of breath.  That's you know, finding myself I can't do too much of anything.
+
+DOCTOR X641
+What makes you short of breath walking?
+
+PATIENT X641
+Walking.
+
+DOCTOR X641
+How much?
+
+PATIENT X641
+Not that far.
+
+DOCTOR X641
+How much?
+
+PATIENT X641
+Steps, not that much, but I don't know if it's my kidneys.
+
+DOCTOR X641
+Sure.
+
+PATIENT X641
+I got cysts on my kidneys, I know about that.  Then I've been having cramps in my legs.
+
+DOCTOR X641
+Well I got it, okay the shortness of breath.
+
+PATIENT X641
+Yes.
+
+DOCTOR X641
+When did it start?
+
+PATIENT X641
+Hmm, that's been going on, I just noticed it more lately, about the last five, six months you know.
+
+DOCTOR X641
+Five, six months.
+
+PATIENT X641
+Right.
+
+DOCTOR X641
+Okay.  Has it kind of stayed the same in the last six months or has it gotten worse?
+
+PATIENT X641
+Probably gotten worse.
+
+DOCTOR X641
+Do you smoke?
+
+PATIENT X641
+No I don't.
+
+DOCTOR X641
+Any heart problems?
+
+PATIENT X641
+I took an EKG, it came out alright.
+
+DOCTOR X641
+When?
+
+PATIENT X641
+Um I think the first part of May I took it.
+
+DOCTOR X641
+Why did you do an EKG?
+
+PATIENT X641
+Cause I wanted to check my heart and make sure I'm also.
+
+DOCTOR X641
+Okay.  Who did you see for this EKG?
+
+PATIENT X641
+Oh I went upstairs on the 2nd floor in the @@@ Building.
+
+DOCTOR X641
+Okay.
+
+PATIENT X641
+It's in this building it's on the EKG floor.
+
+DOCTOR X641
+Okay.  No chest pain?
+
+PATIENT X641
+No no chest pain.
+
+DOCTOR X641
+Okay any nausea, vomiting?
+
+PATIENT X641
+No.
+
+DOCTOR X641
+You've never smoked?
+
+PATIENT X641
+I smoked years ago.
+
+DOCTOR X641
+When did you quit?
+
+PATIENT X641
+27 years ago, @@@.
+
+DOCTOR X641
+Were you a heavy smoker at that time?
+
+PATIENT X641
+I might have been, @@@.
+
+DOCTOR X641
+Okay.  And do you cough?
+
+PATIENT X641
+I cough pretty regularly, especially at night.
+
+DOCTOR X641
+You have a cough at night?
+
+PATIENT X641
+@@@.
+
+DOCTOR X641
+Okay kind of a dry cough when you lay down?
+
+PATIENT X641
+Kind of dry cough.
+
+DOCTOR X641
+How long has that been going on?
+
+PATIENT X641
+Hmm, that been going on for a long time.
+
+DOCTOR X641
+Same time?
+
+PATIENT X641
+Yeah it was about the same time.
+
+DOCTOR X641
+Hmm.  You've never been diagnosed with asthma or anything like that?
+
+PATIENT X641
+No.
+
+DOCTOR X641
+Well are you on any medicines?
+
+PATIENT X641
+No.
+
+DOCTOR X641
+Okay.  Do you get any swelling in your legs?
+
+PATIENT X641
+Yeah, swelling in the right leg but I had what do you call it, for the varicose veins.
+
+DOCTOR X641
+So you've always had swelling in your legs?
+
+PATIENT X641
+Hmm for the last uh year or two pretty much.
+
+DOCTOR X641
+Okay um.  How many pillows do you sleep on at night?
+
+PATIENT X641
+@@@.
+
+DOCTOR X641
+What?
+
+PATIENT X641
+One I prop up against the wall but I don't lay on it.
+
+DOCTOR X641
+Is that because of your breathing?
+
+PATIENT X641
+Not @@@.
+
+DOCTOR X641
+Um so walking just a block or several steps.
+
+PATIENT X641
+I would say more than a block, maybe about two, three.  I seen the foot doctor last week about that.
+
+DOCTOR X641
+Okay.  Um no history of COPD or anything?  Chronic bronchitis?  Okay.
+
+PATIENT X641
+No.
+
+DOCTOR X641
+Okay.  Have you ever had an ultrasound of your heart?
+
+PATIENT X641
+No.
+
+DOCTOR X641
+Have you ever had lung tests, lung function tests?
+
+PATIENT X641
+No, @@@.
+
+DOCTOR X641
+And you're also having cramps in your legs?
+
+PATIENT X641
+Yes @@@.
+
+DOCTOR X641
+Both legs?
+
+PATIENT X641
+Huh?
+
+DOCTOR X641
+Both legs?
+
+PATIENT X641
+Yes.
+
+DOCTOR X641
+When do you get them?
+
+PATIENT X641
+Uh when I'm laying in the night, @@@.  
+
+DOCTOR X641
+So wait, wait, @@@.
+
+PATIENT X641
+I said later in the night.
+
+DOCTOR X641
+Okay.
+
+PATIENT X641
+You know when I get ready to go to bed I get them @@@.
+
+DOCTOR X641
+What about if you walk?
+
+PATIENT X641
+No, @@@.
+
+DOCTOR X641
+So have you always had cramps or just sometimes.
+
+PATIENT X641
+Sometimes.
+
+DOCTOR X641
+Daily or not?  How often?
+
+PATIENT X641
+Quite a bit, maybe @@@.
+
+DOCTOR X641
+And how long has that been going on?
+
+PATIENT X641
+It's been going on quite a while.
+
+DOCTOR X641
+What's quite a while?
+
+PATIENT X641
+Six @@@.
+
+DOCTOR X641
+Okay.  Um any @@@ pills anything like that?
+
+PATIENT X641
+@@@.
+
+DOCTOR X641
+Okay.  Let me examine you.  You know what you can pull your things off and @@@.
+
+PATIENT X641
+And I think I have a weight problem.
+
+DOCTOR X641
+Well let's address your issues right now.
+
+PATIENT X641
+@@@.
+
+DOCTOR X641
+Well the shortness of breath is the most important one okay.  So @@@ okay.  Oh no I want you to sit up.  Do you snore at night that you know of?
+
+PATIENT X641
+Do I snore?
+
+DOCTOR X641
+Uh-huh.
+
+PATIENT X641
+I probably do.
+
+DOCTOR X641
+Okay do you, when you wake up in the morning do you feel refreshed?
+
+PATIENT X641
+Not really.
+
+DOCTOR X641
+No okay.  Have you gained weight?
+
+PATIENT X641
+Right here, yeah I been gaining weight.
+
+DOCTOR X641
+Okay.  Deep breaths.  Okay breathe normally.  Okay now can I have you lay down please?  Is it okay when you lay, is it okay?
+
+PATIENT X641
+Yes.  Who do I see about the prostate?
+
+DOCTOR X641
+What about your prostate?
+
+PATIENT X641
+I thought it was swole or a different pain I don't know.
+
+DOCTOR X641
+Okay, we can address that as well.  We're gonna do that at our next visit.  You're gonna be seeing me a lot okay.
+
+PATIENT X641
+Okay.
+
+DOCTOR X641
+Unfortunately, I'm gonna make you come, I'm sorry mainly because I want to address your.  Now the bad thing of having shortness of breath, I'm gonna tell you, it can be several different things.  It can be your heart.  It can be your lungs.  It can be your weight; a lot of things can do it okay.  So I want to make sure we look at everything.  You know a lot of people who are, what are these marks from?
+
+PATIENT X641
+Scratches.
+
+DOCTOR X641
+A lot of people who are anemic have low blood cells can get short of breath, you're not.
+
+PATIENT X641
+I'm not anemic.
+
+DOCTOR X641
+Uh uh.  Sit up for me.  You can have a seat over there.  I want to look at a couple things and then I'm gonna talk to DOCTOR and if you can, what I want to do is get a bunch of tests okay.
+
+PATIENT X641
+Okay.
+
+DOCTOR X641
+Um to make sure your breathing is not because of asthma, lung disease, get a chest x-ray and get an ultrasound of your heart.  Cause like I said even if you're not having chest pain you can have shortness of breath just from heart problems.  No family history of heart problems?
+
+PATIENT X641
+Well my father passed.
+
+DOCTOR X641
+From what?
+
+PATIENT X641
+He had a heart attack and my brother; I think he had congestive heart failure.
+
+DOCTOR X641
+Yeah congestive heart failure is the one I'm worried about.
+
+PATIENT X641
+Uh-huh.
+
+DOCTOR X641
+Has anyone ever uh, let's see now your EKG, everything looks fine.  So that's good.  Um yeah we're gonna do all the prostate, the colon, all of those things.
+
+PATIENT X641
+Yeah okay.
+
+DOCTOR X641
+Cool, you're excited.
+
+PATIENT X641
+@@@.  
+
+DOCTOR X641
+I agree.  We need to figure this out; it's been going on way too long.
+
+PATIENT X641
+Right cause it sure seems to get all that.
+
+DOCTOR X641
+Probably @@@.
+
+PATIENT X641
+Now.
+
+DOCTOR X641
+@@@.
+
+PATIENT X641
+Well I had it but I'm just saying when I was coming in.
+
+DOCTOR X641
+@@@ six months.
+
+PATIENT X641
+I'm saying back in 2003 or whenever broke my foot and all that.
+
+DOCTOR X641
+Do you drink?
+
+PATIENT X641
+Yes I drink.
+
+DOCTOR X641
+How much?
+
+PATIENT X641
+I drink about a six-pack @@@ a day.
+
+DOCTOR X641
+Six-packs a day.
+
+PATIENT X641
+A six-pack not.
+
+DOCTOR X641
+That's a lot of alcohol.
+
+PATIENT X641
+Yeah it is.
+
+DOCTOR X641
+A lot.
+
+PATIENT X641
+A six-pack is?
+
+DOCTOR X641
+Yes.  @@@.
+
+PATIENT X641
+But I ain't been doing that for a year so it wasn't that long.
+
+DOCTOR X641
+How long have you been doing that?
+
+PATIENT X641
+About a year.
+
+DOCTOR X641
+Okay.  
+
+PATIENT X641
+Maybe I shouldn't have done it at all.  About a year, one year.
+
+DOCTOR X641
+Not good.
+
+PATIENT X641
+Okay.
+
+DOCTOR X641
+But your.
+
+PATIENT X641
+I understand that, that probably @@@.
+
+DOCTOR X641
+Have you heard about our MOVE Program?  Would you be interested in our MOVE Program?
+
+PATIENT X641
+I don't know what it is.
+
+DOCTOR X641
+It's um a weight loss program.  You'd have an excellent nurse.
+
+PATIENT X641
+Uh-huh.
+
+DOCTOR X641
+Would you be interested in that?
+
+PATIENT X641
+How often they meet?
+
+DOCTOR X641
+You address that with her.  She will kind of go over that stuff with you.
+
+PATIENT X641
+Yeah, I'll probably check into it.
+
+DOCTOR X641
+Great.  Um I am gonna set you up for a colon cancer screening.
+
+PATIENT X641
+Okay.
+
+DOCTOR X641
+Okay.  Would you do that?  Have you ever had a colonoscopy?
+
+PATIENT X641
+No.
+
+DOCTOR X641
+Probably not okay.  Have you ever had your um uh prostate checked?
+
+PATIENT X641
+Not for a while.
+
+DOCTOR X641
+Do you have symptoms, any symptoms when you urinate or are you just worried about it because of your age?
+
+PATIENT X641
+Just worried about the blood draw.
+
+DOCTOR X641
+Huh?
+
+PATIENT X641
+I said I be worried about it, you know worried about urinating and all that kind of stuff.
+
+DOCTOR X641
+Are you urinating okay though right now?
+
+PATIENT X641
+Yeah I'm urinating now but it's colored you know it's not clear cause @@@ almost like a orange like.  You know what I'm saying?
+
+DOCTOR X641
+You're drinking enough water?
+
+PATIENT X641
+Maybe I'm not, I don't know, maybe not.
+
+DOCTOR X641
+You want to drink water okay.
+
+PATIENT X641
+Okay.
+
+DOCTOR X641
+Okay I will be right back okay.  So @@@ all those tests @@@.
+
+PATIENT X641
+Uh-huh.
+
+DOCTOR X641
+I'm gonna talk to my boss.
+
+PATIENT X641
+And see if he can get for any day @@@ June.
+
+DOCTOR X641
+For what?
+
+PATIENT X641
+Any one of them.
+
+DOCTOR X641
+Oh we'll schedule those okay.  We'll go out and talk to them and we'll schedule them okay.
+
+PATIENT X641
+Okay.
+
+DOCTOR X641
+Who did you see in April let's see.  They did a whole lot of tests on you.
+
+PATIENT X641
+In April?
+
+DOCTOR X641
+Uh-huh.
+
+PATIENT X641
+They did blood.  They did blood.
+
+DOCTOR X641
+@@@.  
+
+PATIENT X641
+I @@@.
+
+DOCTOR X641
+Huh?
+
+PATIENT X641
+I forgot to mention that they ran those tests back in April.
+
+DOCTOR X641
+All your hepatitis labs look good.  So I'll be right back okay.
+
+PATIENT X641
+Okay.
+
+DOCTOR X641
+Okay I'll be right back.
+
+(DOCTOR OUT:  23:16  DOCTOR IN:  42:35)
+
+DOCTOR X641
+Alright.
+
+PATIENT X641
+Uh-huh.
+
+DOCTOR X641
+@@@.  I'm sorry, here's your things.
+
+PATIENT X641
+That's okay.
+
+DOCTOR X641
+I'm gonna order, we're gonna start with two things.  The first step @@@ okay, let me I'll do it while I'm telling you, okay.  I want to do a stress test and an x-ray of your chest.
+
+PATIENT X641
+Okay, yeah.
+
+DOCTOR X641
+Okay um the x-ray you can get done today.  The stress test you'll have to schedule up front okay.
+
+PATIENT X641
+Okay.
+
+DOCTOR X641
+How does that sound to you?
+
+PATIENT X641
+Okay.
+
+DOCTOR X641
+I think we will figure out what is going on and we will be able to help you okay.
+
+PATIENT X641
+Okay.  What about the kidney thing.
+
+DOCTOR X641
+Your kidneys look fine.  Your kidneys look great.
+
+PATIENT X641
+Uh-huh.
+
+DOCTOR X641
+We got urine and we got your labs and everything looks beautiful.  Just that makes me feel good.
+
+PATIENT X641
+Uh-huh.
+
+DOCTOR X641
+Okay.
+
+PATIENT X641
+Okay.
+
+DOCTOR X641
+Do you have time to get that test done, the x-ray?
+
+PATIENT X641
+Yeah.
+
+DOCTOR X641
+Good.
+
+PATIENT X641
+What floor?
+
+DOCTOR X641
+Actually the chest x-rays are on the first floor.
+
+PATIENT X641
+@@@.
+
+DOCTOR X641
+And for imaging you can go there okay.  My suspicion is it's related to your heart.  Not saying we can't help you but once you know what the cause is you can treat it okay.
+
+PATIENT X641
+Okay.
+
+DOCTOR X641
+Alright um let's see.  I am gonna; I want to see you back soon so about a month because I want you to get these tests before you see me okay.  So please schedule stress test and then I'll give you the information for a colonoscopy.  You know it's not my first priority; the first priority is the stress test and the chest x-ray okay.
+
+PATIENT X641
+Yeah.
+
+DOCTOR X641
+So the colonoscopy yes I need you to get it.
+
+PATIENT X641
+Hmm.
+
+DOCTOR X641
+But it's not urgent okay.
+
+PATIENT X641
+Okay.
+
+DOCTOR X641
+Um.
+
+PATIENT X641
+The prostate when are you gonna do that?
+
+DOCTOR X641
+We're gonna do that on your lab tests, not right now okay.  Um do you want to see the @@@ of the MOVE Program today or at the next visit?
+
+PATIENT X641
+Probably the next visit.
+
+DOCTOR X641
+Okay.
+
+PATIENT X641
+Cause I probably need it earlier right.
+
+DOCTOR X641
+Yeah try to ask them if you can get the 1 o'clock scheduled and you can come right away, if you get here about 12:45 you'll be the first patient I see.
+
+PATIENT X641
+Okay.
+
+DOCTOR X641
+That's what I would do if I were you.  It's the best way to be seen right away.
+
+PATIENT X641
+Okay.
+
+DOCTOR X641
+Okay.
+
+PATIENT X641
+Okay.
+
+DOCTOR X641
+Bring this out to the front okay.
+
+PATIENT X641
+Uh-huh.
+
+DOCTOR X641
+And when you leave here I want you to go get your x-ray then you can go home.  If there's anything wrong let me sure I have your number um NUMBER?
+
+PATIENT X641
+Right.
+
+DOCTOR X641
+Alright.
+
+PATIENT X641
+Or you can use cells, I got a cell phone.
+
+DOCTOR X641
+Huh?
+
+PATIENT X641
+I got a cell phone number too.
+
+DOCTOR X641
+Oh that ones perfect, I'll leave you a message okay.
+
+PATIENT X641
+Alright.
+
+DOCTOR X641
+You have a good day.
+
+PATIENT X641
+You too.
+
+DOCTOR X641
+It was a pleasure to meet you.
+
+PATIENT X641
+Same here.  I'll be seeing you, since you're gonna be my primary @@@.
+
+DOCTOR X641
+Uh-huh you're stuck.
+
+PATIENT X641
+Well you have a good day.
+
+DOCTOR X641
+You too.
+
+PATIENT LEAVES:  46:20.
+
+
+
+

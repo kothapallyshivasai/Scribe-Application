@@ -1,0 +1,338 @@
+
+DOCTOR X526
+PATIENT?
+
+PATIENT X526 
+Here.  Hi, how you doing.
+
+DOCTOR X526
+How you doing?  Go ahead and have a seat.  Long day?  How have you been?
+
+PATIENT X526
+Alright I guess.
+
+DOCTOR X526
+Any problems?
+
+PATIENT X526
+Well I had to see them yesterday so I'm waiting to see what's going on.
+
+DOCTOR X526
+What thing was that?
+
+PATIENT X526
+The defibrillation.  What is this appointment for?
+
+DOCTOR X526
+I think we were just going to follow up.  You haven't seen me since, you were here you saw DOCTOR in May.  Let me see.  You were having some trouble with your breathing.
+
+PATIENT X526
+Uh-huh.
+
+DOCTOR X526
+How's that going?
+
+PATIENT X526
+Same old thing worsen.
+
+DOCTOR X526
+What's happening, what's going on?
+
+PATIENT X526
+Now I was taking four or five medicines for the uh the irregular heartbeat05.  They put me on four or five different medicines, one of them is metoprolol.  I think that's the one that makes your mouth dry and you @@@ breathe but then there was a small cough and so he wanted me to talk to somebody in Pulmonary.  But we changing that until you get to finish with that.  The breathing was @@@ and then when I cough, rales but I couldn't cough it up because whatever it is @@@.
+
+DOCTOR X526
+Are you not coughing or you're not able to bring it up is that what you're saying?
+
+PATIENT X526
+I'm not able to bring it up.  You know some rattling.
+
+DOCTOR X526
+And what did we give you for that?
+
+PATIENT X526
+Nothing.
+
+DOCTOR X526
+Nothing at all.  We didn't give you any, we gave you some antibiotics.
+
+PATIENT X526
+The antibiotic wasn't for.
+
+DOCTOR X526
+What was that for?
+
+PATIENT X526
+That was for helping my blood.
+
+DOCTOR X526
+Has that stopped?
+
+PATIENT X526
+Yeah it stopped.  What happened to the last doctor I seen?
+
+DOCTOR X526
+Which one?
+
+PATIENT X526
+The female doctor who described the antibiotics.
+
+DOCTOR X526
+Yeah she's next door.  She's the supervising doctor.
+
+PATIENT X526
+Okay.
+
+DOCTOR X526
+Uh we work together.  She's my supervising doctor.
+
+PATIENT X526
+Uh-huh.
+
+DOCTOR X526
+Um so the cough has gotten better or is it just the blood has gotten better?
+
+PATIENT X526
+No the cough much better.  The blood in the sputum is cleared up.
+
+DOCTOR X526
+Okay.
+
+PATIENT X526
+Cause she.
+
+DOCTOR X526
+So now it's just the rattling in there.
+
+PATIENT X526
+The rattle is here and I can't bring it up when I need to. 
+
+DOCTOR X526
+Are you taking the cough syrup?  Is that breaking it up at all?
+
+PATIENT X526
+Not really.
+
+DOCTOR X526
+Okay.  Are you getting short of breath?
+
+PATIENT X526
+Hmm.
+
+DOCTOR X526
+Is it better or worse than it was three weeks ago?
+
+PATIENT X526
+Bout the same.
+
+DOCTOR X526
+And did you ever get a chest x-ray?
+
+PATIENT X526
+Yeah I got the chest x-ray the same day she prescribed the antibiotics.
+
+DOCTOR X526
+Good.  Uh okay.  It shows there wasn't much change but they wanted to treat you cause you're having all these @@@ symptoms so how did the thing go yesterday?
+
+PATIENT X526
+Okay I guess.  They get it back in rhythm.
+
+DOCTOR X526
+Good.
+
+PATIENT X526
+So we have to wait and find out what the next step, cause that's the second time that this happened.
+
+DOCTOR X526
+Right, right.  Um are you still smoking?  You quit a while back right?
+
+PATIENT X526
+Yeah.
+
+DOCTOR X526
+Okay. Alright, any other problems, concerns?
+
+PATIENT X526
+No I'm guessing that I should see the cardiologist.  I was wondering if @@@.
+
+DOCTOR X526
+Yeah.
+
+PATIENT X526
+It's keeping me tired and it's like I'm sleepy but @@@ so I got to probably wait and see what's gonna happen with that.
+
+DOCTOR X526
+And you think it's the metoprolol?
+
+PATIENT X526
+I think, I wasn't @@@ until he put me on the metoprolol.
+
+DOCTOR X526
+How long ago was that?  @@@.
+
+PATIENT X526
+January.
+
+DOCTOR X526
+Okay.  So since then you've had a lot of, you've been sleepy.
+
+PATIENT X526
+And the shortness of breath.  Especially one of them, @@@.
+
+DOCTOR X526
+Okay, okay.  
+
+PATIENT X526
+I'm trying to find, I have been trying to get something for my ankles cause my feet are swelling up real big.
+
+DOCTOR X526
+Do you take a water pill?
+
+PATIENT X526
+I was taking the water pill and then they finally start going down but I was just taking some.
+
+DOCTOR X526
+Does it hurt?  Is it painful?
+
+PATIENT X526
+No I was taking some borrowed water pills which you're not supposed to do.  Cause I wasn't getting nothing for my.
+
+DOCTOR X526
+You need to get you your own, you don't have to borrow them.
+
+PATIENT X526
+Well I have been telling these people for the last month about how big my ankle swelling, my feet were swelling up and then @@@.  Now I had 12 pills but none of them was a derivative so.  
+
+DOCTOR X526
+Well hopefully now that your heart's in a good rhythm, that'll help too.  We can get you a little bit of a water pill.  Have a seat here.  When are you supposed to see the cardiologist then?
+
+PATIENT X526
+Next week.
+
+DOCTOR X526
+Yeah it's not on there.
+
+PATIENT X526
+I don't think so.
+
+DOCTOR X526
+We'll get you back in the clinic in a couple of weeks.  Let me see what their last note said.  Can you lean forward so I can listen to you?  Deep breath in and out.  Okay.  Just breathe normal.  Are you using your inhalers?
+
+PATIENT X526
+Yeah.
+
+DOCTOR X526
+And what about the Coumadin, was there a question about the Coumadin?
+
+PATIENT X526
+Yeah I talked to the person in the Pharmacy and they said now you have to keep taking it until you see the cardiologist.
+
+DOCTOR X526
+Right.
+
+PATIENT X526
+But I have no appointment to see the cardiologist until a week.
+
+DOCTOR X526
+Yeah we'll see what.
+
+PATIENT X526
+And I supposed to I guess, uh she @@@ I don't know @@@ or not.
+
+DOCTOR X526
+Okay.  Do you want these mailed to you or do you want to pick them up?
+
+PATIENT X526
+What?
+
+DOCTOR X526
+The water pill.
+
+PATIENT X526
+You can mail them to me.
+
+DOCTOR X526
+Alright.  Okay.  Let me talk to DOCTOR and we'll if we can probably get you, uh you can probably start decreasing that metoprolol, that's causing some of the problems.  How much are you taking, do you know?  Do you remember?
+
+PATIENT X526
+About half a pill three times a day.
+
+DOCTOR X526
+Okay.  We may be able to just take you completely off that to see how you do and we'll get you in to see the cardiologist to see her within the month okay.
+
+PATIENT X526
+Uh-huh.
+
+DOCTOR X526
+I'll be right back.
+
+(DOCTOR OUT:  64:24  DOCTOR IN:  70:19)
+
+DOCTOR X526
+Alright here, so we'll get you an appointment in to see your cardiologist and um there's that.
+
+PATIENT X526
+Okay.
+
+DOCTOR X526
+We can have you stop both the metoprolol and the Coumadin now that the shock went well and now the rhythm's normal.  If it gets abnormal again, if you're having any symptoms uh having the chest palpitations, having the severe shortness of breath you should come in to the Emergency Department okay.  @@@.  
+
+PATIENT X526
+Okay so since they got my heart back in rhythm.
+
+DOCTOR X526
+Yeah.
+
+PATIENT X526
+So that's the end of the pacemaker right?
+
+DOCTOR X526
+Um you don't have a pacemaker.
+
+PATIENT X526
+I know.
+
+DOCTOR X526
+Okay.
+
+PATIENT X526
+That was talking about putting one in.
+
+DOCTOR X526
+We'll see.  If you stay in this rhythm yeah it's @@@ think you don't need it.  Uh I think they're also concerned about, yeah I think that's the issue is that they can't, if you're heart's in normal rhythm you don't get a pacer.  If it's beating fast and they can't stop it then you need to have not an operation but where they burn the place that's been getting a little fast and they put in a pacemaker so you don't need that.
+
+PATIENT X526
+They burned it, I thought they just took a little old @@@.
+
+DOCTOR X526
+They do that but what they have to do is that uh what's happening is there's a lot of respiratory @@@ making the heart beat fast.
+
+PATIENT X526
+Oh okay.
+
+DOCTOR X526
+So they got to buzz that place where that's causing all the problems.  If they do that then the heart will slow down really slow and you need a pacemaker.
+
+PATIENT X526
+Oh okay.  @@@.  Okay.
+
+DOCTOR X526
+So if it happens again I don't know we'll have to talk about that again.
+
+PATIENT X526
+Alright.
+
+DOCTOR X526
+But we'll get a repeat ultrasound of the heart.
+
+PATIENT X526
+Okay.
+
+DOCTOR X526
+Alright you take care.
+
+PATIENT LEAVES:  73:08.
+
+
+
+

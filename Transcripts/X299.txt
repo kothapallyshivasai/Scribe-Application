@@ -1,0 +1,2008 @@
+
+DOCTOR X299
+PATIENT?
+
+PATIENT X299
+Yes.
+ 
+DOCTOR X299
+@@@.
+
+PATIENT X299
+Huh?
+
+DOCTOR X299
+@@@ have a seat.  @@@ are you doing okay?
+
+PATIENT X299
+@@@.  Warm and up, calming down you know.
+
+DOCTOR X299
+So.
+
+PATIENT X299
+How you doing?
+
+DOCTOR X299
+I must admit I was looking through things a little bit here.  I know you saw DOCTOR a couple of weeks ago or like a month ago now.
+
+PATIENT X299
+Yes.
+
+DOCTOR X299
+So I guess I'm not quite sure what you need today, so you fill me in on what's going on with you.
+
+PATIENT X299
+Well uh when I talked you I asked you about the back and all that.
+
+DOCTOR X299
+Uh-huh.
+
+PATIENT X299
+And I had the pain down here.
+
+DOCTOR X299
+Uh-huh.
+
+PATIENT X299
+That's all taken care of.
+
+DOCTOR X299
+Oh good.
+
+PATIENT X299
+But um I still have kind of like a numbness on the outside of my leg.
+
+DOCTOR X299
+Okay.
+
+PATIENT X299
+And my toes and the bottom of my toes.
+
+DOCTOR X299
+Okay.
+
+PATIENT X299
+And if uh, if I try to point my toes.
+
+DOCTOR X299
+Uh-huh.
+
+PATIENT X299
+They cramp up really quick.
+
+DOCTOR X299
+Okay.  Okay.  You point your toes they cramp up okay.
+
+PATIENT X299
+Right.  Besides that, now my back's fine.
+
+DOCTOR X299
+Okay.
+
+PATIENT X299
+But then also too, I'd say that uh it started just a little bit before I seen the other doctor.
+
+DOCTOR X299
+Okay.
+
+PATIENT X299
+But now right here, it feels like it's asleep.
+
+DOCTOR X299
+Okay.
+
+PATIENT X299
+It's not numb.
+
+DOCTOR X299
+Okay.
+
+PATIENT X299
+I could feel it.
+
+DOCTOR X299
+But kind of tingling or?
+
+PATIENT X299
+Yeah.
+
+DOCTOR X299
+Okay.
+
+PATIENT X299
+So if you give me your hand.
+
+DOCTOR X299
+Yeah.
+
+PATIENT X299
+That you know.
+
+DOCTOR X299
+@@@.
+
+PATIENT X299
+But here.
+
+DOCTOR X299
+At the side of @@@ there okay.
+
+PATIENT X299
+Yeah and I've been noticing lately that when I pick something up and walk.
+DOCTOR X299
+Uh-huh.
+
+PATIENT X299
+Then I mainly are using these three fingers.
+
+DOCTOR X299
+Okay.
+
+PATIENT X299
+To hold it.
+
+DOCTOR X299
+Okay.
+
+PATIENT X299
+It just don't function.
+
+DOCTOR X299
+Okay, let's see.
+
+PATIENT X299
+And I don't know if that was just because um you know the injury to my back because the nerves are all connected.
+
+DOCTOR X299
+Yeah.  Did you get to Prosthetics?  For that elbow sleeve?
+
+PATIENT X299
+Yeah.
+
+DOCTOR X299
+Did that help at all?
+
+PATIENT X299
+I used that for a week and a half but it was so small.
+
+DOCTOR X299
+It wasn't the right size?
+
+PATIENT X299
+Yeah well he said it was supposed to be a big sleeve but all it was a elbow pad.
+
+DOCTOR X299
+Uh-huh.
+
+PATIENT X299
+Like um you wear with football.
+
+DOCTOR X299
+Okay.  Between the @@@.  Okay.
+
+PATIENT X299
+And it was really uncomfortable before I, you know I stopped using it.
+
+DOCTOR X299
+Okay.
+
+PATIENT X299
+He said it might help out with this, but it really didn't.
+
+DOCTOR X299
+And then it didn't okay.  Okay and is it just in the left hand?
+
+PATIENT X299
+Yes.
+
+DOCTOR X299
+And there's tingling in your feet, is that in both sides or is it?
+
+PATIENT X299
+Just on my right.
+
+DOCTOR X299
+Just the right.
+
+PATIENT X299
+It doesn't cause me any pain.  It doesn't cause me discomfort.
+
+DOCTOR X299
+But does the right foot.
+
+PATIENT X299
+It's there.
+
+DOCTOR X299
+Is this um, in this hand is it getting better or worse?
+
+PATIENT X299
+Oh um it was a little bit when it first started and I would just say it's not getting worse.
+
+DOCTOR X299
+Okay.
+
+PATIENT X299
+But it's not progressing.
+
+DOCTOR X299
+So it's not improving, it's kind of steady?
+
+PATIENT X299
+Right, right.
+
+DOCTOR X299
+Okay um.  Your noticing that you're picking things up with your first three fingers and that you're not using the others as much.
+
+PATIENT X299
+I'm still grabbing ahold @@@.
+
+DOCTOR X299
+But @@@.
+
+PATIENT X299
+Yeah I could feel that you know I've got no strength in the two fingers and it's just my right hand and even when I'm gripping something.
+
+DOCTOR X299
+Okay.  Okay.  Um and I, so let me see, see questions.  Have you ever had any trauma or injury to your upper spine, your neck or anything like that?
+
+PATIENT X299
+No.
+
+DOCTOR X299
+Okay.  No falls or anything like that?
+
+PATIENT X299
+Um I've had falls but nothing serious.
+
+DOCTOR X299
+Anything recent since this has all developed?
+
+PATIENT X299
+No.  No.
+
+DOCTOR X299
+And you this has all developed in the hand within the last month or so?
+
+PATIENT X299
+Yeah I would say you know since the last time I've seen you because it's been bothering me then.
+
+DOCTOR X299
+Okay.
+
+PATIENT X299
+But then when I seen the other doctor um.
+
+DOCTOR X299
+Yeah.  DOCTOR mentioned that you were.
+
+PATIENT X299
+It was just starting.
+
+DOCTOR X299
+Okay.
+
+PATIENT X299
+That's why he gave me that.
+
+DOCTOR X299
+Okay.
+
+PATIENT X299
+Sleeve or whatever that was.
+
+DOCTOR X299
+Okay, alright um let's see and then just because I know the problem the last time, any blood in your stool?
+
+PATIENT X299
+Not at all.
+
+DOCTOR X299
+Black stool or anything like that?
+
+PATIENT X299
+No.
+
+DOCTOR X299
+Okay.  Okay any other symptoms besides these things that are bothering you or these few things like the hand and the foot that are the main things that brought you in here?
+
+PATIENT X299
+No.  I was going to wait until you talked all about this.
+
+DOCTOR X299
+Okay.  What else is there?  I just want to make sure of this.
+
+PATIENT X299
+Well, this has been a good year and a half.  I got these red splotches and they're very itchy.
+
+DOCTOR X299
+Red splotch, very itchy okay.
+
+PATIENT X299
+I got that around here um in this area.
+
+DOCTOR X299
+Okay.
+
+PATIENT X299
+On both arms.
+
+DOCTOR X299
+Okay.
+
+PATIENT X299
+It's very itchy.
+
+DOCTOR X299
+Okay.
+
+PATIENT X299
+And if I scratch myself I'll notice little white spots.
+
+DOCTOR X299
+Okay.
+
+PATIENT X299
+On my arms and I have it, it seems like it's just where I scratch.
+
+DOCTOR X299
+Is it in your groin @@@?
+
+PATIENT X299
+It's here.
+
+DOCTOR X299
+And everything okay.
+
+PATIENT X299
+But really mainly it's all around my neck.
+
+DOCTOR X299
+Okay.  Alright and how long has it been?
+
+PATIENT X299
+I'd say a good year and a half.
+
+DOCTOR X299
+Okay.
+
+PATIENT X299
+No I, um I believe the last time when I was having that back problem with the epidural um I mentioned this to the doctor and I think they sent me down to the Dermatology.
+
+DOCTOR X299
+Uh-huh.
+
+PATIENT X299
+And they couldn't figure it out what it was.
+
+DOCTOR X299
+Okay.
+
+PATIENT X299
+And they gave me a cream.
+
+DOCTOR X299
+Yeah.
+
+PATIENT X299
+And that and I used that cream up but it didn't.
+
+DOCTOR X299
+Did it help?
+
+PATIENT X299
+I really can't remember but it never took care of it because it's still here and then my wife, I guess you know sleeping together with that, she started getting a little bit on her chest.
+
+DOCTOR X299
+Okay.
+
+PATIENT X299
+But it went away on her.
+
+DOCTOR X299
+Okay, okay.  I'm looking at the Dermatology Notes.  
+
+PATIENT X299
+You got that?
+
+DOCTOR X299
+Yep.  Uh.
+
+PATIENT X299
+I believe I only seen them one time too.
+
+DOCTOR X299
+Yeah it looks that way.
+
+PATIENT X299
+I never heard anything after that.
+
+DOCTOR X299
+Looks like they were trying to call.  Um they wanted to see how, they gave you a cream and then they wanted to check what they call an RPR um, it's a test that they sometimes check and I can't see that you ever actually got it.
+
+PATIENT X299
+Got it.
+
+DOCTOR X299
+That's what I was looking at.  It looks like you were having a lot of driving issues at the time and uh they wanted to have that drawn but weren't able to.  Do you think you could stop at the Lab today and have it drawn?
+
+PATIENT X299
+Um.
+
+DOCTOR X299
+Or maybe.
+
+PATIENT X299
+What do you mean drawn?
+
+DOCTOR X299
+Well the blood test that they wanted um at the time but I'll um.
+
+PATIENT X299
+Well when I came here today they took four vials.
+
+DOCTOR X299
+Okay maybe they can add it on, I don't know sometimes they have special vials.
+
+PATIENT X299
+I still got time to give them some more, that's not a problem.  I can go right back to the Laboratory.
+
+DOCTOR X299
+Yeah go right back to the Lab.  Let me just see maybe they got it on there.
+
+PATIENT X299
+It's not a problem.
+
+DOCTOR X299
+I don't know if they would have taken it.
+
+PATIENT X299
+Well how would they, if they took blood you know this is on the outside.
+
+DOCTOR X299
+On the skin so the thing that the dermatologist was looking for and they're the skin specialists, I don't exactly know the correlation but I just know it's the lab they wanted is something that we check for syphilis to make sure that you've never had any exposure to syphilis in the past.
+
+PATIENT X299
+No.
+
+DOCTOR X299
+And.
+
+PATIENT X299
+Maybe when I was in the service.
+
+DOCTOR X299
+You know and that's the thing it can be.
+
+PATIENT X299
+That was 30 years ago.
+
+DOCTOR X299
+Yeah.  The thing with syphilis is it can be one of those things that like doesn't show up for a long time.  I'm not saying that's what you have cause they thought it was something else that was much more common which they called tinea versicolor but they wanted to rule that out and make sure that it wasn't.
+
+PATIENT X299
+Okay.
+
+DOCTOR X299
+And I don't see that you ever had that lab done.
+
+PATIENT X299
+Okay.
+
+DOCTOR X299
+So why don't we just get it?
+
+PATIENT X299
+It's okay.
+
+DOCTOR X299
+And then just to make sure and like I said I don't know the connection and I'm not familiar enough with the skin manifestations of it.
+
+PATIENT X299
+Right.
+
+DOCTOR X299
+But I just know it's something that they were pretty actively wanting to get from you so let's just, if it's not too much trouble we'll just have you stop in today and it looks like they didn't draw that kind of test from you before so I can't add it on to what they already did.
+
+PATIENT X299
+I can, if I remember right, while I was in the service um I was uh diagnosed with I guess you'd call it clap.
+
+DOCTOR X299
+Okay.
+
+PATIENT X299
+You know it's a yellow leakage.
+
+DOCTOR X299
+Yeah uh-huh.
+
+PATIENT X299
+From the penis and that.
+
+DOCTOR X299
+Yeah.
+
+PATIENT X299
+And I got the shot and then that was clear.
+
+DOCTOR X299
+Okay.
+
+PATIENT X299
+But besides any other diseases I don't know.
+
+DOCTOR X299
+Okay.  I think it's reasonable to check but the others, what they recommended was Selsun lotion and let's try that again.
+
+PATIENT X299
+Yeah.
+
+DOCTOR X299
+Let's try that again for the rash.  I think that'll.
+
+PATIENT X299
+Okay.
+
+DOCTOR X299
+Um cause I'll look at it again when I examine you here but uh.
+
+PATIENT X299
+So what I was doing uh just normally is I found out if I just take like hand lotion you know.
+
+DOCTOR X299
+Uh-huh.
+
+PATIENT X299
+The lotion that she uses a lot.
+
+DOCTOR X299
+Uh-huh.
+
+PATIENT X299
+Um and put it on, it sooths it for a while you know.
+
+DOCTOR X299
+Yeah.
+
+PATIENT X299
+But it's like taking the dry skin.
+
+DOCTOR X299
+Yeah.
+
+PATIENT X299
+And it soothes it for a while but then you know.
+
+DOCTOR X299
+It comes back.
+
+PATIENT X299
+Hour and a half, two hours later.
+
+DOCTOR X299
+Yeah.
+
+PATIENT X299
+It's back itching.
+
+DOCTOR X299
+Back to itching huh.  Okay.  Well let's see um okay and it looks like.  I just want to review what imaging you've had, you had a CT.  I'm trying to see if you had any imaging of your upper spine and I don't see any of that.  Most of the imaging you've had has been kind of in the lower body.
+
+PATIENT X299
+Right.  L1, 2 and 3.
+
+DOCTOR X299
+L1, 2 and 3 yeah.
+
+PATIENT X299
+Which was a problem before.
+
+DOCTOR X299
+So your, I mean do you still think here in these fingers is a pretty classic distribution of a nerve that comes down.  I don't know if you remember but one time, a while ago, a few years ago, Brett Favre the quarterback.
+
+PATIENT X299
+Okay.
+
+DOCTOR X299
+Took a helmet to the inside of his elbow and it like cracked his elbow here but the nerves run right through that groove right where he got attacked.
+
+PATIENT X299
+Well that's like even with the funny bone.
+
+DOCTOR X299
+Right.  It's kind of like it goes into the fingers where he lost the strength for a while until that all healed up.  So when it comes up here by your elbow but it comes out down out of your neck so if it had been you know degenerative changes of disks bulging in your spine or any problems in the arms it can pinch that nerve and cause those problems.
+
+PATIENT X299
+Okay.
+
+DOCTOR X299
+So and I don't see any other imaging so we might want to get some imaging just to see what.
+
+PATIENT X299
+Well I can uh, I don't know if it has anything to do with it.
+
+DOCTOR X299
+Uh-huh.
+
+PATIENT X299
+Like because you know my old age but.
+
+DOCTOR X299
+Uh-huh.
+
+PATIENT X299
+But I notice that like when it's really quiet.
+
+DOCTOR X299
+Uh-huh.
+
+PATIENT X299
+And I can, I turn.
+
+DOCTOR X299
+Uh-huh.
+
+PATIENT X299
+My neck like this, I can hear it crackling.
+
+DOCTOR X299
+Cracking and stuff.
+
+PATIENT X299
+And it just might be just old age right?
+
+DOCTOR X299
+Yeah, yeah I mean some of that we just you know we creak and we pop and we kind of, you know, we kind of do that.
+
+PATIENT X299
+I never thought anything you know of it.
+
+DOCTOR X299
+Yeah.
+
+PATIENT X299
+It's just something that happens to the body.
+
+DOCTOR X299
+Yeah.
+
+PATIENT X299
+Get old.
+
+DOCTOR X299
+Um are you having fevers or chills?
+
+PATIENT X299
+No.
+
+DOCTOR X299
+Are you feeling sick at all?
+
+PATIENT X299
+Um.
+
+DOCTOR X299
+No.
+
+PATIENT X299
+No.
+
+DOCTOR X299
+Do you take steroids, not like injected but like prednisone or anything like that?
+
+PATIENT X299
+Um the only pills I take, this one here.
+
+DOCTOR X299
+Uh-huh.
+
+PATIENT X299
+Um I've only taken two pills.
+
+DOCTOR X299
+Okay.
+
+PATIENT X299
+It's you know, I thought it had to do with my stomach.
+
+DOCTOR X299
+Okay.
+
+PATIENT X299
+And that's what that was for.
+
+DOCTOR X299
+Okay.  So you don't take that one very often?
+
+PATIENT X299
+Yeah I only took it once and took two pills.
+
+DOCTOR X299
+Okay.
+
+PATIENT X299
+So I woke up in the middle of the night and my stomach felt it was on fire.
+
+DOCTOR X299
+Okay.
+
+PATIENT X299
+You know but the only other pills is these here so.
+
+DOCTOR X299
+Okay.
+
+PATIENT X299
+She wrote it down.  An 81 mg baby aspirin and a multivitamin.
+
+DOCTOR X299
+Okay.
+
+PATIENT X299
+And then fish oil.
+
+DOCTOR X299
+And those are the only things that you want to be taking right?
+
+PATIENT X299
+Yeah.
+
+DOCTOR X299
+@@@.
+
+PATIENT X299
+Yeah I have it every night with dinner.
+
+DOCTOR X299
+Okay.  And you get these outside of the VA?
+
+PATIENT X299
+Yes
+
+DOCTOR X299
+Outside of the VA okay and that's fine.
+
+PATIENT X299
+She takes the same thing but she takes a little bit more @@@.
+
+DOCTOR X299
+Yeah.
+
+PATIENT X299
+I think it's calcium she really goes but then I drink maybe a gallon and a half of milk a week.
+
+DOCTOR X299
+Yeah.
+
+PATIENT X299
+So I get enough calcium in my body but women need.
+
+DOCTOR X299
+Yeah.
+
+PATIENT X299
+Calcium more than guys do.
+
+DOCTOR X299
+Yeah so let's see here.  I'm just gonna put these in so I have your list up-to-date on here.
+
+PATIENT X299
+Okay.
+
+DOCTOR X299
+On the computer.  Okay now fish oil.  Yep.  Okay.  Alright so let's look at your labs and things like that.  Have you had um like a cold or a cough recently or anything like that?
+
+PATIENT X299
+Um in the morning but that's because I was smoking.
+
+DOCTOR X299
+Uh-huh.
+
+PATIENT X299
+I would have phlegm a lot.
+
+DOCTOR X299
+Uh-huh.
+
+PATIENT X299
+And then within a half hour I'd have to blow my nose ten times or so and then it's gone.
+
+DOCTOR X299
+Okay.
+
+PATIENT X299
+But I'm on the patch.
+
+DOCTOR X299
+How's that going for you?
+
+PATIENT X299
+And um since my birthday in January 27th and uh I won't say no cigarettes.
+
+DOCTOR X299
+Uh-huh.
+
+PATIENT X299
+But I might have a couple puffs here and the next day a couple more puffs but it's not the whole, like I was smoking a pack, maybe a little bit more a day and that's you know.
+
+DOCTOR X299
+Okay.
+
+PATIENT X299
+I'm not doing it.
+
+DOCTOR X299
+So now you are down to just like a cigarette or two?
+
+PATIENT X299
+Not even two, not even.
+
+DOCTOR X299
+Like a couple puffs every other day or every day?
+
+PATIENT X299
+I would say okay maybe one a day.
+
+DOCTOR X299
+Okay.
+
+PATIENT X299
+While I'm still doing the patch.
+
+DOCTOR X299
+Okay.
+
+PATIENT X299
+And I leave it on at night and it doesn't give me nightmares and I'm down to uh, I got two boxes of the first stuff.
+
+DOCTOR X299
+Okay.
+
+PATIENT X299
+And I'm halfway through with the second box.
+
+DOCTOR X299
+Good.
+
+PATIENT X299
+Then I go to the next step.
+
+DOCTOR X299
+Okay.
+
+PATIENT X299
+So that's helping me.
+
+DOCTOR X299
+Good, excellent, good job.  That's a big step.  That is a big deal for your health and everything, that's big.
+
+PATIENT X299
+Uh-huh.
+
+DOCTOR X299
+So you got some labs today.  Let's go through these real quick and then um and then I'll examine you and then we'll get you a plan here for what we want to do okay.
+
+PATIENT X299
+Sure.
+
+DOCTOR X299
+Alright and I can send you a letter that includes the lab.  So this first lab called the glycosylated hemoglobin, you might know it as hemoglobin A1c and that tells us what your sugars have been like for the last three months so it's something we look at for diabetes and yours is normal so that's good.  So no evidence of diabetes or anything like that.
+
+PATIENT X299
+Uh-huh.
+
+DOCTOR X299
+So that's good.  Um these labs, they test kind of your, how thin your blood is and it's a function of how your liver is working okay and it's totally normal so that's good.  So those are good.  This is your blood count.  Tells us about your infection fighting cells and your blood, if you're anemic or not and the reason I'm asking you those questions is cause your white blood cell count is elevated and we normally see that in people who have an infection.  Now this is just a number and you're a person sitting here in front of me telling me you don't have any problems going on.
+
+PATIENT X299
+Right.
+
+DOCTOR X299
+So I believe you more than this number but I just want to kind of make sure that you know we're, you know make sure I'm covering the bases.
+
+PATIENT X299
+Yeah um.
+
+DOCTOR X299
+No issues, no burning with urination.
+
+PATIENT X299
+No.
+
+DOCTOR X299
+Or anything like that okay.  I'm not too concerned about it.
+
+PATIENT X299
+Could stress be affecting it?
+
+DOCTOR X299
+Stress can do that.
+
+PATIENT X299
+Okay cause we.
+
+DOCTOR X299
+You've had a lot of stress lately?
+
+PATIENT X299
+Well she's taking some of her medicine and I don't know medicine.
+
+DOCTOR X299
+Uh-huh.
+
+PATIENT X299
+And the doctors you know, well take less of this and take more of this.
+
+DOCTOR X299
+Uh-huh.
+
+PATIENT X299
+And I just kind of think you know maybe one of the medicines and this medicine.
+
+DOCTOR X299
+Yeah.
+
+PATIENT X299
+They shouldn't be taken together.
+
+DOCTOR X299
+Okay.
+
+PATIENT X299
+You know, I really don't.
+
+DOCTOR X299
+Yeah.
+
+PATIENT X299
+I doctor that much.
+
+DOCTOR X299
+Yeah okay.
+
+PATIENT X299
+You know just over the phone will do that.
+
+DOCTOR X299
+Uh-huh okay.
+
+PATIENT X299
+And um.
+
+DOCTOR X299
+So you had some stress?
+
+PATIENT X299
+Well yeah, it seems like she'll fly off the handle.
+
+DOCTOR X299
+Uh-huh.
+
+PATIENT X299
+Um and then it gets to me you know um.
+
+DOCTOR X299
+Uh-huh, okay.  Stress can do that for sure okay.
+
+PATIENT X299
+That's about the only thing I mean.  I haven't been sick or cold or anything.
+
+DOCTOR X299
+Yeah, well we don't treat numbers, we treat people so you know, but, we'll just do this, all of these are normal, so this is what I wanted to schedule.  Basically this one tells us all your kidney function and that looks normal and all the electrolytes are normal.
+
+PATIENT X299
+My white cells.
+
+DOCTOR X299
+And your white cells are high yeah.
+
+PATIENT X299
+Okay.
+
+DOCTOR X299
+I mean they're not abnormal, like you know sometimes if you were to put in Google, you know Google like high white blood cell count, some types of um like cancers and lymphomas have high white cell counts but those are typically 50,000, 60,000 and you're only like 16,000.  So you're in more like with a typical infection or stress type of figure okay.
+
+PATIENT X299
+Just write it down so I can tell her about it.
+
+DOCTOR X299
+Yeah.  And I can send you a note or whatever.  If when I go talk to my supervisor you want to grab her and bring her here I can tell her too so that everybody's on the same page if you want do that too.  Um but the rest of these are all normal.  Your cholesterol is great.  Your cholesterol, your bad cholesterol is 78 so that's perfect.  Your good cholesterol is good, 67 and we want that above 40 so that's good okay.  So all of your cholesterol numbers are good and then down here it tells us about your liver function tests and all those are normal.  So all of your liver function tests are normal.
+
+PATIENT X299
+Hmm.
+
+DOCTOR X299
+And then they did some iron studies to look at your iron and make sure your iron is okay and that's all normal too okay.  So all that is normal okay.  Let me just look.
+
+PATIENT X299
+Is that you only thing you just had is my white cells.
+
+DOCTOR X299
+So the only thing about this whole range of everything that's abnormal is that your white blood cells are a little more and you know what it could be is this rash causing you itching all over.
+
+PATIENT X299
+Right.
+
+DOCTOR X299
+It could be just inflammation from that rash and that may be what it is.
+
+PATIENT X299
+Okay.
+
+DOCTOR X299
+Cause I see you sitting here scratching that might be something, you know that might be what it is.  So that's the only abnormality in all of your labs, everything else is stone cold normal okay.
+
+PATIENT X299
+Good, good.
+
+DOCTOR X299
+So that's all good so I can send you a letter with that.  So let's see, how about, let me, can you take off your jacket and your shirt so that I can look at this rash?  Let's see @@@ okay and the hemoglobin is good as well cause that's your, remember when the last time you were having some bleeding.
+
+PATIENT X299
+Okay.
+
+DOCTOR X299
+So we send you had another couple episodes, I still think we might need to do a colonoscopy for you.
+
+PATIENT X299
+You want to do the.
+
+DOCTOR X299
+Right.
+
+PATIENT X299
+You know if we scheduled one, to do it in the morning.
+
+DOCTOR X299
+Okay so that we can just drive you.  So what, I can't schedule it but I can order the consult and they'll call you to schedule and then you can just schedule it okay.
+
+PATIENT X299
+Okay.
+
+DOCTOR X299
+So have a seat there for me and um also the good thing is that DOCTOR when you saw him, he put in a consult for the um Rehab physicians to evaluate you as well and see if there is anything they can help you with for your back and these types of injuries cause they're really good at working with people and figuring out what sorts of deficits they're having like with tingling and things like that.
+
+PATIENT X299
+Well I have been doing the exercises.
+
+DOCTOR X299
+Okay.
+
+PATIENT X299
+The exercises I remember from before.
+
+DOCTOR X299
+Good.
+
+PATIENT X299
+Uh from before when I had my back.
+
+DOCTOR X299
+Uh-huh.
+
+PATIENT X299
+So I been doing that.
+
+DOCTOR X299
+How long have you had that?
+
+PATIENT X299
+Oh all my life.
+
+DOCTOR X299
+Is it unchanged?
+
+PATIENT X299
+Yes.
+
+DOCTOR X299
+Is it painful?
+
+PATIENT X299
+I might pull my hair out every now and then but I just think you like it hurts a lot more.
+
+DOCTOR X299
+Yeah. And it is and if you know it doesn't look too concerning the only thing is it's kind of big you know.  The typical size which is no bigger than a eraser on the head of a pencil you know.
+
+PATIENT X299
+Okay.
+
+DOCTOR X299
+On a typical pencil and this is quite of bigger than that and I know it's unchanged but it's been the same way.
+
+PATIENT X299
+That's really funny it's just not long ago DOCTOR was talking about it sort of like that.
+
+DOCTOR X299
+Yeah, yeah.  The ABCD, did he talk about that?
+
+PATIENT X299
+Something like that.  I just remember you saying the size of a pencil.
+
+DOCTOR X299
+The size of a pencil yeah.  So we may, this is what I think we're gonna do, I think I'm going to prescribe you the Selsun like they tried before okay and have you stop back and get that lab drawn on your way out.
+
+PATIENT X299
+Okay today.
+
+DOCTOR X299
+Today.
+
+PATIENT X299
+Okay.
+
+DOCTOR X299
+If you can if that's okay.
+
+PATIENT X299
+Uh-huh.
+
+DOCTOR X299
+And then I'm gonna put in a consult for the dermatologist again to see you because by the time you get in with them you'll know if that Selsun is working or not.
+
+PATIENT X299
+Okay.
+
+DOCTOR X299
+And they'll be able to just look at this and make sure that they think its okay, okay.
+
+PATIENT X299
+Now um this does get red.
+
+DOCTOR X299
+Uh-huh.
+
+PATIENT X299
+But sometimes it does itch.
+
+DOCTOR X299
+Yeah.
+
+PATIENT X299
+And I get sores but I get these little dots.
+
+DOCTOR X299
+Yeah.
+
+PATIENT X299
+Especially when I'm working and I sweat.
+
+DOCTOR X299
+Uh-huh.
+
+PATIENT X299
+It'll get really prominent.
+
+DOCTOR X299
+Yeah.  Do you where your patch here?
+
+PATIENT X299
+Yeah.  
+
+DOCTOR X299
+Okay so I think it's kind of a combination.  Looks like you have a little bit of dry skin in general.
+
+PATIENT X299
+Okay.
+
+DOCTOR X299
+Your skin's a little bit dry but it doesn't, I mean you obviously have a rash all around here.
+
+PATIENT X299
+Uh-huh.
+
+DOCTOR X299
+And on your neck and everything and I, it looked to me like what they thought it was the last time, the tinea versicolor is what they call it and it's a little fungal infection that just kind of.  It's kind of like athlete's foot.
+
+PATIENT X299
+Okay.
+
+DOCTOR X299
+Like an athlete's foot.
+
+PATIENT X299
+Yeah I'm doing cream right now for it.
+
+DOCTOR X299
+Right.  So it's kind of like athlete's foot only it's on your body okay and it gets itchy and irritated and everything and it can kind of spread and things like that.  So.
+
+PATIENT X299
+Can I have uh, like when I shower.
+
+DOCTOR X299
+Uh-huh.
+
+PATIENT X299
+I start from the top all the way down.
+
+DOCTOR X299
+Uh-huh.  Yeah.
+
+PATIENT X299
+Well should I maybe wash my feet, could I like spread that because you're saying it's kind of the same?
+
+DOCTOR X299
+Hmm it's kind of similar and I doubt you spread it from your feet and maybe like, it would be pretty rare to spread something from the feet.
+
+PATIENT X299
+But it seems just in the shower though.
+
+DOCTOR X299
+It's kind of a simple.
+
+PATIENT X299
+Okay.
+
+DOCTOR X299
+It's just a similar type of thing you know that happens.
+
+PATIENT X299
+Okay.
+
+DOCTOR X299
+So let's try, so we'll prescribe you the Selsun.  Do you want me to have that mailed to you or do you want to pick it up downstairs?
+
+PATIENT X299
+Um I could pick it up, if it's not a big deal.
+
+DOCTOR X299
+It's not a big deal, it's not a big deal for me, it's easy to do so.  So I just want to measure this.
+
+PATIENT X299
+But that's always, as long as I can remember it's always like that.
+
+DOCTOR X299
+Okay.  It's probably over caution; I know you said you've always had it.  I'm just going to listen to your heart and lungs as well so.
+
+PATIENT X299
+Okay.
+
+DOCTOR X299
+And now that you're thinking about it you're itching all over huh.
+
+PATIENT X299
+Uh-huh.  That's one thing that I read a lot.
+
+DOCTOR X299
+Uh-huh.
+
+PATIENT X299
+And if I'm sitting down then I'm more itchy and when I'm working.
+
+DOCTOR X299
+Uh-huh.  Yeah.
+
+PATIENT X299
+I don't notice it.
+
+DOCTOR X299
+Yeah hmm.  Deep breath.  Okay.  Now if you want to stand up like you're gonna box me here okay.  Don't let me pull you down.
+
+PATIENT X299
+Yeah.
+
+DOCTOR X299
+Good, same on this side.  Good don't let me push your hands good, now this one, good.  Okay like you did before squeeze my fingers as hard as you can, okay.  On this side that's good okay, good.  Now let's see if we can do this right where you kind of grab more here.  Okay so it was a little bit weaker in this hand here.  Okay and then spread out your fingers like this and then go on and push your fingers in okay so okay now make a sign like this and don't let me get up.  Okay good.  Push off on the table a little bit so you're putting all your weight push this leg up and then just, okay.  Push off okay push off @@@ okay good.  Now relax, now does this feel the same on both sides?
+
+PATIENT X299
+Uh-huh.
+
+DOCTOR X299
+Does this feel the same on both sides?
+
+PATIENT X299
+Uh-huh.
+
+DOCTOR X299
+Okay does this feel the same on both sides?
+
+PATIENT X299
+Uh-huh.
+
+DOCTOR X299
+Yeah okay.  This feels the same over here?
+
+PATIENT X299
+Uh-huh.
+
+DOCTOR X299
+Good.  Just want to check your range of motion so put your hands over here like this, now put them behind your back like this okay.  Any trouble with that?
+
+PATIENT X299
+Uh uh.
+
+DOCTOR X299
+Okay straight down in front of you okay, okay good.  Okay alright, okay so I'm going to go talk to my supervisor.  I'm going to ask, what I want to know if he thinks we need to do some imaging up here okay.  Can you shrug your shoulders up like this for me; don't let me push them down okay.  Any pain in the area.  Okay I'm going to put my hand on your face.  I want you to try and turn your head and I'm going to try and stop you okay.  Turn your head okay now this way good.  And then you've got numbness and tingling on your right foot.
+
+PATIENT X299
+You know it's almost just like this.
+
+DOCTOR X299
+Almost just like that okay.  Um.  Can you kick your shoes off?  Alrighty okay good.  Can you pull your socks off for me?  Can you feel any pain with this?
+
+PATIENT X299
+Yes.
+
+DOCTOR X299
+Yeah okay.  Point your toes up towards the sky and don't let me push them down.  Now step on the gas, don't let me pull them up.  Does that hurt?
+
+PATIENT X299
+No it's just the pain.
+
+DOCTOR X299
+Okay.  What's this scar from?
+
+PATIENT X299
+Oh a razor knife, work.
+
+DOCTOR X299
+Oh gotcha.
+
+PATIENT X299
+I think it was uh like six stitches.
+
+DOCTOR X299
+Okay alright.  You can get yourself dressed together here um.
+
+PATIENT X299
+Um just like this thing with.
+
+DOCTOR X299
+Uh-huh.
+
+PATIENT X299
+With athlete's feet, the ointment that you have.
+
+DOCTOR X299
+Yes.
+
+PATIENT X299
+Now I don't have to like uh have it be refilled I had two refills.
+
+DOCTOR X299
+Uh-huh.
+
+PATIENT X299
+I put the order in for the second one.
+
+DOCTOR X299
+Uh-huh.
+
+PATIENT X299
+But after this is all over this stuff um, I can get over-the-counter.
+
+DOCTOR X299
+Yeah, yeah definitely.
+
+PATIENT X299
+Right?  I don't have to come back here to get the refill.
+
+DOCTOR X299
+No, no.
+
+PATIENT X299
+Okay.
+
+DOCTOR X299
+Nope you can get it over-the-counter.  Um okay well I'm going to go quick talk to my supervisor here and I'll be right back okay.
+
+PATIENT X299
+Okay.
+
+DOCTOR X299
+If you would like to go grab your wife I can update you both at the same time if you want to okay.
+
+PATIENT X299
+Okay.
+
+(DOCTOR OUT: 83:50  DOCTOR IN:  96:27)
+
+DOCTOR X299
+Hey hello.
+
+SECOND PERSON X299
+Hi.
+
+DOCTOR X299
+Alright we got all the troops in one place.  Okay so a few things that we're gonna do.  So just to check out what's going on with your hands here.
+
+SECOND PERSON X299
+@@@ he wouldn't have told you @@@.
+
+PATIENT X299
+Yeah I told her, let her finish.
+
+SECOND PERSON X299
+@@@.
+
+DOCTOR X299
+@@@.
+
+PATIENT X299
+Yeah, yeah, sorry.  I forgot to mention that to you.
+
+DOCTOR X299
+Oh yeah, okay.  Probably shouldn't affect it.  You know you should probably @@@ them because you're going all day just to whap them with a Bible and try to break them, now just let them be and if they don't bother you.  But if not, that's probably not @@@.  So we're gonna do a couple of things for this issue, for the hand issue okay.  The first thing is already kind of in process is that the Rehab physicians have already been contacted by DOCTOR, who you saw last month.
+
+PATIENT X299
+Uh-huh.
+
+DOCTOR X299
+And so their gonna schedule an appointment there a little bit behind there, they'll schedule an appointment but while that @@@ I'm going to order a nerve conduction study which is just to look at, you know that nerve I was talking about that goes around the elbow, that's called the ulnar nerve and just to see if there is anything going on with that nerve and if there is that would prompt to get an MRI which is an advanced study that looks at the nerves and things like that in the neck just to make sure there's no compression or anything that needs to be fixed okay.
+
+PATIENT X299
+Well they did say they might want to take a look at the side so.
+
+SECOND PERSON X299
+Your dad was @@@.
+
+DOCTOR X299
+Yeah so I think this is kind of what we'll do and some of these are going to happen.  The consult is already in.  I'm going to get some x-rays just to give us a baseline of information.  The x-rays won't show any disk bulging and the x-rays don't show the nerves.  If you have some arthritis or something in the neck the x-rays are kind of a good place to start and then I'm going to put in the order for the nerve conduction study and those sometimes take a couple of weeks for them to get scheduled okay.
+
+SECOND PERSON X299
+Uh-huh.
+
+DOCTOR X299
+Okay so those are the things that are gonna going to be kind of in the process of working on for that nerve problem.  Okay to make sure we're not missing anything.  Okay so that's the first issue.  The second issue is this rash okay.
+
+SECOND PERSON X299
+Uh-huh.
+
+DOCTOR X299
+So it looks like to me the same thing they thought it was back in 2006 which is what called a tinea versicolor okay.  Which is just kind of a fungal skin infection, sort of like the rashes okay.  So what I'm going to do for that is I'm going to give you the Selsun which is the same lotion that they tried before and I'm going to give you the Selsun and in the meantime today I'm going to put in a consult for the dermatologist okay.  And so I want you to try the Selsun and also use some lotion cause your skin is just dry.
+
+SECOND PERSON X299
+Uh-huh.
+
+DOCTOR X299
+Okay I don't know if it's hard water or dry air or just @@@ or what but your skin is dry which is adding to that itchiness okay.  So.
+
+SECOND PERSON X299
+I had it but it went away and I don't have it anymore.
+
+DOCTOR X299
+Okay.
+
+SECOND PERSON X299
+So it was the same.
+
+DOCTOR X299
+Yeah, some people just.  I think your skin is dry so the irritation is kind of coming from those things okay.  So those, you're going to do the Selsun, I'm going to have the dermatologist see you cause I want them to look at that mole.  There's nothing you know terribly different or scary about it but it is bigger than what we want or like it to be.  You know there's something about those and their, but they may look at it and say it might be better if we take it off you know just to be on the safe side so.  
+
+PATIENT X299
+It's been with me all my life.
+
+DOCTOR X299
+I know.
+
+SECOND PERSON X299
+@@@.
+
+DOCTOR X299
+I know.  I had one on my shoulder I was going through the same thing.  You know they were just oh that could be @@@ it's kind of dark it's you know.
+
+PATIENT X299
+Like cancer-causing thing @@@ or?
+
+DOCTOR X299
+I mean it has, any mole like that's, any mole has the potential to turn into something like a melanoma.  The larger moles, irregular moles, kind of the Dr. Oz thing that he was talking about.  Those have more potential to turn into those types of things.  If it's big, bigger than the top of a pencil eraser.
+
+PATIENT X299
+Right.
+
+DOCTOR X299
+It has a higher chance of developing into a melanoma down the road.
+
+PATIENT X299
+Okay.
+
+DOCTOR X299
+So I'm not saying that it is one now but I'm saying that it's of the size that they may be concerned enough to say we should just take it off.
+
+PATIENT X299
+Okay.
+
+DOCTOR X299
+Okay.  I don't know that for certain but since you have this other thing going on anyways let's start some treatment, let's go to Derm, see what they say about both issues okay.
+
+PATIENT X299
+Well they'll want to do it at the same time?
+
+DOCTOR X299
+They should do it at the same time.  If they decide they may just take it off then they make you come back for that appointment and they might not take it off the same day but I can't tell you that okay.
+
+SECOND PERSON X299
+@@@.  Oh it's okay, yes, @@@.
+
+DOCTOR X299
+Oh yeah so you've got a lot of sun exposure.
+
+PATIENT X299
+And @@@.
+
+DOCTOR X299
+Yeah, yeah.
+
+PATIENT X299
+On the beach.
+
+DOCTOR X299
+Okay.  So the final and we're also gonna get that lab test that they wanted you to get the last time you went to Derm and you never ended up getting.
+
+PATIENT X299
+Right.
+
+DOCTOR X299
+So you're gonna stop down in the Lab.
+
+PATIENT X299
+Yes before we get that.
+
+DOCTOR X299
+Okay.  The final thing is, did he tell you about his elevated white count?
+
+SECOND PERSON X299
+Yes, he told me that.
+
+DOCTOR X299
+He did okay.  So this is a little, it's kind of atypical.
+
+SECOND PERSON X299
+So how high was that?
+
+DOCTOR X299
+So it's 16,000 okay so upper limit of normal is usually around 12, 11 or 12,000 so it's not extremely high you know.  It can go much higher so and the differential that we call the differential, the different types of cells within the white blood cell count is all normal.  Or he has higher neutrophils which is kind of usually the one that fights infections which is why I kept asking you all these questions.
+
+PATIENT X299
+Uh-huh.
+
+DOCTOR X299
+So in my head if I stretch far enough we can kind of associate that maybe with increased stress and maybe this rash is causing inflammation but we would sort of want to be overly cautious and check a couple of things just to make sure okay.  So you don't have an infection that's hiding somewhere that we don't know.  So since you said you'd stop back at the Lab anyway, can pee for us, give us a urine sample you think?
+
+PATIENT X299
+I think so.
+
+DOCTOR X299
+Okay.  So we'll just do a urine test to make sure you don't have a urinary tract infection that's not giving us any you know evidence of you know maybe you don't have any symptoms but I don't know if you've ever had a kidney stone or anything, you have.  So kidney stones can cause kind of chronic infections and sometimes they don't give symptoms so you know let's check a urine sample and then the other thing we typically do when we're looking for a kind of pain infection is a chest x-ray.  Do you have time to stop at the Lab and the X-ray today or not?
+
+SECOND PERSON X299
+Yeah we do.
+
+DOCTOR X299
+Yeah okay.  Well this is what I'm gonna do.  I'm gonna order.
+
+PATIENT X299
+Order the lab.
+
+DOCTOR X299
+Yep.
+
+PATIENT X299
+And do the x-rays.
+
+DOCTOR X299
+And do the x-rays.
+
+PATIENT X299
+And then just pick up medicines.
+
+DOCTOR X299
+And then pick up the medicines.
+
+PATIENT X299
+We can do that.
+
+DOCTOR X299
+Okay.  So okay so I don't think anything else is going on but I think we need to just chat before you leave I mean just in case okay.
+
+PATIENT X299
+Yeah sure.
+
+DOCTOR X299
+And um.
+
+SECOND PERSON X299
+Did he tell you he quit smoking?
+
+DOCTOR X299
+He did, yep that's fantastic.
+
+SECOND PERSON X299
+@@@.
+
+DOCTOR X299
+That's fantastic.  I'll give you a standing ovation for that.  Um okay so I know this is kind of a lot of stuff but the final piece of the puzzle is well actually its two kind of pieces, we're still putting in for the colonoscopy.
+
+PATIENT X299
+Right.
+
+DOCTOR X299
+Okay so I'm going to put that in today, they'll call you, they'll schedule you.  It's not urgent but whenever they call you'll want to schedule it at your convenience okay.  So we'll put that in and then the final thing with this elevated white blood cell count is we're going to start treating you for this rash right, we're going to do the Selsun and everything and so how about in like three weeks you stop back in the Lab and get some blood drawn and we'll check and be sure that it's not going up inexplicably since your treating your rash it's coming back down.
+
+PATIENT X299
+Do I need to make an appointment?
+
+DOCTOR X299
+You don't need to make an appointment for that.
+
+PATIENT X299
+Just go in?
+
+DOCTOR X299
+I'll put the order in, whenever it's convenient for you, you just come on down and slip in.  Okay that's a lot of stuff to remember so.
+
+PATIENT X299
+So three week schedule.
+
+SECOND PERSON X299
+No I think its okay.  @@@.
+
+PATIENT X299
+Maybe I can come in like today @@@.
+
+SECOND PERSON X299
+Yeah.
+
+PATIENT X299
+@@@.
+
+SECOND PERSON X299
+@@@.
+
+DOCTOR X299
+Okay.
+
+PATIENT X299
+Yeah okay.  Just write it on the calendar.
+
+SECOND PERSON X299
+Okay.
+
+DOCTOR X299
+The VA likes to @@@ about papers, we're printing on two sides of everything.  Alright let's see, alright I'm having a, what is this.  @@@.  Okay now we know you don't have diabetes, so you don't have to worry about that, @@@ note pad here.  So for your hand we're going to um @@@.
+
+PATIENT X299
+Would exercise kind of help you know, I could even dig out those little balls for stress.
+
+DOCTOR X299
+Uh-huh.
+
+PATIENT X299
+Start squeezing it and stuff like that.
+
+DOCTOR X299
+And they might and that's one of the things that the Rehab doctors are really good, kind of evaluating where they think this is coming from and what types of exercises and braces or things like that would be helpful so if you want to try, if you have like an exercise ball and you want to try it.
+
+PATIENT X299
+Tennis ball or something like that.
+
+SECOND PERSON X299
+I don't know.  @@@ really don't know the cause either but @@@.  His dad was an insulin-dependent.
+
+DOCTOR X299
+Uh-huh.
+
+SECOND PERSON X299
+Several cervical @@@.
+
+PATIENT X299
+Yeah he died with lots of problems.
+
+DOCTOR X299
+Yeah.  So maybe you know.
+
+PATIENT X299
+@@@.
+
+SECOND PERSON X299
+@@@.
+DOCTOR X299
+So if you can stop and get your chest x-ray I can see if they can do all the x-rays all at one time so you can just you know, it shouldn't add any extra time, well like maybe three extra minutes and then this will save you.  So I'll put in the orders here before you leave okay.
+
+SECOND PERSON X299
+Okay.
+
+DOCTOR X299
+Um we're going to try the lotion.  Okay.  Around like St. xxx's Day, like the 16th or so okay.
+
+PATIENT X299
+Around the middle of the month.
+
+DOCTOR X299
+So the middle of March, so exactly three weeks is March 16th.  It does not have to be exactly but that is when you need to get your labs.
+
+PATIENT X299
+Give or take a couple days.
+
+DOCTOR X299
+Yeah.  Okay.  So let me put these orders in and then you uh.
+
+SECOND PERSON X299
+In the clinic would you want @@@.
+
+DOCTOR X299
+Yes and it is totally normal.  It's great actually normal.
+
+SECOND PERSON X299
+Okay thank you.
+
+DOCTOR X299
+Total cholesterol is 165 alright and LDL which is the bad cholesterol is 78 and HDL which is the good cholesterol is 67.
+
+SECOND PERSON X299
+Okay.  Okay.  Well my cholesterol is 133.
+
+DOCTOR X299
+Okay.
+
+SECOND PERSON X299
+So I fix liver every month.
+
+DOCTOR X299
+Oh okay.
+
+SECOND PERSON X299
+I need the liver and he likes it, I want to make sure he can still do that.
+
+DOCTOR X299
+Yep you're looking good from that standpoint.  Really every other lab besides that.
+
+PATIENT X299
+White cell count.
+
+DOCTOR X299
+White cell count is stone cold normal.  So everything else is normal.  So let me just get these orders in so that you guys can leave and have everything ready for you okay so.  Let's get and no fevers or chills, night sweats or anything like that?
+
+PATIENT X299
+Well I have night sweats, but I might sweat a little bit more if I'm under the comforter when I'm sleeping.
+
+DOCTOR X299
+Like having to change your pajamas and your sheets at night type of night sweats or do you just get a little warm?  Okay.
+
+PATIENT X299
+Well there was a time one of my cats once in a while sleeps on our bed.
+
+DOCTOR X299
+Uh-huh.
+
+PATIENT X299
+And we went and got one of those pee pads you put on the mattress.
+
+DOCTOR X299
+Uh-huh.
+
+PATIENT X299
+You know like if a child pees and you know so he doesn't ruin the mattress.
+
+DOCTOR X299
+Yeah.
+
+PATIENT X299
+When that was on I would be sweating really a lot.
+
+SECOND PERSON X299
+We took it off.
+
+PATIENT X299
+It just may be impossible because they're off and I don't notice any night sweats.
+
+DOCTOR X299
+Okay.  And that was your, left it's your left.
+
+PATIENT X299
+Left.
+
+DOCTOR X299
+Hand and right foot.
+
+PATIENT X299
+Every finger but the pinky.
+
+DOCTOR X299
+Okay.  So.
+
+SECOND PERSON X299
+@@@.
+
+DOCTOR X299
+Um I actually don't think so.  I think the Pharmacy is open for a while.
+
+SECOND PERSON X299
+Okay, okay.
+
+DOCTOR X299
+Um.
+
+PATIENT X299
+Well I could go to the Pharmacy and you could go and give the blood.
+
+SECOND PERSON X299
+I'm not gonna give blood.  I'll get my own.
+
+DOCTOR X299
+Okay pick those up at the window, got that ordered, okay.  Alright so I probably won't get the chest x-ray back today.
+
+SECOND PERSON X299
+Okay.
+
+DOCTOR X299
+It's really not that big of a deal.  If you develop fevers or you know significant signs that make you think you have an infection you know give a call and let us know okay.
+
+PATIENT X299
+Okay.
+
+DOCTOR X299
+In the meantime if there's anything on the chest x-ray that's concerning I'll call you.  It'll probably be Monday okay by the time I get it back.
+
+SECOND PERSON X299
+@@@.
+
+DOCTOR X299
+Okay good, good.  So and then I put in for this repeat.  I know this is going to sound strange and they should do this in advance but I'm just going to tell you to make sure, I put in this lab test for three weeks from now.
+
+SECOND PERSON X299
+Uh-huh.
+
+DOCTOR X299
+I don't want them to draw that one okay.  They're just going to get the RPR which is the other lab test that the dermatologist wanted okay.
+
+PATIENT X299
+Okay.
+
+DOCTOR X299
+So it's written for not to do it for three weeks but sometimes they just look and see so if you remember just say we don't want the CBC which is the blood test.
+
+SECOND PERSON X299
+Okay.
+
+DOCTOR X299
+We just the RPR.  But they should know that but just so you know have it in your head too.
+
+PATIENT X299
+RPR @@@.
+
+DOCTOR X299
+So okay.  I think that that's everything.  I still have to put in the nerve conduction study but you guys don't have to have that before you leave.  So does that all make sense to you and everything?
+
+PATIENT X299
+Uh-huh.
+
+DOCTOR X299
+Cause that's kind of a lot of stuff for one day and then why don't you come back and see me and in a few months we'll see all of this stuff just kind of gets tidied up with all these other things happening.  If you don't need to see me again for I mean another six months do you want me to put in for three months and then when they call you to set up an appointment you can either say I don't need it.
+
+PATIENT X299
+Alright sure.
+
+DOCTOR X299
+@@@.
+
+SECOND PERSON X299
+@@@.
+
+DOCTOR X299
+In the meanwhile feel free to cancel or to not schedule if everything is going fine okay.
+
+PATIENT X299
+Uh-huh.  But if we cancel wait.
+DOCTOR X299
+It's six months so.
+
+PATIENT X299
+Six months and then just call up and say I'd like to make an appointment.
+
+DOCTOR X299
+And see me you know in like August or something like that.
+
+PATIENT X299
+Okay.
+
+DOCTOR X299
+Did you guys get one of my cards last time, I can't remember if I had them.
+
+SECOND PERSON X299
+I don't think so no.
+
+DOCTOR X299
+So three months to see me.  Alright.  Probably seems like a lot when you just came in for not that much stuff but we'll get you tidied up okay.
+
+SECOND PERSON X299
+@@@ colonoscopy.
+
+DOCTOR X299
+Yeah.
+
+SECOND PERSON X299
+@@@.
+
+DOCTOR X299
+Alright I think I already wrote it down.  I just wanted to make sure @@@.
+
+PATIENT X299
+@@@.
+
+DOCTOR X299
+They do.  Most people, you know what, have you ever; do ever read Dave Berry, have you ever heard of Dave Berry?
+
+PATIENT X299
+No.
+
+DOCTOR X299
+He's a @@@ columnist and he writes for the xxx xxx okay.  Uh and he is very funny um but he wrote about a colonoscopy because his best friend was his GI doctor who does the colonoscopies and he made him have a colonoscopy when he turned 50 and so he wrote about his experience having a colonoscopy and it's a very funny article you should xxx xxx xxx colonoscopy.
+
+SECOND PERSON X299
+@@@ what was that, well what I need to do, I was the colon cancer screening nurse.
+
+DOCTOR X299
+Oh of course.
+
+SECOND PERSON X299
+@@@.
+
+DOCTOR X299
+Okay so you know, you know all of this so.
+
+SECOND PERSON X299
+I know colonoscopies for dummies.
+
+DOCTOR X299
+Colonoscopies for Dummies.  Dave Berry is hilarious because when he writes anything he thinks of funny @@@ so like he describes like his colon cleansing process @@@ he comes up with some funny bands names and he has a whole extensive description of the prep.
+
+SECOND PERSON X299
+Uh-huh.
+
+DOCTOR X299
+And then he's like @@@ you know like he's so worried about the colonoscopy itself and then he's like I don't remember any of it.
+
+SECOND PERSON X299
+The prep is worse than the procedure.
+
+DOCTOR X299
+The prep is what people don't like.
+
+SECOND PERSON X299
+Right.  @@@.
+
+DOCTOR X299
+Anyway, here you go okay so.
+
+PATIENT X299
+Take care.
+
+DOCTOR X299
+So you got to check out.
+
+PATIENT X299
+Oh okay.  Thank you doctor.
+
+DOCTOR X299
+You are very welcome.  Have a good day.  Take care alright.  So you can go right out front here and just check out where you checked in okay.
+
+PATIENT X299
+Alright thanks.
+
+DOCTOR X299
+Alright take care, no problem.  I'll call you if its.
+
+SECOND PERSON X299
+If there is anything @@@.
+
+PATIENT X299
+Yeah.
+
+DOCTOR X299
+But I'll call you Monday if not, don't worry about it.
+
+SECOND PERSON X299
+Okay, okay.
+
+DOCTOR X299
+Alright.
+
+PATIENT LEAVES:  119:20
+
+Time is 4:55
+
+
+
+

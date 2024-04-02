@@ -1,0 +1,539 @@
+
+DOCTOR X499
+PATIENT?
+
+PATIENT X499
+Yeah.
+
+DOCTOR X499
+How you doing?
+
+PATIENT X499
+How you doing doc?
+
+DOCTOR X499
+Alright, alright.  How you feeling?
+
+PATIENT X499
+Terrible.
+
+DOCTOR X499
+Terrible?
+
+PATIENT X499
+@@@.
+
+DOCTOR X499
+Oh okay.  You look good.
+
+PATIENT X499
+Um I was a little good.  I @@@.  I was a mess.
+
+DOCTOR X499
+Alright.  Still working at the @@@?
+
+PATIENT X499
+Yep.
+
+DOCTOR X499
+@@@ huh.
+
+PATIENT X499
+Yeah still there.
+
+DOCTOR X499
+Yeah.  Let's see, what can I do for you today?
+
+PATIENT X499
+Hey, you know I got a blood clot right there and it's actually been @@@ since I got that @@@ knee replaced.  
+
+DOCTOR X499
+Okay.  @@@ think so yeah.
+
+PATIENT X499
+Or whatever, it's tender, you know what I mean.
+
+DOCTOR X499
+Okay.
+
+PATIENT X499
+And then it stays in my leg and like it feels like I can pull my skin back and pull water down @@@.
+
+DOCTOR X499
+Okay.
+
+PATIENT X499
+Okay and I have like a tingling sensation in my leg and my back, everything's on my left side and then they did a MRI and then they never told me anything else about my prostate when they found a spot on it.
+
+DOCTOR X499
+Oh it looks like you're seeing the prostate doctors right?
+
+PATIENT X499
+Right.
+
+DOCTOR X499
+And uh yeah I think that was your kidney that they found the spot on, not the prostate.
+
+PATIENT X499
+Oh the kidney.
+
+DOCTOR X499
+Right so I think they didn't really think much of it, kind of reading their notes.  They just wanted to follow you.
+
+PATIENT X499
+They told me my prostate was swelled and there was a spot on my prostate.
+
+DOCTOR X499
+No they said.
+
+PATIENT X499
+A lesion.
+
+DOCTOR X499
+In your prostate?
+
+PATIENT X499
+Yeah.
+
+DOCTOR X499
+They said there was a lesion on your kidney.  
+
+PATIENT X499
+Oh my kidney, oh okay.
+
+DOCTOR X499
+But the thing is is that it's gonna be hard for us to, it looks like.  Have you been able to take your blood pressure medicine?
+
+PATIENT X499
+Yeah.
+
+DOCTOR X499
+Cause it looks like you haven't refilled it since December.
+
+PATIENT X499
+That's because I had a lot.
+
+DOCTOR X499
+Okay.
+
+PATIENT X499
+You know I had a lot.
+
+DOCTOR X499
+Okay.  Yeah it's gonna be hard for us to like treat the @@@ of your pain you know if you're not really taking your blood pressure medicine.
+
+PATIENT X499
+I thought they said today its like 133 or 136, yeah.
+
+DOCTOR X499
+Uh let me see exactly what it is.
+
+PATIENT X499
+Yeah but I'm taking you know.  I just like had a bunch of it.
+
+DOCTOR X499
+So it looks like.  Okay.
+
+PATIENT X499
+When I came in I just had a stock pile at home.
+
+DOCTOR X499
+Okay.  Uh it looks like uh let's see we did this, you had an x-ray done of like your hip and your knee.  It looks like you got arthritis um, let's see.  Well you know for the pain you're having in your leg and your back you know we could probably do physical therapy cause we haven't sent you to Physical Therapy.  Um.
+
+PATIENT X499
+You know I'm doing a lot of exercising myself so I don't even know if physical therapy would work.
+
+DOCTOR X499
+You know otherwise there's not, I mean I could send you to see the orthopedic surgeons to see if they'd like to operate on you but other than that there's not a whole lot we can do for arthritis.
+
+PATIENT X499
+Okay so that, actually everything I'm having in my leg that's due to arthritis?
+
+DOCTOR X499
+Uh-huh.
+
+PATIENT X499
+Okay what's, you know the other day I was watching this program on PAD.
+
+DOCTOR X499
+Hmm.
+
+PATIENT X499
+Okay and from what they were describing on TV it's the same symptoms that I have on my left leg.
+
+DOCTOR X499
+Uh-huh.
+
+PATIENT X499
+You know uh.
+
+DOCTOR X499
+What symptoms are those?
+
+PATIENT X499
+Uh poor circulation you know.
+
+DOCTOR X499
+Well it's just poor circulation isn't a symptom.  Like symptoms are like pain and tenderness and tingling.  Poor circulation.
+
+PATIENT X499
+See I have that tingling and you know like I said the tingling it's like someone is @@@ apart.
+
+DOCTOR X499
+Yeah.
+
+PATIENT X499
+Like cold water on the inside and it's like it's draining and running down the inside of my leg.
+
+DOCTOR X499
+Well why don't you have a seat, let's take a look at it, how about that.
+
+PATIENT X499
+And like I said this here on my left side, they said kidney because you know almost everything is on my left side.  Right you know I have the soreness, stuff all on my left side.
+
+DOCTOR X499
+Yeah.
+
+PATIENT X499
+Everything's on my left side.
+
+DOCTOR X499
+Do you know what the treatment is for; the first line treatment is for PAD?
+
+PATIENT X499
+What?
+
+DOCTOR X499
+Quit smoking.
+
+PATIENT X499
+Oh.
+
+DOCTOR X499
+Yeah, see, yeah.
+
+PATIENT X499
+I mean if that, if that's what, that'd be good, actually that'd be good.
+
+DOCTOR X499
+You know.
+
+PATIENT X499
+You know what I'm saying.
+
+DOCTOR X499
+Alright let's take a look at you, okay alright.  
+
+PATIENT X499
+Yeah that's pretty good; everything is on the left side.  Man I do a lot of walking and standing.
+
+DOCTOR X499
+Okay.  
+
+PATIENT X499
+And you see I'm out of Tylenol 3.
+
+DOCTOR X499
+Yeah.
+
+PATIENT X499
+You know and they told me I had to come back here for you to prescribe it again.
+
+DOCTOR X499
+You got good pulses.  I don't think you have PAD.
+
+PATIENT X499
+Okay.
+
+DOCTOR X499
+Alright we'll take a listen to you here.
+
+PATIENT X499
+Oh okay, you know.
+
+DOCTOR X499
+Nice deep breaths and nice deep breaths.  Alright, just breathe normal.  Okay.
+
+PATIENT X499
+Okay you know and it was like @@@ on the top of this @@@ but sometimes I get more spots in my hair and my hair is falling out more.
+
+DOCTOR X499
+Oh really.
+
+PATIENT X499
+See what I'm saying.
+
+DOCTOR X499
+Yeah sure, sure, we could have you see the dermatologist for that one.  Alright, Dermatology, I'll refill your medicine uh what's, uh we need some labs on you today.  We need to check your hepatitis levels.  You're due for a cholesterol check.
+
+PATIENT X499
+Hey you know sometime.  Also you know when I was in the Marine Corps.
+
+DOCTOR X499
+Uh-huh.
+
+PATIENT X499
+And they were giving a shot, they used the same needle.  You know what I'm saying, cause it was a gun like we stood in line and somebody with a gun and shh shh shh.  Is it possible I got hepatitis that way?
+
+DOCTOR X499
+Hmm it's pretty unlikely.  Hepatitis C, the one you had that's mostly likely from either uh intravenous drug use or uh like a sexual encounter.
+
+PATIENT X499
+Okay.
+
+DOCTOR X499
+Yeah just getting like immunizations.
+
+PATIENT X499
+Oh.
+
+DOCTOR X499
+It's extremely unlikely.  Um alright, let's see if you.
+
+PATIENT X499
+They just did a blood thing the other day before I did the MRI last week and I got an appointment this Friday.
+
+DOCTOR X499
+You had an appointment with the orthopedist.
+
+PATIENT X499
+I got it this Friday on the 23rd.
+
+DOCTOR X499
+Oh you do?
+
+PATIENT X499
+Yeah at 2:30.
+
+DOCTOR X499
+Cause it looks like you didn't make it to your last one.
+
+PATIENT X499
+No I didn't, I rescheduled.
+
+DOCTOR X499
+Got it, got it.  Oh perfect, perfect, perfect.
+
+PATIENT X499
+I got it written down.
+
+DOCTOR X499
+Good.
+
+PATIENT X499
+For some reason I was in here doing something else.
+
+DOCTOR X499
+Yeah.
+
+PATIENT X499
+And I know I had an appointment for something but I couldn't remember what it was and it was scheduled on a Tuesday when I have my annual medicine class and my PTSD class.
+
+DOCTOR X499
+Yeah got it.  Uh are you sure we can't interest you in any vaccinations or a colonoscopy today?
+
+PATIENT X499
+No nothing.
+
+DOCTOR X499
+We have to offer, we have to offer it.
+
+PATIENT X499
+I know you got to offer it.  And I know you offered it.
+
+DOCTOR X499
+Alright let's see otherwise.
+
+PATIENT X499
+What is it about the kidney thing then?
+
+DOCTOR X499
+Well it looks like you're seeing the specialist for this right?  You know the GU Clinic and uh it looks like, yeah what'd they say.
+
+PATIENT X499
+Cause as a matter of fact the last time I went to the doctor was for my prostate.
+
+DOCTOR X499
+For gross hematuria, @@@, MRI, you had the MRI they didn't really see that much.  So it seems like they uh, so it just seems like they want to follow you for it.  They don't think it's much.  They think it might be a cyst on your kidney but.
+
+PATIENT X499
+Check on, you know the last time I went over there and @@@ doctor told me that my prostate was swelled right.
+
+DOCTOR X499
+Hmm.
+
+PATIENT X499
+And they didn't give me anything for it.  I go back again and the guy's gonna stick this thing in my ass again.
+
+DOCTOR X499
+Hmm.
+
+PATIENT X499
+I'm uh @@@ if you keep doing that, excuse my way of talking but if you keep sticking your finger in my ass and then giving nothing for it you know I say hey, ain't nothing happening.
+
+DOCTOR X499
+Yeah.
+
+PATIENT X499
+So why do you always, so you know it ain't happening this time I go back.  You didn't give me nothing, you not sticking your finger in my ass again, somebody @@@.
+
+DOCTOR X499
+Well I don't know, you know they're the specialist, they really should enlarged, okay let's see.  Well no actually they didn't think it was enlarged.
+
+PATIENT X499
+Oh okay.
+
+DOCTOR X499
+They it was normal.
+
+PATIENT X499
+Well why does the guy keep sticking his finger in my ass?  That's what I'm talking about see, cause I mean there's something wrong with him.
+
+DOCTOR X499
+Uh like I say they're the prostate doctor.
+
+PATIENT X499
+Yeah.
+
+DOCTOR X499
+@@@.
+
+PATIENT X499
+Yeah they getting off sticking their finger in my ass.  You know you guys are all @@@.
+
+DOCTOR X499
+Well we should get the uh you know five star treatment.
+
+PATIENT X499
+Yeah that's what they call it?
+
+DOCTOR X499
+You know you got had the total exam right.
+
+PATIENT X499
+Yeah well that's like what about this thing on the side of my face that keeps rubbing it.
+
+DOCTOR X499
+Let's uh, well I'll take you up to see the dermatologist when they check your head they can check this thing too okay, sound good?  Alright.
+
+PATIENT X499
+We're coming up on @@@ after a while.
+
+DOCTOR X499
+Meds refill, refill your meds, Ortho.  Hold that thought and let me get some papers for you, I'll be right back.
+
+PATIENT X499
+You know that thing about the ass thing.
+
+DOCTOR X499
+No.
+
+PATIENT X499
+It wasn't right.
+
+DOCTOR X499
+I'll be right back.
+
+(DOCTOR OUT:  44:59  DOCTOR IN:  47:24)
+
+PATIENT X499
+The thing is doc.
+
+DOCTOR X499
+Whoa, on the left side, yeah where's it at.
+
+PATIENT X499
+On this side here, you know @@@.
+
+DOCTOR X499
+Let's take a look.
+
+PATIENT X499
+Everything's happening on it.
+
+DOCTOR X499
+Yeah.
+
+PATIENT X499
+It's all right here.
+
+DOCTOR X499
+Do you feel like its swollen?
+
+PATIENT X499
+You know if you look at it, I mean it looks swollen.  I look at it myself.
+
+DOCTOR X499
+Looks okay to me.
+
+PATIENT X499
+@@@.
+
+DOCTOR X499
+Yeah.
+
+PATIENT X499
+Well you think its fine.  I don't.
+
+DOCTOR X499
+I think its fine.
+
+PATIENT X499
+I ain't no, what you call a hypochondriac.
+
+DOCTOR X499
+Hypochondriac.
+
+PATIENT X499
+Yeah.  You know whatever it is, said that cause I'm @@@ so you know when I come into the doctor's office, all new thing @@@.
+
+DOCTOR X499
+Yeah, no I got it, I got it.
+
+PATIENT X499
+You know I'm 61 years old, @@@ 55.
+
+DOCTOR X499
+Oh that's fine, that's fine.
+
+PATIENT X499
+You know.  All of a sudden this thing started breaking down.
+
+DOCTOR X499
+Alright stop by to get a blood draw on your way out alright.
+
+PATIENT X499
+Okay.
+
+DOCTOR X499
+And just @@@ they'll give you an appointment with Dermatology.
+
+PATIENT X499
+Now I ain't going to wait another year before I come see you, you know.
+
+DOCTOR X499
+Yeah.  Okie doke.  Just hand this to the lady at the front desk, they'll give you an appointment, stop by the blood draw, I'll refill your meds.  Do you want to pick them up at the window today?
+
+PATIENT X499
+Yeah, uh-huh.
+
+DOCTOR X499
+Okay.
+
+PATIENT X499
+Okay thanks a lot doctor.
+
+DOCTOR X499
+Alright take care alright.
+
+PATIENT X499
+Okay.
+
+DOCTOR X499
+Alright.
+
+PATIENT LEAVES:  48:55
+
+
+
+

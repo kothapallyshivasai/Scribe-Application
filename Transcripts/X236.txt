@@ -1,0 +1,657 @@
+
+DOCTOR X236 
+PATIENT?
+
+PATIENT X236
+Hey DOCTOR.  How you doing?
+
+DOCTOR X236
+Great.  By the way, Happy New Year.
+
+PATIENT X236
+Same to you.  @@@.
+
+DOCTOR X236
+How's everything been going?
+
+PATIENT X236
+So far so good.  I had the surgery on my rotator cuff.
+
+DOCTOR X236
+Oh you did.
+
+PATIENT X236
+Yeah.  Matter of fact I feel, I don't know what but I felt much better when I wasn’t taking that Plavix for those ten days.
+
+DOCTOR X236
+Really.
+
+PATIENT X236
+I felt 100% better and that's for real.  When I wasn’t taking the Plavix and the aspirin I felt much better.
+
+DOCTOR X236
+In what way?
+
+PATIENT X236
+I felt normal.
+
+DOCTOR X236
+Alright.  Where'd you have your surgery at?
+
+PATIENT X236
+At @@@.
+
+DOCTOR X236
+xxx xxx?
+
+PATIENT X236
+Yeah.
+
+DOCTOR X236
+Uh when was that?
+
+PATIENT X236
+Uh January 26th.
+
+DOCTOR X236
+And things going okay?
+
+PATIENT X236
+Yeah.  I'm getting ready, uh I'm using a robotic chair now for list, for motion and lift up my shoulder and uh I got another week of that and then I'm going to Physical Therapy.  I should be off work until August I guess.  I would've retired this year but I have to wait now and get that six months back so I'm retiring January 31st.  
+
+DOCTOR X236
+How's your blood pressure been?
+
+PATIENT X236
+My blood pressure's been um, around the same thing it was like today, 142/80.  When I had the surgery, the same day of the surgery, my blood pressure was 180/100 and they took it five minutes later and it was normal.
+
+DOCTOR X236
+And how's your foot been?
+
+PATIENT X236
+My foot's better.  My sugar has been great, averaging about 110-115.  
+
+DOCTOR X236
+And are you smoking?
+
+PATIENT X236
+Still smoking yep.
+
+DOCTOR X236
+About five cigarettes a day still?
+
+PATIENT X236
+Yeah.
+
+DOCTOR X236
+Now were you trying patches or anything like that?
+
+PATIENT X236
+I had some patches yeah, I still got some, ain't doing no good.
+
+DOCTOR X236
+Well you're almost there.
+
+PATIENT X236
+Yeah, yeah.  I'm waiting for that day when I can wake up and say I ain't smoking no more, just give it up.  I hope yes, that's what I pray for.
+
+DOCTOR X236
+Alright, so you said your sugars has been running what?
+
+PATIENT X236
+Uh between 90 and the highest it's been since I been on the medicine in September is 180 but it's averaging, on average its like 115.  I got that 180 cause I ate a lot of stuff I shouldn't ate but overall its like between 90 and 115.
+
+DOCTOR X236
+Good.  Uh all you had is at xxx xxx?
+
+PATIENT X236
+Uh yep.
+
+DOCTOR X236
+Okay uh so a few things I would like to do.
+
+PATIENT X236
+Alright.
+
+DOCTOR X236
+Now that it's safe to hold the Plavix.
+
+PATIENT X236
+Uh-huh.
+
+DOCTOR X236
+Um I know that you had doctors that wanted to do another EGD and colonoscopy.
+
+PATIENT X236
+Uh-huh.
+
+DOCTOR X236
+Uh the scope from the upper and lower.
+
+PATIENT X236
+Uh-huh.
+
+DOCTOR X236
+Uh cause you know you had lost quite a bit of blood uh.  I don't remember when that was.
+
+PATIENT X236
+Yeah.
+
+DOCTOR X236
+I'm sure you, I think it was around what like March?
+
+PATIENT X236
+Yeah that was when uh my stool had turned black.
+
+DOCTOR X236
+Yeah.
+
+PATIENT X236
+Uh-huh.
+
+DOCTOR X236
+So um you know they wanted to repeated those tests to make sure everything was kind of resolved.
+
+PATIENT X236
+Okay.
+
+DOCTOR X236
+But they wanted to wait until it was safe to hold the Plavix.
+
+PATIENT X236
+Okay.
+
+DOCTOR X236
+And now you know we had to wait at least a year.
+
+PATIENT X236
+Uh-huh.
+
+DOCTOR X236
+Uh before we could hold the Plavix and I spoke with DOCTOR and she's saying you know you're probably going to need it life-long.  They're recommending lifelong Plavix but if you need to, for procedures like the surgery.
+
+PATIENT X236
+Uh-huh.
+
+DOCTOR X236
+Uh we're okay to hold it for the and start it @@@ alright.  Other stuff um, I would like to get some blood work on you.
+
+PATIENT X236
+Okay.
+
+DOCTOR X236
+And uh and actually what are you doing for your blood pressure control?
+
+PATIENT X236
+Um lisinopril and.
+
+DOCTOR X236
+And.
+
+PATIENT X236
+And another I forget.  Simvastatin?  Is that it?
+
+DOCTOR X236
+Uh that's for your cholesterol.
+
+PATIENT X236
+That's cholesterol, simvastatin is cholesterol uh.
+
+DOCTOR X236
+It looks like we've just got you on the metoprolol.
+
+PATIENT X236
+The metoprolol yeah that's it.
+
+DOCTOR X236
+Uh now we can increase that.
+
+PATIENT X236
+Metoprolol?
+
+DOCTOR X236
+Yeah.
+
+PATIENT X236
+To what?
+
+DOCTOR X236
+75 twice a day.
+
+PATIENT X236
+75, what am I taking now?
+
+DOCTOR X236
+You're at 50.
+
+PATIENT X236
+Oh okay.  75 twice a day.
+
+DOCTOR X236
+@@@ you've go the 50 mg tablets.
+
+PATIENT X236
+Uh-huh.
+
+DOCTOR X236
+But you're only taking half a pill a day.
+
+PATIENT X236
+Half of that yes.
+
+DOCTOR X236
+Uh so we can actually increase you to a full tablet.
+
+PATIENT X236
+To the full tablet?
+
+DOCTOR X236
+Yeah.
+
+PATIENT X236
+Okay.
+
+DOCTOR X236
+So that should make it easier so won't have to split that one.
+
+PATIENT X236
+Okay yeah it is doc.  Well I've gotten good at it, I just take it and put them in my hands, even with it band working itself I can break it in half yep.  Same way with those uh cholesterol pills.  They're bigger.
+
+DOCTOR X236
+Well let me take a look and listen to you.
+
+PATIENT X236
+Alright.
+
+DOCTOR X236
+So I can get you going.  
+
+PATIENT X236
+Right here?
+
+DOCTOR X236
+Yeah.
+
+PATIENT X236
+Alright.
+
+DOCTOR X236
+This shoulder?
+
+PATIENT X236
+Yeah.
+
+DOCTOR X236
+Take a few deep breaths.  Okay breathe normal.  Squeeze my fingers close down, good.  And uh which toe had the trouble?  Was it the right one?
+
+PATIENT X236
+It was the right one yeah.
+
+DOCTOR X236
+It's uh; let's take a look at that.  It looks good.
+
+PATIENT X236
+Yeah it was like that after three, three four weeks.  I mean I was blessed because it could've been worse than that couldn't it?
+
+DOCTOR X236
+Right.
+
+PATIENT X236
+Like my whole leg.
+
+DOCTOR X236
+Yeah absolutely.  We do what we can and we try and get the infection taken care of as quick as possible but.
+
+PATIENT X236
+Yeah I was going.
+
+DOCTOR X236
+But people who get a small portion of a limb cut off often have to go back for you know take bigger hunks off.
+
+PATIENT X236
+Really?
+
+DOCTOR X236
+Oh yeah.  But I mean we try and do.
+
+PATIENT X236
+Uh-huh.
+
+DOCTOR X236
+We try and leave people with as much as we can.
+
+PATIENT X236
+Yeah but that's what they did.  I got 3/4 of my toe anyway.
+
+DOCTOR X236
+Yeah but uh you know some people have to have their foot, you know and all their toes taken off.
+
+PATIENT X236
+Yeah.
+
+DOCTOR X236
+And uh then you know the reason they have to have their toes taken off is that they've got bad diabetes or vascular disease.
+
+PATIENT X236
+Uh-huh.
+
+DOCTOR X236
+So that way there were problems in the first place but that also makes it difficult for that wound to heal.
+
+PATIENT X236
+Okay.
+
+DOCTOR X236
+So then it'll get infected again and the infection will move up and you keep going up the leg which isn't good.
+
+PATIENT X236
+Oh okay.
+
+DOCTOR X236
+And they want to take a little tiny piece off.
+
+PATIENT X236
+Yeah.
+
+DOCTOR X236
+Uh but, good, uh alright so uh I actually don't want to do a ton of changes with you since it sounds like you're doing pretty well.  So what I would like to do is repeat some blood work today, are you okay with that?
+
+PATIENT X236
+Today?
+
+DOCTOR X236
+Yeah.  
+
+PATIENT X236
+Yeah, that's okay.
+
+DOCTOR X236
+Um so you can get down.
+
+PATIENT X236
+What do those cholesterol pills actually do?
+
+DOCTOR X236
+Lowers your cholesterol.
+
+PATIENT X236
+Yeah.
+
+DOCTOR X236
+The cholesterol, high cholesterol puts you at risk for like heart disease.
+
+PATIENT X236
+Uh-huh.
+
+DOCTOR X236
+Uh peripheral vascular disease.
+
+PATIENT X236
+Okay.
+
+DOCTOR X236
+Uh, like do you hear about plaques forming in your heart?
+
+PATIENT X236
+Yeah.
+
+DOCTOR X236
+Or in your blood vessels.
+
+PATIENT X236
+Uh-huh.
+
+DOCTOR X236
+Uh cholesterol contributes to the plaque.
+
+PATIENT X236
+Oh okay.
+
+DOCTOR X236
+So the less you have in there the better off you are.
+
+PATIENT X236
+Okay.  Okay.  So I'll take the whole pill of metoprolol?
+
+DOCTOR X236
+Yeah.
+
+PATIENT X236
+Starting tomorrow, I took a half pill today.
+
+DOCTOR X236
+Yeah you could even start tonight if you want.
+
+PATIENT X236
+Okay.
+
+DOCTOR X236
+Take a whole pill tonight.
+
+PATIENT X236
+Okay.
+
+DOCTOR X236
+Cause you're taking it twice a day right?
+
+PATIENT X236
+Twice a day.  Do I take it twice a day?
+
+DOCTOR X236
+Yeah.
+
+PATIENT X236
+Do I still take it twice a day?
+
+DOCTOR X236
+Yeah.
+
+PATIENT X236
+A whole pill okay.
+
+DOCTOR X236
+When was your last colonoscopy?
+
+PATIENT X236
+I never had one.
+
+DOCTOR X236
+Never had one?
+
+PATIENT X236
+A colonoscopy is when they go into your.
+
+DOCTOR X236
+So yeah the same thing only when we go in through your rectum.
+
+PATIENT X236
+Oh I never had that.
+
+DOCTOR X236
+Okay.
+
+PATIENT X236
+But I think they did send a probe up in when I was bleeding internally, they said I had ulcers or something.  Is that the same thing?
+
+DOCTOR X236
+It's essentially the same thing.
+
+PATIENT X236
+Oh.
+
+DOCTOR X236
+It's a slightly different scope but yours wasn't exactly the same.
+
+PATIENT X236
+Uh-huh.
+
+DOCTOR X236
+But they go in from below.
+
+PATIENT X236
+Uh-huh, okay.
+
+DOCTOR X236
+So what we'll do, I'll put in a consult and have them do both.
+
+PATIENT X236
+Today?
+
+DOCTOR X236
+No, no.
+
+PATIENT X236
+Oh okay.
+
+DOCTOR X236
+Uh we'll get the uh, we'll do the blood work today; basically the way the system works it @@@ be done.
+
+PATIENT X236
+Okay.
+
+DOCTOR X236
+And then the GI doctors will look at it and review the blood work we did today.
+
+PATIENT X236
+Uh-huh.
+
+DOCTOR X236
+And then they'll say like yes it's okay to schedule you for that procedure then uh.  You don't have a pacemaker, defibrillator or anything like that?
+
+PATIENT X236
+No.
+
+DOCTOR X236
+Now you do have stents right?
+
+PATIENT X236
+Yeah I have stents yeah.
+
+DOCTOR X236
+Alright.
+
+PATIENT X236
+One.
+
+DOCTOR X236
+Okay, you're on metformin?
+
+PATIENT X236
+What is that?
+
+DOCTOR X236
+For your diabetes.
+
+PATIENT X236
+Uh glipizide.
+
+DOCTOR X236
+Glipizide.  So I want you on the same one, I need to get out so I do everything uh.  Let me put in these orders and then I'll make sure you can come back and do the labs. (Doctor working on computer 35:23 - 37:45)  I think at some point we're going to need you to repeat your cholesterol.  Uh but that'll likely come, we'll need to do it when you're fasting.
+
+PATIENT X236
+Uh-huh.
+
+DOCTOR X236
+So.
+
+PATIENT X236
+What do you mean repeat my cholesterol?
+
+DOCTOR X236
+The cholesterol test.
+
+PATIENT X236
+Oh, oh the test.
+
+DOCTOR X236
+Yeah.
+
+PATIENT X236
+Okay.
+
+DOCTOR X236
+So its blood work but you have to do it when you're fasting, so nothing to eat or drink.
+
+PATIENT X236
+Okay.
+
+DOCTOR X236
+Oh you can water; you can have your medications.
+
+PATIENT X236
+Uh-huh.
+
+DOCTOR X236
+But no.
+
+PATIENT X236
+No food.
+
+DOCTOR X236
+No coffee or food nothing like that.
+
+PATIENT X236
+Oh alright.
+
+DOCTOR X236
+Uh so uh if you can do that, you know, before you see me again.
+
+PATIENT X236
+Alright.
+
+DOCTOR X236
+I'd like to see you in three months.  Alright uh, that's all I got.
+
+PATIENT X236
+Okay. Alright doc.
+
+DOCTOR X236
+I'll renew all the meds.
+
+PATIENT X236
+Okay.
+
+DOCTOR X236
+So I'll change the metoprolol.
+
+PATIENT X236
+Okay.
+
+DOCTOR X236
+To 50 mg twice a day.
+
+PATIENT X236
+Okay.
+
+DOCTOR X236
+And @@@.
+
+PATIENT X236
+Alright.
+
+DOCTOR X236
+And then uh we'll have you just slip back out here in the Waiting Room real quick and then we'll get you to do your blood work.
+
+PATIENT X236
+Oh they do it right up here?
+
+DOCTOR X236
+Yeah they'll do it, let me just make sure.
+
+PATIENT X236
+Okay uh thank you doc.
+
+DOCTOR X236
+Yeah.  We'll see if they can do it.
+
+PATIENT X236
+Alrighty.
+
+DOCTOR X236
+Take care.
+
+PATIENT LEAVES:  39:36.
+
+
+
+

@@ -1,0 +1,564 @@
+
+DOCTOR X455
+PATIENT?
+
+PATIENT X455
+How you doing?
+
+DOCTOR X455
+Good.  How are you?
+
+PATIENT X455
+Pretty good.
+
+DOCTOR X455
+@@@.
+
+PATIENT X455
+Well I'm here to see DOCTOR.
+
+DOCTOR X455
+I'll @@@ your doctor.
+
+PATIENT X455
+I got have a letter from here so I get @@@.
+
+DOCTOR X455
+Right.  I'm @@@.
+
+PATIENT X455
+Cause they told me this yesterday.  I need the letter today.
+
+DOCTOR X455
+@@@.
+
+PATIENT X455
+@@@ letter @@@.
+
+DOCTOR X455
+I'm sorry about that.
+
+PATIENT X455
+But that's the one; I can't live out there in the street.  I got ankle braces on @@@ and you know it's bad out there now.  So what's up?
+
+DOCTOR X455
+Nothing, how you doing?
+
+PATIENT X455
+I'm doing great.
+
+DOCTOR X455
+Good.
+
+PATIENT X455
+Um, the @@@ found out I had arthritis in both ankles we shot some cortisone in there.
+
+DOCTOR X455
+@@@.
+
+PATIENT X455
+Uh last week.
+
+DOCTOR X455
+How do they feel?
+
+PATIENT X455
+Good.  
+
+DOCTOR X455
+Did you get x-rays done?
+
+PATIENT X455
+I got uh the right one done.  I get the left one done on the 8th.
+
+DOCTOR X455
+Oh okay.
+
+PATIENT X455
+No um, as far as um I need some alcohol pads.
+
+DOCTOR X455
+Okay.
+
+PATIENT X455
+Cause I'm running low on them.
+
+DOCTOR X455
+No problem.
+
+PATIENT X455
+I'm running low on my um metformin.
+
+DOCTOR X455
+Okay.  So let's see you're taking the Glargine insulin right?
+
+PATIENT X455
+Yes.
+
+DOCTOR X455
+How many units?
+
+PATIENT X455
+125.
+
+DOCTOR X455
+Twice a day?
+
+PATIENT X455
+Twice a day.
+
+DOCTOR X455
+And how much of the Aspart?
+
+PATIENT X455
+Um 40 each.
+
+DOCTOR X455
+40 with each meal?
+
+PATIENT X455
+With each meal right.
+
+DOCTOR X455
+So three times a day.  Alright.  And how are your sugars running?
+
+PATIENT X455
+Ooh man.  I ain't never see them that low.
+
+DOCTOR X455
+How low are they?
+
+PATIENT X455
+80, 90.  One time I had 66 and I had to get me some orange juice.
+
+DOCTOR X455
+@@@?
+
+PATIENT X455
+About three times. 
+
+DOCTOR X455
+About three times.
+
+PATIENT X455
+Yeah.
+
+DOCTOR X455
+When were those lows @@@?
+
+PATIENT X455
+Well you know they got me on this strict diet of vegetables.  I don't eat no red meat.
+
+DOCTOR X455
+Okay.
+
+PATIENT X455
+Chicken, fish, turkey and I know when I eat vegetables my sugars be down but I keep a carton of orange juice just in case.
+
+DOCTOR X455
+Okay.
+
+PATIENT X455
+This morning.
+
+DOCTOR X455
+Do you feel shaky and all that stuff?
+
+PATIENT X455
+Yeah, yeah, yeah.
+
+DOCTOR X455
+And that only happens when you go down to 60?
+
+PATIENT X455
+Yeah.
+
+DOCTOR X455
+Okay.  In 70s, 80s, those are perfect actually but a little,  you know you're gonna get a little, when do these low ones happen?
+
+PATIENT X455
+In the morning.
+
+DOCTOR X455
+First thing in the morning?  Okay.
+
+PATIENT X455
+And last night it was 100 and I was shocked.  
+
+DOCTOR X455
+100 is good, that's where we @@@ good.
+
+PATIENT X455
+Well I been trying.
+
+DOCTOR X455
+But the 66 and @@@ first thing in the morning.
+
+PATIENT X455
+First thing in the morning, never at night.
+
+DOCTOR X455
+Oh okay.  Have you, do you check it other times during the day?
+
+PATIENT X455
+Uh uh.
+
+DOCTOR X455
+Just first thing in the morning.
+
+PATIENT X455
+First thing in the morning.  Sometimes my nurse that I have with this home care, she may come in, she come in once a week and checks it.
+
+DOCTOR X455
+Okay.  Well let's see.  So you need to start, if you can, start checking some other times so before meals, couple hours after meals, because you're, you're values are still a little too high so.
+
+PATIENT X455
+Okay.
+
+DOCTOR X455
+You might need like, you need more coverage during your meals okay.
+
+PATIENT X455
+Okay.
+
+DOCTOR X455
+So.
+
+PATIENT X455
+Cause I'm watching what I'm eating.
+
+DOCTOR X455
+Yeah that's good.
+
+PATIENT X455
+And they like, right up today they been varying a lot, they're watching that.  I don't my sugars to up no higher than what they been.
+
+DOCTOR X455
+Yeah.
+
+PATIENT X455
+And I'm baking my chicken, boiling, boiling, no fried food.
+
+DOCTOR X455
+Good.
+
+PATIENT X455
+And I feel good.  I exercise more, I spend 20 minutes every morning when I wake up I get into my routine, I exercise.  
+
+DOCTOR X455
+And the biggest thing is just you know losing weight @@@.
+
+PATIENT X455
+Yeah I lost 28 pounds.
+
+DOCTOR X455
+So you're still taking the metformin huh?
+
+PATIENT X455
+Yeah but I'm getting low on it, if they can mail it and mail my alcohol pads, that's all I need.
+
+DOCTOR X455
+Alright.  Your blood pressure today is perfect. 
+
+PATIENT X455
+I'm doing something right ain't I doc?
+
+DOCTOR X455
+Yeah your blood pressure is good.  Let's see.  You're urinating alright?
+
+PATIENT X455
+Uh-huh.
+
+DOCTOR X455
+How's the gout?
+
+PATIENT X455
+Well it's clearing up.  I feel good um, taking that um.
+
+DOCTOR X455
+Allopurinol?
+
+PATIENT X455
+Yes, two tabs, two pills.
+
+DOCTOR X455
+Two pills a day.
+
+PATIENT X455
+Yes sir.
+
+DOCTOR X455
+So about 100 mg?
+
+PATIENT X455
+Yes.  And this helps.
+
+DOCTOR X455
+Okay.  How long have you been taking that?
+
+PATIENT X455
+Ever since I got off the No Doze pills, I don't know the name of it; it's a medication but uh.
+
+DOCTOR X455
+@@@ the prednisone?
+
+PATIENT X455
+Yeah prednisone.
+
+DOCTOR X455
+Okay.  So you've been taking it for like a month?
+
+PATIENT X455
+Uh-huh.
+
+DOCTOR X455
+Allopurinol.
+
+PATIENT X455
+So how long will that take affect?
+
+DOCTOR X455
+Uh, it's already, it should have already, wait so when'd you start taking it like December or January?
+
+PATIENT X455
+I think it was January.
+
+DOCTOR X455
+Started taking in January?
+
+PATIENT X455
+Cause it's almost been a month since I had an attack.
+
+DOCTOR X455
+And yeah it was like, find out, the peoples were done January 4th so you probably started taking those @@@ right after that.  We can recheck the uric acid levels, that's how we test, that's kind of what causes gout and we can tell.  You have to get that down to a certain level so we'll see how much lower it's gone.
+
+PATIENT X455
+What is that, so what they got to do?
+
+DOCTOR X455
+It's just a blood test.
+
+PATIENT X455
+I thought they did that already.
+
+DOCTOR X455
+But you had just started taking right when that gout flared up again?  We don't have to get it done today, next week if you're around some other time you can get it done.
+
+PATIENT X455
+Well I'm getting here on the 24th.
+
+DOCTOR X455
+Yeah that's fine, there's no hurry.
+
+PATIENT X455
+Okay.
+
+DOCTOR X455
+And uh we can go up on it if we need to on that so we want to prevent any other attacks.
+
+PATIENT X455
+Geez, I don't want to.  You know what, like I told DOCTOR I don't be in that chair.  I only use that chair for extreme purposes and when I couldn't walk and I don't want to have no more gout attacks.  I'm leaving that red meat and shellfish alone.  I'm eating right.
+
+DOCTOR X455
+Kind of breathing room yeah.
+
+PATIENT X455
+I'm being good.
+
+DOCTOR X455
+And you're using your CPAP unit?
+
+PATIENT X455
+Yes.  I got a sleep study the 24th.
+
+DOCTOR X455
+Oh okay.  And you said you've lost some weight?
+
+PATIENT X455
+28 pounds.
+
+DOCTOR X455
+So you're at 334 today.
+
+PATIENT X455
+That's because I got these shoes on.
+
+DOCTOR X455
+Oh okay.
+
+PATIENT X455
+The diabetic shoes, oh boy.  
+
+DOCTOR X455
+Alright do you want me to back date?
+
+PATIENT X455
+Um yes, @@@.
+
+DOCTOR X455
+Transportation letter.
+
+PATIENT X455
+Yes please.  I know he gonna be glad to hear from me.
+
+DOCTOR X455
+@@@.
+
+PATIENT X455
+Thank you.
+
+DOCTOR X455
+@@@.  I mean did you smoke before?
+
+PATIENT X455
+I quit smoking 23 years ago, I mean 17 years, I quit drinking 23 years ago.
+
+DOCTOR X455
+20 years, smoked @@@ before?
+
+PATIENT X455
+Yes.  November 2nd I quit smoking and December 31st of 88, I quit drinking and drugging.  I just had an anniversary of 22 years.  And 17 years of quit smoking.
+
+DOCTOR X455
+How'd you do it?
+
+PATIENT X455
+The doctor told me, I went in, I was working.  I went to see my medical doctor at the General Health Clinic and I had a cough and he told me he says PATIENT, he checked me out.  He says you ought to quit smoking cause if you don't, you're gonna die and he scared me.  I got up on the L platform, getting ready to go back to work and through a whole pack of cigarettes away and I ain't had any since.
+
+DOCTOR X455
+Uh I wish everybody could do that.
+
+PATIENT X455
+Well I'm gonna live doc.
+
+DOCTOR X455
+I'll be right back.
+
+(DOCTOR OUT:  28:40  DOCTOR IN:  46:55)
+
+DOCTOR X455
+@@@ alright.
+
+PATIENT X455
+What'd he say?  Say I'm doing good?
+
+DOCTOR X455
+He, he didn't like that your weight went back up but.
+
+PATIENT X455
+Oh okay.
+
+DOCTOR X455
+Other than that yes.
+
+PATIENT X455
+But that's these shoes.
+
+DOCTOR X455
+Yeah.
+
+PATIENT X455
+But my weight this morning was 368.
+
+DOCTOR X455
+I mean, it sounds like, you're using a scale at home?  You know that's the thing you know.
+
+PATIENT X455
+And I didn't have no clothes on you know.
+
+DOCTOR X455
+Alright.
+
+PATIENT X455
+@@@.
+
+DOCTOR X455
+But yeah as long as that one at home, as long as the scale at home and you're losing.
+
+PATIENT X455
+Yesterday was 368.5, in the morning it was 368.
+
+DOCTOR X455
+You doing it.
+
+PATIENT X455
+I'm exercising every morning.
+
+DOCTOR X455
+Yes good.  You know its better, the whole other thing is the food part, eat a little.  You know you're eating better it sounds like but, try to eat less now.
+
+PATIENT X455
+Okay.
+
+DOCTOR X455
+So and you know I don't know how big of portions you're eating but then start, you know start having like 3/4 of that.
+
+PATIENT X455
+Okay.
+
+DOCTOR X455
+Then let's say half I mean, buy smaller plates if that helps you psychologically.  There's actually a famous diet called the 9 inch plate diet.
+
+PATIENT X455
+Uh-huh.
+
+DOCTOR X455
+So they have smaller plates and you just fill it up once and you eat what's on the plate and then you're done.
+
+PATIENT X455
+Okay.
+
+DOCTOR X455
+Psychologically, portion control is most of it.
+
+PATIENT X455
+Right, right cause I was you know I'm in the MOVE Program.
+
+DOCTOR X455
+Yeah okay.
+
+PATIENT X455
+So you know.
+
+DOCTOR X455
+And they're telling you how to do it.
+
+PATIENT X455
+Right.  I.
+
+DOCTOR X455
+Alright so you're good until you come back some other time we'll check your blood and urine.
+
+PATIENT X455
+When you see me again?
+
+DOCTOR X455
+I'll probably see you in about three months.
+
+PATIENT X455
+Cool.
+
+DOCTOR X455
+Alright.
+
+PATIENT X455
+Alright.  Thanks doc.
+
+DOCTOR X455
+Have a good day.
+
+PATIENT X455
+You too.  I'm sure going to try.
+
+DOCTOR X455
+Take care.
+
+PATIENT X455
+Alright thank you.  
+
+PATIENT LEAVES:  48:54.
+
+
+
+
+

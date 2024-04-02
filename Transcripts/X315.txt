@@ -1,0 +1,793 @@
+
+DOCTOR X315 
+PATIENT?
+
+PATIENT X315
+Yes sir.
+
+DOCTOR X315
+How are you today?  I'm DOCTOR.
+
+PATIENT X315
+Hi.  How you doing?
+
+DOCTOR X315
+Good how you doing?
+
+PATIENT X315
+Not bad.
+
+DOCTOR X315
+Go right in here.
+
+PATIENT X315
+Okay.  Uh I'm stepping on my @@@.
+
+DOCTOR X315
+How have you been?
+
+PATIENT X315
+Oh not too bad.  @@@.
+
+DOCTOR X315
+Okay.
+
+PATIENT X315
+@@@.
+
+DOCTOR X315
+Pardon?
+
+PATIENT X315
+@@@ my medicine.
+
+DOCTOR X315
+What's that?
+
+PATIENT X315
+Um, @@@ something I've been taking all of these @@@.
+
+DOCTOR X315
+Okay.
+
+PATIENT X315
+I haven't taken it for a long @@@, they just keep adding to it and all it is 141 and I take five or six of these different ones.
+
+DOCTOR X315
+For your blood pressure?
+
+PATIENT X315
+Blood pressure.
+
+DOCTOR X315
+Yeah it's pretty high today too.
+
+PATIENT X315
+Well yeah I didn't take my noon and it's quite possible because I left to come here.  It takes me a while to get here and I about missed my appointment for my leg.  So that @@@.
+
+DOCTOR X315
+Sure.
+
+PATIENT X315
+@@@.  Usually I take it but I got some other things I want to talk to you about.
+
+DOCTOR X315
+Yeah um so as in terms of your blood pressure medication who do you?
+
+PATIENT X315
+I saw DOCTOR, DOCTOR.
+
+DOCTOR X315
+DOCTOR?
+
+PATIENT X315
+DOCTOR, no not really.  DOCTOR, DOCTOR, two of the doctors and then there's DOCTOR.
+
+DOCTOR X315
+Alright sir.  Okay so what's wrong with your leg here?
+
+PATIENT X315
+Well I just had an appointment @@@.
+
+DOCTOR X315
+Okay.
+
+PATIENT X315
+But I uh, my knee I was walking.
+
+DOCTOR X315
+Uh-huh.
+
+PATIENT X315
+In the, in the @@@ in the terminal.
+
+DOCTOR X315
+Uh-huh.
+
+PATIENT X315
+And I was walking and my foot went down in the floor boards right here.
+
+DOCTOR X315
+Okay.
+
+PATIENT X315
+And my foot went this way and it stuck here and then my foot went this way and then I fell on my knee real bad.
+
+DOCTOR X315
+Okay you fell on it.
+
+PATIENT X315
+Yeah I fell on it and so now, when I @@@ off @@@ ankle over here.
+
+DOCTOR X315
+Uh-huh.
+
+PATIENT X315
+But this one was way over @@@.
+
+DOCTOR X315
+Okay.
+
+PATIENT X315
+It was like off you know.
+
+DOCTOR X315
+Yeah.  
+
+PATIENT X315
+And the nurse gave me a bandage.
+
+DOCTOR X315
+Do you want to take your shoes off and take your pants off completely so that way I can take a look at your knee?
+
+PATIENT X315
+Yeah see how it bends here?  But the knee, it actually goes up see.  It goes, when I bent it it went this way but when I walk on it, if I take the bandage off, if I take the bandage off.
+
+DOCTOR X315
+Uh-huh.
+
+PATIENT X315
+I got it too tight so it can go up my legs.  But when I walk on it, my foot goes out like this.
+
+DOCTOR X315
+Uh-huh.
+
+PATIENT X315
+And it's normal now and I used to be walking this way but see it goes, it goes like this.
+
+DOCTOR X315
+Yeah I see that.
+
+PATIENT X315
+Yeah and this one's down.  It's also soft when I'm pushing on it, it stops and this one goes straight over.
+
+DOCTOR X315
+Okay.
+
+PATIENT X315
+So.
+
+DOCTOR X315
+@@@.  Were you in the hospital recently?
+
+PATIENT X315
+Yeah I was in the hospital, not recently, but for something else anyway I have a hard time telling them I'm not really mentally disoriented.
+
+DOCTOR X315
+Uh-huh.
+
+PATIENT X315
+That's cause I got banged in the head in the Navy.
+
+DOCTOR X315
+Uh-huh.
+
+PATIENT X315
+@@@ you know and I found that in civilian life @@@ but I was in and I asked them for a walker or something to walk with this about four months ago.
+
+DOCTOR X315
+Uh-huh.
+
+PATIENT X315
+Four or five months ago and they said no I don't need one but then again I need something and @@@ as potent as the right pain medicine you know.
+
+DOCTOR X315
+Right.  Okay.
+
+PATIENT X315
+This @@@ is something else.  @@@ but this stuff here makes me drowsy, kind of makes me dopey @@@.
+
+DOCTOR X315
+Yeah.
+
+PATIENT X315
+@@@ problem.
+
+DOCTOR X315
+Yeah.
+
+PATIENT X315
+I just have too much @@@ you know.  @@@.
+
+DOCTOR X315
+Okay.
+
+PATIENT X315
+@@@.
+
+DOCTOR X315
+Yeah so does it hurt anywhere?
+
+PATIENT X315
+Yeah it, don't hurt.
+
+DOCTOR X315
+@@@.
+
+PATIENT X315
+Well generally right here.
+
+DOCTOR X315
+Right here.
+
+PATIENT X315
+Right here.
+
+DOCTOR X315
+It hurts.
+
+PATIENT X315
+It hurts.
+
+DOCTOR X315
+Not anywhere else?
+
+PATIENT X315
+Well I think the pressure here goes down and it does hurt around here and back here it hurts and then I see that the leg doctor tightened up you know.
+
+DOCTOR X315
+Okay.  Can you lay straight back for me?  Okay can you bring your knee up?  Lift your foot up.  
+
+PATIENT X315
+I feel it in this one.
+
+DOCTOR X315
+Does that hurt?
+
+PATIENT X315
+Just a little.
+
+DOCTOR X315
+Does that hurt?
+
+PATIENT X315
+No @@@.
+
+DOCTOR X315
+Lift up.
+
+PATIENT X315
+That one's @@@.
+
+DOCTOR X315
+Yeah.
+
+PATIENT X315
+That one doesn't.
+
+DOCTOR X315
+Can you bend your knee for me?  Does that hurt at all?
+
+PATIENT X315
+In the back.
+
+DOCTOR X315
+The back huh.
+
+PATIENT X315
+@@@ bend it the first time.
+
+DOCTOR X315
+It doesn't really hurt when I move?
+
+PATIENT X315
+No @@@.
+
+DOCTOR X315
+But just when I push right?
+
+PATIENT X315
+When you push.
+
+DOCTOR X315
+I'll tell you what, let me, you can sit up.  Let me go grab my boss and he can come take a look at it too okay.
+
+PATIENT X315
+Okay.
+
+DOCTOR X315
+Alright.
+
+PATIENT X315
+Yeah and it seems like I don't know if it blows up in the wrapper or what.
+
+DOCTOR X315
+Yeah it probably is cause I know you had swelling down there before right, you were in the hospital.
+
+PATIENT X315
+Yeah I had swelling there.  I had swelling before.  They gave me uh, they gave me swelling medicine.  They gave me uh something, I wrote it down here.
+
+DOCTOR X315
+Okay.  Let me just go talk to my boss I'll be right back okay.
+
+(DOCTOR OUT:  42:33  DOCTOR IN:  48:43)
+
+SECOND DOCTOR X315
+PATIENT?  I'm DOCTOR nice to meet you.  I've talked with DOCTOR and he said your knee had been bothering you for the past couple of weeks.
+
+PATIENT X315
+I fell and now I fell real hard on it and I @@@ the place that I live.
+
+SECOND DOCTOR X315
+Yeah.
+
+PATIENT X315
+@@@.
+
+SECOND DOCTOR X315
+Okay.
+
+PATIENT X315
+And I went that way and that way @@@ and I think it got looking better and then I fell on it and my knee hurts, now it's @@@ an inch and a half and this was in January @@@.
+
+SECOND DOCTOR X315
+Now what prompted the fall, did you trip?
+
+PATIENT X315
+No I didn't trip, the @@@ underneath.
+
+SECOND DOCTOR X315
+So what happened, did it shift or?
+
+PATIENT X315
+No the floors weren't @@@, the floor just went out.
+
+SECOND DOCTOR X315
+Okay.
+
+PATIENT X315
+@@@.
+
+SECOND DOCTOR X315
+Uh-huh.
+
+PATIENT X315
+@@@ this way.
+
+SECOND DOCTOR X315
+Uh-huh.  I'm going to straighten your knee out towards me and bring it back in.
+
+(DOCTORS DISCUSS BETWEEN THEMSELVES)
+
+SECOND DOCTOR X315
+Are you taking any pain medications at home?
+
+PATIENT X315
+Uh yeah I'm taking @@@.
+
+FIRST DOCTOR X315
+Meloxicam.
+
+SECOND DOCTOR X315
+Does that help?
+
+PATIENT X315
+No @@@ I used to take.
+
+FIRST DOCTOR X315
+Diclofenac?
+
+PATIENT X315
+Something I used @@@.
+
+SECOND DOCTOR X315
+When you straighten out?
+
+PATIENT X315
+This one started hurting @@@.
+
+SECOND DOCTOR X315
+Uh-huh.
+
+PATIENT X315
+From here, all the way around to here.  @@@.
+
+FIRST DOCTOR X315
+@@@.
+
+SECOND DOCTOR X315
+Maybe he does have a little bit of osteoarthritis.  @@@.  It can happen with injuries; maybe that's what's causing the discomfort here.  
+
+PATIENT X315
+When I started to walk normal, I used to walk straight, now I can walk naturally and it still crackles.  Now my foot goes like this.
+
+SECOND DOCTOR X315
+Uh-huh.
+
+PATIENT X315
+It will go off @@@.  My leg like that.  But this one is the same when I walk and then @@@ like that.
+
+SECOND DOCTOR X315
+We're going to start him on etodolac 400 b.i.d. and we'll see if will help with the stiffness and um I want to get an x-ray of it.
+
+FIRST DOCTOR X315
+Okay.
+
+SECOND DOCTOR X315
+To make sure there's not a bone chip or something like that and maybe get a knee brace to help @@@. 
+
+FIRST DOCTOR X315
+Physical therapy okay.
+
+SECOND DOCTOR X315
+A couple things we'll help you with, including we'll get an x-ray of the knee today and make sure there aren't any problems or something else.
+
+PATIENT X315
+Yeah @@@.  I went to X-ray.
+
+SECOND DOCTOR X315
+Did they get an x-ray already?
+
+PATIENT X315
+They did an x-ray a really long time ago and @@@ nothing's wrong with it.
+
+SECOND DOCTOR X315
+You already had x-rays @@@.
+
+PATIENT X315
+Then I went back the other day and they said I had to see the doctor first.  
+
+SECOND DOCTOR X315
+We'll make a quick appointment for you.  @@@.  That x-ray was that at another hospital?
+
+PATIENT X315
+No here.
+
+SECOND DOCTOR X315
+Really we don't have anything here.  Are you sure you're not thinking of maybe labs here.  Did you hurt yourself?
+
+PATIENT X315
+It was when I was in the Air Force.
+
+SECOND DOCTOR X315
+Alright but then you had hurt yourself since then right?
+
+PATIENT X315
+No, no it just started @@@ about two weeks ago.
+
+SECOND DOCTOR X315
+Sure.
+
+PATIENT X315
+Two or three weeks ago.
+
+SECOND DOCTOR X315
+Yeah we'll repeat the x-rays just to be sure.
+
+PATIENT X315
+Oh sure.  And you'll have them read the next one?
+
+FIRST DOCTOR X315
+Yeah we're gonna discontinue the meloxicam.
+
+PATIENT X315
+Okay.
+
+FIRST DOCTOR X315
+I'll do it as we're talking here and then we'll start what's called etodolac so let me @@@.  Would you like us to mail it to you or do you want to pick it up tonight?
+
+PATIENT X315
+No @@@.  Then I'll need a note probably to continue the uh.
+
+FIRST DOCTOR X315
+I'm doing that now.
+
+PATIENT X315
+Yeah I'll need a note @@@.
+
+FIRST DOCTOR X315
+Okay I discontinued the meloxicam and we're going to give you etodolac and the pharmacy people know all about this okay.
+
+PATIENT X315
+Okay.  So it's etodolac?
+
+FIRST DOCTOR X315
+Eto.
+
+PATIENT X315
+Eto.
+
+FIRST DOCTOR X315
+Dolac.
+
+PATIENT X315
+Dolac.
+
+FIRST DOCTOR X315
+Etodolac.  And the other thing that we were talking about was the uh, the x-ray of your knee.
+
+PATIENT X315
+Right.  So you tell me if you see something or not.
+
+FIRST DOCTOR X315
+Right.
+
+PATIENT X315
+If there's something or you see something.
+
+FIRST DOCTOR X315
+Yeah.  And the other thing I'm going to ask you to do, just because your blood pressure's so high, I'm going to ask you to come back in a couple of weeks, not for a visit just come up here and let the nurses check your blood pressure and then you can go home.
+
+PATIENT X315
+Okay, so that's okay cause you know like today I was at home.
+
+FIRST DOCTOR X315
+Yeah, yeah.
+
+PATIENT X315
+And I couldn't @@@.
+
+FIRST DOCTOR X315
+Right, no no I think you should take your medications.
+
+PATIENT X315
+Yeah I do take my medicines but I didn't take it this morning.
+
+FIRST DOCTOR X315
+Right yeah.
+
+PATIENT X315
+@@@.  I @@@ I don't like taking medicine.  It seem every time I take new stuff I get bloating.
+
+FIRST DOCTOR X315
+The which one?
+
+PATIENT X315
+HDL or CTA.
+
+FIRST DOCTOR X315
+Oh the HCTZ?
+
+PATIENT X315
+Yeah and HDL @@@.
+
+FIRST DOCTOR X315
+Oh the hydralazine okay.
+
+PATIENT X315
+I don't like that stuff, I told the doctor before but @@@ having stuff and I just don't like that you know.  @@@.
+
+FIRST DOCTOR X315
+Yeah, yeah, it can.  You know.
+
+PATIENT X315
+And @@@ water, if I just do it naturally, @@@.
+
+FIRST DOCTOR X315
+Yeah I don't know, I don't know everything about you as well as DOCTOR does.
+
+PATIENT X315
+Right.
+
+FIRST DOCTOR X315
+So I'll let her deal with it.  You know to be honest I don't think it's a bad idea to retake the blood pressure medications.  But I think you should go with her okay.
+
+PATIENT X315
+Okay I'll @@@.
+
+FIRST DOCTOR X315
+So we'll focus on the knee pain.  We'll get the medicines that are already downstairs waiting on you and downstairs, you know where to get the x-rays?
+
+PATIENT X315
+Yeah.
+
+FIRST DOCTOR X315
+On the first floor.  We'll get the x-rays then and I'll make sure all this information gets to DOCTOR.
+
+PATIENT X315
+Okay and I'll @@@ may get a call.
+
+FIRST DOCTOR X315
+A bandage yeah or a brace.  Do you think that would help?
+
+PATIENT X315
+@@@ or something.
+
+FIRST DOCTOR X315
+Okay.
+
+PATIENT X315
+@@@ I tried this bandage and it's too tight see.
+
+FIRST DOCTOR X315
+Yeah, yeah.
+
+PATIENT X315
+But the @@@.
+
+FIRST DOCTOR X315
+Do you know where to pick up the brace?
+
+PATIENT X315
+No, I could have someone tell me at the X-Ray.
+
+FIRST DOCTOR X315
+Yeah they can and do you know where Building 1 is?
+
+PATIENT X315
+Building 1?
+
+FIRST DOCTOR X315
+Yeah it's in Building 1 and it's called Prosthetics.
+
+PATIENT X315
+Prosthetics okay.  And it would be nice if @@@ getting medicines cause I'm taking one, two, three, four, five and @@@ getting three medicines.  @@@.
+
+FIRST DOCTOR X315
+Uh-huh.
+
+PATIENT X315
+@@@.  They gave me @@@.  Oh yeah and I come back here @@@.  I'm not complaining @@@.
+
+FIRST DOCTOR X315
+Oh yeah.
+
+PATIENT X315
+@@@.
+
+FIRST DOCTOR X315
+Um let's see, so you have an appointment with DOCTOR on April 3rd, that's coming up in a couple more weeks.  So I'll make sure that she gets, I'll make sure that I tell her what we did today and then make sure that you @@@ of medications like that.
+
+PATIENT X315
+Yeah that'd be nice.
+
+FIRST DOCTOR X315
+Okay, alright.
+
+PATIENT X315
+@@@ you know I have more medicines, three medicines from her.
+
+FIRST DOCTOR X315
+Sure.
+
+PATIENT X315
+@@@.
+
+FIRST DOCTOR X315
+Yeah, yeah, so you can get dressed.
+
+PATIENT X315
+@@@.
+
+FIRST DOCTOR X315
+So the medication will be down at the Pharmacy, you know where that's at?
+
+PATIENT X315
+Uh-huh.
+
+FIRST DOCTOR X315
+Okay and you know where to get the x-ray here of your knee.
+
+PATIENT X315
+Right.
+
+FIRST DOCTOR X315
+And then after you do those two things then they probably will have your knee brace ready by then.
+
+PATIENT X315
+@@@.
+
+FIRST DOCTOR X315
+So you can just walk on over to Building 1 and go to Prosthetics.
+
+PATIENT X315
+Well I need to stop @@@.
+
+FIRST DOCTOR X315
+Do you think you'll be okay until you get your knee brace or do you think you need it?
+
+PATIENT X315
+No any time I get my leg to walk the pain @@@.
+
+FIRST DOCTOR X315
+Okay, okay.  Yeah you gotta be able to walk right.
+
+PATIENT X315
+Yeah I need to walk and if I don't straighten it up, the bandage is a little tight when I get it up, then I'd rather walk that way and I won't be walking straight.
+
+DOCTOR X315
+@@@.  Oh one more.  @@@.
+
+PATIENT X315
+@@@.  I go home and @@@.
+
+FIRST DOCTOR X315
+@@@.
+
+PATIENT X315
+@@@.
+
+FIRST DOCTOR X315
+You gotta do what you gotta do right.  You gotta look out for yourself.  
+
+PATIENT X315
+I'd even go through that smoking cessation you know and that helps.
+
+FIRST DOCTOR X315
+Would you like to?
+
+PATIENT X315
+Yeah I put in for it a consult at least.
+
+FIRST DOCTOR X315
+Oh it's already been done?
+
+PATIENT X315
+For smoking cessation and one other one I think they put in for.  I have a consult on it.  Oh and uh.
+
+FIRST DOCTOR X315
+Uh-huh.
+
+PATIENT X315
+They did something.  @@@.
+
+FIRST DOCTOR X315
+Okay yeah, Smoking Cessation Class, yeah that'll be good.  
+
+PATIENT X315
+Yeah.
+
+DOCTOR X315
+A lot of people do well with that.  Smoking Cessation.
+
+PATIENT X315
+I remember @@@ smoking downstairs one day and just happened to have one.
+
+DOCTOR X315
+Oh really.
+
+PATIENT X315
+Yeah and my.
+
+FIRST DOCTOR X315
+Take a look at that.
+
+PATIENT X315
+Just look @@@.  Hurt real bad.  @@@.
+
+FIRST DOCTOR X315
+Uh-huh.
+
+PATIENT X315
+I get pain in the calf.  @@@ pain and I don't know when it will come.  It couldn't gotten lost.  Someone said I had an ingrown toenail you know.
+
+FIRST DOCTOR X315
+Yeah @@@.
+
+PATIENT X315
+Yeah.  Okay doctor.
+
+FIRST DOCTOR X315
+If you don't mind just take this folder up the hallway there.
+
+PATIENT X315
+Okay doc, I'll take that.  Okay thank you.  Then I go to uh X-Ray and then @@@.
+
+DOCTOR X315
+@@@.  
+
+Time is 4:50.
+
+
+
+

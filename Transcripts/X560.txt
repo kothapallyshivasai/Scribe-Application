@@ -1,0 +1,1081 @@
+
+DOCTOR X560
+Hello.
+
+SECOND PERSON X560 
+Hello.
+
+DOCTOR X560
+Uh so how are you doing today?
+
+PATIENT X560
+And what is your name?
+
+DOCTOR X560
+DOCTOR.
+
+PATIENT X560
+DOCTOR.  Alright we'll try to remember.
+
+DOCTOR X560
+How you doing?
+
+PATIENT X560
+Well just pretty good.  I'm a happy camper.
+
+DOCTOR X560
+Good, good.  Anything going on that's new or different from your baseline?
+
+PATIENT X560
+No.
+
+DOCTOR X560
+@@@.  How are your sugars running at home?
+
+PATIENT X560
+Uh pretty good.
+
+DOCTOR X560
+Pretty good.
+
+PATIENT X560
+But this morning I forgot to take my insulin.
+
+DOCTOR X560
+Okay.
+
+PATIENT X560
+But uh you can get all of the information from the Health Study.
+
+DOCTOR X560
+The Health Study?
+
+PATIENT X560
+Yeah.
+
+DOCTOR X560
+What is that?
+
+PATIENT X560
+Uh there's a phone system that I hook up.
+
+DOCTOR X560
+Uh-huh.
+
+PATIENT X560
+And I give them my sugar counts and.
+
+DOCTOR X560
+Oh.
+
+PATIENT X560
+Blood pressure and uh they record it every night.
+
+DOCTOR X560
+Okay, okay.  If you're not good, are your sugars like around the 100s at home do you know?
+
+PATIENT X560
+Uh yeah.
+
+DOCTOR X560
+Okay.  And you're taking the 5 of Aspart with each meal and you're taking the um the 5 of NPH twice a day, is that the measuring?
+
+PATIENT X560
+Yeah the N I take it three times because uh, yeah twice a day.
+
+DOCTOR X560
+Of the NPH 5 units.
+
+PATIENT X560
+Yeah.
+
+DOCTOR X560
+And then you take 5 units.
+
+PATIENT X560
+Well I take more than 5, depends on usually 10, like in the morning and at night.
+
+DOCTOR X560
+How much?
+
+PATIENT X560
+And then I usually take 10 of Aspart.
+
+DOCTOR X560
+Oh you take 10 of Aspart you do with each meal?
+
+PATIENT X560
+Yeah that's at noon.
+
+DOCTOR X560
+That's at noon.
+
+PATIENT X560
+And then in the evening, according to whatever the reading is I take 5 and 10 or 10 and 10 and.
+
+DOCTOR X560
+Okay.
+
+PATIENT X560
+But usually 10 is usually enough.
+
+DOCTOR X560
+Is usually what you take okay good.
+
+PATIENT X560
+Yeah.  It used to be up to 50 of each three times a day.
+
+DOCTOR X560
+Oh okay.  So you're feeling pretty good otherwise?
+
+PATIENT X560
+Yes ma'am.
+
+DOCTOR X560
+That's good.  Let me see @@@ on you.  And you're following with the kidney doctors?
+
+PATIENT X560
+Oh yes.
+
+DOCTOR X560
+Okay.  Okay.
+
+PATIENT X560
+And every other doctor.
+
+DOCTOR X560
+I know it's hard.
+
+PATIENT X560
+I got new hearing aids last week.
+
+DOCTOR X560
+Oh good, good and are they working well?
+
+PATIENT X560
+Yeah.
+
+DOCTOR X560
+I saw the note from Audiology that they'd given you the hearing aids.
+
+PATIENT X560
+Yeah, it's uh no problem on my left ear but my right ear I have a hard time.
+
+DOCTOR X560
+Hearing.
+
+PATIENT X560
+Trying to make it, no not hearing making it, getting it in right.
+
+DOCTOR X560
+Oh getting actually into your ear okay.
+
+PATIENT X560
+Yeah.
+
+DOCTOR X560
+Okay.  And uh any problems with your hip at all or anything, the pain is well controlled?
+
+PATIENT X560
+Yeah there's uh, three days ago I walked a half a mile on the treadmill.
+
+DOCTOR X560
+That's pretty good.
+
+PATIENT X560
+Yeah.
+
+DOCTOR X560
+That was good and you saw the eye doctors in October of last year.  Do you have an appointment coming up with them?
+
+PATIENT X560
+Oh yeah.
+
+DOCTOR X560
+When is that appointment?
+
+PATIENT X560
+I don't know.
+
+DOCTOR X560
+Oh you don't know but your appointment's kind of pending.
+
+PATIENT X560
+I don't know when but I just uh went out to the VA, to the xxx xxx yesterday.
+
+DOCTOR X560
+Uh-huh.
+
+PATIENT X560
+And they gave me some magnifying things to read the paper and stuff.
+
+DOCTOR X560
+Oh I mean the eye exam for your diabetes.
+
+PATIENT X560
+Yeah.
+
+DOCTOR X560
+Okay, we can make one here.  Do you see an outside vision eye doctor?
+
+PATIENT X560
+No, no.
+
+SECOND PERSON X560
+No, no, here, here.
+
+DOCTOR X560
+Okay so I could make one with them, it sounds like an appointment is coming up.
+
+PATIENT X560
+Does that one come up, it must be in there.
+
+DOCTOR X560
+Yeah then I'll make one for you and then.
+
+PATIENT X560
+I want to know what they're doing.
+
+DOCTOR X560
+Yeah.
+
+PATIENT X560
+Uh because I don't put drops in my right eye that had the glaucoma.
+
+DOCTOR X560
+Uh-huh.
+
+PATIENT X560
+Cause it was more, the pressure was normal.
+
+DOCTOR X560
+Okay.
+
+PATIENT X560
+The last time there.
+
+DOCTOR X560
+Okay and I remember you were dizzy the last time I saw you, how is that?
+
+PATIENT X560
+Yeah I get lightheaded every once in a while.
+
+DOCTOR X560
+Is that still happening or is that better?
+
+PATIENT X560
+Uh I usually get lightheaded after I do the exercise.
+
+DOCTOR X560
+Okay and then it goes away on its own?
+
+PATIENT X560
+Yeah then it clears up.
+
+DOCTOR X560
+It kind of resolves on its own.  Okay this um, this is the second time I've seen you.  I just want to go over, so you have the diabetes.
+
+PATIENT X560
+Yeah.
+
+DOCTOR X560
+You have the chronic kidney disease.  You have high cholesterol.
+
+PATIENT X560
+No.
+
+DOCTOR X560
+No high cholesterol?
+
+PATIENT X560
+Well the last time they said I didn't, I don't know.
+
+DOCTOR X560
+And you have um the enlarged prostate that you've had the surgery for?
+
+PATIENT X560
+They took it away.
+
+DOCTOR X560
+They took it out yeah.
+
+PATIENT X560
+Yeah they took it out.
+
+DOCTOR X560
+And um you have the arthritis in your hips that you've had the left hip replacement surgery.
+
+PATIENT X560
+Yeah.
+
+DOCTOR X560
+And what medicines are you taking right now?
+
+PATIENT X560
+Well.
+
+SECOND PERSON X560
+Just three.
+
+DOCTOR X560
+Just three.
+
+PATIENT X560
+Well no I'm taking aspirin and vitamin pill.
+
+DOCTOR X560
+Aspirin.
+
+PATIENT X560
+Yeah.
+
+DOCTOR X560
+And vitamins.
+
+PATIENT X560
+And a stool softener.
+
+DOCTOR X560
+Stool softener.
+
+PATIENT X560
+And uh Senna.
+
+DOCTOR X560
+Uh-huh and anything @@@.
+
+PATIENT X560
+@@@ yeah.
+
+DOCTOR X560
+The citalopram you're taking?
+
+PATIENT X560
+Uh I'm taking uh what's that for?
+
+DOCTOR X560
+It's like a mood stabilizer.
+
+PATIENT X560
+Yes a mood stabilizer, citalopram?
+
+DOCTOR X560
+Yes.
+
+PATIENT X560
+Yeah and then I'm taking.
+
+DOCTOR X560
+The tramadol and the temazepam.
+
+PATIENT X560
+Temazepam.
+
+DOCTOR X560
+Any better?
+
+PATIENT X560
+Huh?
+
+DOCTOR X560
+Is that everything?
+
+PATIENT X560
+Yeah.
+
+DOCTOR X560
+Okay and do you have any allergies?
+
+PATIENT X560
+But do I need blood pressure medicine, that's what I question.
+
+DOCTOR X560
+Uh your blood pressure for diabetics we like to have it less than 130/80 as a goal.
+
+PATIENT X560
+Yeah.
+
+DOCTOR X560
+And yours is 133/61 today.
+
+PATIENT X560
+Yeah.
+
+DOCTOR X560
+And usually we like to have two readings of elevated blood pressure.
+
+PATIENT X560
+Yeah it was 140 at first.
+
+DOCTOR X560
+Uh-huh so usually we like want two readings with blood pressure medicines on two separate visits before we start it.
+
+PATIENT X560
+Oh.
+
+DOCTOR X560
+So I'll go talk to my attending to see if we would want to @@@ or if we want to watch it and then have you come back pretty soon to see a pharmacist and they could monitor your blood pressure then.
+
+SECOND PERSON X560
+That pharmacist, the doctor thing is, I don't know, such a long.
+
+PATIENT X560
+Yeah I did check my blood pressure every day.
+
+DOCTOR X560
+Well what is it running like every day?
+
+PATIENT X560
+Uh 133.
+
+DOCTOR X560
+It's usually at 133 okay.
+
+PATIENT X560
+Yeah.
+
+DOCTOR X560
+Well I'll let him know and he might want to check something before you leave.
+
+PATIENT X560
+Yeah.
+
+DOCTOR X560
+Okay.  And then um any allergies to any medicines that you know of?
+
+PATIENT X560
+No I got some here that they sent me and I don't need it.
+
+DOCTOR X560
+Okay.
+
+PATIENT X560
+And they sent me some constipation pills and I haven't used them.
+
+DOCTOR X560
+Uh-huh.
+
+PATIENT X560
+You know I get a lot of stuff I don't need.
+
+DOCTOR X560
+Okay.
+
+PATIENT X560
+But then I get a lot of stuff I need.
+
+DOCTOR X560
+Yeah.
+
+SECOND PERSON X560
+And you know when we talk to you, what we had a year ago so you know we do the things that he really needed so.
+
+PATIENT X560
+So.
+
+SECOND PERSON X560
+That is really the primary core reason why we're here today.
+
+DOCTOR X560
+So you need refills on all the medicines?
+
+PATIENT X560
+Yeah.
+
+SECOND PERSON X560
+To get the things that we really need.
+
+PATIENT X560
+That uh Aspart insulin I need.  I don't need N, I've got 10, 12 bottles.
+
+DOCTOR X560
+Do you want to pick it up at the window?
+
+PATIENT X560
+Huh?
+
+DOCTOR X560
+At the window, do you want to pick it up now?
+
+PATIENT X560
+No, have it mailed.
+
+DOCTOR X560
+Have it mailed okay.
+
+PATIENT X560
+But I have 10 or 12 bottles left.
+
+DOCTOR X560
+Okay of the N okay.
+
+PATIENT X560
+Yeah.
+
+DOCTOR X560
+I'm just going to list a bunch of symptoms, if you have any right now just stop me and let me know.
+
+PATIENT X560
+Okay.
+
+DOCTOR X560
+Fever, chills, weight loss, weight gain, headaches, changes in your vision um changes in your hearing.  I know you have.
+
+PATIENT X560
+Yeah.
+
+DOCTOR X560
+From your, you got the hearing aids, um any cough.
+
+PATIENT X560
+No.
+
+DOCTOR X560
+Uh @@@ any chest pain, shortness of breath?
+
+PATIENT X560
+No.
+
+DOCTOR X560
+Shortness of breath with walking, any feeling like your heart's beating really fast in your chest, swelling in your legs?
+
+PATIENT X560
+Now when I exercise.
+
+DOCTOR X560
+When you exercise.
+
+PATIENT X560
+When I get done I'm breathing heavy.
+
+DOCTOR X560
+Okay and then it goes away once you rest?
+
+PATIENT X560
+Yeah.
+
+DOCTOR X560
+Okay.  Any nausea, vomiting, vomiting up blood.
+
+PATIENT X560
+No, no.
+
+DOCTOR X560
+Trouble with swelling in your feet.
+
+PATIENT X560
+No pain.
+
+DOCTOR X560
+Chest pain, diarrhea, constipation.
+
+PATIENT X560
+No.
+
+DOCTOR X560
+Bright red blood or dark black blood in your stools?
+
+PATIENT X560
+No.
+
+DOCTOR X560
+Any blood in your urine, changes when you urinate?
+
+PATIENT X560
+No I got a bag.
+
+DOCTOR X560
+A bag, okay.  And then any rashes, ulcers or lesions on your skin?
+
+PATIENT X560
+No.
+
+DOCTOR X560
+And any @@@ pain, any back pain or @@@ pain anywhere else?
+
+PATIENT X560
+Muscle pain.
+
+DOCTOR X560
+Muscle pain.
+
+PATIENT X560
+From exercise.
+
+DOCTOR X560
+From exercising okay.  Any numbness or tingling in your arms or feet?
+
+PATIENT X560
+No.
+
+DOCTOR X560
+Okay and any episodes of fainting or dizziness?  I know you get your lightheadedness after you exercise but.
+
+PATIENT X560
+Other than that no.
+
+DOCTOR X560
+Oh I'm just going to examine you, can you sit up right here for me?
+
+PATIENT X560
+Sure.
+
+DOCTOR X560
+Does it hurt when I press here?
+
+PATIENT X560
+No.
+
+DOCTOR X560
+Can you breathe in and out for me?  Can you @@@ for a second?
+
+PATIENT X560
+Oh.
+
+DOCTOR X560
+Um.
+
+PATIENT X560
+@@@.
+
+DOCTOR X560
+I want to check them.  @@@.
+
+PATIENT X560
+It's low back @@@.
+
+DOCTOR X560
+Can you open your mouth, stick your tongue out, say ah.
+
+PATIENT X560
+Ah.
+
+DOCTOR X560
+Okay I'll be back in a second.
+
+PATIENT X560
+Okay.
+
+(DOCTOR OUT:  36:24  DOCTOR IN:  43:20)
+
+Knock on the door.
+
+PATIENT X560
+Come on in.
+
+DOCTOR X560
+Hi.  So um we're gonna start you on a lower dose of the lisinopril that you're on.  You're on 5 of lisinopril.
+
+PATIENT X560
+Yeah.
+
+DOCTOR X560
+So we're gonna start you on 2.5 mg instead.  So they had stopped the lisinopril just because of the lightheadedness.
+
+PATIENT X560
+Yeah.
+
+DOCTOR X560
+So we're just going to start you on a lower dose of it.
+
+PATIENT X560
+I haven't taken any in.
+
+DOCTOR X560
+Yeah since I saw you in July.
+
+PATIENT X560
+Yeah.
+
+DOCTOR X560
+Yeah.  And you want it mailed to you yes?
+
+PATIENT X560
+Yes.
+
+DOCTOR X560
+Uh-huh.
+
+PATIENT X560
+But I got some others I want you to.
+
+DOCTOR X560
+Yeah I'm gonna refill everything yeah.  And have you eaten yet today?
+
+PATIENT X560
+Oh yes.
+
+DOCTOR X560
+Okay.  I'm gonna send you to get some lab work as well.  So you need refills on your Aspart?
+
+PATIENT X560
+Yes.
+
+DOCTOR X560
+Okay.
+
+SECOND PERSON X560
+Do you want them to send you Aspart?
+
+PATIENT X560
+Aspart.
+
+DOCTOR X560
+And the NPH as well.
+
+PATIENT X560
+Yeah.  No.
+
+DOCTOR X560
+No NPH.
+
+PATIENT X560
+No NPH, I got enough for a year.
+
+DOCTOR X560
+Okay and the citalopram do you want?
+
+PATIENT X560
+Citalopram yes.
+
+DOCTOR X560
+Okay.
+
+PATIENT X560
+And the sleep medicine.
+
+DOCTOR X560
+The temazepam.
+
+PATIENT X560
+Yeah and I want um the stomach medicine.
+
+DOCTOR X560
+Which stomach medicine?
+
+PATIENT X560
+Ome.
+
+DOCTOR X560
+Omeprazole?
+
+PATIENT X560
+Yeah.
+
+SECOND PERSON X560
+Omeprazole. 
+
+DOCTOR X560
+Yeah.
+
+PATIENT X560
+Yeah I need that.
+
+DOCTOR X560
+Okay.
+
+PATIENT X560
+Alright now.
+
+DOCTOR X560
+Uh-huh.
+
+PATIENT X560
+I need the test strips sent.
+
+DOCTOR X560
+Okay.
+
+PATIENT X560
+And I need 100 of them at a time.
+
+DOCTOR X560
+Uh-huh.
+
+PATIENT X560
+So one or two boxes of that.
+
+DOCTOR X560
+Okay.
+
+PATIENT X560
+Alright.
+
+SECOND PERSON X560
+And the pokers.
+
+PATIENT X560
+Yeah the pokers.
+
+SECOND PERSON X560
+The lancets.
+
+PATIENT X560
+The lancets.
+
+DOCTOR X560
+Okay.
+
+PATIENT X560
+Okay alcohol pads.
+
+DOCTOR X560
+Okay.
+
+PATIENT X560
+Alright and then and then this I want you to reorder but not deliver.  I'll call in when I need it.
+
+SECOND PERSON X560
+@@@ and @@@ remover.
+
+DOCTOR X560
+This one?
+
+PATIENT X560
+Yeah.
+
+DOCTOR X560
+@@@ remover and the @@@.  Tell you what, I'll just send it to you.
+
+PATIENT X560
+No.
+
+SECOND PERSON X560
+No, no, no, no.
+
+DOCTOR X560
+What do you want?
+
+PATIENT X560
+We want it renewed.
+
+SECOND PERSON X560
+She doesn't understand you know that @@@.  We want the prescription renewed but when we actually need it we'll call for it on the phone.  We do not want a bottle sent to us right now.
+
+DOCTOR X560
+Okay.
+
+PATIENT X560
+And all this other stuff send.
+
+DOCTOR X560
+Okay.  Okay.
+
+PATIENT X560
+Because I call up and they says well you need a doctor's prescription for it.
+
+DOCTOR X560
+Okay so I renewed it.
+
+SECOND PERSON X560
+So that's our primary job today to make sure that the.
+
+PATIENT X560
+That we get it.
+
+DOCTOR X560
+So we're renewing all of them.
+
+SECOND PERSON X560
+Okay.
+
+PATIENT X560
+Now we want it renewed but we don't want it delivered.
+
+DOCTOR X560
+Okay.
+
+SECOND PERSON X560
+Just mail for the insulin, the other @@@ we do want that delivered.
+
+DOCTOR X560
+Yeah I'll send them through the mail.
+
+SECOND PERSON X560
+Okay and this omeprazole.
+
+DOCTOR X560
+Yeah I put in for that.
+
+SECOND PERSON X560
+That's, that's, that's going there and the regular insulin.
+
+DOCTOR X560
+Yeah.
+
+SECOND PERSON X560
+Okay and the test strips.
+
+DOCTOR X560
+Yeah everything.
+
+SECOND PERSON X560
+We really need that.
+
+DOCTOR X560
+Okay.
+
+SECOND PERSON X560
+Okay, alright.  Now we also need a renewal on the long sponges, 4 x 4s.
+
+DOCTOR X560
+Okay and then let's see.
+
+SECOND PERSON X560
+Okay, alright and then there's @@@ stoma wafers we need that too.
+
+DOCTOR X560
+Mailed to you?
+
+PATIENT X560
+No.
+
+SECOND PERSON X560
+We don't need any right now no, no.
+
+DOCTOR X560
+Okay.  Anything else?
+
+SECOND PERSON X560
+Okay and then the wash for the pouch we need that renewed but we do not need it sent.
+
+DOCTOR X560
+Okay.
+
+SECOND PERSON X560
+Okay also, now also what I need is I don't have this number because it is run out already, it's a urinary.
+
+DOCTOR X560
+Okay I'm renewing it.
+
+SECOND PERSON X560
+During each day yeah, that we want that prescription renewed but we don't have to have any sent out right now.
+
+DOCTOR X560
+Oh yeah, yeah.
+
+SECOND PERSON X560
+Okay.
+
+DOCTOR X560
+So don't send him all this that are in here.
+
+SECOND PERSON X560
+Yeah just send out you know the three or four things that we need.
+
+DOCTOR X560
+Uh-huh.
+
+SECOND PERSON X560
+That we really need okay.
+
+DOCTOR X560
+Okay.
+
+SECOND PERSON X560
+Alright.  Okay.
+
+PATIENT X560
+I'm gonna hang on to that.
+
+SECOND PERSON X560
+Yes I will for dear life yeah.
+
+DOCTOR X560
+Okay.  Okay I made all the refills, um I put in for the lab orders for you to get.
+
+PATIENT X560
+Yeah.
+
+DOCTOR X560
+And um just make a follow-up appointment with Ophthalmology at the front.
+
+SECOND PERSON X560
+Okay, alright and uh.
+
+DOCTOR X560
+And then I'll see you back in several months.
+
+PATIENT X560
+Okay.
+
+SECOND PERSON X560
+And what about the, if it's necessary for him to have any other follow-up on you know any of these other skin conditions that he has because he had.
+
+PATIENT X560
+I had skin cancer they took out a tumor on my back.
+
+DOCTOR X560
+Not unless they want to, unless they set it up.
+
+PATIENT X560
+Yeah they'll let us know.
+
+DOCTOR X560
+Yeah then that'd be up to them.
+
+PATIENT X560
+It's on the list, on their list to follow-up.
+
+DOCTOR X560
+Yeah.  So that'd be up to them.
+
+SECOND PERSON X560
+Okay.
+
+DOCTOR X560
+Okay that should be all.
+
+PATIENT X560
+Okay.
+
+DOCTOR X560
+Good to see you, okay.
+
+PATIENT X560
+Anything else?
+
+DOCTOR X560
+No that'll be all and I'll see you back in a couple of months.
+
+PATIENT X560
+Okay.
+
+DOCTOR X560
+Did you want a tetanus shot today?
+
+PATIENT X560
+Huh?
+
+DOCTOR X560
+Did you want an influenza shot or tetanus?
+
+PATIENT X560
+I already had it.
+
+DOCTOR X560
+Oh you had it?
+
+PATIENT X560
+I just had it.
+
+DOCTOR X560
+Okay good.  Okay.  Um.
+
+PATIENT X560
+Okay then bye.
+
+SECOND PERSON X560
+Okay thank you.
+
+PATIENT X560
+You have a good day doctor.
+
+DOCTOR X560
+You too.
+
+PATIENT LEAVES:  50:57
+
+
+
+

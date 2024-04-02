@@ -1,0 +1,966 @@
+
+DOCTOR X718 
+PATIENT?  How you doing?
+
+PATIENT X718
+Okay.
+
+DOCTOR X718
+Alright.
+
+PATIENT X718
+Right here.
+
+DOCTOR X718
+So what's going on?
+
+PATIENT X718
+Um my prescription has run out and I needed some medications to make it to my next appointment.
+
+DOCTOR X718
+So you have an appointment scheduled?
+
+PATIENT X718
+Yeah April something.
+
+DOCTOR X718
+Who is that with?
+
+PATIENT X718
+xxx xxx xxx.
+
+DOCTOR X718
+It's with us okay.
+
+PATIENT X718
+The Dulcolax is out completely that's why I need a new prescription for that.
+
+DOCTOR X718
+Uh-huh.
+
+PATIENT X718
+The other ones are already on my list already.  
+
+DOCTOR X718
+Now where are these prescriptions from?
+
+PATIENT X718
+Um St. xxx in xxx.  
+
+DOCTOR X718
+Okay.
+
+PATIENT X718
+My wife has uh Blue Cross and Blue Shield HMO.
+
+DOCTOR X718
+Uh-huh.
+
+PATIENT X718
+And she hates the driveway to the xxx so
+
+DOCTOR X718
+Yeah, yeah it's not a problem.
+
+PATIENT X718
+But the thing was, at the beginning of the year January her whole hospital changed from HMO, Blue Cross Blue Shield to Aetna.
+
+DOCTOR X718
+Okay.
+
+PATIENT X718
+And they dropped me.
+
+DOCTOR X718
+Oh so now you're coming here okay.  So were you looking at something.
+
+PATIENT X718
+I generally, I used to come out here all the time and see DOCTOR in Rheumatology.
+
+DOCTOR X718
+Gotcha.  You're on insulin.  Do you know how much insulin you're taking?
+
+PATIENT X718
+Hmm no I don't.
+
+DOCTOR X718
+Now do you get your medications from here or um?
+
+PATIENT X718
+Mostly I get them here.
+
+DOCTOR X718
+Good.  When were you at St. xxx's?
+
+PATIENT X718
+Uh like January the 10th or somewhere around there.
+
+DOCTOR X718
+Okay and what was it for?
+
+PATIENT X718
+Um I was one morning at home and I had water on my lungs, I couldn't catch my breath.
+
+DOCTOR X718
+Okay.
+
+PATIENT X718
+So my wife took me to the nearest hospital which is St. xxx's.  I live in Dawson.
+
+DOCTOR X718
+Okay and you've never had this happen before right?
+
+PATIENT X718
+No uh I'm taking dialysis now and uh I went to St. xxx out in xxx xxx.  They gave me a pacemaker.
+
+DOCTOR X718
+Okay.
+
+PATIENT X718
+And I'm taking uh dialysis.  They just put a stent in my arm so I can take it in my arm and not in my hip.
+
+DOCTOR X718
+Okay.  When was that?
+
+PATIENT X718
+Uh the stent was put in two Tuesdays ago and the Pharmacy won't fill the prescription unless I see my doctor first.
+
+DOCTOR X718
+Uh-huh, okay.  @@@.  Did you get a biopsy done?
+
+PATIENT X718
+I was scheduled to have it done but I'm already on dialysis @@@.
+
+DOCTOR X718
+Okay.  Just reading up on the hospitalization.
+
+PATIENT X718
+Okay.
+
+DOCTOR X718
+Did you get an echocardiogram done here?
+
+PATIENT X718
+I had one done the last time I was in the hospital here.
+
+DOCTOR X718
+So was it here?
+
+PATIENT X718
+Yes sir.
+
+DOCTOR X718
+Let's look.  So from here on out would you start having your primary care doctor here or would it be outside?
+
+PATIENT X718
+Uh my primary doctor's always been out here I just used her insurance card because she didn't want to travel.
+
+DOCTOR X718
+Right.
+
+PATIENT X718
+We live in Dalton a far south suburb so.
+
+DOCTOR X718
+I understand.
+
+PATIENT X718
+So she didn't want to drive all the way over here to get me in Emergency here.
+
+DOCTOR X718
+No I understand.
+
+PATIENT X718
+As long as I feel pretty decent now, I always bring myself here.
+
+DOCTOR X718
+Hmm.  Um any recent shortness of breath or that's good okay.
+
+PATIENT X718
+I don't even know where I'm at.
+
+DOCTOR X718
+Okay.  There you go then.  So you had that done in November at least.  Since they diagnosed you is it much better?
+
+PATIENT X718
+That changed @@@.
+
+DOCTOR X718
+They did?
+
+PATIENT X718
+Yeah that's why they put the new pacemaker in here.
+
+DOCTOR X718
+What did they say was your um ejection fraction?  Do you remember that?
+
+PATIENT X718
+No sir.
+
+DOCTOR X718
+Now is that a pacemaker or a defibrillator?
+
+PATIENT X718
+Oh.
+
+DOCTOR X718
+Do you have card with you?  Great.  
+
+PATIENT X718
+Does it tell you which one it is?
+
+DOCTOR X718
+Um I got to look this up and all.  Um when was this placed?
+
+PATIENT X718
+Uh December the 23rd.
+
+DOCTOR X718
+Okay.  They said that you had a slower heart rate during the hospitalization.
+
+PATIENT X718
+Right.
+
+DOCTOR X718
+Oh a slow heartbeat.
+
+PATIENT X718
+That's it.
+
+DOCTOR X718
+So that's what we're looking at.  You have some documents over here, do you know?
+
+PATIENT X718
+Um there was a problem with me getting an appointment.
+
+DOCTOR X718
+Uh-huh.
+
+PATIENT X718
+They kept putting me back in March and then it was April and I bet they haven't really sent any of my records in there.
+
+DOCTOR X718
+Now would the dialysis be on the same records as this?
+
+PATIENT X718
+Yes that was on the same monitor the fistula.  This was done at St. xxx.
+
+DOCTOR X718
+Hmm.
+
+PATIENT X718
+And I was asking them well why did they put it in my chest they said cause I had to have it right away, I got to start doing dialysis right away.
+
+DOCTOR X718
+For the dialysis okay.
+
+PATIENT X718
+So they put the fistula in and said in about three or four weeks when this gets well.
+
+DOCTOR X718
+So let's say in a month how many times have you been hospitalized?
+
+PATIENT X718
+Uh last year was the most in my life.
+
+DOCTOR X718
+Yeah.
+
+PATIENT X718
+I think it was about four times.
+
+DOCTOR X718
+Okay so let's, I find that I uh you know @@@ things would happen so you know as of, in November you weren't on dialysis right.  You didn't have the pacemaker, you didn't have okay.
+
+PATIENT X718
+I been doing dialysis till December.
+
+DOCTOR X718
+So what happened in December?
+
+PATIENT X718
+Uh.
+
+DOCTOR X718
+Was that the same time with the heart issues or @@@.
+
+PATIENT X718
+My legs were you know I couldn't get my shoes on and my feet were swelling and my legs were swelling.
+
+DOCTOR X718
+Uh-huh.
+
+PATIENT X718
+My arms was getting fat so my wife got real nervous and took me straight to the hospital.
+
+DOCTOR X718
+Uh-huh.
+
+PATIENT X718
+At St. xxx.
+
+DOCTOR X718
+So at St. xxx.
+
+PATIENT X718
+Right.
+
+DOCTOR X718
+Uh they said that your kidneys weren't really working right?
+
+PATIENT X718
+Yes that's what it was there.  I know they took a lot of blood and uh then they said I have kidney failure they said it's kicking on and off.
+
+DOCTOR X718
+Yeah.
+
+PATIENT X718
+But it's supposed to work 24 hours a day but it wasn't so.
+
+DOCTOR X718
+Okay.
+
+PATIENT X718
+They put me on the dialysis right away.
+
+DOCTOR X718
+So the dialysis.
+
+PATIENT X718
+And I felt better.
+
+DOCTOR X718
+Okay.
+
+PATIENT X718
+Then in January I was at home.
+
+DOCTOR X718
+Uh-huh.
+
+PATIENT X718
+And uh I woke up that morning and uh my wife was in her room with the grandbaby and uh I couldn't catch my breath.
+
+DOCTOR X718
+Uh-huh.
+
+PATIENT X718
+So she uh called 911, they took me to St. xxx which is close to my home.
+
+DOCTOR X718
+Right.
+
+PATIENT X718
+And they gave, they took off four liters of fluid that Sunday I went then the next Monday they took another four, so they took off about eight.
+
+DOCTOR X718
+Eight liters so that was.
+
+PATIENT X718
+Right and the doctor there suggested that I go to dialysis across the street from St. xxx's.
+
+DOCTOR X718
+Uh-huh.
+
+PATIENT X718
+Da Vita.
+
+DOCTOR X718
+xxx xxx xxx and that's where you've been doing it?
+
+PATIENT X718
+Yes.
+
+DOCTOR X718
+How often?
+
+PATIENT X718
+Monday, Wednesday, Friday.
+
+DOCTOR X718
+Okay.  Now @@@ without your wife's insurance or?
+
+PATIENT X718
+Right uh I was on disability.
+
+DOCTOR X718
+Uh-huh.
+
+PATIENT X718
+Uh DOCTOR put me on disability many years ago.
+
+DOCTOR X718
+Okay.  So you were able to get the dialysis.
+
+PATIENT X718
+Right.
+
+DOCTOR X718
+That's something for the dialysis okay.  Are they going to continue following you for dialysis or do they want you to be followed here?
+
+PATIENT X718
+No I'd rather be out there, it's closer to home.
+
+DOCTOR X718
+Okay.
+
+PATIENT X718
+It's quite a drive to come from Dalton over here.
+
+DOCTOR X718
+Right.  So you're able to with your insurance.
+
+PATIENT X718
+Yes sir.
+
+DOCTOR X718
+Yeah if you're able to do that alright it's just for the primary stuff that you need to be here?
+
+PATIENT X718
+Yes sir.
+
+DOCTOR X718
+Okay.  
+
+PATIENT X718
+I'm a long time patient of DOCTOR in Rheumatology you know.
+
+DOCTOR X718
+Yeah he's a good guy um.
+
+PATIENT X718
+Yeah he's real sharp.
+
+DOCTOR X718
+Okay so after, after the hospitalization on the 12th they also told you that you have heart failure?  But we can check on the pacemaker.
+
+PATIENT X718
+That was at St. xxx where they uh.
+
+DOCTOR X718
+And @@@ right okay.
+
+PATIENT X718
+Right.
+
+DOCTOR X718
+But they did the pacemaker that month too?
+
+PATIENT X718
+Yeah December the 23rd.
+
+DOCTOR X718
+Okay.
+
+PATIENT X718
+Cause I wanted to go home for Christmas and they kept me, they had to keep me in observation then they gave me blood, two pints of blood.
+
+DOCTOR X718
+Okay.  Alright so this is three hospitalizations that we're talking about since November okay.
+
+PATIENT X718
+Yeah.
+
+DOCTOR X718
+@@@.  It's, I'm just trying to keep everything straight.  Sometimes things can slip a little bit and uh you know it's good just to have all of this documented.  So you ran out of and uh in January, mid January they gave you all your medications so it was just for 30 days right?  Is that right?
+
+PATIENT X718
+Yes.
+
+DOCTOR X718
+Okay.  Are these the same as the ones on your list?
+
+PATIENT X718
+The only one that wasn't on the list was the Dulcolax.
+
+DOCTOR X718
+Oh Dulcolax okay, so all the other ones were there?
+
+PATIENT X718
+The others are on there.  
+
+DOCTOR X718
+Okay, I sort of, I think the.
+
+PATIENT X718
+The Lipitor, I'm almost out and they say don't wait till I run out so just come back.
+
+DOCTOR X718
+Yeah did you check with the Pharmacy though?  Um cause you have refills for a lot of these.
+
+PATIENT X718
+Uh the Dulcolax I probably don't have a refill.
+
+DOCTOR X718
+Right.
+
+PATIENT X718
+Uh the Dulcolax is not on it.
+
+DOCTOR X718
+Right.
+
+PATIENT X718
+But @@@.
+
+DOCTOR X718
+Yeah that hasn't @@@.
+
+PATIENT X718
+And they wouldn't replace until I got a prescription for it.
+
+DOCTOR X718
+Yeah I can give you the Dulcolax or whatever.
+
+PATIENT X718
+Uh @@@ the one's that am I on that for that too, metoprolol.
+
+DOCTOR X718
+Yeah metoprolol.  Are you taking clonidine?
+
+PATIENT X718
+Clonidine?
+
+DOCTOR X718
+Are you, the only medications you're taking right?
+
+PATIENT X718
+No I got a list of all of my medications.
+
+DOCTOR X718
+Yeah.
+
+PATIENT X718
+You want to see it?
+
+DOCTOR X718
+Yeah.
+
+PATIENT X718
+Yeah.
+
+DOCTOR X718
+Good and this is all okay.  @@@.  Any chest pain or shortness of breath at all?
+
+PATIENT X718
+No sir.
+
+DOCTOR X718
+Fever or chills, anything like that?
+
+PATIENT X718
+No sir.
+
+DOCTOR X718
+So you're doing okay?
+
+PATIENT X718
+Yes sir.  
+
+DOCTOR X718
+Leg edema, no swelling?
+
+PATIENT X718
+No sir.
+
+DOCTOR X718
+Okay.
+
+PATIENT X718
+I'm trying to monitor my fluid intake to about one liter a day.
+
+DOCTOR X718
+Yeah that's perfect.  Um okay just a couple things um did you get your flu vaccine this year?
+
+PATIENT X718
+I don't @@@ vaccines though.
+
+DOCTOR X718
+Okay.  What about Pneumovax for pneumonia?  No.  Tetanus shot, it's basically that one's pretty important if you get cut.
+
+PATIENT X718
+Right, right, no.
+
+DOCTOR X718
+No.  Okay.  Have you had a colonoscopy done?
+
+PATIENT X718
+Um last year sometime.
+
+DOCTOR X718
+Okay.  Where was it?
+
+PATIENT X718
+Um I think I had it here.
+
+DOCTOR X718
+It was here.
+
+PATIENT X718
+Right.
+
+DOCTOR X718
+Good.
+
+PATIENT X718
+Back in 2010 I got bit by a spider.
+
+DOCTOR X718
+Okay.
+
+PATIENT X718
+It gave me cellulitis.
+
+DOCTOR X718
+Okay.
+
+PATIENT X718
+And I was here.
+
+DOCTOR X718
+In the hospital okay.
+
+PATIENT X718
+And then I came back and I went to the Infectious Disease Department.
+
+DOCTOR X718
+Okay.
+
+PATIENT X718
+And uh back on that floor and uh she put me down in the Emergency Room.  The doctor came in, he was from xxx xxx.
+
+DOCTOR X718
+Hmm.
+
+PATIENT X718
+And he took out a little chunk of my leg, my right rear leg and then I had to go on a wound vac about three months.
+
+DOCTOR X718
+Okay, @@@.  But as far as you're aware you had a colonoscopy you know screening that was performed last year?
+
+PATIENT X718
+Yes, yes, yes.
+
+DOCTOR X718
+Do you know if it was negative?
+
+PATIENT X718
+It was negative.
+
+DOCTOR X718
+Good and so you think it was negative.
+
+PATIENT X718
+Yes that's what they tell me.
+
+DOCTOR X718
+Who @@@?
+
+PATIENT X718
+Hmm I don't remember the name.
+
+DOCTOR X718
+So you've been seeing them every couple months?
+
+PATIENT X718
+Not really I just started with this dialysis.
+
+DOCTOR X718
+Uh-huh.
+
+PATIENT X718
+This is just recently so I'm kind of foggy on names.
+
+DOCTOR X718
+Okay.  Let me take a listen.
+
+PATIENT X718
+Before I started getting ill this was my primary clinic, the Blue Team.
+
+DOCTOR X718
+Right and now it's going to be as well.
+
+PATIENT X718
+Yeah.
+
+DOCTOR X718
+Okay.  Any numbness in your feet?
+
+PATIENT X718
+No sir.
+
+DOCTOR X718
+No.  Okay.  Let me do a quick exam on you and then I'll talk to DOCTOR and you'll be good to go.  Okay.  Deep breath in and out, again, again.  Can you lay down?  Okay.  @@@.  Okay.  Can you take your jacket off? I just want to listen to your back.  Deep breath and out, in and out, in and out, in and out good.  @@@.  Good.  So when your leg was swollen it was much more than this?
+
+PATIENT X718
+Yeah they were real fat.  I went from 160 down to 140.
+
+DOCTOR X718
+And @@@ okay.  I'll be right back okay.
+
+PATIENT X718
+Okay.
+
+(DOCTOR OUT:  46:22  DOCTOR IN:  60:56)
+
+DOCTOR X718
+Hey.  So I'd like to get a couple of things.  @@@ this medication list.
+
+PATIENT X718
+Uh-huh.
+
+DOCTOR X718
+Were you getting your medications at the other hospitals or were you always getting your medications here?
+
+PATIENT X718
+I was always getting them here.
+
+DOCTOR X718
+Okay.  Um because some of these were expired so I don't know if you were still taking them or not.  What I want to do um, yeah instead of refilling everything what are the things that you.
+
+PATIENT X718
+Those are the things I need right there on the basic list.
+
+DOCTOR X718
+Yeah I think that you have refills for most of them.
+
+PATIENT X718
+Right.
+
+DOCTOR X718
+But so the only thing was the Docusate.
+
+PATIENT X718
+Docusate yeah.
+
+DOCTOR X718
+I'm just gonna look here.  Where did you get the metoprolol from, was it here?
+
+PATIENT X718
+No the last time I was out I had to go to Walgreens.
+
+DOCTOR X718
+Okay.
+
+PATIENT X718
+That's going back here.
+
+DOCTOR X718
+So we can try and get that.
+
+PATIENT X718
+Uh I think it was at St. xxx's.  I know I sound vague @@@ you know my wife handles a lot of this stuff you know.
+
+DOCTOR X718
+Yeah.  Well the, it's I mean I guess as long as you're taking, if you're getting all your medical care here it helps to have you getting them in one place.  You know because it's impossible for you to know some of the things that happen in other hospitals.
+
+PATIENT X718
+Uh-huh.
+
+DOCTOR X718
+But to keep track of what medications they've given you okay so.
+
+PATIENT X718
+Okay.
+
+DOCTOR X718
+So the metoprolol we'll do that.
+
+PATIENT X718
+So I can go down to the Pharmacy and get that today?
+
+DOCTOR X718
+Yeah you can basically, metoprolol.
+
+PATIENT X718
+You put the Dulcolax in there?
+
+DOCTOR X718
+Yeah I'm gonna do that too um.  Okay the statin.
+
+PATIENT X718
+Uh-huh.
+
+DOCTOR X718
+The atorvastatin.
+
+PATIENT X718
+Uh-huh.
+
+DOCTOR X718
+And you can get it out there, oh it looks like you got it recently, you got that on the 24th uh.
+
+PATIENT X718
+I think what probably happened was the doctor prescribed it at 150 mg a day twice a day and I only got the 50 mg so I went right straight through it you know and that's why I'm almost out.  
+
+DOCTOR X718
+Okay.
+
+PATIENT X718
+And I need enough to make 150 mg a day.
+
+DOCTOR X718
+Okay.  Do you have enough insulin or do you need the um?
+
+PATIENT X718
+Well according to the package it says that it's only filled for 28 days so.
+
+DOCTOR X718
+@@@.
+
+PATIENT X718
+I need the needles and the insulin.
+
+DOCTOR X718
+Okay.  And so these are the only things I'm going to refill for a month's supply.
+
+PATIENT X718
+Okay.
+
+DOCTOR X718
+What I want you to do is with your old um, yeah with whatever bottles you've been taking before okay.
+
+PATIENT X718
+Bring them back?
+
+DOCTOR X718
+Yeah I want you to bring them back to the Pharmacy.  Do you have that form that they gave you before you walked in?
+
+PATIENT X718
+The form?
+
+DOCTOR X718
+Yeah it's with your name and it's got all the stuff.
+
+PATIENT X718
+No they didn't give me a form.
+
+DOCTOR X718
+Uh go to the Pharmacy in one month okay.
+
+PATIENT X718
+Okay.  
+
+DOCTOR X718
+Or not one month sorry, no need okay.
+
+PATIENT X718
+Okay.
+
+DOCTOR X718
+Now you used to see the cancer doctors here.  Do you have an appointment with them any time soon?
+
+PATIENT X718
+@@@.
+
+DOCTOR X718
+Were you supposed to have an appointment with them any time soon?
+
+PATIENT X718
+Every time I try to make an appointment they keep putting me back to like March.
+
+DOCTOR X718
+Okay.  Well so you need to try to make that appointment okay.
+
+PATIENT X718
+Okay.
+
+DOCTOR X718
+So we'll do that.  Now with pacemaker they want you to see the cardiologist over there or did they say for you to have a cardiologist here?
+
+PATIENT X718
+Um I think I was supposed to take a stress test out there.  I think @@@ know about this but my wife was trying to make the appointment @@@.
+
+DOCTOR X718
+So basically if you're seeing a cardiologist there you can continue seeing them.
+
+PATIENT X718
+Hmm.
+
+DOCTOR X718
+If you need to see a cardiologist here we would want you to establish care here so.
+
+PATIENT X718
+Okay.
+
+DOCTOR X718
+Do you have a cardiologist there?
+
+PATIENT X718
+Yes.
+
+DOCTOR X718
+Okay.  Then you continue to see them?
+
+PATIENT X718
+Yes.
+
+DOCTOR X718
+Okay.  We're gonna do some labs um would you be okay trying in the next day or two getting labs in the morning?
+
+PATIENT X718
+As long as they're not on Monday, Wednesday or Friday.
+
+DOCTOR X718
+Okay.  Basically whenever um.  You could do it now too, you probably ate today.
+
+PATIENT X718
+Yeah I ate today.
+
+DOCTOR X718
+Yeah so if you can do it um what's tomorrow, tomorrow's Wednesday, Thursday morning?
+
+PATIENT X718
+Thursday morning?
+
+DOCTOR X718
+Okay yeah.  Alright I'll make sure the orders there @@@ and then you haven't seen DOCTOR in a while either.
+
+PATIENT X718
+No.
+
+DOCTOR X718
+Yeah.
+
+PATIENT X718
+I'm trying to get in to see him but they keep telling me you know he's booked up till March.
+
+DOCTOR X718
+Yeah, yeah.  Well either way you know still make the appointment.
+
+PATIENT X718
+Okay.
+
+DOCTOR X718
+You know and um basically we want you to do that.  We can handle things up until then.
+
+PATIENT X718
+Okay.
+
+DOCTOR X718
+Uh but you know if you see him in three months, five months, whatever be sure you're on the books so.  Okay.  @@@.
+
+PATIENT X718
+Okay.  @@@.
+
+DOCTOR X718
+Yeah that's good.  Um do you have your card?  Uh the medication card?
+
+PATIENT X718
+Yes.
+
+DOCTOR X718
+I gave it back to you?
+
+PATIENT X718
+Yes.
+
+DOCTOR X718
+Can I make a copy of it just so I can put it in our records?  And that way the Pharmacy can check.  I'll be right back okay.
+You're almost done.  I need to make a photo copy of this, alright, good.
+
+PATIENT LEAVES:  69:38
+
+
+
+

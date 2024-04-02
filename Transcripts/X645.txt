@@ -1,0 +1,967 @@
+
+DOCTOR X645
+PATIENT.  Hi PATIENT, sorry to keep you waiting.  @@@.
+
+PATIENT X645
+Yeah.
+
+DOCTOR X645
+@@@.  From 2 o'clock I had @@@.  I'm sorry to keep you waiting.  You can have a seat there, wherever you're comfortable.  How you doing?
+
+PATIENT X645
+Doing good.
+
+DOCTOR X645
+I haven't seen you in a while.  Let's see here.  That's good.  So I saw you back in October.  Your sugars were like 110 at that time.
+
+PATIENT X645
+Well I don't know.  I went to the blood section.
+
+DOCTOR X645
+Oh.
+
+PATIENT X645
+They said I wasn't list for a blood draw today.
+
+DOCTOR X645
+Okay.  Let's see what happened there.  You know what happened, did you see somebody else?  I'm sure @@@ this.
+
+PATIENT X645
+I come here, another doctor or something?
+
+DOCTOR X645
+Yeah did you go to Urgent Care?  Did they do labs on you at some point or the other in May?
+
+PATIENT X645
+Uh uh.  Only one I saw today was the lady gave me this for a survey.
+
+DOCTOR X645
+Oh really.  Okay yeah.  Cause you know sometimes when you go to and somebody orders labs down there it makes the labs that we ordered last time go away so we can get them on the way out and maybe I can just give you a phone call.  Is that okay?
+
+PATIENT X645
+Uh-huh.
+
+DOCTOR X645
+Let you know if they're alright okay.  Let me check we have the right number for you.  It's NUMBER?
+
+PATIENT X645
+NUMBER.
+
+DOCTOR X645
+That's right okay.  Well how you doing?
+
+PATIENT X645
+I'm doing fine.
+
+DOCTOR X645
+Yeah, any complaints or anything uh bothering you?
+
+PATIENT X645
+Hmm no.
+
+DOCTOR X645
+Okay.  Any difficulty taking your medications?
+
+PATIENT X645
+No.
+
+DOCTOR X645
+Okay so I got you, looks like on a baby aspirin.  You taking the Aspart?  The insulin?
+
+PATIENT X645
+Uh I'm taking, what is Aspart for?
+
+DOCTOR X645
+So Aspart is NovoLog.  It's NovoLog; it's a quick insulin you take that with meals.  Are you taking that?
+
+PATIENT X645
+No, I haven't had that for months.
+
+DOCTOR X645
+Okay.  Are you taking any insulin?
+
+PATIENT X645
+The what?
+
+DOCTOR X645
+Are you taking any insulin shots at home?
+
+PATIENT X645
+What kind?
+
+DOCTOR X645
+Insulin.  Do you take shots in your tummy?
+
+PATIENT X645
+Oh yeah.
+
+DOCTOR X645
+Okay.
+
+PATIENT X645
+Every day.
+
+DOCTOR X645
+Every day.  How many times a day do you take insulin?  
+
+PATIENT X645
+One.
+
+DOCTOR X645
+Just one at night?
+
+PATIENT X645
+In the morning.
+
+DOCTOR X645
+In the morning.  Okay is that the Glargine?  Do you remember what it's called?
+
+PATIENT X645
+Glargine.
+
+DOCTOR X645
+The Glargine okay.  Okay and then we have you on lisinopril.  Aside from the aspirin, the lisinopril and the insulin are you taking any other medications?
+
+PATIENT X645
+No.
+
+DOCTOR X645
+Okay.  So that's what.
+
+PATIENT X645
+Well I went, excuse me; I went to the podiatrist last week.
+
+DOCTOR X645
+Okay.
+
+PATIENT X645
+And I have uh antifungal cream.
+
+DOCTOR X645
+Oh okay.
+
+PATIENT X645
+For my toes.
+
+DOCTOR X645
+Okay.
+
+PATIENT X645
+And some uh @@@ I think they call it.
+
+DOCTOR X645
+What do they call it?
+
+PATIENT X645
+xxxzizene or.
+
+DOCTOR X645
+Oh I see.
+
+PATIENT X645
+xxxadrine.
+
+DOCTOR X645
+Let me see what they gave you.
+
+PATIENT X645
+It's an iodine so it's an.
+
+DOCTOR X645
+Oh yeah, yeah, yeah.  That's just to kind of keep it clean so you don't get an ulcer there.
+
+PATIENT X645
+Uh-huh.
+
+DOCTOR X645
+So have you been taking your sugars at home?
+
+PATIENT X645
+Uh-huh.
+
+DOCTOR X645
+What have they been running?
+
+PATIENT X645
+Oh it has been 130s, 140s.
+
+DOCTOR X645
+Okay well that's pretty good, that's pretty good.  80 to 120 is perfect right when you wake up in the morning.
+
+PATIENT X645
+You know you can't get the perfect score.
+
+DOCTOR X645
+Yeah.
+
+PATIENT X645
+Someday I'll feel like eating just a little bit and some days I gorge myself.
+
+DOCTOR X645
+Yeah that's true, that's true.  So who's following your prostate cancer?
+
+PATIENT X645
+What you mean um?
+
+DOCTOR X645
+Is anybody following your prostate cancer?
+
+PATIENT X645
+Yeah.
+
+DOCTOR X645
+Do you go to the doctor for that?
+
+PATIENT X645
+Yeah I was with the nerve fellow about two weeks ago.
+
+DOCTOR X645
+Good, good, good, good.  Um any trouble with back pain?
+
+PATIENT X645
+No.
+
+DOCTOR X645
+Any bone pain?
+
+PATIENT X645
+No.
+
+DOCTOR X645
+Any trouble holding your bladder?
+
+PATIENT X645
+No.
+
+DOCTOR X645
+No okay.  Any trouble with dribbling or hesitancy?  
+
+PATIENT X645
+No.
+
+DOCTOR X645
+Anything like that or burning pain?
+
+PATIENT X645
+No.  It will really be on the mild side if I'm not near the toilet.
+
+DOCTOR X645
+Okay.
+
+PATIENT X645
+@@@.
+
+DOCTOR X645
+Um alright.  How many times a night are you going to the bathroom?  Do get woken from sleep quite a bit or?  
+
+PATIENT X645
+About two or three.
+
+DOCTOR X645
+Okay that's not awful.
+
+PATIENT X645
+No.  I think it depends on how much water I drink.
+
+DOCTOR X645
+Yeah, yeah.  Um.
+
+PATIENT X645
+I try to have water to drink.  I never have been.
+
+DOCTOR X645
+Yeah.
+
+PATIENT X645
+I'm trying to drink more water but then uh then I drink a lot of water and you’re out.
+
+DOCTOR X645
+Uh-huh.
+
+PATIENT X645
+And you have the urge to urinate there's no place to urinate.
+
+DOCTOR X645
+Yeah that's true.  Usually uh you know you're supposed to drink a few 8 oz glasses, sometimes people say a few 12 oz glasses.  Drink when you're thirsty you know.  That's the most important thing.  
+
+PATIENT X645
+Well they recommend six to eight glasses per day.
+
+DOCTOR X645
+Right.  Yeah.
+
+PATIENT X645
+I can't drink that much water.
+
+DOCTOR X645
+Yeah.
+
+PATIENT X645
+I've never been able to drink that much water.  It's I don't have the urge for it.
+
+DOCTOR X645
+Yeah, well that's okay.  Any chest pain or shortness of breath?
+
+PATIENT X645
+No.
+
+DOCTOR X645
+Okay.  Any trouble swallowing, pain on swallowing?
+
+PATIENT X645
+No.
+
+DOCTOR X645
+Okay any um nausea, vomiting?
+
+PATIENT X645
+No.
+
+DOCTOR X645
+Diarrhea.  Are you moving your bowels okay?
+
+PATIENT X645
+They move okay.
+
+DOCTOR X645
+Blood in the stool or dark tarry stools?  Any dark tar in your stools or any gross blood in your stool when you go to the bathroom?
+
+PATIENT X645
+No.
+
+DOCTOR X645
+Okay.  So have you ever had a colonoscopy?
+
+PATIENT X645
+A what?
+
+DOCTOR X645
+A colonoscopy.  I think you had one earlier you told me last time right?
+
+PATIENT X645
+I had one a couple of years ago at the County when I was going over there.
+
+DOCTOR X645
+At the County okay.
+
+PATIENT X645
+Very unpleasant procedure.
+
+DOCTOR X645
+Oh was it, I'm sorry to hear that.  Usually they dope you up pretty good.  Usually the worst part is getting cleared.  You know the stuff you drink the night before.  So most my experience is now I hear they'll give you something that's kind of like.
+
+PATIENT X645
+Uh-huh.
+
+DOCTOR X645
+You call it like you know its Versed; it's kind of like a medication that can make you not remember, so it can be people just don't know if it's unpleasant.  You're up-to-date it looks like so that'll probably be the last one you have unless you start really having problems.
+
+PATIENT X645
+Oh.
+
+DOCTOR X645
+Okay.  Um other than that um what we'll do is we'll look at your A1c, which is a good index for the diabetes and it tells us how much sugar is sticking to those red blood cells and that tells me what your sugars been life.  Cause you can check it once a day you know but that doesn't tell me what it's like every other time during the day.  Do you typically check it in the morning?
+
+PATIENT X645
+Yeah.
+
+DOCTOR X645
+Yeah okay.  Um did somebody stop the other insulin?  Did they tell you not to take insulin with meals at some point or did you just stop taking the insulin with meals?  Do you remember?
+
+PATIENT X645
+I don't know what one thing I had when they test my blood, test my fingers.
+
+DOCTOR X645
+Yeah.
+
+PATIENT X645
+After a while it's so sore.
+
+DOCTOR X645
+Okay.
+
+PATIENT X645
+I tried to test my forearm but I can't seem to do it.
+
+DOCTOR X645
+Because the little capillaries in your fingers, look at how red my fingers are and how quick they blanch and you know but the blood flow there is very good so you can, with a real teeny, tiny stick get a lot of superficial blood vessels so your bleeding would be from there.  That's why we tell you to test your fingers.  If you've been on this regimen for a while I have no problem with you testing your sugars maybe like twice a week.  I want to see one daily written where you have more than one value two hour value after the biggest meal.  That's, depending on the kind of diabetes you have and your onset of diabetes, sometimes people have a hard time.
+
+PATIENT X645
+I have a question.
+
+DOCTOR X645
+@@@ and some people have a hard time.
+
+PATIENT X645
+Might be silly.
+
+DOCTOR X645
+No its okay.
+
+PATIENT X645
+Have they found any new way to take insulin besides the injections?
+
+DOCTOR X645
+Oh yeah there's billions of them.  They have insulin pens, they have insulin pumps, they have all this other stuff.  But we got to get you on a regimen that works.
+
+PATIENT X645
+Well I wouldn't need anything like a pump I don't think.
+
+DOCTOR X645
+No.
+
+PATIENT X645
+I think that's for a very severe case.
+
+DOCTOR X645
+You're right, you're right.  You're barely on any treatment to be honest so I think that's probably the best way to go for you at this point, you know.  Now did you ever take metformin?
+
+PATIENT X645
+Yes.
+
+DOCTOR X645
+Did you ever have any trouble with it?
+
+PATIENT X645
+Well after on a account that they withdrew it from the market.
+
+DOCTOR X645
+No, it's still on the market.
+
+PATIENT X645
+Well you know from the pharmaceutical.
+
+DOCTOR X645
+From the formulary then?  You mean like they didn't have it in the.
+
+PATIENT X645
+And that's been quite a while.
+
+DOCTOR X645
+Okay, let's see here.  Kidney function's okay.  Metformin's a really good drug um.
+
+PATIENT X645
+Yeah but they probably have side effects, that's not good.
+
+DOCTOR X645
+I haven't seen any side effects with that one.  If you look on the internet it'll really freak you out.  You know there's side effects for everything there um but in reality what we see.  Well let's just stay the course now with this insulin.  Let me see what your A1c is today and um kidney function is today.  We'll take a little blood and ask you to pee in the cup on your way out and then we'll make sure.
+
+PATIENT X645
+Okay but what does the metformin do?  You take insulin and you take metformin also?
+
+DOCTOR X645
+You can take those together yeah.  So what insulin does is it replaces what your body doesn't have.  That's the problem with diabetes you're just not making enough insulin.
+
+PATIENT X645
+Uh-huh.
+
+DOCTOR X645
+What the metformin does is it makes the tissues that sugar and insulin go to more responsive to them.  So the problem with type 2 diabetes is you know you have your whole life to high and low levels of sugar relatively so your tissues, meaning your muscles, your liver, all the places that store calories for energy, for sugar energy can't stop looking you know.  Sugar would be around and it just wouldn't pay attention to it so @@@.  So what metformin does is it helps make those tissues more aware of the sugar there so you can put it away.  So it can make you gain weight.  Most of the things we treat diabetes with makes you gain weight and that's part of the problem is it can make you gain weight.
+
+PATIENT X645
+Well I tell you what; they withdrew me off of it at the County.
+
+DOCTOR X645
+I don't know, I don't know.  Sometimes if your kidney function gets a little high then we take people off of it but yours isn't terrible so um.  You know let's see, before we make any changes let's see what your labs look like and if we think metformin is a good idea.  Did you have any trouble with it, get diarrhea or anything?
+
+PATIENT X645
+I can't really tell.
+
+DOCTOR X645
+You can't really tell okay.  Okay.
+
+PATIENT X645
+I didn't feel no funny feeling on it.
+
+DOCTOR X645
+Yeah.
+
+PATIENT X645
+You know any, any @@@ from it.
+
+DOCTOR X645
+Okay.
+
+PATIENT X645
+Maybe there was, I just probably didn't know it.
+
+DOCTOR X645
+Okay.
+
+PATIENT X645
+Notice it.
+
+DOCTOR X645
+Alright.  Well yeah we can see what we change in today when we get the lab.  Um anything else?
+
+PATIENT X645
+That's all that I need.  I have a lot of syringes.
+
+DOCTOR X645
+Okay.
+
+PATIENT X645
+About a month ago they sent me four boxes of syringes from here.
+
+DOCTOR X645
+Oh really.
+
+PATIENT X645
+I couldn't believe that.
+
+DOCTOR X645
+That's weird.
+
+PATIENT X645
+All that I needed, I got just one vial of the Glargine left.
+
+DOCTOR X645
+Okay.
+
+PATIENT X645
+And the test strips, that's all I need.
+
+DOCTOR X645
+Alright.
+
+PATIENT X645
+I've got everything else.
+
+DOCTOR X645
+You have everything else.  Do you want them sent to your house or do you want to pick them up here?
+
+PATIENT X645
+I could pick it up today.
+
+DOCTOR X645
+Okay I can do that right now.  We're gonna make sure you have enough refills.  So then see me in six months again and maybe I can give you a call next Tuesday.  We'll talk about the labs and kind of what things to tweak okay.
+
+PATIENT X645
+Uh-huh.
+
+DOCTOR X645
+Do you know what things to look for if your sugar is low?  Do you know what things, what happens if your sugars get dangerously low?
+
+PATIENT X645
+I've had occasions where it got too low.
+
+DOCTOR X645
+What'd you feel like?
+
+PATIENT X645
+Oh oh bad.
+
+DOCTOR X645
+Yeah.
+
+PATIENT X645
+I was slated to go to xxx for a week's vacation with some friends of mine but I was sick before I left but I just ignored it and got on a plane, up there real fast and I got to xxx.
+
+DOCTOR X645
+Uh-huh.
+
+PATIENT X645
+Uh I was out of the bed.
+
+DOCTOR X645
+Uh-huh.
+
+PATIENT X645
+And I felt some medic slapping me on my face to wake me up.
+
+DOCTOR X645
+Really.  Oh man you passed out.
+
+PATIENT X645
+Yeah.
+
+DOCTOR X645
+That's even worse.
+
+PATIENT X645
+Yeah I was sort disorientated.
+
+DOCTOR X645
+Yeah.
+
+PATIENT X645
+Almost got run over by a car I was walking to a Mcxxxs across the street.
+
+DOCTOR X645
+Wow.
+
+PATIENT X645
+But they took me to the hospital and I stayed there for about six or seven days.  They got the blood sugar under control plus a whopping big bill.
+
+DOCTOR X645
+Yeah I'm sure.  Um what was important is that you know what it feels like when your sugars get real low.
+
+PATIENT X645
+Oh its weak, disorientated.
+
+DOCTOR X645
+You get sweaty, disoriented, weak.
+
+PATIENT X645
+Yeah.  I couldn't seem to get nothing going.
+
+DOCTOR X645
+Nervous, @@@.  Yeah.  But then people get belligerent.  You hear patients sometimes that you know cops stopping people and thinking they're drugged.
+
+PATIENT X645
+That's the only time I felt that, the hypoglycemia.
+
+DOCTOR X645
+Hypoglycemia okay.  Well it's important to recognize it you know.  Of course you're not glad you went through that but I'm glad you know what to look out for.
+
+PATIENT X645
+Uh-huh.
+
+DOCTOR X645
+You know and it's only, we don't like diabetics eating candy or whatever but it's always okay to keep a little bit of sugar handy in your pocket you know just in case you start to feel wiped out.  We're not messing with your insulin dose or anything like that today so it shouldn't be a problem okay.  So you went to the podiatrist last week.  Are you getting your eyes checked?
+
+PATIENT X645
+Uh they never called me.  It's been quite a while.
+
+DOCTOR X645
+Let me see here.
+
+PATIENT X645
+They were supposed to have notified me, the doctor said that I hadn't been called.
+
+DOCTOR X645
+Call them then.
+
+PATIENT X645
+See I may have a touch of glaucoma.
+
+DOCTOR X645
+Yeah.  Yeah.  That's okay; a lot of people have a little bit of that um.  Last time they saw you they said yeah, they saw you last July it looks like so it hasn't quite been a year.  So you can call up there and they said you're right, glaucoma suspect.  Good and then they wanted you to follow up.  So maybe give them a buzz up there um or I can ask them to make you an appointment right now on your sheet.  I don't need to write you a referral or anything cause they've seen you within a year.  You know I can, so yeah it's a good idea to go to them.  I can make it like in two weeks and you're gonna see me in six months.  Let me just take a look at you.  Okay.  @@@.
+
+PATIENT X645
+I have to call them or are they gonna call me?
+
+DOCTOR X645
+Well let's go, usually what we can do is just stop and make an appointment on the way out.  You know at the front desk and then they can send you one.
+
+PATIENT X645
+Hmm.
+
+DOCTOR X645
+Okay just look right up in front at me.  Okay say ah.
+
+PATIENT X645
+Ah.
+
+DOCTOR X645
+Ah good.  Did you have a nice holiday?  Did you do anything for Memorial Day?
+
+PATIENT X645
+Do what?
+
+DOCTOR X645
+Did you do anything for Memorial Day?  Did you cook out or?
+
+PATIENT X645
+Oh I went to a little picnic like the whole day.
+
+DOCTOR X645
+Oh that's nice.  It was hot though wasn't it?  It was warm.  Good.  Alright usually with diabetics I look at your feet, but you just said you went to the podiatrist last week so I won't make you take those all those off.
+
+PATIENT X645
+I have one problem.
+
+DOCTOR X645
+What's that?
+
+PATIENT X645
+When I went to the Podiatry Clinic last week.
+
+DOCTOR X645
+Uh-huh.
+
+PATIENT X645
+They said next time I come there they gonna put a little thing on my leg to check that the circulation in my left leg.
+
+DOCTOR X645
+Right, right.
+
+PATIENT X645
+Wasn't good and I have something else I notice I get a, something like that that don't come off and I got a scab here.  Somehow it came off.
+
+DOCTOR X645
+Huh.  It comes off?
+
+PATIENT X645
+It doesn't seem to heal.
+
+DOCTOR X645
+Yeah.  See it looks almost.
+
+PATIENT X645
+That's why giving me, put aloe vera on it.
+
+DOCTOR X645
+Yeah.
+
+PATIENT X645
+Stuff like that.
+
+DOCTOR X645
+Yeah.
+
+PATIENT X645
+It stays on.
+
+DOCTOR X645
+Does it itch?
+
+PATIENT X645
+No it don't.
+
+DOCTOR X645
+It doesn't itch.
+
+PATIENT X645
+I got no feeling from it.
+
+DOCTOR X645
+Doesn't hurt?  It looks like.
+
+PATIENT X645
+I've been told that if you have poor circulation.
+
+DOCTOR X645
+Yeah.
+
+PATIENT X645
+Uh uh things don't heal so well.
+
+DOCTOR X645
+Yeah but usually with people with poor circulation you expect to see it at the foot and not up on the calf because the arteries get smaller and smaller is the reason.  But this here, I don't know if we can, it should be that far up.
+
+PATIENT X645
+I've had this for a long time.
+
+DOCTOR X645
+Yeah.
+
+PATIENT X645
+So.  It's no pain or anything just, it's just there.
+
+DOCTOR X645
+Yeah.  Does it get bigger?
+
+PATIENT X645
+Huh?
+
+DOCTOR X645
+Does it get bigger or stay put?
+
+PATIENT X645
+It's like I don't even know how I got it.
+
+DOCTOR X645
+Yeah.
+
+PATIENT X645
+I can't remember getting a abrasion or anything like a cut.
+
+DOCTOR X645
+Yeah.  To be completely honest with you I don't know what that is.  For a minute I thought it was eczema you know cause the way the edges are kind of and the way there's a little bit of scabbing.  Sometimes the red blood cells you can see them come on the outside and you get this like kind of speckle of eczema but the @@@ of eczema is itching and yours doesn't itch so it's probably not eczema.  Um you're dark-skinned enough so I'm not worried about cancer or anything like that you know um but there's some sort of cancer cause it is a little dark in there.  I don't know, I think DOCTOR will check it.  Um but for now you know I'm glad it doesn't hurt or it doesn't itch cause I could get you screened for it.
+
+PATIENT X645
+Okay would I go back to the Podiatry Clinic and maybe.
+
+DOCTOR X645
+You know this is more of a dermatology issue though.  This isn't really.
+
+PATIENT X645
+I'll find out why it's like that.
+
+DOCTOR X645
+Yeah.
+
+PATIENT X645
+And they say, this leg doesn't have good circulation in the right leg.
+
+DOCTOR X645
+That one does okay.  Okay.  Are you a smoker?
+
+PATIENT X645
+No.
+
+DOCTOR X645
+Okay.  Alright.  Let me take a listen to your heart here.  Uh I will call DOCTOR in to take a look cause honestly I @@@.  Deep, good, deep breath again good.  Okay and you can just breathe normally.  Okay.  I'll be back in a second.  So I put the um Glargine and we'll get you an appointment for following up with me in six months.  I sent you the Glargine and then you said you needed the strips so we'll send those out.
+
+PATIENT X645
+Yeah.
+
+DOCTOR X645
+We'll ask you to stop by the Lab today to take a look at everything okay.  I'll be back in just a second.
+
+PATIENT X645
+Okay.
+
+(DOCTOR OUT:  39:12  DOCTOR IN:  43:42)
+
+SECOND DOCTOR X645
+Hello.
+
+PATIENT X645
+Oh hi doc.
+
+SECOND DOCTOR X645
+Hi. @@@.
+
+PATIENT X645
+Yeah it's right here.
+
+SECOND DOCTOR X645
+Yeah it doesn't blanch.  @@@.
+
+FIRST DOCTOR X645
+Yeah.
+
+SECOND DOCTOR X645
+Why don't we put some @@@ you know something.
+
+FIRST DOCTOR X645
+Okay.
+
+PATIENT X645
+Maybe I could take a knife and just cut it off.
+
+FIRST DOCTOR X645
+Oh no.  You could try, @@@ that too.
+
+SECOND DOCTOR X645
+I understand.  
+
+FIRST DOCTOR X645
+Well we'll put some steroid cream on it.
+
+SECOND DOCTOR X645
+Yeah it doesn't look like normal @@@.
+
+FIRST DOCTOR X645
+Okay, thank you.
+
+SECOND DOCTOR X645
+No problem.
+
+FIRST DOCTOR X645
+Alright so your medications are coming to your house or you're picking them up at the window.
+
+PATIENT X645
+Okay now on eye, do I call them or are they gonna call me?
+
+FIRST DOCTOR X645
+Usually, I don't know how it works.  Usually you go up there and get a number right?  Is that right?
+
+PATIENT X645
+Well I'll call them and find out if they have me listed for any kind of future appointment.
+
+FIRST DOCTOR X645
+Are talking the medicine or are we talking appointments?
+
+PATIENT X645
+Talking about appointment.
+
+FIRST DOCTOR X645
+Okay.
+
+PATIENT X645
+For the eyes.
+FIRST DOCTOR X645
+For the eye doctor, oh yeah.  For them you can go up there and say I need an appointment with the eye doctor in two weeks.
+
+PATIENT X645
+Uh-huh.
+
+FIRST DOCTOR X645
+So right when you get out of here I would go right to the lab, make that appointment, an appointment with me, I'd like to see you in six months if that's okay any sooner if needed of course but they'll send you a letter.  And then the Pharmacy's over there and you'll have your Glargine, your strips and I'm going to give you triamcinolone ointment.
+
+PATIENT X645
+Well you want me to go to give the blood.
+
+FIRST DOCTOR X645
+Yeah.
+
+PATIENT X645
+And get the uh eye appointment.
+
+FIRST DOCTOR X645
+Yeah, yeah it doesn't matter what order you go in, doesn't matter to me but the important thing was the triamcinolone.  I'm gonna give you the ointment, cause it's a little oilier, it's more potent.  You need very little.  Just put it on a real thin film like that twice a day.  Don't put it on your face.  Don't put it on any babies but just keep it right there on the leg cause it's a pretty potent steroid okay.  And just do it until that goes away.  Okay no you're right, you were gonna say, we'll ask you to go to the Lab.  Do those three things in any order you want.  Sounds good?
+
+PATIENT X645
+Uh-huh.
+
+FIRST DOCTOR X645
+Any questions for me?
+
+PATIENT X645
+No.
+
+FIRST DOCTOR X645
+Okay.  @@@.
+
+PATIENT X645
+I got to find that lady.
+
+FIRST DOCTOR X645
+Oh let's see the last time it looks like your cholesterol was excellent alright.  Let's put all these in before I forget okay.  Now you're not on anything for cholesterol so I'm not gonna check it cause it was good last year and we don't need to check it every six months okay.  Sounds good?
+
+PATIENT X645
+Uh-huh.
+
+FIRST DOCTOR X645
+Alright.
+
+PATIENT X645
+Okay well thank you doctor.
+
+FIRST DOCTOR X645
+You're free.  Okay thanks for seeing me and don't for that, so where are you going now?
+
+PATIENT X645
+The Pharmacy to pick up the medicine.
+
+FIRST DOCTOR X645
+Okay what's the other thing you're gonna do?
+
+PATIENT X645
+You want me to get the blood draw too.
+
+FIRST DOCTOR X645
+Uh-huh and then what's the third thing?  Remember?
+
+PATIENT X645
+Um.
+
+FIRST DOCTOR X645
+It's the appointment, @@@.
+
+PATIENT X645
+Okay.  Do that.
+
+FIRST DOCTOR X645
+Okay, we'll see.
+
+PATIENT X645
+Hope I can find that lady for this.
+
+FIRST DOCTOR X645
+Yeah I'm sure.  You can give this thing to maybe the lady.
+
+PATIENT X645
+She'll be sitting on the outside.
+
+FIRST DOCTOR X645
+Yeah.
+
+PATIENT LEAVES:  47:32
+
+
+
+

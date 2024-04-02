@@ -1,0 +1,776 @@
+ 
+DOCTOR X210
+PATIENT?
+
+PATIENT X210
+How are you doctor?
+
+DOCTOR X210
+Good, how are you sir?
+
+PATIENT X210
+Fine.  It's been a while since I've been here.
+
+DOCTOR X210
+It's been a while, sorry to keep you waiting.
+
+PATIENT X210
+Well I had to cancel twice before so I'm kind of running out of prescriptions.
+
+DOCTOR X210
+Oh sure.  No problem.
+
+PATIENT X210
+I made it a point to make it for this one.
+
+DOCTOR X210
+Well thanks and I'm sorry but we had some add-ons today.  One of the other doctors had to cancel their clinic so it backed me up just a little bit.
+
+PATIENT X210
+Okay.
+
+DOCTOR X210
+Let me get your chart over here.
+
+PATIENT X210
+Okay.
+
+DOCTOR X210
+How have you been?
+
+PATIENT X210
+I've been fine so far.
+
+DOCTOR X210
+Good.
+
+PATIENT X210
+So far so good.  Putting a lot of hours as a banker.  Averaging anywhere from 55-60 hours a week so.
+
+DOCTOR X210
+Wow, that's a lot.
+
+PATIENT X210
+A lot of standing.  Yeah.
+
+DOCTOR X210
+But it's nice to have a job.
+
+PATIENT X210
+That's true.
+
+DOCTOR X210
+Um cause you uh, that's a lot of work for a retired.
+
+PATIENT X210
+Yeah well twice I did retire.
+
+DOCTOR X210
+Yeah.
+
+PATIENT X210
+But I went back to work.  I got tired of sitting around.  Only so much painting and fishing you could do.
+
+DOCTOR X210
+Well you probably, you know people that have things to do live longer.
+
+PATIENT X210
+That's true.  If you're going to be a couch potato you're going to be dead in a year.  You got to keep moving.
+
+DOCTOR X210
+Alright.  So I saw you last February is that right?
+
+PATIENT X210
+Correct.
+
+DOCTOR X210
+Alright and let's see what we did for you then.
+
+PATIENT X210
+Oh you gave me a flu shot and I got another one today.
+
+DOCTOR X210
+Good.  And you had your eyes checked?
+
+PATIENT X210
+Yep.  @@@.
+
+DOCTOR X210
+Every thing’s okay?
+
+PATIENT X210
+Every thing’s fine so far.  I got an appointment to see him February the 23rd.
+
+DOCTOR X210
+Okay good.  Alright and let's see here.  So you've had bypass surgery.
+
+PATIENT X210
+Yes.
+
+DOCTOR X210
+Uh high blood pressure?
+
+PATIENT X210
+Yes.
+
+DOCTOR X210
+That's about it.
+
+PATIENT X210
+That's it.
+
+DOCTOR X210
+About right?
+
+PATIENT X210
+Right no heart attacks, uh no strokes that I'm aware of.
+
+DOCTOR X210
+Good.  Good, alright.
+
+PATIENT X210
+I'm pushing the big side of the 8 come September.
+
+DOCTOR X210
+Good deal.  When did you have your bypass, how old were you?
+
+PATIENT X210
+Uh 98, I was in my 60s I believe, 65.
+
+DOCTOR X210
+Did you have a heart attack?
+
+PATIENT X210
+Nope.  Never had a heart attack.
+
+DOCTOR X210
+Good.
+
+PATIENT X210
+No stroke that I'm aware of.
+
+DOCTOR X210
+Right you just told me that.
+
+PATIENT X210
+Yeah.
+
+DOCTOR X210
+Alright and your blood pressure is a little high today it looks like.
+
+PATIENT X210
+Yes.  Uh I have a monitor at home and I've been getting, like I said anywhere between 160 and 180.  Uh sometimes it'll drop down to 150/60, you know so it depends.
+
+DOCTOR X210
+Hmm.  And we have you taking four medications?
+
+PATIENT X210
+Yes.  I've got them all with me here, simvastatin, @@@, hydrochlorothiazide, metoprolol and losartan.
+
+DOCTOR X210
+Losartan yeah.
+
+PATIENT X210
+Uh the one that I don't need and I got plenty of is gemfibrozil.
+
+DOCTOR X210
+Gemfibrozil?
+
+PATIENT X210
+Yeah.  I got two of them but right now I'm low on simvastatin @@@.
+
+DOCTOR X210
+Okay.
+
+PATIENT X210
+But we can order them I guess through the.
+
+DOCTOR X210
+You want them through the mail?
+
+PATIENT X210
+Yeah you can go through the mail or either I can pick them up tonight if you want.
+
+DOCTOR X210
+Whatever you want.
+
+PATIENT X210
+Well I'll pick them up tonight if they have them ready.  How long will it take them, about an hour?
+
+DOCTOR X210
+I don't know, it depends on how many people are down there.  Whatever you want and is convenient for you.
+
+PATIENT X210
+Well I have nothing to do so I can sit down there and wait I guess.  But since I met with you, my son one went down to @@@ in March my son had a slight heart attack.
+
+DOCTOR X210
+Oh I'm sorry to hear that.
+
+PATIENT X210
+They did a bypass and what do you call those stents, put two stents in.
+
+DOCTOR X210
+That's good.
+
+PATIENT X210
+Two stents, yeah he's doing fine now.
+
+DOCTOR X210
+Oh that's good.
+
+PATIENT X210
+But he's on the same blood pressure medication and all that.
+
+DOCTOR X210
+How old is he?
+
+PATIENT X210
+The youngest son is 50.
+
+DOCTOR X210
+That's early to have a heart attack.
+
+PATIENT X210
+Right.  Right, it runs in the family yeah.
+
+DOCTOR X210
+Yeah, yeah.  Alright let's see what we got for you.
+
+PATIENT X210
+See my brother had one; of course he's passed away now what six years, seven years.  
+
+DOCTOR X210
+So your cholesterol looks good.
+
+PATIENT X210
+Uh-huh.
+
+DOCTOR X210
+Um.
+
+PATIENT X210
+What's the cholesterol reading?
+
+DOCTOR X210
+Well that was a year ago so I may need to repeat that soon.  I don't think we need to today.  Um you've probably eaten, you've eaten today?
+
+PATIENT X210
+Yeah well I cheated today, I had a hot dog and uh tamales, which I shouldn't have, I know.
+
+DOCTOR X210
+What I'll do is I'm going to order a fasting cholesterol test for you.  You can come back anytime to do it, there's no rush okay.  Your cholesterol looks great.
+
+PATIENT X210
+Okay.
+
+DOCTOR X210
+Um and when you do come back and get the other lab I'm going to order as well.  
+
+PATIENT X210
+Okay.
+
+DOCTOR X210
+This just checks on your kidney functions.
+
+PATIENT X210
+Oh okay.
+
+DOCTOR X210
+Which we need to keep an eye on because of your blood pressure.
+
+PATIENT X210
+Right.
+
+DOCTOR X210
+Well I'll have you sit over there.
+
+PATIENT X210
+Alright.
+
+DOCTOR X210
+Okay.  Check your blood pressure there.
+
+PATIENT X210
+Okay, what's with the.
+
+DOCTOR X210
+We'll try it.
+
+PATIENT X210
+Alright.
+
+DOCTOR X210
+We'll try it.
+
+PATIENT X210
+She did the last time.
+
+DOCTOR X210
+We'll be consistent then.
+
+PATIENT X210
+Yeah.
+
+DOCTOR X210
+Are you a Bears fan?
+
+PATIENT X210
+Not really.
+
+DOCTOR X210
+Yeah.
+
+PATIENT X210
+But if they make it past this one then they deserve it.
+
+DOCTOR X210
+There you go.  If they can beat xxx right?
+
+PATIENT X210
+Right.  I've been betting against them all year.  At the time I bet with them they lost.
+
+DOCTOR X210
+That's right.  Lift up on the elbow a little bit.
+
+PATIENT X210
+Okay.
+
+DOCTOR X210
+There you go.  If you're flexed it'll make it seem higher.
+
+PATIENT X210
+Yeah.
+
+DOCTOR X210
+Okay that's better.  It says 130.
+
+PATIENT X210
+130 yeah it came down quite a bit.
+
+DOCTOR X210
+Yeah.
+
+PATIENT X210
+Yeah.
+
+DOCTOR X210
+But at home though, at home it's 150s you said?
+
+PATIENT X210
+Well I usually take it at night and I shouldn't do that, I should take it earlier in the day but I'm working during the days and these hours are something like 10 1/2 hours at the bank.
+
+DOCTOR X210
+That's a lot.
+
+PATIENT X210
+Right and by the time I get home, that's the only time I can take it is at night.
+
+DOCTOR X210
+Yeah it's probably not the best time to read it.
+
+PATIENT X210
+Right and it's at night so.
+
+DOCTOR X210
+What time do you get up in the morning?
+
+PATIENT X210
+I get up at 5 in the morning.
+
+DOCTOR X210
+What time do you go to work?
+
+PATIENT X210
+I'll be there before 8.
+
+DOCTOR X210
+Could you take it before you leave for work?
+
+PATIENT X210
+I could take that in the morning yeah sure.
+
+DOCTOR X210
+I wouldn't do it the first time.
+
+PATIENT X210
+No I wouldn't either because you got to get the blood circulating.
+
+DOCTOR X210
+So do you have breakfast?
+
+PATIENT X210
+Well I have a banana usually, I don't eat too much for breakfast.
+
+DOCTOR X210
+Okay, so get up, have your banana and coffee, whatever.  Do you take coffee?
+
+PATIENT X210
+Yeah.
+
+DOCTOR X210
+Caffeine?
+
+PATIENT X210
+Uh yeah regular coffee black.
+
+DOCTOR X210
+How early do you have that after getting up?  First thing or?
+
+PATIENT X210
+Oh maybe about 5:10, maybe 5:15, we got the timer on the coffee pot so if it's not on I'll turn it on.  @@@.
+
+DOCTOR X210
+So why don't you get up in the morning um.
+
+PATIENT X210
+Yeah.
+
+DOCTOR X210
+Wash your face or whatever you do and then uh take your blood pressure and then have your coffee.
+
+PATIENT X210
+Alright, sounds good.
+
+DOCTOR X210
+Hang tight for me; um I'll be right back okay.
+
+PATIENT X210
+Alright.  I won't have to take a number down there for the prescriptions will I?
+
+DOCTOR X210
+I don't think so.
+
+PATIENT X210
+@@@.
+
+DOCTOR X210
+I've already put the order in and I think you just have to go down there.
+
+PATIENT X210
+Alright.
+
+DOCTOR X210
+Um and when was your last colonoscopy?  Do you know?
+
+PATIENT X210
+Hmm maybe three years ago.
+
+DOCTOR X210
+Here?
+
+PATIENT X210
+No, I got it at a doctor's office.  They had a doctor and I can't remember his name now.
+
+DOCTOR X210
+Do you smoke?
+
+PATIENT X210
+Oh I quit in '94.  '84, I'm sorry.
+
+DOCTOR X210
+What about alcohol, do you use alcohol?
+
+PATIENT X210
+I have a drink maybe occasionally once a week, a beer or maybe a highball or something.
+
+DOCTOR X210
+Uh-huh.
+
+PATIENT X210
+But nothing daily.
+
+DOCTOR X210
+Uh-huh.  Okay.  And then let's see, did they do the neck exam?  It's ENT.
+
+PATIENT X210
+Uh they did it here I believe.
+
+DOCTOR X210
+Let's see here.  Yeah.
+
+PATIENT X210
+They said something about it was going the other way cause I had one of the arteries was done on the right side and I think it's working good I guess.  The other side I guess is blocked.
+
+DOCTOR X210
+And you saw the Peripheral Vascular surgeons?
+
+PATIENT X210
+Uh-huh.
+
+DOCTOR X210
+And they wanted to see you in one year, do you have an appointment with them, let's see.  Sure.  You're just supposed to follow up with the vascular surgeon within the next couple months.
+
+PATIENT X210
+Okay.
+
+DOCTOR X210
+Okay.
+
+PATIENT X210
+That's that uh sound test again?
+
+DOCTOR X210
+Yeah I think they're going to check to make sure they don't need to do anything because it was.
+
+PATIENT X210
+They said there was nothing they could do.
+
+DOCTOR X210
+Huh.
+
+PATIENT X210
+That's what he told me the last time, so that's why I didn't.  I figured well it was working on one side, it's good enough.  When I shut down it's through.
+
+DOCTOR X210
+Okay.  
+
+PATIENT X210
+But he said he got a good sound on my right side so.
+
+DOCTOR X210
+Good deal.  Almost done, I just got to look up.
+
+PATIENT X210
+Uh-huh oh yeah.
+
+DOCTOR X210
+I got a new warning on gemfibrozil.  I want to make sure I don't miss something on that.
+
+PATIENT X210
+Uh-huh.  Well I'm just taking a half a tablet every night before bed along with the other uh simvastatin.
+
+DOCTOR X210
+Uh-huh.
+
+PATIENT X210
+I have to take one half at bedtime.
+
+DOCTOR X210
+Okay.  I just want to make sure I get this warning here.  Okay.  Alright.  I'm going to have you get some labs in a month like we talked about.
+
+PATIENT X210
+Uh-huh.
+
+DOCTOR X210
+Uh and actually let me take a listen to your heart and lungs here.
+
+PATIENT X210
+You want this off?
+
+DOCTOR X210
+Yeah it's probably a good idea.  Snow coming down at all today?
+Any snow coming down?
+
+PATIENT X210
+No snow today it's sunny.
+
+DOCTOR X210
+@@@. What bank do you work at?
+
+PATIENT X210
+Uh First Tier.
+
+DOCTOR X210
+Oh.
+
+PATIENT X210
+I'm what they call a Novus, well it's not just one bank it's a lot of banks that go through.
+
+DOCTOR X210
+Sure.  You can leave that on, that's fine.
+
+PATIENT X210
+Alright.
+
+DOCTOR X210
+Okay.
+
+PATIENT X210
+A banks history and uh @@@ Avenue @@@.
+
+DOCTOR X210
+Uh-huh.
+
+PATIENT X210
+I'm at that one and the one at xxx xxx, @@@.
+
+DOCTOR X210
+Hmm.
+
+PATIENT X210
+xxx xxx xxx I'm there two days a week.  @@@.
+
+DOCTOR X210
+Can you breathe in?  Deep breath for me, good.  Deep breath, deep breath, good.  Do one more.  Okay.  Any pain in your abdomen at all?
+
+PATIENT X210
+No.
+
+DOCTOR X210
+Any muscle pains or aches?
+
+PATIENT X210
+No.
+
+DOCTOR X210
+Okay.  Do you have any swelling?  Are you swollen by the end of the day?
+
+PATIENT X210
+No, not usually.
+
+DOCTOR X210
+How's your fatigue and stress levels with uh all that work?
+
+PATIENT X210
+Not too bad.  Well the feet get tired you know.
+
+DOCTOR X210
+Yeah.
+
+PATIENT X210
+I'm standing all the time.
+
+DOCTOR X210
+Yeah.
+
+PATIENT X210
+But outside of that.
+
+DOCTOR X210
+And you're not too stressed?
+
+PATIENT X210
+No.
+
+DOCTOR X210
+Good.  Hang tight for me and I'll be right back.
+
+PATIENT X210
+Okay will do.  Shirt back on?
+
+DOCTOR X210
+Yeah, you're fine.
+
+(DOCTOR OUT:  73:00  DOCTOR IN:  77:45)
+
+DOCTOR X210
+Alright.  I'm going to go up on one of your medications today.  I'm going to increase one of your medications, the amlodipine.
+
+PATIENT X210
+The little one?
+
+DOCTOR X210
+Yeah from 5 to 10.
+
+PATIENT X210
+Okay.
+
+DOCTOR X210
+Your pressures, you know if they're in the 150s and I get low 130s today but we probably need yours lower given how the extensive disease you've had.
+
+PATIENT X210
+Right.
+
+DOCTOR X210
+Just to keep those pressures safer for you.
+
+PATIENT X210
+Okay.
+
+DOCTOR X210
+And then in a month when you come back um we'll check your blood pressures to see how it's going and we'll have you get those labs, some fasting labs first and then we can see how you're cholesterol is doing and see how your kidney function is doing as well.
+
+PATIENT X210
+Alright.
+
+DOCTOR X210
+Okay.
+
+PATIENT X210
+Sounds good doc.
+
+DOCTOR X210
+Okay.  Let me get those medications refilled for you.  I'm going to change that one.  Okay.  Okay, you're all set.
+
+PATIENT X210
+Okay doc.
+
+DOCTOR X210
+See you in a month.
+
+PATIENT X210
+Yes sir.
+
+DOCTOR X210
+Stop in sometime before that and get your blood drawn.
+
+PATIENT X210
+Okay I'll do that. Uh just anywhere downstairs in the clinic or?
+
+DOCTOR X210
+Um yeah you can do it on the first floor.
+
+PATIENT X210
+On the first floor?
+
+DOCTOR X210
+Yep, I don't know their hours but if you come early enough um.
+
+PATIENT X210
+I'll be here at 8 o'clock, if I get it early enough.
+
+DOCTOR X210
+Yeah and now you can just grab breakfast afterwards that way.
+
+PATIENT X210
+Okay, sound good.
+
+DOCTOR X210
+That way @@@.
+
+PATIENT X210
+Sounds good.
+
+DOCTOR X210
+So um.  Okay stay warm out there.
+
+PATIENT X210
+I try.
+
+DOCTOR X210
+And um take this with you to check out.
+
+PATIENT X210
+Oh okay.
+
+DOCTOR X210
+Just hand that to them out front.
+
+PATIENT X210
+Okay.
+
+DOCTOR X210
+Good to see you sir.
+
+PATIENT X210
+Have a good one sir.
+
+DOCTOR X210
+Happy New Year.
+
+PATIENT X210
+Yeah same to you and many more.
+
+DOCTOR X210
+To you as well.
+
+PATIENT X210
+Yes sir.
+
+PATIENT LEAVES:  81:16
+
+Time is 3:54.
+
+
+
+

@@ -1,0 +1,597 @@
+
+DOCTOR X460
+Hi.
+
+PATIENT X460
+Hello yeah.  Oh the right side.  Okay, alright.
+
+DOCTOR X460
+I'm DOCTOR.
+
+PATIENT X460
+Alright, I was wondering.
+
+DOCTOR X460
+@@@.
+
+PATIENT X460
+Had I ever seen you before.
+
+DOCTOR X460
+Huh.
+
+PATIENT X460
+I wondering if had I ever seen you before.
+
+DOCTOR X460
+Yeah you see DOCTOR and he's my boss.
+
+PATIENT X460
+Yeah right yeah.
+
+DOCTOR X460
+Yeah.  What brings you in today?
+
+PATIENT X460
+A appointment follow-up.
+
+DOCTOR X460
+Just a regular check-up is that right?
+
+PATIENT X460
+Yeah uh-huh.
+
+DOCTOR X460
+Okay anything been bothering you recently?
+
+PATIENT X460
+No not really.
+
+DOCTOR X460
+So you're doing well?
+
+PATIENT X460
+Yeah pretty good.
+
+DOCTOR X460
+Are you taking all your medicines?
+
+PATIENT X460
+Yeah.
+
+DOCTOR X460
+Okay and you saw DOCTOR back in October?
+
+PATIENT X460
+Right yeah.
+
+DOCTOR X460
+And uh at that time are you still having any of that leg pain or, you were having some leg pain there.
+
+PATIENT X460
+Uh yeah when I walk.  You know I had a CAT scan back here about two or three months ago but I never did hear from them.  My bone scan it was, bone scan.
+
+DOCTOR X460
+Oh bone scan yeah.  
+
+PATIENT X460
+Yeah.
+
+DOCTOR X460
+He said that um uh it your, it showed some your left hip.
+
+PATIENT X460
+Right yeah.
+
+DOCTOR X460
+Flared up a little bit.
+
+PATIENT X460
+Yeah right.
+
+DOCTOR X460
+That could be from arthritis but you also have prostate cancer.
+
+PATIENT X460
+Yeah @@@.
+
+DOCTOR X460
+We just need to make sure that it's not um and then you got the CT scan.
+
+PATIENT X460
+Uh-huh.  No this was so I just had the.
+
+DOCTOR X460
+Oh you just got the bone scan.
+
+PATIENT X460
+Bone scan yeah.
+
+DOCTOR X460
+Yeah so we need to get a x-ray and a CT scan of that hip.  Is that hip still hurting you real bad?
+
+PATIENT X460
+Sometime it do and then sometime it don't.
+
+DOCTOR X460
+Is it better than October or worse?
+
+PATIENT X460
+See it only hurt when I walk but don't hurt when I'm just sitting or.
+
+DOCTOR X460
+It only hurts when you walk.
+
+PATIENT X460
+When I walk yeah.
+
+DOCTOR X460
+Oh okay.
+
+PATIENT X460
+Uh-huh.
+
+DOCTOR X460
+Okay.  And that bone scan was let's see October okay.
+
+PATIENT X460
+Hmm.
+
+DOCTOR X460
+Okay uh any changes in your urinary frequency?
+
+PATIENT X460
+No about the same.
+
+DOCTOR X460
+Any diarrhea, constipation or anything?
+
+PATIENT X460
+No nothing.
+
+DOCTOR X460
+Chest pain, shortness of breath?
+
+PATIENT X460
+No. Oh I have shortness of breath.  I had that real bad.  You know back here last month I had it so bad I couldn't hardly walk through the house when I had.  It stayed like that for about two or three weeks but I realized I think I had a little cold.  It was like partially blocking my.
+
+DOCTOR X460
+Oh.
+
+PATIENT X460
+@@@.  It lasted for about almost a month.
+
+DOCTOR X460
+Okay.
+
+PATIENT X460
+I couldn't hardly catch my breath.
+
+DOCTOR X460
+But is that, that's all gone now?
+
+PATIENT X460
+Yeah so I got a lots better.  Sometime I say it's hard to breathe all the time.
+
+DOCTOR X460
+Okay.  Are you smoking?
+
+PATIENT X460
+No I used to but I quit about 20.
+
+DOCTOR X460
+You have COPD.
+
+PATIENT X460
+20 years ago.
+
+DOCTOR X460
+Do you take any inhalers?
+
+PATIENT X460
+Yeah I got four of those.
+
+DOCTOR X460
+And those help?
+
+PATIENT X460
+Yeah, yeah.  Oh if I didn't have those I don't know I would make it.
+
+DOCTOR X460
+Okay.  Okay.  And uh you have all the same medications that you were on last time?
+
+PATIENT X460
+Right yes.
+
+DOCTOR X460
+Do you have refills on all of them?
+
+PATIENT X460
+Well no I had a @@@ in this bag but I'm running a little low on everything so.
+
+DOCTOR X460
+So these are all of them?
+
+PATIENT X460
+Yeah and you know they told me last time I was here they was gonna stop the Coumadin or something they said.  The pharmacist was telling me.
+
+DOCTOR X460
+You're supposed to be on Coumadin?
+
+PATIENT X460
+Yeah I'm on Coumadin but they was talking about stopping it or changing it.
+
+DOCTOR X460
+Let me see.
+
+PATIENT X460
+Changing it or something she said.
+
+DOCTOR X460
+Oh you always take Coumadin.
+
+PATIENT X460
+Right yeah.
+
+DOCTOR X460
+Okay.
+
+PATIENT X460
+I was supposed to see the dietician today too to get the medicine.
+
+DOCTOR X460
+Oh you're gonna see the pharmacist today.
+
+PATIENT X460
+The pharmacist.
+
+DOCTOR X460
+Yeah okay.  They'll take care of that.
+
+PATIENT X460
+Uh-huh.
+
+DOCTOR X460
+Okay.  And let's take a look at your labs.  You had them all done oh just recently let's see.  Okay.  Your vitamin D is 49 so that's good.  You took the vitamin D.  Are you still taking it?
+
+PATIENT X460
+That's the uh.
+
+DOCTOR X460
+Ergocalciferol once a week.
+
+PATIENT X460
+No.  Once a week.
+
+DOCTOR X460
+You don't take it anymore?
+
+PATIENT X460
+No.  That must have been something temporary I was taking or something yeah.
+
+DOCTOR X460
+Okay.  Let's see.  And you have a fistula of your left arm in case you need that option.
+
+PATIENT X460
+Yeah you know when they put that in, see that scar.
+
+DOCTOR X460
+Uh-huh.
+
+PATIENT X460
+It was under that scar but it healed fine and crossway on my arm like that.  That might a affected @@@.
+
+DOCTOR X460
+Uh well, you know if they ever have to use it they'll have to do a test to make sure it works.
+
+PATIENT X460
+Yeah that's what they say, when it come, moved out of position @@@.
+
+DOCTOR X460
+Yeah so the kidney doctors don't think there's anything acutely that we need to do about it.
+
+PATIENT X460
+Uh-huh, yeah.
+
+DOCTOR X460
+So.  Okay and have you been checking your blood sugars at home?
+
+PATIENT X460
+Yeah.
+
+DOCTOR X460
+What have they been?
+
+PATIENT X460
+I got uh, they've been, it's been you know like up and down.  I brought the thing with me I think.  I'll see if I bring it.  Yeah here it is though.
+
+DOCTOR X460
+Do you know what the last ready uh.
+
+PATIENT X460
+Let's see here.  Uh this morning it was 132, yesterday 157, the day before was 147, 121.
+
+DOCTOR X460
+Okay.
+
+PATIENT X460
+152.
+
+DOCTOR X460
+Okay.  So they've been in the hundreds.
+
+PATIENT X460
+Yeah a little over a hundred.  One time it dropped down to 50.
+
+DOCTOR X460
+Oh, sometimes it can happen.
+
+PATIENT X460
+It went right back up, it didn't last long.
+
+DOCTOR X460
+Okay good.
+
+PATIENT X460
+A couple hours it was back up.
+
+DOCTOR X460
+Okay.  Okay I'm just looking at a few more things.  Okay.  Your blood pressure's a little high today.
+
+PATIENT X460
+Yeah.
+
+DOCTOR X460
+Higher than we want it.
+
+PATIENT X460
+Uh-huh.
+
+DOCTOR X460
+Um.  We might have to go up on one of your meds.
+
+PATIENT X460
+Uh-huh.
+
+DOCTOR X460
+And as far as the uh prostate, those people are saying oh just continue the meds okay.
+
+PATIENT X460
+Uh-huh.  You know I had that, I took those shots for about two years and then they said the PSA went so low and so they took me off of it and I haven't had a shot now in about two years.
+
+DOCTOR X460
+Oh okay.  Good, good.
+
+PATIENT X460
+Yeah.
+
+DOCTOR X460
+And you take your iron?
+
+PATIENT X460
+Yeah, uh-huh.
+
+DOCTOR X460
+Let's see.  And your iron was checked in May.  Did you have your labs drawn back in October?
+
+PATIENT X460
+Hmm October, I pretty sure I did.  You mean for the prostate?
+
+DOCTOR X460
+Uh okay, no I think they were okay.  And you take the calcitriol?  For your calcium?
+
+PATIENT X460
+Yeah right, yeah.
+
+DOCTOR X460
+Okay.  I'll be back in a minute okay.  
+
+PATIENT X460
+Okay.
+
+DOCTOR X460
+I think we may have to increase on your blood pressure meds.
+
+PATIENT X460
+Uh-huh.
+
+DOCTOR X460
+Um and uh we'll go from there okay.
+
+PATIENT X460
+Okay.
+
+DOCTOR X460
+I'll be back in a second.
+
+PATIENT X460
+Okay, yeah.
+
+(DOCTOR OUT:  40:02  DOCTOR IN:  54:36)
+
+DOCTOR X460
+Sorry to keep you waiting.
+
+PATIENT X460
+Yeah @@@.
+
+DOCTOR X460
+Okay so everything's fine.  So we just, do you have time to go to Radiology after this?
+
+PATIENT X460
+Yeah, what is, that's your decision.
+
+DOCTOR X460
+X-ray that last test okay.
+
+PATIENT X460
+I suppose to see the pharmacist, what time is it?
+
+DOCTOR X460
+Uh you could go after the pharmacist.
+
+PATIENT X460
+Uh-huh.
+
+DOCTOR X460
+Uh and we need to get a CT scan of your hip.
+
+PATIENT X460
+Yeah.
+
+DOCTOR X460
+Okay.
+
+PATIENT X460
+Yeah.
+
+DOCTOR X460
+So um.  So can you go for the CT after your pharmacist appointment?
+
+PATIENT X460
+Yeah.
+
+DOCTOR X460
+Okay I'm going to order it stat then.  So it's in the computer okay, you just have to go there.
+
+PATIENT X460
+Uh-huh.
+
+DOCTOR X460
+I'm gonna write all the things here.
+
+PATIENT X460
+What floor is that on then?
+
+DOCTOR X460
+It's right across the hall on this floor.
+
+PATIENT X460
+Oh okay.
+
+DOCTOR X460
+And then you can uh come back.  So the CT scan.  You're gonna come back and see DOCTOR in a month okay.
+
+PATIENT X460
+Okay yeah.
+
+DOCTOR X460
+Do you want all your medicines mailed to you?
+
+PATIENT X460
+Yeah.
+
+DOCTOR X460
+Okay I'll take care of all those okay.
+
+PATIENT X460
+Okay.
+
+DOCTOR X460
+And um uh I'm gonna send you to the pharmacist for a blood pressure check in two weeks okay.
+
+PATIENT X460
+Okay.
+
+DOCTOR X460
+It was high today but I want to just make sure that it's high again before I change your meds.
+
+PATIENT X460
+Okay.
+
+DOCTOR X460
+Do you have a blood pressure cuff at home?
+
+PATIENT X460
+Yeah.
+
+DOCTOR X460
+Do you use it?
+
+PATIENT X460
+Yeah.
+
+DOCTOR X460
+What are your blood pressures at home?
+
+PATIENT X460
+Uh it's been ranging something like it was today almost like.  Be like 160s or 70s over 40s and 50s like that.  It's been a little bit high for the last month or so yeah.
+
+DOCTOR X460
+Yeah.  Okay.
+
+PATIENT X460
+Uh-huh.
+
+DOCTOR X460
+Okay.  Alright um so I'm gonna put in.  So when you stop by the clerk on your way out and tell them you need to um come back in a month and see DOCTOR.
+
+PATIENT X460
+Hmm.
+
+DOCTOR X460
+And then you'll come back, you'll get something in the mail to remind you to come back in three months for your regular appointment.
+
+PATIENT X460
+Uh-huh.
+
+DOCTOR X460
+This is going to be just to follow up the CT scan okay.
+
+PATIENT X460
+Yeah.
+
+DOCTOR X460
+And then come back and see the pharmacist in a couple weeks to recheck your blood pressure.
+
+PATIENT X460
+Uh-huh.
+
+DOCTOR X460
+Okay.
+
+PATIENT X460
+Yeah uh-huh.
+
+DOCTOR X460
+Okay.
+
+PATIENT X460
+Okay.
+
+DOCTOR X460
+And then make sure after your appointment today you go over and get that CT scan done of your hip.
+
+PATIENT X460
+Okay, yeah.
+
+DOCTOR X460
+The left hip right?
+
+PATIENT X460
+The left right yeah.
+
+DOCTOR X460
+Yeah okay.
+
+PATIENT X460
+So it's already in the computer now?
+
+DOCTOR X460
+Already in the computer you just have to go over there.
+
+PATIENT X460
+Okay, alright.  Alright.  @@@.
+
+DOCTOR X460
+Okay sir take care.
+
+PATIENT X460
+Take care.
+
+PATIENT LEAVES:  59:51
+
+
+
+
+

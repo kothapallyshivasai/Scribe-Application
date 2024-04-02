@@ -1,0 +1,976 @@
+
+DOCTOR X263
+@@@.
+
+PATIENT X263
+Yes I know.
+
+DOCTOR X263
+How have you been? 
+
+PATIENT X263
+When I take the medications I'm fine.  The reason why I cancelled the last time was.
+
+DOCTOR X263
+Do you have your medicine list?
+
+PATIENT X263
+Yes.  When I cancelled the last appointment was because I had uh my diet was a little bit, left a lot to be desired and uh.
+
+DOCTOR X263
+You had diarrhea?
+
+PATIENT X263
+Well it was a five roll toilet paper day.
+
+DOCTOR X263
+Hmm.
+
+PATIENT X263
+Um since we had not seen each other once before, when I called to reschedule the appointment I said I have not seen this doctor before, schedule me with anybody.
+
+DOCTOR X263
+Okay.
+
+PATIENT X263
+Because since I've been here, I think I've seen four.
+
+DOCTOR X263
+Different doctors?
+
+PATIENT X263
+Absolutely.
+
+DOCTOR X263
+Oh my gosh, oh my gosh.
+
+PATIENT X263
+So now you're the fifth.
+
+DOCTOR X263
+Well you gave us.
+
+PATIENT X263
+So I said please, give me somebody.  I don't wait da da da and obviously that didn't seem to mean a hill of beans.  I've also been waiting here about three hours so I am not really a happy camper.
+
+DOCTOR X263
+Three hours?
+
+PATIENT X263
+I understood that, I understood that you started at 1 o'clock.
+
+DOCTOR X263
+Yeah.
+
+PATIENT X263
+I hear you, I didn't know but I just figured if I get here early.
+
+DOCTOR X263
+Oh no.
+
+PATIENT X263
+Yeah right, well that is never gonna happen again.
+
+DOCTOR X263
+Unfortunately yes, unfortunately because everyone has like their time slot.
+
+PATIENT X263
+Yeah, well it isn't gonna happen again.
+
+DOCTOR X263
+Okay.  Alright let's go over the medicines that you're taking so I know what you're on.  You're still on the Combivent inhalant right?
+
+PATIENT X263
+I'm on everything.
+
+DOCTOR X263
+Okay.
+
+PATIENT X263
+I take it religiously.
+
+DOCTOR X263
+That's good.
+
+PATIENT X263
+If I take something a little bit lightly or lighter it's the inhalers and the reason then is because they open me up but unfortunately being a smoker I'm just going to have to sit for probably 15-20 minutes so I don't think it opens me up.
+
+DOCTOR X263
+Are you still smoking?
+
+PATIENT X263
+Unfortunately.
+
+DOCTOR X263
+How many packs?
+
+PATIENT X263
+One.
+
+DOCTOR X263
+A day?
+
+PATIENT X263
+Yes.
+
+DOCTOR X263
+Trying to cut back?
+
+PATIENT X263
+I've given up on that one.  I've failed.
+
+DOCTOR X263
+How many times have you tried?
+
+PATIENT X263
+204 times.
+
+DOCTOR X263
+Okay, so it's never too late right?
+
+PATIENT X263
+I don't lie to myself.
+
+DOCTOR X263
+Have you tried like any smoking cessation programs?
+
+PATIENT X263
+I think I did in the past once.
+
+DOCTOR X263
+Uh-huh.
+
+PATIENT X263
+I failed.  I tried twice hard core.
+
+DOCTOR X263
+What if you try to cut back slowly to like half a pack a day?
+
+PATIENT X263
+Yeah.
+
+DOCTOR X263
+Do you think you might be open to try that?
+
+PATIENT X263
+I don't lie to myself.
+
+DOCTOR X263
+You don't want to try but you do know your lungs could get worse right?
+
+PATIENT X263
+Of course.
+
+DOCTOR X263
+Okay.  We want to make sure.  Any shortness of breath though?
+
+PATIENT X263
+Of course.
+
+DOCTOR X263
+When do you usually get that?  When you're sitting down, not doing anything, when you're walking on an incline?
+
+PATIENT X263
+No.  Yeah I got to walk upstairs or I'm gonna you know if I exert myself I just know that it's not a great idea and uh doesn't help your lungs.
+
+DOCTOR X263
+Uh-huh.  Do you feel like you're using the albuterol more than usual?
+
+PATIENT X263
+No.
+
+DOCTOR X263
+Okay.  How often are you using albuterol?
+
+PATIENT X263
+When necessary.
+
+DOCTOR X263
+How many times a week?
+
+PATIENT X263
+Once or twice.
+
+DOCTOR X263
+Okay.  Do you drink?
+
+PATIENT X263
+I should but I don't.
+
+DOCTOR X263
+I'm glad you don't.  How long have you been smoking though?
+
+PATIENT X263
+Since I've been in the Marines.
+
+DOCTOR X263
+Hmm.  Do you live alone?
+
+PATIENT X263
+Yes.
+
+DOCTOR X263
+Family around in the xxx area?
+
+PATIENT X263
+Yes.
+
+DOCTOR X263
+Do you have children?
+
+PATIENT X263
+Yes.
+
+DOCTOR X263
+Pretty supportive or do you see them?
+
+PATIENT X263
+I am supportive for them, yes for him.
+
+DOCTOR X263
+Okay.  Okay.  Alright let me look at the labs you had done and then we can go from there.  Blood pressure is on the high side today.
+
+PATIENT X263
+Yes because I was aggravated.
+
+DOCTOR X263
+Do you check your blood pressure at home?  Okay.  Do you check your blood pressure at home?
+
+PATIENT X263
+I like the VA.  I'm a happy camper with the VA.
+
+DOCTOR X263
+Do you even know what time your appointment was?
+
+PATIENT X263
+This place has always been class act to me, I enjoy it.
+
+DOCTOR X263
+Okay.
+
+PATIENT X263
+The economics are outstanding.  But if I had to come here and pay, I kicked this place off in a heartbeat.
+
+DOCTOR X263
+It's not a bad place, you know that right?
+
+PATIENT X263
+Have a peek, move on.
+
+DOCTOR X263
+Okay.  Let me look at your labs and then we'll go from there.  So the labs you had done last year were not that bad.  Your cholesterol was a bit on the high side.
+
+PATIENT X263
+So they gave me this whatever it is and I take a half a pill a day.
+
+DOCTOR X263
+Okay, looks good.
+
+PATIENT X263
+Until I run out.
+
+DOCTOR X263
+I can refill your medicines, it's not a problem.  Have you ever had.
+
+PATIENT X263
+When I was here, well I guess it was two weeks ago.
+
+DOCTOR X263
+Uh-huh.
+
+PATIENT X263
+I came through and filled everything for them.
+
+DOCTOR X263
+Okay.  Have you ever had a colonoscopy?
+
+PATIENT X263
+Colonoscopy.
+
+DOCTOR X263
+Uh-huh.
+
+PATIENT X263
+Tell me what it is.
+
+DOCTOR X263
+You lay down, they give you like a bowel prep so you are having diarrhea constantly for like a day.
+
+PATIENT X263
+Is that something where they stick something in here?
+
+DOCTOR X263
+Through the rectum.
+
+PATIENT X263
+Never ever.
+
+DOCTOR X263
+You've never had it?
+
+PATIENT X263
+No nor am I going to.
+
+DOCTOR X263
+Why is that?
+
+PATIENT X263
+It just isn't gonna happen.
+
+DOCTOR X263
+Usually the reason why we recommend that.
+
+PATIENT X263
+Don't care.
+
+DOCTOR X263
+Let me explain first.
+
+PATIENT X263
+No.  No.  I don't want anything stuck in my rectum.
+
+DOCTOR X263
+Well you're aware of preventing colon cancer @@@ right?
+
+PATIENT X263
+It isn't gonna happen.
+
+DOCTOR X263
+You have increased risks.
+
+PATIENT X263
+It isn't going to happen.
+
+DOCTOR X263
+Any history.
+
+PATIENT X263
+It has been brought up before.
+
+DOCTOR X263
+Okay.
+
+PATIENT X263
+It isn't gonna happen.
+
+DOCTOR X263
+Any history of like cancers in your family?  No?
+
+PATIENT X263
+Not that I'm aware of.
+
+DOCTOR X263
+Okay.  So another screening that we do, because you're a smoker and you're age 65 is to screen for your large artery which is your aorta is enlarged.
+
+PATIENT X263
+I know.  What's the medicine that I take?
+
+DOCTOR X263
+Uh-huh.
+
+PATIENT X263
+Uh the baby aspirin and I do.
+
+DOCTOR X263
+You do take the baby aspirin but at age 65, between age 65 and 75, we do have to do an ultrasound of the aorta to make sure the size is not enlarged.  Is that something you'd be interested in?  What do you think?
+
+PATIENT X263
+Uh when I was in the hospital I think five or six years ago, some kind of clogged blah, blah, blah and they did all that stuff.  They looked at the heart.
+
+DOCTOR X263
+So that was probably an ultrasound of the heart.  This one is an ultrasound of like the large vessels, also of the heart, mainly like an abdominal ultrasound looking for that.
+
+PATIENT X263
+Oh I know they showed me a picture, you know I was looking at it.
+
+DOCTOR X263
+Uh-huh.
+
+PATIENT X263
+Do you think it is necessary at this point in time?
+
+DOCTOR X263
+We could talk about it the next time I see you.
+
+PATIENT X263
+Fine.
+
+DOCTOR X263
+Sounds good.  Okay.  So today you ate already.  When do you think you have time to come back so maybe we can recheck the cholesterol?
+
+PATIENT X263
+How is it that you're gonna recheck it?  Is it a blood thing?
+
+DOCTOR X263
+Yeah.  But you would have to not eat.  I'm sure you did already today right?
+
+PATIENT X263
+Well uh when did uh.
+
+DOCTOR X263
+So you will have to wait.
+
+PATIENT X263
+No, no, no, no.  I think I had a plan.
+
+DOCTOR X263
+Huh?
+
+PATIENT X263
+I think I have a plan that you'll agree with.
+
+DOCTOR X263
+Which is?
+
+PATIENT X263
+Uh what is your scheduled on the 7th of June?
+
+DOCTOR X263
+Well I don't need to see you.  You can just go down to the lab and get it done.  Yeah and then I follow up on it.
+
+PATIENT X263
+Then I'm for that.
+
+DOCTOR X263
+Huh?
+
+PATIENT X263
+Tell me what they're gonna do.
+
+DOCTOR X263
+It's just a blood draw.
+
+PATIENT X263
+Oh they're gonna take blood.
+
+DOCTOR X263
+And usually its better that you get that in the morning so the night before you won't eat, you would stop eating as of like 6:00 p.m. and then you get it done and then I'll follow up on it.  Now let me see.
+
+PATIENT X263
+One of the things they do good here.
+
+DOCTOR X263
+Which is?
+
+PATIENT X263
+Takes blood boom, don't anticipate.
+
+DOCTOR X263
+Okay.  So your blood pressure has been on the higher side.  I'll recheck it again today but it's something you need to keep a close eye on.
+
+PATIENT X263
+I'd like you to check that.
+
+DOCTOR X263
+I'll recheck it myself.
+
+PATIENT X263
+Oh.
+
+DOCTOR X263
+Last year it was still up in the 140s, which around what it is right now.  Were you not really too happy the day last year when you had it done.  Do you remember?
+
+PATIENT X263
+No.
+
+DOCTOR X263
+Maybe that was the problem.
+
+PATIENT X263
+No there was no problem.
+
+DOCTOR X263
+Okay.  So we'll keep an eye on that.
+
+PATIENT X263
+It's higher today.
+
+DOCTOR X263
+Huh?
+
+PATIENT X263
+It was higher today.
+
+DOCTOR X263
+Uh-huh.  So you would like to come back in June to get that done, do the cholesterol?
+
+PATIENT X263
+Yeah.  It's not a big thing.
+
+DOCTOR X263
+It's up to you.  Okay.
+
+PATIENT X263
+Uh make it on the 7th.
+
+DOCTOR X263
+Of June right?
+
+PATIENT X263
+Yeah.  I will live.  
+
+DOCTOR X263
+Really far?
+
+PATIENT X263
+60 miles one way.
+
+DOCTOR X263
+Oh gosh.  That's really far.
+
+PATIENT X263
+So I cruise.
+
+DOCTOR X263
+Do you have any other appointments during that time?
+
+PATIENT X263
+Yes.
+
+DOCTOR X263
+Okay you have an appointment on June 7th okay perfect.  Perfect, I didn't know that.  Okay, have a seat up here.
+
+PATIENT X263
+June 7th is a Tuesday and that's right.  So if you can set that thing up before I get, of course it doesn't take that long.  Like at 1 o'clock.
+
+DOCTOR X263
+Yeah you can get it done whenever.  It doesn't matter.
+
+PATIENT X263
+All you do is schedule it, schedule the day.
+
+DOCTOR X263
+Uh-huh.
+
+PATIENT X263
+Fine.
+
+DOCTOR X263
+And you can come at whatever time you choose.
+
+PATIENT X263
+Okay thank you.
+
+DOCTOR X263
+You can have a seat up here.  So we'll check your cholesterol and get all that blood work done.  Any problems peeing, losing urine on yourself, not feeling like you've properly completely emptied your bladder?
+
+PATIENT X263
+No the only time I had was the last time I had to cancel the appointment and it was probably because I wasn't eating right or whatever.  So I backed off the medications, did a lot of water, cleared the system out.
+
+DOCTOR X263
+Hmm.
+
+PATIENT X263
+Probably about three days later got back on the medications, started eating properly and everything has been fine since.
+
+DOCTOR X263
+Uh-huh.  Chest pain, shortness of breath, feeling like your heart is pounding, beating really fast?  Just hold still for me if you can.
+
+PATIENT X263
+Okay.  In theory, let's see.
+
+DOCTOR X263
+Yeah.
+
+PATIENT X263
+Probably going to be 147 over.
+
+DOCTOR X263
+Because you're worked up.  I'm working you up.
+
+PATIENT X263
+No I'm working on coming down.
+
+DOCTOR X263
+(Laughter).
+
+PATIENT X263
+147 over whatever it is 80s or something or less than that, 90 or something.  Am I close?
+
+DOCTOR X263
+You're close.  I got 148 over about 100.  
+
+PATIENT X263
+You know I don't have a clue what that means.
+
+DOCTOR X263
+Any leg swelling at all?
+
+PATIENT X263
+I'm sorry, say it again?
+
+DOCTOR X263
+And any leg swelling?
+
+PATIENT X263
+No.
+
+DOCTOR X263
+Okay.  And no chest pain either right?
+
+PATIENT X263
+Thank goodness.
+
+DOCTOR X263
+And you know your smoking could do that.
+
+PATIENT X263
+That's better now.
+
+DOCTOR X263
+Any problems with your vision?
+
+PATIENT X263
+Uh well it's not 20/20.
+
+DOCTOR X263
+Do you wear glasses or contacts?
+
+PATIENT X263
+No.
+
+DOCTOR X263
+Do you feel like your vision is gradually worsening?
+
+PATIENT X263
+Manageable, manageable.
+
+DOCTOR X263
+Do you wear reading glasses?
+
+PATIENT X263
+It's gradually you know worsening.
+
+DOCTOR X263
+Do you want to see the Eye Clinic here?
+
+PATIENT X263
+No.
+
+DOCTOR X263
+Why?
+
+PATIENT X263
+I don't look for problems.
+
+DOCTOR X263
+You just don't want to know if there's something going on.
+
+PATIENT X263
+That is correct.  You know I don't want any invasive surgeries, anybody sticking anything you know.  It's just that they've taken blood here and they do it.
+
+DOCTOR X263
+So let me ask you this, let's say you never have a colonoscopy, you come in maybe 5-10 years from now very constipated, very bloated, having weight loss and we say hmm we think it may be maybe colon cancer or something like that.
+
+PATIENT X263
+I would tell you to do what they did when I was in Vietnam.
+
+DOCTOR X263
+Which is what?
+
+PATIENT X263
+Take this @@@ and eat a lot of peanut butter.
+
+DOCTOR X263
+That may not help.
+
+PATIENT X263
+If I'm alive in five to ten years from now I'm gonna be a happy camper.
+
+DOCTOR X263
+With cancer?
+
+PATIENT X263
+I'll be a happy camper.  If I make it another five, ten years, I'm gonna be a happy camper.
+
+DOCTOR X263
+So let's say at that stage you can't eat anything, you can't keep anything down because there's cancer in the colon backing things up and we can't really feed you right?
+
+PATIENT X263
+Sounds like @@@.  It happens @@@.
+
+DOCTOR X263
+At that point, let me ask you would you decide on having part of your colon taken out?
+
+PATIENT X263
+No invasive surgery.
+
+DOCTOR X263
+Nothing.  Nothing.
+
+PATIENT X263
+I have all the parts that I'm gonna need that can last me.
+
+DOCTOR X263
+Okay.
+
+PATIENT X263
+They've taken a few parts out.
+
+DOCTOR X263
+What parts did they take out?
+
+PATIENT X263
+Who?
+
+DOCTOR X263
+@@@.
+
+PATIENT X263
+@@@.
+
+DOCTOR X263
+No heart surgeries ever?
+
+PATIENT X263
+No I've been very fortunate.
+
+DOCTOR X263
+That's good.
+
+PATIENT X263
+I know they cleaned my lungs out one time.
+
+DOCTOR X263
+Why?
+
+PATIENT X263
+Cause they were all clogged up.
+
+DOCTOR X263
+Okay.  Okay.  @@@.
+
+PATIENT X263
+You know where they stick the hose down you and clear everything out.
+
+DOCTOR X263
+Yeah.  Alright.  I'll just have you sit up here.  Alright a deep breath for me.  Everything seems to be cleaned out.  When was the last time they had an x-ray.  Do you want me to give you over-the-counter Debrox, it's more like a drop you put in your ears.
+
+PATIENT X263
+Yes.
+
+DOCTOR X263
+Okay.  Open your mouth; stick out your tongue ah.  @@@ in and out.  Around your cheeks.
+
+PATIENT X263
+This side?
+
+DOCTOR X263
+Yeah.
+
+PATIENT X263
+Cause they pulled three teeth probably three weeks ago.
+
+DOCTOR X263
+Okay.
+
+PATIENT X263
+So.
+
+DOCTOR X263
+They pulled them here?
+
+PATIENT X263
+No, I don't have dental
+
+DOCTOR X263
+I thought you did.
+
+PATIENT X263
+Yeah well its habit, I don't fall apart.
+
+DOCTOR X263
+Oh.  This is cold.
+
+PATIENT X263
+Warm heart.
+
+DOCTOR X263
+What's this over here?
+
+PATIENT X263
+Uh well I've been told it's supposedly a piece of fat.
+
+DOCTOR X263
+Yeah.  Is it bothering you at all?
+
+PATIENT X263
+Uh cosmetically but I can't see back there so I don't worry about it.
+
+DOCTOR X263
+Okay.  I was going to offer something @@@ but I guess not.
+
+PATIENT X263
+There's a way to do it without cutting it?
+
+DOCTOR X263
+Yeah.
+
+PATIENT X263
+You have to cut it?
+
+DOCTOR X263
+Yes.  Alright lay on your back for me.  We'd have to cut it.  
+
+PATIENT X263
+You're killing me.
+
+DOCTOR X263
+Uh-huh, so without pain.  Just go ahead and sit up for me.  Have a seat right here.
+
+PATIENT X263
+Right where?
+
+DOCTOR X263
+Have a seat.  Alright so the main concern is the blood pressure.  We could do a couple of things.  Hold off on starting you on anything, have you follow up with the Pharmacy.
+
+PATIENT X263
+Seriously monitoring the blood pressure.
+
+DOCTOR X263
+Right.
+
+PATIENT X263
+In my coffee this morning late.
+
+DOCTOR X263
+Uh-huh.
+
+PATIENT X263
+I did have a double shot of Espresso.
+
+DOCTOR X263
+Uh-huh.  They can send you a blood pressure cuff to your house and you can do that.
+
+PATIENT X263
+I'm just wondering if that was the reason why the blood pressure was high.
+
+DOCTOR X263
+It may or may not be but smoking can do it too.  They can send you a blood pressure cuff, you can keep a log of, maybe checking it a couple times a week, I'll hold up on starting you on something right now.  I'll have you see the pharmacist, the registered pharmacist on June 7th and they can get an appointment, to see what the blood pressure has been.  If it's still high then we'll have to start you on something.
+
+PATIENT X263
+I'm started on everything.
+
+DOCTOR X263
+Not blood pressure medicine.  Okay.  So I just wanted to let you know about that.
+
+PATIENT X263
+You mean none of those things?
+
+DOCTOR X263
+No, it's none of them. 
+
+PATIENT X263
+I thought at least one or two of those things were supposed to.
+
+DOCTOR X263
+No.
+
+PATIENT X263
+Just no.  @@@.
+
+DOCTOR X263
+There is medicine for anxiety, there's one for the inhaler and then the cholesterol and that's it.  Let me order these things and then you should be done.  So you said June 7th is the date.
+
+PATIENT X263
+Yes.  Correct, correct.
+
+DOCTOR X263
+June 7th.  I'm going to order you a blood pressure cuff right now, okay.
+
+PATIENT X263
+What is this?
+
+DOCTOR X263
+Huh?
+
+PATIENT X263
+What is it?
+
+DOCTOR X263
+What is a blood pressure cuff?  What do you mean what it is?
+
+PATIENT X263
+Yes, yes, yes.
+
+DOCTOR X263
+Oh it's similar to that but its manual.  It's automatic so you can at least keep a log of your blood pressure to try to decide on what to do.
+
+PATIENT X263
+Don’t send it.
+
+DOCTOR X263
+Okay.  Do you want to see; do you want to have like a nurse visit on the 7th when you come, have one of the nurses up here check your blood pressure?
+
+PATIENT X263
+They can't do it while they're taking blood, don't they?
+
+DOCTOR X263
+Yeah I mean they can't do it in the lab downstairs.
+
+PATIENT X263
+Oh.
+
+DOCTOR X263
+Here @@@?
+
+PATIENT X263
+Yeah that's fine, fine.  So I need to check my blood pressure every third day or every fifth day?
+
+DOCTOR X263
+No maybe once a week.
+
+PATIENT X263
+Once a week, just what I need, I'll get more nervous.
+
+DOCTOR X263
+@@@ June 7th, let me see.  Okay.  Now give me a couple minutes okay.
+
+(DOCTOR OUT:  179:10  DOCTOR IN:  185:04)
+DOCTOR X263
+Alright we're all set.  So you'll come in on June 7th to get your labs done on June 7th and then we'll go from there.  And you need to work on the smoking and keep it in the back of your mind if it's still high we'll have to start something if you want.  Okay?
+ 
+PATIENT X263
+I really tried that hard course once.
+
+DOCTOR X263
+What?
+
+PATIENT X263
+@@@.
+
+DOCTOR X263
+Well let's see when you come back.  @@@.
+
+PATIENT X263
+Why don't you just @@@ order for the patches?
+
+DOCTOR X263
+It's a start.  But starting the patch is good.  Alright I'll see you back in six months, nurse visit.
+
+PATIENT X263
+I give that to them?
+
+DOCTOR X263
+Yeah it's all yours.  Okay.
+
+PATIENT X263
+Hey thank you.
+
+DOCTOR X263
+Thank you.
+
+PATIENT X263
+You're very thorough.
+
+DOCTOR X263
+Thank you.
+
+PATIENT X263
+Check out.
+
+PATIENT LEAVES:  186:10
+
+
+
+

@@ -1,0 +1,1304 @@
+
+DOCTOR X481
+PATIENT.
+
+PATIENT X481
+How are you today?  @@@.  It takes me a little while, it's my hip.
+
+DOCTOR X481
+Oh that's okay.
+
+PATIENT X481
+My hip is.  How are you today?
+
+DOCTOR X481
+Good how are you?  Fair enough.  @@@.
+
+PATIENT X481
+Sure. 
+
+DOCTOR X481
+How are you doing?
+
+PATIENT X481
+Oh pretty good I think.
+
+SECOND PERSON X481
+How are you today?
+
+DOCTOR X481
+Uh I'm actually doing pretty good myself.  Getting kind of tired but.
+
+SECOND PERSON X481
+Yeah.
+
+PATIENT X481
+I think I'm pretty good cause I'm still breathing.
+
+DOCTOR X481
+I saw you saw the Hematology doctors.
+
+PATIENT X481
+The what?
+
+DOCTOR X481
+The doctors about your blood.
+
+PATIENT X481
+Yeah I saw them.  I just had the blood drawn today.
+
+DOCTOR X481
+Yeah know let's take a look at that.
+
+PATIENT X481
+Yeah I just had it.
+
+DOCTOR X481
+Yeah.
+
+PATIENT X481
+I just had it drawn uh about 12:30.
+
+DOCTOR X481
+About 12:30 so it probably won't come back till a little bit later.  Right and how have your blood sugars been at home?
+
+PATIENT X481
+Blood sugar, it was 137 today, it's been pretty good.
+
+DOCTOR X481
+So you're checking every day?
+
+PATIENT X481
+Yes.
+
+DOCTOR X481
+What time do you check it?
+
+PATIENT X481
+Uh this morning.  You got uh, I wake up late.
+
+DOCTOR X481
+Okay.  I'm just going to be typing as we talk okay.
+
+PATIENT X481
+Okay I wake up late so it varies because I stay up late.  Uh most of the time it'd be around 2 o'clock when I take it.
+
+DOCTOR X481
+Is this after you've eaten something?
+
+PATIENT X481
+Uh only coffee.
+
+DOCTOR X481
+So only after coffee?
+
+PATIENT X481
+Right uh-huh, after I've had my cup of coffee.
+
+DOCTOR X481
+Do you have any low sugars?
+
+PATIENT X481
+No it's never low.
+
+DOCTOR X481
+What's it range from?
+
+PATIENT X481
+It ranges between 100 and sometimes it'll get up around 190.
+
+DOCTOR X481
+Okay that's the highest it goes?
+
+PATIENT X481
+Yeah that's about as high as it goes.
+
+DOCTOR X481
+Okay because you're hemoglobin A1c which is the measure of how controlled your blood sugars are, when we checked it the last time it was a little bit elevated.
+
+PATIENT X481
+Uh-huh.
+
+DOCTOR X481
+So uh I think we're gonna have to probably go up on your medicine.
+
+PATIENT X481
+Again?
+
+DOCTOR X481
+Yeah because well let's see, so I saw you back in February, oh no you know because I think I had seen you back in October.
+
+PATIENT X481
+I seen a letter about the.
+
+DOCTOR X481
+You saw DOCTOR.
+
+PATIENT X481
+I saw DOCTOR then I saw someone else too.
+
+DOCTOR X481
+The blood doctor right?
+
+PATIENT X481
+Right and I saw them yeah.
+
+DOCTOR X481
+Yeah so we had cut back on it but we need to go up on it.
+
+PATIENT X481
+Uh-huh.
+
+DOCTOR X481
+Um back in October.
+
+PATIENT X481
+Yeah.
+
+DOCTOR X481
+And you're on 40 units right?
+
+PATIENT X481
+Right that's the same amount I'm taking now, 40.
+
+DOCTOR X481
+You were supposed to go up to 45.
+
+PATIENT X481
+Uh no.
+
+DOCTOR X481
+Uh-huh.
+
+PATIENT X481
+But okay.
+
+DOCTOR X481
+How do you feel about that?
+
+PATIENT X481
+Well if you think its necessary I mean.
+
+DOCTOR X481
+The only thing is as long as your blood sugars aren't running low.
+
+PATIENT X481
+Uh-huh.
+
+DOCTOR X481
+On either number.
+
+PATIENT X481
+They're never running low.
+
+DOCTOR X481
+Never lower than 100?
+
+PATIENT X481
+The only time is if I miss a meal, then I run low.
+
+DOCTOR X481
+Okay.
+
+PATIENT X481
+But generally they never run low.
+
+DOCTOR X481
+Alright.
+
+PATIENT X481
+Okay.
+
+DOCTOR X481
+So if that's the case then we'll go up a little bit more.
+
+PATIENT X481
+Okay.  I was thinking all along, I probably shouldn't have waited.
+
+DOCTOR X481
+I know.
+
+PATIENT X481
+@@@.
+
+SECOND PERSON X481
+He was just high.
+
+DOCTOR X481
+So you know we want the goal of your A1c below 7.  Yours is @@@.
+
+SECOND PERSON X481
+That's the same as was back then.
+
+PATIENT X481
+I thought, well what was it last time?
+
+DOCTOR X481
+Before it was @@@ 7. something.
+
+PATIENT X481
+It was 7 @@@.
+
+DOCTOR X481
+Yeah.  Now it will happen, it could be that your eating habits have changed but elevated or not @@@ little bit more @@@.
+
+PATIENT X481
+But it could be so if I'm not getting along as well since it's been cold.
+
+DOCTOR X481
+Uh-huh.
+
+PATIENT X481
+And when it's cold my hip is bothering me and I don't move as much as when it's warm.
+
+DOCTOR X481
+So why don't we go up by 5 units.  If you start getting anything below 100.
+
+PATIENT X481
+Uh-huh.
+
+DOCTOR X481
+Then you just cut it down to just say 43 units.
+
+PATIENT X481
+Oh okay.
+
+DOCTOR X481
+Okay.
+
+PATIENT X481
+Right.
+
+DOCTOR X481
+Uh but keep it in the 40s and then if, like I said, if you do it at 45, if you suddenly have lower readings below 100.
+
+PATIENT X481
+Uh-huh.
+
+DOCTOR X481
+Then cut it back down so it would be 43 units.  If you're still getting low readings then cut it down to 40.
+
+PATIENT X481
+Oh okay.
+
+DOCTOR X481
+Okay.
+
+PATIENT X481
+Yeah, I just have to bring it back down if it's low, I get it okay.
+
+DOCTOR X481
+Yeah.
+
+PATIENT X481
+Right, okay.
+
+DOCTOR X481
+And um this.
+
+PATIENT X481
+There's something I need to see, it's one of the things I need you to see.
+
+DOCTOR X481
+Oh okay.
+
+PATIENT X481
+They wanted me to see @@@ doctor.  It's about my vitamin D.
+
+DOCTOR X481
+Oh you're vitamin D levels?
+
+PATIENT X481
+Right.
+
+DOCTOR X481
+Let's see.  Yeah so this is actually pretty low.
+
+PATIENT X481
+Uh-huh.
+
+DOCTOR X481
+And we can actually; we can probably set you up for a supplementation for your vitamin D.
+
+PATIENT X481
+Uh-huh.
+
+DOCTOR X481
+And it's one pill that you'll take every week.
+
+PATIENT X481
+It's once a day?
+
+DOCTOR X481
+It's once a week.
+
+PATIENT X481
+Oh okay.
+
+DOCTOR X481
+And you'll take it for about you know three months.
+
+PATIENT X481
+Uh-huh.
+
+DOCTOR X481
+And then we'll recheck your levels.
+
+PATIENT X481
+Okay.
+
+DOCTOR X481
+Okay, let me see.  Oh this is from last year.
+
+PATIENT X481
+Right.
+
+DOCTOR X481
+Do you take any vitamin D supplements or did they give you anything?
+
+PATIENT X481
+No they didn't give me anything.  They placed me on that, I know the last time I was in, they forgot to give it to me, DOCTOR when I saw DOCTOR and uh but I told him that I was going to go back on it so to get it for me.
+
+DOCTOR X481
+Okay, well yeah last time you didn't get started taking anything so it's probably still low.
+
+PATIENT X481
+Right and tell me what does that vitamin D do?
+
+DOCTOR X481
+Well it actually helps; the higher your vitamin D is the better it is for your bones.
+
+PATIENT X481
+Uh-huh.
+
+DOCTOR X481
+And uh the lower your vitamin D, there is the risk of when you fall of having your bones break.
+
+PATIENT X481
+Right.
+
+DOCTOR X481
+Yeah so.
+
+PATIENT X481
+Oh okay.  Then let's um.
+
+DOCTOR X481
+And how's your breathing been?
+
+PATIENT X481
+Breathing is about the same. 
+
+DOCTOR X481
+About the same.
+
+PATIENT X481
+It's still bad.  I get out of breath easily.
+
+DOCTOR X481
+So you haven't been using the CPAP?
+
+PATIENT X481
+The CPAP, what is that?
+
+DOCTOR X481
+The CPAP do you use that?
+
+PATIENT X481
+If you mean the breathing machine?
+
+DOCTOR X481
+Uh-huh.
+
+PATIENT X481
+I don't have a breathing machine; I have a sleep apnea machine.
+
+DOCTOR X481
+Yeah that's what I meant by it.
+
+PATIENT X481
+Hmm.
+
+DOCTOR X481
+Do you use it?
+
+PATIENT X481
+Hmm sometimes, not like I should.
+
+DOCTOR X481
+How come?
+
+PATIENT X481
+It's uncomfortable, I'm scared of it.
+
+DOCTOR X481
+You could maybe try to get it re-fitted.
+
+PATIENT X481
+Okay.
+
+DOCTOR X481
+So maybe that's why it's, because it's uncomfortable for you.
+
+PATIENT X481
+Hmm, we tried uh you know the stick in your nose.
+
+DOCTOR X481
+Uh-huh.
+
+PATIENT X481
+Tried that and then we tried the mask and it still.
+
+DOCTOR X481
+Still uncomfortable.
+
+PATIENT X481
+Still uncomfortable.  I'm going to, what I'm gonna do is start using it regularly and uh see how if I can get used to it.  If I can just get used to it being on my face.  I'm not used to anything covering my nose and face so I'm gonna try it and see how that works.
+
+DOCTOR X481
+Yeah.
+
+SECOND PERSON X481
+Um, is it true that they had found something new uh that you don't have to use the mask?
+
+DOCTOR X481
+For the CPAP?
+
+SECOND PERSON X481
+Uh for the CPAP treatment.
+
+DOCTOR X481
+No, do you know what um.
+
+SECOND PERSON X481
+Somewhere I saw or heard about it on the TV or something.  It's a medication I think instead of the machine.
+
+DOCTOR X481
+Hmm for sleep apnea, not that I know of.
+
+SECOND PERSON X481
+Well maybe it's not, maybe it's new.
+
+DOCTOR X481
+Because you know the reason why the medication is not @@@.  So I don't know, I don't think there's any medications that actually replace it.  @@@.
+
+PATIENT X481
+Uh-huh.
+
+SECOND PERSON X481
+Well you, it's probably not just kind of pills, sometimes he gets aggravated with me because I wake him up.
+
+DOCTOR X481
+Yeah.  And the other problem is the longer you don't use the CPAP the higher your risk of developing high blood pressure of the arteries of your lungs.
+
+PATIENT X481
+Uh-huh.
+
+DOCTOR X481
+And that can be very dangerous.
+
+PATIENT X481
+Yes.
+
+DOCTOR X481
+Uh and that's why it's really important for you to.
+
+PATIENT X481
+To use that machine.
+
+SECOND PERSON X481
+So what do you mean about high blood pressure from the arteries of your lungs?
+
+DOCTOR X481
+Uh you can, just probably over time and you develop what's called pulmonary hypertension.
+
+SECOND PERSON X481
+Oh.
+
+DOCTOR X481
+And that uh.
+
+PATIENT X481
+What you say, that means what?
+
+DOCTOR X481
+Like how you have high blood pressure of, we give medication for, for your arteries.
+
+PATIENT X481
+Uh-huh @@@.
+
+DOCTOR X481
+No you can actually get that of the blood vessels of your lungs, uh the blood of your heart that kind of leads to your lungs.
+
+PATIENT X481
+Oh okay.
+
+DOCTOR X481
+And um and that's much harder to treat.
+
+PATIENT X481
+Oh okay.
+
+SECOND PERSON X481
+But it is treatable?
+
+DOCTOR X481
+Well not really.
+
+SECOND PERSON X481
+Not successfully?
+
+DOCTOR X481
+Uh sometimes if your blood pressure is so high you can be on home oxygen.
+
+PATIENT X481
+Uh-huh @@@.
+
+SECOND PERSON X481
+What is a really dangerous blood pressure?
+
+DOCTOR X481
+Uh for the lungs?
+
+SECOND PERSON X481
+For anything.
+
+DOCTOR X481
+Well I mean, usually our goal blood pressures for you, when you come in here and we want your blood pressure to be about 130/80.
+
+PATIENT X481
+Hmm.  Well today my blood pressure was 112/73.
+
+DOCTOR X481
+Yeah actually that's good.
+
+PATIENT X481
+So I could take off, stay on my blood pressure medicines?
+
+DOCTOR X481
+Yeah that's actually great; it's good that you should stay there.
+
+PATIENT X481
+Oh okay, alright.  Cause I thought it was too low.
+
+DOCTOR X481
+No it's actually normal.  Less than 120/80 is normal.
+
+PATIENT X481
+Oh is that, okay.
+
+DOCTOR X481
+Yeah so.  Um do you need any refills today?
+
+PATIENT X481
+Yes I do.  I need refills on um uh all of my uh, like the insulin, the insulin uh the syringes I don't have any refills on the syringes and my testing strips.
+
+DOCTOR X481
+Okay.
+
+SECOND PERSON X481
+Nothing else?
+
+PATIENT X481
+Yeah I have a little more and my uh I need a refill on the Cialis.
+
+DOCTOR X481
+Okay.  Anything else?
+
+PATIENT X481
+That's all.  Cause I have refills on the rest of them.  DOCTOR gave me refills on most of them the last time.
+
+SECOND PERSON X481
+Last time you were here?
+
+PATIENT X481
+Yeah.
+
+SECOND PERSON X481
+Okay.
+
+DOCTOR X481
+So do you want to get those, pick them up while you're here?
+
+PATIENT X481
+Uh you can have them mailed to me.
+
+DOCTOR X481
+Mailed to you.
+
+PATIENT X481
+Cause I have enough to last me for a couple of weeks.
+
+DOCTOR X481
+Okay.  Let me have you sit down so we can listen to you.
+
+PATIENT X481
+Do you need me to take my coat off?
+
+DOCTOR X481
+Yes.
+
+PATIENT X481
+Okay.  Oh you know something else, I almost forgot, my um my right leg it keeps swelling up.
+
+DOCTOR X481
+When?
+
+PATIENT X481
+Oh this last week it swelled up, it's about every day.  I don't know if something's cutting off my circulation or what.
+
+DOCTOR X481
+So do you have any pain when you walk?
+
+PATIENT X481
+Yes I do.
+
+DOCTOR X481
+In your legs?
+
+PATIENT X481
+Yes uh, @@@ you know I need a hip replacement and I don't want to do that but the swelling, that shouldn't cause the swelling though right?
+
+DOCTOR X481
+So, do you try putting your feet up?  Have you been on your feet a lot?
+
+PATIENT X481
+Well I'm not on it a whole lot but uh.
+
+DOCTOR X481
+I'm gonna have you um roll up your pants.
+
+PATIENT X481
+See I think uh it's swelled right now.
+
+DOCTOR X481
+So let me see the other one too.  And it kind of swells up then goes down?
+
+PATIENT X481
+It swells up and then it, both of them are swelling now.
+
+SECOND PERSON X481
+But I know your feet have swelled for the last.
+
+PATIENT X481
+Yeah the swelling in my leg.
+
+SECOND PERSON X481
+Your right leg.
+
+PATIENT X481
+Yeah it's mostly the right one.
+
+SECOND PERSON X481
+Uh-huh.
+
+DOCTOR X481
+@@@.
+
+PATIENT X481
+@@@.
+
+DOCTOR X481
+I'll press it.  
+
+SECOND PERSON X481
+You want them both up?
+
+DOCTOR X481
+Yes and do you take a water pill at all?
+
+PATIENT X481
+Yes I take that for my blood pressure.  I think that's what blood.
+
+SECOND PERSON X481
+Yeah it's a water pill for your blood pressure.
+
+PATIENT X481
+She wants the sock off too?
+
+SECOND PERSON X481
+Do you want the sock off?
+
+DOCTOR X481
+Yeah.  @@@.
+
+PATIENT X481
+@@@ socks.
+
+SECOND PERSON X481
+It's swollen.
+
+DOCTOR X481
+And you didn't hurt yourself?
+
+PATIENT X481
+Not that I know of.  They just, I was watching TV.
+
+DOCTOR X481
+And how often do you get this?
+
+PATIENT X481
+Well, looks like all last week it's been swelling.
+
+DOCTOR X481
+And then the swelling goes down?
+
+PATIENT X481
+When I lay down and wake up it goes down.  But when I'm up and moving around it swells up.
+
+DOCTOR X481
+So one of the things that um.
+
+SECOND PERSON X481
+She wants this up.
+
+DOCTOR X481
+Is it right here?
+
+PATIENT X481
+Right in there, where you just had.
+
+DOCTOR X481
+Yeah.  And you didn't hurt yourself right?
+
+PATIENT X481
+No I don't remember.
+
+SECOND PERSON X481
+No.
+
+PATIENT X481
+No I don't feel any real pain in it.
+
+DOCTOR X481
+So why don't you, it this okay when I'm pressing?
+
+PATIENT X481
+It's okay.
+
+DOCTOR X481
+It's okay.
+
+PATIENT X481
+Right.
+
+DOCTOR X481
+Can you move your ankle for me, there's no pain there?
+
+PATIENT X481
+No it's, that's the way it was.
+
+SECOND PERSON X481
+Uh-huh.
+
+PATIENT X481
+I'm just thinking it had something to do with the circulation or something.
+
+DOCTOR X481
+Well you know I think they tested your circulation when you were in Podiatry.
+
+PATIENT X481
+Uh-huh.
+
+DOCTOR X481
+And the circulation of blood to your legs is okay.
+
+PATIENT X481
+Uh-huh.
+
+DOCTOR X481
+Uh.
+
+PATIENT X481
+But there's got to be something for it to swell up like that.  We'll let you know, next time it swell up maybe I take a picture of it and let you see.
+
+SECOND PERSON X481
+That one is swollen now.
+
+PATIENT X481
+Well this one is @@@.
+
+DOCTOR X481
+So it looks like your ankle here is swollen here.
+
+SECOND PERSON X481
+Okay.
+
+PATIENT X481
+Uh-huh.
+
+DOCTOR X481
+So.
+
+PATIENT X481
+I don't know.
+
+DOCTOR X481
+It could just be cause this is your bad hip right?
+
+PATIENT X481
+It is.
+
+DOCTOR X481
+So that you might actually be um using your, to compensate for your hip.
+
+PATIENT X481
+Uh-huh.
+
+DOCTOR X481
+You might be putting more pressure on your.
+
+PATIENT X481
+Yeah I do do that.
+
+DOCTOR X481
+On the joints and that would cause you swelling.  It's, I don't think it's anything to be worried about right now.
+
+PATIENT X481
+Uh-huh.
+
+DOCTOR X481
+But the thing is if it gets swollen and it stays swollen.
+
+PATIENT X481
+Uh-huh.
+
+DOCTOR X481
+And it becomes red and hot uh that's when we need to think about there's maybe clot in your leg or if you have an infection in your leg.
+
+PATIENT X481
+Alright.
+
+DOCTOR X481
+That doesn't seem to be the case.
+
+PATIENT X481
+Well then at night if I lay down, if I go to sleep when I wake up then it's down.
+
+DOCTOR X481
+Yeah that's another thing too is you could be putting a lot of pressure on that.
+
+PATIENT X481
+Uh-huh.
+
+DOCTOR X481
+But you're gonna naturally have a little bit more swelling.
+
+PATIENT X481
+Should I just, kind of keep @@@.
+
+DOCTOR X481
+Yeah.
+
+PATIENT X481
+@@@.
+
+DOCTOR X481
+Let me just listen to you okay.  
+
+PATIENT X481
+@@@.
+
+SECOND PERSON X481
+Okay.
+
+PATIENT X481
+Yeah.
+
+DOCTOR X481
+Deep breaths, another one.  Do you smoke?
+
+PATIENT X481
+Yes I do.
+
+DOCTOR X481
+Are you going to quit smoking soon?
+
+PATIENT X481
+Well I'm trying, I'm trying.
+
+DOCTOR X481
+Are you really trying?
+
+PATIENT X481
+Not real real hard uh.
+
+DOCTOR X481
+Because you've got some wheezing.
+
+PATIENT X481
+Hmm.  @@@.
+
+SECOND PERSON X481
+@@@.
+
+DOCTOR X481
+So you've got to stop smoking.
+
+PATIENT X481
+Right I know.
+
+DOCTOR X481
+Okay.  
+
+PATIENT X481
+I know all my doctors tell me.
+
+SECOND PERSON X481
+He's got to @@@ trying.
+
+PATIENT X481
+All of my doctors tell me.
+
+SECOND PERSON X481
+He's @@@.
+
+DOCTOR X481
+I just need to talk to DOCTOR and I'll be right back okay.
+
+PATIENT X481
+Oh okay.
+
+(DOCTOR OUT:  19:24  DOCTOR IN:  27:50)
+
+DOCTOR X481
+Okay.  So I talked to DOCTOR.
+
+PATIENT X481
+Uh-huh.
+
+DOCTOR X481
+And he actually recommends going up on your insulin to 50 units.
+
+PATIENT X481
+50?
+
+DOCTOR X481
+Yeah.  But you know cause it's up to you if you feel comfortable going up that many units.
+
+PATIENT X481
+Well if he thinks it's best I'll do it.
+
+DOCTOR X481
+And then if blood sugars ever run low then you should.
+
+PATIENT X481
+Then cut back.
+
+DOCTOR X481
+Um cut back and then call here.
+
+PATIENT X481
+Okay.
+
+DOCTOR X481
+Okay and let him know.
+
+PATIENT X481
+Alright uh so a lot of times that if I call then I don't get through.
+
+DOCTOR X481
+I think sometimes they tell you to go to the Urgent Care.
+
+PATIENT X481
+Uh-huh.
+
+DOCTOR X481
+I don't know when DOCTOR is available here.
+
+PATIENT X481
+Uh-huh.  Yeah I know he's got a lot of patients.
+
+DOCTOR X481
+Yeah.
+
+PATIENT X481
+Oh.  So I it would probably be better just to call at his old clinic and ask for him?
+
+DOCTOR X481
+Yeah that's probably the best way.
+
+PATIENT X481
+Just call okay.  Uh one more thing I wanted to ask you and then uh you know a couple things, you send in for my syringes and stuff, you ordered those for me right?
+
+DOCTOR X481
+I'm going, yeah I'm actually ordering them right now.
+
+PATIENT X481
+Uh-huh.
+
+DOCTOR X481
+But we're going to have the come to you through the mail.
+
+PATIENT X481
+Yeah that's the syringes, the test strips and the insulin.
+
+DOCTOR X481
+Yeah.
+
+PATIENT X481
+Okay.  And the Cialis I need a refill on that.
+
+DOCTOR X481
+Yeah and then I'm going to send, you're getting some vitamin D in the mail.
+
+PATIENT X481
+Oh okay.
+
+DOCTOR X481
+Okay.
+
+PATIENT X481
+Alright.
+
+DOCTOR X481
+And then we'll see you back here in about two months.
+
+PATIENT X481
+That's what I was wanting to ask you, not to schedule any appointments till after May.
+
+DOCTOR X481
+Oh that's.
+
+PATIENT X481
+Because my granddaughter is going to school.
+
+DOCTOR X481
+Uh-huh.
+
+PATIENT X481
+And she needs somebody to keep her baby.
+
+DOCTOR X481
+Okay.
+
+PATIENT X481
+She had to miss today because I had to come, but I had to come, I need the supplies and stuff.
+
+DOCTOR X481
+Okay.
+
+PATIENT X481
+Uh and I want to ask you one more question and then I'll be out of here.
+
+DOCTOR X481
+Uh-huh.
+
+PATIENT X481
+Uh if you were to tell me that uh I need, my activities were restricted to control my blood sugar what would you be telling me?
+
+DOCTOR X481
+What makes you think you uh restrict your activities?
+
+PATIENT X481
+I'm not under that?
+
+DOCTOR X481
+Uh uh.
+
+PATIENT X481
+No restrictions, I see.
+
+DOCTOR X481
+No you should actually try to walk around as much as you can.
+
+PATIENT X481
+Oh okay, that's what I was just @@@.
+
+DOCTOR X481
+Okay and this is the sheet you gave me earlier about the vitamin D levels.
+
+SECOND PERSON X481
+Well what about the shortness of his breath?
+
+DOCTOR X481
+So as much as you can tolerate.
+
+SECOND PERSON X481
+But um he gets out of breath quick.
+
+DOCTOR X481
+Yeah so the thing is that that we actually don't have any control over because part of it's his COPD.
+
+SECOND PERSON X481
+When they gonna check his lungs?
+
+DOCTOR X481
+Uh check his lungs for?
+
+SECOND PERSON X481
+You know @@@.
+
+PATIENT X481
+What?
+
+SECOND PERSON X481
+You know um they were checking your lungs to make there was a problem in there.
+
+PATIENT X481
+But I didn't go back for that appointment.
+
+SECOND PERSON X481
+But you should.
+
+PATIENT X481
+But there wasn't no need in going back until I quit smoking.
+
+DOCTOR X481
+So.
+
+PATIENT X481
+Cause she said basically is my problem is smoking.
+
+DOCTOR X481
+The problem is smoking.
+
+PATIENT X481
+Right.
+
+DOCTOR X481
+And it's only gonna get worse.
+
+PATIENT X481
+Right.
+
+DOCTOR X481
+So what I recommend is for you to, I mean.
+
+PATIENT X481
+Right, I'm gonna stop smoking.
+
+DOCTOR X481
+Stop smoking, start using a breathing machine and then you're gonna start feeling much better.  You're gonna be able to walk further, you'll be less short of breath.
+
+PATIENT X481
+We have uh, once I quit smoking will my lungs clear up then or?
+
+DOCTOR X481
+It takes a, it'll take a while.  A lot damage has been done to your lungs.
+
+PATIENT X481
+Uh-huh.
+
+DOCTOR X481
+Can't be reversed.
+
+PATIENT X481
+Right.
+
+DOCTOR X481
+But at least you won't damage it any further.
+
+PATIENT X481
+Right and when I, one I stop it that the damage should stop.
+
+DOCTOR X481
+The damage should stop.
+
+PATIENT X481
+Oh okay.
+
+DOCTOR X481
+So.
+
+SECOND PERSON X481
+Okay doctor.
+
+DOCTOR X481
+Okay.  Sorry.
+
+SECOND PERSON X481
+@@@.
+
+PATIENT X481
+You won't see me for a few weeks.
+
+DOCTOR X481
+Well don't give her any reason for @@@.
+
+PATIENT X481
+Right, it's not me.  It's my great granddaughter.
+
+SECOND PERSON X481
+@@@.
+
+PATIENT X481
+Okay doctor.
+
+DOCTOR X481
+Okay.
+
+PATIENT X481
+So you gonna give me that appointment in the mail?
+
+DOCTOR X481
+Yeah they'll come in the mail.
+
+PATIENT X481
+I don't have to stop at the desk when we leave?
+
+DOCTOR X481
+No.
+
+SECOND PERSON X481
+And his prescriptions will come in the mail?
+
+DOCTOR X481
+Actually yeah, I'm putting those in right now.
+
+PATIENT X481
+Okay.
+
+DOCTOR X481
+And then before you come back you'll need to stop at the Lab next time and @@@.
+
+PATIENT X481
+Okay.
+
+DOCTOR X481
+Okay.
+
+PATIENT X481
+Alright you don't want me to do it?
+
+DOCTOR X481
+No because I think you just had @@@.
+
+PATIENT X481
+Yeah I did a lot of @@@.  
+
+SECOND PERSON X481
+Okay, you have a good day.
+
+PATIENT X481
+Okay thank you doctor and take care of that little one.
+
+DOCTOR X481
+Oh thank you.
+
+PATIENT X481
+What they say, it's gonna be a girl or boy?
+
+DOCTOR X481
+Boy.
+
+PATIENT X481
+Wow.
+
+DOCTOR X481
+A little boy.
+
+PATIENT X481
+Wow, @@@.
+
+DOCTOR X481
+Thank you.
+
+PATIENT X481
+Pharmacy.  Actually I'm going to the Lab.
+
+PATIENT LEAVES:  33:11.
+
+
+
+

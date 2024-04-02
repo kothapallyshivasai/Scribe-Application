@@ -1,0 +1,479 @@
+
+DOCTOR X542
+PATIENT? 
+
+PATIENT X542
+Hello.
+
+DOCTOR X542
+Just have a seat.  Hi I'm DOCTOR.  I'll be seeing you today.
+
+PATIENT X542
+Okay.
+
+DOCTOR X542
+Um I think you saw DOCTOR.
+
+PATIENT X542
+Yes.
+
+DOCTOR X542
+But he graduated.  You'll be having me from now on.
+
+PATIENT X542
+Okay.
+
+DOCTOR X542
+How are you doing today?
+
+PATIENT X542
+Well I'm doing fine so far.
+
+DOCTOR X542
+Any complaints or?
+
+PATIENT X542
+No.
+
+DOCTOR X542
+No complaints okay and um I see that you're following with Cardiology and the Coumadin Clinic pretty regularly.
+
+PATIENT X542
+Oh yeah.
+
+DOCTOR X542
+You saw Cardiology earlier this summer.
+
+PATIENT X542
+Yes.
+
+DOCTOR X542
+And um they basically said you were pretty good, just to keep going with what you were doing.
+
+PATIENT X542
+Uh-huh.
+
+DOCTOR X542
+Um, no chest pain right now, no shortness of breath?
+
+PATIENT X542
+No, no chest pain.
+
+DOCTOR X542
+That's good.  And you're taking all your medications that you're supposed to?
+
+PATIENT X542
+Yeah.  I'm taking.
+
+DOCTOR X542
+So you're taking the Coumadin?
+
+PATIENT X542
+Coumadin.
+
+DOCTOR X542
+Are you taking the Digoxin?
+
+PATIENT X542
+Digoxin.
+
+DOCTOR X542
+The finasteride?
+
+PATIENT X542
+Right.
+
+DOCTOR X542
+The omeprazole?
+
+PATIENT X542
+Yes.
+
+DOCTOR X542
+The amlodipine?
+
+PATIENT X542
+Uh-huh.
+
+DOCTOR X542
+The flunisolide for your allergies?
+
+PATIENT X542
+Yeah now that's, well I guess it helps but you know I still do a lot of sneezing.
+
+DOCTOR X542
+Yeah, yeah.  How about the loratadine are you taking that too?
+
+PATIENT X542
+Yeah I take that yes.
+
+DOCTOR X542
+Uh-huh.  And the losartan? 
+
+PATIENT X542
+Losartan that's the.
+
+DOCTOR X542
+And the sublingual nitroglycerin?
+
+PATIENT X542
+Yeah.
+
+DOCTOR X542
+And the simvastatin?
+
+PATIENT X542
+Simvastatin yeah.
+
+DOCTOR X542
+And the terazosin and carvedilol?
+
+PATIENT X542
+Yes.
+
+DOCTOR X542
+Okay.  Any other medicines that I'm missing?
+
+PATIENT X542
+No.
+
+DOCTOR X542
+Okay and um uh do you smoke?
+
+PATIENT X542
+No.
+
+DOCTOR X542
+Have you ever smoked?
+
+PATIENT X542
+Uh I smoked in '85, I stopped smoking.
+
+DOCTOR X542
+You quit in '85 and then how much were you smoking before then?
+
+PATIENT X542
+I had a pack a day.
+
+DOCTOR X542
+And for how many years?
+
+PATIENT X542
+Oh that was like 25 years.
+
+DOCTOR X542
+Okay and then alcohol use or drug use?
+
+PATIENT X542
+No, never.
+
+DOCTOR X542
+Okay.  Have you ever had history disease in your family at all?
+
+PATIENT X542
+No.
+
+DOCTOR X542
+Okay and I'm just going to go through a bunch of different symptoms.  If you've had any of these symptoms then stop me and let me know okay.
+
+PATIENT X542
+If I had any symptoms?
+
+DOCTOR X542
+Any of these symptoms right now.
+
+PATIENT X542
+Oh now.
+
+DOCTOR X542
+I'm just going to go through a bunch of them.  Just let me know.
+
+PATIENT X542
+Oh okay.
+
+DOCTOR X542
+Fevers, strokes, weight loss, weight gain, headaches, changes in your vision, changes in your hearing?
+
+PATIENT X542
+No.
+
+DOCTOR X542
+Runny nose, stuffy nose, sore throat, cough, coughing up blood, um chest pain, shortness of breath, shortness of breath with exertion um feeling your heart beating faster, have swelling in your legs.
+
+PATIENT X542
+No.
+
+DOCTOR X542
+Um not being able to breathe when lying flat.
+
+PATIENT X542
+No.
+
+DOCTOR X542
+Uh any nausea, vomiting, vomiting up blood, trouble with swallowing your food, stomach pain, diarrhea, constipation, blood in your stool, either bright red or dark black, blood in your urine, pain when you urinate, urinating more than normal, um any rashes, ulcers or lesions on your skin um back pain, neck pain, joint pain or muscle pain at all?
+
+PATIENT X542
+No.
+
+DOCTOR X542
+Okay so.
+
+PATIENT X542
+Now you know, you know like when I had the.
+
+DOCTOR X542
+@@@.
+
+PATIENT X542
+Yeah but when I sneeze when I.
+
+DOCTOR X542
+And all, you're only taking the nasal spray and how often are you taking the Claritin or the losartan?
+
+PATIENT X542
+I take it every day.
+
+DOCTOR X542
+Every day and it's not really helping much?
+
+PATIENT X542
+I was gonna say it might be helping.
+
+DOCTOR X542
+Have you ever.
+
+PATIENT X542
+@@@.
+
+DOCTOR X542
+You haven’t been really taking it as much?
+
+PATIENT X542
+I take the same yeah.
+
+DOCTOR X542
+You take the same okay.  Maybe, have you ever been to an allergist?  Can you please sit up here?  We can try something else to try to control it.
+
+PATIENT X542
+Okay.
+
+DOCTOR X542
+How many times are you using the sprays?
+
+PATIENT X542
+The spray I'm supposed to use it every day but I know some days I miss.
+
+DOCTOR X542
+Can you breathe in and out?  Again.  Okay lay back.  Does it hurt when I press here?
+
+PATIENT X542
+No.
+
+DOCTOR X542
+You can sit up.  Do you still spray these every day as well?
+
+PATIENT X542
+Do what?
+
+DOCTOR X542
+The sprays.
+
+PATIENT X542
+I spray yes.
+
+DOCTOR X542
+How often, many times a day?
+
+PATIENT X542
+Most of the time I only use once a day.
+
+DOCTOR X542
+Oh just once a day?
+
+PATIENT X542
+Yeah.
+
+DOCTOR X542
+You can use it twice a day.
+
+PATIENT X542
+Twice a day.
+
+DOCTOR X542
+I will double check because that might help with your symptoms.
+
+PATIENT X542
+Okay.
+
+DOCTOR X542
+Take a look at me and hop down for me.
+
+PATIENT X542
+Oh okay.
+
+DOCTOR X542
+And just look straight at me, open your eyes a little and you had surgery right on your eyes.
+
+PATIENT X542
+On my eyes yeah.
+
+DOCTOR X542
+Can you open the left one really wide please?  Okay so just follow my finger like this okay good.  Okay open your mouth, stick your tongue out, okay good.  And no swelling anywhere?
+
+PATIENT X542
+No.
+
+DOCTOR X542
+Okay I'm gonna go talk to my boss and then I'll be back okay.
+
+PATIENT X542
+Alrighty.  Okie doke.
+
+DOCTOR X542
+I'll be right back.
+
+(DOCTOR OUT:  37:37  DOCTOR IN:  47:01)
+
+DOCTOR X542
+Hi.
+
+PATIENT X542
+Good to see you hi.
+
+DOCTOR X542
+@@@.
+
+PATIENT X542
+Okay.
+
+DOCTOR X542
+And we'll see you back in six months. 
+
+PATIENT X542
+Alright.
+
+DOCTOR X542
+Do you need any refills on any medicines?
+
+PATIENT X542
+Uh the Coumadin.
+
+DOCTOR X542
+The Coumadin okay.
+
+PATIENT X542
+Yes.
+
+DOCTOR X542
+How much are you taking?
+
+PATIENT X542
+I take that once a night.
+
+DOCTOR X542
+How many milligrams?
+
+PATIENT X542
+Oh it's 5.
+
+DOCTOR X542
+5 mg a night?
+
+PATIENT X542
+I think.
+
+DOCTOR X542
+Let me see, 4.
+
+PATIENT X542
+Okay.
+
+DOCTOR X542
+Do you want it mailed to you?
+
+PATIENT X542
+I want it mailed yeah, yeah.  I've got enough of that when I ain't got enough of that so I'll come back.
+
+DOCTOR X542
+Yeah I'll mail it to you then.  Okay @@@.
+
+PATIENT X542
+Oh carvedilol, carvedilol get me some of that.
+
+DOCTOR X542
+Okay.
+
+PATIENT X542
+Alright.  I have some but I may not have enough to make it.
+
+DOCTOR X542
+Okay.
+
+PATIENT X542
+If I can get that.
+
+DOCTOR X542
+So are you still taking the carvedilol?
+
+PATIENT X542
+Carvedilol yes.
+
+DOCTOR X542
+You're still taking it?
+
+PATIENT X542
+I take that twice a day, half pill.
+
+DOCTOR X542
+Do you want them to mail it to you then?
+
+PATIENT X542
+Uh-huh.
+
+DOCTOR X542
+Okay.  Okay.
+
+PATIENT X542
+Okay.
+
+DOCTOR X542
+That's it.
+
+PATIENT X542
+Thank you.
+
+DOCTOR X542
+Okay, nice meeting you.
+
+PATIENT X542
+Okay.
+
+DOCTOR X542
+And that should be all.
+
+PATIENT X542
+Okay.
+
+DOCTOR X542
+And they will @@@ an appointment for you so they should send you a letter about when it's gonna be.
+
+PATIENT X542
+Oh okay they'll send me a letter okay.
+
+DOCTOR X542
+Okay, take care.
+
+PATIENT X542
+Alrighty thank you.  You want this closed?
+
+DOCTOR X542
+Yeah.
+
+PATIENT X542
+Hmm okay.  Okay.
+
+PATIENT LEAVES:  49:42.
+
+
+
+

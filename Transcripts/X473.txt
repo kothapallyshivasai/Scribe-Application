@@ -1,0 +1,494 @@
+
+DOCTOR X473
+PATIENT?  My name is DOCTOR, um I work with DOCTOR.  Um how you doing?
+
+PATIENT X473
+Not bad, how about you?
+
+DOCTOR X473
+Uh good.  It says the last time you were here you saw DOCTOR.
+
+PATIENT X473
+Right.
+
+DOCTOR X473
+He wanted to get @@@ and I understand you had the colonoscopy.
+
+PATIENT X473
+Yeah.
+
+DOCTOR X473
+And uh everything looked okay.  You had a polyp that will lead to cancer and so that.
+
+PATIENT X473
+That wasn't one of my better moments in life.
+
+DOCTOR X473
+Well, it's uh yes @@@.
+
+PATIENT X473
+Uh.
+
+DOCTOR X473
+But uh the next thing that you just need to have another one in ten years or so.  If you have more polyps than usually they want to keep the colonoscopies a little more frequently so and then you had any more chest pain?
+
+PATIENT X473
+Actually, I told them before I didn't really have chest pain.
+
+DOCTOR X473
+Just numbness?
+
+PATIENT X473
+Yeah my arm was going numb.
+
+DOCTOR X473
+Okay.
+
+PATIENT X473
+Cause you asked me if I could feel my arm.
+
+DOCTOR X473
+Okay.
+
+PATIENT X473
+And that's when I first decided it's time to go see a doctor.
+
+DOCTOR X473
+And you didn't see anybody before that for a long time?
+
+PATIENT X473
+I had one that said I was borderline high blood pressure and I saw him a couple of times @@@.
+
+DOCTOR X473
+Okay.  Alright and let me see what the, uh did you have a rectal exam the last time, do you know?  Because one of the things that uh we need to do to evaluate your prostate and you can do it a couple of ways by either measuring uh the level of your prostate-specific antigen, it's something they find in your blood and then also a digital exam where we examine your rectum.
+
+PATIENT X473
+I don't think I did.
+
+DOCTOR X473
+Yeah.
+
+PATIENT X473
+No, no.
+
+DOCTOR X473
+Is that something you want to consider it now?
+
+PATIENT X473
+Uh right now no.
+
+DOCTOR X473
+No.  Yeah uh at your next visit then we'll talk about it again.
+
+PATIENT X473
+Okay.
+
+DOCTOR X473
+And now you can think about it.
+
+PATIENT X473
+I don't really look @@@ do that.
+
+DOCTOR X473
+Okay.  It's something I don't think we have to do today.
+
+PATIENT X473
+Yeah.
+
+DOCTOR X473
+But we could do it next time too.
+
+PATIENT X473
+Fine.
+
+DOCTOR X473
+If you feel more comfortable with that and uh other than that, you know all your labs, everything looked perfect too but this was actually from before.  Okay and then do you check your blood pressure at home?
+
+PATIENT X473
+No.
+
+DOCTOR X473
+Uh do you check it whenever you go anywhere else?
+
+PATIENT X473
+No.
+
+DOCTOR X473
+Okay cause today actually you know it was 133/80 and then on repeat it was 149/98, you know sometimes its a little bit higher when you come to the doctor's office so for right now we can actually just continue with, you know just continue with are you taking the amlodipine?
+
+PATIENT X473
+Yeah on that dose though I've only got another couple weeks left.
+
+DOCTOR X473
+Okay.
+
+PATIENT X473
+So I'm gonna need.
+
+DOCTOR X473
+Yeah I can refill those for you.
+
+PATIENT X473
+Yeah both of them @@@.  Big words, I didn't want to try to pronounce @@@.
+
+DOCTOR X473
+Oh.  And do you want to get them in the mail or do you want to get them here?
+
+PATIENT X473
+Mail is fine.  Probably easier.  
+
+DOCTOR X473
+Uh @@@.
+
+PATIENT X473
+@@@.
+
+DOCTOR X473
+Okay.
+
+PATIENT X473
+I got plenty of aspirin.
+
+DOCTOR X473
+Oh good so you actually have enough for, it looks like you have enough.  @@@.
+
+PATIENT X473
+Yeah they're both getting low.
+
+DOCTOR X473
+And those are the only two medicines that you take?
+
+PATIENT X473
+Right.
+
+DOCTOR X473
+Well let me ask you a few questions.  And then when you come back here uh let's see, March, April, May, June, July, August, so in about six months we'll check your cholesterol then too.
+
+PATIENT X473
+Okay.
+
+DOCTOR X473
+Okay.  But the last time it looked okay.  Any other things I can help you with today?
+
+PATIENT X473
+@@@ no.  The only reason I was glad to come now was because I was getting low on the pills.
+
+DOCTOR X473
+Okay.  You didn't have any changes in your vision?  Other than I saw that you had a visual perception test done to make you @@@.
+
+PATIENT X473
+Yeah.
+
+DOCTOR X473
+Out of the corner of your eye.
+
+PATIENT X473
+That's what they did.
+
+DOCTOR X473
+But you didn't notice that.
+
+PATIENT X473
+@@@ been bothering me because I dull the pain so if I @@@ I can just go over it.
+
+DOCTOR X473
+Okay.
+
+PATIENT X473
+For now we're good.
+
+DOCTOR X473
+Okay good.  And your diet is okay?
+
+PATIENT X473
+Uh actually I'm not dieting right now.
+
+DOCTOR X473
+So you're just cutting back?
+
+PATIENT X473
+No.
+
+DOCTOR X473
+No.  Okay.  Oh.
+
+PATIENT X473
+@@@ that.
+
+DOCTOR X473
+Are you still drinking?
+
+PATIENT X473
+I still drink yes.  
+
+DOCTOR X473
+How much?
+
+PATIENT X473
+Just a couple drinks a day.
+
+DOCTOR X473
+Okay.  But were driving @@@.
+
+PATIENT X473
+That's what they told me.
+
+DOCTOR X473
+Oh.
+
+PATIENT X473
+But I wasn't @@@.
+
+DOCTOR X473
+Oh okay and do you feel like you've got a problem with it?
+
+PATIENT X473
+No.
+
+DOCTOR X473
+No, @@@.
+
+PATIENT X473
+No problem at all you know, no.
+
+DOCTOR X473
+No.
+
+PATIENT X473
+No.
+
+DOCTOR X473
+And any, are you smoking?
+
+PATIENT X473
+I puff on a cigar once in a while.
+
+DOCTOR X473
+Okay.  So any drugs?
+
+PATIENT X473
+No.
+
+DOCTOR X473
+No so and well if you don't feel that the alcohol is a problem right now?
+
+PATIENT X473
+No it's not.
+
+DOCTOR X473
+Okay good.
+
+PATIENT X473
+In fact I was thinking of starting to drink more.
+
+DOCTOR X473
+Oh.
+
+PATIENT X473
+No I'm just funning with you.
+
+DOCTOR X473
+Right uh any problems when you urinate, any pain?
+
+PATIENT X473
+No.
+
+DOCTOR X473
+No blood in your stool?
+
+PATIENT X473
+No.
+
+DOCTOR X473
+Let me have you sit up here and see you a minute.
+
+PATIENT X473
+Okay.  Yeah they put a, @@@ my appointment was in February @@@ I didn't want to have to stand @@@ in the middle of winter.
+
+DOCTOR X473
+Oh well @@@.
+
+PATIENT X473
+Yeah so this works out.  @@@.
+
+DOCTOR X473
+Deep breath and will you lie down?  Would you lift up your shirt?  Any pain anywhere?
+
+PATIENT X473
+No.
+
+DOCTOR X473
+Any swelling in your legs?
+
+PATIENT X473
+Uh no not really.
+
+DOCTOR X473
+No, good, alright.  So I'm going to have you sit back up.  I need to go talk to DOCTOR and get refills of your medications.
+
+PATIENT X473
+Okay @@@.
+
+DOCTOR X473
+Okay.  I want to just look at your immunizations.  Do you know if you're up-to-date on those?
+
+PATIENT X473
+Uh just before I came in here I just had the H1N1.
+
+DOCTOR X473
+Oh good.
+
+PATIENT X473
+And uh in the fall I had the regular.
+
+DOCTOR X473
+Uh how about your tetanus?
+
+PATIENT X473
+That I can't remember.
+
+DOCTOR X473
+You don't know when you did it.  Has it been about 10 years?
+
+PATIENT X473
+I can't remember so I'd probably say.
+
+DOCTOR X473
+Do you want to get that today?
+
+PATIENT X473
+Why not.
+
+DOCTOR X473
+Okay.
+
+PATIENT X473
+I haven't @@@.
+
+DOCTOR X473
+Alright um take a seat okay.
+
+PATIENT X473
+Okay.
+
+(DOCTOR OUT:  38:38  DOCTOR IN:  43:12)
+
+DOCTOR X473
+Alright.  I think that uh one thing that we could do about your blood pressure right now is have you cut down on the amount of salt.
+
+PATIENT X473
+Sure.
+
+DOCTOR X473
+Do you eat a lot of salt?
+
+PATIENT X473
+No.  I never put it on anything.
+
+DOCTOR X473
+Do you eat a lot of.
+
+PATIENT X473
+But I do eat some beef jerky and stuff like that.
+
+DOCTOR X473
+Okay so a lot of processed foods, in fact about 80% of what we take in in terms of salts comes in from processed foods so it's not really what you add during your meals but if you could just try cutting back on.  Do you eat a lot of you know frozen foods?
+
+PATIENT X473
+Yep.
+
+DOCTOR X473
+So try cutting back on those things and that'll actually help and that'll bring your blood pressure down a little bit too and then we'll see where it is next time I see you.
+
+PATIENT X473
+Alright.
+
+DOCTOR X473
+Okay.
+
+PATIENT X473
+Okay.
+
+DOCTOR X473
+And today I'll send up the nurse to give you a tetanus shot, I don't know if she's still around so just give me a second while I find her okay.
+
+PATIENT X473
+Okay.
+
+DOCTOR X473
+And if not then you can just have that done the next time you come in.
+
+PATIENT X473
+Okay.
+
+DOCTOR X473
+Alright.  Alright so I don't see her so why don't we just plan on doing that next time.
+
+PATIENT X473
+Fine.
+
+DOCTOR X473
+Okay.
+
+PATIENT X473
+Yep.
+
+DOCTOR X473
+And you'll need to take this with you and they'll set up an appointment for you.
+
+PATIENT X473
+Okay and okay I was gonna ask about when you want to see me next.
+
+DOCTOR X473
+About six months.
+
+PATIENT X473
+Six months alright.
+
+DOCTOR X473
+Yeah.  Does that sound like?
+
+PATIENT X473
+@@@ so.
+
+DOCTOR X473
+Well it'll be in the @@@.
+
+PATIENT X473
+@@@.
+
+DOCTOR X473
+Okay.  Alright.
+
+PATIENT X473
+Okay.
+
+DOCTOR X473
+And then make sure that when you come back you get your labs drawn before.  You'll just stop at the, it's kind of diagonal to here, to get your blood drawn.
+
+PATIENT X473
+Oh okay yeah I know where it's at.
+
+DOCTOR X473
+Yeah and then uh.
+
+PATIENT X473
+Been there many times.
+
+DOCTOR X473
+And we'll think about the rectal exam alright.
+
+PATIENT X473
+You'll maybe think about it, I don't know if I.
+
+DOCTOR X473
+Okay, alright.
+
+PATIENT X473
+Alright thanks.
+
+PATIENT LEAVES:  45:50
+
+
+
+

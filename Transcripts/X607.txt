@@ -1,0 +1,425 @@
+
+DOCTOR X607
+How you doing?
+
+PATIENT X607
+I'm gonna have this reception thing on me, listening to my answers.
+
+DOCTOR X607
+Oh don't worry about it.  @@@.
+
+PATIENT X607
+We done moved up huh.
+
+DOCTOR X607
+That's the way it is.  How are you today?
+
+PATIENT X607
+Uh so far so good.
+
+DOCTOR X607
+So far so good.  So yeah, it's been since around October since we've seen each other.  So you're back on time, which is excellent.  @@@.  Anything come up since October?
+
+PATIENT X607
+Well I still have this knot back here.
+
+DOCTOR X607
+On the back of your head?
+
+PATIENT X607
+Yeah.
+
+DOCTOR X607
+Okay, I'll take a look at it.
+
+PATIENT X607
+And I don't particularly like it.  Like to get rid of it.
+
+DOCTOR X607
+Did we discuss that the last time you were here?
+
+PATIENT X607
+Uh about seven months to eight months ago.  Not the last time we didn't.
+
+DOCTOR X607
+Okay, okay but you noticed it's been there for a while.
+
+PATIENT X607
+It's been there for over a year.  A more about two years.  Started out as a little bitty knot.  The first time I told you about it you said it was just a pimple, but that was a long time ago.
+
+DOCTOR X607
+Yeah well if it's lasted this long it's definitely not just a pimple.  Good, okay good.  Your blood pressure looks good today.  Pulse, breathing okay.  How's your breathing been?
+
+PATIENT X607
+It's been okay.
+
+DOCTOR X607
+Good.
+
+PATIENT X607
+I'm better.  You know I get tingling in my fingers.
+
+DOCTOR X607
+Tingling in your fingers?
+
+PATIENT X607
+Yeah especially when I sleep.  It wakes me up you know, can't go to sleep.
+
+DOCTOR X607
+Okay.  Okay.  Is it just your right hand?
+
+PATIENT X607
+It's the only one I use, like you know when I'm sleeping.
+
+DOCTOR X607
+Uh-huh.
+
+PATIENT X607
+If I lay on it it goes to sleep.
+
+DOCTOR X607
+So that means like is there tingling in both your hands or just your right hand?
+
+PATIENT X607
+Just my right hand.
+
+DOCTOR X607
+Oh okay, not your left hand, not your feet or anything like that?
+
+PATIENT X607
+Uh uh.  Just in the hand.  If I sleep you know, I actually put my hand in there.
+
+DOCTOR X607
+Yeah.
+
+PATIENT X607
+And uh.
+
+DOCTOR X607
+Where's the numbness located whenever you feel it?
+
+PATIENT X607
+All over.
+
+DOCTOR X607
+All over the entire hand?
+
+PATIENT X607
+Yes.
+
+DOCTOR X607
+Okay is it more like on the thumb side or on the pinky side?
+
+PATIENT X607
+On the pinky side but all on the inside.
+
+DOCTOR X607
+Okay.  So is it more like along this side or over here?
+
+PATIENT X607
+All over.
+
+DOCTOR X607
+All over the entire hand?
+
+PATIENT X607
+Uh-huh.
+
+DOCTOR X607
+Okay, okay.  Have you been having any neck pains?
+
+PATIENT X607
+I don't got no neck pain.
+
+DOCTOR X607
+Okay.  Do you feel any of the numbness when I do this?
+
+PATIENT X607
+I feel definite numbness.
+
+DOCTOR X607
+Yeah.  Any shooting pains?
+
+PATIENT X607
+I don't have no shooting pain; no I don't have no shooting pain.
+
+DOCTOR X607
+Okay, can you feel that?
+
+PATIENT X607
+Yeah.
+
+DOCTOR X607
+Now?
+
+PATIENT X607
+Yeah.
+
+DOCTOR X607
+How about this?
+
+PATIENT X607
+Feel everything.
+
+DOCTOR X607
+Does it feel any different on any of your fingers?
+
+PATIENT X607
+No I feel the same, just a tingling.  It only happen at night.
+
+DOCTOR X607
+And is it tingling right now?
+
+PATIENT X607
+No.
+
+DOCTOR X607
+So it only happens when you wake up in the morning and it goes away?
+
+PATIENT X607
+It wakes me up in the morning, not when I wake up in the morning.
+
+DOCTOR X607
+Okay, okay.  But it goes away after you reposition?
+
+PATIENT X607
+Yeah, after I get up and you know walk around it goes away.
+
+DOCTOR X607
+Okay.
+
+PATIENT X607
+At most, I tell you when it mostly happens, when I take my medicine.
+
+DOCTOR X607
+When you take the medications okay.  Um when do you take your medications?
+
+PATIENT X607
+Uh I take my medications before I go to bed.  But should I take the last dose before I go to sleep?
+
+DOCTOR X607
+You are still taking your albuterol and your other inhaler for your lung disease?
+
+PATIENT X607
+Yeah.
+
+DOCTOR X607
+Okay and how's your breathing?
+
+PATIENT X607
+My breathing's pretty good.
+
+DOCTOR X607
+Is it, okay.  You're able to do things that you want to like you can go outside, walk around?
+
+PATIENT X607
+Yeah.
+
+DOCTOR X607
+Everything's okay.  Okay so your blood pressure looks excellent today.  Um are you taking all of your blood pressure medications?
+
+PATIENT X607
+Most of the time I do.
+
+DOCTOR X607
+Most of the time?  So do you know which medications you're taking?
+
+PATIENT X607
+No I don't.  All I know is I take everything they give me.  I get some that I take three times a day.
+
+DOCTOR X607
+Good, good.  Do you think you're still taking the amlodipine?  And you said the one three times a day, isosorbide, your metoprolol.  Do those sound familiar?
+
+PATIENT X607
+Yeah what you give me, I don't know what it, you know I got the medical tray, I fill it up.
+
+DOCTOR X607
+Do you need any refills on any of your medications?
+
+PATIENT X607
+No not right now.
+
+DOCTOR X607
+Any chest pain recently?
+
+PATIENT X607
+Yeah I get a, it's almost like a gas.
+
+DOCTOR X607
+Okay.
+
+PATIENT X607
+Right in here.
+
+DOCTOR X607
+Okay.  But no kind of problems with uh with chest pain in the past?
+
+PATIENT X607
+Well when I do have one I take one of my nitro pills and it go away.
+
+DOCTOR X607
+It goes away.
+
+PATIENT X607
+Them gas pills they give me don't work.  I've used them, I eat about two of them and then I sitting there and one backs up then it go away.
+
+DOCTOR X607
+Are you still drinking alcohol?
+
+PATIENT X607
+Beer.
+
+DOCTOR X607
+Beer okay. 
+
+PATIENT X607
+If I don't drink no alcohol, @@@.
+
+DOCTOR X607
+Let's see here, otherwise.  We need for you to go repeat your cholesterol, it's been a year, just to recheck and make sure there's not anything more we need to do in terms of management on that but it sounds like your lungs are really stable.  Everything else is stable.  The one thing we do need to have you do though, I'm trying to find it here, is repeat an echocardiogram of your heart and have you go back to the Cardiology Service.  Um I think you were supposed to follow up with them a while ago.
+
+PATIENT X607
+They didn't send me no mail.
+
+DOCTOR X607
+Okay.
+
+PATIENT X607
+Cause I didn't get no mail.
+
+DOCTOR X607
+Okay.  We can let them know you need to reschedule the appointment.
+
+PATIENT X607
+Yeah they stopped sending me a reminder for the appointment.  The only thing they send to you now you got to call in.
+
+DOCTOR X607
+Yeah.
+
+PATIENT X607
+To find out when you got an appointment.
+
+DOCTOR X607
+Oh I think, oh I think what they want you to do is call in and essentially schedule an appointment.  But I think they'll send you the reminder by mail.
+
+PATIENT X607
+But I need to call them to schedule it.
+
+DOCTOR X607
+Uh-huh.
+
+PATIENT X607
+Will they schedule me an appointment when you leave here?
+
+DOCTOR X607
+Uh only if it's within 30 days.
+
+PATIENT X607
+Oh okay.
+
+DOCTOR X607
+Otherwise you'll get a letter saying call in and schedule an appointment within the next 30 days.  So we did do a stress test back in 2008.  It may be stored in EMED.  We'll probably repeat the stress test and the echo and then have you go back to Cardiology, recheck your cholesterol otherwise the other main thing is you know trying to cut back on your alcohol use.
+
+PATIENT X607
+What I only drink my beer.
+
+DOCTOR X607
+Are you smoking?
+
+PATIENT X607
+I still smoke.
+
+DOCTOR X607
+@@@ okay.  We already did the @@@ screening for you.  You already had your flu vaccine in October so we don't need to worry about that.  Is that it?  I think just looking at your chart, that's what we'll need to do.  Your blood pressure looks excellent today.  We'll just recheck your cholesterol.  Things seem to be stable except you know with some of the chest pain symptoms.  I know in the past we've talked about you know what the chest pain could possibly be from.  Nothing that we've done in terms of a heart work-up has ever shown that you have um a.  Have you ever had any radiography?  Like I don't see any in the notes here.  Yeah actually, nothing we've ever done that showed you have any type of blockage in your heart but at one time your heart wasn't pumping as well as it should.
+
+PATIENT X607
+I haven't had a vascular check that in a long time.  @@@.
+
+DOCTOR X607
+Yeah that's been, yeah it's been about 2 1/2 years since you had that, so we'll just repeat that.  Okay so give me a couple of minutes and I'll come back okay.
+
+PATIENT X607
+Okay.
+
+DOCTOR X607
+Just give me a second.
+
+(DOCTOR OUT:  11:56  DOCTOR IN:  23:27)
+
+DOCTOR X607
+Okay.  I spoke with DOCTOR.  Um he's in agreement.  There's just some lab work we need to do, recheck your lipids and your liver functions since you're on the simvastatin medication.  Otherwise, we'll repeat some of that cardiology work-up and the stress test um that you did back in 2008, the echo and then also have you follow up with Cardiology.  Since it's been I think since October of 08 that you saw them in the clinic and that would be a good way to follow up with you.  
+
+PATIENT X607
+What about this thing behind my neck?
+
+DOCTOR X607
+I'm sorry.
+
+PATIENT X607
+What about this thing here?  It's not a pimple no more.  They'll tell me.
+
+DOCTOR X607
+Oh, we'll check it.
+
+PATIENT X607
+What do you with it, nothing?
+
+DOCTOR X607
+Uh well we can leave it alone.  It looks like a little lipoma.  It's benign.  Completely no problem so.  Um if you want to we can set up to have you been see by you know Dermatology or have you seen by the General Surgery people and they'll be more than happy to remove it if you want to go to through the minor surgical procedure.  Um but it is benign so there's not anything that we need to do about it.
+
+PATIENT X607
+Oh it won't cause no problem then huh?
+
+DOCTOR X607
+No, no it shouldn't cause any problems.  Um.
+
+PATIENT X607
+How much more bigger is it gonna get?
+
+DOCTOR X607
+Well I mean if it's something that's like you know it, the number one that consists in that location is you know you're lying on your back at night it kind of can be uncomfortable and if it’s something that's causing a problem in terms of not the lesion itself but if its keeping you from getting sleep or you're worried about it you know we can always refer you to have it removed and that's not a problem at all.
+
+PATIENT X607
+@@@.
+
+DOCTOR X607
+Okay, so everything is going to be put into the computer so there's nothing you need to walk out with, other than this.  This is just to let them know to schedule the two appointments for you up front and I will be putting in a consult for you.
+
+PATIENT X607
+Okay.
+
+DOCTOR X607
+Okay.  And so uh you won't need to be seen back here for another six months so you'll get a letter in about five months.
+
+PATIENT X607
+Okay.  I will get a letter though.
+
+DOCTOR X607
+Yes, yes.  Well I mean, we need to make sure that the problem's not your address.  Uh you're still on STREET NAME?
+
+PATIENT X607
+Yeah, the address is no problem.  I've been getting mail but when I call in.
+
+DOCTOR X607
+Uh-huh, uh-huh.
+
+PATIENT X607
+They send me a notice.  Shoot about every three days I get a notice about my appointment.
+
+DOCTOR X607
+Okay.  Well you'll eventually get a letter saying you need to call in and make your primary care physician appointment, in the General Medicine Clinic and that's usually in about five months as long as the mail doesn't get lost.  That I can't promise.  It's outside my hands.
+
+PATIENT X607
+Alright sir.
+
+DOCTOR X607
+Okay so we'll see you back in about six months okay.
+
+PATIENT X607
+Okay.  I'm giving the lady back this thing she gave me this.
+
+PATIENT LEAVES:  27:05.
+
+
+
+

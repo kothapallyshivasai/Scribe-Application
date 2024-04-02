@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Home</title>
+    {% load static %}
+    {% include 'includes.html' %}
+    <style>
+        .highlight {
+            background-color: yellow;
+            color: red;
+        }
+        #response {
+            width: 100%;
+            height: 300px;
+            border: 1px solid #ccc;
+            padding: 5px;
+            font-family: Arial, sans-serif;
+            overflow-y: scroll;
+        }
+    </style>
+</head>
+<body>
+    <h1 class="text-center mt-3 text-primary">Scribe Physician</h1>
+    <div class="container">
+        <div class="row">
+            <div class="col-12">
+                <form id="myForm">
+                    {% csrf_token %}
+                    <div class="col-12 d-flex justify-content-end">
+                        <a href="{% url 'history' %}" class="btn btn-success mt-2 ml-2" style="margin-right: 5px;">History</a>
+                        <button type="button" class="btn btn-info mt-2 ml-2" id="speakBtn">Speak</button>
+                    </div>
+                    <textarea class="mt-2 form-control border-dark" name="text" id="text" rows="19"></textarea>
+                    <div class="col-3">
+                        <h5 class="text-muted">Summary Word Count: </h5>
+                    </div>
+                    <div class="col-3">
+                        <input type="number" class="form-control" name="response_size" id="response_size" value="100">
+                    </div>
+                    <div class="col-12 d-flex justify-content-center">
+                        <button type="button" class="btn btn-success mt-2" id="summarizeBtn">Summarize</button>
+                    </div>                    
+                </form>
+                <h1 class="mt-5 text-center" id="response_heading">Doctor's Note</h1>
+                <div id="responseContainer">
+                    <div id="response" contenteditable="true"></div>
+                </div>
+                <button type="button" class="btn btn-primary mt-2 ml-2" id="listenBtn">Listen</button>
+                <a href="#" class="btn btn-success mt-2 ml-2" id="downloadBtn">Download File</a>
+                <br>
+            </div>
+        </div>
+    </div>
+    <hr>
+    {% include 'footer.html' %}
+
+    <script>
+        $(document).ready(function() {
+            $("#summarizeBtn").click(function() {
+                var formData = $("#myForm").serialize();
+                $.ajax({
+                    type: "POST",
+                    url: "{% url 'validate_and_save' %}",
+                    data: formData,
+                    success: function(response) {
+                        var capitalizedResponse = capitalizeUppercaseWords(response.generated_text);
+                        $("#response").html(capitalizedResponse);
+                        $("html, body").animate({
+                            scrollTop: $("#response_heading").offset().top
+                        }, 1000);
+                    },
+                    error: function(xhr, textStatus, errorThrown) {
+                        if(xhr.status ===  400){
+                            swal("Error!", "Text cannot be empty", "error");
+                        }else{
+                            swal("Error!", "Failed to generate text", "error");
+                        }
+                    }
+                });
+            });
+
+            $("#downloadBtn").click(function() {
+                var csrftoken = getCookie('csrftoken');
+            
+                $.ajax({
+                    type: "POST",
+                    url: "{% url 'summary' %}",
+                    xhrFields: {
+                        responseType: 'blob'
+                    },
+                    beforeSend: function(xhr) {
+                        xhr.setRequestHeader("X-CSRFToken", csrftoken); 
+                    },
+                    success: function(response) {
+                        var url = window.URL.createObjectURL(response);
+                        var a = document.createElement('a');
+                        a.href = url;
+                        a.download = 'summary.txt';
+                        document.body.appendChild(a);
+                        a.click();
+                        window.URL.revokeObjectURL(url);
+                    },
+                    error: function(xhr, textStatus, errorThrown) {
+                        swal("Error!", "Failed to download summary file", "error");
+                    }
+                });
+            });
+            
+            function getCookie(name) {
+                var cookieValue = null;
+                if (document.cookie && document.cookie !== '') {
+                    var cookies = document.cookie.split(';');
+                    for (var i = 0; i < cookies.length; i++) {
+                        var cookie = cookies[i].trim();
+                        if (cookie.substring(0, name.length + 1) === (name + '=')) {
+                            cookieValue = decodeURIComponent(cookie.substring(name.length + 1));
+                            break;
+                        }
+                    }
+                }
+                return cookieValue;
+            }
+
+            $("#listenBtn").click(function() {
+                var textToSpeak = $("#response").text();
+                var synth = window.speechSynthesis;
+                var utterance = new SpeechSynthesisUtterance(textToSpeak);
+                synth.speak(utterance);
+            });
+
+            $("#speakBtn").click(function() {
+                var recognition = new webkitSpeechRecognition() || new SpeechRecognition();
+                recognition.lang = "en-US";
+                recognition.start();
+                
+                recognition.onresult = function(event) {
+                    var transcript = event.results[0][0].transcript;
+                    var existingText = $("#text").val();
+                    $("#text").val(existingText + ' ' + transcript); 
+                };
+            });
+
+            function capitalizeUppercaseWords(text) {
+                var words = text.split(' ');
+                var capitalizedResponse = '';
+
+                words.forEach(function(word) {
+                    if (word === word.toUpperCase()) {
+                        capitalizedResponse += '<span class="highlight">' + word.toUpperCase() + '</span> ';
+                    } else {
+                        capitalizedResponse += word + ' ';
+                    }
+                });
+
+                return capitalizedResponse.trim();
+            }
+        });
+    </script>
+</body>
+</html>

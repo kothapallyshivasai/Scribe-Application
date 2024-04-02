@@ -1,0 +1,937 @@
+
+DOCTOR X385
+PATIENT? 
+
+PATIENT X385
+Yeah, that was weird.
+
+DOCTOR X385
+How are you doing?
+
+PATIENT X385
+Fine.  I heard my name, I heard my name.
+
+DOCTOR X385
+Yes.
+
+PATIENT X385
+And then I didn't, it went right by me for a minute.
+
+DOCTOR X385
+Okay I'll be back in 30 seconds.
+
+PATIENT X385
+Okay.
+
+DOCTOR X385
+Okay.  How are you doing today?
+
+PATIENT X385
+I'm hurting.
+
+DOCTOR X385
+What's that?
+
+PATIENT X385
+I'm hurting.
+
+DOCTOR X385
+Where?
+
+PATIENT X385
+On my arm, shoulder, back and neck. 
+
+DOCTOR X385
+Okay.
+
+PATIENT X385
+I fell yesterday.
+
+DOCTOR X385
+Hmm.
+
+PATIENT X385
+Outside over a curb.
+
+DOCTOR X385
+Ooh okay.  Were you just walking or?
+
+PATIENT X385
+Sure, I don't know what it was from, if I tripped over the curb or fell in a hole.
+
+DOCTOR X385
+Okay.
+
+PATIENT X385
+You know the curb outside where there's just curbs and sometimes there's no pavement.
+
+DOCTOR X385
+Right, right, right.
+
+PATIENT X385
+I remember seeing the curb.
+
+DOCTOR X385
+Uh-huh.
+
+PATIENT X385
+And the next thing I remember I was on the ground in a lot of pain.
+
+DOCTOR X385
+Okay did you lose consciousness?
+
+PATIENT X385
+No.
+
+DOCTOR X385
+Where did you hit yourself?  What part of your body hit the ground?
+
+PATIENT X385
+Um I think the front part.
+
+DOCTOR X385
+Okay.
+
+PATIENT X385
+Um like the front, left side.
+
+DOCTOR X385
+Did you hit your head?
+
+PATIENT X385
+Um I don't think so but it hurt.
+
+DOCTOR X385
+Your head it hurts?
+
+PATIENT X385
+Yeah from I, you know from hitting the ground.
+
+DOCTOR X385
+Um okay we'll get back to that, just one second.
+
+PATIENT X385
+Okay.
+
+DOCTOR X385
+Besides for that anything else new, meaning any new hospitalizations since I saw you last which was.
+
+PATIENT X385
+Oh no, no.
+
+DOCTOR X385
+Not very long ago.  I saw you back in June.  Um you have an occasional beer, you don't smoke correct?
+
+PATIENT X385
+Correct.
+
+DOCTOR X385
+And we'll go through your medications in just a second.  Did you get a flu shot already?
+
+PATIENT X385
+Yes I got one yeah.
+
+DOCTOR X385
+Okay @@@?
+
+PATIENT X385
+Sure yeah.
+
+DOCTOR X385
+And you had some labs that you got this morning and they're still pending.
+
+PATIENT X385
+It was just done.
+
+DOCTOR X385
+Yes.
+
+PATIENT X385
+Okay.
+
+DOCTOR X385
+Yeah, yeah so I'll take a look at that whenever it's back.  Um let's go through your medications first and make sure that you're up-to-date, you have enough refills of what you're taking.  So the top of the list is cyclobenzaprine, that's the muscle relaxant.
+
+PATIENT X385
+Yeah.
+
+DOCTOR X385
+Are you still taking that?
+
+PATIENT X385
+Yes I am.
+
+DOCTOR X385
+Okay and that helps?
+
+PATIENT X385
+Yes.
+
+DOCTOR X385
+Okay.  Next is enalapril, that's for blood pressure.
+
+PATIENT X385
+Yes I'm taking those.
+
+DOCTOR X385
+Okay you take that twice a day.
+
+PATIENT X385
+Twice a day.
+
+DOCTOR X385
+Okay that also helps protect the kidneys for diabetics.  Your blood pressure is a little high today, 140/82 when they took it this morning.
+
+PATIENT X385
+Yeah, normally when I first come in its high.
+
+DOCTOR X385
+Okay.
+
+PATIENT X385
+But then when it's checked later in the visit.
+
+DOCTOR X385
+Okay.
+
+PATIENT X385
+It's back to normal.  
+
+DOCTOR X385
+Okay I will check it again then.  Um then you have insulin for your diabetes.
+
+PATIENT X385
+I wanted to talk to you about my insulin.
+
+DOCTOR X385
+Uh-huh.
+
+PATIENT X385
+It's like it's not even working.
+
+DOCTOR X385
+Why is that?
+
+PATIENT X385
+My um readings are high.
+
+DOCTOR X385
+Okay.  I think last time; let me see what was down here the last time.
+
+PATIENT X385
+And I've been taking 40 units of let's see @@@.
+
+DOCTOR X385
+Of the insulin?  Which do you take?
+
+PATIENT X385
+Its 30 Glargine, I take 40 units.
+
+DOCTOR X385
+Okay.
+
+PATIENT X385
+And the @@@ I take 30 in the evening.
+
+DOCTOR X385
+Glargine you're taking 30?
+
+PATIENT X385
+Yes.
+
+DOCTOR X385
+And at night or in the morning?
+
+PATIENT X385
+Oh at night.
+
+DOCTOR X385
+At night and then the regular.
+
+PATIENT X385
+Regular.
+
+DOCTOR X385
+The Novolin you're taking in the evening.
+
+PATIENT X385
+Yeah 30, no Glargine is 30 and the regular is 20 yeah.
+
+DOCTOR X385
+Okay um.
+
+PATIENT X385
+Now if I take the regular, like after dinner, sometimes I forget to take it.
+
+DOCTOR X385
+Uh-huh.
+
+PATIENT X385
+Then I may get a low about 5 in the morning.
+
+DOCTOR X385
+Yeah.  You have to be careful.  It's not good to take it after dinner cause you're already taking the Glargine in the evening and both of those together will cause you to have low blood sugars.
+
+PATIENT X385
+Okay.
+
+DOCTOR X385
+So you have to work on that.  You're hemoglobin A1c last time that I saw you was really high and I think I called and tried to leave you a message so that you're gonna have to increase your insulin which you have been slowly doing but it was way too high, it was 10.1, that's not good.
+
+PATIENT X385
+Sure.
+
+DOCTOR X385
+Back in June so the one from today is still pending.
+
+PATIENT X385
+Oh okay.
+
+DOCTOR X385
+Sometimes it takes a long time to come back but I don't expect it will be, I mean it might be higher.  I don't expect it will be much lower and I would like to send you to the, unfortunately since I only have clinic once every five weeks I can't follow up with patients that often but I would like to send you to the pharmacist who can help manage diabetic medications.
+
+PATIENT X385
+The Pharm-D.
+
+DOCTOR X385
+Yeah have you done that before?
+
+PATIENT X385
+I tried.
+
+DOCTOR X385
+Okay.
+
+PATIENT X385
+But um.  I never had a call back.
+
+DOCTOR X385
+They should, I mean I would put in a consult and I would talk with them.  They will call you and sometimes they like to meet you once in person.
+
+PATIENT X385
+Uh-huh.
+
+DOCTOR X385
+But after that you know they can do it over the phone but it usually shows a lot of, I mean it's beneficial because they can follow up with you like once every two weeks.  I can't do that.
+
+PATIENT X385
+Oh @@@.
+
+DOCTOR X385
+And it goes faster and your hemoglobin A1c has been running too high of levels for too long, that's not good you know and obviously what you're saying you're taking all of this insulin and it's not making much of a difference.  So we have to look on that.
+
+PATIENT X385
+Well that's, would it make sense to use the old insulin that I used to take?
+
+DOCTOR X385
+What did you used to take?
+
+PATIENT X385
+Um NovoLog and.
+
+DOCTOR X385
+NPH.
+
+PATIENT X385
+NPH.
+
+DOCTOR X385
+Um maybe but then you'd be taking it more often.  I like Glargine better cause it lasts in your system longer um but with the Glargine, you're taking it once a day there's room to do it twice a day for people that, your blood sugars are just very high.
+
+PATIENT X385
+Would it um, would it be beneficial to take more than 20 or like 40?
+
+DOCTOR X385
+No you can take as much as you need to.  I mean some people go up to 100 you know.
+
+PATIENT X385
+Okay cause my syringes go to 50.
+
+DOCTOR X385
+Yeah I mean.
+
+PATIENT X385
+So sometimes I can only go down.
+
+DOCTOR X385
+Yeah, no, no, there's room to go up especially if your sugars are really high.  I mean the goal for a fasting glucose in the morning is 80-100.
+
+PATIENT X385
+Oh my.
+
+DOCTOR X385
+You know so you should be at that goal every day.  If you're not that means you don't have enough insulin.  Um but we have to kind of get it under control.  You're only 55, you shouldn't have a hemoglobin A1c that is that high you know.  So if it's okay I would like to send you to the.
+
+PATIENT X385
+Okay sure.
+
+DOCTOR X385
+Pharmacist because they can, I've seen a lot of good results when they work with patients you know and it's not forever it's just until we can get this under control.
+
+PATIENT X385
+Oh yeah, yeah.
+
+DOCTOR X385
+So um do you check your feet every day?
+
+PATIENT X385
+Um not um.
+
+DOCTOR X385
+The bottoms of your feet.
+
+PATIENT X385
+Right, right.
+
+DOCTOR X385
+For blisters and things, okay.
+
+PATIENT X385
+I look at them.
+
+DOCTOR X385
+Okay.
+
+PATIENT X385
+But not on a regular basis.
+
+DOCTOR X385
+Okay.
+
+PATIENT X385
+So I can do that I guess.
+
+DOCTOR X385
+Yeah, yeah, regular okay.  Try to do that just because you fell.  Like there's obvious some issues going on in your feet right.  You use the cane, you have to @@@ because of the diabetes and a lot of other issues so I don't want you falling more than you do.  It's easy to get cuts and sores that you don't realize.
+
+PATIENT X385
+Oh yeah, yeah.
+
+DOCTOR X385
+So you need to check your foot you know.  It's recommended for all diabetics to check their um, the bottoms of their feet every day.  Um you're saying and I wanted to ask you, actually let's sorry keep going through your medications.  Do you still have the lithium that you're taking?
+
+PATIENT X385
+Yes.
+
+DOCTOR X385
+And you're following with Psych for those?
+
+PATIENT X385
+Yeah.
+
+DOCTOR X385
+Okay um okay and next we have the metoprolol 100 twice a day, that's for blood pressure and prostate.
+
+PATIENT X385
+Yes.
+
+DOCTOR X385
+Niacin 500, two tablets every day, that's for cholesterol.
+
+PATIENT X385
+I get that from you right, the niacin?
+
+DOCTOR X385
+Yeah.
+
+PATIENT X385
+That's for the yeah I get that.  Rosuvastatin.
+
+DOCTOR X385
+Rosuvastatin that's for cholesterol as well.  Um triamcinolone cream do you see Dermatology?
+
+PATIENT X385
+Yeah.
+
+DOCTOR X385
+Good.  Um venlafaxine that is also by Psych.
+
+PATIENT X385
+Uh-huh.
+
+DOCTOR X385
+And then you take Coumadin?
+
+PATIENT X385
+Yes.
+
+DOCTOR X385
+And what was the Coumadin again cause you've got a history of clots?
+
+PATIENT X385
+Yeah, Factor 5 Leiden.
+
+DOCTOR X385
+Okay um and Ambien, that's the Zolpidem you take.
+
+PATIENT X385
+Yes.
+
+DOCTOR X385
+Okay and then you have uh other medications that you don't take from here but you take fatty acids?
+
+PATIENT X385
+Yes um Omega 3.
+
+DOCTOR X385
+Yep that's fine and then multivitamins?
+
+PATIENT X385
+Yeah.
+
+DOCTOR X385
+And that's it.
+
+PATIENT X385
+Senior formula.
+
+DOCTOR X385
+Do you have any other medications other than this?  I don't think so.
+
+PATIENT X385
+No.
+
+DOCTOR X385
+Okay I'm sorry; let me return this page really quick.  (Doctor makes phone call)
+
+PATIENT X385
+Um.  I ain't seen them in a while.
+
+DOCTOR X385
+You what?
+
+PATIENT X385
+I haven't seen them in a while.
+
+DOCTOR X385
+Yes you have to go back and see them once a year, all diabetics once a year.  You have to call and make an appointment.  Um I'm gonna go speak to my nurse.  Actually let me have you sit up here I'm gonna take your blood pressure again.  And you still have to get those records of your colonoscopy from @@@ in 2005 otherwise I'm just gonna give you a colonoscopy here.
+
+PATIENT X385
+Yeah.
+
+DOCTOR X385
+Okay open your mouth.
+
+PATIENT X385
+Ah.
+
+DOCTOR X385
+Can you take off your glasses for me?  Look at my nose.  Deep breaths.  Did you get any bruises or anything from when you fell since you're on Coumadin?
+
+PATIENT X385
+Um just the one from my arm, it was only a scrape.
+
+DOCTOR X385
+Have you always had?
+
+PATIENT X385
+Oh it's several years I've had those.
+
+DOCTOR X385
+Okay.  I want to do a few more tests.  Can you raise your eyebrows for me high okay good and then can you close your eyes shut tight, really tight and don't let me open them okay good and then can you smile good.  Can you stick out your tongue; can you move it from side to side?  Good and then one more time say ah.
+
+PATIENT X385
+Ah.
+
+DOCTOR X385
+Put your tongue down.  One more time ah.
+
+PATIENT X385
+Ah.
+
+DOCTOR X385
+Good and then can you feel me touching on both sides of your face?
+
+PATIENT X385
+Yeah.
+
+DOCTOR X385
+Okay I'm gonna make some noises by your ears; tell me which side you hear it on.  Do you hear it?
+
+PATIENT X385
+No.
+
+DOCTOR X385
+Do you hear this?  Has your hearing always been an issue?
+
+PATIENT X385
+Yeah.
+
+DOCTOR X385
+Do you hear this?
+
+PATIENT X385
+Oh I hear you now yeah.
+
+DOCTOR X385
+You can hear okay.  Both sides, one side?
+
+PATIENT X385
+Both sides.
+
+DOCTOR X385
+@@@.
+
+PATIENT X385
+Right now.
+
+DOCTOR X385
+Now?
+
+PATIENT X385
+Now it's on the right side.
+
+DOCTOR X385
+Okay.
+
+PATIENT X385
+Both sides.
+
+DOCTOR X385
+Okay.  Um can you put your glasses back on?  Okay bring your arms up like this, don't let me push, sorry.  Is that too painful on your shoulders?
+
+PATIENT X385
+Yeah.
+
+DOCTOR X385
+Okay, okay.  And remind me again what happened with the shoulders that's why, it was recent or have you always had this?
+
+PATIENT X385
+Um well I had, I had surgery on this side.
+
+DOCTOR X385
+Okay.
+
+PATIENT X385
+For three, three torn tendons.
+
+DOCTOR X385
+Okay.
+
+PATIENT X385
+And then the right side was always called diabetic neuropathy.
+
+DOCTOR X385
+Okay.  Can you squeeze my hands as tight as you can with your fingers?  Good.  I'm gonna lift your knee up straight then bend.  You can bend; no you can bend your knee good.  Great, bend good.  Lift your leg up against my hand, you can't really do that?  You've never been able to do that with me.
+
+PATIENT X385
+I have been trying.  I used to be strong in my legs.
+
+DOCTOR X385
+Okay.  Um let me look at your legs for a minute.  @@@ now?
+
+PATIENT X385
+Um no.
+
+DOCTOR X385
+No.  Okay your only labs that we got, your potassium is a little bit high 5.6 um and your glucose is very high, 546, not good.
+
+PATIENT X385
+What should it be?
+
+DOCTOR X385
+Uh like 100.  You're diabetic so it's gonna be higher.
+
+PATIENT X385
+Right.
+
+DOCTOR X385
+But 546 is really high so I'm expecting your hemoglobin A1c to be even worse today.  No it's not, 9.9.  Let me go quickly talk with my attending and see what we need to do.  I don't think that it's something critical that we have to like keep you here to fix the sugars but I do want you to see the pharmacist soon.
+
+PATIENT X385
+Okay.
+
+DOCTOR X385
+When you take more insulin at home, so that when you check your sugars it's always less than 200.
+
+PATIENT X385
+Okay.
+
+DOCTOR X385
+You know.  That's hard to figure out, that's why I'm saying I want you to see the pharmacist cause it's hard to just talk about doing it and after go home then you're gonna have questions about it and I can't see you for five weeks, that's not gonna help.  Um but normally we don't like to just increase part of it cause we don't want you to have side effects or your sugars will go too low.
+
+PATIENT X385
+Oh sure.
+
+DOCTOR X385
+You know so at 546 you've got a lot of room for your sugars to go down um and you did not eat this morning correct?
+
+PATIENT X385
+Did not eat no.
+
+DOCTOR X385
+Okay.  Um hmm oh your blood pressure.  So it's the same 140/80.  You can sit over here.  You don't have any history of gout do you?
+
+PATIENT X385
+Yeah.
+
+DOCTOR X385
+You do.  You know when was that?
+
+PATIENT X385
+Um 85.
+
+DOCTOR X385
+And it was for sure gout?
+
+PATIENT X385
+Yeah, it was diagnosed yeah as gout and @@@.  It could be a feet thing.  Is that lactic acid?
+
+DOCTOR X385
+Uric acid.
+
+PATIENT X385
+Uric acid.
+
+DOCTOR X385
+Uh-huh.  Okay.  I'll be right back.  Let me talk with my attending and uh find out what he wants to do.  And you were in a motor vehicle accident back in the 1980s correct?
+
+PATIENT X385
+Yeah that's correct.
+
+DOCTOR X385
+Did you have any issues since then because of like has it affected your strength or anything like that?
+
+PATIENT X385
+Um yes.
+
+DOCTOR X385
+Okay.  And then you have that VP shunt correct?
+
+PATIENT X385
+Correct.  
+
+DOCTOR X385
+Okay, I'll be right back.
+
+DOCTOR OUT:  55:25  DOCTOR IN:  66:56
+
+DOCTOR X385
+Okay so a few things.  I'm gonna have the pharmacist call you and they'll try to see you within the next week.
+
+PATIENT X385
+Okay.
+
+DOCTOR X385
+Okay but in the meantime we're gonna make a few changes to your Glargine, the one you take in the evening.
+
+PATIENT X385
+Uh-huh.
+
+DOCTOR X385
+How much are you taking now, you said 30?
+
+PATIENT X385
+30.
+
+DOCTOR X385
+Okay so you're gonna do 35, 35 units 30 minutes before dinner oh I'm sorry before bedtime and then the regular insulin.
+
+PATIENT X385
+Uh-huh.
+
+DOCTOR X385
+You're only taking it once in the evening correct?
+
+PATIENT X385
+Correct.
+
+DOCTOR X385
+Do you eat regular meals?  Breakfast, lunch, dinner?
+
+PATIENT X385
+Uh usually yeah.
+
+DOCTOR X385
+Okay so this is a shorter acting insulin so we can take it with every meal but you have to take it 30 minutes before your meal.
+
+PATIENT X385
+30 minutes before?
+
+DOCTOR X385
+Yeah.
+
+PATIENT X385
+Okay.
+
+DOCTOR X385
+Cause it takes a little bit of time to kick in.
+
+PATIENT X385
+Okay.
+
+DOCTOR X385
+But if you take it right when you start eating it's not really gonna help then you're gonna go low afterwards.  So what I want you to do and I'm gonna update this so they send you enough insulin to your house.  You don't have to pick it up today unless you want to, it's up to you.
+
+PATIENT X385
+Yeah I can sure.
+
+DOCTOR X385
+You want to pick it up today?  Okay so you're gonna take 5 units for breakfast 30 minutes before breakfast.  You're gonna take another 5 units 30 minutes before lunch and then you're gonna take the normal 12 that you take.  You're taking how much before dinner right now?
+
+PATIENT X385
+Um, um 20.
+
+DOCTOR X385
+20.  You can keep doing that, 20 units um.  What are your sugars in the morning when you wake up, what do you think?
+
+PATIENT X385
+Um 170.
+
+DOCTOR X385
+170.
+
+PATIENT X385
+17.
+
+DOCTOR X385
+117.
+
+PATIENT X385
+Hmm.
+
+DOCTOR X385
+You can keep on the 20 units um before dinner.  If you're waking up and you're noticing that your blood sugar is below 100 then obviously you'll have to cut back on some of this insulin.  You can call in, hopefully the pharmacist will see you soon but the point is that you have, your glucose this morning is 546, that's way too high.  So that means that most of the time you're probably in the morning your sugars are like in the 300s so you need a lot more insulin.  But @@@.
+
+PATIENT X385
+Right.
+
+DOCTOR X385
+I don't want you to go through that.
+
+PATIENT X385
+Right, right, right.
+
+DOCTOR X385
+So you're gonna do this until you see the pharmacist okay.
+
+PATIENT X385
+Okay.
+
+DOCTOR X385
+And you need to bring me the records of your colonoscopy so I'm gonna write that on here, bring colonoscopy records along with, the most important part is pathology.  So once you get a colonoscopy done, if they ever remove anything, polyps, they send it down to the Lab, the pathology and they cut it up and look at it under a microscope.  That's what pathology is and that's the most important part.
+
+PATIENT X385
+Okay.
+
+DOCTOR X385
+You can't tell by the naked eye what the polyp is, there's different kinds of polyps.
+
+PATIENT X385
+Right, right, okay.
+
+DOCTOR X385
+And that tells us when you need to get screened for another colonoscopy okay.  Um I will put all these orders in.  You can go down to the Pharmacy if you want and get the insulin today.  Do you want to pick it up?
+
+PATIENT X385
+Yeah.
+
+DOCTOR X385
+Okay so I will put that in there, picking it up and I'll see you back.  I want to see you sooner just because we have a lot of issues to deal with; mostly the diabetes so I want to make sure it's corrected.  Um so um I'm gonna say three months.
+
+PATIENT X385
+Three months okay.
+
+DOCTOR X385
+Um okay.  So I'll give this to you.  Do you have any other questions?
+
+PATIENT X385
+No.
+
+DOCTOR X385
+Um I didn't check your cholesterol cause I didn't need to.  The other thing you can do if you're having pain with the shoulders.
+
+PATIENT X385
+Uh-huh.
+
+DOCTOR X385
+So that you do follow-up, it should be fine let me double check here, um your liver enzymes were a little bit higher so I don't know if you should still be taking Tylenol but you can take something like ibuprofen if you need to or Motrin so avoid Tylenol but um and you're already taking some muscle relaxants.
+
+PATIENT X385
+Hmm.
+
+DOCTOR X385
+You know all that stuff as well.  If you need to you can take one extra and hopefully this pain issue, the soreness will kind of go away okay.  I'm not really worried that you broke any bones or anything like that.
+
+PATIENT X385
+Okay.
+
+DOCTOR X385
+Unless you tell me you can't breathe because you're having so much pain, but that's not true is it?
+
+PATIENT X385
+No.
+
+DOCTOR X385
+Okay um but if the pain is there, it's not going away, you notice any new bruises or anything like that you have to call and come in.
+
+PATIENT X385
+Okay.
+
+DOCTOR X385
+Especially come in, you might have to get x-rays or something.
+
+PATIENT X385
+The only time I have um uh pain in my chest when breathing is when I go to the extreme, take a really deep breath.
+
+DOCTOR X385
+Okay.
+
+PATIENT X385
+But when I'm normal breath I don't feel pain.
+
+DOCTOR X385
+Okay is that like when I was asking you to take deep breaths and I was listening to your lungs or anything?  Try to take a deep breath now.
+
+PATIENT X385
+It hurts.
+
+DOCTOR X385
+Where does it hurt?
+
+PATIENT X385
+Like right in here.
+
+DOCTOR X385
+You fell on your face?
+
+PATIENT X385
+Yes.
+
+DOCTOR X385
+Okay.  Maybe we should just go ahead and do an x-ray of the ribs to see if you broke anything.  What do you do for a broken rib, not much.  You just have to handle, manage the pain.
+
+PATIENT X385
+Right.
+
+DOCTOR X385
+And try to make sure that you're breathing normally cause people when they have pain they don't breathe well enough and then your lungs kind of get weaker and it's easier to get infections and things like that.  So we can do an x-ray of the ribs but that would be today so you can go maybe pick up a sticker from Pharmacy and then go get your x-ray and go back to Pharmacy so that they have your medications ready by then.  So let me put that in, a chest x-ray.
+
+PATIENT X385
+And if I take a walk, after I put in my thing at the Pharmacy, that's the best thing isn't it.  People always complain.
+
+DOCTOR X385
+Yeah alright.  I'll give this to you and you can go down to the counter.
+
+PATIENT X385
+Do I take this to the checkout?
+
+DOCTOR X385
+Yep, go around the corner.  You're gonna go down to your x-ray; actually let me write that on here.  They'll take you @@@.
+
+PATIENT X385
+Okay, thank you.
+
+DOCTOR X385
+Okay alright.
+
+PATIENT X385
+Okay, okay.
+
+PATIENT LEAVES:  74:19
+
+Time is 10:54.
+
+
+
+

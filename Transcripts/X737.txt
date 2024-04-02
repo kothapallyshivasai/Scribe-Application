@@ -1,0 +1,536 @@
+
+DOCTOR X737
+PATIENT?
+
+PATIENT X737
+@@@.
+
+DOCTOR X737
+How you been?
+
+PATIENT X737
+@@@.  Just relaying @@@.
+
+DOCTOR X737
+@@@ sir.
+
+PATIENT X737
+Yes.
+
+DOCTOR X737
+@@@.  What happened?
+
+PATIENT X737
+Oh, in the washroom @@@.
+
+DOCTOR X737
+Oh, okay.  We couldn’t find you.
+
+PATIENT X737
+I, you know, should have asked.
+
+DOCTOR X737
+Okay.  How are you doing otherwise?
+
+PATIENT X737
+Okay.  @@@.
+
+DOCTOR X737
+@@@.  Did you @@@ at xxx already or not yet?
+
+PATIENT X737
+Not yet.  
+
+DOCTOR X737
+Okay.  @@@.
+PATIENT X737
+@@@ right.  @@@.  
+
+DOCTOR X737
+You have been doing to Neurology.
+
+PATIENT X737
+Neurology, yes.
+
+DOCTOR X737
+@@@.  
+
+PATIENT X737
+The Eye Clinic.  
+
+DOCTOR X737
+Hm hmm.
+
+PATIENT X737
+I haven’t gotten any @@@ after the @@@.
+
+DOCTOR X737
+@@@.
+
+PATIENT X737
+Yes.  
+
+DOCTOR X737
+Okay.  @@@.
+
+PATIENT X737
+@@@ a little high. 
+
+DOCTOR X737
+A little high?
+
+PATIENT X737
+Hm hmm.
+
+DOCTOR X737
+Okay.  Do you have your log?
+
+PATIENT X737
+I usually bring it.  
+
+DOCTOR X737
+@@@.  
+
+PATIENT X737
+Blood pressure seems to be @@@.  
+
+DOCTOR X737
+@@@.  And you followed up with the pharmacist?
+
+PATIENT X737
+Yes, I @@@ with the pharmacist.
+
+DOCTOR X737
+Okay.  @@@ your sugars are somewhat uncontrolled @@@.
+
+PATIENT X737
+Mostly, uh, 80 and @@@.
+
+DOCTOR X737
+@@@.
+
+PATIENT X737
+Yea.  @@@ but I am not eating and I am not @@@.  I also saw the dietician and she told me not to skip breakfast.  I usually don’t eat breakfast.  
+
+DOCTOR X737
+@@@.  What do you take for diabetes?
+
+PATIENT X737
+Okay I am on insulin.
+
+DOCTOR X737
+Taking regular insulin?
+
+PATIENT X737
+NPH.
+
+DOCTOR X737
+How much?
+
+PATIENT X737
+Um, 55 and 52.  One @@@ in the morning and 52 in the evening.
+
+DOCTOR X737
+You take any other @@@?
+
+PATIENT X737
+Um, diabetes?  No.  
+
+DOCTOR X737
+@@@.  
+
+PATIENT X737
+@@@ NPH insulin.
+
+DOCTOR X737
+Okay.  Your blood pressure, looking on the lower side.
+
+PATIENT X737
+Hm hmm.
+
+DOCTOR X737
+Do you feel dizzy at all?
+
+PATIENT X737
+Sometimes.
+
+DOCTOR X737
+What happens?
+
+PATIENT X737
+I just sit down and relax a few minutes and it goes away.
+
+DOCTOR X737
+Okay.  What do you @@@?
+
+PATIENT X737
+I am not sure.  Um, you think it is too low?
+
+DOCTOR X737
+It is on the low side.
+
+PATIENT X737
+@@@.  I take the hydrochlorothiazide and lisinopril.
+
+DOCTOR X737
+Hm hmm.   And are you taking the nifedipine as well?
+
+PATIENT X737
+Yea, nifedipine, yes.
+
+DOCTOR X737
+Okay.  How much nifedipine are you taking?
+
+PATIENT X737
+One a day.
+
+DOCTOR X737
+One a day?  @@@.
+
+PATIENT X737
+@@@.  I am not sure.
+
+DOCTOR X737
+Do you get any @@@ this @@@ or @@@?
+
+PATIENT X737
+Uh, I have been taking the same ones that I had @@@.
+
+DOCTOR X737
+Oh, okay.  @@@ pharmacy looks like in the end of April.
+
+PATIENT X737
+April, right.
+
+DOCTOR X737
+@@@ had changed the dose.
+
+PATIENT X737
+The dose, yea.
+
+DOCTOR X737
+Alright, so which one are you taking?
+
+PATIENT X737
+That’s the one I am taking.
+
+DOCTOR X737
+The new one.  You picked that one up on.
+
+PATIENT X737
+Yea the 20th, 20th of April I think.
+
+DOCTOR X737
+The 21st of April.  So that is the one you are taking?
+
+PATIENT X737
+Yes.  Uh huh.
+
+DOCTOR X737
+@@@ a little bit on the lower side.  @@@.
+
+PATIENT X737
+Okay.
+
+DOCTOR X737
+So we are going to just back off it a little bit more.  Are you losing weight?
+
+PATIENT X737
+Yes.
+
+DOCTOR X737
+Are you trying to lose weight?
+
+PATIENT X737
+Ah, yes and no.
+
+DOCTOR X737
+@@@.
+
+PATIENT X737
+So I really never paid it any attention.  
+
+DOCTOR X737
+@@@.  It is the lowest it has been a year @@@.
+
+PATIENT X737
+@@@.
+
+DOCTOR X737
+@@@ good.  You @@@ if you have some @@@ couple @@@.  So maybe you can try to eat @@@.
+
+PATIENT X737
+Okay, thank you.
+
+DOCTOR X737
+Um, you follow with the psychiatrist?
+
+PATIENT X737
+Yes, I do.
+
+DOCTOR X737
+Okay.
+
+PATIENT X737
+DOCTOR.
+
+DOCTOR X737
+Okay and what do they give you?
+
+PATIENT X737
+Ah, the quetiapine, the nortriptyline, and @@@.  
+
+DOCTOR X737
+Okay.
+
+PATIENT X737
+@@@ take that twice a day and now that I take @@@.
+
+DOCTOR X737
+Is that helping?
+
+PATIENT X737
+Yes, it is helping.  
+
+DOCTOR X737
+Okay.  Alright so the main thing that we are going to work on are the diabetes control.
+
+PATIENT X737
+Yes, yes.  That’s the main thing.
+
+DOCTOR X737
+Yea, so I will see have to see what the number comes up as today and then we will go from there. 
+
+PATIENT X737
+Yes.
+
+DOCTOR X737
+Now your blood pressure, I am going to decrease your medications and you are going to @@@ the time @@@.
+
+PATIENT X737
+Yes, yes.  
+
+DOCTOR X737
+When was the last time you changed your diabetes medications?
+
+PATIENT X737
+It has been a while, um, I was with the pharmacist and, and I was taking 55 and @@@.  So she told me to stay with the @@@.
+
+DOCTOR X737
+The @@@.
+
+PATIENT X737
+Hm hmm.  
+
+DOCTOR X737
+Anything else @@@, no problems, no pain?
+
+PATIENT X737
+Just like you said, the @@@.
+
+DOCTOR X737
+@@@.
+
+PATIENT X737
+No, no.
+
+DOCTOR X737
+@@@.
+
+PATIENT X737
+Yea, I did @@@ now, no.
+
+DOCTOR X737
+Okay.
+
+PATIENT X737
+I know my limitations.  See @@@ when I get overheated, I go somewhere and get cool or sit down and. 
+
+DOCTOR X737
+@@@.
+
+PATIENT X737
+@@@.  That was a big scare to me.
+
+DOCTOR X737
+Yea.  
+
+PATIENT X737
+I go back on the 7th @@@, as much as I should.
+
+DOCTOR X737
+Okay.  Deep breath.  Deep breath.  Okay.  Okay, open your mouth.
+
+PATIENT X737
+@@@.
+
+DOCTOR X737
+Alright.  @@@.  Okay.  Hard as you can.  @@@.  Okay.  @@@.  Now push to me.  Relax.  @@@.  Can you @@@ up?  @@@.  Lift up.  Some weakness there huh?
+
+PATIENT X737
+Yes.  
+
+DOCTOR X737
+Okay, have a seat.  Let me go talk to DOCTOR.
+
+PATIENT X737
+Okay.  
+
+DOCTOR X737
+I will be right back.  So, um, @@@?
+
+PATIENT X737
+No, I have that.  No. @@@.
+
+DOCTOR X737
+What about @@@.
+
+PATIENT X737
+@@@ once a year.
+
+DOCTOR X737
+Okay, when was the last time you saw them?
+
+PATIENT X737
+Um, it had to be February.
+
+DOCTOR X737
+@@@ anything @@@.
+
+PATIENT X737
+Not other than @@@ the cataract surgery.
+
+DOCTOR X737
+Oh, okay.  
+
+PATIENT X737
+@@@.  
+
+DOCTOR X737
+Okay, they said that you had @@@ diabetes @@@.
+
+PATIENT X737
+Yes.
+
+DOCTOR X737
+Um, @@@ the foot doctor @@@.
+
+PATIENT X737
+Yes.
+
+DOCTOR X737
+Do you know how to do that?
+
+PATIENT X737
+No I don’t.
+
+DOCTOR X737
+@@@ Podiatry Consult @@@ so that is okay.
+
+PATIENT X737
+Okay.  It is coming up soon.  
+
+DOCTOR X737
+Okay.  I will be back.
+
+(DOCTOR OUT:  87:25  DOCTOR IN:
+
+DOCTOR X737
+@@@.  Um, this one, I have had a @@@ over @@@, happened @@@.
+
+PATIENT X737
+No I don’t.  No, I just, that is the lowest I have ever had.
+
+DOCTOR X737
+Okay.  Then there was a @@@ right here.
+
+PATIENT X737
+Right.  @@@.  
+
+DOCTOR X737
+Oh, okay, it is high.  Okay.  Alright.  So the 64, do you remember if you ate that day or?
+
+PATIENT X737
+Hm, no I don’t.  
+
+DOCTOR X737
+Okay do you know what happens when you sugar low?
+
+PATIENT X737
+@@@.
+
+DOCTOR X737
+The way you feel when you sugar gets low?
+
+PATIENT X737
+No.  I used to, like I said, if I get a little dizzy or something, I sit down.  So I am not sure @@@.
+
+DOCTOR X737
+Okay.  Here is what we are going to do.  We are going to stop the nifedipine, the blood pressure medication, and then @@@, small dose of another kind of insulin, to your regimen.
+
+PATIENT X737
+Okay. 
+
+DOCTOR X737
+Um, it is @@@.  So you take NPH right now and then you are going to take @@@.
+
+PATIENT X737
+@@@.  Okay.
+
+DOCTOR X737
+Only five units that we are going to add.
+
+PATIENT X737
+Okay.
+
+DOCTOR X737
+The @@@ sugar @@@ for about eight hours.  @@@.
+
+PATIENT X737
+Okay.
+
+DOCTOR X737
+And the way to do it is @@@ insulin and you @@@.
+
+PATIENT X737
+Oh okay.  @@@, in one.
+
+DOCTOR X737
+One @@@.  @@@.
+
+PATIENT X737
+Okay.  
+
+DOCTOR X737
+@@@ show you how to do it @@@.  @@@ see the nurse in a week.
+
+PATIENT X737
+Okay.  
+
+DOCTOR X737
+And you need to @@@.  Okay?
+
+PATIENT X737
+Okay.
+
+DOCTOR X737
+And then, stop your nifedipine because of the dizziness and because of the @@@ blood pressure @@@.  Okay?
+
+PATIENT X737
+Okay.
+
+DOCTOR X737
+Any questions @@@?
+
+PATIENT X737
+No.
+
+DOCTOR X737
+Okay, let me just @@@ and I will put the medicines in.  
+
+PATIENT LEAVES:  99:20
+
+
+
+
+

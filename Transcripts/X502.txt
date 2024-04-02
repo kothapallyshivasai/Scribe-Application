@@ -1,0 +1,1814 @@
+
+DOCTOR X502
+PATIENT?
+
+PATIENT X502
+Good morning.
+
+DOCTOR X502
+DOCTOR.
+
+PATIENT X502
+Hello DOCTOR, nice to meet you.
+
+DOCTOR X502
+@@@.
+
+PATIENT X502
+Okay no more DOCTOR?
+
+DOCTOR X502
+Oh um, he's just not here today.  He'll be back next week.
+
+PATIENT X502
+Okay.
+
+DOCTOR X502
+Um so I'm taking his place.
+
+PATIENT X502
+Pardon me?
+
+DOCTOR X502
+Oh he scheduled you so you'll see him on your next visit.
+
+PATIENT X502
+Okay thank you.
+
+DOCTOR X502
+Um.
+
+PATIENT X502
+And we're being recorded okay.
+
+DOCTOR X502
+Oh okay.  Do you record all your visits?
+
+PATIENT X502
+No it's just that some program is going on I guess DOCTOR agreed to it so since he's not here.
+
+DOCTOR X502
+Oh okay.  Um I know what you're referring to.
+
+PATIENT X502
+Okay.
+
+DOCTOR X502
+So now I'm part of it as well.
+
+PATIENT X502
+Okay good.  So we're okay with that?
+
+DOCTOR X502
+Yeah sure.
+
+PATIENT X502
+Good.
+
+DOCTOR X502
+Okay.  How are things going since you're last visit?
+
+PATIENT X502
+Not good, not good, not good because you know as you can see I came in for a knee problem.
+
+DOCTOR X502
+Uh-huh.
+
+PATIENT X502
+Uh I had uh whatcha call that ultrasound back here because there was a cyst back here.
+
+DOCTOR X502
+Right.
+
+PATIENT X502
+Okay and then so the knee is still giving me a lot of problems.
+
+DOCTOR X502
+Okay.
+
+PATIENT X502
+They took x-rays of it but see I never heard and then like they said they were gonna contact me and let me know what the x-ray was okay but they never did and my knee still hurts.
+
+DOCTOR X502
+Okay.
+
+PATIENT X502
+It hurts like a son-of-a-gun.  I don't know if it's cracked bone or if it's displaced or what you know.
+
+DOCTOR X502
+Sure.
+
+PATIENT X502
+But see they didn't call and let me know and that wasn't fair.
+
+DOCTOR X502
+Okay.  So the test you're referring to originally you had on March 15th?
+
+PATIENT X502
+I don't know what day it was.
+
+DOCTOR X502
+Okay.  Uh was that when you came in to Urgent Care?
+
+PATIENT X502
+Okay then I came back again.
+
+DOCTOR X502
+Right.
+
+PATIENT X502
+They took x-rays of it this time.  Do you have enough there for me?
+
+DOCTOR X502
+No I do yeah.
+
+PATIENT X502
+Okay.  Well they @@@.
+
+DOCTOR X502
+Was that the time you came in in the middle of February.
+
+PATIENT X502
+It was the 6th.
+
+DOCTOR X502
+It was the 5th and then you came in because you still had pain.
+
+PATIENT X502
+Right.
+
+DOCTOR X502
+On March 15th.
+
+PATIENT X502
+Now do I have any broken bones?
+
+DOCTOR X502
+Uh let's look.
+
+PATIENT X502
+See I don't know nothing you know.
+
+DOCTOR X502
+I apologize that they didn't call.
+
+PATIENT X502
+Okay.
+
+DOCTOR X502
+Um. 
+
+PATIENT X502
+See I don't know, like I said all I know is that my knee hurts, it still hurts.
+
+DOCTOR X502
+Okay.
+
+PATIENT X502
+I don't have a brace, no cane or nothing you know, they just ship me out there.
+
+DOCTOR X502
+Point to where the pain is.
+
+PATIENT X502
+When I walk, the whole area.
+
+DOCTOR X502
+The whole area, so there's not one area in particular?
+
+PATIENT X502
+No, no, especially when I'm walking.
+
+DOCTOR X502
+Okay.
+
+PATIENT X502
+And I don't have a brace.  Well really I can't afford a brace.
+
+DOCTOR X502
+We can give you one.
+
+PATIENT X502
+Thank you.
+
+DOCTOR X502
+So it looks like they saw some preventative things that were consistent with old age.  Your bones getting older.
+
+PATIENT X502
+Okay.
+
+DOCTOR X502
+And then they saw that um small calcified area which could be the same area as where the cyst is.  I don't know if the cyst is in there.
+
+PATIENT X502
+That's in the back of the knee there right?
+
+DOCTOR X502
+It's in the back of the knee.
+
+PATIENT X502
+Okay.
+
+DOCTOR X502
+Um which is where the same place that it's showing on the x-ray.
+
+PATIENT X502
+Okay.
+
+DOCTOR X502
+So it is on the ultrasound.
+
+PATIENT X502
+But no broken bones?
+
+DOCTOR X502
+No broken bones.
+
+PATIENT X502
+Okay.  Just old age setting in right?
+
+DOCTOR X502
+Yeah and then this little cyst that you have.
+
+PATIENT X502
+It's still there?
+
+DOCTOR X502
+Uh well at least on the 15th it was still there.
+
+PATIENT X502
+Because they say it had busted and the fluid was running down my leg and that's what by checking the tissue that's what brought the pain on.
+
+DOCTOR X502
+Um.
+
+PATIENT X502
+So that's what they told me what the ultrasound said okay.
+
+DOCTOR X502
+Okay.
+
+PATIENT X502
+You know I mean I want the truth, that's all I want you know.
+
+DOCTOR X502
+Sure.  I understand completely.  Um, let me look at your ultrasound.  Okay so after your appointment, after you had the ultrasound.
+
+PATIENT X502
+Okay.
+
+DOCTOR X502
+They told you there was a cyst there or they told you that it burst?
+
+PATIENT X502
+It bursted.
+
+DOCTOR X502
+Okay um.
+
+PATIENT X502
+And the fluid running down.
+
+DOCTOR X502
+Okay.  Did you feel it?
+
+PATIENT X502
+That's what started.  No.
+
+DOCTOR X502
+Oh.
+
+PATIENT X502
+I felt the pain.
+
+DOCTOR X502
+Okay.
+
+PATIENT X502
+Okay and now it's like I feel the pain when I'm walking but I also feel my bones, you know what I mean like man.
+
+DOCTOR X502
+Right.
+
+PATIENT X502
+It doesn't feel good doc.
+
+DOCTOR X502
+Okay.  Well so on the ultrasound um it shows that there's a cyst there.
+
+PATIENT X502
+Okay.
+
+DOCTOR X502
+I don't see that it, so if it could have popped between now and then but when you had the ultrasound done on the 19th there was a cyst there.
+
+PATIENT X502
+There was a cyst there.
+
+DOCTOR X502
+Yes.
+
+PATIENT X502
+And it bursted because they said that if the cyst was there they could go on in and draw the fluid out.
+
+DOCTOR X502
+Sometimes.  It depends on how big it is and if it's not very big.
+
+PATIENT X502
+Uh-huh.
+
+DOCTOR X502
+Then you know sometimes the risk of the procedure doesn't weigh out the benefit.
+
+PATIENT X502
+Okay we're cool.
+
+DOCTOR X502
+But your body will eventually, you know.
+
+PATIENT X502
+Okay I understand.
+
+DOCTOR X502
+Take care of it on its own.
+
+PATIENT X502
+But why, let me understand, why did they tell me it burst and fluid running down, that's why the pain in there because the fluid's pushing tissue?
+
+DOCTOR X502
+I'm not sure.
+
+PATIENT X502
+You see?
+
+DOCTOR X502
+I can't answer that.
+
+PATIENT X502
+Right, you see and it wasn't necessary to tell a story about that you know and I have to be concerned about my health now you know.  So I'm not trying to put you in the ballgame here, I just want fair answers.
+
+DOCTOR X502
+Okay.
+
+PATIENT X502
+That's all you know anyway.
+
+DOCTOR X502
+You're entitled to fair answers.
+
+PATIENT X502
+Right.
+
+DOCTOR X502
+Okay, so you taking anything for the pain?
+
+PATIENT X502
+I was taking Tylenol and then codeine with Tylenol before I went to bed but I don't have any more.  See I'm not working, I'm unemployed, I can't afford it so usually DOCTOR was providing a prescription for me.
+
+DOCTOR X502
+So even before you would come in you were taking the Tylenol.
+
+PATIENT X502
+Right.
+
+DOCTOR X502
+Not the pain medications.
+
+PATIENT X502
+No I didn't have any then.  I came in right away when it started pain.
+
+DOCTOR X502
+And how often are you taking them?
+
+PATIENT X502
+Don't have anymore.
+
+DOCTOR X502
+But when you were, when you did have them how often were you taking them?
+
+PATIENT X502
+Uh well as needed.  
+
+DOCTOR X502
+Okay.
+
+PATIENT X502
+I guess that's not saying much is it uh I would say.
+
+DOCTOR X502
+Once a day?
+
+PATIENT X502
+Once a day, once a day as far as the codeine because of the pain.
+
+DOCTOR X502
+Okay.
+
+PATIENT X502
+And when I was walking today I was taking them during the daytime so yes.  The Tylenol with codeine I was taking about I'd say every other, maybe every two days.
+
+DOCTOR X502
+Okay.
+
+PATIENT X502
+And I was taking them at night.
+
+DOCTOR X502
+Did they make you sleepy?
+
+PATIENT X502
+Yeah but.
+
+DOCTOR X502
+Yeah.
+
+PATIENT X502
+Some good sleep.
+
+DOCTOR X502
+Okay how are you doing on your other medications?
+
+PATIENT X502
+I ran out of my finasteride.
+
+DOCTOR X502
+Okay.
+
+PATIENT X502
+I called it in but I still haven't got any yet so and all the rest of them are low.
+
+DOCTOR X502
+Okay so are they sending you the finasteride then?
+
+PATIENT X502
+Yeah.
+
+DOCTOR X502
+Okay.
+
+PATIENT X502
+But I don't have any yet.  I didn't take none this morning so.
+
+DOCTOR X502
+Okay.
+
+PATIENT X502
+They said I called it in, I just didn't have any so I called again on Monday and they said five to seven days so I @@@ till then.
+
+DOCTOR X502
+Okay if not we can have you.
+
+PATIENT X502
+Yes please.
+
+DOCTOR X502
+You want to pick it up here?
+
+PATIENT X502
+Yes please.
+
+DOCTOR X502
+Okay.  It looks like um you're terazosin.
+
+PATIENT X502
+Terazosin.
+
+DOCTOR X502
+You still have two more refills on that.
+
+PATIENT X502
+Okay.
+
+DOCTOR X502
+And your amlodipine.
+
+PATIENT X502
+Amlodipine.
+
+DOCTOR X502
+You have two more refills on that.
+
+PATIENT X502
+Okay.
+
+DOCTOR X502
+And those are, they give you a 90 day supply so that's a six month supply.
+
+PATIENT X502
+Okay, okay.
+
+DOCTOR X502
+Uh your albuterol/ipratropium inhaler you still have seven refills.
+
+PATIENT X502
+Right, right.
+
+DOCTOR X502
+Okay.  Two refills on the lisinopril.
+
+PATIENT X502
+Okay.
+
+DOCTOR X502
+Um.  Do you take regular Tylenol?
+
+PATIENT X502
+Yes.
+
+DOCTOR X502
+Okay.  You're out of that it looks like.
+
+PATIENT X502
+Yeah.
+
+DOCTOR X502
+Okay.
+
+PATIENT X502
+And I need some, I need my Levitra, I need to keep them coming you know please.
+
+DOCTOR X502
+Okay.  So I'll renew it.  It looks like you still have three refills.
+
+PATIENT X502
+Okay.
+
+DOCTOR X502
+So that they, that's not something you can pick up at the window.
+
+PATIENT X502
+Right.
+
+DOCTOR X502
+You have to call.
+
+PATIENT X502
+Right.  You know doc I got to tell you something else that I have.
+
+DOCTOR X502
+Okay.
+
+PATIENT X502
+I have at tingling in my toes.
+
+DOCTOR X502
+Okay.  How long have you had that for?
+
+PATIENT X502
+Maybe a couple of months now.
+
+DOCTOR X502
+Okay.
+
+PATIENT X502
+And I just realized it.  I feel like that.  It's just right at the tip, right at the tip of these toes here, it's just.  Not numb, now don't get me wrong now but you know just a little tingle.  Not pain, don't get me wrong.  It's not pain, it's not uncomfortable.
+
+DOCTOR X502
+Okay.
+
+PATIENT X502
+But I know that's a funny feeling there.  I don't know why is that old age also?
+
+DOCTOR X502
+No um so is it on both feet?
+
+PATIENT X502
+No usually the right toes, the right toes.
+
+DOCTOR X502
+And you didn't injure them at all?
+
+PATIENT X502
+No.
+
+DOCTOR X502
+Okay and is it all day?
+
+PATIENT X502
+Pardon me?
+
+DOCTOR X502
+Does the tingling last all day?
+
+PATIENT X502
+All day.
+
+DOCTOR X502
+There's nothing that you can do that makes it go away?
+
+PATIENT X502
+No.
+
+DOCTOR X502
+Okay.
+
+PATIENT X502
+If it could kiss it maybe (laughter).
+
+DOCTOR X502
+And have you looked at your toes to see if there's any?
+
+PATIENT X502
+Yes.
+
+DOCTOR X502
+And you don't see anything.
+
+PATIENT X502
+No.
+
+DOCTOR X502
+Okay.
+
+PATIENT X502
+Just a tingle.
+
+DOCTOR X502
+And do you have any tingling anywhere else?
+
+PATIENT X502
+No, no.
+
+DOCTOR X502
+Any sharp shooting pain?
+
+PATIENT X502
+No, no, no, no.
+
+DOCTOR X502
+Anywhere okay.
+
+PATIENT X502
+No, no.
+
+DOCTOR X502
+Just there.
+
+PATIENT X502
+Right.
+
+DOCTOR X502
+Let's take a look.
+
+PATIENT X502
+Okay.  In that seat?
+
+DOCTOR X502
+Yes.
+
+PATIENT X502
+Like right about here so you know.  I mean just the tip of right in there you know.
+
+DOCTOR X502
+Here?
+
+PATIENT X502
+Uh-huh. @@@ do that.
+
+DOCTOR X502
+I won't.  Close your eyes for me.
+
+PATIENT X502
+Okay.
+
+DOCTOR X502
+And I want you to tell me if I'm moving your toe up or down.
+
+PATIENT X502
+Okay.  Up, down.
+
+DOCTOR X502
+Okay.
+
+PATIENT X502
+Yeah it was like when you did that, I also @@@ also @@@ like the body of it you know.
+
+DOCTOR X502
+Okay.  Close your eyes again.
+
+PATIENT X502
+Okay.
+
+DOCTOR X502
+Tell me when I'm touching you.
+
+PATIENT X502
+You are touching me, big toe, little toe, you're touching, touching, touching.
+
+DOCTOR X502
+Where am I touching?
+
+PATIENT X502
+Top.
+
+DOCTOR X502
+Okay.
+
+PATIENT X502
+Top.
+
+DOCTOR X502
+Okay.
+
+PATIENT X502
+Touching the foot part.
+
+DOCTOR X502
+Is it painful here?
+
+PATIENT X502
+No, nothing.
+
+DOCTOR X502
+When I push on, it doesn't hurt?
+
+PATIENT X502
+No it does not hurt; it's just a tingle about it, just a tingle.
+
+DOCTOR X502
+Okay and it doesn't ever happen in your left side?
+
+PATIENT X502
+No.
+
+DOCTOR X502
+Okay.  And you have plenty of room in your shoes?
+
+PATIENT X502
+Yes.
+
+DOCTOR X502
+Okay and all toes.
+
+PATIENT X502
+Nothing, you see it's not like that, it just in these two toes right here.
+
+DOCTOR X502
+Mostly these two toes.
+
+PATIENT X502
+Uh-huh.
+
+DOCTOR X502
+Okay.
+
+PATIENT X502
+And that nail just got like that, that part of it.
+
+DOCTOR X502
+Pardon?
+
+PATIENT X502
+This nail you it just, you know just like.
+
+DOCTOR X502
+Okay.
+
+PATIENT X502
+That it, thank you.
+
+DOCTOR X502
+Okay you just had your cholesterol checked so you want me to write down the numbers for you?
+
+PATIENT X502
+Please.  Like I said my main problem has been just my doggone knee man, so I guess I just have to wear a brace and work on getting young again right?
+
+DOCTOR X502
+Okay so here are the numbers.
+
+PATIENT X502
+Okay.
+
+DOCTOR X502
+The left side are your numbers and the right side are the goals.
+
+PATIENT X502
+My cholesterol.
+
+DOCTOR X502
+Correct.
+
+PATIENT X502
+Okay.  These are good numbers?
+
+DOCTOR X502
+They are good numbers.
+
+PATIENT X502
+Thank you.
+
+DOCTOR X502
+And compared to, do you want me to write down your old ones?
+
+PATIENT X502
+No.
+
+DOCTOR X502
+Okay.  Your bad cholesterol compared to the last time it was checked is a little bit better.
+
+PATIENT X502
+Okay.
+
+DOCTOR X502
+And okay, are you still smoking cigarettes?
+
+PATIENT X502
+I never was much of a smoker so I don't know why they have that there.
+
+DOCTOR X502
+Okay.  Well they have weekly that you smoke.
+
+PATIENT X502
+Occasionally is more like it okay.
+
+DOCTOR X502
+And alcohol on weekends?
+
+PATIENT X502
+Occasionally.
+
+DOCTOR X502
+Okay um, other drugs occasionally?
+
+PATIENT X502
+Occasionally. 
+
+DOCTOR X502
+Which drugs?
+
+PATIENT X502
+Cocaine.
+
+DOCTOR X502
+What's your method?
+
+PATIENT X502
+Pardon me?
+
+DOCTOR X502
+Method?
+
+PATIENT X502
+Smoke.
+
+DOCTOR X502
+Okay.  Any interest in cutting back on any of this?
+
+PATIENT X502
+Well I don't do it that much, if I cut back then I'll say I don't do it, that's just how frequent it is okay.
+
+DOCTOR X502
+Okay.
+
+PATIENT X502
+It's not like its.
+
+DOCTOR X502
+Well as your physician.
+
+PATIENT X502
+I understand.
+
+DOCTOR X502
+I would prefer that you would not do it.
+
+PATIENT X502
+But @@@ either.
+
+DOCTOR X502
+I understand, I appreciate that.
+
+PATIENT X502
+Okay.
+
+DOCTOR X502
+If you're going to use your Levitra I would not, I would suggest that you don't use cocaine anytime around that period.
+
+PATIENT X502
+Right, right, right, right, right, right so.  And then when I do that, that's just like maybe on New Year's, you know 4th of July, something like that.  Just when the Super Bowl you know when the guys.
+
+DOCTOR X502
+Special occasions.
+
+PATIENT X502
+Right you know and then it's not like a all night affair.
+
+DOCTOR X502
+Okay.
+
+PATIENT X502
+You know.  I love my, I know how important my health is okay.
+
+DOCTOR X502
+Uh-huh.
+
+PATIENT X502
+So but then that's just the thing because I'm not gonna lie to you you know.  I'm not a heavy user or anything.
+
+DOCTOR X502
+Okay.  So everything looks okay.  Your blood pressure looks good.
+
+PATIENT X502
+Uh-huh.
+
+DOCTOR X502
+Your cholesterol looks good.  Um your kidneys got slightly worse but we're still, there's nothing that we would do differently.
+
+PATIENT X502
+Uh-huh.
+
+DOCTOR X502
+As far as the management on it.
+
+PATIENT X502
+Uh-huh.
+
+DOCTOR X502
+The main thing is to; the medications you take help prevent your kidneys from getting worse.
+
+PATIENT X502
+Right, what's that.
+
+DOCTOR X502
+The lisinopril?
+
+PATIENT X502
+Is that right?
+
+DOCTOR X502
+It's good for your blood pressure and it also helps protect your kidneys.
+
+PATIENT X502
+Good but that's the thing I drink a lot of water.
+
+DOCTOR X502
+Okay.
+
+PATIENT X502
+I do, I mean I do it every day.  I drink a lot of water.  It doesn't, not gonna work against me is it?
+
+DOCTOR X502
+No.
+
+PATIENT X502
+Okay good.
+
+DOCTOR X502
+Okay and then you had a colonoscopy in 2006.
+
+PATIENT X502
+Yeah.
+
+DOCTOR X502
+And it was normal so we don't have to repeat it and then you saw the urologist in February and they said just follow up in one year.
+
+PATIENT X502
+Okay.  Now I got a question to ask you cause see.
+
+DOCTOR X502
+Uh-huh.
+
+PATIENT X502
+When I saw the urologist last, he said I got kind of scared there because I had to go back for my what's that reading called, the P.
+
+DOCTOR X502
+You had the ultrasound and you had the biopsy.
+
+PATIENT X502
+Yeah but it's a reading that that of the prostate.
+
+DOCTOR X502
+The PSA?
+
+PATIENT X502
+PSA okay.
+
+DOCTOR X502
+Okay.
+
+PATIENT X502
+And so like they were checking on that you know to see if I had cancer or not cause it was kind of high then I think you know.  But now I ask you this, even though you're not a urologist.
+
+DOCTOR X502
+Uh-huh.
+
+PATIENT X502
+I've heard that there's a cure for prostate cancer.
+
+DOCTOR X502
+There's treatment for it.  You can do surgery, you can do radiation and you can get chemotherapy depending on um how bad it is, where it is.
+
+PATIENT X502
+Oh okay.
+
+DOCTOR X502
+On what needs to be done.
+
+PATIENT X502
+But mine being in the position where like it's being checked on.
+
+DOCTOR X502
+Uh-huh.
+
+PATIENT X502
+It shouldn't get that far gone.
+
+DOCTOR X502
+Correct.
+
+PATIENT X502
+I mean all I have to do is just kind of let you know what's happening right.
+
+DOCTOR X502
+Right, so what happens is that in general we um we used to use the PSA test.
+
+PATIENT X502
+Uh-huh.
+
+DOCTOR X502
+More so we found over the recent years that it's not a great screening test for prostate cancer.
+
+PATIENT X502
+Okay.
+
+DOCTOR X502
+Unlike colon cancer you know where you can go and look with a camera.
+
+PATIENT X502
+Uh-huh.
+
+DOCTOR X502
+And you can see and you can take out a polyp right away.
+
+PATIENT X502
+Uh-huh, uh-huh.
+
+DOCTOR X502
+Um you know the PSA is just a blood test.
+
+PATIENT X502
+Right.
+
+DOCTOR X502
+So um you know there are patients who have a low PSA.
+
+PATIENT X502
+Uh-huh.
+
+DOCTOR X502
+With prostate cancer, they can show a high PSA and have prostate cancer so it's not a great test.
+
+PATIENT X502
+Okay.
+
+DOCTOR X502
+So that's why, when it's high um you know you kind of have to weigh the risks and benefit of doing a biopsy.
+
+PATIENT X502
+Okay, okay, okay.
+
+DOCTOR X502
+Or if you want to go down that route.
+
+PATIENT X502
+Okay.
+
+DOCTOR X502
+But sometimes prostate cancer can be very slow growing and so just the fact that we now have this test.
+
+PATIENT X502
+Uh-huh.
+
+DOCTOR X502
+And we're checking earlier.
+
+PATIENT X502
+Uh-huh.
+
+DOCTOR X502
+Um it doesn't necessarily mean that we're improved.  Changing the duration of your life per say.
+
+PATIENT X502
+Uh-huh, uh-huh.
+
+DOCTOR X502
+But just that we're being more invasive about how we check things and how we do things.
+
+PATIENT X502
+You see it's like, see my father died of prostate cancer.
+
+DOCTOR X502
+How old was he?
+
+PATIENT X502
+69.
+
+DOCTOR X502
+Okay.
+
+PATIENT X502
+Okay and uh the reason being @@@ I was just so very angry with the VA you know and it was a long time before I trusted the VA or even got seen.  He was at xxx.
+
+DOCTOR X502
+Uh-huh.
+
+PATIENT X502
+And they knew he had cancer and sent him to the county.
+
+DOCTOR X502
+Okay.
+
+PATIENT X502
+And that wasn't fair and I detested the VA for that you know.  Never trusted them again but I mean I'm okay with that now you know because that's years gone back, I need the VA care and all that but if I didn't like the VA I'd go to the county, you know what I mean.
+DOCTOR X502
+Right.
+
+PATIENT X502
+But because I want to go where I'm comfortable.
+
+DOCTOR X502
+Okay.
+
+PATIENT X502
+See.  Excuse me @@@ and I'm comfortable here with @@@ doctor has given me you know but this is just something I will never forget and the trust had to be I mean like I just didn't trust them but I'm okay now.  You know I explained that to the other doctors you know.
+
+DOCTOR X502
+Okay.
+
+PATIENT X502
+So they were wrong for doing that to my father so and anyway.
+
+DOCTOR X502
+So you're being, I mean given that it runs in your family um then you know they're watching you more carefully.
+
+PATIENT X502
+Okay, okay, right.
+
+DOCTOR X502
+Typically you know 69 is still um, it's not unreasonable for somebody to have prostate cancer.
+
+PATIENT X502
+Uh-huh.
+
+DOCTOR X502
+It's you know cause everybody's living longer now.
+
+PATIENT X502
+Right.
+
+DOCTOR X502
+If you live long enough you'll eventually get some form of cancer.
+
+PATIENT X502
+Right, right.
+
+DOCTOR X502
+Somewhere.
+
+PATIENT X502
+Right, right, right, right.
+
+DOCTOR X502
+Um but in your case the urologist just wants you to check in with them every year, we'll get that test done.
+
+PATIENT X502
+Okay good, good, good.
+
+DOCTOR X502
+So I'm sure they told you but your prostate biopsy was negative.
+
+PATIENT X502
+Right.
+
+DOCTOR X502
+Okay.
+
+PATIENT X502
+Yes.  Yes.  Okay.
+
+DOCTOR X502
+Okay so um, let's see @@@ the insulin. 
+
+PATIENT X502
+Uh-huh.
+
+DOCTOR X502
+How are your allergies?
+
+PATIENT X502
+I was going to ask you @@@ have a little rash up in here or something.  It @@@ cream.
+
+DOCTOR X502
+Uh-huh.  Okay take a deep breath for me and out again.  Sounds good.  Lay down for me.  Does it hurt when I push on your knees?
+
+PATIENT X502
+Somewhat.
+
+DOCTOR X502
+Okay what about back here?
+
+PATIENT X502
+Somewhat I can feel it.
+
+DOCTOR X502
+Does it feel like pressure?
+
+PATIENT X502
+Yeah pressure, I can feel the pressure but the pain is on a scale of one or two.
+
+DOCTOR X502
+We'll look at this.
+
+PATIENT X502
+And you can see doctor this knee is still swollen.
+
+DOCTOR X502
+No that's okay.
+
+PATIENT X502
+Right in there where.
+
+DOCTOR X502
+Right here where I'm pushing?
+
+PATIENT X502
+Right.
+
+DOCTOR X502
+Yeah it's real open when I push there.
+
+PATIENT X502
+Okay.
+
+DOCTOR X502
+Usually in here, give me your hand, can you feel behind your leg.
+
+PATIENT X502
+Uh-huh.
+
+DOCTOR X502
+That little, it gives a little.
+
+PATIENT X502
+Oh okay.
+
+DOCTOR X502
+And when you feel behind your right leg.
+
+PATIENT X502
+Okay, okay, right, right, right.  So it's just @@@ there.
+
+DOCTOR X502
+Uh-huh.
+
+PATIENT X502
+Okay, okay, okay, alright.
+
+DOCTOR X502
+Yeah I agree.  There's nothing we would do in terms of draining it.
+
+PATIENT X502
+Okay.
+
+DOCTOR X502
+Your body will naturally absorb the fluid.
+
+PATIENT X502
+Okay.
+
+DOCTOR X502
+It will go away.
+
+PATIENT X502
+@@@.
+
+DOCTOR X502
+How long that takes, everyone's different.
+
+PATIENT X502
+Oh okay.
+
+DOCTOR X502
+Yeah so you know you could have it for a while and it could be gone in a few weeks.
+
+PATIENT X502
+Oh okay.
+
+DOCTOR X502
+It's hard to say.
+
+PATIENT X502
+Okay well doc you know what, I see I do exercise a lot.
+
+DOCTOR X502
+Okay.
+
+PATIENT X502
+But yeah I do the treadmill.  I don't go fast; you know I don't run, because I can't run no way.  I go at a steady pace and then for about, I do it for 20 minutes.  Okay the first 10 minutes I'm like this okay and then for like the next five minutes, which @@@ I turn it up two notches but then the last five minutes I decrease.
+
+DOCTOR X502
+Okay, so is it making the pain worse when you do that?
+
+PATIENT X502
+No.
+
+DOCTOR X502
+It doesn't bother you at all?
+
+PATIENT X502
+No, no.
+
+DOCTOR X502
+Okay.
+
+PATIENT X502
+No and then when I get off then here come the pain again.
+
+DOCTOR X502
+Okay.
+
+PATIENT X502
+So.
+
+DOCTOR X502
+Um.
+
+PATIENT X502
+But now they have a little cycle you know.
+
+DOCTOR X502
+Yeah.
+
+PATIENT X502
+I do that but slow.
+
+DOCTOR X502
+Okay.
+
+PATIENT X502
+You know is that okay?
+
+DOCTOR X502
+Yeah I mean its all okay.  It could be though that you know all the exercise you're doing with the bending of the knee could be irritating it a little bit so it's making it harder for the, you know for the fluid to reabsorb.  So you might want to lay off of it for a few weeks and see if it doesn't go down.
+
+PATIENT X502
+So leave the treadmill alone.
+
+DOCTOR X502
+Um well it's better to do a sitting bike.
+
+PATIENT X502
+Like I have been.
+
+DOCTOR X502
+Although the biking is still, you're still gonna be moving your knee.
+
+PATIENT X502
+Okay so now they have two kinds.  The have the type with the bicycle one like this.
+
+DOCTOR X502
+Uh-huh.
+
+PATIENT X502
+And then they have a cycle to go like this.
+
+DOCTOR X502
+The cycle sitting, laying would be better.
+
+PATIENT X502
+Okay.  No pain.
+
+DOCTOR X502
+Um at least until this heals a little bit uh but you're still, it means you're still gonna have the constant motion on.
+
+PATIENT X502
+On the treadmill.
+
+DOCTOR X502
+Can you swim at all?
+
+PATIENT X502
+Can I swim?
+
+DOCTOR X502
+Yeah.
+
+PATIENT X502
+I don't have a swimming pool or nothing.
+
+DOCTOR X502
+Yeah okay.
+
+PATIENT X502
+So stay off the treadmill.
+
+DOCTOR X502
+So let's try it for a few weeks and see if it doesn't help decrease the fluid in there.
+
+PATIENT X502
+But pick up the cycling.
+
+DOCTOR X502
+If you want to do exercise, try doing the cycle where you're sitting down.
+
+PATIENT X502
+Okay.
+
+DOCTOR X502
+Okay and or you could try doing other things with your arms or @@@.
+
+PATIENT X502
+I do.
+
+DOCTOR X502
+And do that instead.
+
+PATIENT X502
+I was thinking of what @@@.
+
+DOCTOR X502
+No weights on the legs though.
+
+PATIENT X502
+No.
+
+DOCTOR X502
+Okay.
+
+PATIENT X502
+Okay.  Okay.
+
+DOCTOR X502
+Let's give the leg a rest.
+
+PATIENT X502
+Okay.
+
+DOCTOR X502
+And see if it doesn't improve.
+
+PATIENT X502
+Okay.
+
+DOCTOR X502
+Okay.
+
+PATIENT X502
+Alright.
+
+DOCTOR X502
+You can sit up.
+
+PATIENT X502
+Okay.
+
+DOCTOR X502
+Okay, just give me a few minutes I'll be right back.
+
+PATIENT X502
+Okay.
+
+DOCTOR X502
+Okay.
+
+(DOCTOR OUT:  64:40  DOCTOR IN:  77:48)
+
+SECOND DOCTOR X502
+Hello.
+
+PATIENT X502
+Hello there.
+
+SECOND DOCTOR X502
+How are you today?  I'm DOCTOR.
+
+PATIENT X502
+Nice to meet you DOCTOR.
+
+SECOND DOCTOR X502
+That's a strong handshake you got there.  I @@@ so it's the left knee that bothers you?
+
+PATIENT X502
+The left knee yes.
+
+SECOND DOCTOR X502
+Okay.  Can I look at it?
+
+PATIENT X502
+Sure excuse me.
+
+SECOND DOCTOR X502
+Where does it hurt, is it just all the way across, around?
+
+PATIENT X502
+Yes.
+
+SECOND DOCTOR X502
+And they noted the calcifications on the lateral side right?
+
+FIRST DOCTOR X502
+Posterolateral.
+
+SECOND DOCTOR X502
+Can you straighten your leg for me.  Well at any rate it doesn't look like anything that was serious.  It @@@ ligamentous or calcified loose body so I don't that's anything to be worried about but it could be causing some discomfort okay.  I don't.
+
+FIRST DOCTOR X502
+I mean it's very small but if you compare it and feel it on the right you'll feel that.
+
+SECOND DOCTOR X502
+Yeah.
+
+FIRST DOCTOR X502
+That's possible.
+
+SECOND DOCTOR X502
+It almost feels fatty.
+
+PATIENT X502
+Fatty.  Nobody's ever said it's just fat.
+
+SECOND DOCTOR X502
+No it's probably fluid, but that's what it feels like yeah.  It's not @@@, its fluid in here.
+
+PATIENT X502
+Okay.
+
+SECOND DOCTOR X502
+You can feel when I'm touching it.
+
+PATIENT X502
+Yes.
+
+SECOND DOCTOR X502
+But it feels very fatty.  It's fluid.
+
+PATIENT X502
+But its fluid.
+
+SECOND DOCTOR X502
+That's the way cysts happen I mean yeah.
+
+PATIENT X502
+Okay.
+
+SECOND DOCTOR X502
+Like no that fluid, did not want to go, you know its inside and it would not ever.
+
+PATIENT X502
+No kidding, why didn't they tell me that?
+
+SECOND DOCTOR X502
+I don't know, that was kind of a silly thing to say to you.  That's not, I mean I don't know exactly what they said but.
+
+PATIENT X502
+Okay, okay.
+
+SECOND DOCTOR X502
+But it's @@@.
+
+PATIENT X502
+No I understand that.
+
+SECOND DOCTOR X502
+But the other thing is do you eat a lot of foods that are high in potassium like green leafy vegetables @@@.
+
+PATIENT X502
+Yeah.
+
+SECOND DOCTOR X502
+Well the only thing is your potassium is a little too high.
+
+PATIENT X502
+It going too high?
+
+SECOND DOCTOR X502
+Yeah so maybe we could back down a little bit.
+
+PATIENT X502
+Okay now what food has potassium in it, I have to watch that right?
+
+SECOND DOCTOR X502
+Yeah.
+
+PATIENT X502
+Cause I ate about four bananas yesterday.
+
+SECOND DOCTOR X502
+Yeah so not too much.  That's what I'm saying is potassium is good for you but too much of it can affect your heart because that potassium is part of the cycle the heart rate @@@ uh is affected by potassium, sodium, things all found in food.
+
+PATIENT X502
+Okay.
+
+SECOND DOCTOR X502
+So like naturally if it gets too much actually it.
+
+PATIENT X502
+So now I have to go look up what foods have high potassium, there you go thank you very much.  Watch this.
+
+SECOND DOCTOR X502
+I might have something here.
+
+PATIENT X502
+Because I had a test done to see how my potassium was.
+
+FIRST DOCTOR X502
+And I want to recheck it today so that was in February so I'll make sure it's still not running low.
+
+SECOND DOCTOR X502
+You're fine.
+
+PATIENT X502
+And then I won't see you no more for about.  Well I'll tell you what, why don't I take a test about a couple weeks before I come back in again, by that way we can tell.  If you check it now I'll have to come back in four or five months.
+
+FIRST DOCTOR X502
+Oh but it's high now.
+
+PATIENT X502
+Oh.
+
+FIRST DOCTOR X502
+We'll have to make adjustments to your medications.
+
+SECOND DOCTOR X502
+For some things that's a good idea but if we're worried about what it is today we should probably have it.
+
+PATIENT X502
+Okay.  Alright.
+
+SECOND DOCTOR X502
+So this is a list of high potassium foods so you should avoid those things.  There's nothing you have to, so just don't go over the top.
+
+PATIENT X502
+Over the top.
+
+SECOND DOCTOR X502
+Stop any time.
+
+PATIENT X502
+Potatoes?  I love potatoes.
+
+SECOND DOCTOR X502
+Well just not too much.
+
+PATIENT X502
+Just not all the time.
+
+SECOND DOCTOR X502
+Just watch them.
+
+PATIENT X502
+Okay.
+
+SECOND DOCTOR X502
+Yeah.  @@@ as soon as you can and I mean if it comes back down you know you can.
+
+PATIENT X502
+Okay, so.  I miss things @@@ but I'm gonna follow your direction.
+
+FIRST DOCTOR X502
+And you, it's not like you actually you're allowed some of these.
+
+PATIENT X502
+Yes.
+
+FIRST DOCTOR X502
+So if back down a little for long and we'll see how it goes.
+
+PATIENT X502
+Okay, okay, okay.
+
+FIRST DOCTOR X502
+But first @@@ okay.
+
+PATIENT X502
+Okay.
+
+SECOND DOCTOR X502
+It just so happens that there was too much potassium.
+
+PATIENT X502
+Okay I can do that.
+
+SECOND DOCTOR X502
+Okay I think DOCTOR's got a good plan for you.
+
+PATIENT X502
+Thank you.
+
+SECOND DOCTOR X502
+It was nice meeting you.
+
+PATIENT X502
+Likewise.
+
+SECOND DOCTOR X502
+I'm not shaking your hand again that hurt.
+
+PATIENT X502
+Not true, don't go there now.
+
+FIRST DOCTOR X502
+Okay so your blood pressure's well controlled on the lisinopril and @@@.
+
+PATIENT X502
+Okay.
+
+FIRST DOCTOR X502
+We're going to recheck your labs today so why don't you go to the Lab first and hopefully then by the time you get everything else done your number will be back and I'll talk to you before you leave today.
+
+PATIENT X502
+Okay now okay.  Am I gonna pick up anything at the Pharmacy?
+
+FIRST DOCTOR X502
+Yeah you're gonna pick up your Tylenol #3.
+
+PATIENT X502
+Okay well then I'm gonna do that for, but that's while I'm going to the Lab.
+
+FIRST DOCTOR X502
+Okay.
+
+PATIENT X502
+See I @@@ here.
+
+FIRST DOCTOR X502
+Oh the Pharmacy okay, go to the Lab and then.
+
+PATIENT X502
+No I go to Pharmacy.
+
+FIRST DOCTOR X502
+Pharmacy.
+
+PATIENT X502
+Then I go to the Lab.
+
+FIRST DOCTOR X502
+And then go to Prosthetic upstairs to pick up your knee brace.
+
+PATIENT X502
+I don't know what Prosthetic is @@@.
+
+FIRST DOCTOR X502
+It's either on the fourth or the fifth floor of the xxx Building.
+
+PATIENT X502
+Could you write that down for me please?  They know I'm coming?
+
+FIRST DOCTOR X502
+Yep I put the order in.  xxx side so you go past the ER, all the way to the end then take the elevators up.
+
+PATIENT X502
+Up to the.
+
+FIRST DOCTOR X502
+It's fourth or fifth.  There'll be a sign that says Prosthetics.
+
+PATIENT X502
+Will you write that down too.
+
+FIRST DOCTOR X502
+@@@ alright.  So by the time you do these things then your lab should be back and then come sit in the Waiting Room and tell them that you're back.
+
+PATIENT X502
+Okay.
+
+FIRST DOCTOR X502
+Okay and then I'll come out, I'll look at your lab and I'll come out and tell you what is our plan.
+
+PATIENT X502
+So I go to the Pharmacy, I go in the Lab.
+
+FIRST DOCTOR X502
+And then you go to Prosthetics.
+
+PATIENT X502
+I go to Prosthetics and then I come back down here.
+
+FIRST DOCTOR X502
+Yes.
+
+PATIENT X502
+I'll be back.
+
+FIRST DOCTOR X502
+Okay.
+
+PATIENT X502
+Thank you very much.
+
+FIRST DOCTOR X502
+You're welcome.
+
+PATIENT X502
+You want me to close the door?
+
+FIRST DOCTOR X502
+Just leave it open.
+
+PATIENT LEAVES:  83:57.
+
+
+
+
+

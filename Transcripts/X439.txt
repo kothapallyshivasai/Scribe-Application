@@ -1,0 +1,1061 @@
+
+DOCTOR X439
+PATIENT?
+
+PATIENT X439
+Hey, hey, hello.  I just went to the back door.  How are you?
+
+DOCTOR X439
+Good morning.
+
+PATIENT X439
+Everybody @@@.
+
+DOCTOR X439
+@@@.
+
+PATIENT X439
+@@@.  I got me a new one, sit here?
+
+DOCTOR X439
+Yeah.
+
+PATIENT X439
+Alright.
+
+DOCTOR X439
+I'm DOCTOR.
+
+PATIENT X439
+Okay you gonna be my doctor from now on?
+
+DOCTOR X439
+Uh I think so.
+
+PATIENT X439
+Okay good.
+
+DOCTOR X439
+Why?
+
+PATIENT X439
+Um.
+
+DOCTOR X439
+You haven't been here in a while huh?
+
+PATIENT X439
+I thought I had guy here that used to be here.  I don't know what happen to him.
+
+DOCTOR X439
+Uh you saw DOCTOR last time.  He wasn't here for a while so, for about a month, cause he was doing something else and he didn't have clinics.  But he's back now if you want to go back to see him next time.
+
+PATIENT X439
+Well I got you know so let's do it.
+
+DOCTOR X439
+And I mean, we work together um.
+
+PATIENT X439
+Yeah.
+
+DOCTOR X439
+And we both work with DOCTOR so.
+
+PATIENT X439
+I understand, my thing is just I'm uncomfortable with what I'm about to ask you.
+
+DOCTOR X439
+Okay.
+
+PATIENT X439
+Which I'm still trying to conjure up the energy and nerve to do it.
+
+DOCTOR X439
+Okay what's that?
+
+PATIENT X439
+@@@.
+
+DOCTOR X439
+Alright.  So let's just go over some of your other medical problems.  Um your diabetes.
+
+PATIENT X439
+Yes.
+
+DOCTOR X439
+What are you taking now for the diabetes?
+
+PATIENT X439
+I don't even remember.  I've took so much and this is a new one I haven't even started for about maybe three or four weeks ago.
+
+DOCTOR X439
+Okay are you doing your blood draws?  How many pills are you taking?
+
+PATIENT X439
+I am taking one of those large ones.  I wish I had.
+
+DOCTOR X439
+You didn't bring them with you?
+
+PATIENT X439
+No.
+
+DOCTOR X439
+Okay.
+
+PATIENT X439
+It's working.
+
+DOCTOR X439
+Are you taking aspirin every day?
+
+PATIENT X439
+Yes.
+
+DOCTOR X439
+Okay.  Um are you taking the lisinopril?  You're taking the full tablet for your blood pressure now?
+
+PATIENT X439
+Yes I am.  I didn't take it this morning cause I was running late, I just ran out.
+
+DOCTOR X439
+Okay.  Um cause your blood pressure is high today.
+
+PATIENT X439
+Is it higher than last time?
+
+DOCTOR X439
+Um, let me see what it was last time, yes.
+
+PATIENT X439
+Higher?
+
+DOCTOR X439
+Uh-huh.
+
+PATIENT X439
+I didn't take it today.
+
+DOCTOR X439
+Okay.
+
+PATIENT X439
+@@@.
+
+DOCTOR X439
+Alright and are you taking the metformin?
+
+PATIENT X439
+Which one is that?
+
+DOCTOR X439
+So that one is the one that um the pharmacist increased you from a couple weeks ago.
+
+PATIENT X439
+Yes.
+
+DOCTOR X439
+You're taking that?
+
+PATIENT X439
+Yes.
+
+DOCTOR X439
+And you're taking the higher dose?
+
+PATIENT X439
+Yes I'm taking all the latest things the prescriptions and that's all I have.
+
+DOCTOR X439
+Okay and you're taking.
+
+PATIENT X439
+The medication list is up-to-date.
+
+DOCTOR X439
+Okay did you take your diabetes medicines today?
+
+PATIENT X439
+I took what I had on me cause like I said I this pill thing.
+
+DOCTOR X439
+A pill box.
+
+PATIENT X439
+Yeah.
+
+DOCTOR X439
+Okay.  Um.
+
+PATIENT X439
+@@@.
+
+DOCTOR X439
+It's important to take it every day.
+
+PATIENT X439
+I do, that's a fact.
+
+DOCTOR X439
+Um some of the other things, last time we checked your urine everything looked okay, except you have a lot of sugar in it okay.
+
+PATIENT X439
+Yeah I know.
+
+DOCTOR X439
+Cause your diabetes isn't that well controlled.
+
+PATIENT X439
+Right.
+
+DOCTOR X439
+Um did the pharmacist talk to you about what all of your options are if your sugars aren't controlled on these medicines?
+
+PATIENT X439
+No.
+
+DOCTOR X439
+Okay.
+
+PATIENT X439
+I'm working on just taking the medication and just.
+
+DOCTOR X439
+Yeah I mean.
+
+PATIENT X439
+It's really better.
+
+DOCTOR X439
+You've only been on it a couple weeks so I don't think it's time to recheck the blood tests yet okay.  Um but just so you know if we max out on pills.
+
+PATIENT X439
+You gonna take the insulin.
+
+DOCTOR X439
+Yeah that's the next step.  I mean we're not to that point yet but just so you know that.
+
+PATIENT X439
+I'm not looking forward to that.
+
+DOCTOR X439
+So some of the things you can do is watch your diet.  I don't know what kind of things you eat right now.
+
+PATIENT X439
+I don't eat red meat that much.
+
+DOCTOR X439
+Uh-huh.
+
+PATIENT X439
+What I'm eating, I'm eating salads and eating @@@ and occasional once or twice a month I'll have pork chops.
+
+DOCTOR X439
+Okay.
+
+PATIENT X439
+Uh.
+
+DOCTOR X439
+What about sugar?  Like are you eating a lot of carbs like pasta, rice, white bread?
+
+PATIENT X439
+I eat uh wheat bread.
+
+DOCTOR X439
+Okay.
+
+PATIENT X439
+Oat bran, wheat.
+
+DOCTOR X439
+Okay wheat.
+
+PATIENT X439
+Uh.
+
+DOCTOR X439
+What about, do you eat a lot of sugar?
+
+PATIENT X439
+I eat a lot of, I eat those mixed nuts.
+
+DOCTOR X439
+Okay good.  It sounds like your diet is pretty good then.  You don't eat a lot of sugars or sweets or anything like that?
+
+PATIENT X439
+I have, I have sweets that I've bought but it's an occasional and I keep them in the refrigerator.  I have chocolate you know and every once in a while I have one.
+
+DOCTOR X439
+They make sugar free stuff too.
+
+PATIENT X439
+Where?
+
+DOCTOR X439
+Uh a lot of stores carry them.
+
+PATIENT X439
+I only shop at xxx's because it's more affordable for me.
+
+DOCTOR X439
+Okay.
+
+PATIENT X439
+It's closer.
+
+DOCTOR X439
+Yeah.
+
+PATIENT X439
+But I'll.
+
+DOCTOR X439
+Yeah, you know just keep eye on it for um.
+
+PATIENT X439
+Right.
+
+DOCTOR X439
+I mean they don't make everything sugar free but they make some stuff sugar free now um and that would help.  Weight loss will help with both the blood pressure.
+
+PATIENT X439
+No good but.
+
+DOCTOR X439
+And then.
+
+PATIENT X439
+They weighed me here before the appointment.  When I don't have everything I'm in the 252, 253.
+
+DOCTOR X439
+Yeah.
+
+PATIENT X439
+So that's not accurate.
+
+DOCTOR X439
+And you seem like a you know like a muscular guy but.
+
+PATIENT X439
+I used to be a power mixer.
+
+DOCTOR X439
+Yeah.  Still any amount of weight loss helps okay.  Just uh, something to think about.
+
+PATIENT X439
+I'm a maintenance engineer in my building.  I @@@ everybody can handle that so.  It's a 16 unite.
+
+DOCTOR X439
+Yeah.
+
+PATIENT X439
+@@@ profile, I'm not.
+
+DOCTOR X439
+It sounds like you're active then.
+
+PATIENT X439
+Yes.
+
+DOCTOR X439
+Yeah.
+
+PATIENT X439
+What they told me is that maybe I should get some, a little cardio.
+
+DOCTOR X439
+Yeah.
+
+PATIENT X439
+Which I try to but it's hard to do with this weather.
+
+DOCTOR X439
+It is hard for you to do.
+
+PATIENT X439
+With this kind of weather.
+
+DOCTOR X439
+Yeah um, as the weather gets warmer then maybe it'll get easier.
+
+PATIENT X439
+Uh I like to go to the park.  I've been wanting to bike ride but then again I don't know if it's permitted in where I live.
+
+DOCTOR X439
+No I.
+
+PATIENT X439
+@@@.
+
+DOCTOR X439
+I.
+
+PATIENT X439
+No, I'm over here on Mondale, @@@ that's a war zone there you know, because of fire.
+
+DOCTOR X439
+Uh-huh.
+
+PATIENT X439
+Fights you know.
+
+DOCTOR X439
+Yeah no I understand you try.
+
+PATIENT X439
+Cause it's hard to keep the.
+
+DOCTOR X439
+The um, they have a MOVE Program here.  Have anyone talked to you about that?
+
+PATIENT X439
+I can't move because you know what.
+
+DOCTOR X439
+Well that's, no it's called the MOVE Program.  It's to help people diet and exercise.
+
+PATIENT X439
+Oh.
+
+DOCTOR X439
+It's not about moving, no, no, no, no.  It's um every Monday at 10 a.m. they meet in the Library and then talk.  They help people get you know set up with exercise.
+
+PATIENT X439
+Yeah.
+
+DOCTOR X439
+And stuff like that yeah.
+
+PATIENT X439
+Oh that'd be great.
+
+DOCTOR X439
+So um it's every Monday so you're more than.
+
+PATIENT X439
+That's once a week?
+
+DOCTOR X439
+Well the first meeting they have an introductory meeting every Monday and then from there they I believe they have other times um to work around your schedule.
+
+PATIENT X439
+That @@@ going through I been through.
+
+DOCTOR X439
+Yeah, yeah.
+
+PATIENT X439
+@@@ and if I could go maybe.  Like I said I used to be able to follow @@@.  I used to train people so I'm just going to have to just fall back into that cause making it over here every Monday @@@.
+
+DOCTOR X439
+But no you don't have to go every Monday but going once and then getting you know into maybe going once a month or something like that.
+
+PATIENT X439
+That's possible.  One of the reasons is location is what stops me.
+
+DOCTOR X439
+Yeah, yeah.  Just so you know that service is there um it's a walk-in and you don't need any forms or anything.  It's Monday at 10 a.m. okay.
+
+PATIENT X439
+Okay.
+
+DOCTOR X439
+Um let's see now you were just in the Urgent Care a few weeks ago with some knee pain?
+
+PATIENT X439
+I still got it.
+
+DOCTOR X439
+How's that doing?
+
+PATIENT X439
+It got better at one point and it started to regress and I think I might need it either x-rayed or scoped.
+
+DOCTOR X439
+Okay.
+
+PATIENT X439
+@@@.
+
+DOCTOR X439
+Um what are you taking for it right now?
+
+PATIENT X439
+I'm taking all along, the ibuprofen uh.
+
+DOCTOR X439
+Okay.
+
+PATIENT X439
+I've been icing it on and off.  I stopped icing cause it got better.
+
+DOCTOR X439
+Has this @@@?
+
+PATIENT X439
+Uh-huh it's really sore.
+
+DOCTOR X439
+Okay.
+
+PATIENT X439
+It gets stiff, it gets you know.
+
+DOCTOR X439
+Why don't we have you go see the orthopedic doctors okay?
+
+PATIENT X439
+Alrighty.
+
+DOCTOR X439
+And they'll decide if they need to do um you know, if they need an MRI or if they want to do a scope.  You had knee surgery you had torn cartilage in that knee in the past right?
+
+PATIENT X439
+Yeah that same @@@ yeah.
+
+DOCTOR X439
+Uh it's your right knee correct?
+
+PATIENT X439
+Correct.
+
+DOCTOR X439
+Okay.  Alright so let's see what else um.  You got your um flu shots last time?
+
+PATIENT X439
+I got my flu shot and uh H1N1.
+
+DOCTOR X439
+Okay great and they gave you the pneumonia shot?
+
+PATIENT X439
+Yes.  I didn't want to take a chance you know.
+
+DOCTOR X439
+Yeah.  Um have you gotten your tetanus shot?
+
+PATIENT X439
+Uh I want to.
+
+DOCTOR X439
+Okay let me put that in so you don't forget.
+
+PATIENT X439
+Yeah cause I do a lot of @@@.
+
+DOCTOR X439
+When was your last tetanus shot?
+
+PATIENT X439
+I don't recall that's how far back.
+
+DOCTOR X439
+Okay.  So I'm gonna give you, they now recommend getting um.  There are two different types of tetanus shots.  One just has tetanus and diphtheria; one has those two and then whooping cough in it too.
+
+PATIENT X439
+What's the best?  What is the best?
+
+DOCTOR X439
+I'm gonna give you the one with whooping cough then you don't have to get that ever again.  It's a booster of the whooping cough that you got when you were a kid.
+
+PATIENT X439
+Alrighty.
+
+DOCTOR X439
+You just need it once.
+
+PATIENT X439
+Alright.
+
+DOCTOR X439
+And in a month.
+
+PATIENT X439
+Okay.
+
+DOCTOR X439
+Alright so we're gonna give that to you today um and the next time you'll just get the regular one.  Um you go see the psychiatrist right?
+
+PATIENT X439
+Yes I do.
+
+DOCTOR X439
+No problems there.  Have you made your appointment for the colonoscopy?
+
+PATIENT X439
+You know what happened, I had to reschedule it.
+
+DOCTOR X439
+Okay.
+
+PATIENT X439
+I called and told them already.
+
+DOCTOR X439
+Yeah.
+
+PATIENT X439
+Cause I see them in the morning.
+
+DOCTOR X439
+Yeah so you've been scheduled for tomorrow at 8:30.
+
+PATIENT X439
+I know.
+
+DOCTOR X439
+Do you know that?
+
+PATIENT X439
+That's the one I'm canceling.
+
+DOCTOR X439
+Oh did you call and cancel it already?
+
+PATIENT X439
+Yeah.
+
+DOCTOR X439
+Okay, alright.
+
+PATIENT X439
+Yes.
+
+DOCTOR X439
+Oh so you uh, sounds like you have it under control.
+
+PATIENT X439
+I'm all over it.
+
+DOCTOR X439
+Okay.  Alright well I think um today we'll get you to see the orthopedic, we'll get that.
+
+PATIENT X439
+Today?
+
+DOCTOR X439
+Well they'll put in, it won't be today.  It'll probably be in a week or two.
+
+PATIENT X439
+Or something in the mail?
+
+DOCTOR X439
+Um you can make your appointment at the front desk.
+
+PATIENT X439
+Okay what they can for you, are you able to prescribe if I needed something or requested something through you?
+
+DOCTOR X439
+Uh that depends, what are you asking for?  It depends.
+
+PATIENT X439
+Uh I need to see if I can try Cialis.
+
+DOCTOR X439
+Okay.  I thought that was what you were gonna ask.
+
+PATIENT X439
+Just, I'm not enjoying this at all.
+
+DOCTOR X439
+No um, what we have here is, we don't carry Cialis here at the VA.  We have um Levitra, similar type of medicine.
+
+PATIENT X439
+What does it do?  @@@.
+
+DOCTOR X439
+Yeah it's, it works the same but it's a different means okay.  Viagra, Cialis, Levitra they all do the same thing okay.  Um it's just this one you're seeing on TV more.  So.
+
+PATIENT X439
+And then, I was okay with the diabetes @@@ but once the high blood pressure kicked in I'm. 
+
+DOCTOR X439
+Yeah, all this stuff and that's another reason to get the blood sugars under control.
+
+PATIENT X439
+Yeah I hear that.
+
+DOCTOR X439
+I, so I can give you that today.
+
+PATIENT X439
+Give me what?
+
+DOCTOR X439
+The medicine.
+
+PATIENT X439
+Levitra?
+
+DOCTOR X439
+Yes.
+
+PATIENT X439
+Okay great.
+
+DOCTOR X439
+Okay.  Um and.
+
+PATIENT X439
+How does that work?  I had another question about this, never.
+
+DOCTOR X439
+So it, it works on the blood supply.
+
+PATIENT X439
+@@@.
+
+DOCTOR X439
+You want the technical stuff?
+
+PATIENT X439
+I'm a 4-year-old so explain it to me.
+
+DOCTOR X439
+So you take it before intercourse.
+
+PATIENT X439
+Okay.
+
+DOCTOR X439
+Um.  It helps you to have an erection.
+
+PATIENT X439
+Okay.
+
+DOCTOR X439
+Um and you have um.
+
+PATIENT X439
+How do you take a, excuse what?
+
+DOCTOR X439
+Yeah.
+
+PATIENT X439
+Half hour before, 10 minutes, right then when?  When is the best time?
+
+DOCTOR X439
+Uh you can, it's you're supposed to take it 15, 20 minutes it you want or right then.  It doesn't really matter.  Um it works pretty quickly.
+
+PATIENT X439
+So like I said I'm, this is all new to me.
+
+DOCTOR X439
+Okay.  When you take it.
+
+PATIENT X439
+And I'm hoping not to need it.
+
+DOCTOR X439
+When you pick it up at the Pharmacy.
+
+PATIENT X439
+@@@.
+
+DOCTOR X439
+They can give you a handout too of.
+
+PATIENT X439
+Ohh.
+
+DOCTOR X439
+You know how it works, side effects, all that kind of stuff.
+
+PATIENT X439
+Alright.
+
+DOCTOR X439
+Okay.
+
+PATIENT X439
+That's good, that's good.
+
+DOCTOR X439
+They have handouts there so I'm gonna put it here that you're gonna pick it up at the Pharmacy today.
+
+PATIENT X439
+Okay please.
+
+DOCTOR X439
+Okay and I'll give you two refills and.
+
+PATIENT X439
+How many do they come?
+
+DOCTOR X439
+They only give you two a month.
+
+PATIENT X439
+Two a month?
+
+DOCTOR X439
+I know, everybody complains about it.  I have no control over that though.
+
+PATIENT X439
+That's not good.  That's not good at all.
+
+DOCTOR X439
+That's all, um I'm gonna give you the lower dose right now okay.
+
+PATIENT X439
+Okay.
+
+DOCTOR X439
+Um and when you come back if it's not working we can go up to the higher dose so let us know.
+
+PATIENT X439
+Okay.
+
+DOCTOR X439
+Whether you see me or DOCTOR okay.
+
+PATIENT X439
+Okay alrighty.
+
+DOCTOR X439
+Alright.  Come up here and have a seat.
+
+PATIENT X439
+I'm gonna walk now.  Last time I was able to walk it.
+
+DOCTOR X439
+@@@.
+
+PATIENT X439
+Uh I guess it's the wrong benefit.
+
+DOCTOR X439
+Deep breath.  No pain in the belly or anything?  Your feet ever swell?
+
+PATIENT X439
+Sometimes, not often.
+
+DOCTOR X439
+Can you pull up your pants so I can see your knees?  @@@ get them up.  So where does it hurt?
+
+PATIENT X439
+Right in here.
+
+DOCTOR X439
+In the back.
+
+PATIENT X439
+Yeah.
+
+DOCTOR X439
+Okay.  No swelling up in the front though.
+
+PATIENT X439
+A little bit, maybe just compared to the other one.
+
+DOCTOR X439
+Okay I'm just going to move your leg for a second, let it down just a little bit.  Lay back for me.
+
+PATIENT X439
+That's it.
+
+DOCTOR X439
+@@@ with this.
+
+PATIENT X439
+None of that just.
+
+DOCTOR X439
+Relax, @@@ a little bit.
+
+PATIENT X439
+Yeah.  
+
+DOCTOR X439
+Right here for a little bit.
+
+PATIENT X439
+Right here and I get it when you do that.
+
+DOCTOR X439
+Okay sit back up.   But you know it's not swollen or anything.  I feel um some arthritis in there.
+
+PATIENT X439
+Uh-huh.
+
+DOCTOR X439
+So um I think we'll get you in to see the orthopedic doctors and we'll let them.
+
+PATIENT X439
+Okay.
+
+DOCTOR X439
+Alright.  Let me go talk to um DOCTOR and I'll be right back.
+
+PATIENT X439
+Alright.
+
+(DOCTOR OUT:  47:09  DOCTOR IN:  49:47)
+
+DOCTOR X439
+Alright, so um so this is what we're gonna do let's see.
+
+PATIENT X439
+@@@.
+
+DOCTOR X439
+Your knee?
+
+PATIENT X439
+Yeah I started icing it.
+
+DOCTOR X439
+Uh-huh.
+
+PATIENT X439
+And it was a little better but yesterday it was kind of stiff.
+
+DOCTOR X439
+Okay.  Um.  Do you want to go to Physical Therapy or anything?
+
+PATIENT X439
+Um, um my thing is this uh I want to say that I want to go the shortest route.  I don't want to have to put in a lot of therapy @@@.
+
+DOCTOR X439
+Uh-huh.
+
+PATIENT X439
+Now I say if they see what's wrong and they need to open it, open it or not.
+
+DOCTOR X439
+They usually recommend sending you to Physical Therapy before being seen then.  I may have to send you.
+
+PATIENT X439
+Alright let's do it that way.
+
+DOCTOR X439
+Um.  Um we need to get an x-ray today.
+
+PATIENT X439
+I'm getting an x-ray today?
+
+DOCTOR X439
+You need to get a single x-ray of the knee before you can see them.
+
+PATIENT X439
+Okay that's this.
+
+DOCTOR X439
+Um.  So do you know where X-Ray is?
+
+PATIENT X439
+No cause I @@@ find it.
+
+DOCTOR X439
+So if you go back towards the @@@ um on the, if you were walking go upstairs, it's on the left and then you'll follow some elevators, go past the elevators.  They can point it out to you.
+
+PATIENT X439
+Alright if I get lost they'll tell me.
+
+DOCTOR X439
+Uh but definitely stop at the front desk anyway and um schedule the orthopedic appointment.  Schedule the orthopedic appointment um and then go get your x-ray and then go to the Pharmacy.  That'll cut down in the time waiting in the Pharmacy.  I'm going to put in for you to come back in three months.
+
+PATIENT X439
+That'll be my next visit with you or with someone else?
+
+DOCTOR X439
+With me or do you want to come back and see me or do want to see DOCTOR?  It's up to you.
+
+PATIENT X439
+The cat's out of the bag now, it doesn't matter now.
+
+DOCTOR X439
+Um I'll just put with me but you can see whoever's available okay.
+
+PATIENT X439
+Alright.
+
+DOCTOR X439
+Um before you come in that morning I want you to get some lab tests done before you see me.
+
+PATIENT X439
+Come in early and go down and get some labs.
+
+DOCTOR X439
+Yeah.  So I want to check your.
+
+PATIENT X439
+Sugars?
+
+DOCTOR X439
+Check your sugars um, I want to check your um the diabetes, the hemoglobin A1c.  You know what that is right?  It tells how your sugars have been over three months.
+
+PATIENT X439
+Right.
+
+DOCTOR X439
+Yeah so um, we'll check that before you come in um, @@@ that's all alrighty.
+
+PATIENT X439
+Alright.  Can you read them?
+
+DOCTOR X439
+Any questions?
+
+PATIENT X439
+No.
+
+DOCTOR X439
+Take this up to the front.
+
+PATIENT X439
+@@@.
+
+DOCTOR X439
+And then you can get your um.
+
+PATIENT X439
+What the x-ray, straight from here?
+
+DOCTOR X439
+So go up to the front desk and schedule the orthopedic appointment and then get your x-ray.
+
+PATIENT X439
+Is this the orthopedic appointment?
+
+DOCTOR X439
+Yeah it has it on there.
+
+PATIENT X439
+And go on to x-ray.
+
+DOCTOR X439
+And then get your tetanus shot.
+
+PATIENT X439
+Where?
+
+DOCTOR X439
+The nurses can give it to you.  They'll can @@@ here. okay.
+
+PATIENT X439
+Alrighty.  Thank you very much.
+
+DOCTOR X439
+Alright, no problem.
+
+PATIENT X439
+Have a good day.
+
+DOCTOR X439
+You too.
+
+PATIENT X439
+@@@.
+
+DOCTOR X439
+@@@.
+
+PATIENT LEAVES:  54:22
+
+
+
+

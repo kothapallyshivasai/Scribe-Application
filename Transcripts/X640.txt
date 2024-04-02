@@ -1,0 +1,341 @@
+
+DOCTOR X640
+PATIENT?  @@@.
+
+PATIENT X640
+@@@.
+
+DOCTOR X640
+Yep.  Thanks for coming.  How you been doing?
+
+PATIENT X640
+Uh I'm here.
+
+DOCTOR X640
+So so yeah.
+
+PATIENT X640
+Yeah.
+
+DOCTOR X640
+I saw you were in the hospital a month ago for some @@@.
+
+PATIENT X640
+Uh when was that?  That was all back in February.
+
+DOCTOR X640
+February yeah.
+
+PATIENT X640
+Yeah, yeah.  Oh.
+
+DOCTOR X640
+So have you had any problem since then?
+
+PATIENT X640
+I been having no problem.  I went to treatment.
+
+DOCTOR X640
+Oh for addiction?
+
+PATIENT X640
+Yeah.
+
+DOCTOR X640
+Good, how you doing?
+
+PATIENT X640
+Uh that same week after I got out of the hospital.
+
+DOCTOR X640
+Yeah.
+
+PATIENT X640
+Yeah, @@@.
+
+DOCTOR X640
+So are you clean?
+
+PATIENT X640
+I ain't all the clean.  I don't do crack cocaine no more, I can't lie I been smoking marijuana cause it help me relax.
+
+DOCTOR X640
+Okay.
+
+PATIENT X640
+But I haven't been doing any crack cocaine.
+
+DOCTOR X640
+But you're going to the Addiction Treatment here?
+
+PATIENT X640
+No I went to xxx xxx.
+
+DOCTOR X640
+Oh okay.
+
+PATIENT X640
+Yeah.  So I went to them so I mean I ain't had no problems before, no chest pains or nothing like that.
+
+DOCTOR X640
+Good.  I was gonna say that's probably what would be the cause.  I don't know if they talked to you about that.
+
+PATIENT X640
+Oh they did.  I knew that was the cause.
+
+DOCTOR X640
+Okay.
+
+PATIENT X640
+Yeah, so I knew I had to do something so.
+
+DOCTOR X640
+So how have you been feeling?
+
+PATIENT X640
+Uh I feel pain.
+
+DOCTOR X640
+Yeah.
+
+PATIENT X640
+Yeah.
+
+DOCTOR X640
+You're on the Vicodin and Flexeril?
+
+PATIENT X640
+Uh Vicodin, what's Flexeril?
+
+DOCTOR X640
+Cyclobenzaprine.
+
+PATIENT X640
+Right here.
+
+DOCTOR X640
+Yeah it's prescribed to you.  I don't know if you're taking it but.
+
+PATIENT X640
+Uh what's that for?
+
+DOCTOR X640
+It's a muscle relaxer.
+
+PATIENT X640
+But they haven't been giving it to me.
+
+DOCTOR X640
+It says it's active.
+
+PATIENT X640
+Yeah that's what I wanted to talk to you about too.  I haven't got any muscle relaxers in it's been for two months and with my knee you know spasms of the back a lot yeah I came Monday cause of.
+
+DOCTOR X640
+Looks like, oh yeah are they just not sending your pills?
+
+PATIENT X640
+I guess not.
+
+DOCTOR X640
+Then you can pick it up.
+
+PATIENT X640
+Yeah I'll pick it up.
+
+DOCTOR X640
+Yeah.  You could just go over there and pick it up.
+
+PATIENT X640
+And I wanted to know also today if I could get um more refills so I'll probably get them like next week maybe like Wednesday or something.
+
+DOCTOR X640
+I don't think I can get, I can't give them to you early, through the Pharmacy for like pain medicine?
+
+PATIENT X640
+Yeah.
+
+DOCTOR X640
+Yeah you can ask them.  I don't think I can give them to you early.
+
+PATIENT X640
+Yeah.
+
+DOCTOR X640
+It can only be like once a month.  They're super strict about it.
+
+PATIENT X640
+Right.
+
+DOCTOR X640
+Are you going out of town or something?
+
+PATIENT X640
+Yeah for my daughter's graduation and I'm gonna be gone for a couple of weeks.  The last time I got it was, cause sometimes, but one time they let me get them like a week early you know I came in early so.
+
+DOCTOR X640
+Uh.
+
+PATIENT X640
+So if I could pick them up like Wednesday but I'm not gonna be here and I'm.
+
+DOCTOR X640
+If you go over there and they call me, I can say that it's okay.
+
+PATIENT X640
+Okay.
+
+DOCTOR X640
+Um but I don't know if they'll do it but you can just tell them and they'll call me.
+
+PATIENT X640
+Okay.
+
+DOCTOR X640
+And um maybe we can do it; I'll just talk to them and try to figure out what we can do.
+
+PATIENT X640
+Okay.
+
+DOCTOR X640
+Otherwise, anything else?  Any other problems?
+
+PATIENT X640
+No.
+
+DOCTOR X640
+Good.  At least your heart testing looked good.
+
+PATIENT X640
+Hmm.
+
+DOCTOR X640
+But.  Deep breath and you're not due for anything else for another year.  You're gonna have to have a colonoscopy next year.
+
+PATIENT X640
+Yeah I had one of those last year.
+
+DOCTOR X640
+You did?
+
+PATIENT X640
+Yeah.
+
+DOCTOR X640
+When?
+
+PATIENT X640
+I don't remember what month it was.
+
+DOCTOR X640
+Do you remember the procedure?
+
+PATIENT X640
+Yeah I remember whatever I had I couldn't eat for a couple of days at home, I had to drink all this stuff.
+
+DOCTOR X640
+Oh.  Why did you have it done?
+
+PATIENT X640
+Uh because I been having stomach problems.
+
+DOCTOR X640
+Oh did somebody else schedule it for you?
+
+PATIENT X640
+Uh yeah, no it was here.
+
+DOCTOR X640
+I didn't schedule it.
+
+PATIENT X640
+No it was uh, I was seen in there.
+
+DOCTOR X640
+Oh.
+
+PATIENT X640
+It would be either DOCTOR or the one after DOCTOR.
+
+DOCTOR X640
+Let's see.  Do you remember, oh here ooh okay.  Alright.  So you don't need one for ten more years, good for you.  April, you had it done in April okay so that was okay so the colonoscopy you had done.  
+
+PATIENT X640
+They were gonna @@@ hospital.
+
+DOCTOR X640
+Yeah.
+
+PATIENT X640
+I need to get my blood pressure checked.
+
+DOCTOR X640
+Okay and you're taking your medicine for your blood pressure still?
+
+PATIENT X640
+Uh-huh.
+
+DOCTOR X640
+And your blood pressure, it’s okay today, it’s a little high.  Okay.  I think everything else looks pretty good.  Let me go talk with DOCTOR and then we'll have you go over to the Pharmacy so I can, they can page me and we'll try to figure out how to get the, anything else?
+
+PATIENT X640
+No.
+
+DOCTOR X640
+Okay.
+
+PATIENT X640
+No.
+
+(DOCTOR OUT:  11:48  DOCTOR IN:  14:00)
+
+DOCTOR X640
+Alright.  We put in for those refills so the Vicodin and the whole thing is over there and you can pick it up.
+
+PATIENT X640
+Okay.
+
+DOCTOR X640
+If there's a problem they can just call me.
+
+PATIENT X640
+Okay.
+
+DOCTOR X640
+Otherwise we're all set.
+
+PATIENT X640
+So what's your name?
+
+DOCTOR X640
+DOCTOR.
+
+PATIENT X640
+DOCTOR okay.
+
+DOCTOR X640
+And we'll see you back in six months or a year probably.
+
+PATIENT X640
+Okay.
+
+DOCTOR X640
+Alright you're done.
+
+PATIENT X640
+Alright thanks, thank you very much.
+
+DOCTOR X640
+Have fun at your daughter's graduation.
+
+PATIENT X640
+Yeah, thanks.  Thank you.  Want me to close it?
+
+DOCTOR X640
+Oh you can leave it open that's fine.
+
+PATIENT LEAVES:  14:33.
+
+
+
+

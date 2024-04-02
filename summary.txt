@@ -1,0 +1,9 @@
+Date: [Date of Appointment]
+Patient: X2
+Doctor: X2
+
+Subjective:
+Patient X2 is presenting with a desire to volunteer at the VA @@@, despite receiving special compensation for stroke and PTSD. They express a need to be more active and productive, rather than sitting and watching TV all day. However, they are concerned that the job description may limit their abilities. Patient's psychiatrist has referred them to the program and signed off on it.
+
+Objective:
+Patient appears stable

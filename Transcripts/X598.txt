@@ -1,0 +1,869 @@
+
+DOCTOR X598 
+How is everything going today?
+
+PATIENT X598
+Good, good.
+
+DOCTOR X598
+@@@.
+
+PATIENT X598
+No.
+
+DOCTOR X598
+I don't think so.
+
+PATIENT X598
+I @@@.  I'm here for a follow-up.
+
+DOCTOR X598
+Okay what's going on?
+
+PATIENT X598
+Um.  For the last month I've had this really bad cough and cold.
+
+DOCTOR X598
+Okay.
+
+PATIENT X598
+And I was here twice in January and I think it was gradually getting better, but I do cough still.
+
+DOCTOR X598
+Okay.
+
+PATIENT X598
+You could give me some medication as well.
+
+DOCTOR X598
+And how have you been doing?
+
+PATIENT X598
+A lot better.
+
+DOCTOR X598
+Oh good.
+
+PATIENT X598
+Yeah cause see the cough was horrible the last time I was here so it's improved a lot.
+
+DOCTOR X598
+Oh good.  How's your @@@?
+
+PATIENT X598
+Uh good.  Eating now and then.
+
+DOCTOR X598
+How many meals a day?
+
+PATIENT X598
+Three meals a day.
+
+DOCTOR X598
+Okay.
+
+PATIENT X598
+Trying to uh get through @@@.
+
+DOCTOR X598
+Okay.  @@@ today.
+
+PATIENT X598
+Oh yeah.
+
+DOCTOR X598
+Yeah.
+
+PATIENT X598
+Yeah.
+
+DOCTOR X598
+@@@.
+
+PATIENT X598
+Yeah.
+
+DOCTOR X598
+I expected it to be @@@.  What medication are you on right now?
+
+PATIENT X598
+I'm taking the, excuse me, I added this nasal spray.
+
+DOCTOR X598
+Uh-huh.
+
+PATIENT X598
+I'm taking twice a day, two injections in each nostril.
+
+DOCTOR X598
+Okay.
+
+PATIENT X598
+And then I'm taking one pill once a day, I forget the name of it.
+
+DOCTOR X598
+Loratadine?
+
+PATIENT X598
+That could be.
+
+DOCTOR X598
+Uh-huh.
+
+PATIENT X598
+Its 30 pills per month.
+
+DOCTOR X598
+I got it.
+
+PATIENT X598
+Yes.  I'm taking some over-the-counter stuff, Prilosec.
+
+DOCTOR X598
+Prilosec.
+
+PATIENT X598
+Prilosec.
+
+DOCTOR X598
+Is this for your stomach?
+
+PATIENT X598
+Yes.
+
+DOCTOR X598
+Okay.
+
+PATIENT X598
+I'm taking that.  I'll be done with that Wednesday, I think Wednesday.
+
+DOCTOR X598
+Okay.
+
+PATIENT X598
+Uh and I was taking some cough syrup earlier.
+
+DOCTOR X598
+So you're done with that now?
+
+PATIENT X598
+Yes.
+
+DOCTOR X598
+Okay.  You're done with the cough syrup and then are you still, @@@?
+
+PATIENT X598
+Yes.
+
+DOCTOR X598
+Okay.
+
+PATIENT X598
+@@@.
+
+DOCTOR X598
+Are you using the throat lozenges too?  Not really?
+
+PATIENT X598
+Uh I haven't, I haven't gone out and bought any.
+
+DOCTOR X598
+Okay.
+
+PATIENT X598
+But I had, I have five at home and I think I used them all up.  So I need to go out and get some.
+
+DOCTOR X598
+Okay.  Um.  How long have you been on the Prilosec now, two weeks?
+
+PATIENT X598
+Uh about a week and a half.
+
+DOCTOR X598
+About a week and a half.
+
+PATIENT X598
+The instructions say it's a two week course.
+
+DOCTOR X598
+Okay.
+
+PATIENT X598
+Like once a day.
+
+DOCTOR X598
+And do you feel like it has helped?
+
+PATIENT X598
+Yeah.  I think it has helped.  I @@@ vomiting.
+
+DOCTOR X598
+Okay.
+
+PATIENT X598
+And that's gone away.
+
+DOCTOR X598
+@@@ from the cough then?
+
+PATIENT X598
+From the cough yeah.  Yeah.  As a matter of fact even now.
+
+DOCTOR X598
+Okay.
+
+PATIENT X598
+You know @@@ or something, it's enough to cause me to vomit.
+
+DOCTOR X598
+Uh-huh.  Are there any other issues or?
+
+PATIENT X598
+Uh no.
+
+DOCTOR X598
+@@@.
+
+PATIENT X598
+Just uh, I still have the cough you know.
+
+DOCTOR X598
+How often do you, does anything @@@ when you cough?
+
+PATIENT X598
+No.  Now last month, it depends on I wake up in the morning I can cough right away.
+
+DOCTOR X598
+Uh-huh.
+
+PATIENT X598
+I've just had that problem lately.
+
+DOCTOR X598
+@@@.
+
+PATIENT X598
+Really no reason it's a dry hacky cough.
+
+DOCTOR X598
+And do you ever choke?
+
+PATIENT X598
+No.  I may have actually choked last month during the worst part of it but, that hasn't been a factor lately.
+
+DOCTOR X598
+Okay.  How long have you had the cough now?
+
+PATIENT X598
+Uh I've had this cough for weeks now.  In fact my first time I came in was early January but I was diagnosed with acid reflux.  I think it was in 2008.
+
+DOCTOR X598
+So has it been at least one month with the cough?
+
+PATIENT X598
+Uh yes.
+
+DOCTOR X598
+Okay.  Are you a smoker?
+
+PATIENT X598
+No I've never smoked.
+
+DOCTOR X598
+Okay.  @@@ I think we should go ahead and do a chest x-ray.
+
+PATIENT X598
+Okay.
+
+DOCTOR X598
+Um I mean you're right it's probably your reflux I don't want to miss anything.
+
+PATIENT X598
+Uh-huh, right.
+
+DOCTOR X598
+Have a seat up here.  Uh any chest pain, shortness of breath?
+
+PATIENT X598
+No.  Now when the cough is really bad, it's in my chest.
+
+DOCTOR X598
+Chest yeah.
+
+PATIENT X598
+Right.
+
+DOCTOR X598
+Nausea, vomiting, but not recently right?
+
+PATIENT X598
+Not recently.
+
+DOCTOR X598
+Only when you have coughing spells.
+
+PATIENT X598
+Yeah when it gets really bad.
+
+DOCTOR X598
+Any diarrhea?
+
+PATIENT X598
+Uh no.
+
+DOCTOR X598
+Have you traveled anywhere recently?
+
+PATIENT X598
+Uh.
+
+DOCTOR X598
+To another country?
+
+PATIENT X598
+I haven't been outside of the country you know since 2008 and that was a cruise.
+
+DOCTOR X598
+Where did you go on the cruise?
+
+PATIENT X598
+xxx.
+
+DOCTOR X598
+xxx.  @@@.
+
+PATIENT X598
+@@@.
+
+DOCTOR X598
+@@@ okay.  Who do you live with now?
+
+PATIENT X598
+Just myself.
+
+DOCTOR X598
+Okay.  No kids.
+
+PATIENT X598
+No kids but I work as a teacher.
+
+DOCTOR X598
+Okay.
+
+PATIENT X598
+@@@.
+
+DOCTOR X598
+@@@.
+
+PATIENT X598
+High school.
+
+DOCTOR X598
+High school okay.  Um @@@.
+
+PATIENT X598
+Probably for @@@ hand washing.
+
+DOCTOR X598
+@@@.
+
+PATIENT X598
+I have.
+
+DOCTOR X598
+You have to right if you're a teacher.
+
+PATIENT X598
+Yes but I have a @@@ treated for.
+
+DOCTOR X598
+You have?
+
+PATIENT X598
+Yes.
+
+DOCTOR X598
+When were you treated?
+
+PATIENT X598
+I think it was from @@@.
+
+DOCTOR X598
+Were you given some medications for nine months?
+
+PATIENT X598
+It wasn't that long.  I think this was back in 1995.
+
+DOCTOR X598
+@@@.
+
+PATIENT X598
+And I was on active.  @@@ so I don't think it would show up in any military records.
+
+DOCTOR X598
+Yeah.
+
+PATIENT X598
+VA records.
+
+DOCTOR X598
+Okay.  Um okay well so we'll get @@@ so you've had some kind of exposure.
+
+PATIENT X598
+Yeah.
+
+DOCTOR X598
+We'll kind of talk to my supervisor and see what we need to do.
+
+PATIENT X598
+Uh-huh.
+
+DOCTOR X598
+Um so, what do you teach?
+
+PATIENT X598
+Uh my area of secondary is social studies that @@@ teaching that.
+
+DOCTOR X598
+Okay.  Um where you in the Army, Navy or?
+
+PATIENT X598
+Army, but I'm still in the Army Reserve.
+
+DOCTOR X598
+Army Reserve and where did they send you around the globe?
+
+PATIENT X598
+Uh I've been to Germany.
+
+DOCTOR X598
+Uh-huh.
+
+PATIENT X598
+Korea and I've been to Iraq too.
+
+DOCTOR X598
+You've been to Iraq okay.
+
+PATIENT X598
+Yeah.
+
+DOCTOR X598
+Let's see and then @@@ sexual history, how many partners?
+
+PATIENT X598
+Uh I have no.
+
+DOCTOR X598
+You're not sexually active?
+
+PATIENT X598
+Uh uh.
+
+DOCTOR X598
+Okay not recently.  And what do @@@.
+
+PATIENT X598
+No.  I try not to @@@ middle of last month.
+
+DOCTOR X598
+Oh.
+
+PATIENT X598
+@@@ it was a drill.
+
+DOCTOR X598
+You've had the reflux disease for how long now?
+
+PATIENT X598
+I was diagnosed with it in approximately 2008.
+
+DOCTOR X598
+@@@.
+
+PATIENT X598
+Yeah and some previous years.
+
+DOCTOR X598
+You have.
+
+PATIENT X598
+Cause I've had some really bad coughs.
+
+DOCTOR X598
+Okay.
+
+PATIENT X598
+In 2007 I had a really bad cough and @@@ flu shot.
+
+DOCTOR X598
+Were you sick before the coughing just started?  I mean did you feel like you got really sick and then you just had the cough that kind of came around or no?
+
+PATIENT X598
+This cough just kind of, it comes and goes.
+
+DOCTOR X598
+Uh-huh.
+
+PATIENT X598
+So now early this month it started uh @@@ too long.
+
+DOCTOR X598
+Oh no.
+
+PATIENT X598
+@@@ and I saw @@@.
+
+DOCTOR X598
+And @@@ pulled out right?
+
+PATIENT X598
+Yeah but then uh.
+
+DOCTOR X598
+And that's what @@@.
+
+PATIENT X598
+Yeah a couple days later, that's when @@@ MPG @@@ came here in early January.
+
+DOCTOR X598
+Okay.  Deep breath.  I don't hear any wheezing.  You haven't been having any wheezing?
+
+PATIENT X598
+No no wheezing.
+
+DOCTOR X598
+@@@.
+
+PATIENT X598
+No.
+
+DOCTOR X598
+Can you stick your tongue out, say ah.
+
+PATIENT X598
+Ah.
+
+DOCTOR X598
+Ah.  @@@.  Ah.
+
+PATIENT X598
+Ah.
+
+DOCTOR X598
+@@@ or anything back there um.  @@@.
+
+PATIENT X598
+Yeah I do have a runny nose.
+
+DOCTOR X598
+Oh really when was that?
+
+PATIENT X598
+This last month.
+
+DOCTOR X598
+@@@.
+
+PATIENT X598
+And I've taken the nasal spray.
+
+DOCTOR X598
+Is it helping?
+
+PATIENT X598
+I think so, but then when I take it then I start @@@.
+
+DOCTOR X598
+Oh @@@.  Uh any @@@ allergies like eye strain?
+
+PATIENT X598
+No I don't have any known allergies.
+
+DOCTOR X598
+No okay.  Do you have any swelling in your legs?
+
+PATIENT X598
+No.
+
+DOCTOR X598
+You haven't noticed it.  You're a fairly healthy one huh.
+
+PATIENT X598
+Yes.
+
+DOCTOR X598
+Okay.  Urinating okay, bowel movements okay, no problems?
+
+PATIENT X598
+No problems.
+
+DOCTOR X598
+No black stools okay.  Um, go ahead and have a seat down here.  @@@.  
+
+(DOCTOR OUT: 41:11  DOCTOR IN:  50:53)
+
+SECOND DOCTOR X598
+Hi PATIENT.
+
+PATIENT X598
+How you doing?
+
+SECOND DOCTOR X598
+Good, good, good.  I'm DOCTOR, one of the supervising doctors.
+
+PATIENT X598
+Alright.
+
+SECOND DOCTOR X598
+So you are in pretty good health?
+
+PATIENT X598
+Yeah.
+
+SECOND DOCTOR X598
+Cool. But you've been coughing.
+
+PATIENT X598
+Yes.
+
+SECOND DOCTOR X598
+And you teach, you're a teacher?
+
+PATIENT X598
+Yes.
+
+SECOND DOCTOR X598
+Great.  Um where do you teach?
+
+PATIENT X598
+Uh I work as a substitute teacher so uh I go to a lot of different schools.  My area of specialty is social studies.
+
+SECOND DOCTOR X598
+Gotcha, gotcha.  Um and um do you live with family or by yourself?
+
+PATIENT X598
+By myself.
+
+SECOND DOCTOR X598
+Alright and um how have you been feeling generally?  I mean do you feel like you're in good health, do you feel like you're?
+
+PATIENT X598
+I feel that I'm in good health.
+
+SECOND DOCTOR X598
+Uh-huh.
+
+PATIENT X598
+But now, for this last month I've been pretty miserable from the cough and it's just uh.
+
+SECOND DOCTOR X598
+And have you had a cold with that?
+
+PATIENT X598
+There was a cold with it as well.
+
+SECOND DOCTOR X598
+Uh-huh.
+
+PATIENT X598
+Besides, I'm probably all healed from the cold.
+
+SECOND DOCTOR X598
+Do you have any allergies?
+
+PATIENT X598
+None that I know of.
+
+SECOND DOCTOR X598
+Okay um and um have you ever had a cough like this before?
+
+PATIENT X598
+Yes.  I was diagnosed with acid reflux.
+
+SECOND DOCTOR X598
+Uh-huh.
+
+PATIENT X598
+In 2008.
+
+SECOND DOCTOR X598
+Uh-huh.
+
+PATIENT X598
+And so @@@ things like that, a dry hacky cough before.
+
+SECOND DOCTOR X598
+Yeah @@@.  
+
+PATIENT X598
+I'm not sure, I think probably acid reflux.  Um in early 2005 I had a really bad cough.
+
+SECOND DOCTOR X598
+Uh-huh.
+
+PATIENT X598
+Like this.  It could have been from getting the flu shot, I'm not entirely sure.
+
+SECOND DOCTOR X598
+@@@ now.
+
+PATIENT X598
+No I'm fine.
+
+SECOND DOCTOR X598
+So you think it was seasonal, does it happen at certain times of the year?
+
+PATIENT X598
+More often in winter than other times.
+
+SECOND DOCTOR X598
+Does cold air bring it on?
+
+PATIENT X598
+It could.  It sure could.
+
+SECOND DOCTOR X598
+Okay.  Um cause I'm wondering some people get a little bit of asthma with the cold air.
+
+PATIENT X598
+And @@@ when I'm exposed to cold air I have a tendency to cough more.
+
+SECOND DOCTOR X598
+Uh-huh, uh-huh.  Would it be okay with you if I do a full @@@.  Can you lean forward?
+
+PATIENT X598
+Sure.
+
+DOCTOR X598
+Good.  Take a breath in, out, again, out hard, out hard, breathe deep, out, one more time out.  Okay keep going in and out, that's good, again.  Alright @@@.  I don't hear a wheeze.  @@@.  What I'm really wondering is would he benefit from, could he be having like a mild cough variant to reactive airway disease which people get in the winter.  I know kids get it all the time.  Um have you ever used an inhaler before?
+
+PATIENT X598
+I've tried it yeah before, but it's been a really long time.
+
+SECOND DOCTOR X598
+Okay.
+
+FIRST DOCTOR X598
+Do you want to do the inhaler?
+
+SECOND DOCTOR X598
+Yeah, try that and @@@ prn.  Albuterol with a spacer; basically it's just a dilator, bronchodilator.
+
+PATIENT X598
+Uh-huh,
+
+SECOND DOCTOR X598
+Cause personally I don't think reflux would be the problem to see what kind of cough and you know it didn't sound right.  Um I don't think he's got tuberculosis.  Uh I don't think he's got, because @@@ for allergies.  @@@ but you know you could have this pattern of getting only in the wintertime, I would try him with just an inhaler @@@.
+
+FIRST DOCTOR X598
+Uh-huh.
+
+SECOND DOCTOR X598
+Because you know you have to have a very significant amount of you know of bronchospasms before you start to wheeze, it's not from your actual cough.
+
+PATIENT X598
+Uh-huh.
+
+SECOND DOCTOR X598
+So we're going to try you on an inhaler.
+
+PATIENT X598
+Alright.
+
+SECOND DOCTOR X598
+And see if that doesn't actually help.
+
+PATIENT X598
+Okay.
+
+SECOND DOCTOR X598
+And then maybe we'll see you back in a couple weeks and see how you're doing.
+
+PATIENT X598
+Alright.
+
+SECOND DOCTOR X598
+Good luck.
+
+PATIENT X598
+Thank you doctor.
+
+FIRST DOCTOR X598
+@@@.
+
+PATIENT X598
+Um.
+
+FIRST DOCTOR X598
+@@@.
+
+PATIENT X598
+And he's from Internal Medicine?
+
+FIRST DOCTOR X598
+Yeah.
+
+PATIENT X598
+Yeah.  He's really knowledgeable.
+
+FIRST DOCTOR X598
+Yeah.  Can you go down and pick up the medication?
+
+PATIENT X598
+Okay.
+
+FIRST DOCTOR X598
+Um in the Pharmacy and @@@.
+
+PATIENT X598
+Okay.
+
+FIRST DOCTOR X598
+And then we'll have you come back in a month.
+
+PATIENT X598
+Alright.
+
+FIRST DOCTOR X598
+And then you can have a talk with you.
+
+PATIENT X598
+Do I have an appointment for a chest x-ray?
+
+FIRST DOCTOR X598
+No you don't have to do a chest x-ray.
+
+PATIENT X598
+Okay.
+
+FIRST DOCTOR X598
+Alright.
+
+PATIENT X598
+Alright.
+
+FIRST DOCTOR X598
+@@@.
+
+PATIENT X598
+Okay.
+
+FIRST DOCTOR X598
+@@@.
+
+PATIENT X598
+Alright.  Thank you much.
+
+FIRST DOCTOR X598
+It was really nice talking to you.
+
+PATIENT X598
+@@@ okay, thank you.  Alright.
+
+PATIENT LEAVES:  55:53.
+
+
+
+

@@ -1,0 +1,1008 @@
+
+DOCTOR X503
+PATIENT?
+
+PATIENT X503
+Who?
+
+DOCTOR X503
+PATIENT?
+
+PATIENT X503
+Yeah, uh-huh.
+
+DOCTOR X503
+Hello.
+
+PATIENT X503
+Hello.
+
+DOCTOR X503
+Hi.
+
+PATIENT X503
+Uh-huh.
+
+DOCTOR X503
+I'm DOCTOR.
+
+PATIENT X503
+Hey DOCTOR.
+
+DOCTOR X503
+Right this way.
+
+PATIENT X503
+Okay.
+
+DOCTOR X503
+Have a seat.  So um you're here to establish care right?
+
+PATIENT X503
+Yes.
+
+DOCTOR X503
+This is your first time being seen by a primary care physician?
+
+PATIENT X503
+Yes.
+
+DOCTOR X503
+Okay, welcome to the Blue Clinic.
+
+PATIENT X503
+Thank you.
+
+DOCTOR X503
+Um so no other medical problems except for your elevated PSA and the results of your biopsy today.
+
+PATIENT X503
+Right today correct, correct, correct.
+
+DOCTOR X503
+Okay.  @@@ appointment.
+
+PATIENT X503
+No, no way.
+
+DOCTOR X503
+Any other problems?
+
+PATIENT X503
+Uh not that I know of.
+
+DOCTOR X503
+Okay.  Okay, um any medications?
+
+PATIENT X503
+I'm just, the medications I'm taking for the uh prostate so.
+
+DOCTOR X503
+Okay.  What do they have you on, cause I don't have you in the system?  Oh ciproflox okay.  Um and then did you have your TB test done?
+
+PATIENT X503
+No not yet.
+
+DOCTOR X503
+Okay.
+
+PATIENT X503
+Can I get that done today too?
+
+DOCTOR X503
+Sure.  It looks like it's already in the system so okay.  They'll place it today, you'll have to come back and.
+
+PATIENT X503
+Okay.
+
+DOCTOR X503
+What's today Thursday oh, Friday, Saturday, Sunday so it would be better to come on.  So you have to come back to have somebody read it.
+
+PATIENT X503
+Okay.  So it'd be best to come back on a.
+
+DOCTOR X503
+Do you have another appointment coming up?
+
+PATIENT X503
+No.
+
+DOCTOR X503
+No.
+
+PATIENT X503
+These are my last two.
+
+DOCTOR X503
+Okay.
+
+PATIENT X503
+Now see I can come back, I mean no problem.
+
+DOCTOR X503
+Right.  Can you come back on Monday then?
+
+PATIENT X503
+Yeah.
+
+DOCTOR X503
+Okay.
+
+PATIENT X503
+What time Monday?
+
+DOCTOR X503
+Um the early let's see.
+
+PATIENT X503
+So I could do that okay.
+
+DOCTOR X503
+Let me find out for you.
+
+PATIENT X503
+Okay.
+
+DOCTOR X503
+Let me see, instead of going through Urgent Care if I can just get you a nursing visit and you can take the PPD and then come back and follow up and see them.
+
+PATIENT X503
+Okay.
+
+DOCTOR X503
+Okay and okay.  Allergy to penicillin, what happens?
+
+PATIENT X503
+Oh all kinds of stuff.
+
+DOCTOR X503
+What stuff?
+
+PATIENT X503
+Break out in hives and um it's not a pretty sight.
+
+DOCTOR X503
+Okay.
+
+PATIENT X503
+Sick.
+
+DOCTOR X503
+No @@@, diabetes, no hypertension that you now of?
+
+PATIENT X503
+Not that I know of.
+
+DOCTOR X503
+Okay and then family history.
+
+PATIENT X503
+Yeah I had that, excuse me, I had some blood work done and it told me that all of it was good except cholesterol was just a little high.  And you don't see that either?
+
+DOCTOR X503
+Yeah.
+
+PATIENT X503
+Okay.
+
+DOCTOR X503
+The cholesterol is a little high.
+
+PATIENT X503
+Yeah.
+
+DOCTOR X503
+And okay and no heart disease in your family?
+
+PATIENT X503
+Um not really no.
+
+DOCTOR X503
+Okay.
+
+PATIENT X503
+Just that.
+
+DOCTOR X503
+Diabetes and high blood pressure?
+
+PATIENT X503
+Diabetes, yeah, yeah.
+
+DOCTOR X503
+Okay and then what about um any cancers run in your family?
+
+PATIENT X503
+No.
+
+DOCTOR X503
+Okay.  Okay so your LDL, your bad cholesterol number is 152.
+
+PATIENT X503
+Is that bad?
+
+DOCTOR X503
+Well given your age they'd like it to be less than 130.
+
+PATIENT X503
+Okay, okay.
+
+DOCTOR X503
+And it's one pill once a day; in the long run it also protects all your arteries and prevents some blockages.
+
+PATIENT X503
+Blockages and stuff.
+
+DOCTOR X503
+Right so um so side effects to watch out for is just muscle aches.  It's not very common but if you start having muscle aches it could be from the medications.
+
+PATIENT X503
+Okay.
+
+DOCTOR X503
+And so then you can always just either stop it or come in.
+
+PATIENT X503
+Okay.
+
+DOCTOR X503
+And we'll check it out.
+
+PATIENT X503
+Okay.
+
+DOCTOR X503
+The other thing is to, so it can metabolize to the liver um so and for some reason it interacts with grapefruit juice we tell patients not to drink grapefruit juice when they're on this medication.
+
+PATIENT X503
+Okay.
+
+DOCTOR X503
+Okay.
+
+PATIENT X503
+Uh-huh.
+
+DOCTOR X503
+Do you want me to mail this to you or do you want to pick it up today?
+
+PATIENT X503
+Uh the medication?  I'll pick it up today.
+
+DOCTOR X503
+Okay.  So it's a half a pill every day.
+
+PATIENT X503
+A half a pill every day.
+
+DOCTOR X503
+They'll give you a pill cutter.
+
+PATIENT X503
+Okay.  So I'll be here still for a while today.
+
+DOCTOR X503
+Yeah for your biopsy, so yeah you can pick it up.
+
+PATIENT X503
+Yeah.
+
+DOCTOR X503
+And then um before your next appointment we'll have you go to the Lab and we'll check to see that your numbers have come down.
+
+PATIENT X503
+Okay.
+
+DOCTOR X503
+Okay.
+
+PATIENT X503
+Okay. 
+
+DOCTOR X503
+So on the morning of your next appointment nothing to eat or drink.
+
+PATIENT X503
+Okay.
+
+DOCTOR X503
+Um water is okay.
+
+PATIENT X503
+Okay.
+
+DOCTOR X503
+And then go to the Lab before your appointment and then we can go over the labs when we meet.
+
+PATIENT X503
+Okay, okay.
+
+DOCTOR X503
+Okay.
+
+PATIENT X503
+To the Lab first.
+
+DOCTOR X503
+Yeah and they open at either 7:30 or 8.
+
+PATIENT X503
+Okay.
+
+DOCTOR X503
+Okay your other labs your kidneys look normal.
+
+PATIENT X503
+Praise God.
+
+DOCTOR X503
+Your blood count was good.
+
+PATIENT X503
+Praise God.
+
+DOCTOR X503
+So everything else here, your hep C was negative.
+
+PATIENT X503
+Who?
+
+DOCTOR X503
+Your hepatitis C.
+
+PATIENT X503
+Oh whew another good thing, praise God.
+
+DOCTOR X503
+Your hepatitis B was negative and you don't have diabetes.
+
+PATIENT X503
+Thank you, praise God.
+
+DOCTOR X503
+Okay.  So let's see, are you still smoking?  Half pack a day?  @@@.
+
+PATIENT X503
+Yes.  I should.
+
+DOCTOR X503
+Okay.
+
+PATIENT X503
+I should want to quit.
+
+DOCTOR X503
+Do you want to come here?
+
+PATIENT X503
+I can.
+
+DOCTOR X503
+Okay.  You can go to our Smoking Cessation Clinic.
+
+PATIENT X503
+Okay.
+
+DOCTOR X503
+So you know there are different medications that you can try.
+
+PATIENT X503
+Okay.
+
+DOCTOR X503
+Either patches or gum but you have to go to one of those appointments first.
+
+PATIENT X503
+Okay.
+
+DOCTOR X503
+And then um they're just a walk-in and you just show up whenever you want.
+
+PATIENT X503
+Oh okay.
+
+DOCTOR X503
+And then they can figure out which medication that would best suit you.
+
+PATIENT X503
+They'll give me okay.
+
+DOCTOR X503
+Yeah.
+
+PATIENT X503
+Okay thanks doc, thank you.
+
+DOCTOR X503
+And then how much, are you still drinking alcohol occasionally?
+
+PATIENT X503
+No I don't even, it's very rare.
+
+DOCTOR X503
+Okay.  When was the last time you used cocaine?
+
+PATIENT X503
+Oh it's been a while.
+
+DOCTOR X503
+Okay.
+
+PATIENT X503
+Yeah it's been a while.  Praise God it's been a while, thank God.
+
+DOCTOR X503
+Okay and have you ever had a colonoscopy?
+
+PATIENT X503
+No I haven't and I would like to get one.
+
+DOCTOR X503
+Yeah.
+
+PATIENT X503
+A consult yeah.
+
+DOCTOR X503
+Uh-huh.
+
+PATIENT X503
+Cause @@@ not right that I should get all that stuff checked out right?
+
+DOCTOR X503
+Yes.
+
+PATIENT X503
+Yeah.
+
+DOCTOR X503
+Okay, so what I'll do is I'll send you a set that'll be two different bottles that you'll get in the mail.
+
+PATIENT X503
+Uh-huh.
+
+DOCTOR X503
+And it's stuff to clean out your colon the day before the procedure.
+
+PATIENT X503
+Okay.
+
+DOCTOR X503
+So initially what will happen is you'll come in for a visit, we want to be able to answer all your questions and then we'll schedule you for the procedure.
+
+PATIENT X503
+Okay.
+
+DOCTOR X503
+Okay.
+
+PATIENT X503
+Oh wow, praise God, I'm about to start a new job.
+
+DOCTOR X503
+Okay.
+
+PATIENT X503
+So in the event that I'm working can I reschedule those things, call in and reschedule.
+
+DOCTOR X503
+Yeah you can call in and reschedule.
+
+PATIENT X503
+Yeah maybe on my day off or something like that.
+
+DOCTOR X503
+Yeah.
+
+PATIENT X503
+Yeah, praise God.
+
+DOCTOR X503
+They do these all day @@@.
+
+PATIENT X503
+Okay, okay.
+
+DOCTOR X503
+Have you ever had any abdominal surgery?
+
+PATIENT X503
+Oh um I had my appendix removed.
+
+DOCTOR X503
+Okay.  Okay I'm going to put in for your labs before your next visit so.
+
+PATIENT X503
+Okay.
+
+DOCTOR X503
+Um you should come back in three or four months.
+
+PATIENT X503
+Okay.
+
+DOCTOR X503
+And so early September.
+
+PATIENT X503
+Okay.
+
+DOCTOR X503
+Okay.  So if you go get, if you happen to be around for something else, any time after September 1st you could get your labs done.
+
+PATIENT X503
+Okay, okay, yeah.
+
+DOCTOR X503
+And then that way they'll be ready for when we have our next visit.
+
+PATIENT X503
+Okay.  So it's probably, then the next visit will be two or three months from now?
+
+DOCTOR X503
+Yeah I have it early September.
+
+PATIENT X503
+Okay, okay.
+
+DOCTOR X503
+Like three, three.  You don't really have any medical problems it's just we're gonna follow up on the cholesterol.
+
+PATIENT X503
+Okay.
+
+DOCTOR X503
+So it's like three to four months.
+
+PATIENT X503
+Okay.
+
+DOCTOR X503
+We're gonna say early September.
+
+PATIENT X503
+Okay, okay, good.
+
+DOCTOR X503
+And then by that time you'll have your colonoscopy done.
+
+PATIENT X503
+Okay.
+
+DOCTOR X503
+And you should be good on that.
+
+PATIENT X503
+Okay, okay.
+
+DOCTOR X503
+Okay, I don't have anything @@@.  Did you go to the eye doctor?
+
+PATIENT X503
+No not yet.
+
+DOCTOR X503
+I know you came in for their clinic and they placed a consult did you ever get uh, did you ever get a letter?
+
+PATIENT X503
+I don't think so.
+
+DOCTOR X503
+Oh it looks like no, so it looks like they put in, okay this is old.  Let's see, we'll put in a new.
+
+PATIENT X503
+Okay good, good, good.
+
+DOCTOR X503
+Okay.
+
+PATIENT X503
+Please cause I need some glasses, I really do.  These are old.
+
+DOCTOR X503
+Let me put in a consult.
+
+PATIENT X503
+Okay.
+
+DOCTOR X503
+Sit up here for me.
+
+PATIENT X503
+Yeah.  Take off the jacket?
+
+DOCTOR X503
+Um sure.  Are you nearsighted?
+
+PATIENT X503
+That's when you see things; you have trouble seeing things close?
+
+DOCTOR X503
+Far away.
+
+PATIENT X503
+Far away.  I don't know.
+
+DOCTOR X503
+Okay.
+
+PATIENT X503
+Yeah I think I might be.
+
+DOCTOR X503
+Okay hold on.  (Doctor takes phone call)  Anything else you can think of?  Do you get seasonal allergies at all?
+
+PATIENT X503
+Uh yeah.  I have trouble with sinuses and it's hard for me to breathe and can I get something for my sinuses you know to clear them up you know?
+
+DOCTOR X503
+Uh-huh.
+
+PATIENT X503
+To help me breathe.
+
+DOCTOR X503
+Uh-huh @@@ or is it postnasal drip or do you get a dry cough?
+
+PATIENT X503
+I get a dry cough and I also get that uh, where it's hard for me to breathe like at night.
+
+DOCTOR X503
+Okay.
+
+PATIENT X503
+You know I have stuffiness and I have to have the window open so I can breathe.
+
+DOCTOR X503
+Okay.
+
+PATIENT X503
+And do it you know.
+
+DOCTOR X503
+Sort of itchy eyes or?
+
+PATIENT X503
+Yeah and itchy nose and.
+
+DOCTOR X503
+Okay.
+
+PATIENT X503
+I'm just knocked somebody off.
+
+DOCTOR X503
+Okay open for me, say ah.
+
+PATIENT X503
+Ah.
+
+DOCTOR X503
+One more time.
+
+PATIENT X503
+Ah.
+
+DOCTOR X503
+Okay.  Good.  So I'll give you two things, one is a nasal spray.
+
+PATIENT X503
+Okay.
+
+DOCTOR X503
+Two sprays in each nostril once a day.
+
+PATIENT X503
+Uh-huh.
+
+DOCTOR X503
+You have to do that every day no matter what.
+
+PATIENT X503
+Okay.
+
+DOCTOR X503
+And it decreases the inflammation in your nose here.
+
+PATIENT X503
+Okay.
+
+DOCTOR X503
+But then and then the pill that you can take kind of as needed.
+
+PATIENT X503
+Okay.
+
+DOCTOR X503
+Okay.
+
+PATIENT X503
+Okay.  Okay.
+
+DOCTOR X503
+Take a big deep breath, let it out, good.  Again, again, good.  Just breathe normally.
+
+PATIENT X503
+Okay.
+
+DOCTOR X503
+You sound good.  Okay so you can pick these up today too.  Um.
+
+PATIENT X503
+Oh @@@ a question I want to ask you doctor.
+
+DOCTOR X503
+Uh-huh.
+
+PATIENT X503
+I get pain right here, I don't know what it is. I don't know what it's from.  It's right in the joint, right here, in each arm sometimes.
+
+DOCTOR X503
+Okay.  How long has it been going on?
+
+PATIENT X503
+For a little while now, just a little while.  Maybe about four or five months.
+
+DOCTOR X503
+What do you do for, what is your profession?  Or what will your profession be once you have that new job?
+
+PATIENT X503
+Uh I'll be doing environmental tech II at xxx xxx.  I'll be @@@.
+
+DOCTOR X503
+Do you do a lot of movement with your?
+
+PATIENT X503
+I just started the job.
+
+DOCTOR X503
+Okay.
+
+PATIENT X503
+Uh-huh.
+
+DOCTOR X503
+Pretty recently though and where is it?
+
+PATIENT X503
+Right in here.
+
+DOCTOR X503
+Here?
+
+PATIENT X503
+Here yeah, like right now, especially right there.
+
+DOCTOR X503
+Okay.
+
+PATIENT X503
+Now there's something here.
+
+DOCTOR X503
+Right here.
+
+PATIENT X503
+Yeah it hurts.
+
+DOCTOR X503
+Okay.  Any numbness or tingling in your finger, in your hand, it's just pain right here?
+
+PATIENT X503
+Yeah.
+
+DOCTOR X503
+Okay.  Why don't we do some um, well see the problem is you're going to moving that, it's gonna make that worse.
+
+PATIENT X503
+It is.
+
+DOCTOR X503
+Yeah.
+
+PATIENT X503
+Then I'll probably do it @@@.
+
+DOCTOR X503
+Does it hurt you a lot or a little?
+
+PATIENT X503
+Just a little.
+
+DOCTOR X503
+Uh-huh.
+
+PATIENT X503
+You know just a little you know.  I know its there.
+
+DOCTOR X503
+Okay.
+
+PATIENT X503
+The pain and all that and uh I just wanted to mention that and maybe I you know.
+
+DOCTOR X503
+What we can do is we can try to give you some Motrin to take for about a week or so.
+
+PATIENT X503
+Uh-huh.
+
+DOCTOR X503
+And take it every day and see if that doesn't decrease the inflammation.
+
+PATIENT X503
+Okay.
+
+DOCTOR X503
+But then just try um icing it too.
+
+PATIENT X503
+Okay.
+
+DOCTOR X503
+Um.
+
+PATIENT X503
+Okay.
+
+DOCTOR X503
+Like twice a day and seeing if it just helps bring it down.
+
+PATIENT X503
+Okay.
+
+DOCTOR X503
+Cause I'm really just the movement, trying to minimize the amount of movement that you do.
+
+PATIENT X503
+Uh-huh.  It hurts @@@.
+
+DOCTOR X503
+And it hurts right in the center where I push?
+
+PATIENT X503
+No right in here.
+
+DOCTOR X503
+Right in here.
+
+PATIENT X503
+Right here yeah.
+
+DOCTOR X503
+Okay.
+
+PATIENT X503
+Right here.
+
+DOCTOR X503
+And in the forearm here?
+
+PATIENT X503
+Yeah just a little bit right here.
+
+DOCTOR X503
+Okay.
+
+PATIENT X503
+Just a little bit.
+
+DOCTOR X503
+Okay.
+
+PATIENT X503
+And it's tender to the touch.
+
+DOCTOR X503
+Nothing in the bones here?
+
+PATIENT X503
+No uh uh, nothing like that.  It's basically right here, I don't know what that is but it increases @@@.
+
+DOCTOR X503
+Make sure you just, cause this Motrin can sometimes um upset your stomach so just take it with food.
+
+PATIENT X503
+Yeah with food right.
+
+DOCTOR X503
+And drink a lot of water.
+
+PATIENT X503
+Okay.
+
+DOCTOR X503
+Okay.
+
+PATIENT X503
+Yeah.
+
+DOCTOR X503
+Okay, um just give me a minute okay.
+
+PATIENT X503
+Okay.
+
+(DOCTOR OUT:  43:35  DOCTOR IN:  51:54)
+
+SECOND DOCTOR X503
+Hi PATIENT.  I'm DOCTOR.  I'm the attending on the Blue Clinic, I just wanted to say hello.
+
+PATIENT X503
+Oh thank you.
+
+SECOND DOCTOR X503
+Yeah.  DOCTOR's got, she's a plan for you and you're in good hands but @@@.
+
+PATIENT X503
+Thank you.
+
+SECOND DOCTOR X503
+Yeah.  How are you today?
+
+PATIENT X503
+I'm good.
+
+SECOND DOCTOR X503
+Good.
+
+PATIENT X503
+Thank you @@@.
+
+SECOND DOCTOR X503
+Okay.  Well I'll let her tell you @@@ and have a good day alright?
+
+PATIENT X503
+You also.
+
+FIRST DOCTOR X503
+@@@ okay, you're all set.  Just take this to the front and they'll schedule you an appointment for Monday to get your PPD.
+
+PATIENT X503
+Uh-huh.
+
+FIRST DOCTOR X503
+And then also um for Eye Clinic.
+
+PATIENT X503
+Okay.
+
+FIRST DOCTOR X503
+Okay.
+
+PATIENT X503
+Uh-huh.  Is that here?
+
+FIRST DOCTOR X503
+Pardon?
+
+PATIENT X503
+That it here?
+
+FIRST DOCTOR X503
+Oh yeah we're all done.
+
+PATIENT X503
+Oh okay.
+
+FIRST DOCTOR X503
+Yeah.
+
+PATIENT X503
+Alright.  Thank you.
+
+DOCTOR X503
+They'll help you out in front.
+
+PATIENT X503
+Okay.
+
+DOCTOR X503
+Okay.
+
+PATIENT X503
+Thank you.
+
+PATIENT LEAVES:  52:57
+
+

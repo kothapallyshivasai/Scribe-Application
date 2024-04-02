@@ -1,0 +1,670 @@
+
+DOCTOR X475
+PATIENT?  
+
+PATIENT X475
+How you doing?
+
+DOCTOR X475
+How you doing, my name is DOCTOR.  Have we met before?
+
+PATIENT X475
+I believe so.
+
+DOCTOR X475
+We have, I didn't have a chance to look through all the chart before I saw you so um, you're on here for some reason for this week and for next week.
+
+PATIENT X475
+Huh?
+
+DOCTOR X475
+You have an appointment with me this week and next week.
+
+PATIENT X475
+I do.
+
+DOCTOR X475
+For some reason, I don't know.  You might want to cancel the next week one since it's in the computer.  Uh.
+
+PATIENT X475
+That was for my cholesterol.
+
+DOCTOR X475
+Maybe it was in the computer.  You saw DOCTOR last time.
+
+PATIENT X475
+Uh-huh.
+
+DOCTOR X475
+But that was more like your three so um I'll just kind of talk to you about @@@.  How are you doing today?
+
+PATIENT X475
+Okay.
+
+DOCTOR X475
+Any concerns, problems, grievances?
+
+PATIENT X475
+No I don't have any today.
+
+DOCTOR X475
+Huh?
+
+PATIENT X475
+None today.
+
+DOCTOR X475
+Okay and you also saw DOCTOR.
+
+PATIENT X475
+The appointment next week might be for cholesterol.
+
+DOCTOR X475
+Maybe this was with me and I don't know if I can see you twice in a row.
+
+PATIENT X475
+Oh okay.
+
+DOCTOR X475
+But you might just see the pharmacist or something but.
+
+PATIENT X475
+Yeah I think that's who it is.
+
+DOCTOR X475
+Yeah but for some reason it was made with me so when you leave here, just check with the front desk so you don't have an appointment for the doctor but with somebody else.  Uh.
+
+PATIENT X475
+Cause the last time I was here I saw the pharmacist.
+
+DOCTOR X475
+Yeah.  I'll take a look.  Your blood pressure's good.  So it looks like you have high blood pressure which is good and you are currently uh.
+
+PATIENT X475
+No.
+
+DOCTOR X475
+Blood pressure right?
+
+PATIENT X475
+The um, the um pravastatin you gave me.
+
+DOCTOR X475
+Yes.
+
+PATIENT X475
+The last time, they're five times bigger than the ones I usually take.
+
+DOCTOR X475
+Really?
+
+PATIENT X475
+Yeah.
+
+DOCTOR X475
+Like @@@ bigger?
+
+PATIENT X475
+Right.
+
+DOCTOR X475
+Are they hard for you to swallow?
+
+PATIENT X475
+Yes.
+
+DOCTOR X475
+Yeah.
+
+PATIENT X475
+The ones I had before were smaller round pieces.
+
+DOCTOR X475
+And the problem, I think that you're on pravastatin, I don't know let me see um.
+
+PATIENT X475
+She @@@ the last time I was here.
+
+DOCTOR X475
+Did they tell you why they switched you from @@@?
+
+PATIENT X475
+They wanted a higher dosage.
+
+DOCTOR X475
+Yeah that's okay.  The pravastatin is stronger than simvastatin.
+
+PATIENT X475
+Uh-huh.
+
+DOCTOR X475
+So it's not that you not had the medicine before, it's just that you have trouble @@@ normal medicine it's just a different medicine.
+
+PATIENT X475
+Uh-huh.
+
+DOCTOR X475
+And so it's a different manufacturer that made your medicine. 
+
+PATIENT X475
+Uh-huh.
+
+DOCTOR X475
+They're going to be potentially bigger or smaller or a different shape or something like that.
+
+PATIENT X475
+Uh-huh.
+
+DOCTOR X475
+Is there a way to break it in half and take it half at a time?
+
+PATIENT X475
+I will if I can.
+
+DOCTOR X475
+And just try to do that and you look like you're already on a full dose of it right?
+
+PATIENT X475
+Uh-huh.
+
+DOCTOR X475
+You had a set of labs in January, I don't know if DOCTOR went over the results with you.
+
+PATIENT X475
+Yeah.
+
+DOCTOR X475
+Uh for your cholesterol and I was just kind of wondering, were you fasting that day?  Do you remember?
+
+PATIENT X475
+I think so.
+
+DOCTOR X475
+You think you were, cause it was still kind of high.  Your uh LDL was 166.
+
+PATIENT X475
+Yeah she said it was going down some from the last time.
+
+DOCTOR X475
+It did go down some, that's correct, it did go down.
+
+PATIENT X475
+That's why I started taking the cholesterol tabs.
+
+DOCTOR X475
+Now you actually take them now?
+
+PATIENT X475
+Yeah.
+
+DOCTOR X475
+Um in January were you taking them?
+
+PATIENT X475
+Yes.
+
+DOCTOR X475
+Every day, not skipping any evenings always.
+
+PATIENT X475
+Uh-huh.
+
+DOCTOR X475
+Okay.  Well it's still kind of high um.
+
+PATIENT X475
+But now I tell you with these white ones.
+
+DOCTOR X475
+Uh-huh.
+
+PATIENT X475
+I haven't been taking them.  I've been taking my olds ones.
+
+DOCTOR X475
+I see okay.  So you.
+
+PATIENT X475
+Since I got those but I just got those like two weeks ago.
+
+DOCTOR X475
+Okay so.
+
+PATIENT X475
+So I was finishing up my small pills.
+
+DOCTOR X475
+I see, so when you took your last cholesterol test in January which ones were you taking?
+
+PATIENT X475
+The small ones.
+
+DOCTOR X475
+The small ones.
+
+PATIENT X475
+Yeah.
+
+DOCTOR X475
+All this time you were taking the ones @@@ doses.
+
+PATIENT X475
+Right.
+
+DOCTOR X475
+You weren't taking the new ones?
+
+PATIENT X475
+No.
+
+DOCTOR X475
+Okay.
+
+PATIENT X475
+They just came about two weeks ago.
+
+DOCTOR X475
+So you just got the new ones.
+
+PATIENT X475
+Yeah.
+
+DOCTOR X475
+And have you been taking them?
+
+PATIENT X475
+No.
+
+DOCTOR X475
+Cause they're too big.
+
+PATIENT X475
+Uh-huh.
+
+DOCTOR X475
+Okay.
+
+PATIENT X475
+I been taking the smaller ones.
+
+DOCTOR X475
+Alright, okay.  So let's try to do this, try to take the big ones and break them in half and take them half at a time and then once you're on those for about two months we'll recheck the cholesterol and see if you do better on those.
+
+PATIENT X475
+Okay.
+
+DOCTOR X475
+Okay.
+
+PATIENT X475
+Uh-huh.
+
+DOCTOR X475
+So that and then blood pressures are good.  Do you take an aspirin a day?
+
+PATIENT X475
+Yes.
+
+DOCTOR X475
+And then, alright.  Any more problem with stomach problems?
+
+PATIENT X475
+No.
+
+DOCTOR X475
+Do you have burning?
+
+PATIENT X475
+No since I take them every day.
+
+DOCTOR X475
+Okay.  Um smoking?
+
+PATIENT X475
+Yes.
+
+DOCTOR X475
+Uh any decreasing of how much you're smoking yet?
+
+PATIENT X475
+Yes.
+
+DOCTOR X475
+Okay close enough.
+
+PATIENT X475
+Um a pack will last me probably almost two weeks.
+
+DOCTOR X475
+Okay.  That's not bad at all.  Are you using the gum at all?
+
+PATIENT X475
+No.
+
+DOCTOR X475
+No.  Uh let's see and @@@ which is fine.  Uh.
+
+PATIENT X475
+I'm trying to @@@ smoking by the time I come back.
+
+DOCTOR X475
+Good, great.  Very good uh.  Alright, let's see.
+
+PATIENT X475
+I went to draw blood today but they said I wasn't in the computer so.
+
+DOCTOR X475
+Oh yeah, they were looking for the order for you.
+
+PATIENT X475
+Yeah.
+
+DOCTOR X475
+And so @@@ wanted to check in to see what's going on with me @@@ for a while.
+
+PATIENT X475
+Okay.
+
+DOCTOR X475
+Let's see.  Do you have any problem with breathing?  No shortness of breath from the smoking?  @@@  No weight loss, no blood in the urine or stool, nothing like that?
+
+PATIENT X475
+No.
+
+DOCTOR X475
+Okay.
+
+PATIENT X475
+Uh-huh.
+
+DOCTOR X475
+@@@.  Family doctor did @@@ the cholesterol.
+
+PATIENT X475
+Yeah.  Uh-huh.
+
+DOCTOR X475
+Not a diabetic right?
+
+PATIENT X475
+No.
+
+DOCTOR X475
+Okay can you have a seat up here for me and I'll take a listen to you?  Take some deep breaths.  One more, one more, one more.  Breathe normally.  No chest pain, no weight loss, @@@?
+
+PATIENT X475
+No.
+
+DOCTOR X475
+Okay, look forward.  So all we're going to @@@ address today is medication refills or anything like that?
+
+PATIENT X475
+No, no.
+
+DOCTOR X475
+You don't need refills today for anything?
+
+PATIENT X475
+I just got some uh when I was here the last time a couple @@@.
+
+DOCTOR X475
+Alright, very good uh.  You have two refills, two refills and @@@.  Um other than that it should be good.  Okay and let's see I'll just put @@@.  You had you flu shot this year?
+
+PATIENT X475
+I had both of them.
+
+DOCTOR X475
+Good, you had a tetanus shot.  You had @@@ okay.  Alright let me talk to DOCTOR and I think that we'll be.  Uh what we'll have you do is after I order the cholesterol test @@@ we can still have you come back if the numbers we see are better okay.
+
+PATIENT X475
+Okay.
+
+DOCTOR X475
+Alright.  Yeah and your good cholesterol is actually pretty darn good and you're bad cholesterol, your triglyceride cholesterol were all @@@ you just have a very isolated cholesterol to try to treat.
+
+PATIENT X475
+Okay.
+
+DOCTOR X475
+I'll be back within a couple of minutes.
+
+(DOCTOR OUT:  17:02  DOCTOR IN:  30:27)
+DOCTOR X475
+Alright sir.  I had nice long conversation about your cholesterol pills and he got a little confused but we got him straightened out.  So you are taking now the simvastatin, the old little pill.
+
+PATIENT X475
+Old pink pill.
+
+DOCTOR X475
+Whatever, old pink pill.
+
+PATIENT X475
+Yeah.
+
+DOCTOR X475
+And how much of it, what's the dose of that one?
+
+PATIENT X475
+Um I think 20.
+
+DOCTOR X475
+20, only 20?
+
+PATIENT X475
+I think, I'm not sure.
+
+DOCTOR X475
+Okay.
+
+PATIENT X475
+But I'm taking a whole one.
+
+DOCTOR X475
+A whole one.  Okay, so here's the thing.  There's the cholesterol pill that you're taking, there's like a whole bunch of different ones.  They're all almost the same.
+
+PATIENT X475
+Hmm.
+
+DOCTOR X475
+@@@ so we just have @@@ to try to figure this out.
+
+PATIENT X475
+Uh-huh.
+
+DOCTOR X475
+This new big one that you got sent is actually not as strong as the old little pink one.
+
+PATIENT X475
+Well that's 80.
+
+DOCTOR X475
+The dose itself actually they don't correlate with numbers.
+
+PATIENT X475
+Okay.
+
+DOCTOR X475
+@@@ strong the actual medicine but they are similar but the dosing wasn't quite @@@.
+
+PATIENT X475
+Uh-huh.
+
+DOCTOR X475
+So did you have diarrhea with the little pink pill?
+
+PATIENT X475
+Yeah.
+
+DOCTOR X475
+How much diarrhea, how bad was it?
+
+PATIENT X475
+Um just one, after I take it and a little while after I have to go to the washroom.
+
+DOCTOR X475
+Just the one time.
+
+PATIENT X475
+Yeah.
+
+DOCTOR X475
+Okay so that's not real diarrhea.
+
+PATIENT X475
+No it was, I think it was cause you know I, how @@@ it.
+
+DOCTOR X475
+Yeah okay.  Are you willing to try it again I mean you've been taking it now.
+
+PATIENT X475
+Yeah @@@.
+
+DOCTOR X475
+Without trouble.
+
+PATIENT X475
+Right.
+
+DOCTOR X475
+Okay.  So what we're gonna do is that we'll @@@ also a dose of 80.
+
+PATIENT X475
+Uh-huh.
+
+DOCTOR X475
+Which @@@.  So we'll try to do that.  We'll put you on a full dose of the old pink pill okay.
+
+PATIENT X475
+Uh-huh.
+
+DOCTOR X475
+And have you take that because it's stronger and it's smaller.
+
+PATIENT X475
+Uh-huh, right.
+
+DOCTOR X475
+So it won't be, but try to take it okay.
+
+PATIENT X475
+Alright.
+
+DOCTOR X475
+So we'll stop the pravastatin, the big horse pills.
+
+PATIENT X475
+Uh-huh.
+
+DOCTOR X475
+Uh and then I'm gonna give you the full dose of the other ones okay.
+
+PATIENT X475
+Okay.
+
+DOCTOR X475
+And we'll see how your cholesterol does on that.
+
+PATIENT X475
+Okay.
+
+DOCTOR X475
+Now and if you are on that pill full dose and you're taking it and you take it for at least a year.
+
+PATIENT X475
+Uh-huh.
+
+DOCTOR X475
+And we still can't get your cholesterol under control; we actually do have another one that's stronger okay.
+
+PATIENT X475
+Uh-huh.
+
+DOCTOR X475
+So we'll talk about that after the other one first okay.
+
+PATIENT X475
+Okay.
+
+DOCTOR X475
+Okay.  Alright, does that make sense?
+
+PATIENT X475
+Uh-huh.
+
+DOCTOR X475
+So I put in the new pink pill.
+
+PATIENT X475
+Can you mail it?
+
+DOCTOR X475
+I'll put it in to mail, yeah, mail okay.
+
+PATIENT X475
+Uh-huh.
+
+DOCTOR X475
+@@@.
+
+PATIENT X475
+Yeah.
+
+DOCTOR X475
+Alright now we'll see you in about two months.
+
+PATIENT X475
+Uh-huh.
+
+DOCTOR X475
+And before you come in could you get the cholesterol done so we can have that to talk about.
+
+PATIENT X475
+Okay, but you got to put it in right?
+
+DOCTOR X475
+Yeah, yeah I'm gonna put it in right now.
+
+PATIENT X475
+Cause the last one when I went to the Lab they said there was.
+
+DOCTOR X475
+They said, no I'll put it in right now for two months from now okay.
+
+PATIENT X475
+Uh-huh.
+
+DOCTOR X475
+And we'll have you see DOCTOR in May, May 14th I put it in and I'll put in a lipid profile for a week before then okay.
+
+PATIENT X475
+Uh-huh.
+
+DOCTOR X475
+Okay.  Okay.
+
+PATIENT X475
+Uh-huh.
+
+DOCTOR X475
+Any questions?
+
+PATIENT X475
+No.
+
+DOCTOR X475
+Alright you can drop this off at the front desk.
+
+PATIENT X475
+Okay.  You have a good day.
+
+DOCTOR X475
+You too, take care.
+
+PATIENT X475
+Good bye.
+
+PATIENT LEAVES:  34:00
+
+
+
+

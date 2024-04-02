@@ -1,0 +1,946 @@
+
+DOCTOR X90
+PATIENT?
+
+PATIENT X90
+@@@.
+
+DOCTOR X90
+How are you sir?
+
+PATIENT X90
+Good, how are you DOCTOR?
+
+DOCTOR X90
+Did you get your blood pressure checked?  
+
+PATIENT X90
+Yeah, go ahead.  @@@ escort.  @@@.  Yeah I wanted ask you @@@.  Some of these medications I got, I don't even know what it is anymore.  Yeah I went for the colonoscopy and I got the results of it and it was fine.  So don't ask me to again.
+
+DOCTOR X90
+@@@.
+
+PATIENT X90
+@@@.
+
+DOCTOR X90
+@@@.  Right?
+
+PATIENT X90
+Oh no.  I already thought about doc.
+
+DOCTOR X90
+Well thanks for doing that.  I know it's not that much fun.  @@@.
+
+PATIENT X90
+No.
+
+DOCTOR X90
+I think @@@.  
+
+PATIENT X90
+Oh yeah it was just fine.  You know I seem to have a problem with this, I don't know what this medication is.  I'm out of Plavix okay.
+
+DOCTOR X90
+Okay.
+
+PATIENT X90
+Can you get @@@ rush @@@.
+
+DOCTOR X90
+Okay.
+
+PATIENT X90
+@@@ a rush @@@.
+
+DOCTOR X90
+Ok.  You can get it @@@ today.
+
+PATIENT X90
+@@@.
+
+DOCTOR X90
+Are you totally out or?
+
+PATIENT X90
+Well, the @@@ I am out of, @@@ I'm out, @@@ I believe.
+
+DOCTOR X90
+@@@.
+
+PATIENT X90
+Yeah.
+
+DOCTOR X90
+@@@.
+
+PATIENT X90
+It was for that time I had that bleeding @@@.
+
+DOCTOR X90
+Yeah, yeah.  Um so what do we need to accomplish today?  @@@ any questions.
+
+PATIENT X90
+I don't know, @@@ to get a check-up.
+
+DOCTOR X90
+Very good.  Um, any basic complaints?
+
+PATIENT X90
+No, no.
+
+DOCTOR X90
+Any changes in your health?
+
+PATIENT X90
+No, no, no.
+
+DOCTOR X90
+Things doing okay at home?
+
+PATIENT X90
+Oh, no I'm not at home anymore.  That's why I had to change the address on you.
+
+DOCTOR X90
+What happened?
+
+PATIENT X90
+Uh, @@@ group here.  I have no idea.  I had to smoke and I had to you know stop @@@ stuff like that.
+
+DOCTOR X90
+What happened?
+
+PATIENT X90
+She uh, just I don't know she been just kind of @@@ or something.  I have no idea what's going on with her and she asked me to leave.  I'm like, well why do I got to leave?  So anyway I found me a place to stay so it's no big deal you know.  You know I am on disability.
+
+DOCTOR X90
+Uh-huh.
+
+PATIENT X90
+You know, oh yeah I have a new phone number too.  I have to give you.  @@@ I believe.
+
+DOCTOR X90
+It's been @@@.
+
+PATIENT X90
+Right.
+
+DOCTOR X90
+@@@ new one?
+
+PATIENT X90
+That's what I want yeah.
+
+DOCTOR X90
+I'm going to update the phone numbers and your number is @@@.
+
+PATIENT X90
+No, no.
+
+DOCTOR X90
+They'll change it @@@.
+
+PATIENT X90
+Oh okay.
+
+DOCTOR X90
+So, there are no problems?  @@@.
+
+PATIENT X90
+Yeah.
+
+DOCTOR X90
+I mean all of a sudden she asked you to leave kind of out of the blue or?
+
+PATIENT X90
+Yeah out of the blue.  She was out in the @@@ with my grandkids for about five weeks and @@@ around long you know.  Things were all fine I thought and I thought the next thing I know there's a deputy sheriff coming to my door.
+
+DOCTOR X90
+Did you get a deposition?
+
+PATIENT X90
+A deputy sheriff.
+
+DOCTOR X90
+Oh deputy sheriff?
+
+PATIENT X90
+Yeah, what uh for you know physical abuse, sexual abuse, @@@.  I'm like what is she going off the wall, what are you talking about, you.  It totally threw me.  You know and I had to show up, I had a colonoscopy that day.  @@@.  This is for what, it's all BS.  So anyway, the next thing I know I get an order for eviction.  I'm like what you doing now.  You know my kids were all so out of it, they were like they don't know what's going on.
+
+DOCTOR X90
+Hmm.
+
+PATIENT X90
+Unbelievable, so that's why I'm having problems with insurance cause they won't take Blue Cross/Blue Shield because she cut me off of that you know.  So that's why I talked to a counselor or just something for right now.  @@@.
+
+DOCTOR X90
+@@@.
+
+PATIENT X90
+Well the only thing I got now is Medicare, I might have supplement plan, I have a co-pay here @@@ you know.
+
+DOCTOR X90
+Yeah um.
+
+PATIENT X90
+If I have to be, yeah I'll be up on it.
+
+DOCTOR X90
+@@@.
+
+PATIENT X90
+Yeah @@@.
+
+DOCTOR X90
+@@@.
+
+PATIENT X90
+Yeah it was kind of, it was rough on kids.  I got four kids and I got 10 grandkids.
+
+DOCTOR X90
+How old is your youngest son?
+
+PATIENT X90
+27.
+
+DOCTOR X90
+Wow.
+
+PATIENT X90
+@@@ my oldest is 39 and the youngest is 27.
+
+DOCTOR X90
+Um.
+
+PATIENT X90
+It's a weird world.
+
+DOCTOR X90
+Wow.  Uh, at any rate though, is everything else doing okay?
+
+PATIENT X90
+Yeah I have no problem.
+
+DOCTOR X90
+No chest pain?
+
+PATIENT X90
+No.
+
+DOCTOR X90
+Chest discomfort @@@.
+
+PATIENT X90
+No.
+
+DOCTOR X90
+Shortness of breath?
+
+PATIENT X90
+No.
+
+DOCTOR X90
+Problem with @@@.
+
+PATIENT X90
+@@@ I been smoking @@@ pack a day.
+
+DOCTOR X90
+Yeah 3/4.
+
+PATIENT X90
+So.
+
+DOCTOR X90
+When do you think you'll quit?
+
+PATIENT X90
+Going to quit?
+
+DOCTOR X90
+Are you weaning yourself off?
+
+PATIENT X90
+I'm weaning myself off yeah.
+
+DOCTOR X90
+Okay.
+
+PATIENT X90
+I think that's the best way to go.  Now I'm also @@@ Plavix.  Do I have to still take it or not?  
+
+DOCTOR X90
+Yeah.
+
+PATIENT X90
+I do.
+
+DOCTOR X90
+Yeah.
+
+PATIENT X90
+Oh okay.
+
+DOCTOR X90
+Absolutely.
+
+PATIENT X90
+@@@.
+
+DOCTOR X90
+Life long.
+
+PATIENT X90
+Life long?
+
+DOCTOR X90
+Yeah, well at least another month, but if you can take it life long you should um.
+
+PATIENT X90
+Alright.
+
+DOCTOR X90
+Like if there are other things we need to discuss @@@ today and I'm going to call the GI back and just make sure @@@.
+
+PATIENT X90
+No and there's another one for this?
+
+DOCTOR X90
+Glipizide?
+
+PATIENT X90
+Yeah.
+
+DOCTOR X90
+Okay.
+
+PATIENT X90
+And then this.
+
+DOCTOR X90
+You need to take the @@@.
+
+PATIENT X90
+Basically yeah.  See with all my stuff of moving out of the house, everything got screwed up.  And also @@@ is not from here, it's from DOCTOR for Plavix.
+
+DOCTOR X90
+@@@.
+
+PATIENT X90
+Yeah that's what I mean.
+
+DOCTOR X90
+Which doctor prescribed this for you?
+
+PATIENT X90
+No that's for @@@ for my uh disability.
+
+DOCTOR X90
+Okay.  I'm going to let this doctor refill this medicine for you because he has all your records from your psychiatric @@@.
+
+PATIENT X90
+Oh, okay, alright, alright.
+
+DOCTOR X90
+@@@ helpful actually having him.
+
+PATIENT X90
+Okay.
+
+DOCTOR X90
+Refill this medicine.  I'm not a psychiatrist.  I can give you @@@ but he has been following you for that.
+
+PATIENT X90
+Uh-huh.
+
+DOCTOR X90
+I want to leave it up to him.
+
+PATIENT X90
+Okay.
+
+DOCTOR X90
+If he wants to speak to me anytime for other medicines that @@@ I'm totally fine with that.
+
+PATIENT X90
+Okay, fine, alright, uh-huh, gotcha.
+
+DOCTOR X90
+@@@.
+
+PATIENT X90
+@@@.
+
+DOCTOR X90
+Are you checking your blood pressure at all home?
+
+PATIENT X90
+No.
+
+DOCTOR X90
+You're not.  Are you checking um blood sugars?
+
+PATIENT X90
+I'm not having any problem with it.
+
+DOCTOR X90
+Okay.  Um.
+
+PATIENT X90
+Really it's been low, it's not been high.
+
+DOCTOR X90
+@@@.
+
+PATIENT X90
+Oh, okay.
+
+DOCTOR X90
+@@@.
+
+PATIENT X90
+Yeah @@@.
+
+DOCTOR X90
+Okay.
+
+PATIENT X90
+I can feel it when it gets real low like about 60.  I don't like it that low.
+
+DOCTOR X90
+Like when does that happen?
+
+PATIENT X90
+I don't know, @@@ it just goes low.
+
+DOCTOR X90
+You're not eating and that's what happens or?
+
+PATIENT X90
+I'd say when I'm not eating right.
+
+DOCTOR X90
+When you're not eating.
+
+PATIENT X90
+Right, right.
+
+DOCTOR X90
+You got to be sure to eat three meals a day @@@.
+
+PATIENT X90
+Right, right, right, right.
+
+DOCTOR X90
+How long @@@.
+
+PATIENT X90
+Uh, it depends you know.  It's all different.  I don't know.  I keep track of it and I don't you know.  I really @@@.
+
+DOCTOR X90
+Once a week, twice a week?
+
+PATIENT X90
+Yeah something like that.  Once a week.
+
+DOCTOR X90
+Um, have you been sweating, @@@ dizzy.
+
+PATIENT X90
+Yeah, I @@@ that's when it's low.
+
+DOCTOR X90
+Um.
+
+PATIENT X90
+So then I find a piece of candy here something to boost it up you know.
+
+DOCTOR X90
+Passing out at all?
+
+PATIENT X90
+No, @@@.
+
+DOCTOR X90
+Um, @@@ tolerate the metformin @@@.
+
+PATIENT X90
+Oh yeah.
+
+DOCTOR X90
+@@@ right?
+
+PATIENT X90
+Right.
+
+DOCTOR X90
+Is that it?
+
+PATIENT X90
+Right.
+
+DOCTOR X90
+Um.
+
+PATIENT X90
+But that could have been from the ulcer that was there already, I don't know.  But here @@@ GI doctor @@@ but I don't know.  But you know I didn't know it had to be coated.  Said regular aspirin are not good you have to have it coated but I never had it coated.
+
+DOCTOR X90
+Okay.
+
+PATIENT X90
+@@@.
+
+DOCTOR X90
+I am trying to remember what happened with the metformin, the diabetes medicine.
+
+PATIENT X90
+@@@.
+
+DOCTOR X90
+@@@.
+
+PATIENT X90
+Yeah I didn't like it.
+
+DOCTOR X90
+Okay.  
+
+PATIENT X90
+@@@.  See some @@@ won't even tell you the doses.  They tell you, you know what it's for.
+
+DOCTOR X90
+Yeah.
+
+PATIENT X90
+@@@.
+
+DOCTOR X90
+Piroxicam, you take for depression um, @@@ imbalance.
+
+PATIENT X90
+Really?
+
+DOCTOR X90
+Yeah. 
+
+PATIENT X90
+I didn't know that.
+
+DOCTOR X90
+Do you see a psychiatrist on the outside?
+
+PATIENT X90
+Yeah, yeah.  I see him like once every four months.
+
+DOCTOR X90
+Why do you see him?
+
+PATIENT X90
+Because I have uh, what you call agoraphobia.
+
+DOCTOR X90
+Yeah.
+
+PATIENT X90
+Yeah that's why.  He keeps track of it.
+
+DOCTOR X90
+Okay um why don't you sit up here and let's take a look at you @@@.
+
+PATIENT X90
+Those rattle.  @@@.  It's starting to get warm out.
+
+DOCTOR X90
+Um.  
+
+PATIENT X90
+@@@.
+
+DOCTOR X90
+What'd you say?
+
+PATIENT X90
+It's good I came @@@.
+
+DOCTOR X90
+Yeah.  I'm going to lift your shirt.  Deep breath.  Can you lie down for me?  Can you sit up?  @@@ take off your shoes and socks so I can take a look at your feet.
+
+PATIENT X90
+@@@.  
+
+DOCTOR X90
+@@@ call on the GI doctor @@@.
+
+PATIENT X90
+Okay.  And also I got to make an appointment with the @@@.
+
+DOCTOR X90
+You got one coming up?
+
+PATIENT X90
+Yeah I had one and they said the letter too late and I forgot all about it.
+
+DOCTOR X90
+Hmm.
+
+PATIENT X90
+@@@.
+
+DOCTOR X90
+I'm going to be @@@ checking feet, I have @@@ say yes.  (Doctor makes phone call)  So we'll figure out the @@@.
+
+PATIENT X90
+Uh-huh.
+
+DOCTOR X90
+Um okay.  Oh let me take a look at your feet.  @@@  Okay.  Do you feel that?
+
+PATIENT X90
+Yeah I feel something.
+
+DOCTOR X90
+On the left?
+
+PATIENT X90
+Oh yeah.
+
+DOCTOR X90
+And there?
+
+PATIENT X90
+Yes.
+
+DOCTOR X90
+Now I just want to let you know, right here yeah.  The big thing is smoking um.  
+
+PATIENT X90
+Yeah.
+
+DOCTOR X90
+I can't stress to you know how important it is to quit.
+
+PATIENT X90
+I know, I know.
+
+DOCTOR X90
+We don’t know why you had a stroke.
+
+PATIENT X90
+Right.
+
+DOCTOR X90
+And on top of that you also had that chest pain @@@ cause a heart attack.
+
+PATIENT X90
+Yeah.  When was the @@@.
+
+DOCTOR X90
+No it was @@@ coronary arteries.
+
+PATIENT X90
+Oh okay.  @@@ stop smoking right.
+
+DOCTOR X90
+It's, so you have a bunch of arteries that run through your heart and it's a sign of heart @@@.
+
+PATIENT X90
+Right.
+
+DOCTOR X90
+Blood, @@@ heart muscle.
+
+PATIENT X90
+Right.
+
+DOCTOR X90
+After a heart attack if you have some plaque within those coronary arteries or cholesterol.
+
+PATIENT X90
+Right.
+
+DOCTOR X90
+And @@@ vessel wall and what happens is your smoking can cause clotting of the artery.
+
+PATIENT X90
+Uh-huh.
+
+DOCTOR X90
+Causes a heart attack and kills the heart muscle.
+
+PATIENT X90
+Oh.
+
+DOCTOR X90
+@@@.
+
+PATIENT X90
+That changes everything.
+
+DOCTOR X90
+We caught yours before.
+
+PATIENT X90
+Yeah right, @@@.
+
+DOCTOR X90
+Before it causes the clot.
+
+PATIENT X90
+Yeah.
+
+DOCTOR X90
+And it's a good thing we did, but one of the reasons you had that is because you smoke.
+
+PATIENT X90
+Okay.
+
+DOCTOR X90
+So.
+
+PATIENT X90
+I'm not @@@ ready for that yet.
+
+DOCTOR X90
+You're at risk for another heart attack; you're also at risk for another stroke.
+
+PATIENT X90
+Oh okay.
+
+DOCTOR X90
+Um it increases your risk tremendously just by smoking.
+
+PATIENT X90
+Okay.
+
+DOCTOR X90
+On top of that your lungs, you know, 5-10 years down the road.
+
+PATIENT X90
+Yeah.
+
+DOCTOR X90
+That also have what is called emphysema.
+
+PATIENT X90
+Yeah I know.
+
+DOCTOR X90
+COPD.  If you don't already have a little bit.  Now if you continue to smoke that'll just get worse.
+
+PATIENT X90
+I understand.
+
+DOCTOR X90
+If you stop smoking, any lethal damage to your lungs.
+
+PATIENT X90
+Will heal that right?
+
+DOCTOR X90
+It might not heal but the lungs won't get worse.  Does that make sense?
+
+PATIENT X90
+Yeah.
+
+DOCTOR X90
+And you're setting yourself for some major problems if you continue to smoke.
+
+PATIENT X90
+Okay.  I will quit entirely.  It's not worth that.
+
+DOCTOR X90
+Yeah, um.  Give me a couple of minutes and I will be back okay.
+
+PATIENT X90
+Okay.  @@@.
+
+DOCTOR X90
+@@@ look at Viagra.
+
+PATIENT X90
+Yeah @@@.
+
+DOCTOR X90
+Are you sexually active any more at all?
+
+PATIENT X90
+Well.
+
+DOCTOR X90
+Um okay.  Are you having problems with erections?
+
+PATIENT X90
+Oh once in a while yeah.
+
+DOCTOR X90
+Is it sustaining an erection or getting an erection?
+
+PATIENT X90
+Sustaining.
+
+DOCTOR X90
+Cause the Viagra won't help with sustaining it.
+
+PATIENT X90
+@@@.
+
+DOCTOR X90
+It will help with getting an erection.
+
+PATIENT X90
+Okay.
+
+DOCTOR X90
+@@@.
+
+PATIENT X90
+@@@.
+
+DOCTOR X90
+I would ask the cardiologist and just have him @@@.
+
+PATIENT X90
+Okay.
+
+DOCTOR X90
+Um @@@ blood pressure can affect the heart and I don't think you know that it's a problem @@@ something that the Viagra would help.
+
+PATIENT X90
+Alright, no problem.
+
+DOCTOR X90
+Um and @@@.  We can do labs today and @@@.  Okay give me a couple of minutes.  @@@.
+
+PATIENT X90
+No problem.
+
+(DOCTOR OUT 37:11  DOCTOR IN:  48:40)
+
+DOCTOR X90
+Okay.
+
+PATIENT X90
+@@@ what's going on out there?
+
+DOCTOR X90
+@@@ change a couple of the medicines @@@.
+
+PATIENT X90
+Okay.  @@@.
+
+DOCTOR X90
+@@@. (doctor working on computer)  
+
+PATIENT X90
+Alright.  @@@.
+
+DOCTOR X90
+Uh let me see.  @@@ You're all set.  This is omeprazole; I'm going to change it to something called pantoprazole.  @@@ Plavix.
+
+PATIENT X90
+Right.
+
+DOCTOR X90
+@@@.
+
+PATIENT X90
+Oh.
+
+DOCTOR X90
+@@@.
+
+PATIENT X90
+Okay.
+
+DOCTOR X90
+Um and then the other thing too @@@.
+
+PATIENT X90
+Uh-huh.
+
+DOCTOR X90
+So I'm going to put @@@.
+
+PATIENT X90
+@@@.
+
+DOCTOR X90
+Okay.
+
+PATIENT X90
+@@@.  Okay.
+
+DOCTOR X90
+Um let me see here.
+
+PATIENT X90
+@@@.
+
+DOCTOR X90
+When's your birthday?
+
+PATIENT X90
+09/20/47.
+
+DOCTOR X90
+Okay.  Alright and then @@@.  Have you seen the eye doctor recently?
+
+PATIENT X90
+No.
+
+DOCTOR X90
+@@@ see the eye doctor @@@ okay.
+
+PATIENT X90
+Okay.
+
+DOCTOR X90
+@@@.
+
+PATIENT X90
+Oh okay.
+
+DOCTOR X90
+@@@.
+
+PATIENT X90
+@@@.
+
+DOCTOR X90
+@@@ You got it.  Take care.  @@@ I'll see you in four months.
+
+PATIENT X90
+Okay.
+
+DOCTOR X90
+@@@.
+
+PATIENT X90
+@@@ for me?
+
+DOCTOR X90
+@@@.
+
+PATIENT X90
+@@@.
+
+DOCTOR X90
+I don’t have control over that.
+
+PATIENT X90
+@@@.  Very nice meeting you. @@@.
+
+DOCTOR X90
+@@@.
+
+PATIENT X90
+@@@ alright, no problem.  Take care.
+
+PATIENT LEAVES  56:06
+
+Time is @@@
+
+
+
+

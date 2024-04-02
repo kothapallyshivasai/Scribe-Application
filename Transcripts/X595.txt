@@ -1,0 +1,366 @@
+
+PATIENT X595
+Hello. 
+
+DOCTOR X595
+Hi.  How are you doing sir?
+
+PATIENT X595
+Okay.  
+
+DOCTOR X595
+Okay how can I help you?
+
+PATIENT X595
+Um uh maybe you could sign off on this thing.  
+
+DOCTOR X595
+What is it?
+
+PATIENT X595
+It's the physical.
+
+DOCTOR X595
+For what?
+
+PATIENT X595
+Uh nothing in particular.  Just an annual physical.
+
+DOCTOR X595
+Okay so what for?
+
+PATIENT X595
+Oh it's for uh xxx xxx I don't know, mental health providers.
+
+DOCTOR X595
+Oh okay.
+
+PATIENT X595
+I don't have any complaints about anything so I.
+
+DOCTOR X595
+Do you still see a psychiatrist?
+
+PATIENT X595
+Yep.
+
+DOCTOR X595
+Okay.  Is this for work or something?
+
+PATIENT X595
+Well you call it a something it's uh, well the Trilogy is a care provider for mentally ill patients.
+
+DOCTOR X595
+Uh-huh.
+
+PATIENT X595
+And they asked to get a physical every year.
+
+DOCTOR X595
+Uh-huh.
+
+PATIENT X595
+And that's it.
+
+DOCTOR X595
+Okay.  Okay.  You're not working are you?
+
+PATIENT X595
+Not now.
+
+DOCTOR X595
+Not now.
+
+PATIENT X595
+Right.
+
+DOCTOR X595
+Okay when was the last time you worked?
+
+PATIENT X595
+Oh I don't know let's see um it's been eight or nine years I think.
+
+DOCTOR X595
+And you’re, you're not working because, what's the reason?  Is it because of the schizophrenia, do you work or?
+
+PATIENT X595
+Well I was working and I started making money and they uh, I reached the maximum amount I was allowed to save.
+
+DOCTOR X595
+Okay.
+
+PATIENT X595
+Uh so I got to that point and then I had to, I didn't have to but I did give my notice and stopped working when I did.  More money than Social Security would want me to have.  It's uh; when you get Social Security you can't have more than $2000.
+
+DOCTOR X595
+Okay but are you on disability?
+
+PATIENT X595
+Yep.
+
+DOCTOR X595
+Okay well what's the disability for?  Is it for the schizophrenia?
+
+PATIENT X595
+Yep.
+
+DOCTOR X595
+Okay.  And how does that affect your work, why do you want it.
+
+PATIENT X595
+Well I seem to do alright.
+
+DOCTOR X595
+Okay.  Okay.  Um when do you see your psychiatrist?
+
+PATIENT X595
+Next one is April 12th.
+
+DOCTOR X595
+Okay.  Cause I can fill some of this out but the reason for your disability is schizophrenia right, so I can't really describe you know how it interferes with your work.  I'll talk the DOCTOR to see if there's something else we can do but maybe your psychiatrist would be better filling out some of this stuff.  
+
+PATIENT X595
+Well uh my social worker gave that to me and told me to bring it, that's about all I can say.
+
+DOCTOR X595
+Okay, no that's fine it's not, not taking care of things.  You don't have any complaints today though?
+
+PATIENT X595
+Nope.
+
+DOCTOR X595
+No belly pain, no.
+
+PATIENT X595
+Nope.
+
+DOCTOR X595
+Nothing?  Okay, that's good to hear.  
+
+PATIENT X595
+Am I due for a blood draw?
+
+DOCTOR X595
+Yeah that's what I was looking at.  I think that's the one thing that you may be due for, um and you're still taking the simvastatin?
+
+PATIENT X595
+Yes.
+
+DOCTOR X595
+Aspirin?
+
+PATIENT X595
+Yep.
+
+DOCTOR X595
+The medication for your stomach, ranitidine?
+
+PATIENT X595
+Yep.
+
+DOCTOR X595
+And niacin.
+
+PATIENT X595
+Yep.
+
+DOCTOR X595
+Anything else?  Any other meds?
+
+PATIENT X595
+Clozaril and Effexor.
+
+DOCTOR X595
+Clonazepam or Clozaril?
+
+PATIENT X595
+You can call it clonazepam.
+
+DOCTOR X595
+Okay.  And that's from your psychiatrist?
+
+PATIENT X595
+Yep.
+
+DOCTOR X595
+Let me take a listen to you.  Deep breath.  Do you smoke?
+
+PATIENT X595
+Yep.
+
+DOCTOR X595
+How much?
+
+PATIENT X595
+About a pack a day.
+
+DOCTOR X595
+Pack a day.  Any thoughts of quitting?
+
+PATIENT X595
+No.
+
+DOCTOR X595
+Why not?
+
+PATIENT X595
+I kind of like smoking.
+
+DOCTOR X595
+You know it's harmful for you right?
+
+PATIENT X595
+Well I believe it's harmful for some and not harmful to others.
+
+DOCTOR X595
+It's harmful to everybody.
+
+PATIENT X595
+Oh.
+
+DOCTOR X595
+It'll, you don't feel anything and then all of a sudden it's, it gets to the point where your lungs are too affected and you can't get in any oxygen.  People end up on oxygen at home, end up on breathing machines because they can't breathe cause their lungs don't function as well.  It causes a lot of problems.  It causes heart problems.  People that smoke tend to have heart attacks a lot earlier than people that don't smoke um so and it is a lot of money, it's getting more expensive so.  That's what I want you to do for the next time I see you.  I want you to think about quitting.
+
+PATIENT X595
+Or I'll cut back quite a bit maybe.
+
+DOCTOR X595
+Okay.  I mean I can't say no to that but my goal is to get you to quit okay.
+
+PATIENT X595
+Yep.
+
+DOCTOR X595
+So think about it and make a list of all the good and bad things about smoking um okay.
+
+PATIENT X595
+Yep.
+
+DOCTOR X595
+Have you ever had a colonoscopy?
+
+PATIENT X595
+Uh no and I don't want one.
+
+DOCTOR X595
+Okay.  Yeah and you don't want the prostate cancer screening either.  Alright, let me talk to DOCTOR real quick.
+
+PATIENT X595
+Okay.
+
+DOCTOR X595
+Is your sight okay?
+
+PATIENT X595
+Yeah.
+
+DOCTOR X595
+And can you see, do you wear glasses or just sunglasses?
+
+PATIENT X595
+Just sunglasses.
+
+DOCTOR X595
+Okay so you don't wear contacts or glasses?
+
+PATIENT X595
+Right.
+
+DOCTOR X595
+Okay and your hearing.
+
+PATIENT X595
+Nope.
+
+DOCTOR X595
+Is it okay?
+
+PATIENT X595
+Yep.
+
+DOCTOR X595
+I just need to ask.  Are those your teeth or are they dentures?
+
+PATIENT X595
+Dentures.
+
+DOCTOR X595
+They’re dentures okay.  Okay I'll be right back.
+
+(DOCTOR OUT:  14:52  DOCTOR IN:  20:25
+
+DOCTOR X595
+Alright.  So I'm going to fill out the parts I can fill out and then you're going to have to take it to your psychiatrist for the rest of it.
+
+PATIENT X595
+Right.  That will be fine.  I don't usually like to bring those things but they tell me to so.
+
+DOCTOR X595
+Yeah no you have to get it filled out um but some of this is for the psychiatrist.
+
+PATIENT X595
+The doctors yeah.
+
+DOCTOR X595
+Fill out.  Want to get some blood tests today?
+
+PATIENT X595
+I already ate.
+
+DOCTOR X595
+Okay um when are you coming back?
+
+PATIENT X595
+Tomorrow morning.
+
+DOCTOR X595
+Okay then you can get the blood tests done tomorrow morning.
+
+PATIENT X595
+Right.
+
+DOCTOR X595
+Okay, I'll just put them in the computer so.  Okay, I'll give you that back.
+
+PATIENT X595
+Thank you very much.
+
+DOCTOR X595
+Sure, you're very welcome and we'll see you back in about six months.
+
+PATIENT X595
+Uh-huh.
+
+DOCTOR X595
+Alright.
+
+PATIENT X595
+Well thank you very much.
+
+DOCTOR X595
+You're welcome, take care.
+
+PATIENT X595
+Yep.  See you in six.
+
+DOCTOR X595
+Do you need any of your meds refilled?
+
+PATIENT X595
+No thank you.
+
+DOCTOR X595
+Okay.
+
+PATIENT X595
+So long.
+
+DOCTOR X595
+Bye.
+
+PATIENT LEAVES:  22:51
+
+
+
+
+

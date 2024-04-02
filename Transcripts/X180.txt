@@ -1,0 +1,514 @@
+
+DOCTOR X180
+PATIENT?  How you doing sir?
+
+PATIENT X180
+Okay, how you been?
+
+DOCTOR X180
+I've been good.
+
+PATIENT X180
+@@@.
+
+DOCTOR X180
+That's what they told me.
+
+PATIENT X180
+@@@.  @@@ anticipating @@@ you know what I mean.
+
+DOCTOR X180
+@@@.  Can I have you come in here?  Blood pressure.  
+
+PATIENT X180
+You got a log book in that thing don't you?
+
+DOCTOR X180
+Yeah @@@. 
+
+PATIENT X180
+There is from June and turn it over and this is to the current.
+
+DOCTOR X180
+Your log book is @@@.  And this is right after you've taken the medications?
+
+PATIENT X180
+Pretty close yeah.  I take the medication the first thing in the morning, there's the time.  Sometimes I take it.
+
+DOCTOR X180
+Alright so you were taken it yeah.
+
+PATIENT X180
+@@@
+
+DOCTOR X180
+@@@.
+
+PATIENT X180
+Well you see I take it usually around 7 o'clock, 6:30, 7 o'clock.
+
+DOCTOR X180
+@@@.  
+
+PATIENT X180
+Just because of the anticipation I'm more likely to shut that friggin machine off.
+
+DOCTOR X180
+Okay.
+
+PATIENT X180
+And I've been to the doctor, been to the heart specialist, went to the doctor the day before yesterday and it was 135 over I think it was something like 80.  The heart doctor was good, today it was 128 over, trying to think, I don't know it.  I do for his machine; I did not notice much anticipation I don't know why.
+
+DOCTOR X180
+Did you think that you may have had a MRI being ordered?  Do you remember having @@@.
+
+PATIENT X180
+Uh-huh I think @@@.
+
+DOCTOR X180
+They inject a dye.
+
+PATIENT X180
+Yeah, yeah.
+
+DOCTOR X180
+They did it?
+
+PATIENT X180
+Uh-huh you lay there.
+
+DOCTOR X180
+Yeah, yeah.
+
+PATIENT X180
+And they got this thing that goes @@@.  Uh and then you go through exercise then and they do @@@ radiation that they put in your.
+
+DOCTOR X180
+That's for your heart.
+
+PATIENT X180
+Okay.
+
+DOCTOR X180
+That's a stress test for your heart.
+
+PATIENT X180
+Um.  I did every test available.
+
+DOCTOR X180
+Okay.
+
+PATIENT X180
+@@@.
+
+DOCTOR X180
+Um well the nice thing is that your cholesterol and your glucose look fantastic, they're both good.
+
+PATIENT X180
+@@@ look at the heart thing I mean that's not really, it's only this machine here you know.
+
+DOCTOR X180
+Yeah I know these aren't bad.  These are really good generally.
+
+PATIENT X180
+Yeah well I mean for my age and.
+
+DOCTOR X180
+You know it's just the situation that you're on four medications and there are times when your blood pressure is markedly elevated.  We want to be sure that it's not just hypertension that there's not something else causing it and that's the really the only reason I bring that @@@ thing up.
+
+PATIENT X180
+Uh-huh.
+
+DOCTOR X180
+Cause when kidney arteries are blocked or @@@.
+
+PATIENT X180
+Uh-huh.  I'm almost positive I had that done.  I really am.
+
+DOCTOR X180
+Uh-huh.  Um you haven't had any chest pain, shortness of breath or anything of that nature?
+
+PATIENT X180
+No.
+
+DOCTOR X180
+@@@.
+
+PATIENT X180
+@@@.
+
+DOCTOR X180
+I'm just checking the pulse ox.  
+
+PATIENT X180
+So how you been?
+
+DOCTOR X180
+I'm okay for goodness sakes.  How about you?  What's new?
+
+PATIENT X180
+@@@.  Friday.
+
+DOCTOR X180
+Who?
+
+PATIENT X180
+@@@.
+
+DOCTOR X180
+Oh yeah.
+
+PATIENT X180
+Yeah it's so much an inch so @@@.  What'd you get?
+
+DOCTOR X180
+It's high yet.
+
+PATIENT X180
+What'd you get.
+
+DOCTOR X180
+165.
+
+PATIENT X180
+It's coming down.  When they first took it it was 2 something and she took it again and it was @@@.  I get done about 50 times a year.
+
+DOCTOR X180
+You get your blood pressure checks so many times in a year.  
+
+PATIENT X180
+What'd you get?
+
+DOCTOR X180
+Again 170, not good.
+
+PATIENT X180
+I just got @@@ and I'm trying to get my t-shirt down.  @@@.
+
+DOCTOR X180
+Deep breaths for me.  How's work been going?
+
+PATIENT X180
+@@@.
+
+DOCTOR X180
+Yeah.  How many @@@ a day do they have?
+
+PATIENT X180
+Oh I only work half a day, maybe six or eight a day.
+
+DOCTOR X180
+@@@.
+
+PATIENT X180
+I like what I'm doing.  If I'm working I don't have time to stop and when you think about something @@@.
+
+DOCTOR X180
+Sometimes you're bored huh?
+
+PATIENT X180
+Well before you think about it, it's a reflex action.
+
+DOCTOR X180
+I bet.
+
+PATIENT X180
+It's sort of like a @@@ I don't have it with me all the time.  
+
+DOCTOR X180
+What else can I refill for you?
+
+PATIENT X180
+Pardon me?
+
+DOCTOR X180
+Anything else I can refill for you medication wise?
+
+PATIENT X180
+I don't think, I probably need some refills.  What test did you say you want that, cause I can @@@.
+
+DOCTOR X180
+They're called an MRA.
+
+PATIENT X180
+MRA.
+
+DOCTOR X180
+Of the renal.
+
+PATIENT X180
+Renal.
+
+DOCTOR X180
+Uh-huh arteries.
+
+PATIENT X180
+@@@.
+
+DOCTOR X180
+@@@.  
+
+PATIENT X180
+Uh it's a kidney test.  Kidney test.  And what is your fax number if they want to fax it, if they want to get some information to you?
+
+DOCTOR X180
+They have it up front at the front desk, just ask them at the front.  Where you get your appointment scheduled.
+
+PATIENT X180
+Yeah.
+
+DOCTOR X180
+Just ask them cause they have it up there.
+
+PATIENT X180
+They do?  The last time they didn't set an appointment.  I didn't get an appointment, they said just to call you or let you know and then I called in for medicine and they said you didn't get an appointment well you didn't tell me.  
+
+DOCTOR X180
+Alright.  (Doctor on phone)
+
+PATIENT X180
+MRA of the renal artery.  I'm going to @@@.
+
+DOCTOR X180
+Yeah I'm done, I'm done.
+
+PATIENT X180
+No I just.
+
+DOCTOR X180
+I hate the beeper, but you know again I'm not going to do it until I know.
+
+PATIENT X180
+Okay, well I better be @@@.
+
+DOCTOR X180
+Well let me talk to DOCTOR, you wait in here for a few minutes.
+
+PATIENT X180
+@@@.
+
+DOCTOR X180
+Yeah it's not going to take long.
+
+PATIENT X180
+Okay.
+
+(DOCTOR OUT:  35:24  DOCTOR IN:  43:03)
+
+DOCTOR X180
+Have you ever had a sleep study done?
+
+PATIENT X180
+A what?
+
+DOCTOR X180
+Sleep study?
+
+PATIENT X180
+No.
+
+DOCTOR X180
+Do you @@@ sleep at night?
+
+PATIENT X180
+Yeah well I do but not intentionally.  I fall sleep in the evening and I'll go down and turn something on the television, I'll fall asleep for an hour or so and then I can't go to bed right away so I go to bed about midnight, 1 o'clock and I sleep till about 7 o'clock or something like that.
+
+DOCTOR X180
+Okay.
+
+PATIENT X180
+I'm not tired, I'm mean if that's what you're looking into, I'm not tired.
+
+DOCTOR X180
+It's sometime the cause of high blood pressure.  It's something called sleep apnea.
+
+PATIENT X180
+@@@.
+
+DOCTOR X180
+It's bad for the heart.  You don't snore or wake up in the middle of the night gasping for breath, that type of stuff?
+
+PATIENT X180
+Well I snore.  My wife, that's why she sleeps in another bedroom.  I always have snored.
+
+DOCTOR X180
+It's a situation where it's a test that you do in the Pulmonary Lab; it doesn't take much, where they evaluate whether you have breathing troubles.  Uh you may not know it but this sleeping trouble puts a stress on the heart and it can hurt the @@@ from the heart and can @@@ hypertension and stuff.
+
+PATIENT X180
+Uh-huh.
+
+DOCTOR X180
+We can control it with medications okay.  It's something that I want to do for you.
+
+PATIENT X180
+Uh-huh.
+
+DOCTOR X180
+But I want to schedule this.  Why don't you go talk to the folks and let's have probably do that.
+
+PATIENT X180
+Is that here?
+
+DOCTOR X180
+It's here.  Yeah, I'll schedule it, so it's not going to be today.
+
+PATIENT X180
+Okay.
+
+DOCTOR X180
+But uh why don't I schedule that for you.  
+
+PATIENT X180
+I need some refills of the clonidine too, so there are no refills remaining.
+
+DOCTOR X180
+Yeah we'll do that right now.
+
+PATIENT X180
+It says prior to May 11, 2011 so I don't know what that means.
+
+DOCTOR X180
+Yeah whatever, I'll refill it.  But maybe only once.
+
+PATIENT X180
+Uh-huh yeah.  @@@.
+
+DOCTOR X180
+Alrighty so couple things I want to do with you.  I want to, if you're okay I'll send you to the Pulmonary folks for a sleep study and that will not be @@@.
+
+PATIENT X180
+Did you check for that?
+
+DOCTOR X180
+I'm not going to do the test because it's a pretty, you know heavy duty thing to do.  @@@.  I want to make sure.
+
+PATIENT X180
+Let me check with the, I'll check with the doctor, DOCTOR.
+
+DOCTOR X180
+Please do.  Do one of two things, either fax them here if you have it or bring it in to your next appointment.  If you find out that you haven't had it done um call, like you would normally call for a refill.
+
+PATIENT X180
+Uh-huh.
+
+DOCTOR X180
+Call and tell the nurse to notify DOCTOR that a MRA hasn't been done.
+
+PATIENT X180
+Okay.
+
+DOCTOR X180
+And I'll schedule it for you.
+
+PATIENT X180
+I may have thought I had it but I can't remember.  And I have no trouble sleeping.
+
+DOCTOR X180
+@@@ snoring.
+
+PATIENT X180
+Oh yeah my wife says I snore.
+
+DOCTOR X180
+You know maybe this @@@.
+
+PATIENT X180
+@@@.
+
+DOCTOR X180
+That's what I mean; you might have the work that out.
+
+PATIENT X180
+Hmm.  After 50 some years, it's a lot different.
+
+DOCTOR X180
+That's okay @@@.
+
+PATIENT X180
+She don't get @@@.
+
+DOCTOR X180
+So it sounds good.  So they'll be notifying you about the sleep test.  You can follow up with me in six months unless something else comes up before then.  Um and then I'd like to know about that test.
+
+PATIENT X180
+Alright um alright I know the number to call.  I'll just call and I'll say yes or no.
+
+DOCTOR X180
+That's right.
+
+PATIENT X180
+Uh and I'll @@@.
+
+DOCTOR X180
+If yes then fax it in or bring it in to your appointment just so I can have a copy of it.
+
+PATIENT X180
+Okay I'll try and get a copy of it.
+
+DOCTOR X180
+If you fax it then I'll know it comes in @@@.
+
+PATIENT X180
+The last time I had faxed something here.
+
+DOCTOR X180
+Uh-huh.
+
+PATIENT X180
+You know nobody said @@@ they saw.  I mean it's as if went to the Never Never Land in the VA I mean and I did it twice.
+
+DOCTOR X180
+Oh okay just bring it in to the next clinic.
+
+PATIENT X180
+Okay.
+
+DOCTOR X180
+If it's no.
+
+PATIENT X180
+If it's no I'll call you and I'll leave a message.
+
+DOCTOR X180
+And then I'll call you so we can get it schedule it.
+
+PATIENT X180
+Okay.  @@@.  Six months okay.  The last time they wouldn’t do anything.  I mean I, just to let you know and then I come for meds, just to get medicines and uh.
+
+DOCTOR X180
+I just try to work within the system.
+
+PATIENT X180
+Oh no, I know.  I'm not faulting you I'm just saying.
+
+DOCTOR X180
+No, no, I work here everyday, I know how it is.  People tell me that all the time.
+
+PATIENT X180
+You know, well it was on a Friday then they didn't have an appointment anymore so I called for some medications and a week I get back to her and she said you didn't have the test and haven't seen a doctor lately.
+
+DOCTOR X180
+Okay @@@ there you go.  
+
+PATIENT X180
+Thanks a lot, I appreciate it.
+
+DOCTOR X180
+Alright you take care. 
+
+PATIENT X180
+You're here one day a week?
+
+DOCTOR X180
+Yes.
+
+PATIENT X180
+@@@.
+
+PATIENT LEAVES:  49:00
+
+Time is 11:10.
+
+
+
+

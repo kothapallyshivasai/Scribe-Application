@@ -1,0 +1,694 @@
+
+DOCTOR X93
+PATIENT?
+
+PATIENT X93
+Yes sir.
+
+DOCTOR X93
+I'm DOCTOR, nice to see you.
+
+PATIENT X93
+You too sir.
+
+DOCTOR X93
+How are you?
+
+PATIENT X93
+Fine.
+
+DOCTOR X93
+Come on in.  How have you been since I last saw you.  @@@.
+
+PATIENT X93
+Yep.
+
+DOCTOR X93
+How's everything going?  @@@ better?
+
+PATIENT X93
+Much much better.
+
+DOCTOR X93
+So when I saw you you were having trouble @@@.
+
+PATIENT X93
+I got these from @@@ like a full day.
+
+DOCTOR X93
+Oh it's okay.  Its part of the @@@ program, you can leave it there, it's no big deal.
+
+PATIENT X93
+But what I mean, @@@.
+
+DOCTOR X93
+I don't know what happens.  I don't know, they're supposed to record our interactions to see what's going on.
+
+PATIENT X93
+Yeah.
+
+DOCTOR X93
+We'll just leave it there cause I don't want to touch it cause I don't know what to do with it.  Um, so since I last saw you you had come back from xxx xxx and you were having trouble finding housing and employment.  How is that stuff going?
+
+PATIENT X93
+Okay, I you see me the 19th November.
+
+DOCTOR X93
+Yeah.
+
+PATIENT X93
+On the next day I get uh, I was admitted in xxx xxx.
+
+DOCTOR X93
+Yeah.
+
+PATIENT X93
+@@@.
+
+DOCTOR X93
+Is that, so that's for housing.
+
+PATIENT X93
+For housing and it looks like I got a job.
+
+DOCTOR X93
+Where?
+
+PATIENT X93
+In the @@@ Park.  I'm going to be working for Titan Security Service.
+
+DOCTOR X93
+Do you have a way you can get there, transportation; do you have a way to get there?
+
+PATIENT X93
+Si, si.
+
+DOCTOR X93
+Probably just take the Metro or the L.
+
+PATIENT X93
+I take the 308 from here.
+
+DOCTOR X93
+Yeah.
+
+PATIENT X93
+To xxx xxx.
+
+DOCTOR X93
+Yeah the Blue Line.
+
+PATIENT X93
+And then the Blue Line from xxx xxx to Monroe.
+
+DOCTOR X93
+When do you start?
+
+PATIENT X93
+I am waiting for their call cause uh last week, they took my fingerprint and they sent it to the FBI.
+
+DOCTOR X93
+Yeah.
+
+PATIENT X93
+And they're waiting for.
+
+DOCTOR X93
+@@@.
+
+PATIENT X93
+They said that it could take from 5-10 @@@ day.  I gonna call them tomorrow to follow up on that but.
+
+DOCTOR X93
+Is there any, do you think they're gonna find anything that's concerning?
+
+PATIENT X93
+No, no, no.  I don't have no felony or anything.  I know anything ruining my record but as a matter of fact I don't @@@ stay from xxx xxx.
+
+DOCTOR X93
+Right.
+
+PATIENT X93
+I don't have nothing from there neither.
+
+DOCTOR X93
+Great, great.  Are you excited about all this?
+
+PATIENT X93
+Oh yes I am.
+
+DOCTOR X93
+And then, if I remember right, your family, you only family here is a sister-in-law.
+
+PATIENT X93
+Uh-huh.
+
+DOCTOR X93
+Do you still see them at all?
+
+PATIENT X93
+I saw her about one or two, twice a month.
+
+DOCTOR X93
+And you have a wife and children in xxx xxx.
+
+PATIENT X93
+Yes.
+
+DOCTOR X93
+Do you talk to them still?
+
+PATIENT X93
+Every day.
+
+DOCTOR X93
+How is it?
+
+PATIENT X93
+They're doing good.
+
+DOCTOR X93
+And the relationship is okay.
+
+PATIENT X93
+Oh yeah.
+
+DOCTOR X93
+You guys get along okay good.  How is everything else going, all your medications are okay?
+
+PATIENT X93
+Uh-huh.
+
+DOCTOR X93
+I know you see, I read that you completed the ATT Program.
+
+PATIENT X93
+Yes.
+
+DOCTOR X93
+And then uh they now have you seeing one of the physicians over there.
+
+PATIENT X93
+DOCTOR.
+
+DOCTOR X93
+And he gives you all your medications.  Is everything, you're okay with the way everything's going with your medications?
+
+PATIENT X93
+Well, I got a refill from the DOCTOR.
+
+DOCTOR X93
+Yeah.
+
+PATIENT X93
+@@@ see, I don't know the number like @@@.
+
+DOCTOR X93
+Yeah.
+
+PATIENT X93
+Uh if it's Chinese or I don't know.
+
+DOCTOR X93
+Yeah.
+
+PATIENT X93
+But I @@@ not talked to her yet but I have medications.
+
+DOCTOR X93
+Okay.  Do you have an appointment with him coming up?
+
+PATIENT X93
+I think that I have uh; I think that it's for May.  Of course in April I have.
+
+DOCTOR X93
+Colonoscopy.
+
+PATIENT X93
+The colonoscopy.
+
+DOCTOR X93
+Good we'll do that.  I'm glad that they have that April 23rd.
+
+PATIENT X93
+Yeah.
+
+DOCTOR X93
+It looks like they're doing the colonoscopy.
+
+PATIENT X93
+Uh-huh.
+
+DOCTOR X93
+Okay and then um and anything else that's bothering you or anything else going on?
+
+PATIENT X93
+No remember I have that thing in my knee?
+
+DOCTOR X93
+Yeah.
+
+PATIENT X93
+It's getting better.  I know that it could take more, like six more months, but it don't bother me no more.
+
+DOCTOR X93
+@@@.
+
+PATIENT X93
+I can walk.
+
+DOCTOR X93
+Are you losing any weight?
+
+PATIENT X93
+I need to weigh.
+
+DOCTOR X93
+That will help.  That will definitely help.
+
+PATIENT X93
+Cause I was 230.
+
+DOCTOR X93
+Yeah now it's at 225.
+
+PATIENT X93
+I don't know @@@.
+
+DOCTOR X93
+Yeah standing but you @@@ in June I don't know is this right, in June of 2000 well you were 172.
+
+PATIENT X93
+When I came here, I came here in June.
+
+DOCTOR X93
+Cause you were working.
+
+PATIENT X93
+No I wasn't.  I came here from xxx xxx cause I was dying and they sent me for treatment.
+
+DOCTOR X93
+Here from alcohol.
+
+PATIENT X93
+Alcohol.
+
+DOCTOR X93
+Is that why your weight was so low cause you weren't eating?
+
+PATIENT X93
+Oh it was no.  I drink and I did not eat nothing for weeks.
+
+DOCTOR X93
+Yeah look at how much your weight went up.  Your weight went up from you were 172 and then you went up to 215 and then you kind of were stable so hopefully when you start working again your weight will come down.
+
+PATIENT X93
+Cause I need to work over there @@@.
+
+DOCTOR X93
+Yeah.
+
+PATIENT X93
+There are 25 acres.
+
+DOCTOR X93
+Well that's fantastic so I'm very happy that.  So how long can you stay in xxx xxx for?
+
+PATIENT X93
+Two years.
+
+DOCTOR X93
+Oh great so you have some time to get some money built up, get an apartment, two years.  Do you mind if I take a look at you?
+
+PATIENT X93
+Okay.
+
+DOCTOR X93
+Yeah let me take a peak.  I'm gonna wash my hands.  
+
+PATIENT X93
+Now I want to see, I don't know if it was you or the other doctor.
+
+DOCTOR X93
+Yeah.
+
+PATIENT X93
+Cause I have, my feet were sweating big time.
+
+DOCTOR X93
+Yeah, yeah.
+
+PATIENT X93
+And he said that was cause I was taking the high blood pressure pills and he gave me some water pills and they helped.
+
+DOCTOR X93
+I don't know how are your feet?
+
+PATIENT X93
+I take a few and I continue to @@@.
+
+DOCTOR X93
+Yeah.
+
+PATIENT X93
+And to be honest with you, he gave me like a 25 mg pill to have me take half pills.
+
+DOCTOR X93
+Yeah, right.
+
+PATIENT X93
+I've been taking the whole pill.
+
+DOCTOR X93
+Okay fine.
+
+PATIENT X93
+@@@.
+
+DOCTOR X93
+Well your blood pressure, it's not for your blood pressure control.  Your blood pressure's good.
+
+PATIENT X93
+Well the only thing that I am always concerned, being my concern is besides the high blood pressure is the @@@.
+
+DOCTOR X93
+Oh yeah.
+
+PATIENT X93
+I know, when I came to the states.
+
+DOCTOR X93
+Yeah.
+
+PATIENT X93
+I used to have 120, 145.
+
+DOCTOR X93
+So that can be due to the alcohol.  People that have alcohol they can go into withdrawals or when they're drinking can get heart rates that are fast and I know that you were drinking and not drinking and your body was probably.  Did you used to get the shakes a lot?
+
+PATIENT X93
+I know, it's gone.
+
+DOCTOR X93
+Okay.
+
+PATIENT X93
+But when you see me, when I came here uh.
+
+DOCTOR X93
+You were clean when I saw you in November.
+
+PATIENT X93
+I was.
+
+DOCTOR X93
+Yeah you told me.
+
+PATIENT X93
+I was clean from drugs.
+
+DOCTOR X93
+You told me you would drink a little bit in xxx xxx, that's why you left.
+
+PATIENT X93
+Uh that was bullshit, I was drinking lots.
+
+DOCTOR X93
+Oh I knew.  Don't worry, @@@ its okay.  Keep breathing.
+
+PATIENT X93
+As a matter of fact when you see me in the last time in November I was stop drinking for one day and I was shaking, my hand was shaking cause I was.
+
+DOCTOR X93
+Well I was trying to figure out why you left xxx xxx, you came all the way up here just to see me, I didn't think I was that important so I was trying to figure out why you came here and left your family and I know you say that you can get a better job here so I think that that's fantastic but I know also you said that.  You go to the bathroom okay?  Well you told me that if you stayed around xxx xxx you'd get in trouble.  You know you told me you were hanging out with the wrong guys and that.  
+
+PATIENT X93
+Uh-huh.
+
+DOCTOR X93
+Your legs look good, they look real good.  There's no swelling at all.  Um so I think you're doing fantastic.  I'm very glad that uh you were able to get a job and you were able to get somewhere to live.  I applaud you for stopping alcohol and drugs.  I think that whatever you have to do to stay away from it do it.  I think that your health will get better as you start working more.  You will feel more motivated.  You'll have a real reason to get up in the morning and after a while you'll feel more empowered and you'll have more money and you can get an apartment and then you know hopefully you can get back with your family and get everything the way you want it again.
+
+PATIENT X93
+Yeah.  I'm applying for some job here in the hospital.
+
+DOCTOR X93
+Good.  Apply for everything you know we can do for you.
+
+PATIENT X93
+Yeah I get that job for @@@ you know.
+
+DOCTOR X93
+Hey anything, any extra money is helpful.  It'll help you get back on your feet and help you get out of here.  And just keep the colonoscopy appointment.  Uh I don't think we're gonna change any medications today and it looks like you have DOCTOR in May, early May he's gonna see you.  So let me go, I'll talk to my boss but I like the way everything's going.  I'm going to see you in the summer.
+
+PATIENT X93
+Let's see, March, April, yeah.  Cause I need the refills.
+
+DOCTOR X93
+Which ones.
+
+PATIENT X93
+For what I am taking until that day cause uh.
+
+DOCTOR X93
+Are you.
+
+PATIENT X93
+Do you know that I want to start, @@@ to be honest with you I was thinking I have thiamine.
+
+DOCTOR X93
+Yeah.
+
+PATIENT X93
+But I don't have, I not have for now @@@.
+
+DOCTOR X93
+Yeah.
+
+PATIENT X93
+And Omega 3.  
+
+DOCTOR X93
+I'll renew all that for you.
+
+PATIENT X93
+And all the other stuff.
+
+DOCTOR X93
+Sure.
+
+PATIENT X93
+I think you can cancel the @@@.
+
+DOCTOR X93
+Good.
+
+PATIENT X93
+I don't need it now.
+
+DOCTOR X93
+How about are you still smoking?
+
+PATIENT X93
+Yes.
+
+DOCTOR X93
+Are you using nicotine.
+
+PATIENT X93
+I @@@ yesterday the patch.  @@@ using it cause when I start working I not gonna be able to smoke you know.
+
+DOCTOR X93
+Yeah.
+
+PATIENT X93
+In the park.  I'm gonna put my patch and it will help me both in my health and my @@@.
+
+DOCTOR X93
+Do you have the, the things to drink before your colonoscopy?
+
+PATIENT X93
+Uh-huh.
+
+DOCTOR X93
+Did they give you those.  You have those?
+
+PATIENT X93
+Yeah.
+
+DOCTOR X93
+Okay.  You take those as directed.  So I'm going to renew the folic acid, the Omega 3 and the thiamine.
+
+PATIENT X93
+That mouth thing, the water pills.  Are you @@@ to 25 mg.
+
+DOCTOR X93
+I'll note it the way you're taking it yeah, cause I think that you need it at 25 so we'll keep it.  These are all going to be mailed and then how about the multivitamin?
+
+PATIENT X93
+Yeah I need that.
+
+DOCTOR X93
+And then your psychiatric medications I'm going to let DOCTOR do cause I don't usually do those, especially since you're going to see him.  Call them and if you need those refilled cause I don't know if those are the doses they want you to stay on.
+
+PATIENT X93
+Yeah I am using @@@ 300 mg.
+
+DOCTOR X93
+Yeah.
+
+PATIENT X93
+And @@@.
+
+DOCTOR X93
+Citalopram.
+
+PATIENT X93
+Citalopram 60 mg.
+
+DOCTOR X93
+Bupropion.
+
+PATIENT X93
+Uh-huh.
+
+DOCTOR X93
+When you come back, let me say I'm happy you're doing very well.
+
+PATIENT X93
+I'm happy, are you leaving for?
+
+DOCTOR X93
+Yeah.
+
+PATIENT X93
+I would like you to see me because I am having some kind of problems listening.
+
+DOCTOR X93
+Yeah let me take a look in your ears.  So what's been going on.
+
+PATIENT X93
+See @@@ but @@@ taking the @@@.
+
+DOCTOR X93
+Yeah.
+
+PATIENT X93
+For the @@@ security card, whatever, blue car @@@.
+
+DOCTOR X93
+Yeah.
+
+PATIENT X93
+And I already talked to the instructor to @@@ the body cause I can't hear.
+
+DOCTOR X93
+I can have your hearing looked at.  You know let me take a look.  I have to look in your ears and make sure there's nothing in there that's worrisome.  Let me check this ear.
+
+PATIENT X93
+I mean.
+
+DOCTOR X93
+Which ear is worse than the other?
+
+PATIENT X93
+I don't know.
+
+DOCTOR X93
+They're the same?
+
+PATIENT X93
+I don't know @@@.
+
+DOCTOR X93
+Did you have a lot of loud sounds with your jobs in the past?  Did you work next to heavy machinery?
+
+PATIENT X93
+Oh yes.
+
+DOCTOR X93
+Okay we can get your hearing evaluated here.  I'll send you down to the people downstairs and they can see if you need any hearing help okay.
+
+PATIENT X93
+Okay @@@.
+
+DOCTOR X93
+We could at least have it checked.  You might as well.  I'll be right back.
+
+PATIENT X93
+Okay.
+
+(DOCTOR OUT:  21:23  DOCTOR IN:  23:29)
+
+DOCTOR X93
+Alright PATIENT.  I am very happy with how you're doing.  Um I'm going to keep seeing you.  I want to see you in the fall and we'll make sure everything's okay.  But please call in if you ever have any trouble or if you feel like you're going to start drinking again cause I think you're going in the right direction.
+
+PATIENT X93
+Oh no, no, no.
+
+DOCTOR X93
+You're going in the right direction.
+
+PATIENT X93
+I don't like no cravings.
+
+DOCTOR X93
+And I think that once we get you in your own place and everything you will be very very happy.  So anything else I can do today for you?
+
+PATIENT X93
+When are you see me, in the fall?
+
+DOCTOR X93
+Fall.
+
+PATIENT X93
+I mean what month?
+
+DOCTOR X93
+You pick.  You can come any month you want when you go up front there.  You can take September, October, November, doesn't matter to me.
+
+PATIENT X93
+Okay good, good, cause I will have my medications?
+
+DOCTOR X93
+Yeah.  I just refilled everything too.
+
+PATIENT X93
+So what day?
+
+DOCTOR X93
+Uh well at least through the summer.  I gave you four months and five months on all of them. but you can always call in and I'll refill them over the phone.
+
+PATIENT X93
+Okay.
+
+DOCTOR X93
+Yeah and you don't always have to come in for meds.
+
+PATIENT X93
+Sounds great.
+
+DOCTOR X93
+Okay alright sir.  Nice to see you again.
+
+PATIENT X93
+And it will be for November.  @@@ If I need something or I feel bad I'll call you.
+
+DOCTOR X93
+Yeah just call me and we'll take care of it.  Alright I'll see you.
+
+PATIENT X93
+@@@.  
+
+DOCTOR X93
+Thank you see ya.
+
+PATIENT X93
+Thank you.
+
+PATIENT LEAVES 24:47
+
+Time is 3:45.
+
+
+
+

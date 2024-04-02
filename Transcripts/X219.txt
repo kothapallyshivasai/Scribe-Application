@@ -1,0 +1,502 @@
+
+DOCTOR X219
+PATIENT? 
+ 
+PATIENT X219
+Yes it is.  I am here.
+
+DOCTOR X219
+Good to see you.  @@@.  Have a chair.
+
+PATIENT X219
+What'd you say?
+
+DOCTOR X219
+@@@.  Alright how you doing?
+
+PATIENT X219
+Okay.
+
+DOCTOR X219
+Alright that's good.
+
+PATIENT X219
+Haven't seen you in a while.
+
+DOCTOR X219
+Yeah it's been since September here.
+
+PATIENT X219
+I know.
+
+DOCTOR X219
+(Whistles).
+
+PATIENT X219
+Last September.
+
+DOCTOR X219
+Oh yeah September 24th.
+
+PATIENT X219
+September 24th.
+
+DOCTOR X219
+Yeah.  How you doing?
+
+PATIENT X219
+Fine.
+
+DOCTOR X219
+Very good.  Okay anything new going on?
+
+PATIENT X219
+Nothing new.
+
+SECOND PERSON X219
+@@@.
+
+DOCTOR X219
+Oh is that right?
+
+PATIENT X219
+I was in xxx.
+
+DOCTOR X219
+Oh okay.  What for?
+
+PATIENT X219
+Uh diabetes @@@.
+
+DOCTOR X219
+Have you been getting treatment for it?
+
+PATIENT X219
+Yes I'm improving I think at this point.
+
+SECOND PERSON X219
+He didn't @@@
+
+PATIENT X219
+@@@.
+
+SECOND PERSON X219
+@@@.
+
+DOCTOR X219
+Alright.
+
+SECOND PERSON X219
+Alright.
+
+DOCTOR X219
+Do you need refills or anything?
+
+PATIENT X219
+No but @@@.
+
+SECOND PERSON X219
+@@@.
+
+DOCTOR X219
+@@@.  Alright @@@.
+
+PATIENT X219
+Five of them right, I'm good to go.
+
+DOCTOR X219
+Oh very good.  @@@.  You're telling me huh.
+
+PATIENT X219
+(Laughter).
+
+DOCTOR X219
+So you're hemoglobin dropped a little bit.
+
+PATIENT X219
+It dropped.
+
+DOCTOR X219
+You're not doing @@@?
+
+PATIENT X219
+No I haven't.
+
+DOCTOR X219
+Taking the @@@?
+
+PATIENT X219
+Yes I am.
+
+DOCTOR X219
+Alright does that need to be refilled?
+
+SECOND PERSON X219
+Yes.  Are you talking about the @@@?
+
+DOCTOR X219
+Yes.
+
+SECOND PERSON X219
+@@@.
+
+DOCTOR X219
+Have you got all your @@@ in?
+
+PATIENT X219
+Yes we did.
+
+DOCTOR X219
+@@@.
+
+PATIENT X219
+It wasn't @@@.
+
+DOCTOR X219
+So you didn't want it?
+
+PATIENT X219
+Didn't want it.
+
+SECOND PERSON X219
+It's just.
+
+PATIENT X219
+@@@.
+
+SECOND PERSON X219
+I think he needs a refill on let me remember, for hydrochlorothiazide.
+
+DOCTOR X219
+I can get it.
+
+SECOND PERSON X219
+Okay.
+
+DOCTOR X219
+So you saw the endocrinologist.
+
+PATIENT X219
+DOCTOR.
+
+DOCTOR X219
+DOCTOR.
+
+PATIENT X219
+Uh-huh.
+
+DOCTOR X219
+@@@ 
+
+PATIENT X219
+Oh I see.
+
+SECOND PERSON X219
+That's got to be it.
+
+PATIENT X219
+By the way, @@@, implant.
+
+DOCTOR X219
+Implant @@@.
+
+PATIENT X219
+@@@.
+
+DOCTOR X219
+Yeah they won't do that here.
+
+PATIENT X219
+Oh I see.
+
+DOCTOR X219
+@@@.  Can you come up here?
+
+PATIENT X219
+Oh yes.
+
+SECOND PERSON X219
+@@@.
+
+DOCTOR X219
+Deep breath.  
+
+SECOND PERSON X219
+Yeah (laughter), a light in your head.
+
+DOCTOR X219
+Good so far.
+
+SECOND PERSON X219
+You did.
+
+DOCTOR X219
+Have you been bleeding at all from anywhere?
+
+PATIENT X219
+No.
+
+DOCTOR X219
+No black stool.
+
+PATIENT X219
+Uh-huh.
+
+DOCTOR X219
+No okay.  No blood from the top or @@@.
+
+PATIENT X219
+No.
+
+DOCTOR X219
+Okay.  You saw a hematologist in September too.
+
+PATIENT X219
+Hmm.
+
+DOCTOR X219
+What did they say?  Did you make an appointment with the hematologist again?
+
+SECOND PERSON X219
+Um they didn't @@@.
+
+PATIENT X219
+No.
+
+DOCTOR X219
+I think we should do that yeah so I think they wanted it six months from September.
+
+SECOND PERSON X219
+Okay.
+
+DOCTOR X219
+September or October @@@.
+
+PATIENT X219
+@@@.
+
+DOCTOR X219
+Huh?
+
+PATIENT X219
+DOCTOR.
+
+DOCTOR X219
+DOCTOR right.  You should schedule an appointment.
+
+SECOND PERSON X219
+Okay.  Okay.
+
+DOCTOR X219
+With them and see DOCTOR.
+
+SECOND PERSON X219
+Okay.
+
+DOCTOR X219
+Okay.
+
+SECOND PERSON X219
+So DOCTOR. 
+
+DOCTOR X219
+Any time in March.
+
+SECOND PERSON X219
+Okay.
+
+DOCTOR X219
+Any time in March, I think that's fine but you should do that.
+
+SECOND PERSON X219
+Okay.
+
+DOCTOR X219
+And make sure that pancreatic test is followed up cause he's got anemia too.
+
+SECOND PERSON X219
+Oh.
+
+DOCTOR X219
+So we should be following that up.
+
+SECOND PERSON X219
+Okay.
+
+SECOND PERSON X219
+Who do we see for @@@?
+
+DOCTOR X219
+Hematology, yeah DOCTOR.
+
+PATIENT X219
+Can I have a copy of the what is it?
+
+DOCTOR X219
+@@@.
+
+PATIENT X219
+Yeah.
+
+DOCTOR X219
+Yeah we can get it.
+
+SECOND PERSON X219
+He's been trying to just @@@.
+
+DOCTOR X219
+Yes.  Then I want him to see Cardiology.  @@@ be right back.
+
+PATIENT X219
+Fine.
+
+(DOCTOR OUT:  26:31  DOCTOR IN:  42:54)
+
+DOCTOR X219
+So um, everything is okay I just wanted to make sure that, his hemoglobin was dropping a little bit and I want to recheck that okay.  Um so we need to get some lab tests done today.
+
+PATIENT X219
+Okay.
+
+DOCTOR X219
+Okay.
+
+PATIENT X219
+Okay.
+
+DOCTOR X219
+And we can @@@.  But I want you to make that HEMOC appointment okay.
+
+SECOND PERSON X219
+Can we get it today?
+
+DOCTOR X219
+Yeah, get it done for February.  Keep it at March, but I need him coming back to see me @@@.
+
+SECOND PERSON X219
+@@@.
+
+DOCTOR X219
+Then I'll tell them @@@.
+
+SECOND PERSON X219
+Oh.
+
+DOCTOR X219
+@@@.
+
+PATIENT X219
+Alright doctor, thanks.
+
+SECOND PERSON X219
+@@@.
+
+DOCTOR X219
+Yeah.
+
+SECOND PERSON X219
+@@@.
+
+DOCTOR X219
+Well I need to be here all day.
+
+SECOND PERSON X219
+Oh yeah.
+
+DOCTOR X219
+@@@ all day.
+
+SECOND PERSON X219
+Woo.
+
+DOCTOR X219
+@@@ too.
+
+SECOND PERSON X219
+@@@.
+
+DOCTOR X219
+@@@ now.
+
+SECOND PERSON X219
+Wow.  @@@.
+
+PATIENT X219
+Yeah I'll send this to you then to see it.
+
+SECOND PERSON X219
+@@@.
+
+PATIENT X219
+@@@.
+
+SECOND PERSON X219
+Wow.
+
+PATIENT X219
+Leaving.  @@@.
+
+SECOND PERSON X219
+Yes.
+
+DOCTOR X219
+Can you give me some urine today too?
+
+PATIENT X219
+It's possible.
+
+DOCTOR X219
+Yes.
+
+PATIENT X219
+Yep okay.
+
+DOCTOR X219
+Okay so lab work, the urine and you follow up with me in six months okay.
+
+PATIENT X219
+Okay.
+
+DOCTOR X219
+The only medication that you're taking for psychiatry medicines is Zyprexa?
+
+SECOND PERSON X219
+Yeah, uh-huh.
+
+DOCTOR X219
+And then @@@ he went to the hospital?
+
+SECOND PERSON X219
+Okay.  @@@.
+
+DOCTOR X219
+Okay when are you seeing, are you saying any doctors here?
+
+SECOND PERSON X219
+@@@.
+
+DOCTOR X219
+Alright sounds good.
+
+PATIENT X219
+Alright.  Good to see you.
+
+DOCTOR X219
+So you'll do lab work, you'll do everything.  You can finish it.
+
+PATIENT X219
+Yes.  
+
+DOCTOR X219
+I'll run this down.  Alright take care.  @@@.  No okay.
+
+PATIENT X219
+Oh you too.
+
+PATIENT LEAVES:  45:47.
+
+Time is 12:04.
+
+
+
+

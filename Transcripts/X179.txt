@@ -1,0 +1,496 @@
+
+DOCTOR X179
+PATIENT?  How you doing sir?  Pleased to meet you.  You normally see DOCTOR?
+
+PATIENT X179
+I haven't seen my regular doctor for probably about six or seven months.
+
+DOCTOR X179
+Okay.  What brings you in today?
+
+PATIENT X179
+Uh actually I was in the Emergency Room a couple weeks ago with um pain in my arms and my chest and uh now I notice that I'm having uh bouts of headaches along with continued limb pain and some chest pain and uh a lot of coughing.
+
+DOCTOR X179
+Okay what's the number one complaint, the arm pain?
+
+PATIENT X179
+Yeah the arm pain.
+
+DOCTOR X179
+And uh why haven't you seen the regular doctor?
+
+PATIENT X179
+I haven't been.
+
+DOCTOR X179
+They didn't schedule you or anything.
+
+PATIENT X179
+Something like that.
+
+DOCTOR X179
+Um.  Now you tell me you were in the ER and they wanted you to be admitted.
+
+PATIENT X179
+Yeah and I uh.  When I went there the problem had been going on for about three days but after I was in the Emergency I wasn't experiencing that same problem so I didn't feel like I could stay in the hospital for something that I didn't feel like it was a problem at the time.
+
+DOCTOR X179
+So who was your main doctor before?
+
+PATIENT X179
+I couldn't even tell you sir.  It just seems like every year I get a new doctor.  I get seen by them once or twice and then I get another new one.
+
+DOCTOR X179
+Have you been taking your medications?
+
+PATIENT X179
+The ones that I can get.  I have run out of clopidogrel.  I have no more prescriptions available for metoprolol and I'm down to my last, I have no more refills for my glipizide and only one refill remaining for my metformin and just keeping up with what I'm taking it's just impossible trying to do this online and order.  No names, just numbers.  
+
+DOCTOR X179
+Are you getting any chest pain right now?
+
+PATIENT X179
+Not at this moment no.
+
+DOCTOR X179
+Um so you have left arm pain.  How long has the left arm pain been going on?
+
+PATIENT X179
+Oh totally for about a month, maybe six weeks.
+
+DOCTOR X179
+Uh is it worse when you use it?
+
+PATIENT X179
+It's just, it feels like it's under the skin, maybe in the veins and it has nothing to do with using the arm or not.
+
+DOCTOR X179
+Any rash?
+
+PATIENT X179
+None noticed.
+
+DOCTOR X179
+Have you injured your arm in any way?
+
+PATIENT X179
+No.
+
+DOCTOR X179
+Is it worse if you get up, if you're walking around, you're doing a flight of stairs or something?
+
+PATIENT X179
+It's not always in the arm.  Sometimes I just feel you know just short of breath, just gentle walking.  I'm in sales so I don't do a lot.
+
+DOCTOR X179
+Yeah.  How much activity, do you ever go up the stairs at all, like uh?
+
+PATIENT X179
+Not really.
+
+DOCTOR X179
+Okay um and you don't walk much?  Have you walked into?  How did you get here, did you walk from the parking lot?
+
+PATIENT X179
+From the parking lot yeah.
+
+DOCTOR X179
+So walking from the parking lot here, did you get short of breath?
+
+PATIENT X179
+I didn't park that far away, I was pretty close.
+
+DOCTOR X179
+Okay.  Do you do housework at all?
+
+PATIENT X179
+On occasion.
+
+DOCTOR X179
+Do you get short of breath with that?
+
+PATIENT X179
+I haven't done any housework lately.
+
+DOCTOR X179
+Okay.
+
+PATIENT X179
+I haven't done anything to exert myself, only just walking on the lot to find a car.
+
+DOCTOR X179
+Okay when you've had chest pain, can you describe it for me?
+
+PATIENT X179
+I want to say you know like a quick stabbing or pressure uh.  Like someone pushing on my chest.
+
+DOCTOR X179
+Okay how long does it last?
+
+PATIENT X179
+Seconds.
+
+DOCTOR X179
+Where is it worse, where is it?
+
+PATIENT X179
+It's usually in the left side.
+
+DOCTOR X179
+Okay.  When was the last time you took Plavix?
+
+PATIENT X179
+What's Plavix?
+
+DOCTOR X179
+I mean clopidogrel?
+
+PATIENT X179
+Uh two days ago, I ran out.
+
+DOCTOR X179
+Okay.  Now are you using the insulin?
+
+PATIENT X179
+Yes.  I'm up to 18 units per day.
+
+DOCTOR X179
+Simvastatin?
+
+PATIENT X179
+Simvastatin I don't know about that.
+
+DOCTOR X179
+It's a cholesterol medication.
+
+PATIENT X179
+I'm not sure if it's required, I'm not missing any of my meds.  Maybe my night medication, just because I'm so tired when I come from work, I just get home and pass out rather than taking more medicine.
+
+DOCTOR X179
+Are you still smoking or no?
+
+PATIENT X179
+No I haven't smoked in almost two years, that's why I'm complaining about the cough.
+
+DOCTOR X179
+Okay.  How long have you been coughing?
+
+PATIENT X179
+Uh only about three months.  That's actually one thing my thinks that we should find out what that is and it doesn't matter whether I'm at work or whether I'm at home, I get really severe coughing from time to time.
+
+DOCTOR X179
+Did you eat anything this morning?
+
+PATIENT X179
+Not yet, usually about 10 o'clock is when I have breakfast.
+
+DOCTOR X179
+Do you want to pick up these medications today or have them sent to you?
+
+PATIENT X179
+Uh the ones I run out, I especially need to pick up.
+
+DOCTOR X179
+Are you still taking the iron?
+
+PATIENT X179
+Yes I have taken it. I take it.
+
+DOCTOR X179
+How about the doxazosin?
+
+PATIENT X179
+Yeah.
+
+DOCTOR X179
+Are you having much urinary trouble?
+
+PATIENT X179
+I'm still going frequently at night.
+
+DOCTOR X179
+And what were the ones that you need today?  I'm sorry, the Plavix or the clopidogrel.
+
+PATIENT X179
+And glipizide.  I probably got about two weeks left and metoprolol uh; I don't have any more prescriptions available for that.  I've probably got about a week's worth left.  
+
+DOCTOR X179
+What have your sugars been running?
+
+PATIENT X179
+Last time I did take the time to check they were in the high 100s, like almost 200.
+
+DOCTOR X179
+Have you been getting low at all?
+
+PATIENT X179
+Yeah a few times it's gotten low.
+
+DOCTOR X179
+How long have you been taking the insulin?
+
+PATIENT X179
+Three months maybe.
+
+DOCTOR X179
+You started it when?
+
+PATIENT X179
+Last um, @@@.  She asked to have me see a diabetes educator a couple times.  So they've been reading notes in there from her.
+
+DOCTOR X179
+Are you still smoking?
+
+PATIENT X179
+No.
+
+DOCTOR X179
+Have you tried hydrochlorothiazide in the past?
+
+PATIENT X179
+I can't remember what it is.
+
+DOCTOR X179
+It's a medication for blood pressure.
+
+PATIENT X179
+I've only taken lisinopril for blood pressure.
+
+DOCTOR X179
+Okay.  Have you been checking your blood pressure at home?
+
+PATIENT X179
+No.
+
+DOCTOR X179
+No.  Alright.  I'm going to increase the lisinopril to 40 and start you on a medication; well I'll probably start you on another one, the hydrochlorothiazide.  Okay and I also want you to see the cardiologist again um.  I don't think that chest pain sounds terrible cardiogenic but um shortness of breath is a little more concerning.  You know you had a positive stress test in the past and you know sometimes we can do an angiogram.  Um have you ever had an angiogram before?  They go in through the groin to take a look at the heart vessels.
+
+PATIENT X179
+I'm not sure.
+
+DOCTOR X179
+Okay.  You want to sit up there.  Well you know, I think we want to make sure you know you're not having any major um, increased blockage in the heart.
+
+PATIENT X179
+Right.
+
+DOCTOR X179
+Now I think last time they thought that was unlikely based on the stress test um but you may, they may need to do an angiogram.
+
+PATIENT X179
+Okay.
+
+DOCTOR X179
+Okay because of your diabetes and if there was a major blockage and you needed to undergo you know good severe disease then thye may need to maybe either put a stent in or.
+
+PATIENT X179
+Yeah.
+
+DOCTOR X179
+Do a bypass.  I don't think right now you're not getting anything acute.  I don't think you're having a heart attack or anything like that but there could be a little bit of angina.  Um so I think you should be seen by them again.
+
+PATIENT X179
+Okay.
+
+DOCTOR X179
+You've only seen them once is that correct?
+
+PATIENT X179
+Yes just once.
+
+DOCTOR X179
+Okay.  Take some deep breaths.  Any sores on your legs, concerns about your feet or anything like that?
+
+PATIENT X179
+Not on the feet.  I banged my leg a few days ago and this seems to be taking a longer time than normal to heal.
+
+DOCTOR X179
+Okay if it doesn't look worse than that, you know if it doesn't heal in a week or so then you know okay.  @@@ up alright.  Um any stomach pain when I press?
+
+PATIENT X179
+No.
+
+DOCTOR X179
+Okay.  Alright uh I think we'll put you in the morning.  We can't determine until we get, we can't do labs up here so you just sit in here and I'll @@@ okay and I called DOCTOR but I think DOCTOR was your primary.
+
+PATIENT X179
+Okay.
+
+DOCTOR X179
+@@@.  Alright you can sit in the chair.  
+
+(DOCTOR OUT:  44:12  DOCTOR IN:  59:06)
+
+DOCTOR X179
+Alright uh so you know you've been talking for three months.  I need to ask you a little bit more about that.  I've got to write down the other stuff.  Is it a dry cough or?
+
+PATIENT X179
+Yeah mostly it's dry and eventually I get some phlegm up.
+
+DOCTOR X179
+You do okay.  So I want to do a chest x-ray today um and then um you know the medication you're on, the lisinopril.
+
+PATIENT X179
+Uh-huh.
+
+DOCTOR X179
+That can cause a cough.  I mean and uh it can happen any time.
+
+PATIENT X179
+Okay cause I haven't been smoking for almost two years now.
+
+DOCTOR X179
+Yeah.
+
+PATIENT X179
+And almost immediately after I stopped smoking I stopped having the cough until recently at sometimes.
+
+DOCTOR X179
+Do have any runny nose or?
+
+PATIENT X179
+Yeah.
+
+DOCTOR X179
+It could also be postnasal drip from allergies okay.  Where everything comes down.  You say your nose has been stuffy and draining?  Okay well we can try that too um there's medications for it okay.  So I'm going to give you this nasal, there's a nasal inhaler.
+
+PATIENT X179
+Okay.
+
+DOCTOR X179
+Um it's called Flonase.
+
+PATIENT X179
+Yes I've taken that before.
+
+DOCTOR X179
+When have you taken it?
+
+PATIENT X179
+Uh years ago.
+
+DOCTOR X179
+Well I think it could help.
+
+PATIENT X179
+Okay.
+
+DOCTOR X179
+And then we'll get a chest x-ray today.  Uh you can get labs done @@@ okay.  And then let me see your arms, the left arm.  Have you been taking anything for this?  
+
+PATIENT X179
+No I try to avoid taking over-the-counter meds.
+
+DOCTOR X179
+I think you can try some Tylenol.  Where does the pain go.
+
+PATIENT X179
+Usually it's just going through the muscle and it feels like it's just under the skin.
+
+DOCTOR X179
+Okay.  Does it hurt when I press on that?
+
+PATIENT X179
+Not really.
+
+DOCTOR X179
+Okay.  Uh well you know usually these things are musculoskeletal and benign.
+
+PATIENT X179
+Uh-huh.
+
+DOCTOR X179
+Uh I think you should try some Tylenol first and maybe do some ice to it and uh see what that; you could just do just over-the-counter Tylenol; it's cheaper if you buy it.
+
+PATIENT X179
+I'm a internal bleeder.
+
+DOCTOR X179
+Yeah Tylenol is safe.
+
+PATIENT X179
+Okay.
+
+DOCTOR X179
+From that standpoint so you know don't take it more than like four times a day though.
+
+PATIENT X179
+Yeah.
+
+DOCTOR X179
+Um and then they did a chest x-ray in the ER when you were there.
+
+PATIENT X179
+Uh-huh.
+
+DOCTOR X179
+But uh they only did the one view with the portable machine.
+
+PATIENT X179
+Right.
+
+DOCTOR X179
+I mean those aren't the best x-rays, especially for us so we'll get a real one and have you go down and get it after you, whichever line is shorter, you can get them both done today.
+
+PATIENT X179
+Okay.
+
+DOCTOR X179
+Um.
+
+PATIENT X179
+So you want some lab work and x-rays right?
+
+DOCTOR X179
+Yes and then I'll take care of the meds.  We're going to switch you on a different, I'm going to take you off that lisinopril and put you on something else.
+
+PATIENT X179
+Okay.
+
+DOCTOR X179
+A similar medication that's going to help the cough in case that's what's doing it.  Okay.
+
+PATIENT X179
+Okay.
+
+DOCTOR X179
+Alright um and I want you to come back like in three months.
+
+PATIENT X179
+Okay.
+
+DOCTOR X179
+And you can see me and I put a note in for the cardiologist to see you.
+
+PATIENT X179
+Okay.
+
+DOCTOR X179
+Um so that should be scheduled, if not, if they don't get hold of you in a week or so give them a call.  Cause definitely I want you to see them.
+
+PATIENT X179
+Okay.
+
+DOCTOR X179
+Cause you know you may need an angiogram.
+
+PATIENT X179
+Alright.
+
+DOCTOR X179
+Um okay.
+
+PATIENT X179
+Okay doc.
+
+DOCTOR X179
+Alright take care.
+
+PATIENT LEAVES:  63:05
+
+Time is 10 o'clock a.m.
+
+
+
+

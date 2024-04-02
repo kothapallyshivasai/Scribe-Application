@@ -1,0 +1,383 @@
+
+DOCTOR X730
+PATIENT?  How you doing today sir?
+
+PATIENT X730
+@@@.
+
+DOCTOR X730
+Yes, we are going to go in right here.  Okay have a seat.
+
+PATIENT X730
+Just so you know, we being taped.
+
+DOCTOR X730
+What’s that?
+
+PATIENT X730
+We are being taped.
+
+DOCTOR X730
+Okay, I mean you were not supposed to tell me that.
+
+PATIENT X730
+Oh.
+
+DOCTOR X730
+That’s alright.  Now @@@.
+
+PATIENT X730
+Yea.
+
+DOCTOR X730
+Her schedule was full so.
+
+PATIENT X730
+Okay, well yea, I @@@.
+
+DOCTOR X730
+Right.  
+
+PATIENT X730
+@@@ I have the surgery @@@.
+
+DOCTOR X730
+Okay.  
+
+PATIENT X730
+They wanted me to come in.
+
+DOCTOR X730
+Sure, sure.  I kind of read a little about it.  So, um, were you having any urinary symptoms at all?  Any um pain when you go to the bathroom, when you urinate?  
+
+PATIENT X730
+No.
+
+DOCTOR X730
+Any increase in urination at all?
+
+PATIENT X730
+Yea.  At night.
+
+DOCTOR X730
+At nighttime.  Okay.  How long has that been going on for?
+
+PATIENT X730
+It has been going on for a while.  I take @@@ pills.
+
+DOCTOR X730
+Okay.  You take water pills as well right?
+
+PATIENT X730
+@@@.  I @@@ the water pill.  I need the water pill.
+
+DOCTOR X730
+Okay.  @@@.
+
+PATIENT X730
+They @@@ me to @@@ an asthma pump as well.  My pump is @@@.
+
+DOCTOR X730
+Oh your inhaler?
+
+PATIENT X730
+Inhaler, yea.  But you know, @@@.
+
+DOCTOR X730
+You have refills on all of this stuff.  All you have to do is call the pharmacy.
+
+PATIENT X730
+@@@.  
+
+DOCTOR X730
+Yea.  You actually need to stop by the pharmacy and they will give you everything.  @@@.  Okay.  And so the, the increase urinating at night has been going on for a while @@@?
+
+PATIENT X730
+@@@ them prostate pills.
+
+DOCTOR X730
+Uh huh.
+
+PATIENT X730
+@@@ pill now.
+
+DOCTOR X730
+Any accidents at all where you couldn’t make it to the bathroom?
+
+PATIENT X730
+Yea.  Yea.
+
+DOCTOR X730
+Does that happen all of the time? 
+
+PATIENT X730
+No.  Just last night it happened.  It happened last night.
+
+DOCTOR X730
+Has it been happening a lot or just once @@@?
+
+PATIENT X730
+No, ah, maybe two or three weeks maybe.
+
+DOCTOR X730
+Okay.  And you sugar is 116 right?
+
+PATIENT X730
+Hm hmm.  
+
+DOCTOR X730
+Um, any fevers or chills at home at all?
+
+PATIENT X730
+Nope.
+
+DOCTOR X730
+Okay.  Now, so we were discussing, so your urine is, it grew a bacteria, is the reason that @@@ but your actual, your urinalysis, your urine was good itself.
+
+PATIENT X730
+Okay.
+
+DOCTOR X730
+Um we look at, you know we send it for culture which takes a few days and we also look at the results @@@.
+
+PATIENT X730
+So everything is good then?
+
+DOCTOR X730
+So, yea, I think um, this bacteria doesn’t really mean you have a urinary tract infection because typically if somebody doesn’t have any symptoms of urinary tract infection like pain when they urinate and things like that, that @@@ that’s just, you know bacteria that kind of either in the urine tract so then it can contaminate @@@.  It doesn’t necessarily mean that we have to treat with antibiotics.
+
+PATIENT X730
+Okay @@@.
+
+DOCTOR X730
+Okay.  So I think, that is just something that, they wanted you to @@@.
+
+PATIENT X730
+@@@.
+
+DOCTOR X730
+So I think you are doing well with that.  Any other problem at all?
+
+PATIENT X730
+No.
+
+DOCTOR X730
+@@@ talked about.  Did you get a chance to do your pulmonary function test yet?  @@@ ENT @@@.
+
+PATIENT X730
+The uh
+
+DOCTOR X730
+The lung test?  Where they put like a @@@.  You do @@@ one time, where they had you breath in the machine and then it measures like your.
+
+PATIENT X730
+Oh I did that.
+
+DOCTOR X730
+You did that already?  
+
+PATIENT X730
+Yea I did that.  
+
+DOCTOR X730
+When was that done?
+
+PATIENT X730
+Ah, a couple of weeks ago.  @@@ three or four weeks ago.  Where they put you in the little tank thing and put the thing in there?  What you call that @@@?
+
+DOCTOR X730
+Yea.
+
+PATIENT X730
+@@@ test or something?
+
+DOCTOR X730
+Yup, exactly.  
+
+PATIENT X730
+She said it was alright.  @@@.  They were supposed to change my inhalers but they didn’t though.
+
+DOCTOR X730
+Ah, what do you mean change it?
+
+PATIENT X730
+For the kind I use.
+
+DOCTOR X730
+Oh, okay.  
+
+PATIENT X730
+To the one I use.  @@@ blood pressure.
+
+DOCTOR X730
+Yea, I am not sure.  It has been normal before.  
+
+PATIENT X730
+@@@.  
+
+DOCTOR X730
+Right.  You should continue using this one.
+
+PATIENT X730
+Continue to use this?
+
+DOCTOR X730
+Yea.  And then you are supposed to take another one on top of that.
+
+PATIENT X730
+Oh.
+
+DOCTOR X730
+Mometasone.
+
+PATIENT X730
+Okay that is one that I need then.
+
+DOCTOR X730
+Yea, so you need to pick that one up.
+
+PATIENT X730
+Okay.
+
+DOCTOR X730
+They already ordered it for you.
+
+PATIENT X730
+Okay, fine.  
+
+DOCTOR X730
+You can pick that up.  They work together.  They are two different ones okay.  So let’s see.
+
+PATIENT X730
+They just want to make sure everything was @@@.
+
+DOCTOR X730
+Exactly.  
+
+PATIENT X730
+@@@. 
+
+DOCTOR X730
+Yea, I already @@@.
+
+PATIENT X730
+Right.  
+
+DOCTOR X730
+Yea, we will keep you on the same for your blood pressure.  We will keep you on the same regimen for right now and then we will just continue to watch you and you might need more pills.  You are already on a lot of medications.
+
+PATIENT X730
+I am on a lot of medications.
+
+DOCTOR X730
+Yea, so we won’t add any right now, go over @@@ like that but we are going to watch it and then we @@@.
+
+PATIENT X730
+Okay.
+
+DOCTOR X730
+Let me, uh, just talk this over with DOCTOR.  
+
+PATIENT X730
+Okay.
+
+DOCTOR X730
+Deep breath.  Any swelling in your legs?
+
+PATIENT X730
+Oh yea.
+
+DOCTOR X730
+Yea?  Are they always this swollen or?
+
+PATIENT X730
+Yea they swollen for a while.  My feet.  My legs.  
+
+DOCTOR X730
+Hmm.  
+
+
+PATIENT X730
+Both of them.  Both of my feet.  
+
+DOCTOR X730
+Is this worse throughout the day or is this how you wake up?  
+
+PATIENT X730
+This be like this all day, all night.
+
+DOCTOR X730
+Hmm.  
+
+PATIENT X730
+You know, I have, I need to @@@.
+
+DOCTOR X730
+Oh okay.
+
+PATIENT X730
+My doctor think that @@@ made one of my legs shorter than the other leg right, and @@@ been like this, she thinks that the titanium in this leg just @@@ kind of move out of place and she said @@@ my legs swollen like that.
+
+DOCTOR X730
+It could be @@@ knee replacement, the knee can get swollen.
+
+PATIENT X730
+And so, we debate, I am going to see her on the 9th and we debating on whether they should go back in and @@@.  
+
+DOCTOR X730
+You can have a seat over there.  Alright I’ll be right back.
+
+PATIENT X730
+Okay.
+
+(DOCTOR OUT:  23:40  DOCTOR IN:  26:38)
+
+DOCTOR X730
+Alright, so you are all set to go.  @@@ at the pharmacy.  You can always get a refill too.  Okay because they are all @@@ for you to use.  Um and then @@@.
+
+PATIENT X730
+Okay.  Thank you.
+
+DOCTOR X730
+Alright.  So we will see you back here in the end of May.
+
+PATIENT X730
+In May, yea @@@.
+
+DOCTOR X730
+You will get a letter.  You should get a letter in like two weeks.
+
+PATIENT X730
+Yea.  
+
+DOCTOR X730
+Put in @@@ Tuesdays and @@@ back here.
+
+PATIENT X730
+Yea.  
+
+DOCTOR X730
+Alright.
+
+PATIENT X730
+So @@@ today.
+
+DOCTOR X730
+Alright.  @@@.
+
+PATIENT X730
+I am going to eat.  Eat something.  I ain’t ate since @@@.  I am going to some restaurant to eat.  
+
+DOCTOR X730
+Alright you take care.
+
+PATIENT X730
+You too.  
+
+PATIENT LEAVES:  27:43
+
+
+
+
+
+

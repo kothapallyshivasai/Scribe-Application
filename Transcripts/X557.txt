@@ -1,0 +1,732 @@
+
+DOCTOR X557 
+PATIENT.
+
+PATIENT X557
+Yes.
+
+DOCTOR X557
+Okay, just take a seat over here.  My name's DOCTOR.  How are you today?
+
+PATIENT X557
+I @@@.
+
+DOCTOR X557
+Are you here for a follow-up appointment?
+
+PATIENT X557
+Um yeah.
+
+DOCTOR X557
+You think so okay.  They told you to come in.
+
+PATIENT X557
+Yeah they um, used to be in the Pain Clinic and just coming back over here so, that's why I @@@ but I didn't do anything.
+
+DOCTOR X557
+Yeah I saw that DOCTOR called in some morphine for you.  I work under DOCTOR so.
+
+PATIENT X557
+Yeah.
+
+DOCTOR X557
+Anything else bothering you other than pain today?
+
+PATIENT X557
+Hmm.
+
+DOCTOR X557
+No headaches, dizziness, no chest pain, palpitations, no stomach aches, no black stools, bloody stools, no pain when you pee, no blood in your urine, no @@@?
+
+PATIENT X557
+Um I got some stomach pain and um the sinuses have been acting up.
+
+DOCTOR X557
+Okay.  Is your nifedipine and @@@ is that what take @@@ refills?
+
+PATIENT X557
+Uh-huh.
+
+DOCTOR X557
+Okay.  For the pancreatitis @@@?
+
+PATIENT X557
+Uh-huh.
+
+DOCTOR X557
+No nausea or vomiting though?
+
+PATIENT X557
+Not lately.
+
+DOCTOR X557
+Okay.  No fevers, chills?
+
+PATIENT X557
+Not recently.
+
+DOCTOR X557
+Did you get your flu shot today?
+
+PATIENT X557
+Yes.
+
+DOCTOR X557
+And I'll renew all your other medicines that you said you didn't have to do @@@.
+
+PATIENT X557
+I need refills.
+
+DOCTOR X557
+@@@ good.  Does she just do a one month prescription?
+
+PATIENT X557
+Uh yeah go ahead and make it a month.
+
+DOCTOR X557
+Okay.
+
+PATIENT X557
+The last time it worked for me.  They sent me an appointment and then I got the letter saying to call in for an appointment @@@.  And that's on Monday.
+
+DOCTOR X557
+Okay.  You're taking six tablets a day, three tablets every 12 hours correct?
+
+PATIENT X557
+Yeah that's correct um slow release.
+
+DOCTOR X557
+Let me make sure.  Okay so it's just that you're good with that medication kind of @@@.  Okay.  Huh?
+
+PATIENT X557
+@@@.
+
+DOCTOR X557
+You can pick that up here.
+
+PATIENT X557
+Okay.
+
+DOCTOR X557
+Oh it's not yours?
+
+PATIENT X557
+Yeah it is but @@@.
+
+DOCTOR X557
+@@@.  Have you decided that you don't want to go to the Psych place, the @@@ Clinic?
+
+PATIENT X557
+I got to get up there I just haven't you know.
+
+DOCTOR X557
+You haven't made the time yet.
+
+PATIENT X557
+Yeah.
+
+DOCTOR X557
+Yeah it looks like you've been going to the Recreation Therapy so that looks good.  How is that going?  The exercise program?
+
+PATIENT X557
+It's alright.
+
+DOCTOR X557
+It's alright okay.
+
+PATIENT X557
+@@@.
+
+(Someone knocked on the door. Doctor spoke with person briefly)
+
+PATIENT X557
+I go there for two day or three days.  I have a follow-up appointment at the Walk-In.
+
+DOCTOR X557
+Yeah you can just walk in and they can check it.  Um how's your diabetes going, your blood sugars?  Is your blood sugar okay?
+
+PATIENT X557
+Uh-huh.
+
+DOCTOR X557
+What have they been?
+
+PATIENT X557
+Maybe between 53 and 160.
+
+DOCTOR X557
+Okay what do you take for your diabetes?  Is it just diet-controlled?
+
+PATIENT X557
+Nothing.  I used to take glyburide when @@@.
+
+DOCTOR X557
+Yeah.  Okay um then I think that's it.  The only thing is um we'd like for you to go to the Psych Clinic and we can see you up here.  We'd like to get a goal and get established in there.  Um it looks like also that you had urine studies that were positive for drug use.  Are you still using any kind of drugs?
+
+PATIENT X557
+Uh uh.
+
+DOCTOR X557
+No?  Okay.  When was your last use and when was your urine test done?
+
+PATIENT X557
+Yeah that was cocaine.
+
+DOCTOR X557
+Cocaine.  How long ago in the last use?  Would you say?
+
+PATIENT X557
+When was the last time I was in the Pain Clinic.
+
+DOCTOR X557
+Oh in March.
+
+PATIENT X557
+Hmm before that.
+
+DOCTOR X557
+Oh okay so.  Yeah we have @@@ that can help you with those things.  It would be through the Psych Addiction Program.
+
+PATIENT X557
+Yeah I used to be a patient in the Alcohol Treatment Program.
+
+DOCTOR X557
+Yeah so if you're interested we could send you there too okay.  When you're ready but I would like and I also have to tell you, you know no more cocaine @@@ okay.  Anything for us?  No.  Did you get your flu shot today?
+
+PATIENT X557
+Uh-huh.
+
+DOCTOR X557
+And you are smoking?
+
+PATIENT X557
+Uh-huh.
+
+DOCTOR X557
+You are smoking?  How much are you smoking a day?
+
+PATIENT X557
+Probably a pack.
+
+DOCTOR X557
+How long have you been doing that for sir?
+
+PATIENT X557
+Hmm a long time.
+
+DOCTOR X557
+A long time.  Are you interested in quitting any time soon?
+
+PATIENT X557
+It's something I need to do but I don't know.
+
+DOCTOR X557
+Not ready yet?
+
+PATIENT X557
+@@@.
+
+DOCTOR X557
+The reasons why we um like patients to not be smoking is first of all it's you know bad for you.  It can cause cancer, increases your risk for every @@@, @@@ um if you have any kind of cancer in your, you know your family you definitely don't want to be a smoker.  Um the longer you smoke the worse it is for you and you know there are patients that you see on oxygen with COPD, you don't want to be one of them right.  So we recommend that you stop smoking and we have cessation aids and we have a clinic that you can go to too to help you with it, stop smoking but first things first you have to be ready to quit or else it's not gonna work.
+
+PATIENT X557
+I know.
+
+DOCTOR X557
+And I want you to think hard about it and we'll talk about it next time okay.
+
+PATIENT X557
+Uh-huh.
+
+DOCTOR X557
+Um if you want assistance we have the gum and the lozenges.  If you want the patch you have to go through the clinic okay.  So let me know if you're interested in any of that okay.
+
+PATIENT X557
+You got to go through them in order to.
+
+DOCTOR X557
+The Smoking Cessation Clinic.
+
+PATIENT X557
+If I did the patch?
+
+DOCTOR X557
+Yeah.
+
+PATIENT X557
+And the gum and the.
+
+DOCTOR X557
+Lozenges you can get here.
+
+PATIENT X557
+Now I.
+
+DOCTOR X557
+Okay.
+
+PATIENT X557
+I'd be willing to give those a shot, give that a shot.
+
+DOCTOR X557
+What would you be willing to give a shot?
+
+PATIENT X557
+The gum and the.
+
+DOCTOR X557
+The gum.
+
+PATIENT X557
+Yeah.
+
+DOCTOR X557
+Okay you have either gum or the lozenges.  The gum you put it in your mouth, you chew it and you tuck it in the back of your mouth and then every time you get a craving you chew it again.  It's dangerous to chew the gum and smoke and if you need to smoke you just spit it out and then smoke okay.
+
+PATIENT X557
+And what about the.
+
+DOCTOR X557
+The lozenges same thing, you just suck on the lozenges.
+
+PATIENT X557
+You know the lozenges.
+
+DOCTOR X557
+You'd rather have the lozenges?  Okay I can give you some but remember no um lozenges and smoking at the same time.
+
+PATIENT X557
+@@@.
+
+DOCTOR X557
+Sure, sure.
+
+PATIENT X557
+I'm thinking about trying to um go without it and see what happens.
+
+DOCTOR X557
+Okay.  Alright @@@.  It looks like all of your labs are up-to-date, everything looks good okay.  So let me just @@@ okay.  Do you take all of your medicines, your blood pressure medicines?
+
+PATIENT X557
+Uh-huh.
+
+DOCTOR X557
+Cause that's the one thing that's kind of high.  Did you take your medicines today?
+
+PATIENT X557
+Yes.
+
+DOCTOR X557
+You took the lisinopril?  Half a tablet.
+
+PATIENT X557
+Yes.
+
+DOCTOR X557
+You did or you didn't?
+
+PATIENT X557
+No I took it.
+
+DOCTOR X557
+If you didn't we could just keep you on the same medicine but if you did take it we'll have to increase it.
+
+PATIENT X557
+I took it.
+
+DOCTOR X557
+Okay.
+
+PATIENT X557
+I took it this morning.
+
+DOCTOR X557
+So I think what you would benefit from is um, are you trying to eat a low salt diet?
+
+PATIENT X557
+No.
+
+DOCTOR X557
+No okay.  Well you could try to just eat a low salt diet to see if that'll help the blood pressure but we can always increase your medicines just to help it.
+
+PATIENT X557
+It may be.
+
+DOCTOR X557
+Pretty good.
+
+PATIENT X557
+@@@.
+
+DOCTOR X557
+Hopefully @@@.
+
+PATIENT X557
+Well I been carrying a big bag and I did a lot of walking to get here.
+
+DOCTOR X557
+Okay.  If you want let me check it again how's that, before we go ahead and increase your medicine.
+
+PATIENT X557
+Okay.  I got refills on?
+
+DOCTOR X557
+Well I can make sure before you leave I'll refill everything and I'll mail everything to your home okay.
+
+PATIENT X557
+Okay.  I need to get multivitamins.
+
+DOCTOR X557
+I can give you some.
+
+PATIENT X557
+Okay.  @@@.
+
+DOCTOR X557
+Oh you're fine.  What do you normally do for your sinuses?
+
+PATIENT X557
+Uh I'm taking this @@@.
+
+DOCTOR X557
+I could just give you regular normal saline, sort of a salt spray @@@.  You're right; it must have been from you walking around.  No it's still high.  It was 150/90, a little lower.  
+
+PATIENT X557
+@@@ and we might have to increase it @@@.
+
+DOCTOR X557
+Does that hurt at all?
+
+PATIENT X557
+Uh uh.
+
+DOCTOR X557
+Is this okay?
+
+PATIENT X557
+Uh-huh.
+
+DOCTOR X557
+Okay.  Alright I will be right back okay.
+
+PATIENT X557
+Okay.
+
+(DOCTOR OUT:  46:08  DOCTOR IN:  54:54)
+
+DOCTOR X557
+Alright sir, this is what we're gonna do.  Um we're gonna increase your medicine, the lisinopril to 40 cause your blood pressure is still high on it uh and then the low salt diet.  We're going to check your urine today to make sure @@@ to make sure that it is you're on @@@ from cocaine.
+
+PATIENT X557
+Uh-huh.
+
+DOCTOR X557
+And then um I'll give you those lozenges.  As far as your pain medicines, so I know you're taking three in the morning and three at nighttime I'll give you the same dose of the morphine.  
+
+PATIENT X557
+Uh-huh.
+
+DOCTOR X557
+The thing is there are certain labs that are due for three months now so uh kind of what we want to know is how much are you really taking every day um that way we can prescribe what you need.
+
+PATIENT X557
+And I'm in pain, if it ain't too bad then I don't take it but.
+
+DOCTOR X557
+Oh I see so when they get bad you take one.
+
+PATIENT X557
+Uh-huh.
+
+DOCTOR X557
+Okay well.  @@@ down here.  So um you take it like the three in the morning and three at night when he has the pain but he doesn't have the pain he doesn't take it at all.
+
+PATIENT X557
+No I take them on a regular basis.
+
+DOCTOR X557
+Okay.
+
+PATIENT X557
+But the other one I take when the pain really bad.
+
+DOCTOR X557
+Okay.
+
+SECOND DOCTOR X557
+Sir the reason I asked is because you have um, I'm DOCTOR by the way um.
+
+PATIENT X557
+Hmm.
+
+SECOND DOCTOR X557
+Back on July 29th you got enough medicine to last you 30 days for three in the morning and three at night.
+
+PATIENT X557
+Uh-huh.
+
+SECOND DOCTOR X557
+But that prescription has lasted you until October now so you're not taking it every day.
+
+PATIENT X557
+Uh-huh.
+
+SECOND DOCTOR X557
+Which I'm happy with that you're not taking it.
+
+PATIENT X557
+I only take it when I need it.
+
+SECOND DOCTOR X557
+That's why I'm @@@ how often you're taking it.
+
+PATIENT X557
+No, I'm in a lot of pain right.
+
+SECOND DOCTOR X557
+But you don't take the morphine every day right, is that correct?
+
+PATIENT X557
+Yes when it only gets bad.
+
+SECOND DOCTOR X557
+Okay how much do you need it actually is it the long-acting medicine and a short-acting medicine.  How often do you need the short-acting medicine?  You're not taking that at all or?
+
+PATIENT X557
+Yeah whenever it's hurting.
+
+SECOND DOCTOR X557
+You need to help us out here.  First of all no more cocaine, that's number one for that okay.
+
+PATIENT X557
+Okay.  But I thought they brought me back to see the doctor because of the medication.  You know, running out, it was running out and I was just holding on to the last one.
+
+SECOND DOCTOR X557
+Okay.
+
+PATIENT X557
+As long as I could and then you know the last two weeks have been.
+
+SECOND DOCTOR X557
+It's really hard and three months was the last time I filled that prescription.
+
+PATIENT X557
+Uh-huh.
+
+SECOND DOCTOR X557
+So if that's how you made 30 days of medicine last for three months.  You must not need medicine that much.
+
+PATIENT X557
+It wasn't hurting all that bad and then some pain really, if it ain't really severe.
+
+SECOND DOCTOR X557
+Okay.
+
+PATIENT X557
+I can do.
+
+SECOND DOCTOR X557
+How long have @@@ doing that?  I don't want you taking morphine every day if you don't need it.
+
+PATIENT X557
+Uh-huh.
+
+SECOND DOCTOR X557
+What?
+
+PATIENT X557
+Uh-huh.
+
+SECOND DOCTOR X557
+I don't you to rely on it and you'd be using cocaine and doing cocaine, I don't want you to get addicted to this medication okay.  Alright.
+
+PATIENT X557
+Yes ma'am.  I @@@.
+
+SECOND DOCTOR X557
+We'll go ahead and give you a prescription, the same prescription as the last time and then @@@ okay.
+
+PATIENT X557
+Uh-huh.
+
+SECOND DOCTOR X557
+And seriously I'm going to check you into the PCP Clinic if you keep having problems with cocaine, you're violating our Narcotic Treatment Program and I can't give you narcotics so please don't use cocaine.  Not only I can't give you the medicine, it's bad for your heart, it causes heart attacks. 
+
+PATIENT X557
+Uh-huh.  Well I had told them when I @@@ if possible and um it came back clean.
+
+SECOND DOCTOR X557
+Okay.
+
+PATIENT X557
+It probably got about half and half.
+
+SECOND DOCTOR X557
+Okay it's probably not fair to people that are @@@.
+
+PATIENT X557
+It ain't gonna be me.
+
+Doctors talk among themselves.
+
+SECOND DOCTOR X557
+And then um you can always call if you're running low on your morphine and let me know okay.
+
+PATIENT X557
+Yeah okay.  Yeah it bothers me sometimes, I'm maybe thinking that.
+
+FIRST DOCTOR X557
+So I know, I know.
+
+PATIENT X557
+If you don't need it, you know when the pain kicks in.
+
+FIRST DOCTOR X557
+No you, that's why we want you to use the medicine when you need it, just call and tell her but I guess I'm not even allowed to give you more than one month at a time right.
+
+PATIENT X557
+That's what the last one; I'm just stretching as long as I could see.
+
+FIRST DOCTOR X557
+Yeah.
+
+PATIENT X557
+But they have me using them before and in the letter it said call me and make an appointment.  Like I'm retarded.  Cause if they don't want to send you an apartment how can you make it?  Now I'm just saying @@@ you know it's a particular kind of pain might not be that bad and @@@ that day.
+
+FIRST DOCTOR X557
+Uh-huh.
+
+PATIENT X557
+@@@.
+
+FIRST DOCTOR X557
+This is for you um, let me give you the smoking lozenges in the mail or do you want to pick them up?
+
+PATIENT X557
+Uh they can mail and mailing the others is fine because the vitamins and stuff will be fine.
+
+FIRST DOCTOR X557
+And these are actually the month's worth, all you do is call us for the refills okay.
+
+PATIENT X557
+Uh-huh.  Call in for refills.
+
+FIRST DOCTOR X557
+Yeah you just call the number that's on the bottle.
+
+PATIENT X557
+Uh-huh.
+
+FIRST DOCTOR X557
+And then um tell the number that's on the bottle, the prescription number.
+
+PATIENT X557
+Uh-huh.
+
+FIRST DOCTOR X557
+And they'll give you your medicines in the mail.  So call like a week before you run out.
+
+PATIENT X557
+Uh-huh.
+
+FIRST DOCTOR X557
+Call in for refills because it'll take a little bit.
+
+PATIENT X557
+Uh-huh.
+
+FIRST DOCTOR X557
+Now let me get this, so the medicines are renewed, your lozenges are on their way and we'll increase the medicine and send them out.  Actually you know what, is it okay if you pick this one up?
+
+PATIENT X557
+Yeah I'll pick it up.
+
+FIRST DOCTOR X557
+Okay.
+
+PATIENT X557
+Pick up all my medicine.
+
+FIRST DOCTOR X557
+Oh you want to pick it up?
+
+PATIENT X557
+Yeah.
+
+FIRST DOCTOR X557
+Okay let me change it to pick up then.
+
+PATIENT X557
+Multivitamins, I need some multivitamin.
+
+FIRST DOCTOR X557
+Okay so what you're gonna do is you're start taking your new medicine um then you're gonna come back in three weeks with the nurse here and then they'll recheck your blood pressure on the increased medicine okay.
+
+PATIENT X557
+Okay.
+
+FIRST DOCTOR X557
+Uh then I'll see you back in three months.
+
+PATIENT X557
+@@@.  What's this?
+
+FIRST DOCTOR X557
+Um oh yeah it'll be the nurse here.
+
+PATIENT X557
+Only the nurse.
+
+FIRST DOCTOR X557
+Yeah and then once you, if you run out of medicine for your pain meds just call the clinic and DOCTOR will give you some more okay.
+
+PATIENT X557
+I call the clinic.
+
+FIRST DOCTOR X557
+Yeah you can call the clinic okay.  And we know that, we're not gonna say that you know say that you don't have pain cause we know you have pain but if this prescription has lasted you for a month or three months we'll see how long it lasts.  If it doesn't then we definitely will give you more okay.
+
+PATIENT X557
+Uh-huh.
+
+FIRST DOCTOR X557
+So you can call in any time okay.
+
+PATIENT X557
+Okay.
+
+FIRST DOCTOR X557
+Alright take care, so we'll see you in three months.
+
+PATIENT X557
+Yeah I ain't that sick you know.
+
+FIRST DOCTOR X557
+Yeah well @@@.
+
+PATIENT X557
+I have to call and then @@@.
+
+FIRST DOCTOR X557
+Yeah.
+
+PATIENT X557
+And being real sick so you know schedule, come here and @@@ didn't make it.
+
+FIRST DOCTOR X557
+Yeah.
+
+PATIENT X557
+My medicines @@@ for an appointment and I got to make it last.
+
+FIRST DOCTOR X557
+Yeah, don't forget to get your urine today okay.
+
+PATIENT X557
+Okay, I'm going to @@@.  Okay, thanks.
+
+PATIENT LEAVES:  68:37
+
+
+
+

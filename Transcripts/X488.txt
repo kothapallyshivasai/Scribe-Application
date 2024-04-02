@@ -1,0 +1,581 @@
+
+DOCTOR X488
+How are you?
+
+PATIENT X488
+How you doing today?
+
+DOCTOR X488
+Can you make it in?
+
+PATIENT X488
+Yeah.
+
+DOCTOR X488
+Let me move this for you.  Okay.  I'm DOCTOR, how you doing?
+
+PATIENT X488
+Pretty good so far.
+
+DOCTOR X488
+Okay.  What brings you in today?
+
+PATIENT X488
+I had an appointment.
+
+DOCTOR X488
+Anything bothering you today?
+
+PATIENT X488
+Yep.
+
+DOCTOR X488
+What's that?
+
+PATIENT X488
+Knees.
+
+DOCTOR X488
+Your knees?  What's wrong with your knees?
+
+PATIENT X488
+Well one of them had to be replaced; this here is doing what it was doing.  This one I had replaced voluntarily.
+
+DOCTOR X488
+Oh you one of them replaced so now you just have a lot of arthritis?
+
+PATIENT X488
+Yep and I got bad feet.
+
+DOCTOR X488
+What have you been taking for the pain?
+
+PATIENT X488
+I'm taking Tylenol.
+
+DOCTOR X488
+Tylenol with gabapentin?
+
+PATIENT X488
+Haven't had any.
+
+DOCTOR X488
+You haven't had any.  You have refills, why don't you get it refilled?
+
+PATIENT X488
+I didn't know I had to.  I didn't even know I had the refills.  Probably misplaced it.
+
+DOCTOR X488
+Oh okay, your knees are just the regular arthritis pain?
+
+PATIENT X488
+No this is.
+
+DOCTOR X488
+Can you walk at all or @@@?
+
+PATIENT X488
+Yes but the.
+
+DOCTOR X488
+You're able to walk okay?
+
+PATIENT X488
+No I can't do prolonged standing and no.
+
+DOCTOR X488
+Has it been getting worse recently or just the same old?
+
+PATIENT X488
+Well we replaced that one.
+
+DOCTOR X488
+Yeah.
+
+PATIENT X488
+And this one is getting worse.
+
+DOCTOR X488
+It's getting worse?  Do you think it needs to be replaced?
+
+PATIENT X488
+This one.
+
+DOCTOR X488
+Huh.
+
+PATIENT X488
+Just this one.
+
+DOCTOR X488
+You think that one needs to be replaced?
+
+PATIENT X488
+That one's already been replaced.
+
+DOCTOR X488
+I know what about this one?
+
+PATIENT X488
+I been trying to avoid it but um.
+
+DOCTOR X488
+You haven't had your knees x-rayed in a couple years.  We might want to get that redone today.  Everything else okay today?
+
+PATIENT X488
+I need to get.
+
+DOCTOR X488
+Do you need refills on the other medicines then?
+
+PATIENT X488
+Yeah my Dilantin and my uh.
+
+DOCTOR X488
+Dilantin and your hydrochlorothiazide?
+
+PATIENT X488
+Yes.
+
+DOCTOR X488
+And your Tylenol.
+
+PATIENT X488
+Yeah cause I haven't had any of that in a long time.
+
+DOCTOR X488
+What's your Dilantin dose?  100 mg?
+
+PATIENT X488
+Right.
+
+DOCTOR X488
+Two tablets?
+
+PATIENT X488
+I have four a day.
+
+DOCTOR X488
+You do two tablets in the morning and two tablets in the evening?
+
+PATIENT X488
+Right.
+
+DOCTOR X488
+Okay and um you have hepatitis C?
+
+PATIENT X488
+Yeah.  I had that about 30 years now.  Cause I quit drinking too.
+
+DOCTOR X488
+Yeah.
+
+PATIENT X488
+I quit drinking ten years ago.
+
+DOCTOR X488
+Okay good.  Um you're blood pressure's okay today, a little high um.
+
+PATIENT X488
+I know that @@@.
+
+DOCTOR X488
+Oh.
+
+PATIENT X488
+See the way they was cutting out the circulation here?
+
+DOCTOR X488
+Now have you seen the neurologist recently because uh, weren't they supposed to um change your dose?  Neurology.
+
+PATIENT X488
+They did, well they did.
+
+DOCTOR X488
+Cause they, you want to be um 300, not 400 right?  Did you make that change?
+
+PATIENT X488
+No they put me on uh; last time I was here they put me on two in the morning and two in the evening.
+
+DOCTOR X488
+Who did?  The neurologist?
+
+PATIENT X488
+The doctor that I saw.
+
+DOCTOR X488
+In Urgent Care?
+
+PATIENT X488
+Yeah cause I come in, I had had a seizure and what happened I @@@.
+
+DOCTOR X488
+Yeah you need to see Neurology.  You haven't seen them, it's been too long.  We need to see when you'll be able to see them next.  Yeah you'll need another appointment.  But you need to see the neurologist.  You didn't go?
+
+PATIENT X488
+I didn't have an appointment yet.
+
+DOCTOR X488
+You don't even have one scheduled.  Have you had any seizures?
+
+PATIENT X488
+Yeah.
+
+DOCTOR X488
+When?
+
+PATIENT X488
+When I headed to Urgent Care?
+
+DOCTOR X488
+No but since then.
+
+PATIENT X488
+And one was threatening.
+
+DOCTOR X488
+But have you had one since then?
+
+PATIENT X488
+I @@@.
+
+DOCTOR X488
+No.
+
+PATIENT X488
+Cause I felt it coming, I saw the signs coming and @@@.
+
+DOCTOR X488
+So the last time you had one was when you were in Urgent Care that day?
+
+PATIENT X488
+That's when I really had one, it woke me up.
+
+DOCTOR X488
+So that was in March?
+
+PATIENT X488
+Uh-huh.
+
+DOCTOR X488
+Cause they don't say that you had a seizure at that time, oh you had one in February but nothing since then.
+
+PATIENT X488
+None since then no.  I felt one coming but I stopped it, I took the medicine right quick.
+
+DOCTOR X488
+Okay so you never saw.
+
+PATIENT X488
+I haven't been to Neurology yet.  He had mentioned uh scheduling me for an MRI.
+
+DOCTOR X488
+Yeah but thing is you never, you need to see the neurologist.  Did you ever get the MRI done?  No.
+
+PATIENT X488
+No they didn't schedule it yet.
+
+DOCTOR X488
+But you got the EEG.
+
+PATIENT X488
+Uh-huh.
+
+DOCTOR X488
+Did you ever see the podiatrist, the foot doctor?
+
+PATIENT X488
+No.
+
+DOCTOR X488
+Oh yeah you did, in August. Let's see.
+
+PATIENT X488
+But not since then though.
+
+DOCTOR X488
+Oh okay.  Did you have the colonoscopy?
+
+PATIENT X488
+No I chickened out.
+
+DOCTOR X488
+You chickened out, you don't want it then?
+
+PATIENT X488
+I didn't want it, no.  The whole idea just threw me backwards.  I guess if I get up enough courage whenever they schedule me for one again, I might get up enough courage to do it, I don't know.
+
+DOCTOR X488
+Okay and you take simvastatin?  No.
+
+PATIENT X488
+No.
+
+DOCTOR X488
+You don't take anything for your cholesterol?
+
+PATIENT X488
+I was taking something but they discontinued it.
+
+DOCTOR X488
+Why?
+
+PATIENT X488
+That's what I'd like to know.
+
+DOCTOR X488
+LDL 80, oh wow it looks like you may not need one.  Uh and you need your blood pressure medication?
+
+PATIENT X488
+Oh yeah.
+
+DOCTOR X488
+Okay.
+
+PATIENT X488
+And my Dilantin, I only have four capsules left.
+
+DOCTOR X488
+Okay.
+
+PATIENT X488
+What kind of Tylenol is this you were telling me about?
+
+DOCTOR X488
+Tylenol?
+
+PATIENT X488
+It's a pain medication you was telling me.
+
+DOCTOR X488
+Yeah just Tylenol.  Gabapentin, that one?
+
+PATIENT X488
+Yeah.  Are you gonna prescribe some of that for me today?
+
+DOCTOR X488
+I can give that to you.
+
+PATIENT X488
+Yeah.  I know what brought on that other seizure though.
+
+DOCTOR X488
+It brought on seizures?
+
+PATIENT X488
+No I say I know what brought it on.
+
+DOCTOR X488
+What did?
+
+PATIENT X488
+Had sort of a earth shattering event.
+
+DOCTOR X488
+Huh?
+
+PATIENT X488
+Had sort of a earth shattering event.
+
+DOCTOR X488
+Oh what happened?
+
+PATIENT X488
+Uh my youngest daughter, she's you know 35 years of age.  She called me up from home and told me that she'd been diagnosed with MS.
+
+DOCTOR X488
+Oh, I'm sorry.
+
+PATIENT X488
+That threw me upside down and I.
+
+DOCTOR X488
+So you were taking the medicine.  It wasn't that you weren't taking it?
+
+PATIENT X488
+Yeah I was taking the medicine but that.
+
+DOCTOR X488
+So then you just had another, like a big emotional event?
+
+PATIENT X488
+Yeah I had a, that threw me off, way off.
+
+DOCTOR X488
+So you have access to the medication though?
+
+PATIENT X488
+Yeah.
+
+DOCTOR X488
+It's never been a problem for you to get it?
+
+PATIENT X488
+No, no.
+
+DOCTOR X488
+Okay.
+
+PATIENT X488
+No no problem.  Some things, see it starts up with an anxiety attack, you get this sick feeling in the stomach with the anxiety attack.
+
+DOCTOR X488
+Yeah.
+
+PATIENT X488
+You start feeling cartwheels with different colors and uh if I don't take some medicine right away it gets me blind temporarily.
+
+DOCTOR X488
+Oh no.
+
+PATIENT X488
+And then comes the seizure.  The whole left side just trembles out of control and I'm standing.
+
+DOCTOR X488
+Now your right leg you have some infection on it?
+
+PATIENT X488
+Yes.
+
+DOCTOR X488
+Or earlier.  Is that all taken care of, all done?
+
+PATIENT X488
+Yeah I had uh.
+
+DOCTOR X488
+Can I see it?
+
+PATIENT X488
+This is uh, it was uh I need to loosen @@@.
+
+DOCTOR X488
+You need some lotion.  But there's no fever or chills, nothing like that?
+
+PATIENT X488
+No, no, it was what do you call that thing uh, um.
+
+DOCTOR X488
+Oh like an ulcer?
+
+PATIENT X488
+That's the word, what I'm looking for.  It was like an ulcer.
+
+DOCTOR X488
+Okay but that's all gone now?
+
+PATIENT X488
+Yeah.  I got lotion I just didn't use this morning.
+
+DOCTOR X488
+Okay, I'll be back in a second okay.
+
+PATIENT X488
+Alright.
+
+DOCTOR X488
+I need to check this with the attending.
+
+PATIENT X488
+Uh-huh.
+
+DOCTOR X488
+I'll be back in a minute.
+
+(DOCTOR OUT:  110.0  DOCTOR IN:  117:50)
+
+DOCTOR X488
+Okay.  Alright you need to see the neurologist.
+
+PATIENT X488
+When?
+
+DOCTOR X488
+I want you to go up to the front and make an appointment right now before you go.
+
+PATIENT X488
+Alright.
+
+DOCTOR X488
+Are you taking all your blood pressure medications?
+
+PATIENT X488
+I take it yes.  That one uh, every six.
+
+DOCTOR X488
+And I want to get some labs, I want to get some labs done today, will you go to the Laboratory before you leave?
+
+PATIENT X488
+Oh you mean do a blood draw?
+
+DOCTOR X488
+Yeah.
+
+PATIENT X488
+Yeah.
+
+DOCTOR X488
+I need a blood draw.
+
+PATIENT X488
+So go make the appointment for the neurologist right now?
+
+DOCTOR X488
+Yeah they'll make it for you right up front okay and then I want you to come back and see me in one month cause then I want to see what the neurologist says.
+
+PATIENT X488
+When do I see the neurologist?
+
+DOCTOR X488
+You're gonna make an appointment up front right now okay.
+
+PATIENT X488
+Uh-huh.
+
+DOCTOR X488
+They're gonna give you an appointment.
+
+PATIENT X488
+Oh.
+
+DOCTOR X488
+You need your um and you need your medications refilled?
+
+PATIENT X488
+Yes.
+
+DOCTOR X488
+Okay so take this to the front and make the appointment right now before you go.
+
+PATIENT X488
+Right.
+
+DOCTOR X488
+I'll meet you up there okay and I'm gonna get your medications done and then I'll meet you up there and find out when the appointment is.
+
+PATIENT X488
+Okay.
+
+DOCTOR X488
+And then you get to go to the Lab.
+
+PATIENT X488
+I go to the Lab and then I can go home.
+
+DOCTOR X488
+Then you can go home.
+
+PATIENT X488
+Okay.
+
+DOCTOR X488
+But uh I'll meet you up there in the front in just a minute okay.
+
+PATIENT X488
+Okay.
+
+PATIENT LEAVES 121:00
+
+
+
+

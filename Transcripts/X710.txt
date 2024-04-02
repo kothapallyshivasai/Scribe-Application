@@ -1,0 +1,314 @@
+
+DOCTOR X710
+PATIENT?
+
+PATIENT X710
+Yea, you ready?  I am ready.
+
+DOCTOR X710
+@@@.
+
+PATIENT X710
+@@@ standing here @@@.
+
+DOCTOR X710
+Yea, yea, no it @@@.
+
+PATIENT X710
+@@@.
+
+DOCTOR X710
+Oh yea.  @@@.
+
+PATIENT X710
+@@@ what do you @@@?
+
+DOCTOR X710
+@@@.  Yea I know, I mean, I appreciate it.  @@@ last few weeks and @@@.
+
+PATIENT X710
+Really.
+
+DOCTOR X710
+@@@. 
+
+PATIENT X710
+@@@.  
+
+DOCTOR X710
+@@@ last half hour @@@.  Umm how are things going?
+
+PATIENT X710
+Good, good.
+
+DOCTOR X710
+Yea?
+
+PATIENT X710
+Um, is this just a followup?
+
+DOCTOR X710
+Ah, yea.  Um, @@@ you back in @@@.  @@@ usually back every six months.
+
+PATIENT X710
+Okay.
+
+DOCTOR X710
+That’s why I @@@.  It hasn’t been that long.
+
+PATIENT X710
+Wow.
+
+DOCTOR X710
+And one @@@, it’s only been four months.  They scheduled you a little early.  I don’t know why.
+
+PATIENT X710
+@@@.
+
+DOCTOR X710
+I told them a six month followup or a year followup.
+
+PATIENT X710
+Yea.
+
+DOCTOR X710
+@@@.  
+
+PATIENT X710
+Yea because nothing, nothing
+
+DOCTOR X710
+I even put in a year.  I said for you to come back to see me September 2012.  So ah, maybe this will be nice and quick then.
+
+PATIENT X710
+Oh, yea, yea, it will be.
+
+DOCTOR X710
+And @@@ you see the dermatologist and @@@.
+
+PATIENT X710
+Everything is good.  
+
+DOCTOR X710
+@@@.  Okay.
+
+PATIENT X710
+@@@ put it on for a few weeks and then I got to go back up there and see them in a couple more weeks.  @@@.  But everything really seems good.
+
+DOCTOR X710
+Everything is good?  Okay.  Um, so @@@.
+
+PATIENT X710
+@@@.  Yea.  No, no, no.  I did @@@.
+
+DOCTOR X710
+Yea.
+
+PATIENT X710
+It always seems like @@@.
+
+DOCTOR X710
+Right, yea.  It always has been.  Either that or you @@@.  I don’t know.
+
+PATIENT X710
+No, I really don’t.  Because in the winter time I have been @@@ every time.
+
+DOCTOR X710
+Yea.
+
+PATIENT X710
+It’s um, @@@.  Picked up some orthotics.
+
+DOCTOR X710
+Okay.  Yea, I saw that.  @@@.
+
+PATIENT X710
+@@@.  
+
+DOCTOR X710
+Have you had anymore issues with this @@@?
+
+PATIENT X710
+Nope, no.  @@@ had it since @@@.
+
+DOCTOR X710
+Okay.
+
+PATIENT X710
+And they gave me @@@.
+
+DOCTOR X710
+Um, okay.  @@@ everything looks fine.  Ah, let’s see @@@.  Did they, ah, freeze off the @@@?
+
+PATIENT X710
+Not yet.  I think it will be the next time, after @@@ see how it looks and then @@@.  It looks a lot better than it did.
+
+DOCTOR X710
+Okay.  I know that your blood pressure, @@@ borderline.  It looks a lot better today compared to the last time.  It was like 130 last time and 125 today.  Looks good.
+
+PATIENT X710
+Okay.
+
+DOCTOR X710
+@@@.  Um, kind of right where you want to be.  And, then I don’t think there was anything else.  Um, you had a tetanus shot last time I think right?  
+
+PATIENT X710
+Yup.
+
+DOCTOR X710
+And, @@@.
+
+PATIENT X710
+How do I get a copy of that saying that I?
+
+DOCTOR X710
+That you got that?
+
+PATIENT X710
+Yea.  @@@ in a couple of weeks and they tell me @@@.  Supposedly @@@ a tetanus shot so
+
+DOCTOR X710
+Oh, tetanus, diphtheria, pertussis @@@.  @@@.
+
+
+PATIENT X710
+Is that in @@@.
+
+DOCTOR X710
+Yea, you should have gotten this.  Um, yea, I see that.  You already got this.
+
+PATIENT X710
+Okay.
+
+DOCTOR X710
+Um, you also @@@.  You got it September 22 @@@.
+
+PATIENT X710
+Okay.
+
+DOCTOR X710
+So @@@.  Who is @@@, they, the doctors are complaining?
+
+PATIENT X710
+Yea, they just @@@.  Plus my civilian doctor would like a copy of it.
+
+DOCTOR X710
+Oh, okay.  
+
+PATIENT X710
+Just to make @@@. 
+
+DOCTOR X710
+Yea.  Okay.  @@@.
+
+PATIENT X710
+Yea, that’s fine.  
+
+DOCTOR X710
+@@@.  Um, alright colonoscopy we have already talked about.  You are due in a couple of years again.  Um, checked your prostate before I remember right?
+
+PATIENT X710
+Um hmm.
+
+DOCTOR X710
+@@@.  Alright.  Um.
+
+PATIENT X710
+Anything special to do when you turn 55 @@@?
+
+DOCTOR X710
+Not anything for 55.
+
+PATIENT X710
+No?
+
+DOCTOR X710
+Just @@@.  You were never a smoker right?
+
+PATIENT X710
+No.
+
+DOCTOR X710
+So 50 and 65 if you were a smoker @@@.
+
+PATIENT X710
+Oh.
+
+DOCTOR X710
+For you it is just going to be getting your prostate checked, @@@ colonoscopy, every five to ten years @@@.
+
+PATIENT X710
+Okay.
+
+DOCTOR X710
+@@@ diabetes @@@.
+
+PATIENT X710
+Good.  I try.  
+
+DOCTOR X710
+Yea.  You should.  @@@.  Alright?  Sorry you had to come in again.
+
+PATIENT X710
+No, no, no, that is fine.  I mean, @@@.  Doing what they tell me to do.
+
+DOCTOR X710
+Yea, yea.
+
+PATIENT X710
+Okay.
+
+DOCTOR X710
+I am going to see you back you know summer, early fall.
+
+PATIENT X710
+Okay.
+
+DOCTOR X710
+@@@ if anything comes up you can you can @@@.
+
+PATIENT X710
+Yea, unless I have issues.
+
+DOCTOR X710
+Yea.
+
+PATIENT X710
+@@@ but I should be good.  @@@.  Um where did that print @@@?
+
+DOCTOR X710
+Yea, @@@.  @@@ a lot of necessary information @@@.
+
+PATIENT X710
+No, no, no, that’s fine.  
+
+DOCTOR X710
+@@@.  
+
+PATIENT X710
+Okay.
+
+DOCTOR X710
+@@@ your appointment list.  I am sure you already know but @@@.
+
+PATIENT X710
+@@@.
+
+DOCTOR X710
+Yea.  @@@.
+
+PATIENT X710
+Good, glad it was short.  Time to get caught up?
+
+DOCTOR X710
+Yea.  Okay. Thanks.
+
+PATIENT X710
+Thanks.
+
+PATIENT LEAVES:  46:30
+
+
+
+
+

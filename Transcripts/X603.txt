@@ -1,0 +1,950 @@
+ 
+DOCTOR X603
+PATIENT?  Okay.  How are you today?
+
+PATIENT X603
+Right here.  Well how are you?
+
+DOCTOR X603
+Alright.  How are you?
+
+PATIENT X603
+I don't know man.
+
+DOCTOR X603
+@@@.  Alright.  How can I help you today?
+
+PATIENT X603
+Well you guys scheduled me for an appointment now.
+
+DOCTOR X603
+Well, I know.
+
+PATIENT X603
+Yes you did.
+
+DOCTOR X603
+You did, did you get a letter saying that to schedule this appointment or who scheduled it?
+
+PATIENT X603
+I got a letter that say you know to call them for appointment.
+
+DOCTOR X603
+We saw you in January and I put it in that you know, we probably didn't need to see you for another six months and that's in here.  I'm not sure who.
+
+PATIENT X603
+I don't know but you know maybe it was because I had like a little incident that happened.
+
+DOCTOR X603
+Yeah.
+
+PATIENT X603
+Well you know I have you know epilepsy.
+
+DOCTOR X603
+Uh-huh.
+
+PATIENT X603
+And then I had seizures and they had to kind of be rushed to the hospital.  As a matter of fact I stayed here a couple of days.
+
+DOCTOR X603
+Now when was this?
+
+PATIENT X603
+That was June or July 16th actually.
+
+DOCTOR X603
+Oh.
+
+PATIENT X603
+So that's probably good cause I wrote down a bunch of questions I've got actually.
+
+DOCTOR X603
+But I just saw you in January.
+
+PATIENT X603
+February, March.
+
+DOCTOR X603
+A couple months ago.
+
+PATIENT X603
+January.
+
+DOCTOR X603
+January 13th.
+
+PATIENT X603
+Right, it was right after that.
+
+DOCTOR X603
+Which hospital did you go to?
+
+PATIENT X603
+Little Company of xxx.
+
+DOCTOR X603
+Oh okay, that's why it's not in here.  Okay.  Alright.
+
+PATIENT X603
+Yeah cause I seen, I talked to the Billing Department and all that stuff anyway but yeah that was, actually that was good but otherwise, @@@.  So that probably worked out good anyway.
+
+DOCTOR X603
+So did they increase your Keppra dose?
+
+PATIENT X603
+My what?
+
+DOCTOR X603
+Your seizure medication, did they increase that?
+
+PATIENT X603
+No they left it the same.
+
+DOCTOR X603
+Okay.
+
+PATIENT X603
+Actually but I'm on my last bottle cause they sent this, I just got this earlier today, for the, yeah yesterday as a matter of fact and they was telling me what's gonna be coming up in the future but it didn't have this on there, that's the main one I need.
+
+DOCTOR X603
+I can refill it.
+
+PATIENT X603
+Yeah that's good; I'm out of all of them, that's the most important one.
+
+DOCTOR X603
+So did they give you any like information after discharging you from there, from being in the ICU?
+
+PATIENT X603
+Yeah well you know just, you know you check in with the VA and stuff.
+
+DOCTOR X603
+Yeah, so whenever you get released out of the hospital you should bring in the paperwork.
+
+PATIENT X603
+Oh I did as a matter of fact.  I did bring it, yes I actually did that.  I am glad you said that.  I did bring it in cause I, at the time I was still kind of recovering myself and I brought in some paperwork.
+
+DOCTOR X603
+Did you bring it in last time I saw you?
+
+PATIENT X603
+No it was after that.
+
+DOCTOR X603
+So who did you bring it in to?
+
+PATIENT X603
+I gave it to the D Clinic, I mean the xxx xxx here, they said yeah okay we'll take it and put it in your file or something cause I was gonna ask if I could get a copy of it actually cause I didn't, you know I wasn't even thinking about that.
+
+DOCTOR X603
+We have nothing in here.
+
+PATIENT X603
+Cause yeah, cause I sure brought it in to them and I should have kept a copy of it myself but at that time I was still coming back to my own you know senses.
+
+DOCTOR X603
+So what day exactly were you admitted to Little Company of xxx?
+
+PATIENT X603
+Um January 16th.
+
+DOCTOR X603
+16th.  When were you discharged?
+
+PATIENT X603
+The 18th.
+
+DOCTOR X603
+Okay.  Hmm.
+
+PATIENT X603
+Uh-huh.
+
+DOCTOR X603
+Alright.  Well if you are able to get those, the paperwork or your records from Little Company of xxx, just bring it to your appointment so I can actually take a look at it.
+
+PATIENT X603
+I mean it’s here now somewhere.
+
+DOCTOR X603
+It's not in the computer so I'm not entirely sure.
+
+PATIENT X603
+I mean you know if they gave it to the personnel, that was at the desk which the person I don’t recall now you know but I really handed it in cause they said to be sure to hand it in, that's why I made it a point to bring it.
+
+DOCTOR X603
+When did you bring it, because since the last time I saw you this is your next appointment, you haven't been seen in between.
+
+PATIENT X603
+So I know, I just dropped off the paperwork.
+
+DOCTOR X603
+You just dropped off the paperwork?
+
+PATIENT X603
+Cause I had to go, yeah, because I went up to the Billing to find out you know cause they saying you know they'd take care of the cost of it so I actually went up to the Billing and I dropped that off as well.
+
+DOCTOR X603
+Okay.  Well I mean, I don't really know what to say.  It's just that it's not in the computer so I'm not really sure where it went.
+
+PATIENT X603
+I don't know what to say either but I know I brought it here.
+
+DOCTOR X603
+Okay that's fine.
+
+PATIENT X603
+Okay.  But anyway, I did have, cause after that happened I was pretty scared yeah so.
+
+DOCTOR X603
+Uh-huh.
+
+PATIENT X603
+Let's see, oh yeah the pill thing, we talked about that.
+
+DOCTOR X603
+I'll refill it.
+
+PATIENT X603
+For the seizures, yeah cause I'm like on the last bottle.
+
+DOCTOR X603
+I'll fill the refills for you.
+
+PATIENT X603
+Yeah and then uh I have to come, oh that was the thing what it was too, I had to come to get a cholesterol test.  @@@ and I wanted to see what my cholesterol level was cause I've been having blood changing.
+
+DOCTOR X603
+Yeah.  Your bad cholesterol is 110, so your LDL is 110.  Your good cholesterol, which is your HDL is 78.
+
+PATIENT X603
+110.  The good is what?
+
+DOCTOR X603
+78.
+
+PATIENT X603
+Okay now what exactly does that mean?
+
+DOCTOR X603
+So, let me see you don't have any heart disease or diabetes so your cholesterol is fine.  We don't need to do anything with it.
+
+PATIENT X603
+Okay so then.
+
+DOCTOR X603
+Perfect.
+
+PATIENT X603
+So no problems with that okay.
+
+DOCTOR X603
+Right.
+
+PATIENT X603
+Good, one thing bad and good.  What does that mean bad and good exactly.
+
+DOCTOR X603
+Oh.
+
+PATIENT X603
+I didn't really understood that.
+
+DOCTOR X603
+So there's a form.  There's just two forms of cholesterol in our body.  So the bad one, the LDL we want to get that lower usually uh and the good form we want it above 45.
+
+PATIENT X603
+Oh okay.
+
+DOCTOR X603
+So it's um, they just do different things to your arteries.
+
+PATIENT X603
+Right.
+
+DOCTOR X603
+So the bad ones make your arteries harder.
+
+PATIENT X603
+Hard, right.  So mine's pretty good.
+
+DOCTOR X603
+Yours is fine.
+
+PATIENT X603
+Okay.  Now okay, well now some of this I was writing stuff, like I said write stuff but by the time you come for your appointment.
+
+DOCTOR X603
+Yeah.
+
+PATIENT X603
+Then you forget a lot of it.
+
+DOCTOR X603
+Yeah, yeah.
+
+PATIENT X603
+So it's really not as much as it looks like here on this paper.  Now let's see, @@@ you know like I guess I'm trying to you know really try to come to terms with this epilepsy thing.
+
+DOCTOR X603
+Okay.
+
+PATIENT X603
+So I know that's a pretty like saying anything for me so like I said now at the most I have five seizures in a row.  They had to call like the ambulance.
+
+DOCTOR X603
+Yeah.
+
+PATIENT X603
+Yeah you know, so I do needed to end up taking medications to assure the.
+
+DOCTOR X603
+Yeah you have to take that Keppra.
+
+PATIENT X603
+Well you say yeah.
+
+DOCTOR X603
+So you missed a couple doses is that why, is that why?
+
+PATIENT X603
+Yeah, that's the only thing I could figure out.  You know but I don't have any memories or anything.  I have memories waking up in the hospital.
+
+DOCTOR X603
+Uh-huh.
+
+PATIENT X603
+So but since that time, what's happening whether I eat or not then kind of like these semi-constant, mild headaches you know.  Like even now they just never seem to go away.
+
+DOCTOR X603
+Uh-huh.
+
+PATIENT X603
+And I find myself taking like maybe between four and six aspirin you know daily you know.
+
+DOCTOR X603
+Uh-huh.
+
+PATIENT X603
+So I'm like, I got an appointment.
+
+DOCTOR X603
+Appointment with Neurology.
+
+PATIENT X603
+Yeah.
+
+DOCTOR X603
+For follow-up okay yeah I would definitely address that.
+
+PATIENT X603
+Yeah and they don't just seem to want to leave so uh and then I guess, now how I think somebody was telling me this was a tremor.  I said I don't know it looks like @@@ and on your liver, you got liver disease or some stuck.  That's when I says let me write that down too.
+
+DOCTOR X603
+No.  That's, just because you have a large stomach doesn't mean you have liver disease.
+
+PATIENT X603
+Right.
+
+DOCTOR X603
+Your labs don't.
+
+PATIENT X603
+Right cause I say cause your skin you took with your stomach so that mean there must be something going with your liver or something.  No.
+
+DOCTOR X603
+No your liver is fine.  I'm just looking at your labs and there's nothing wrong with your liver.
+
+PATIENT X603
+Okay that's good, good, good, good.  Okay now okay doc I got this, no I just you know I need some advice, working at the Heritage you know with their soup cup so we know that puts a lot of, you know, kind of I don't know if it’s that carpal tunnel stuff.
+
+DOCTOR X603
+Uh-huh.
+
+PATIENT X603
+Now what is you could kind of do for it?  You know it's like some kind of exercises.
+
+DOCTOR X603
+For carpal tunnel?
+
+PATIENT X603
+Well to prevent I guess.  Say I don't.
+
+DOCTOR X603
+I don't know.
+
+PATIENT X603
+Think I got it but I don't want to get it either.  Cause sometime you know you get this kind of sore right in this area.
+
+DOCTOR X603
+Yeah.
+
+PATIENT X603
+You know come all the way here and bend it.
+
+DOCTOR X603
+Right.
+
+PATIENT X603
+@@@ in the process.  Uh-huh.
+
+DOCTOR X603
+Um there's not really anything to prevent carpal tunnel.  Um there are like splints that you can wear when you go to sleep but usually that's when people get carpal tunnel.
+
+PATIENT X603
+Right.
+
+DOCTOR X603
+When we have them wear the splints.  Um and then it keeps it from hurting so much.  Um but really there isn't anything to you know, people that sit at computers you know we tell them to rest their hand on something.
+
+PATIENT X603
+Uh-huh.
+
+DOCTOR X603
+Sometimes it's just not possible.
+
+PATIENT X603
+Right, right.
+
+DOCTOR X603
+And some people change their job when they notice a difference.
+
+PATIENT X603
+Right so the doctor gives them something where they squeeze like a tennis ball, cause I don't know if that would even do nothing first thing.
+
+DOCTOR X603
+Yeah I mean it can't hurt you so, you know.
+
+PATIENT X603
+But do it help it?
+
+DOCTOR X603
+Not as far as I know.
+
+PATIENT X603
+Yeah right, okay.  And let's see okay, this thing I got this thing and I guess I hadn't even thought about it, something I just read.  Maybe I save this till the last, but it seems like my heart has a real, like kind of a burning feeling you know.
+
+DOCTOR X603
+A what feeling?
+
+PATIENT X603
+Like razors maybe I guess.  I don't know I guess that's the only term I can use to describe it.  It's a pain like you just, saying you know how it usually pump the blood.
+
+DOCTOR X603
+Uh-huh.
+
+PATIENT X603
+Now you @@@ I don't want to say like strain or nothing.
+
+DOCTOR X603
+Uh-huh.
+
+PATIENT X603
+But it just, it is strange.  Cause I feel okay you know.
+
+DOCTOR X603
+Uh-huh.
+
+PATIENT X603
+The @@@ is up but a lot of them have to do with @@@ you bounding back from the you know the little incident I had.
+
+DOCTOR X603
+Right.
+
+PATIENT X603
+So I feel like I'm doing okay now.
+
+DOCTOR X603
+Okay, okay.
+
+PATIENT X603
+So and you know I guess you know me, that's kind of you know especially when I was just always real tired.  You know.
+
+DOCTOR X603
+Yeah, so that can happen after you've had a seizure.
+
+PATIENT X603
+Yes, I don't know, ask that you know so.  But yeah but that seem to be coming out okay I guess.  I figured it would probably take a month to come back to normal.
+
+DOCTOR X603
+It depends on the person.
+
+PATIENT X603
+Yeah.
+
+DOCTOR X603
+It varies so.
+
+PATIENT X603
+Yeah uh-huh.  Now this is one of the things I mean like I like @@@ for this too.  This what I really find is kind of concerning me is uh I been having like you know the memory loss, short term and like long term memory loss.
+
+DOCTOR X603
+Uh-huh.
+
+PATIENT X603
+Like what I did, for an example, like yesterday I was on the train you know and ran into my you know I know this person oh yeah how you doing.  I know him good but I don't know where I know him from.
+
+DOCTOR X603
+Yeah, yeah.
+
+PATIENT X603
+You know what I mean and, don't you remember NAME, well no I really don't remember actually.
+
+DOCTOR X603
+Yeah.
+
+PATIENT X603
+You know I say that I probably should be able to but I don't seem to be able to do that.
+
+DOCTOR X603
+Yeah, yeah.
+
+PATIENT X603
+So that's like short term stuff and long term stuff.
+
+DOCTOR X603
+Uh-huh.
+
+PATIENT X603
+That's the kind you know bug me a little bit you know.
+
+DOCTOR X603
+I, I'm not 100% sure; the epilepsy sure could cause memory problems.
+
+PATIENT X603
+Yes.
+
+DOCTOR X603
+Um but uh the neurologist would probably have a better idea.
+
+PATIENT X603
+Yeah, probably something.  Yeah cause like I say I want to lose the weight and regain that thing.  Oh yeah and here's one too, I want refills I noticed on that, they were gonna send me the aspirin and there was, that's not on there either.  I supposed to had got it restarted sending I think on day one or two and then that's what it said and it said no more refills on it so.
+
+DOCTOR X603
+For the aspirin.
+
+PATIENT X603
+Uh-huh.
+
+DOCTOR X603
+Okay.  You were taking 81?
+
+PATIENT X603
+Yeah cause when I call in and they said, well maybe I can @@@ and so they called me over they said like no more refills, got to see the doctor on that and actually I just restarted it back up.  Cause.
+
+DOCTOR X603
+Okay.
+
+PATIENT X603
+I'm gonna say but I want some so we got that control and plus the thing for seizure.
+
+DOCTOR X603
+Uh-huh.
+
+PATIENT X603
+Okay and then just like what I said you know, you get all like your lab results in here so you know.
+
+DOCTOR X603
+Uh-huh.
+
+PATIENT X603
+You say the cholesterol's good.  No problem with the liver and you tell me that.
+
+DOCTOR X603
+Yeah, your labs all look fine.
+
+PATIENT X603
+And then I took a TB test not long ago, I guess that was good.
+
+DOCTOR X603
+Yeah.
+
+PATIENT X603
+Okay.  So the next appointment I got to worry about that.  Okay also now you know after I got the you know the script for the Levitra or vardenafil.
+
+DOCTOR X603
+Uh-huh.
+
+PATIENT X603
+And then when I was at the Walmart, hell they got the generic version of that, you know the same thing and I was saying I wonder if that would be just as good as the regular stuff.  I know it sure is a lot less expensive.
+
+DOCTOR X603
+Yeah it's the same thing.
+
+PATIENT X603
+Yeah good, cause I went to price it at box stores they were like $120 some bucks.  I mean at Walmart $54, that's less than half the amount.
+
+DOCTOR X603
+Uh-huh.
+
+PATIENT X603
+So if it's still, the same or just as good huh, okay.  Good.  I got a eye appointment coming up in May but uh, like for me I'm farsighted, I wear glasses and the last appointment like 200 you know, so I @@@ for me cause I only wear them to read you know so that's why I already told them they got like reading glasses at the Dollar Store and all that and they just said do it.
+
+DOCTOR X603
+They might be different.
+
+PATIENT X603
+So I didn't know, it was $5.  I never really wear any except for to read.
+
+DOCTOR X603
+Yeah.
+
+PATIENT X603
+So.  Guess so, I you know just as long as you get the correct.
+
+DOCTOR X603
+Right.
+
+PATIENT X603
+Okay so we're gonna do, hmm, got that.  Oh okay, now here's one, now I got another question so let's just sign off you know for a while, you know AARP card.
+
+DOCTOR X603
+Okay.
+
+PATIENT X603
+If you're over 50.
+
+DOCTOR X603
+Okay.
+
+PATIENT X603
+And they got like the insurance plan that so I say well I'll check with you guys say like I get the supplemental insurance and the reason being cause this that you got I see all these @@@ my eyes, all the extra eyes all big under there.
+
+DOCTOR X603
+Okay.
+
+PATIENT X603
+You know I'd like the city the other day and I'd rather come here so it's not, you know, nothing to do with military related I mean you know you do that, but that was a while ago when I asked that so I don't know if they changed the procedure.
+
+DOCTOR X603
+I don't know anything about insurance.
+
+PATIENT X603
+Oh who would know?  Who do I talk to about that?
+
+DOCTOR X603
+Um probably the um, I don't know where you'd go.
+
+PATIENT X603
+Maybe the billing?
+
+DOCTOR X603
+Billing or @@@.
+
+PATIENT X603
+Well I got to go to Billing anyway.
+
+DOCTOR X603
+Yeah because I honestly I don't know about the insurance part of things.
+
+PATIENT X603
+Okay.  Let's see, is that everything, yes sir, they wrote me and that's where they said come on in.  Now there is something else you know I been, you know on this side I'm barely able to eat, I don't really eat a lot.  One time I might go like the whole 24 hour period without really eating much and uh if I'm running behind and I'm like well, I say do I need to like kind of I don't know, I haven't thought a lot, I need to diet you know.
+
+DOCTOR X603
+Oh your weight's been pretty stable.
+
+PATIENT X603
+Yes, it stay pretty stable by and large you know.
+
+DOCTOR X603
+You know what I'm not worried about it.  If you were losing a ton of weight then I'd be worried about you not eating but.
+
+PATIENT X603
+Yeah you know, doctors don't like the whole 24 hour I might eat something like I eat something in the morning, it might be the next morning by the time that I might eat something again you know.
+
+DOCTOR X603
+Hmm.
+
+PATIENT X603
+You know I'm like well I make sure it ain't no cause for concern or anything.  I know everybody's body is different you know.
+
+DOCTOR X603
+Yeah I mean if you're not losing weight I wouldn't worry about it too much.
+
+PATIENT X603
+I don't seem to be.  Okay, let's see.  Oh this thing is kind of the size @@@ for a while kind of like nausea or stuff.  It's all gone after that episode, you know with the.
+
+DOCTOR X603
+Uh-huh.
+
+PATIENT X603
+So.
+
+DOCTOR X603
+So it's gotten better?
+
+PATIENT X603
+Yeah, it's like you say I never even thought about it till I saw DOCTOR.
+
+DOCTOR X603
+Okay.
+
+PATIENT X603
+But this was maybe I'd say I'd have to eat or something.  Okay, cross that one off.  Okay oh yeah now here's the other thing and I know with the, you know with me just up, you know trying to come to grips with that thing and I know to take control on the brain.
+
+DOCTOR X603
+Uh-huh.
+
+PATIENT X603
+And stuff and you know the xxx Bears dude just died, they probably got a CTE or something.  I don't know whether he got it from too many collisions to the head or something.
+
+DOCTOR X603
+Oh okay.
+
+PATIENT X603
+Damaged his brain.
+
+DOCTOR X603
+Yeah.
+
+PATIENT X603
+And I saying well maybe about me, like I say with this constant headache, such that even now it never really leaves.
+
+DOCTOR X603
+Yeah.
+
+PATIENT X603
+This other side maybe it more, you know more hurtful or painful at other times but it never leaves.
+
+DOCTOR X603
+This is different than hitting his head.
+
+PATIENT X603
+Yeah.
+
+DOCTOR X603
+I believe so.
+
+PATIENT X603
+Yeah that's true but I gots like you know having the seizures now it's got to be something with the.
+
+DOCTOR X603
+Neurology.
+
+PATIENT X603
+Right, that's it.  You know what I mean and then uh seizures is those like you know kind of like mini-strokes or something, is that what that is?
+
+DOCTOR X603
+No.  So strokes are when you don't get enough blood flow to the brain.
+
+PATIENT X603
+Okay.
+
+DOCTOR X603
+Seizures are when um your brain fires signals kind of erratically.
+
+PATIENT X603
+Yeah okay.
+
+DOCTOR X603
+So it is different.
+
+PATIENT X603
+Fires signals erratically.
+
+DOCTOR X603
+Yeah.  So you know when, when we want to move our hand our brain sends signals to our arms.
+
+PATIENT X603
+Yeah I know.
+
+DOCTOR X603
+And our hands and when you have a seizures all these signals are going off, which is why people shake and have and people have different reactions to the seizures but because the brain is firing signals, kind of erratically, that's the way to put it.
+
+PATIENT X603
+Right okay, okay.  But I do something to go with it cause I get wet.  Okay go ahead and then I had a thing with that paperwork so I don't know I'm fine I mean after I turned it in, right into the desk.
+
+DOCTOR X603
+Uh-huh.
+
+PATIENT X603
+I mean it got to be somewhere.
+
+DOCTOR X603
+I mean they may put it in the computer eventually um.
+
+PATIENT X603
+Eventually.
+
+DOCTOR X603
+Uh I mean I have no idea.
+
+PATIENT X603
+Yeah.
+
+DOCTOR X603
+But I don't know where, who has it or who rather did it but you know next time just bring it to the appointment so I see it and I can put it in my notes.
+
+PATIENT X603
+Yeah well I actually like, if I go I'll probably go over to the hospital, they probably got it, they probably give me a copy of it.
+
+DOCTOR X603
+Yeah you could get a copy of your medical records and then just bring it in when you get here.
+
+PATIENT X603
+Uh-huh.  Well what about when I come for my Neurology appointment.
+
+DOCTOR X603
+I wouldn't drop it off again.  Just bring it when you see me.
+
+PATIENT X603
+Okay.  Oh this is when I brought it in, I got it wrote down.  I brought it in on January 24th.
+
+DOCTOR X603
+Okay.
+
+PATIENT X603
+So that was like what, say like a couple weeks ago I don't know.  I know I just dropped it off.
+
+DOCTOR X603
+Okay.
+
+PATIENT X603
+And um I guess that sums it up actually.
+
+DOCTOR X603
+Okay good.  Um so I refilled your medications.
+
+PATIENT X603
+Okay.
+
+DOCTOR X603
+Um do you want to pick them up or do you want them mailed to you?
+
+PATIENT X603
+Uh just you can mail them all and I'll try to get my ride.
+
+DOCTOR X603
+Alright so they'll be in the mail.  Let me go talk to the supervising doctor real quick and I'll be right back.
+
+PATIENT X603
+Do they have @@@ in there with like the appointments cause I got another appointment today, I think I got see the @@@.
+
+DOCTOR X603
+They uh, @@@.
+
+PATIENT X603
+What time is it now?
+
+DOCTOR X603
+It's almost 3.
+
+PATIENT X603
+Oh okay, that's good.
+
+DOCTOR X603
+We'll be done in time.
+
+PATIENT X603
+Alright.
+
+DOCTOR X603
+Let me go talk to my supervising doctor.
+
+PATIENT X603
+Uh-huh, alright.
+
+(DOCTOR OUT:  27:40  DOCTOR IN:  39:04)
+
+DOCTOR X603
+Alright, you're good to go.
+
+PATIENT X603
+Alright.
+
+DOCTOR X603
+I put in the refills okay.
+
+PATIENT X603
+Okay yeah.  You know I did have one more question.  I reckon that's like the different milligram things on here.
+
+DOCTOR X603
+Uh-huh.
+
+PATIENT X603
+And it was for the seizures but that's like 500 milligrams.
+
+DOCTOR X603
+Yep.
+
+PATIENT X603
+So that's twice a day.
+
+DOCTOR X603
+Is it twice a day?
+
+PATIENT X603
+Yeah.
+
+DOCTOR X603
+I think its daily.
+
+PATIENT X603
+No, well it'll probably say on there, yes.  Cause that's why I looked at it, man does that seem like a lot?  I mean I don't really know what's a lot and what isn't you know.
+
+DOCTOR X603
+That's what they had you on and it was fine.
+
+PATIENT X603
+Yeah but I mean its 500, yeah let's make this, when you put it that way.
+
+DOCTOR X603
+It is twice a day.
+
+PATIENT X603
+Right, so that's like 1000 mg per day.  Is that a high amount?
+
+DOCTOR X603
+It depends on whatever controls your seizures is right for you.
+
+PATIENT X603
+Well yeah, it's that, but I'm saying that I'm just saying in general is that considered to be a large dosage.
+
+DOCTOR X603
+It's a pretty standard dose for people who have seizures.
+
+PATIENT X603
+But being once a day mostly?
+
+DOCTOR X603
+You know I'm not, between once a day and twice a day I'm not entirely sure, the 500 mg is kind of where we start people off on and we test people on up to 1000 twice a day.
+
+PATIENT X603
+Uh-huh.
+
+DOCTOR X603
+1500 twice a day even so it just depends on what controls your seizures.
+
+PATIENT X603
+Right yeah, absolutely.  I said well I don't know if that's what it was but you know mild or normal or what kind of thing.
+
+DOCTOR X603
+Yeah.
+
+PATIENT X603
+So well okay then.
+
+DOCTOR X603
+Okay so we'll see you back in a couple months then.
+
+PATIENT X603
+Okay, you guys gonna send me a.
+
+DOCTOR X603
+Yep they'll send you a letter.
+
+PATIENT X603
+They'll send me yeah okay.  See here okay.  Alright thanks a lot doc.
+
+DOCTOR X603
+Oh no problem.
+
+PATIENT X603
+Go to the next appointment.  Uh-huh.
+
+PATIENT LEAVES:  41:47
+
+
+
+

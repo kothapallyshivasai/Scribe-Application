@@ -1,0 +1,861 @@
+
+PATIENT X574
+@@@ saw you in a while DOCTOR, how you doing?
+
+DOCTOR X574
+I'm doing.  How are you?
+
+PATIENT X574
+Good to see you alright too.  @@@.
+
+DOCTOR X574
+@@@.
+
+PATIENT X574
+Alright, maybe I shouldn't had a tight grip, I try not to.  So what's been happening with you?  How were the holidays?
+
+DOCTOR X574
+Good.
+
+PATIENT X574
+Did you celebrate holidays?
+
+DOCTOR X574
+Yeah.  @@@ worked up here so.
+
+PATIENT X574
+@@@.
+
+DOCTOR X574
+Did you do anything special?
+
+PATIENT X574
+Yes I, I didn't eat too much.  I can't lose my weight.  My mother @@@ am doing the right thing, but it won't come off yet.
+
+DOCTOR X574
+Well the last time we had talked you were seeing the nutritionist.
+
+PATIENT X574
+Yeah I've done all of that.
+
+DOCTOR X574
+You did a lot of changes.
+
+PATIENT X574
+Yeah, I've done all of that.  I just can't seem to drop it now.  I'm gonna do suck it off that tube out here?
+
+DOCTOR X574
+I don't know if they have uh plastic surgery liposuction.
+
+PATIENT X574
+You ought to try to see if they got it for me.  @@@ DOCTOR.  I'm tired of this stomach.
+
+DOCTOR X574
+Well I can ask.
+
+PATIENT X574
+Right.
+
+DOCTOR X574
+See what they've got.
+
+PATIENT X574
+@@@ lipo, the stomach @@@ too.
+
+DOCTOR X574
+Uh-huh.  Let's see, so how have you been feeling?
+
+PATIENT X574
+I been feeling better.
+
+DOCTOR X574
+Good.
+
+PATIENT X574
+But uh my blood pressure won't stay down because uh you took me off of one and uh @@@ the lisinopril.
+
+DOCTOR X574
+Lisinopril yeah.
+
+PATIENT X574
+Yeah cause you know for my the potassium was acting up.
+
+DOCTOR X574
+Yeah.
+
+PATIENT X574
+So since it's been normal, maybe I could start taking it again or something similar.
+
+DOCTOR X574
+Yeah let's see here.  When did they stop it on the 2nd?
+
+PATIENT X574
+Uh you stopped it.  No Urgent Care stopped it.
+
+DOCTOR X574
+Urgent Care stopped it.
+
+PATIENT X574
+Yeah uh-huh.  I don't know but he turned me around when I was on my way home to come back.
+
+DOCTOR X574
+Yeah because your labs were high right.
+
+PATIENT X574
+Yeah.
+
+DOCTOR X574
+Gotcha and @@@ your labs looked fine.
+
+PATIENT X574
+That's my last time here?
+
+DOCTOR X574
+Uh-huh.
+
+PATIENT X574
+Okay.  She said it was 4.4 or something like that.
+
+DOCTOR X574
+Yeah.
+
+PATIENT X574
+Uh-huh.
+
+DOCTOR X574
+Once it gets above 5 we start getting a little nervous.
+
+PATIENT X574
+Uh-huh.  But mine was up to 9, wasn't it, boy that's up there.
+
+DOCTOR X574
+It was 5.9 back in, when was that, @@@ and it says refill all medications.  What pills are you out of?
+
+PATIENT X574
+I'm out of uh my allopurinol.
+
+DOCTOR X574
+Okay.
+
+PATIENT X574
+I'm out of colchicine.  
+
+DOCTOR X574
+Do you pick them up here or do you want me to mail them?
+
+PATIENT X574
+You can mail them.  Like I'm gonna need and then my methadone.
+
+DOCTOR X574
+Okay.
+
+PATIENT X574
+I got that two weeks ago but I wasn't feeling well to come and I had some left so you can mail that to me too.  He got to write out a prescription for that.
+
+DOCTOR X574
+Yeah.
+
+PATIENT X574
+Okay cause he asked me to pick it up now or you can mail it?
+
+DOCTOR X574
+Uh I'll see if they have any prescription pads around.  If they have one I can write one.
+
+PATIENT X574
+@@@.
+
+DOCTOR X574
+DOCTOR.
+
+PATIENT X574
+You can write one now?
+
+DOCTOR X574
+Sometimes.  
+
+PATIENT X574
+Yeah.
+
+DOCTOR X574
+But you, if you have to fill it here though.
+
+PATIENT X574
+Yeah I know.
+
+DOCTOR X574
+Yeah.
+
+PATIENT X574
+I know, you know like most doctors would take it and have him write it out.
+
+DOCTOR X574
+Yeah, I fill all of it and then I have them send it to you.
+
+PATIENT X574
+Right I thought you said you're @@@ now.  Let me see, lisinopril uh, allopurinol, colchicine, let me see right here, alcohol pads.  Could I have a refill on uh capsaicin?
+
+DOCTOR X574
+Uh capsaicin you've got three refills left.
+
+PATIENT X574
+Okay.  Maybe, I you can put in one of them too.
+
+DOCTOR X574
+Okay.
+
+PATIENT X574
+I think that's it DOCTOR unless you can think of something.
+
+DOCTOR X574
+It looks like and I'll renew some of your medications just to make sure you have enough refills.
+
+PATIENT X574
+Uh-huh.
+
+DOCTOR X574
+But the rest of them it looks like you filled.  Are you still taking the amlodipine?
+
+PATIENT X574
+Uh-huh.
+
+DOCTOR X574
+It says that you last filled it in July.
+
+PATIENT X574
+July.
+
+DOCTOR X574
+You must still have some left.
+
+PATIENT X574
+July, what month is this?  Yeah you can give me a 90 day supply.
+
+DOCTOR X574
+Alright.
+
+PATIENT X574
+July also since October, now only in July, I still got some, okay yeah I still got some left.  
+
+DOCTOR X574
+@@@.
+
+PATIENT X574
+Okay.  So the one I say you got an order on that right?  
+
+DOCTOR X574
+Uh-huh.
+
+PATIENT X574
+Okay.
+
+DOCTOR X574
+I'm typing it in right now.
+
+PATIENT X574
+Alright.
+
+DOCTOR X574
+And tell me what you've been doing with your diet.
+
+PATIENT X574
+I've been, I've been trying to get those 3 1/2 meals.  I'm trying to get always three in.  Sometimes I can get it in and sometime I can't but I'm going to the gym every day.  I don't know it just don't feeling like the weight wanna come off.  It don't, it's just I don't understand it you know.  And the more I work out, it like it just stays.  You think I got a ulcer or something cause they had to put me.  I had the stomach, one of them showing @@@.  Uh @@@ thing you gave me when they.
+
+DOCTOR X574
+The ultrasound?
+
+PATIENT X574
+Yeah it didn't show no adenoma @@@.
+
+DOCTOR X574
+No are you having stomach pain?
+
+PATIENT X574
+No, I just can't understand why my stomach won't go down you know.  I'm doing sit-ups, I'm riding a bike and I don't know what's wrong with this thing.  I'm thinking I might have Crohn's disease or something.  I ain't got Crohn's disease do I?
+
+DOCTOR X574
+No, that usually makes people not gain weight but they have a lot of diarrhea and constipation.
+
+PATIENT X574
+But do they @@@.
+
+DOCTOR X574
+Not as much no.  Not the same in that, it all just comes out the other end.
+
+PATIENT X574
+@@@ see if they got that suction and the stomach @@@.  I got to have some help with this thing.  I know what I'm doing maybe it ain't working, it ain't working.  
+
+DOCTOR X574
+Do you feel like your pants are getting loser or you're getting more muscle?
+
+PATIENT X574
+I well I'm getting more, I'm getting stronger, I'm getting stronger but some of my clothes uh getting lose you know.  I can see, sometimes I can lose, I feel like I losing inches you know and then but the weight is still there and like uh two weeks ago I weighed and I was 297.5, now this morning I'm 299, that pound and a half come from less than a week and a half, less than two weeks.  And I want you know, I don't know, I don't know.  It seems like it just, it's hard to take a deep breath of air, it'll be 30 pounds.  
+
+DOCTOR X574
+I know some people will actually notice their weight will stay about the same or even go up if they start working out because muscle weighs more than fat.
+
+PATIENT X574
+As a matter of fact, I been training at the gym so I know all about that.  My thing is me, why I can't, I'm doing everything I @@@ to get rid of this stomach and it don't seem to be working you know.  I need help, I need, even if I gotta go somewhere else and see if they can do that uh stomach stapling or that liposuction.  
+
+DOCTOR X574
+Uh-huh.
+
+PATIENT X574
+I need something like that cause it would take me ten years if I could do it but this ain't working for me.
+
+DOCTOR X574
+Do you have any supplemental insurance on top of what the VA has for you?
+
+PATIENT X574
+No.
+
+DOCTOR X574
+Okay.  So if we look for something I'll try to, I'll ask the attending to see if they know if the procedures they do it here if you are eligible.
+
+PATIENT X574
+Right and it @@@ it hinders or helps you know.  It's not making me feel any better and uh and messing with my blood pressure, it got to be cause all of this weight and stuff you know so.  Just like you could recommend it.
+
+DOCTOR X574
+Uh-huh.
+
+PATIENT X574
+You know.  But it is interfering.
+
+DOCTOR X574
+@@@ ultrasound.
+
+PATIENT X574
+Okay.
+
+DOCTOR X574
+@@@ it's about the same as the last time it was done.
+
+PATIENT X574
+Yeah I don't know.  @@@.  I don't understand what's going on, what's going on.
+
+DOCTOR X574
+Gotcha.
+
+PATIENT X574
+Uh last week, I @@@ know anything about the gym and how to get their weight and things.
+
+DOCTOR X574
+Uh-huh.
+
+PATIENT X574
+But I was, I squat 505 pounds, three reps.
+
+DOCTOR X574
+505?
+
+PATIENT X574
+Uh-huh.
+
+DOCTOR X574
+That's a lot.
+
+PATIENT X574
+It is a lot but I'm getting stronger but I can't lose this stomach you know.  In that in the gym I lift weights, the cardiac machine, I'm constantly on it and I don't know.  I don't want to do it too much because your stomach would turn into muscle.
+
+DOCTOR X574
+Uh-huh.
+
+PATIENT X574
+You know then I'm just stuck with a big old muscle.
+
+DOCTOR X574
+@@@.
+
+PATIENT X574
+Yeah then it'd be out to here and I never would be able to give you a big old, like I got a six month baby stomach muscle but the fact is I can't get rid of it anyway because of the muscle you know.  I don't know about that, I don't know.  It's a dilemma for me.  You know, I don't and I can't and my clothes, I don't like the way I look in my clothes now.  Man, I don't look the same, my stomach.  I like I'm neat, I like to look good but this thing here causes a problem for me and see it ain't shaking my confidence cause I can deal with anything but I just don't like the way I look but I'm not gonna you know.  I don't know it's, it's a hassle.  I'm just, maybe I'm too vain but I don't want this stomach I know that.
+
+DOCTOR X574
+@@@.
+
+PATIENT X574
+Yeah.  You know I can't predict anything.  I'm working out hard and it's not working.
+
+DOCTOR X574
+Let me take a listen to your heart and lungs.
+
+PATIENT X574
+Okay sure.
+
+DOCTOR X574
+What kind of @@@.
+
+PATIENT X574
+Okay.
+
+DOCTOR X574
+You haven't seen DOCTOR since you saw.
+
+PATIENT X574
+No, did he go to Kentucky with his people?
+
+DOCTOR X574
+He's still here.  I don't, he doesn’t have clinic today here.
+
+PATIENT X574
+Oh.
+
+DOCTOR X574
+He had an overnighter in the hospital or something.
+
+PATIENT X574
+Uh.
+
+DOCTOR X574
+Deep breath.  But I know that he was just talking about you.
+
+PATIENT X574
+Was he?  He cool.  He supposed to go into a, sometime @@@.
+
+DOCTOR X574
+Yeah.
+
+PATIENT X574
+I got those socks that I wear too, you know support hose.
+
+DOCTOR X574
+Yeah, compression stockings.
+
+PATIENT X574
+Yeah I wear those too.
+
+DOCTOR X574
+Good.
+
+PATIENT X574
+Um he come right here or came back from Kentucky, called a snakehead on me, see I got one of the snakehead but he gonna get me another when he go gets his parents.
+
+DOCTOR X574
+I'll mention it to him.
+
+PATIENT X574
+Well he had better not forget.
+
+DOCTOR X574
+I'll be right back.
+
+PATIENT X574
+Alright.
+
+(DOCTOR OUT:  13:15  DOCTOR IN:  26:02)
+
+PATIENT X574
+I thought you had a Code Blue.
+
+DOCTOR X574
+@@@ where it was.  I think they announced like three different locations.
+
+PATIENT X574
+I thought they said @@@ was.
+
+DOCTOR X574
+They said it was in the @@@ tower and then they said the Reception Center and then @@@.
+
+PATIENT X574
+Yeah but then they said something about @@@.
+
+DOCTOR X574
+Yeah we have a Code Team that will go.
+
+PATIENT X574
+Okay.
+
+DOCTOR X574
+DOCTOR went to find a prescription pad.
+
+PATIENT X574
+Okay.
+
+DOCTOR X574
+He'll be in shortly.
+
+PATIENT X574
+Alright.
+
+DOCTOR X574
+But we need, so I talked to him a little bit about what options that we have and unfortunately we don't have anyone who does liposuction here.
+
+PATIENT X574
+Did you check with xxx?
+
+DOCTOR X574
+Huh?
+
+PATIENT X574
+xxx xxx?
+
+DOCTOR X574
+I don't know cause we don't have anyone here that works at xxx.
+
+PATIENT X574
+Yeah but I can go to xxx and have it done because if xxx do it.
+
+DOCTOR X574
+They might have it.
+
+PATIENT X574
+Yeah but you gonna check, how you gonna check with xxx see if xxx handles it cause if you don't have doesn't mean xxx don't have it.
+
+DOCTOR X574
+No I mean I don't think the VA has this.
+
+PATIENT X574
+Oh, oh I gotcha.  Okay I see they probably that's something for me to do okay.
+
+DOCTOR X574
+Yeah.
+
+PATIENT X574
+Alright.
+
+DOCTOR X574
+And then.
+
+PATIENT X574
+I got you, I understand.  Uh but you say you don't think VA has it so you really don't know.
+
+DOCTOR X574
+No we do have a VA Plastic Surgery section but they do more things like skin flaps or like reconstruction of someone's you know broken their hand and they need to cover the area that's not healing well.  I've never seen anyone there do anything like liposuction.
+
+PATIENT X574
+There's probably a first time for everything.
+
+DOCTOR X574
+No.
+
+PATIENT X574
+@@@ you know you never saw you have to ask them and see if, just if they do either.  You got to guess you know you not certain.
+
+DOCTOR X574
+Okay.
+
+PATIENT X574
+Alright.  You're not certain of it.  And did you guys decide whether I take my lisinopril?
+
+DOCTOR X574
+Hold on one second, are you still smoking?
+
+PATIENT X574
+Yes.
+
+DOCTOR X574
+They do have a bariatric surgery that does bypass and banding around the stomach.
+
+PATIENT X574
+Uh yeah actually that's two of them.
+
+DOCTOR X574
+Yeah they won't do, we don't have a plastic surgery that does liposuction but bariatric surgery we do have but you can't be smoking.
+
+PATIENT X574
+Well then when do I got to stop?
+
+DOCTOR X574
+As soon as possible.  Cause they won't even see you.
+
+PATIENT X574
+Okay.  Alright @@@.  This one, this is going to make me stop so I got to, okay let me tell you this, I'm not gonna stop today, but this will be my last week, how's that?
+
+DOCTOR X574
+Okay.
+
+PATIENT X574
+This be my last week, after this week the next time you see me I'm not smoking.
+
+DOCTOR X574
+Okay.
+
+PATIENT X574
+Now okay, that's my promise.
+
+DOCTOR X574
+Have you ever had any abdominal surgeries before?
+
+PATIENT X574
+No but I've had my stomach, I had open heart surgery.
+
+DOCTOR X574
+Okay.  They just wonder how complicated it's gonna be.  Because the more surgeries you have the more scar tissue you have.
+
+PATIENT X574
+No, no, no.  I don't know if I have no scar, but I don't go out naked.
+
+DOCTOR X574
+Okay.
+
+PATIENT X574
+I'm gonna stop smoking, Friday or Saturday is my last day.  How can I prove it that I don't smoke.
+
+DOCTOR X574
+So when you go talk to them you.
+
+PATIENT X574
+Can I go, okay you gonna put in an appointment.
+
+DOCTOR X574
+I'm putting in a referral.
+
+PATIENT X574
+Right.  
+
+DOCTOR X574
+You've been to the MOVE Program before right and you've seen them at least a couple of times.
+
+PATIENT X574
+Uh-huh.
+
+DOCTOR X574
+Alright cause they will ask you and you will have had to have seen the MOVE Program.
+
+PATIENT X574
+Uh-huh.
+
+DOCTOR X574
+At least for a couple of months to prove that you really tried to lose the weight.
+
+PATIENT X574
+Uh-huh, uh-huh.
+
+DOCTOR X574
+And it's not working.  So I put a note in, so we'll do the same thing.  They'll try to schedule you up front so they'll give you, uh they'll either call you with an appointment to the xxx specialist.
+
+PATIENT X574
+Okay.  Now did you go ahead and @@@ lisinopril right?
+
+DOCTOR X574
+Um.  We're gonna go up on one of the other.
+
+PATIENT X574
+Oh I don't know if I'm taking one.
+
+DOCTOR X574
+You're on carvedilol.
+
+PATIENT X574
+That's not for high blood pressure.
+
+DOCTOR X574
+It helps with the blood pressure too.
+
+PATIENT X574
+Does it?
+
+DOCTOR X574
+Uh-huh.
+
+PATIENT X574
+Okay.  Hey doc how you doing?  Good to see you, good to see you.
+
+SECOND DOCTOR X574
+Hi.  Uh so uh here's your script.
+
+PATIENT X574
+Okay.
+
+SECOND DOCTOR X574
+Um and um it turns out while there is a Bariatric Program here but you have to have your BMI has to be greater than 40 um and you have to have um a variety of criteria, have you looked in there?
+
+FIRST DOCTOR X574
+Yeah.
+
+SECOND DOCTOR X574
+For complications.
+
+FIRST DOCTOR X574
+Above 40 straight out or between 35 and 40 with one or two of the following either hypertension, diabetes, OSA.
+
+SECOND DOCTOR X574
+Is that in the criteria here as well?
+
+FIRST DOCTOR X574
+Uh-huh.
+
+SECOND DOCTOR X574
+Okay.
+
+FIRST DOCTOR X574
+So he does quality for a referral but he has to stop smoking.
+
+PATIENT X574
+Uh this is my last week.
+
+FIRST DOCTOR X574
+And he has the referral to, we talked about that.
+
+PATIENT X574
+But uh yeah.  It's about what I need to stop smoking anyway, a push.
+
+SECOND DOCTOR X574
+You might be right.  And you know again you want to think hard about going through something like this to have surgery you know.
+
+PATIENT X574
+Yeah.  I've thought about it.  I been thinking about it you know and it, it's just my back is hurting a lot, cause you know there's a lot of weight in my stomach its heavy.
+
+SECOND DOCTOR X574
+Right.
+
+PATIENT X574
+You know and my pressure goes up and down you know.
+
+SECOND DOCTOR X574
+Exactly.  Alright well you can at least meet them and see what you think.
+
+PATIENT X574
+Yeah.
+
+SECOND DOCTOR X574
+And they can take a look at you.
+
+PATIENT X574
+Alright.  Well I appreciate you gonna do the referral.
+
+SECOND DOCTOR X574
+Sure okay and we'll go up on your blood pressure medicine too.
+
+PATIENT X574
+You got that.
+
+SECOND DOCTOR X574
+We'll get that squared away.
+
+PATIENT X574
+Okay.
+
+SECOND DOCTOR X574
+And then we'll recheck his labs.
+
+FIRST DOCTOR X574
+Uh-huh.
+
+SECOND DOCTOR X574
+His creatinine and his uh potassium.
+
+PATIENT X574
+Okay.
+
+SECOND DOCTOR X574
+So um.  Alright.
+
+PATIENT X574
+Alright doc, thanks a lot now.
+
+SECOND DOCTOR X574
+You bet.
+
+PATIENT X574
+Uh-huh.
+
+FIRST DOCTOR X574
+So @@@ we're gonna check your labs today.
+
+PATIENT X574
+Uh-huh.
+
+FIRST DOCTOR X574
+To make sure you're potassium.
+
+PATIENT X574
+You gonna look at all that yeah, I got to go back up to the Lab to get it checked?
+
+FIRST DOCTOR X574
+Yep.
+
+PATIENT X574
+Right now, okay, you gonna close me out right?
+
+FIRST DOCTOR X574
+Yes.
+
+PATIENT X574
+Alright so I go down and do that.  I gonna go to the Lab right now and let them get my lab and then I'm gonna go pick up my money, then I'm gonna go to the Pharmacy and @@@.
+
+FIRST DOCTOR X574
+Uh-huh.
+
+PATIENT X574
+And then I be out of here.
+
+FIRST DOCTOR X574
+Yep and you wanted the rest of your medications to come through the mail.
+
+PATIENT X574
+Right, right.
+
+FIRST DOCTOR X574
+So you're only picking one thing up.
+
+PATIENT X574
+Right.  But DOCTOR, as always you've been on top of it.
+
+FIRST DOCTOR X574
+Alright.
+
+PATIENT X574
+You uh I never leave here disappointed.  As always @@@.
+
+FIRST DOCTOR X574
+@@@.
+
+PATIENT X574
+Yes, you know we got to help each other now, you know.  I got to put in a good word for you.  @@@ other patients @@@ she's real good.
+
+FIRST DOCTOR X574
+@@@.
+
+PATIENT X574
+@@@.
+
+FIRST DOCTOR X574
+Don't get me started on @@@.
+
+PATIENT X574
+And I take this to the desk?
+
+FIRST DOCTOR X574
+Yeah.  And see if they can make you an appointment straight up, otherwise.
+
+PATIENT X574
+Oh okay.
+
+FIRST DOCTOR X574
+You'll have to wait for them to call you.
+
+PATIENT X574
+Alright doctor, I do appreciate it.
+
+DOCTOR X574
+So I'll set you up right now.
+
+PATIENT X574
+Good.  I'll see you later.
+
+DOCTOR X574
+Alright.
+
+PATIENT X574
+And when you see me @@@ don't forget now I ain't gonna be the same.
+
+DOCTOR X574
+Well maybe I'll see you next time.
+
+PATIENT X574
+Alright open or close?
+
+DOCTOR X574
+Open is fine.
+
+PATIENT X574
+Alright see you later.  Uh-huh.
+
+DOCTOR X574
+Now the next time you'll see me @@@.
+
+PATIENT LEAVES:  33:44.
+
+
+
+
+

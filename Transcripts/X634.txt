@@ -1,0 +1,697 @@
+
+
+DOCTOR X634
+PATIENT.
+
+PATIENT X634 
+Over here.
+
+DOCTOR X634
+Oh yeah.
+
+PATIENT X634
+That's me.
+
+DOCTOR X634
+Alright nice to see you.
+
+PATIENT X634
+Good to see you too.
+
+DOCTOR X634
+Right in here.
+
+PATIENT X634
+Okay.
+
+DOCTOR X634
+Alright sir.  What brings you in here today?  Just a regular follow-up?
+
+PATIENT X634
+Just a regular call plus I need, I need to two appointments, two new appointments.  I need an appointment to hearing, to get my ears checked on the 4th floor at the hearing station and plus I need a dermatologist appointment.
+
+DOCTOR X634
+Okay.  What's your dermatologist appointment for?
+
+PATIENT X634
+I got an itch that's going on a month and a half and I can't seem to get rid of it, it just gets worse.
+
+DOCTOR X634
+Okay where have you noticed it?
+
+PATIENT X634
+Oh it's on the heel on both sides, sometimes all around the rash, on the shoulder, on this arm here and this shoulder now.
+
+DOCTOR X634
+Okay what have you tried for it?
+
+PATIENT X634
+And right down here.
+
+DOCTOR X634
+What have you tried for it?
+
+PATIENT X634
+Huh?
+
+DOCTOR X634
+What have you tried for it?
+
+PATIENT X634
+I got all kinds of stuff.
+
+DOCTOR X634
+Creams and stuff.
+
+PATIENT X634
+It's stuff.  They gave me, I got a liquid that I put on it and it helps and I also bought some other itch.  I think I need an allergy, a good allergy pill or something inside.
+
+DOCTOR X634
+Okay.  Um.
+
+PATIENT X634
+It comes on me worse when I eat, after I eat.
+
+DOCTOR X634
+After you eat. 
+
+PATIENT X634
+It seem to attack other than that sometime I don't even notice I have an itch.
+
+DOCTOR X634
+Alright do you have uh, do you notice any rashes or anything?
+
+PATIENT X634
+Not that I know of.
+
+DOCTOR X634
+Does this spot really itch or not?
+
+PATIENT X634
+It may be nerves cause sometimes I've been scratching on it a bit.
+
+DOCTOR X634
+So a couple uh a few months ago you came in with some swelling in your legs, how has that been doing?
+
+PATIENT X634
+It's doing pretty good.  I also had to come in because of the itching.  Twice I was given a different itch medicine to stop the itch.  It all helped, but there's nothing permanent.
+
+DOCTOR X634
+Okay.
+
+PATIENT X634
+What are suggesting or think it is?
+
+DOCTOR X634
+Uh that's a good question um.  It affects your life sometimes.
+
+PATIENT X634
+And see I went to see a dermatologist.
+
+DOCTOR X634
+Yeah.
+
+PATIENT X634
+I figured from what I explained to him, he was getting an idea as to what is happening.
+
+DOCTOR X634
+Yeah they have a little more experience with that.  We'll talk with DOCTOR and see if he has any information, if he has any ideas.  Um.
+
+PATIENT X634
+Would I be able to talk to DOCTOR before I leave here?
+
+DOCTOR X634
+Yeah I'll talk to him.
+
+PATIENT X634
+Oh good.
+
+DOCTOR X634
+At least um and then I'll tell him what's been going on so.
+
+PATIENT X634
+I have trouble sleeping.  I have to almost put the stuff all over my body in order to be able to get to sleep.
+
+DOCTOR X634
+And uh have you tried anything other than creams?  Did they ever give you a pill for the itching?  Or has it always been creams.
+
+PATIENT X634
+Say what?
+
+DOCTOR X634
+Have they ever given you a pill for the itching or has it always been creams?
+
+PATIENT X634
+No nothing to go inside, just something for the outside, an ointment and liquid kind of stuff.  
+
+DOCTOR X634
+Okay.
+
+PATIENT X634
+And an itch cream called male something and I got two bottles of that and then I got an ointment, its hydro something that supposed to keep you from.
+
+DOCTOR X634
+Hydrocortisone?
+
+PATIENT X634
+Yes.
+
+DOCTOR X634
+Did that help some?
+
+PATIENT X634
+I don't know I haven't used much of it yet.
+
+DOCTOR X634
+Oh okay.  When did you get that?
+
+PATIENT X634
+I got that a week and a half ago I think when I was here.
+
+DOCTOR X634
+Okay.  That was the uh.
+
+PATIENT X634
+I picked it up and the doctor who prescribed it said it might help it.
+
+DOCTOR X634
+The oncologist?  DOCTOR?
+
+PATIENT X634
+I can't say for sure.
+
+DOCTOR X634
+Okay.  Um but you haven't used the cortisone cream much, the hydroxy cortisone?
+
+PATIENT X634
+Do I have any?
+
+DOCTOR X634
+Yeah the one they just started you on.
+
+PATIENT X634
+I got it when I was here before but I found out I got enough now for about three weeks.
+
+DOCTOR X634
+Okay.  Did they give it to you, have you been using it?
+
+PATIENT X634
+Uh I use it every day, I take one pill.
+
+DOCTOR X634
+What about the cream?
+
+PATIENT X634
+Oh the cream?
+
+DOCTOR X634
+Yeah.  
+
+PATIENT X634
+I haven't used the cream.
+
+DOCTOR X634
+Okay.
+
+PATIENT X634
+I use that but the stuff seems to be doing pretty good when I put it on me.
+
+DOCTOR X634
+Okay.  Well maybe what we'll do is give that cream a shot cause that cream usually stops itching.
+
+PATIENT X634
+Yes.
+
+DOCTOR X634
+Yeah.  Um so I think that they were on the right track cause that's a good idea.
+
+PATIENT X634
+Is there anything that I take inside that might help?
+
+DOCTOR X634
+I'm not sure there is for the type of @@@.
+
+PATIENT X634
+I have a xxxadryl or something like that that uh.
+
+DOCTOR X634
+Right.  The problem is that the xxxadryl can also have other affects and can make you tired and kind of goofy and so we're.
+
+PATIENT X634
+I'm tired about this.
+
+DOCTOR X634
+Right.  We don't want to make that any worse.  Um and some of the reason you're tired is cause you haven't been sleeping too well.  I think the cream is a good way to go though for starters.  Um first off it feels pretty good if you're itching and it does decrease the itch a fair amount.
+
+PATIENT X634
+Well I'm trying to locate exactly what it is and get rid of it.
+
+DOCTOR X634
+Right.  So that's.
+
+PATIENT X634
+I'm checking my food.  I drank a whole lot of tea, all kinds of tea.  I quit all of it, all of a sudden, cause my daughter told me that's bad on my liver.  I said well it could be.  I said I don't have to have it.  I'm trying to check my sugar and my salt and trying to get an idea as to what's creating this.
+
+DOCTOR X634
+Yeah so it looks like it's not your liver um cause the last time I checked your liver that was fine.  Sometimes that can cause something.  Um and you're not on it, sometimes some pain medications cause itching but it doesn't look like you're on any of those either.  So um not totally sure what it is but I think and we don't see any rashes.  If we saw rashes then Dermatology might be even, they have a lot more information for us.  Since it's just kind of a.
+
+PATIENT X634
+Well my skin now is a you know a funny color in the last month.
+
+DOCTOR X634
+Uh-huh.
+
+PATIENT X634
+It's giving signs and something like a puzzle or something.
+
+DOCTOR X634
+Yeah so we'll talk to DOCTOR.  I think we should give the cream that they prescribed you, the hydrocortisone cream.  I think we should give that a shot and if that doesn't do it then we can maybe get you a dermatology appointment.  But I'll talk to DOCTOR and see how he feels.  Um any problems with your heart?  Any chest pain, trouble breathing?
+
+PATIENT X634
+No I haven't.  I @@@ she never mentioned a concern with my heart too.
+
+DOCTOR X634
+Okay.
+
+PATIENT X634
+In 08 I took an operation where they run a wire up from your legs.
+
+DOCTOR X634
+Yeah.
+
+PATIENT X634
+To your heart and it sort of stopped an intermittent condition.
+
+DOCTOR X634
+Okay.
+
+PATIENT X634
+I didn't never get the full results of that and DOCTOR is still giving me a heart pill that relaxes my heart to a certain extent.
+
+DOCTOR X634
+Right.  So.
+
+PATIENT X634
+I got the operation, one of them wasn't necessary I guess.
+
+DOCTOR X634
+So what I'll do, let me see if I can bring up the report here.
+
+PATIENT X634
+I'd like to get more information on it.  Is it in my files?
+
+DOCTOR X634
+So it should be.  Let's see if it's in here.  I'll look a little bit further.  Back in June of 2008.  There we go.  
+
+PATIENT X634
+Do you think a dermatologist would be able to give a better idea as to what's happening?
+
+DOCTOR X634
+Well I'm not sure that they would without a rash.
+
+PATIENT X634
+I don't know whether I got a rash or not.
+
+DOCTOR X634
+Okay we can take a look.
+
+PATIENT X634
+Fine with me.
+
+DOCTOR X634
+Alright.  
+
+PATIENT X634
+Start right here where it itch and on the side and I been scratching and I might have a little rash right now.
+
+DOCTOR X634
+Yeah it looks a little bit irritated.  That might be some from your scratching.
+
+PATIENT X634
+Yeah it's just on the outside.
+
+DOCTOR X634
+That sort of thing.
+
+PATIENT X634
+And down here some on my stomach and right in my back, right across halfway on the back.
+
+DOCTOR X634
+Take a look at the back here.
+
+PATIENT X634
+Huh?
+
+DOCTOR X634
+So I don't see anything that looks like it's.  Yeah sometimes, I'm sure it's itching.  I'm sure that's not the.
+
+PATIENT X634
+Well that's the reason I figure I've gotten the hydrocortisone as well as the male something which is a liquid.
+
+DOCTOR X634
+Uh-huh.
+
+PATIENT X634
+I've tried all of them.  They are helpful but I want to get rid of it.  It keep getting a little worse, a little worse and I need a better.  Somebody that know more about it or give me a good ideas as to what's going on.
+
+DOCTOR X634
+Well I'll talk to DOCTOR and see if we can get this in line.
+
+PATIENT X634
+Did you see any rash?
+
+DOCTOR X634
+I didn't.
+
+PATIENT X634
+I try to scratch as less as possible.  Now that it don't bother me too much during the day.  In your opinion do you think a dermatologist would help?
+
+DOCTOR X634
+Well that's the question that we need to answer um.  They are really good with the skin and that's what they deal with day in and day out so they're good with skin conditions.
+
+PATIENT X634
+Yeah.
+
+DOCTOR X634
+Um and without a rash then it's kind of a toss-up and they might have enough information or they might say why did you send him here he doesn't have a rash.  That's kind of what the question we need to answer.  So if we think that they're gonna provide us some useful information then we could send you over there um.  Let's take a look at your legs quick.  You had swelling in the past.  I'll talk to DOCTOR and see what he thinks.  I know he's seen you in the past before.  Uh the swelling has been better than it had been?
+
+PATIENT X634
+No it's not too bad, it's tender now.  It's very tender.
+
+DOCTOR X634
+Tender there yeah.  Um do you wear compression stockings at all?
+
+PATIENT X634
+Off and on.
+
+DOCTOR X634
+Okay.
+
+PATIENT X634
+I put them on and sometime I have to get them off in a hurry as my legs start cracking.
+
+DOCTOR X634
+Okay.
+
+PATIENT X634
+I feel more comfortable without them.  I sleep with a pillow under my feet trying to make the blood pressure better.  Then they get crossed at night and sometimes if I don't drink enough water I have to get up and get out of bed and get the circulation going.
+
+DOCTOR X634
+Yeah.
+
+PATIENT X634
+Then you got to course over the xxx xxx for the clots in the leg and I'm thinking on joining them over there for a while to see if they can find out what's creating the cracks.  I get on my knees, I only stand on my knees ten minutes and then up in my thought they're saying the blood starts clouding up and everything is getting hard.
+
+DOCTOR X634
+Uh-huh.  Are you still taking aspirin?
+
+PATIENT X634
+I took an aspirin today.  I take one in the day and sometime I take one at night but.
+
+DOCTOR X634
+Okay.
+
+PATIENT X634
+I take one a day anyway.
+
+DOCTOR X634
+Alright and do you get that from us or do you get that from somewhere else?
+
+PATIENT X634
+I get them somewhere else.
+
+DOCTOR X634
+Okay that's fine.  Um let's see.  Uh any problems urinating?
+
+PATIENT X634
+I didn't hear that.
+
+DOCTOR X634
+Any problems urinating?
+
+PATIENT X634
+No.  I take a good pill for that.
+
+DOCTOR X634
+Okay.
+
+PATIENT X634
+It's called tamsulosin and that's very good.
+
+DOCTOR X634
+Alright that's fine.
+
+PATIENT X634
+It keeps me regulated.
+
+DOCTOR X634
+Have you gotten a pneumonia shot in the past?  The pneumonia shot?
+
+PATIENT X634
+Say what?
+
+DOCTOR X634
+Have you got a pneumonia vaccination in the past?
+
+PATIENT X634
+Oh yes.  That's been about six years ago.
+
+DOCTOR X634
+Okay.  That's in 2001 and that's been nine years.  Alright, I'll go talk to the boss okay.
+
+PATIENT X634
+Okay.
+
+DOCTOR X634
+And I'll be back.
+
+(DOCTOR OUT:  35:40  DOCTOR IN:  41:27)
+
+DOCTOR X634
+Alright so I'll put in a couple of consults and he does think it's not gonna hurt to get you to see Dermatology so we're gonna put that in.  And you haven't ever seen them before is that correct?  You haven't ever seen them?
+
+PATIENT X634
+Huh?
+
+DOCTOR X634
+You haven't ever seen Dermatology?
+
+PATIENT X634
+No.  Can we tell them it's necessary for the doctor to come up with something that we use on the outside?
+
+DOCTOR X634
+Yeah hopefully we'll see what they say um and how long has the itching been going on again?
+
+PATIENT X634
+About a month and a half.  I used to take use some pills they called xxxadryl that I used to take for allergies or something.
+
+DOCTOR X634
+Yeah they still do that but like we talked about it can sometimes cause you to be, so it makes you tired and a little bit loopy and once people get above about 65, which you're a little bit above that, we try not to give it cause it sometimes can make you too tired and makes you confused so we want to avoid that.  Looks like you're really with it here.
+
+PATIENT X634
+And if it solves the purpose I have @@@ of it.
+
+DOCTOR X634
+Uh it's kind of a risk and benefit.  I think we'll see if there's anything else we can do cause we'd rather have you a little bit itchy and alert than confused and not.
+
+PATIENT X634
+Uh what did DOCTOR say?
+
+DOCTOR X634
+He said we'll get you to see Dermatology and see if they give us anything, any information.
+
+PATIENT X634
+Yeah that's something would ease my mind.
+
+DOCTOR X634
+We'll have them schedule that out front.
+
+PATIENT X634
+Did he say anything about that heart examination I got?
+
+DOCTOR X634
+He actually looked at it and it looked like it was um, there's some atherosclerosis which is like the vessels being a little bit um, a little bit narrowed but there's nothing, like no like lesion there that's causing your problem.  There's no blockages.
+
+PATIENT X634
+Or did that correct the intermittent heartbeat?
+
+DOCTOR X634
+So that probably didn't correct it um.  Or did you have a procedure where they went in and like burned some of the heart tissue?
+
+PATIENT X634
+I don't know, you know he went up in there with a wire sort with something on the end, it was supposed to do its job but it was I'd have to read the full report again.
+
+DOCTOR X634
+And you just had that once is that right?
+
+PATIENT X634
+Yes, that way.
+
+DOCTOR X634
+Okay so yeah what they did is they checked um, they checked the uh vessels of the heart to make sure that wasn't causing the problem and that wasn't it and so they just put you on the medications, one of the medications you're on is to control the heart rate and so that was the plan.  
+
+PATIENT X634
+So he said that heart wasn't in uh.
+
+DOCTOR X634
+So your heart rate's fine now which is what we really look at.  That's kind of how we follow it.  Okay.  So you've seen the ear doctors about your hearing aid right?
+
+PATIENT X634
+Yes I've seen, they tuned up my hearing aid.
+
+DOCTOR X634
+Okay.
+
+PATIENT X634
+And told me that I'd have to get a confirmation or something to get my ears checked Thursday so that the hearing aids are the correct ones for my hearing.
+
+DOCTOR X634
+Okay so you're gonna go back to the Audiology Department?
+
+PATIENT X634
+Yes.
+
+DOCTOR X634
+Okay.  We can set that up.  So what we'll do is, you can take this paper out front, they'll schedule the appointment for the hearing aid in a couple weeks, Dermatology hopefully within two weeks.  I'm not sure how long it takes to get in there.  It might be a little bit longer than that.
+
+PATIENT X634
+Alright.
+
+DOCTOR X634
+And then uh you'll come back here in about four months.  So it looks like, do you need any refills on your medications?
+
+PATIENT X634
+I don't know do I?
+
+DOCTOR X634
+Let's see.
+
+PATIENT X634
+Take a quick look for me.  He got a DOCTOR got very good hopes I'd be alive four months from now.
+
+DOCTOR X634
+Yep.  He does.  And you get your medications in the mail?
+
+PATIENT X634
+I'll pick it up.
+
+DOCTOR X634
+Oh you pick it up.
+
+PATIENT X634
+They send some in the mail; it's something they take out every year.
+
+DOCTOR X634
+Okay.  Alright it looks like you've got, looks like you've got enough medications so you should be set.
+
+PATIENT X634
+I have any refills on all of them?
+
+DOCTOR X634
+Yep you've got refills on everything.
+
+PATIENT X634
+Good, that's fine.  I hope I don't have to itch before I see Derm.
+
+DOCTOR X634
+Yeah you should be able to see them before it itch gets bad.
+
+PATIENT X634
+Wonder if the dermatologist possibly could tell me, if he has any ideas of what's going on I think, he should have.
+
+DOCTOR X634
+Hopefully yeah, hopefully.  See if they have any reminder for me before you go.  Sometimes they have some questions that they want us to ask you every once in a while.  
+
+PATIENT X634
+You're not giving me any type of medicine or anything I think.
+
+DOCTOR X634
+Nothing new.
+
+PATIENT X634
+Nothing new.
+
+DOCTOR X634
+Uh do you use tobacco?  Do you still smoke?  Have you ever smoked?
+
+PATIENT X634
+Yes.  Like a chimney.
+
+DOCTOR X634
+When did you quit?
+
+PATIENT X634
+Oh I quit about 24 years ago.
+
+DOCTOR X634
+Oh wow alright.  So about 1985, something like that.
+
+PATIENT X634
+Uh longer than that uh I quit smoking let's see after I was on my program for 7 years, I'm an alcoholic.
+
+DOCTOR X634
+Okay.
+
+PATIENT X634
+So I quit drinking in '75 and it was seven years from '75 when I quit smoking.
+
+DOCTOR X634
+Uh '84.
+
+PATIENT X634
+Alright.  So it's been quite some time.
+
+DOCTOR X634
+Okay.  And um have you ever done something called an Advanced Directive?
+
+PATIENT X634
+Say that again.
+
+DOCTOR X634
+Have you ever done an Advanced Directive?  It basically is uh, you fill out a form that says what you'd want done in certain scenarios so.
+
+PATIENT X634
+You mean when you die?
+
+DOCTOR X634
+Well or before.  If something would happen where your health gets a little bit, gets worse.
+
+PATIENT X634
+I want them to do the best you can to keep me going.
+
+DOCTOR X634
+Okay.  Let's see.
+
+PATIENT X634
+I haven't lost faith in this world, even though it's cruel at times.
+
+DOCTOR X634
+Alright.  Alright sir that should do you.
+
+PATIENT X634
+Okay.
+
+DOCTOR X634
+Let us know if there's anything we can do for you in the meantime and they'll schedule those appointments out front.
+
+PATIENT X634
+All I do is take this out front?
+
+DOCTOR X634
+Yep, just show them at the front desk.
+
+PATIENT X634
+Okay thank you doctor.
+
+DOCTOR X634
+Alright sir, take care.
+
+PATIENT X634
+Leave the door open?
+
+DOCTOR X634
+Leave it open.
+
+PATIENT LEAVES:  51:45.
+
+

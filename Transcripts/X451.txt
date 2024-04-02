@@ -1,0 +1,560 @@
+
+DOCTOR X451
+PATIENT?
+
+PATIENT X451
+Hi doctor.
+
+DOCTOR X451
+@@@.
+
+PATIENT X451
+How you doing today?
+
+DOCTOR X451
+Good.
+
+PATIENT X451
+Good.
+
+DOCTOR X451
+All the way back.
+
+PATIENT X451
+Alright.
+
+DOCTOR X451
+How's everything going?
+
+PATIENT X451
+Good so far.
+
+DOCTOR X451
+How's the refereeing going?
+
+PATIENT X451
+Excellent, excellent.
+
+DOCTOR X451
+Excellent.
+
+PATIENT X451
+We're doing 502 games last year.
+
+DOCTOR X451
+502?
+
+PATIENT X451
+65 so far this year.
+
+DOCTOR X451
+Gee.
+
+PATIENT X451
+And you may be able to see that my blood pressure is down.
+
+DOCTOR X451
+Yes.
+
+PATIENT X451
+I don't want those cholesterol pills we were talking about.
+
+DOCTOR X451
+You don't want them?
+
+PATIENT X451
+No thanks.
+
+DOCTOR X451
+I thought I @@@ off them.
+
+PATIENT X451
+Well you told me you put me on something else too.  I thought if I didn't get my cholesterol down yeah.
+
+DOCTOR X451
+Yeah.  Did you start taking that other medicine though?
+
+PATIENT X451
+Yeah I started taking it but I didn't continue.
+
+DOCTOR X451
+Oh so I did two things last time.  I increased your blood pressure medicine.
+
+PATIENT X451
+Yes.
+
+DOCTOR X451
+So you've been taking that increased dose?
+
+PATIENT X451
+Yes, yes.
+
+DOCTOR X451
+And then you didn't take the cholesterol medicine?
+
+PATIENT X451
+No.  They started just making me feel kind of bad at first so.
+
+DOCTOR X451
+In what way?
+
+PATIENT X451
+Just kind of out of sorts.
+
+DOCTOR X451
+Okay.  I wish I'd come last week.  I was even lighter.  I was down to 183 last week.
+
+PATIENT X451
+You were, oh yeah you lost since the last time I saw you.
+
+DOCTOR X451
+Yes sir.  Well losing weight, you probably don't need that medicine then.
+
+PATIENT X451
+I'm just living a little better.
+
+DOCTOR X451
+Good.
+
+PATIENT X451
+My buddy NAME comes over.  I stopped him from coming over with that halftime juice.
+
+DOCTOR X451
+Not fun without alcohol?
+
+PATIENT X451
+No fun no, no.  Having one game and one of the kids asked me hey ref uh whose ball is that so at the time I said whose balls and I thought I don't know, so I had to go ask my partner whose ball is it?  And I said uh uh that's it.  You know when you really kind of a nondrinker you shouldn't mess with stuff like jam.
+
+DOCTOR X451
+Yeah it's better not to drink.
+
+PATIENT X451
+Dinner wine is okay?
+
+DOCTOR X451
+Huh, yeah, yeah.
+
+PATIENT X451
+Okay.
+
+DOCTOR X451
+How's the knee going?
+
+PATIENT X451
+Oh about the same.
+
+DOCTOR X451
+How often are you using the pain med?
+
+PATIENT X451
+Uh oh probably once a week.
+
+DOCTOR X451
+Okay.
+
+PATIENT X451
+And then my prescription ran out.  I was so surprised I went on to my Healthy Vet to order the naproxen and it was not there anymore.
+
+DOCTOR X451
+Alright.  I'll see if we can renew it.
+
+PATIENT X451
+Now I understand.
+
+DOCTOR X451
+How many, so you're taking it once a week.  How many pills do you usually take, is it like once a week?
+
+PATIENT X451
+Uh at least two and sometime I take two every four or six hours and if I keep that up for a day or so, maybe a day and a half I don't have any problem for a few weeks.
+
+DOCTOR X451
+So. The naproxen when you go back to @@@ take that twice a day.  And don't drink too much okay.
+
+PATIENT X451
+Okay.
+
+DOCTOR X451
+I mean don't take any more because it could hurt your kidneys.
+
+PATIENT X451
+Okay.
+
+DOCTOR X451
+Alright and not and it's not like kidney @@@.  If you need more, just take the Tylenol or something with it then okay.
+
+PATIENT X451
+Okay.
+
+DOCTOR X451
+But the naproxen take it twice a day or if you want to take it.
+
+PATIENT X451
+Well I don't take it every day.
+
+DOCTOR X451
+I know, I know, but when you do, just take it twice.
+
+PATIENT X451
+Okay.
+
+DOCTOR X451
+And it lasts a long time.
+
+PATIENT X451
+It does.
+
+DOCTOR X451
+That's why I requested it.  If you wanted something more often you can just take regular Advil or ibuprofen or something.
+
+PATIENT X451
+That's what I've been doing, since I been out of this for.
+
+DOCTOR X451
+Has that been working?
+
+PATIENT X451
+A couple of months.
+
+DOCTOR X451
+Ibuprofen.
+
+PATIENT X451
+Yeah.
+
+DOCTOR X451
+Okay, so let's keep doing that then okay.
+
+PATIENT X451
+Well actually I haven't been taking, what's the brand name for naproxen?
+
+DOCTOR X451
+Aleve.
+
+PATIENT X451
+Aleve.
+
+DOCTOR X451
+Oh I see, so you can take that twice a day.  You want me to give you some Tylenol or something, try that.  @@@.  You need refills on any other meds?
+
+PATIENT X451
+Yes.  Uh my blood pressure medicines I probably got at least another month, close to a month on those.  Uh happy pills, I've been out for a long time of those.
+
+DOCTOR X451
+You need more?
+
+PATIENT X451
+Yeah.
+
+DOCTOR X451
+Take off your jacket for me.  Can you stiffen the arm for one second?  Deep breath.  No chest pain, shortness of breath, no other problems, @@@ bowel problems?
+
+PATIENT X451
+Well you know I @@@.
+
+DOCTOR X451
+Alright.
+
+PATIENT X451
+And at one point I was seeing some blood until I found out that I had scratched myself with some itching and it wasn't coming from @@@ it was on the outside.
+
+DOCTOR X451
+Were straining a lot?
+
+PATIENT X451
+I was yeah, yeah.  I've been straining a lot, yeah.  Yeah that's kind of a common thing with hemorrhage.
+
+DOCTOR X451
+Do you have a lot of fiber in your diet?
+
+PATIENT X451
+Probably all kinds of things.  I don't know that I eat much fiber.
+
+DOCTOR X451
+Then you need more fiber.
+
+PATIENT X451
+Okay.
+
+DOCTOR X451
+You need to eat brown rice rather than white rice.
+
+PATIENT X451
+I do have some brown rice.
+
+DOCTOR X451
+So eat brown rice, that's better.
+
+PATIENT X451
+Okay.
+
+DOCTOR X451
+Eat wheat bread instead of white better, that's a lot better.
+
+PATIENT X451
+Okay I'll start eating wheat bread.
+
+DOCTOR X451
+It's the kind of eating foods like vegetables, fruit, they all have fiber.
+
+PATIENT X451
+I eat a lot of fruit uh, a lot of vegetables and I have been eating a lot of tomatoes and cucumbers, almost daily and maybe @@@.  I kind of thought that was.  Well this is what's happened about @@@ and when it's time for me to go to the bathroom sometime it's so intense that I almost don't make it uh before it comes.
+
+DOCTOR X451
+How often do you go to the bathroom?  Do you know?
+
+PATIENT X451
+Four times a day at least and that's the normal and getting up all night.
+
+DOCTOR X451
+Having trouble urinating or?
+
+PATIENT X451
+Bowel movements.
+
+DOCTOR X451
+Four bowel movements a day?  I mean is it diarrhea or is it hard?
+
+PATIENT X451
+It's mixed.  It's not diarrhea.
+
+DOCTOR X451
+Well let me try you on a stool softener then to make sure you're not constipated.
+
+PATIENT X451
+You know I really don't feel constipated.  It's just I guess when I do go like, it's just I have to try to make sure that everything gets out.
+
+DOCTOR X451
+Don't do that okay.  Relax, don't strain. Straining will cause hemorrhoids and @@@ and then you get hemorrhoids and @@@ will cause fissures and then it really can go down @@@ okay.  So try to get a lot more fiber in your diet and then don't strain.
+
+PATIENT X451
+I @@@.
+
+DOCTOR X451
+Well you know anything that has high fiber.  You can even just take some fiber supplements if you want.  @@@ it's better to do that okay.  
+
+PATIENT X451
+Uh that's.
+
+DOCTOR X451
+Yeah no that's fine.
+
+PATIENT X451
+@@@ wanted to talk to you about there's so many times well actually a couple months ago I would take off my underwear and it's like you know I got kind of stains like I been leaking and I know I don't have a gallbladder anymore and it used to leak out uh and I don't know if that's from too much fat intake but I was told that's why.  I eat really low caffeine, no fat diet @@@.
+
+DOCTOR X451
+And you think you're making it to the bathroom whenever you go?
+
+PATIENT X451
+Generally I do but there have been some times, twice, three times that I didn't get there.
+
+DOCTOR X451
+Has this been going on for a long time?
+
+PATIENT X451
+I thought I could sit down.  Yes so I tried we we're going out to make sure if there's a bathroom I can use cause usually right after I eat uh I have to go sometimes within 15 minutes.
+
+DOCTOR X451
+If this has been going on @@@.
+
+PATIENT X451
+Okay.
+
+DOCTOR X451
+@@@ too.
+
+PATIENT X451
+Well this has been going on probably since, so that's why I started regular @@@.
+
+DOCTOR X451
+Well let's do this, try to eat a lot more fiber.  Take, find some supplements and take them a couple times a day and if it's still happening next time we'll refer you to GI and they can do some testing and check your sphincter test and that kind of thing, if you're not as tight @@@.
+
+PATIENT X451
+Yeah.
+
+DOCTOR X451
+You don't control it as well.
+
+PATIENT X451
+Yeah that's what I was thinking.
+
+DOCTOR X451
+Any weakness or anything.  Problems urinating or anything like this?  So just try the fiber for now and I'll put in a stool softener here to try making it @@@.  Okay.
+
+PATIENT X451
+Alright.  @@@.  For the last week or so I haven't had the problem.
+
+DOCTOR X451
+Yeah.  @@@.
+
+PATIENT X451
+Now with the gallbladder, it was explained to me that my gallbladder surgery @@@.
+
+DOCTOR X451
+That's something we usually try if it helps @@@.
+
+PATIENT X451
+But without one if I eat anything greasy @@@.
+
+DOCTOR X451
+That's fine.  Maybe it will come out of your stool sometimes but that shouldn't affect whether you know have any @@@.
+
+PATIENT X451
+It's embarrassing.  You around guys and you have to stay close @@@ especially in the locker room and I quick run right into the @@@.
+
+DOCTOR X451
+@@@.
+
+PATIENT X451
+But it's kind of embarrassing often times.
+
+DOCTOR X451
+Well try this and @@@ we'll send you to the GI doctors okay @@@.
+I'll be right back.
+
+PATIENT X451
+Okay.
+
+(DOCTOR OUT:  34:02  DOCTOR IN:  35:15)
+
+DOCTOR X451
+Alright sir. So actually this will probably uh we'll see you in six months.
+
+PATIENT X451
+Yeah.
+
+DOCTOR X451
+Or sooner if you're having @@@.
+
+PATIENT X451
+I thought I'd come in three.  You know I always have to come back in three months because one of my prescriptions runs out every 90 days.
+
+DOCTOR X451
+Now do you.  There's refills though.  We always give you three refills.
+
+PATIENT X451
+Okay.
+
+DOCTOR X451
+You know @@@.  If you want @@@.
+
+PATIENT X451
+Well what I was wondering, I don't get refills on the happy pills.
+
+DOCTOR X451
+Uh.
+
+PATIENT X451
+Okay.  I mean I do and they generally send them automatically.
+
+DOCTOR X451
+Yeah you have three refills.
+
+PATIENT X451
+Okay.
+
+DOCTOR X451
+So you get two pills with three refills.
+
+PATIENT X451
+Okay.  So after 90 days, after three months then that one's gone by the wayside.
+
+DOCTOR X451
+So the happiness just is.  But technically you're only allowed two pills a month.
+
+PATIENT X451
+Oh I understand that.  But I'm saying that.
+
+DOCTOR X451
+Actually two pills, uh so you need the happy pills, that's the reason you come back every three months.
+
+PATIENT X451
+Right, yeah it's in three months.  You know if there was another way but they say you always have to see a doctor before you.
+
+DOCTOR X451
+Then @@@.
+
+PATIENT X451
+Okay.
+
+DOCTOR X451
+And @@@.
+
+PATIENT X451
+Alright.
+
+DOCTOR X451
+So then um you come back in six months, this is the last time you'll see me cause I'm leaving in June alright.
+
+PATIENT X451
+Oh man.  Where you going?
+
+DOCTOR X451
+I don't know yet.  I'd like to stay and just do like hospital medicine here.
+
+PATIENT X451
+Okay.
+
+DOCTOR X451
+Or somewhere else.
+
+PATIENT X451
+Maybe you'll still be in the VA System?
+
+DOCTOR X451
+Maybe I don't know yet.  I just know I'm interviewing and stuff like that.
+
+PATIENT X451
+Trying to make some money now.  Okay.
+
+DOCTOR X451
+You know I know it's a short time period.
+
+PATIENT X451
+Okay, alright well congratulations.  It's been great.
+
+DOCTOR X451
+Yeah good luck.  Hope I did you good so.
+
+PATIENT X451
+You did, you did.  I liked having you as my doctor.  You know, always did feel comfortable talking.
+
+DOCTOR X451
+Yeah.
+
+PATIENT X451
+You know some guy things you don't want to talk about with anyone.
+
+DOCTOR X451
+Oh that's why I'm a doctor right.
+
+PATIENT X451
+Yeah that's right.
+
+DOCTOR X451
+@@@.
+
+PATIENT X451
+Yeah okay.
+
+DOCTOR X451
+@@@.
+
+PATIENT X451
+Alright doctor, yeah it's been great.  I hope I do get to see you, take care now.
+
+DOCTOR X451
+Okay take care thank you.
+
+PATIENT X451
+This way out.  Good.
+
+DOCTOR X451
+Take care.
+
+PATIENT X451
+Alright.
+
+
+
+
+

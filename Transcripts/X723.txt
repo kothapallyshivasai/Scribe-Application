@@ -1,0 +1,1339 @@
+
+DOCTOR X723
+PATIENT.
+
+PATIENT X723 
+Yeah.
+
+DOCTOR X723
+I'm sorry hi.  What kind of problem have you had?
+
+PATIENT X723
+@@@. They've heard everything, the whole thing.
+
+DOCTOR X723
+Uh-huh.  Um okay so the last time I saw you, I saw you in Urgent Care right?
+
+PATIENT X723
+Uh-huh.
+
+DOCTOR X723
+Alright.  And we gave you, we did the x-rays and um we started you on the ibuprofen.  Have you been taking the ibuprofen?
+
+PATIENT X723
+Yes.
+
+DOCTOR X723
+Okay and that's not helping?
+
+PATIENT X723
+Well it's slacked up you know.  It worked if I take two of them.
+
+DOCTOR X723
+Uh-huh.  How many have you been taking?
+
+PATIENT X723
+I just took, I been taking one at a time then I do two and that seemed to help me much better.
+
+DOCTOR X723
+How many times a day have you been taking two?
+
+PATIENT X723
+Just once.
+
+DOCTOR X723
+Just once a day?
+
+PATIENT X723
+Uh-huh.
+
+DOCTOR X723
+So you've just been taking two pills a day basically?
+
+PATIENT X723
+Uh-huh.
+
+DOCTOR X723
+Alright give me one second I'm just gonna review the, probably look at the x-ray myself okay.
+
+PATIENT X723
+Okay.
+
+(DOCTOR OUT:  10:00  DOCTOR IN:  17:46)
+
+FIRST DOCTOR X723
+Sorry about that.
+
+PATIENT X723
+NAME.
+
+FIRST DOCTOR X723
+Yeah no, no, I think it's @@@.
+
+SECOND DOCTOR X723
+Alright you're gonna get that done.  We definitely want to do that.
+
+FIRST DOCTOR X723
+Yeah sorry about that.  Um so the x-rays.
+
+PATIENT X723
+Uh-huh.
+
+FIRST DOCTOR X723
+We reviewed the x-rays when I saw you in Urgent Care it showed evidence of osteoarthritis.
+
+PATIENT X723
+Uh-huh.
+
+FIRST DOCTOR X723
+Have you heard of that before?  So there's two kinds of arthritis, well this actually well several different kinds of arthritis um but the two that everyone knows is rheumatoid arthritis and osteoarthritis.
+
+PATIENT X723
+Hmm.
+
+FIRST DOCTOR X723
+Osteoarthritis is the one that you have and it's basically wear and tear.
+
+PATIENT X723
+Uh-huh.
+
+FIRST DOCTOR X723
+You know as you get older.  Anyone who lives long enough is probably going to have osteoarthritis in one or more of their joints and you know you got two bones that touch each other over 65 years and you know.
+
+PATIENT X723
+Uh-huh.
+
+FIRST DOCTOR X723
+Kind of wears down so.  Um what you see typically on the x-rays is you know the bones are like this you know.
+
+PATIENT X723
+Uh-huh.
+
+FIRST DOCTOR X723
+And with osteoarthritis you see narrowing so the bones get a little bit closer. 
+
+PATIENT X723
+Uh-huh.
+
+FIRST DOCTOR X723
+Sometimes they have um, you see degrading of the surface you know.
+
+PATIENT X723
+Uh-huh.
+
+FIRST DOCTOR X723
+And so that's what they saw in both of the knees.
+
+PATIENT X723
+Uh-huh.
+
+FIRST DOCTOR X723
+@@@ so the question is what do you do about it?  Um several things you can do um you can do, well the first thing you try to do is just control the pain with nonsteroidal anti-inflammatories like ibuprofen.  Then what you can also, you know, going up from that or you know if you're not getting enough pain control then you go with other things.  You know there are different medicines and you can also do injections, injections of the joint with um a steroid.
+
+PATIENT X723
+Uh-huh.
+
+FIRST DOCTOR X723
+And that kind of lowers the inflammation and it usually helps with the pain.  Um patients who get that usually get pain relief for a month or two and they have to come you know several times a year to get re-injected and then after that um you know there's other things that you can go on and then there are other things that you can do to kind of help with the pain.  You can strengthen the muscles around the joint uh mainly you know the leg muscles you've got here um.  So you know there's things that we can do.
+
+PATIENT X723
+Uh-huh.
+
+FIRST DOCTOR X723
+Um but unfortunately all of the things that we do don't really cure it.
+
+PATIENT X723
+No.
+
+FIRST DOCTOR X723
+There really is no cure I mean it's hard to cure you know worn down knees.
+
+PATIENT X723
+Right.
+
+FIRST DOCTOR X723
+So um you know everything that we, you know the treatments that we offer are basically controlling the pain, trying to minimize further damage to the joint and so on okay.  So you I mean, it's probably @@@ right.
+
+PATIENT X723
+Right uh-huh.
+
+FIRST DOCTOR X723
+Um yeah and it shows it's been getting worse in the last few years um and I started you on some ibuprofen.  So how do you feel?  I mean is the pain better than it was when I first saw you?
+
+PATIENT X723
+Well it's I can walk and do everything.  It's not like if I'm sitting here and I ain't having no problem getting up because it seem like it tightens up.
+
+FIRST DOCTOR X723
+Tightens up.
+
+PATIENT X723
+Yeah like that.  As long as I'm walking and everything @@@.
+
+FIRST DOCTOR X723
+Uh-huh good.  You know and you're only taking, when do you take the ibuprofen that I prescribed?  You're just taking it once a day you said right?  Take two tablets once a day?
+
+PATIENT X723
+When I get ready to go to work.
+
+FIRST DOCTOR X723
+Okay and what do you do?  Do you work nights or?
+
+PATIENT X723
+Uh-huh.
+
+FIRST DOCTOR X723
+You work nights?
+
+PATIENT X723
+Right.
+
+FIRST DOCTOR X723
+So you, you know take it in the evening basically before you go to work.
+
+PATIENT X723
+Right.
+
+FIRST DOCTOR X723
+It gets you through the.
+
+PATIENT X723
+Yeah, right, right.
+
+FIRST DOCTOR X723
+All night.
+
+PATIENT X723
+Uh-huh.
+
+FIRST DOCTOR X723
+Okay.
+
+PATIENT X723
+Uh-huh.
+
+FIRST DOCTOR X723
+And then you get home and it hurts.
+
+PATIENT X723
+It hurt all day anyway but uh it just eases the pain that's all.
+
+FIRST DOCTOR X723
+Uh-huh.  The other thing we can do, so you can take you know you're taking, they say that the safe amount.  You know with every medicine there's a limit as to how much you can take.
+
+PATIENT X723
+Uh-huh.
+
+FIRST DOCTOR X723
+Um the medicine that you're taking is 2.4 mg.
+
+PATIENT X723
+Uh-huh.
+
+FIRST DOCTOR X723
+Give or take and you're taking 600 or so and you can take about four of those tablets a day.
+
+PATIENT X723
+Uh-huh but I ain't taking nowhere close to that.  
+
+FIRST DOCTOR X723
+Yean and the other thing that you know what you can do is you can take it more often so what I was just thinking another option would be right now you've got I gave you the prescription for the 600.
+
+PATIENT X723
+Uh-huh.
+
+FIRST DOCTOR X723
+We can do 800 which is a little bit higher of a dose.
+
+PATIENT X723
+Uh-huh.
+
+FIRST DOCTOR X723
+And you can do that like three times a day.
+
+PATIENT X723
+Uh-huh.
+
+FIRST DOCTOR X723
+You know so that way it's like, you know you get it before you go to work and then you know you can take it when you get home from work you know, so you'd be kind of like spacing it out.
+
+PATIENT X723
+Right, right.
+
+FIRST DOCTOR X723
+You know what I'm saying um that could be another option.  I mean I guess I'm trying to get a sense of what your, what your thoughts are.
+
+PATIENT X723
+Uh-huh.
+
+FIRST DOCTOR X723
+If it's just pain that.
+
+PATIENT X723
+No it's not a boom, stopping me from doing anything.
+
+FIRST DOCTOR X723
+Uh-huh.
+
+PATIENT X723
+It's just, it's there.
+
+FIRST DOCTOR X723
+It's there.
+
+PATIENT X723
+Uh-huh.
+
+FIRST DOCTOR X723
+How and like 0-10 what would you think it would be?
+
+PATIENT X723
+Before the medicine, before the ibuprofen it was about a 8.
+
+FIRST DOCTOR X723
+And now?
+
+PATIENT X723
+When I take it it's good.
+
+FIRST DOCTOR X723
+You have no pain when you take it?
+
+PATIENT X723
+Oh I have pain all the time regardless if I take it or not.  It's just not as pronounced when I take it.
+
+FIRST DOCTOR X723
+So you were an 8 before.
+
+PATIENT X723
+Uh-huh.
+
+FIRST DOCTOR X723
+And then what does it bring it down to?
+
+PATIENT X723
+It come on down to about a 6 or something like that you know.
+
+FIRST DOCTOR X723
+Uh-huh.
+
+PATIENT X723
+Cause sometimes I'll be walking all night.
+
+FIRST DOCTOR X723
+Well the other thing I mean we can give you something else too you know um.  Six you know I, there's different, you know everyone's different but the ideal is to get it down to about a 4.
+
+PATIENT X723
+Uh-huh.
+
+FIRST DOCTOR X723
+Okay uh so what we can do and I'm just looking at your labs.  We checked all your labs in February.  Checked your livers, kidneys, all that looks good so.  Um yeah I think we should add something, you know like a different type of medicine so um we'll try that.  Does that sound okay?
+
+PATIENT X723
+Okay.
+
+FIRST DOCTOR X723
+Um you know no one likes to take more pills but this is something that you would take as needed.
+
+PATIENT X723
+Hmm, okay.
+
+FIRST DOCTOR X723
+Um the medicine that you're on you've been taking.  Are you still taking the tramadol?
+
+PATIENT X723
+What is that one?
+
+FIRST DOCTOR X723
+Tramadol is for pain too.
+
+PATIENT X723
+No, no I don't take that.  Ibuprofen is the only thing I'm taking.
+
+FIRST DOCTOR X723
+So how many, okay let's go over your medicines real quick.
+
+PATIENT X723
+Okay.
+
+FIRST DOCTOR X723
+How many pills are you, do you know them?  Can you list your medicines or?
+
+PATIENT X723
+I know them when I hear them.
+
+FIRST DOCTOR X723
+Okay.  You got the six of them.
+
+PATIENT X723
+Uh-huh.
+
+FIRST DOCTOR X723
+Alright we've got the ibuprofen.
+
+PATIENT X723
+Uh-huh.
+
+FIRST DOCTOR X723
+Then you've got your blood pressure medicines.
+
+PATIENT X723
+Right.
+
+FIRST DOCTOR X723
+Lisinopril.
+
+PATIENT X723
+Okay.
+
+FIRST DOCTOR X723
+The amlodipine.
+
+PATIENT X723
+Right.
+
+FIRST DOCTOR X723
+Uh Bumex.
+
+PATIENT X723
+Right.
+
+FIRST DOCTOR X723
+That's a water pill.
+
+PATIENT X723
+Right.
+
+FIRST DOCTOR X723
+Uh let's see what else, metoprolol.
+
+PATIENT X723
+Right.
+
+FIRST DOCTOR X723
+You're taking all of those alright and then in addition you got a nasal spray.
+
+PATIENT X723
+Uh-huh.
+
+FIRST DOCTOR X723
+Um and then you've got the medicine for the diabetes.
+
+PATIENT X723
+Uh-huh.
+
+FIRST DOCTOR X723
+Glipizide.
+
+PATIENT X723
+Right.
+
+FIRST DOCTOR X723
+Uh and then the medicine for the cholesterol, simvastatin.
+
+PATIENT X723
+Right.
+
+FIRST DOCTOR X723
+Okay, anything else?
+
+PATIENT X723
+That's it.
+
+FIRST DOCTOR X723
+Okay.
+
+PATIENT X723
+And I'm on aspirin.
+
+FIRST DOCTOR X723
+You take like a baby aspirin, yeah.
+
+PATIENT X723
+Yeah, uh-huh.
+
+FIRST DOCTOR X723
+Okay good.  Um okay and then uh you have tramadol which I'd give or someone had given you in the past um.
+
+PATIENT X723
+That was a pain medicine.
+
+FIRST DOCTOR X723
+That's a pain medicine.
+
+PATIENT X723
+Right.
+
+FIRST DOCTOR X723
+Um which is, it's actually incidentally the same medicine that I would.  It's a different type of pain medicine so you have ibuprofen and tramadol but they're different types of pain medicine and they work differently.
+
+PATIENT X723
+Uh-huh.
+
+FIRST DOCTOR X723
+Um you know if you get two of the same types of pain medicine you're kind of @@@ use even more than the original.
+
+PATIENT X723
+Yeah.
+
+FIRST DOCTOR X723
+Yeah this is what I would do had you not been on it.
+
+PATIENT X723
+Uh-huh.
+
+FIRST DOCTOR X723
+And you've already got a prescription for it; you probably don't have any at home right?
+
+PATIENT X723
+No.
+
+FIRST DOCTOR X723
+You still have refills so what I'm gonna do is I'm gonna renew it.  Its tramadol 50 mg uh you can take it three times a day.
+
+PATIENT X723
+Uh-huh.
+
+FIRST DOCTOR X723
+Okay um you know and you just take it three times a day as needed for pain.  So if you took you know the ibuprofen and one of the tramadol maybe before you go to work.
+
+PATIENT X723
+Okay, you can one and one or something like that.
+
+FIRST DOCTOR X723
+Yeah, yeah.
+
+PATIENT X723
+Okay.  Uh-huh.
+
+FIRST DOCTOR X723
+So how does that sound?
+
+PATIENT X723
+Sounds right uh-huh.
+
+FIRST DOCTOR X723
+Alright.  So.
+
+PATIENT X723
+Usually just have that just sent to the house.
+
+FIRST DOCTOR X723
+You want me to have it sent to the house?
+
+PATIENT X723
+Yeah.  Mostly the ibuprofen I'm just using that right now.
+
+FIRST DOCTOR X723
+Okay yeah and it's already sent, already @@@ definitely.  Let me see if I have everything here.  Alright is there anything else you want to take care of today?
+
+PATIENT X723
+I'm good, I'm doing good.
+
+FIRST DOCTOR X723
+I mean otherwise.  Well it worked out that I got to see you both times.
+
+PATIENT X723
+Right uh-huh.  Cause those knees can wake you up at night too.
+
+FIRST DOCTOR X723
+They wake you up?
+
+PATIENT X723
+Yeah.
+
+FIRST DOCTOR X723
+You know.
+
+PATIENT X723
+If I lay wrong.
+
+FIRST DOCTOR X723
+What we can do, how about, you work nights?
+
+PATIENT X723
+I work 7 to 7, 7 at night to 7 in the morning.
+
+FIRST DOCTOR X723
+And what are you doing?  You're working in a plant right?
+
+PATIENT X723
+Right uh-huh.
+
+FIRST DOCTOR X723
+Okay.  Um when do you sleep?
+
+PATIENT X723
+I come home, I get to sleep about 10 o'clock.
+
+FIRST DOCTOR X723
+Uh how many?
+
+PATIENT X723
+Until about maybe 3:30 or something like that.
+
+FIRST DOCTOR X723
+That's a tough schedule.
+
+PATIENT X723
+Right.  But like not every day.
+
+FIRST DOCTOR X723
+How many days a week?
+
+PATIENT X723
+It's EOP, three days then two days.  Like I go to work at night I mean tomorrow, Friday.  I work Friday, Saturday and Sunday, three days.
+
+FIRST DOCTOR X723
+And then get two off.
+
+PATIENT X723
+And then I'm off two.  I'm off Monday and Tuesday and the following weekend I'm off.  I work every other weekend and I work three days.
+
+FIRST DOCTOR X723
+Okay.
+
+PATIENT X723
+Uh-huh.
+
+FIRST DOCTOR X723
+So that makes it yeah, it makes it a little more manageable.
+
+PATIENT X723
+Right.  I couldn't do it five days.
+
+FIRST DOCTOR X723
+Yeah that's tough.
+
+PATIENT X723
+You know.  And I'm trying, I'm gonna give it up, this is not @@@.
+
+FIRST DOCTOR X723
+You're gonna retire?
+
+PATIENT X723
+Yeah.  I ain't gonna do it no more.  I'm missing out on a lot of joy.  This summer be the last for me.
+
+FIRST DOCTOR X723
+Then what are your plans?
+
+PATIENT X723
+Go fishing.
+
+FIRST DOCTOR X723
+Where you gonna go fishing?
+
+PATIENT X723
+All over yeah.
+
+FIRST DOCTOR X723
+That sounds like a good plan.
+
+PATIENT X723
+Yep.  Uh-huh.
+
+FIRST DOCTOR X723
+Alright, so other than that um you checking your sugars?
+
+PATIENT X723
+Uh-huh.
+
+FIRST DOCTOR X723
+How are they running?
+
+PATIENT X723
+They're not, I don't think they bad so I don't feel bad, 140s, 150s you know.
+
+FIRST DOCTOR X723
+Check them every day?
+
+PATIENT X723
+Yeah.
+
+FIRST DOCTOR X723
+One a day?
+
+PATIENT X723
+Yeah once a day.
+
+FIRST DOCTOR X723
+140s to 150s.
+
+PATIENT X723
+Uh-huh.
+
+FIRST DOCTOR X723
+Does it ever get low?
+
+PATIENT X723
+I don't let it get low.
+
+FIRST DOCTOR X723
+@@@.
+
+PATIENT X723
+It gets high because I eat stuff I ain't supposed to so it don't never get low.
+
+FIRST DOCTOR X723
+That's your way of staying on top of it.
+
+PATIENT X723
+Right cause it got low one time and it makes me feel bad.
+
+FIRST DOCTOR X723
+Yeah.
+
+PATIENT X723
+Uh-huh.
+
+FIRST DOCTOR X723
+So okay um let me just see when your last A1c was.  Your last A1c was 6.6 so it looks like you're doing a pretty good job.  Um, you haven't had any low episodes right?
+
+PATIENT X723
+No.
+
+FIRST DOCTOR X723
+Recently, alright, let's see.  Yeah you've been pretty good with all of these since they started checking them, going back all the way back to 2001.
+
+PATIENT X723
+Uh-huh.
+
+FIRST DOCTOR X723
+So alright, that's good.  Just keep doing what you're doing um I think um and you know it always, it never hurts to try and eat healthy.
+
+PATIENT X723
+Uh-huh right uh-huh.
+
+FIRST DOCTOR X723
+Um you know how would you describe your diet?
+
+PATIENT X723
+It's been, you know I eat vegetables.  I do good on the eating you know I haven't got no problem with that.  I can follow stuff like that.
+
+FIRST DOCTOR X723
+You eat a lot of sweets or you try and stay away from those?
+
+PATIENT X723
+Oh I don't eat a lot of sweet stuff no.
+
+FIRST DOCTOR X723
+How about fried foods, stuff like that?
+
+PATIENT X723
+Occasionally yeah uh-huh.  I'm gonna fry something you know.
+
+FIRST DOCTOR X723
+Uh-huh.
+
+PATIENT X723
+But uh I like vegetables and I boil a lot of stuff.
+
+FIRST DOCTOR X723
+Uh-huh.
+
+PATIENT X723
+You know so.
+
+FIRST DOCTOR X723
+Yeah so you know the things that you want to, you know, these are just kind of general principles and if you want we can refer you to.
+
+PATIENT X723
+Uh-huh.
+
+FIRST DOCTOR X723
+To kind of like a nutrition you know education.
+
+PATIENT X723
+Uh-huh.
+
+FIRST DOCTOR X723
+Uh clinic here.
+
+PATIENT X723
+Uh-huh I'm not going to that.
+
+FIRST DOCTOR X723
+But uh you know and uh they'll probably tell you stuff you already know but you want to stay away from things so with regards to the high blood pressure.
+
+PATIENT X723
+Uh-huh.
+
+FIRST DOCTOR X723
+Which affects heart disease.
+
+PATIENT X723
+Right.
+
+FIRST DOCTOR X723
+Vascular disease as well as like brain, strokes, puts you at risk for that sort of thing um you want to stay away from foods that are high in salt.
+
+PATIENT X723
+Right.
+
+FIRST DOCTOR X723
+Um.
+
+PATIENT X723
+Uh-huh.
+
+FIRST DOCTOR X723
+And then you know the fried foods.
+
+PATIENT X723
+Uh-huh.
+
+FIRST DOCTOR X723
+You know foods that are high in fat you know.
+
+PATIENT X723
+Uh-huh.
+
+FIRST DOCTOR X723
+Uh red meat.  You know no one's saying you have to become a monk.
+
+PATIENT X723
+Right.
+
+FIRST DOCTOR X723
+And give up that stuff.
+
+PATIENT X723
+Right, right, right.
+
+FIRST DOCTOR X723
+But you want to try and limit this you know.
+
+PATIENT X723
+Right.
+
+FIRST DOCTOR X723
+Stuff.
+
+PATIENT X723
+Uh-huh.
+
+FIRST DOCTOR X723
+We all know that fried stuff tastes better.
+
+PATIENT X723
+Right.
+
+FIRST DOCTOR X723
+You know.
+
+PATIENT X723
+Uh-huh.
+
+FIRST DOCTOR X723
+Red meat is good, steak is good um but you really want to try and limit it.
+
+PATIENT X723
+Uh-huh.
+
+FIRST DOCTOR X723
+And eat more you know of lighter, you know white meats.
+
+PATIENT X723
+Right.
+
+FIRST DOCTOR X723
+Chicken, fish, you know want those as the main things instead of frying.
+
+PATIENT X723
+Frying everything all the time right.
+
+FIRST DOCTOR X723
+No, you know not adding salt to uh.
+
+PATIENT X723
+They're already salty stuff.
+
+FIRST DOCTOR X723
+Yeah, yeah.
+
+PATIENT X723
+Uh-huh.
+
+FIRST DOCTOR X723
+You know then the other thing with regards to salt um your blood pressure was a little high today um salt affects blood pressure.
+
+PATIENT X723
+Uh-huh.
+
+FIRST DOCTOR X723
+Um you know try to stay away from foods like prepared foods.  Anything in a can, anything in a box.
+
+PATIENT X723
+Uh-huh.
+
+FIRST DOCTOR X723
+Tend to have high salt because salt is a preservative.
+
+PATIENT X723
+Uh-huh.
+
+FIRST DOCTOR X723
+You know we've been using salt to preserve food for thousands of years.
+
+PATIENT X723
+Right.
+
+FIRST DOCTOR X723
+You know and we still use it um so like canned food, food that comes in a box that sort of thing.  Those things tend to have a lot of salt.
+
+PATIENT X723
+Uh-huh.
+
+FIRST DOCTOR X723
+So you know instead of eating like canned vegetables, you know whenever possible try to eat fresh or frozen vegetables.
+
+PATIENT X723
+Uh-huh.
+
+FIRST DOCTOR X723
+Things like that.
+
+PATIENT X723
+Okay.
+
+FIRST DOCTOR X723
+Um you know those are things that you can do with your diet.
+
+PATIENT X723
+Uh-huh.
+
+FIRST DOCTOR X723
+To kind of you know improve uh things you know.  I think, like I said your sugars have been fairly well controlled but your blood pressure is an issue.  Um even though you're not too bad you're still not where we want you to be.  You know you're at 143/70 today and we'd like to get you below close to 120 if possible and at very least below 130 you the top number.
+
+PATIENT X723
+You mean on the blood pressure how many times a day I'm supposed to take that?
+
+FIRST DOCTOR X723
+Take what, measure your blood pressure or take the pills?
+
+PATIENT X723
+The pills?
+
+FIRST DOCTOR X723
+So.
+
+PATIENT X723
+I only take like once a day.
+
+FIRST DOCTOR X723
+You're on a few different medicines, so the amlodipine.
+
+PATIENT X723
+I don't take nothing but once a day all day.
+
+FIRST DOCTOR X723
+Yeah let me just look.  Amlodipine is once a day, Bumex is once a day um lisinopril once a day.  The metoprolol you're supposed to be on twice a day.
+
+PATIENT X723
+I only take it once.
+
+FIRST DOCTOR X723
+Okay.  So yeah, yeah, that may be.
+
+PATIENT X723
+So I just have to start taking that twice.
+
+FIRST DOCTOR X723
+Yeah you'll try to come up on the metoprolol.
+
+PATIENT X723
+Uh-huh, right.
+
+FIRST DOCTOR X723
+50 mg.
+
+PATIENT X723
+Uh-huh.
+
+FIRST DOCTOR X723
+You're supposed to be taking that twice a day you know so I would take it you know, it's supposed to be 12 hours apart.
+
+PATIENT X723
+Okay so I'll take it when I.
+
+FIRST DOCTOR X723
+Yeah.
+
+PATIENT X723
+When I go to work and while I'm at work.
+
+FIRST DOCTOR X723
+Yeah.
+
+PATIENT X723
+That's all.
+
+FIRST DOCTOR X723
+Yeah like right before you go to work.
+
+PATIENT X723
+Uh-huh.
+
+FIRST DOCTOR X723
+And right when you get off.
+
+PATIENT X723
+Right uh-huh.
+
+FIRST DOCTOR X723
+So maybe that's what we're dealing with.  So yeah let's uh, you know the next time we see you.
+
+PATIENT X723
+Uh-huh.
+
+FIRST DOCTOR X723
+We'll see where your blood pressure's at you know.  Um we won't make any changes.  The only change we'll make is that you'll start taking the metoprolol.
+
+PATIENT X723
+Uh-huh.
+
+FIRST DOCTOR X723
+You know twice a day like its prescribed.
+
+PATIENT X723
+Right.
+
+FIRST DOCTOR X723
+And we'll follow up on it next time.
+
+PATIENT X723
+Okay.
+
+FIRST DOCTOR X723
+Um other than that, you doing okay? 
+
+PATIENT X723
+Good, real good.
+
+FIRST DOCTOR X723
+Alright now the last thing, we talked about all your labs and your cholesterol looks good.  Um health maintenance um you actually had a colonoscopy this past summer.  Prostate @@@.  You had the flu shot this year.  And then last time I saw you.
+
+PATIENT X723
+Yeah you said did I want the flu shot today.
+
+FIRST DOCTOR X723
+But you had it, you already had it.
+
+PATIENT X723
+Uh-huh.
+
+FIRST DOCTOR X723
+Um and then you had the uh the tetanus diphtheria I gave you the last time you were here.
+
+PATIENT X723
+Uh-huh.
+
+FIRST DOCTOR X723
+Um and have you ever smoked in your life?
+
+PATIENT X723
+In the '70s.
+
+FIRST DOCTOR X723
+Oh okay.  One last thing is uh doing an ultrasound of the abdomen and the reason what they, the recommendations are that any male, any male who smoked.
+
+PATIENT X723
+Uh-huh.
+
+FIRST DOCTOR X723
+Should get checked one time at the age of 65.
+
+PATIENT X723
+Uh-huh.
+
+FIRST DOCTOR X723
+Should check a one-time ultrasound of the belly.
+
+PATIENT X723
+Uh-huh.
+
+FIRST DOCTOR X723
+Um and what they're looking up is the aorta, that's the main blood vessel that goes, you know comes out of the heart.
+
+PATIENT X723
+Uh-huh.
+
+FIRST DOCTOR X723
+And then goes you know.
+
+PATIENT X723
+Uh-huh.
+
+FIRST DOCTOR X723
+Um so people that smoke it puts you at risk for what's called an aneurysm so basically it's a weakness in the wall of the artery.
+
+PATIENT X723
+Uh-huh.
+
+FIRST DOCTOR X723
+And it bulges out and then those can rupture and that's you know a very bad thing.
+
+PATIENT X723
+Right.
+
+FIRST DOCTOR X723
+So they say anyone who smoked at the age 65 they recommend doing a one-time only ultrasound.
+
+PATIENT X723
+Uh-huh.
+
+FIRST DOCTOR X723
+Of the belly.
+
+PATIENT X723
+I haven't smoked in 20, 30 years.
+
+FIRST DOCTOR X723
+They say any smoking history.
+
+PATIENT X723
+Okay.
+
+FIRST DOCTOR X723
+You know just because it's such a, if it does happen it's such a devastating thing.
+
+PATIENT X723
+Uh-huh.
+
+FIRST DOCTOR X723
+And the way you check for it is very, very easy.  They just put a little probe on your belly.
+
+PATIENT X723
+Uh-huh, uh-huh.
+
+FIRST DOCTOR X723
+Do you know what I'm talking about, an ultrasound?  It's like the things they do on pregnant women.
+
+PATIENT X723
+Yeah I understand, right.
+
+FIRST DOCTOR X723
+Yeah they use one of those just to kind of make sure that you don't have anything to worry about it ever again.
+
+PATIENT X723
+Uh-huh, right.
+
+FIRST DOCTOR X723
+So I think you know it'd be worthwhile just ordering it.
+
+PATIENT X723
+Uh-huh.
+
+FIRST DOCTOR X723
+Get this done and you know you come back at your leisure.
+
+PATIENT X723
+Okay.
+
+FIRST DOCTOR X723
+Getting a little @@@ you know come in, do it.
+
+PATIENT X723
+Uh-huh.  Okay, no problem.
+
+FIRST DOCTOR X723
+Other than that, I think we're all good so I will I put in the order for the pain medicine tramadol.
+
+PATIENT X723
+Uh-huh.
+
+FIRST DOCTOR X723
+Metoprolol you're gonna take; start taking it twice a day.
+
+PATIENT X723
+Uh-huh.
+
+FIRST DOCTOR X723
+And then I'm gonna put in an order for the ultrasound.
+
+PATIENT X723
+Okay.
+
+FIRST DOCTOR X723
+And then otherwise I don't think we need to see you back here until another six months.
+
+PATIENT X723
+Okay.
+
+FIRST DOCTOR X723
+And then at that time you know we'll check cholesterol.
+
+PATIENT X723
+Them other things right uh-huh.
+
+FIRST DOCTOR X723
+Sound good?
+
+PATIENT X723
+Real good uh-huh.
+
+FIRST DOCTOR X723
+Alright.  Is there any particular time?  Are you coming back here any time soon for any tests or anything?
+
+PATIENT X723
+Uh uh.
+
+FIRST DOCTOR X723
+Alright.  When would be a good day for you to come back to do the ultrasound?
+
+PATIENT X723
+It'd be on one of my off days so.  You just get a day I mean it doesn't matter to me.  As long as it's on one of my off days I just come back.
+
+FIRST DOCTOR X723
+Okay.  I'll schedule that for Wednesday, does that sound okay?
+
+PATIENT X723
+Let me see what next Wednesday is.
+
+FIRST DOCTOR X723
+The 29th.
+
+PATIENT X723
+Yeah @@@.
+
+FIRST DOCTOR X723
+You say, when are you working?  You're working.
+
+PATIENT X723
+Uh I have to look at my off day calendar it tells me.  Uh okay.
+
+FIRST DOCTOR X723
+Yeah we're the 23rd.
+
+PATIENT X723
+I'm off the red days.
+
+FIRST DOCTOR X723
+Oh you're off the red days okay.  So how about next Monday or Tuesday?
+
+PATIENT X723
+You see it on there?
+
+FIRST DOCTOR X723
+Yeah the what it is, 27th and 28th.  You work tomorrow, Saturday, Sunday and then Monday, Tuesday you're off.
+
+PATIENT X723
+Right.
+
+FIRST DOCTOR X723
+So I'll put you for the next Monday or Tuesday, what would you rather do?
+
+PATIENT X723
+Tuesday you do it.
+
+FIRST DOCTOR X723
+Sounds good.  Alright.  Give me one minute, I'm gonna go talk with DOCTOR.
+
+PATIENT X723
+Uh-huh.
+
+FIRST DOCTOR X723
+And uh I think @@@.
+
+PATIENT X723
+Uh-huh.
+
+FIRST DOCTOR X723
+We chatted when I first saw you right.
+
+PATIENT X723
+Right.
+
+(DOCTOR OUT:  42:19  DOCTOR IN:  44:56)
+
+FIRST DOCTOR X723
+Alright, you're done.  I just wanted to quickly, gonna listen to you, have a seat over here real quick.  @@@.  Deep breath in and out.  Breathe in.  No nausea, vomiting, diarrhea?
+
+PATIENT X723
+No.
+
+FIRST DOCTOR X723
+So no constipation, bowel movements are okay?
+
+PATIENT X723
+You know @@@.
+
+FIRST DOCTOR X723
+How often are you going?  Every day?
+
+PATIENT X723
+Once a day @@@ like that.
+
+FIRST DOCTOR X723
+We can give you something to help you uh why don't you start with more fiber um.  Uh yeah so we can do that, we can give you some fiber.  How does that sound?
+
+PATIENT X723
+Uh-huh.
+
+FIRST DOCTOR X723
+Alright.  I just have a program I need to check @@@.  Alright.  Alright so you want to get it in the mail too?
+
+PATIENT X723
+Uh-huh.
+
+FIRST DOCTOR X723
+Alright.  So this is just like a big uh, like a big @@@ um you just take a scoop, put it with water or juice.
+
+PATIENT X723
+Like a Metamucil type thing.
+
+FIRST DOCTOR X723
+That's exactly what it is.
+
+PATIENT X723
+Uh-huh.
+
+FIRST DOCTOR X723
+Alright and you know you can use it three times a day if you like, just depending on how you want to use it.  If this doesn't work we've got stronger stuff.  I kind of like to stick with the natural stuff you know.
+
+PATIENT X723
+Uh-huh.
+
+FIRST DOCTOR X723
+But if this doesn't work then we can give you something a little bit stronger and we'll leave that stuff that'll.
+
+PATIENT X723
+Yeah okay, okay.  I know, alright.
+
+FIRST DOCTOR X723
+Alright.
+
+PATIENT X723
+Uh-huh.
+
+FIRST DOCTOR X723
+Otherwise we'll see you in six months.
+
+PATIENT X723
+Good, really good.
+
+FIRST DOCTOR X723
+And you're done.
+
+PATIENT X723
+Alrighty.
+
+FIRST DOCTOR X723
+Alright.
+
+PATIENT X723
+Okay.
+
+FIRST DOCTOR X723
+Take care.  Too much @@@ out.
+
+PATIENT X723
+Exactly, alright, thank you doctor.
+
+FIRST DOCTOR X723
+Alright take care.
+
+PATIENT LEAVES:  50:04
+
+
+
+

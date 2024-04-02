@@ -1,0 +1,868 @@
+
+DOCTOR X378
+PATIENT.
+
+PATIENT X378 
+Hi doc.  Doc this is my wife NAME.
+
+DOCTOR X378
+Hi.
+
+SECOND PERSON X378
+Hi doctor.
+
+DOCTOR X378
+Nice to meet you.
+
+SECOND PERSON X378
+Nice to meet you too.
+
+DOCTOR X378
+How you doing?
+
+PATIENT X378
+I'm weak.
+
+DOCTOR X378
+Okay.
+
+SECOND PERSON X378
+Not too good.
+
+PATIENT X378
+Yeah.
+
+DOCTOR X378
+What's been going on?
+
+SECOND PERSON X378
+He's up in the morning at 8:00 a.m.
+
+DOCTOR X378
+Right.  You were hospitalized right?
+
+SECOND PERSON X378
+Yeah, let's see.  He was released about a month ago now.
+
+PATIENT X378
+Yeah a month ago.
+
+SECOND PERSON X378
+He was very weak.  He couldn't walk very far or do anything.
+
+DOCTOR X378
+You're getting short of breath or what's happening?
+
+PATIENT X378
+Yeah pretty much.
+
+SECOND PERSON X378
+And he lost his voice but.
+
+PATIENT X378
+You know hoarse.
+
+DOCTOR X378
+Yeah.
+
+PATIENT X378
+@@@ a few days.
+
+SECOND PERSON X378
+What about the weakness?  He isn't doing anything.
+
+DOCTOR X378
+He's got a light cough?
+
+PATIENT X378
+Yeah I got a cough.
+
+DOCTOR X378
+Uh-huh.
+
+SECOND PERSON X378
+@@@ not a good thing yeah.
+
+PATIENT X378
+Antibiotics.
+
+DOCTOR X378
+So you were on the medicine for about 3-4 days.  @@@ September 10th but then you @@@.
+
+PATIENT X378
+Uh-huh.
+
+DOCTOR X378
+The medicine so did that help?  While you were on it?
+
+PATIENT X378
+Yeah I did take that and it obviously makes it better.
+
+DOCTOR X378
+Okay.
+
+PATIENT X378
+Yeah.
+
+DOCTOR X378
+Okay.  You haven't had any x-ray or chest x-ray done since then right?
+
+PATIENT X378
+No.  No.
+
+DOCTOR X378
+The only one you had was.
+
+PATIENT X378
+The one time.  No, no, no, one time.
+
+SECOND PERSON X378
+@@@.
+
+DOCTOR X378
+Right.  I wonder how it came out.
+
+PATIENT X378
+@@@ yeah.
+
+SECOND PERSON X378
+Let's do that, maybe get a chest x-ray.  @@@.
+
+PATIENT X378
+Yeah I'm not doing a lot.
+
+DOCTOR X378
+You need an MRI.
+
+SECOND PERSON X378
+And then the next day he came back to see the pharmacist.
+
+DOCTOR X378
+Yeah.
+
+SECOND PERSON X378
+The Pharmacy.
+
+DOCTOR X378
+That's when he saw them.
+
+SECOND PERSON X378
+That's when I said, you know he also needs a chest x-ray at this same time yesterday and that's when the doctor put him on seven more days of the antibiotics.  This is important stuff.
+
+DOCTOR X378
+Okay.  So you're not on anything, you're all done.  You got the MRI because you're having dizziness and nausea at that time.
+
+SECOND PERSON X378
+No that was a test that @@@ wanted him to have.
+
+DOCTOR X378
+Okay.
+
+SECOND PERSON X378
+That was then um, that was the appointment the MRI @@@.
+
+DOCTOR X378
+Why did they want that done?  The MRI.
+
+SECOND PERSON X378
+Maybe because of the @@@?
+
+PATIENT X378
+I don't know if that was because @@@ one of the reasons I got it. I don't know.
+
+DOCTOR X378
+They said it was normal.  I mean did they called you about that?  That the MRI was normal.
+
+PATIENT X378
+No.
+
+SECOND PERSON X378
+No.
+
+PATIENT X378
+Uh uh.  Good to hear that.
+
+SECOND PERSON X378
+Yeah.
+
+DOCTOR X378
+Yeah.  So your last chest x-ray in 2011 it showed you almost had, your pneumonia was pretty much almost gone and then you had done @@@.  You're not having any fevers or chills right?
+
+PATIENT X378
+Oh no.
+
+DOCTOR X378
+Some weakness?
+
+PATIENT X378
+Yeah wheezing.
+
+DOCTOR X378
+Okay.
+
+PATIENT X378
+Yeah.
+
+SECOND PERSON X378
+And he still has a bad cough.
+
+DOCTOR X378
+Yeah.
+
+PATIENT X378
+Uh-huh.
+
+DOCTOR X378
+Okay.
+
+SECOND PERSON X378
+He's been in bed pretty much of the time, it's in bed.
+
+PATIENT X378
+Uh-huh.
+
+DOCTOR X378
+Okay.  No fevers, chills or anything?
+
+PATIENT X378
+Mostly weakness.
+
+SECOND PERSON X378
+Mostly tired and weak.
+
+DOCTOR X378
+When you do @@@ did you get worse after that @@@?
+
+PATIENT X378
+Yeah @@@.
+
+DOCTOR X378
+@@@ days at home okay.  Um let's see okay.  You're diabetic.
+
+PATIENT X378
+Oh yeah.  @@@.
+
+DOCTOR X378
+Okay.  @@@.
+
+SECOND PERSON X378
+What kind of, was there some kind of blood test he did today?
+
+DOCTOR X378
+They call it like lipids, lipids, for the cholesterol @@@.  Do you still take an aspirin every day?
+
+PATIENT X378
+Yes.
+
+DOCTOR X378
+You taking your blood pressures?
+
+PATIENT X378
+Yeah.
+
+DOCTOR X378
+And the same, you're still on metoprolol?
+
+PATIENT X378
+Hmm.
+
+DOCTOR X378
+Oh there you are, you're still on it at 25.
+
+PATIENT X378
+Oh.
+
+SECOND PERSON X378
+And then the pharmacist cut @@@.
+
+PATIENT X378
+Yeah she cut @@@.
+
+DOCTOR X378
+Yeah @@@.
+
+PATIENT X378
+I didn't want to do it too fast with the blood count because it's really dropping but uh.
+
+SECOND PERSON X378
+Well @@@ from the pneumonia @@@.
+
+DOCTOR X378
+When you were in the hospital.
+
+PATIENT X378
+Uh-huh.
+
+SECOND PERSON X378
+He doesn't remember that.  He doesn't remember the four day stay.  That was kind of scary.
+
+DOCTOR X378
+Are you having any other low blood sugars still?
+
+PATIENT X378
+Uh just a minute.  I brought the book here so, @@@ see what it is, I take them twice a day every morning.  Sometimes after lunch and after dinner.
+
+DOCTOR X378
+You take them after lunch okay.
+
+PATIENT X378
+After lunch and after dinner.
+
+DOCTOR X378
+@@@ after dinner?
+
+PATIENT X378
+Yeah.
+
+SECOND PERSON X378
+@@@.
+
+DOCTOR X378
+There a little better now.
+
+PATIENT X378
+Yeah.
+
+DOCTOR X378
+Okay.
+
+PATIENT X378
+Yeah.  That's after cutting them in half @@@.
+
+DOCTOR X378
+Yeah.  Okay and you're still on the.
+
+PATIENT X378
+Metformin.
+
+DOCTOR X378
+Metformin.  Are you taking your blood pressures at home?
+
+SECOND PERSON X378
+Yes.
+
+DOCTOR X378
+What do they run?
+
+PATIENT X378
+They're getting better now.  They're getting almost in the normal range.
+
+SECOND PERSON X378
+Yeah like 120s, 130s.
+
+PATIENT X378
+Yeah 130s, 140s maybe @@@.
+
+DOCTOR X378
+Okay.  Okay.  You're normal today that's good.
+
+PATIENT X378
+Yeah.
+
+DOCTOR X378
+Um and you still take your @@@.  Are you still on the Primidone?  
+
+PATIENT X378
+Uh-huh.
+
+DOCTOR X378
+Let's see, @@@ today.  @@@ the issue @@@.
+
+PATIENT X378
+Did they do the cholesterol test today?
+
+DOCTOR X378
+Oh yeah that was the cholesterol that you had done.
+
+SECOND PERSON X378
+@@@.
+
+DOCTOR X378
+Yeah I think DOCTOR probably put it in so you could have it done because @@@ medications in.  She checked your medications with the pravastatin right?
+
+PATIENT X378
+Yeah.
+
+DOCTOR X378
+Are you at 40 or 80?
+
+SECOND PERSON X378
+Should be 40, because he cuts it in half.
+
+DOCTOR X378
+Yeah.  Yeah it's a 40.  So I think your cholesterol has been @@@.
+
+PATIENT X378
+What's it at?
+
+DOCTOR X378
+Your cholesterol so far it's at 150.
+
+SECOND PERSON X378
+Oh nice.  Better than mine.
+
+DOCTOR X378
+You've been on 40 for a while right?
+
+PATIENT X378
+Uh-huh.
+
+DOCTOR X378
+Cholesterol medicines.
+
+PATIENT X378
+Last time I thought it was at 80.  @@@.
+
+SECOND PERSON X378
+What's the one you cut in half?
+
+DOCTOR X378
+Oh yes I increased it in July.
+
+PATIENT X378
+Oh you increased it okay.
+
+DOCTOR X378
+Yeah.  Okay.
+
+PATIENT X378
+@@@.
+
+DOCTOR X378
+You're at 40 yeah.
+
+PATIENT X378
+That's a 60.
+
+DOCTOR X378
+So I think your lipids look okay on this.
+
+PATIENT X378
+Yeah.
+
+DOCTOR X378
+When was your last A1c?  That was this year and you were pretty low @@@.
+
+PATIENT X378
+Uh-huh.
+
+DOCTOR X378
+And then you had your @@@ done in August and then you were @@@.  Let me take a listen.  Do you feel like you're just tired?
+
+SECOND PERSON X378
+Yes.
+
+PATIENT X378
+And I'm weak.
+
+DOCTOR X378
+And you're weak.
+
+PATIENT X378
+Yeah I'm real tired.
+
+SECOND PERSON X378
+He's really tired.
+
+DOCTOR X378
+You don't have energy.
+
+PATIENT X378
+No energy.  No voice.
+
+DOCTOR X378
+And this was all after the pneumonia?
+
+PATIENT X378
+Yeah.
+
+SECOND PERSON X378
+Yeah if you really have to put the time on it.  Before the pneumonia his voice was @@@.
+
+DOCTOR X378
+Your lungs sound pretty clear.  You're not bringing up any phlegm @@@.
+
+PATIENT X378
+No.
+
+DOCTOR X378
+Just a dry @@@.  Let me see what I get here.
+
+SECOND PERSON X378
+He's lost a lot of weight, I bet it's 10 pounds.
+
+DOCTOR X378
+Since he was in the hospital @@@.
+
+SECOND PERSON X378
+Uh-huh.
+
+DOCTOR X378
+Okay.
+
+SECOND PERSON X378
+@@@.
+
+DOCTOR X378
+@@@ its not hurting now, you're not having any @@@.  @@@ don't hurt.
+
+PATIENT X378
+No.
+
+DOCTOR X378
+Up here or up here, okay.  Well you sound pretty clear.  I don't know if you're just kind of @@@ with it.
+
+PATIENT X378
+Hmm.
+
+DOCTOR X378
+But @@@.
+
+PATIENT X378
+How much?
+
+DOCTOR X378
+10 pounds.
+
+PATIENT X378
+Yeah.
+
+DOCTOR X378
+Yeah.  The antibiotics caused @@@.
+
+PATIENT X378
+I didn't want to eat anything.
+
+DOCTOR X378
+When you were on that antibiotic?
+
+PATIENT X378
+Yeah.
+
+DOCTOR X378
+Oh yeah I could.  It can mess with your taste a little bit.
+
+PATIENT X378
+Yeah.
+
+DOCTOR X378
+Antibiotics have a lot of those side effects but its helping.
+
+PATIENT X378
+Yeah.
+
+DOCTOR X378
+Okay.
+
+SECOND PERSON X378
+But it take this long of a time?
+
+DOCTOR X378
+For it to come back?
+
+SECOND PERSON X378
+To come back from the pneumonia.
+
+PATIENT X378
+It's only been a few days now hasn't it?
+
+DOCTOR X378
+Yeah maybe.  I mean if he just, you just finished the uh.
+
+PATIENT X378
+@@@.  Yeah was it that long now?
+
+DOCTOR X378
+Uh-huh.
+
+PATIENT X378
+Okay.
+
+DOCTOR X378
+I'll talk to my attending.  We'll see.  It looks like you know your lungs sound pretty clear.
+
+PATIENT X378
+Uh-huh.
+
+DOCTOR X378
+You don't have much of a cough; it can take weeks to recover.  You were only in the hospital for three days you know recovering from it, four days yeah.
+
+PATIENT X378
+Four days yeah.
+
+DOCTOR X378
+Okay, alright.  I'll be right back.
+
+PATIENT X378
+Um.
+
+DOCTOR X378
+Do you have a question?
+
+PATIENT X378
+Yeah I do.
+
+DOCTOR X378
+Yeah.
+
+PATIENT X378
+And now I forgot it.
+
+DOCTOR X378
+About a medication or something?
+
+PATIENT X378
+It was really a critical question now, go ahead I'll, it really wasn't critical I'll think of it when you come back.
+
+DOCTOR X378
+I'll be back okay.
+
+PATIENT X378
+Yeah.
+
+SECOND PERSON X378
+Thank you.
+
+DOCTOR OUT:  71:55   DOCTOR IN:  80:51
+
+DOCTOR X378
+Alright.  You remember your question?
+
+PATIENT X378
+Yep.
+
+DOCTOR X378
+Okay.
+
+PATIENT X378
+How long should I wait for a flu shot?
+
+DOCTOR X378
+Oh okay, @@@ no you can.
+
+PATIENT X378
+Yeah because of the um.
+
+DOCTOR X378
+Because you had the pneumonia.  You should go get it because this isn't going to cause you any negations.
+
+SECOND PERSON X378
+If @@@ is low its okay?
+
+DOCTOR X378
+Yeah.  I mean he isn't getting over like you know every day you're down.  Like I tell some of my patients like every day that you were in the hospital that will take about 4-5 days per one of those days for you to get better and you're kind of prolonged to.
+
+PATIENT X378
+Yeah.
+
+DOCTOR X378
+I don't think you were just over it the four days that you're in the hospital.
+
+PATIENT X378
+Yeah.
+
+DOCTOR X378
+So it's probably, so it's gonna maybe take another few weeks or a month you know to kind of get back to.
+
+PATIENT X378
+Yeah.
+
+DOCTOR X378
+Where you want.  I think you can still get the flu shot I mean if you want to wait that's also fine.
+
+PATIENT X378
+Yeah okay.
+
+DOCTOR X378
+If you're feeling, like in a couple of weeks if you're feeling a little bit better.
+
+PATIENT X378
+Okay.
+
+DOCTOR X378
+It's not a problem.  You can always drop by and get it.  Alright.
+
+PATIENT X378
+Yeah no problem.
+
+DOCTOR X378
+And then any, do you need medications or anything?
+
+PATIENT X378
+Yeah just whatever I got to get updated so.
+
+DOCTOR X378
+Okay.  Um.
+
+SECOND PERSON X378
+I think he still has @@@ when you called him in a couple of refills.
+
+DOCTOR X378
+Which ones?
+
+SECOND PERSON X378
+Do you remember them?
+
+DOCTOR X378
+The prior ones?
+
+SECOND PERSON X378
+Remember that first one @@@.
+
+PATIENT X378
+One of them it said no more refills.
+
+SECOND PERSON X378
+I couldn't remember which one it was @@@.
+
+PATIENT X378
+One of my regulars had no more refills so.
+
+DOCTOR X378
+Okay.  A lot of yours are just, they're okay.
+
+PATIENT X378
+Yeah.
+
+DOCTOR X378
+I've got refills done.
+
+PATIENT X378
+Metaxa something.
+
+DOCTOR X378
+Metformin?
+
+PATIENT X378
+No a tax something like that.
+
+DOCTOR X378
+@@@.
+
+PATIENT X378
+Uh something like that I don't know.
+
+DOCTOR X378
+Okay.
+
+PATIENT X378
+We didn't look at them it just said 0 refills left.  
+
+DOCTOR X378
+Moxifloxacin?
+
+PATIENT X378
+No, that's not it.
+
+DOCTOR X378
+I don't see anything else with an M on your except the metformin.
+
+PATIENT X378
+No that's not it.  
+
+DOCTOR X378
+I'll renew them.
+
+PATIENT X378
+Yeah.
+
+DOCTOR X378
+You already got the labs done; I don't think we need to repeat any of them okay.
+
+PATIENT X378
+Yep, great.
+
+DOCTOR X378
+So I think you're okay to go.
+
+PATIENT X378
+Alright.
+
+DOCTOR X378
+Okay.  I already got all of your medications.  Now if you get a fever or start getting worse or anything.
+
+SECOND PERSON X378
+Uh-huh.
+
+PATIENT X378
+I'll call.
+
+DOCTOR X378
+Call us back yeah.
+
+PATIENT X378
+Yeah.
+
+DOCTOR X378
+If you're getting a little bit worse.
+
+PATIENT X378
+Okay.
+
+DOCTOR X378
+It'll be fine yeah.
+
+PATIENT X378
+Doctor thank you.
+
+DOCTOR X378
+Nice seeing you again.  
+
+PATIENT X378
+Thank you very much.
+
+DOCTOR X378
+Feel better okay.
+
+PATIENT X378
+Appreciate it.
+
+SECOND PERSON X378
+I was so frustrated.  I'm just glad you got to see him.
+
+DOCTOR X378
+Yeah that's okay.
+
+PATIENT X378
+Sure, yeah.
+
+DOCTOR X378
+It's okay to be in bed okay.
+
+SECOND PERSON X378
+Thank you.
+
+PATIENT X378
+Thank you.
+
+DOCTOR X378
+You're welcome, nice meeting you too.
+
+PATIENT X378
+Appreciate it.
+
+SECOND PERSON X378
+You too take care.
+
+PATIENT X378
+Books.
+SECOND PERSON X378
+Oh the books.
+
+DOCTOR X378
+Don't forget your books.
+
+PATIENT X378
+No I can't forget the books.
+
+DOCTOR X378
+Thank you.
+
+PATIENT X378
+Take care.
+
+Time is 2:05.
+
+
+
+

@@ -1,0 +1,710 @@
+
+DOCTOR X602
+PATIENT?  All the way back here.  Hi, how are you?
+
+PATIENT X602
+Okay.  Very good.
+
+DOCTOR X602
+@@@.  Go to that open door on the right.
+
+PATIENT X602
+Okay, down here.
+
+DOCTOR X602
+Yeah, you just.  I was looking at your chart.  It looks like you've had some pretty big surgeries not too long ago. 
+
+PATIENT X602
+Oh on my leg.
+
+DOCTOR X602
+On your leg.
+
+PATIENT X602
+Right, right.
+
+DOCTOR X602
+Did you never have to see a doctor before all this happened?
+
+PATIENT X602
+No.
+
+DOCTOR X602
+No.  You weren't seeing anyone.  You weren't taking any medications.
+
+PATIENT X602
+No.
+
+DOCTOR X602
+Okay.  Did you have medical problems and you just weren't following or as far as you knew you didn't have.
+
+PATIENT X602
+I mean I don't know if I was just, it's that this came on and I didn't know of any problems.
+
+DOCTOR X602
+You said what?
+
+PATIENT X602
+It wasn't hurting anything.
+
+DOCTOR X602
+Yeah, yeah.  So you just never had a reason to go to the doctor.
+
+PATIENT X602
+Right, right.
+
+DOCTOR X602
+You were in good health and then all of a sudden this happened.
+
+PATIENT X602
+Right, right.
+
+DOCTOR X602
+And I understand that they had to cut below your knee on this one and just your toes on this leg right.
+
+PATIENT X602
+Right, right.
+
+DOCTOR X602
+Okay.  Did they tell you the reason why they thought this happened?
+
+PATIENT X602
+It was just frost bitten.
+
+DOCTOR X602
+They said what?
+
+PATIENT X602
+It was frost bitten.
+
+DOCTOR X602
+They were frost bitten.
+
+PATIENT X602
+Uh-huh.
+
+DOCTOR X602
+Oh wow.
+
+PATIENT X602
+Yeah.
+
+DOCTOR X602
+How did that happen?
+
+PATIENT X602
+I don't know how it happened.
+
+DOCTOR X602
+Were you out in the cold during the blizzard?
+
+PATIENT X602
+I was cold; I was out in the cold.
+
+DOCTOR X602
+Yeah.  Goodness.  So it's not because you have like diabetes or?
+
+PATIENT X602
+Oh no, no, no, no.
+
+DOCTOR X602
+Okay.
+
+PATIENT X602
+Hmm.
+
+DOCTOR X602
+Alright, so according to the computer though you have a lot of medicines they want you to take.  Are you taking those?
+
+PATIENT X602
+@@@, I take them right, right.
+
+DOCTOR X602
+You do those.  Okay cause you have some blood pressure medicines so it looks like maybe you did have high blood pressure.
+
+PATIENT X602
+Well I thought I did cause you know I knew if I had it, I knew if I'd feel dizzy when I'd be walking.
+
+DOCTOR X602
+Oh.
+
+PATIENT X602
+I'd feel a little dizzy but after a while, cause I quit what I was doing and it'd go away.
+
+DOCTOR X602
+Oh okay, okay, yeah so good.  So you are taking them though?
+
+PATIENT X602
+I'm doing everything; yes I got them now yeah.
+
+DOCTOR X602
+Okay good and all the vitamins and stuff.
+
+PATIENT X602
+I'm taking all of that, yeah and all that yeah.
+
+DOCTOR X602
+Good, good, alright.  Um and actually your blood pressure is looking good, so it’s perfect, just keep doing what you're doing.
+
+PATIENT X602
+Well, no alcohol.
+
+DOCTOR X602
+I'm sorry.
+
+PATIENT X602
+No alcohol.
+
+DOCTOR X602
+Yeah, yeah.  So you stopped the alcohol now?
+
+PATIENT X602
+Uh-huh.
+
+DOCTOR X602
+How much were you drinking before?
+
+PATIENT X602
+I was just drinking more, in the afternoon.
+
+DOCTOR X602
+So every day.
+
+PATIENT X602
+Well I was drinking every day yeah.
+
+DOCTOR X602
+Uh-huh.  Yeah, are you still drinking every day?
+
+PATIENT X602
+No, no I can't do none of that.
+
+DOCTOR X602
+Okay.
+
+PATIENT X602
+Yeah I stopped the alcohol.
+
+DOCTOR X602
+So the last one @@@ I guess right?
+
+PATIENT X602
+Yeah that's the last day.
+
+DOCTOR X602
+Yeah cause the alcohol @@@ will do that you know.
+
+PATIENT X602
+Yeah.
+
+DOCTOR X602
+Uh alright are you smoking?
+
+PATIENT X602
+I still smoke cigarettes yeah.
+
+DOCTOR X602
+Still smoke.  How much are you smoking?
+
+PATIENT X602
+A pack about every day and a half.
+
+DOCTOR X602
+A pack about every day and a half okay, alright.  Um any other problems you're having besides with your legs.  Because with your legs I can't help you unfortunately.  You've got to get Podiatry to help you.
+
+PATIENT X602
+Hmm.
+
+DOCTOR X602
+Nothing, no problem, no problems with your medicines or anything?
+
+PATIENT X602
+No problems, no medicines.
+
+DOCTOR X602
+It looks like you're gonna run out of stuff soon.
+
+PATIENT X602
+Yeah I ran out of one already.  I @@@.
+
+DOCTOR X602
+You did alright.  Amlodipine.  Are you needing this diphenhydramine, that's the xxxadryl?  I don't know, were you taking it for itching or for sleeping?
+
+PATIENT X602
+No I don't take nothing like that.
+
+DOCTOR X602
+Okay so you don't need that one right here.
+
+PATIENT X602
+Yeah.
+
+DOCTOR X602
+Um.  They have you on iron supplements, was your iron low, do you know?
+
+PATIENT X602
+Yeah I was gonna ask you if you know, but I'm taking two iron supplements.
+
+DOCTOR X602
+Yeah.  Let me see how they were. 
+
+PATIENT X602
+One of them I still have quite a few but the other one's kind of low.
+
+DOCTOR X602
+Okay.
+
+PATIENT X602
+Yeah.
+
+DOCTOR X602
+Let me see what they put you on.  Maybe they want you to have it.
+
+PATIENT X602
+Uh-huh.
+
+DOCTOR X602
+Oh your hemoglobin is very low, that's your blood count, okay.  And when you take the iron are you having problems with constipation at all?
+
+PATIENT X602
+No, not at all.
+
+DOCTOR X602
+No okay.
+
+PATIENT X602
+I don't take the @@@ any more.
+
+DOCTOR X602
+The oh you don't take the stool softeners anymore?
+
+PATIENT X602
+No, they make me keeping running.
+
+DOCTOR X602
+Oh.  So even, but you are taking the iron.
+
+PATIENT X602
+I take those.
+
+DOCTOR X602
+Okay just the stool softener.
+
+PATIENT X602
+Right.
+
+DOCTOR X602
+Is the one you aren't taking?
+
+PATIENT X602
+Right.
+
+DOCTOR X602
+Okay and do you need more of the gabapentin?
+
+PATIENT X602
+What?
+
+DOCTOR X602
+Gabapentin is the one; I'm assuming they probably gave it to you like sometimes after you have an amputation you have sensations like you know like your leg is still there.
+
+PATIENT X602
+Yeah I do have those.
+
+DOCTOR X602
+You do have those.
+
+PATIENT X602
+Right, right.
+
+DOCTOR X602
+Okay so we'll make sure we refill those.
+
+PATIENT X602
+Yeah.
+
+DOCTOR X602
+Oh it looks like you're pretty much out of everything actually.
+
+PATIENT X602
+Except that one iron pill, I have quite a few of those.
+
+DOCTOR X602
+Yeah okay.  Let's make sure we reorder all that stuff for you then.
+
+PATIENT X602
+Okay.
+
+DOCTOR X602
+Do you want to pick it up here or do you have an address that it can be mailed to or?
+
+PATIENT X602
+Well I have to go get it now.
+
+DOCTOR X602
+Okay, since you're here you might as well go get it.
+
+PATIENT X602
+Right.
+
+DOCTOR X602
+Make sure you keep taking those vitamins too.
+
+PATIENT X602
+Of course I'm gonna keep taking the vitamins.
+
+DOCTOR X602
+Um sounds like you used to drink quite a bit.
+
+PATIENT X602
+Oh yes.
+
+DOCTOR X602
+So you probably have some vitamin deficiencies.
+
+PATIENT X602
+Hmm.
+
+DOCTOR X602
+Uh it is pretty hard for you to get out here?
+
+PATIENT X602
+I just, I call for the free ride, the chauffeur.
+
+DOCTOR X602
+Okay.
+
+PATIENT X602
+@@@.
+
+DOCTOR X602
+So it'd probably be easier to give you 90 day supplies, what do you think?
+
+PATIENT X602
+You do it.
+
+DOCTOR X602
+Will that work?
+
+PATIENT X602
+Yeah.
+
+DOCTOR X602
+Where are you living at?  Do you have somewhere to live?
+
+PATIENT X602
+Uh-huh.  ADDRESS.
+
+DOCTOR X602
+Okay.  You know we can change this metoprolol to; they have you on 25 every eight hours.  We could change it to once a day and that'll be easier @@@.
+
+PATIENT X602
+You want me to take it two times a day?
+
+DOCTOR X602
+I'll change it so it can be just once a day.
+
+PATIENT X602
+Okay.
+
+DOCTOR X602
+Rather than taking it two times a day, we'll change to one.
+
+PATIENT X602
+Uh-huh.
+
+DOCTOR X602
+Are you pretty good about taking medicines or?
+
+PATIENT X602
+I got, if they want me to take it, I start out late, the one that I take two times a day.
+
+DOCTOR X602
+Good.
+
+PATIENT X602
+I take it all between 6 and 6.
+
+DOCTOR X602
+Good.  Oh it looks like you're on another once a day here, so we'll do it twice a day but we can change it to two times a day.
+
+PATIENT X602
+Uh-huh.
+
+DOCTOR X602
+Are you taking the aspirin still?
+
+PATIENT X602
+Right.
+
+DOCTOR X602
+Okay.  It must be hard for you to go to uh starting taking all these pills when you're not used to it right?
+
+PATIENT X602
+Well like anything, muscles, at that time, I used to work with weights and I used to take it before that.  I used to check it @@@.  I @@@.
+
+DOCTOR X602
+Yeah.
+
+PATIENT X602
+Yeah that's the way.
+
+DOCTOR X602
+Yeah keep taking it, I know it's hard but you can.  You got plenty of support at home, people to help you out?
+
+PATIENT X602
+Oh just me really so.
+
+DOCTOR X602
+It's just you.
+
+PATIENT X602
+Right.
+
+DOCTOR X602
+You live by yourself?
+
+PATIENT X602
+Oh no, there's another person, my roommate there.
+
+DOCTOR X602
+Okay, okay.
+
+PATIENT X602
+She's there yeah.
+
+DOCTOR X602
+Okay.  And you follow up with uh, with Podiatry and everything.
+
+PATIENT X602
+Yes I go there next when I'm done here.
+
+DOCTOR X602
+Oh today.
+
+PATIENT X602
+Yeah I have an appointment at 1 o'clock, a 1 o'clock appointment and a 2 o'clock with him.
+
+DOCTOR X602
+You have a 2 o'clock appointment.
+
+PATIENT X602
+Right.
+
+DOCTOR X602
+Okay.
+
+PATIENT X602
+Uh @@@ that's why I'm late.
+
+DOCTOR X602
+Oh okay.  Have you ever had a colonoscopy before?
+
+PATIENT X602
+I don't even know what that is.
+
+DOCTOR X602
+Um well if you've never been to the doctor you probably haven't had it.
+
+PATIENT X602
+No I haven't.
+
+DOCTOR X602
+Um it's where they use um a camera and a tube and they look in your colon that goes through.
+
+PATIENT X602
+Oh yeah, I understand that, no.
+
+DOCTOR X602
+You've never had it before though right?
+
+PATIENT X602
+No, no.
+
+DOCTOR X602
+Okay.  Do you know, you know we usually actually suggest people start having them when they're 50 years old.
+
+PATIENT X602
+Uh-huh.
+
+DOCTOR X602
+Um and then have them every 10 years so we can look for cancer.
+
+PATIENT X602
+Okay.
+
+DOCTOR X602
+Mainly because um you've done so good, not we just as doctors not wait as long but have gotten really good at finding them early so that if they are removed early.
+
+PATIENT X602
+Hmm.
+
+DOCTOR X602
+That we can prevent cancer from forming.
+
+PATIENT X602
+Oh okay.
+
+DOCTOR X602
+Um and then that's better than letting them you know be there, develop over time and keep developing.
+
+PATIENT X602
+Right, right.
+
+DOCTOR X602
+Then it causes a problem and then by the time, if you catch it late then it's um less likely that you can be cured from it.
+
+PATIENT X602
+Uh-huh.
+
+DOCTOR X602
+So um if you're up to it, if you're interested I can set you up for it.
+
+PATIENT X602
+That's the thing, they use a camera up your.
+
+DOCTOR X602
+Yeah, yeah.
+
+PATIENT X602
+I'd like to think about this.  @@@.
+
+DOCTOR X602
+I know I have to actually, my dad was not very happy with him when I forced him to do it.  Why don't you think about it, next time I see you then we can?
+
+PATIENT X602
+Okay the next appointment yeah; I'll give you the answer.
+
+DOCTOR X602
+Okay, okay, alright.  Give me just a second okay.  
+
+PATIENT X602
+Uh-huh.
+
+DOCTOR X602
+I'll be right back.
+
+PATIENT X602
+Okay.
+
+DOCTOR X602
+Are you having problems with swelling in your legs?
+
+PATIENT X602
+Pardon?
+
+DOCTOR X602
+Any problems with swelling in your legs at all?
+
+PATIENT X602
+Oh no, uh uh.
+
+DOCTOR X602
+Okay good, alrighty
+
+PATIENT X602
+Okay.
+
+(DOCTOR OUT:  35:21  DOCTOR IN:  43:08)
+
+DOCTOR X602
+Alright.
+
+PATIENT X602
+Okay.
+
+DOCTOR X602
+So we usually, after we see you all we go and talk to our bosses to make sure we're not missing anything.
+
+PATIENT X602
+Hmm.
+
+DOCTOR X602
+So do you see, I know you have a Podiatry appointment today so do you think after that you can stop by the Lab?  I just want to check you know some routine things since you haven't been to the doctor like, you know like your cholesterol, your PSA just little things um.
+
+PATIENT X602
+So you want me to come back up here?
+
+DOCTOR X602
+Oh uh, oh you can just, you know where the Lab is, right across the hall from here?  When you go out its right across the hall um and you just sign in and I'll have the labs put into the computer that I want them to check and they'll draw some blood.  You don't have to stay and wait for them though, if there's anything abnormal I could call you with it.
+
+PATIENT X602
+Uh-huh.
+
+DOCTOR X602
+Okay.
+
+PATIENT X602
+Okay.
+
+DOCTOR X602
+And then I'll see you back in like two or three months, how does that sound?
+
+PATIENT X602
+Okay.
+
+DOCTOR X602
+Of course you can always call back if you need to be seen sooner.
+
+PATIENT X602
+Okay.
+
+DOCTOR X602
+Okay.
+
+PATIENT X602
+Okay.
+
+DOCTOR X602
+So you can give that to the lady up front when you're checking out okay.
+
+PATIENT X602
+Well do I take these there?
+
+DOCTOR X602
+Yeah same place you came in.
+
+PATIENT X602
+Okay.
+
+DOCTOR X602
+Yeah, yeah, same place.
+
+PATIENT X602
+Okay.
+
+DOCTOR X602
+That's the one where the door @@@.  Oh alright.
+
+PATIENT X602
+Okay.
+
+DOCTOR X602
+Alright.
+
+PATIENT X602
+Uh-huh.
+
+DOCTOR X602
+I'll just help you get through here.  Alright I'll see you later.  Just call us and make your appointment sooner if you need anything okay.
+
+PATIENT X602
+I take this to the desk right there right?
+
+DOCTOR X602
+Yeah, right there and then oh okay, when you're done the Lab is just right across the hallway from here.
+
+PATIENT X602
+Okay, okay.
+
+DOCTOR X602
+Okay.  Alrighty, well I'll see you later.
+
+PATIENT X602
+Okay.
+
+PATIENT LEAVES:  45:01
+
+
+
+

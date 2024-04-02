@@ -1,0 +1,2302 @@
+
+DOCTOR X286
+PATIENT?
+
+PATIENT X286
+Yes ma'am that's me.
+ 
+DOCTOR X286
+Hello.  
+
+PATIENT X286
+Hello.
+
+DOCTOR X286
+Hey, I'm DOCTOR.
+
+PATIENT X286
+Okay.
+
+DOCTOR X286
+Come back.  There you go.  You can sit down here.  How you doing today?
+
+PATIENT X286
+Oh just okay.
+
+DOCTOR X286
+Just okay.  Come on in.  Nice to meet you.
+
+PATIENT X286
+Same here.  I kept hearing about DOCTOR and I said.
+
+DOCTOR X286
+Oh yeah, well that's me.  Alright.
+
+PATIENT X286
+Finally.
+
+DOCTOR X286
+So you've never been in this clinic before it looks like.
+
+PATIENT X286
+Uh yes but I had doctor, can't think of his name, anyway he graduated and went to @@@.
+
+DOCTOR X286
+Oh okay.  Alright.
+
+PATIENT X286
+So I've been here before.
+
+DOCTOR X286
+Okay.  
+
+PATIENT X286
+But the last time I been here for me was in September when I was going to the Sports Clinic.
+
+DOCTOR X286
+Oh okay.
+
+PATIENT X286
+And so all they did was okayed by Occupational.
+
+DOCTOR X286
+Okay, alright.
+
+PATIENT X286
+As a matter of fact I got another one.
+
+DOCTOR X286
+@@@.
+
+PATIENT X286
+Uh yes this is the wheelchair gang.
+
+DOCTOR X286
+Oh that's why.  Oh yeah this looks long.
+
+PATIENT X286
+Yeah it's not that much @@@.  Uh actually I'm a patient in the Spinal Cord Clinic too see.
+
+DOCTOR X286
+I saw that yes.
+
+PATIENT X286
+Yeah so most of.
+
+DOCTOR X286
+I see all of the.
+
+PATIENT X286
+A lot of other things I get them to fill out.
+
+DOCTOR X286
+Okay.
+
+PATIENT X286
+So whatever part that pertains to my physicality I guess you can put that on.
+
+DOCTOR X286
+Okay.
+
+PATIENT X286
+Most of the parts are in the computer.
+
+DOCTOR X286
+This part you can fill out.  So this is mainly the physical exam huh?
+
+PATIENT X286
+Yeah.
+
+DOCTOR X286
+Okay.  
+
+PATIENT X286
+I guess you need this.
+
+DOCTOR X286
+Your med list?  Okay so I'll fill this out at the end after I take a look at you okay.
+
+PATIENT X286
+Huh?
+
+DOCTOR X286
+Okay.  So how are you doing, what brings you in today?
+
+PATIENT X286
+Well just like I say.
+
+DOCTOR X286
+So you need a follow-up okay.
+
+PATIENT X286
+Well the first, like I say I haven't seen my primary care doctor since, had to be August or June of last year.
+
+DOCTOR X286
+Okay, okay.
+
+PATIENT X286
+And uh.
+
+DOCTOR X286
+So you're due huh?
+
+PATIENT X286
+Yeah I'm overdue.
+
+DOCTOR X286
+Okay, alright.  Well is there anything that you want to talk about today specifically, is something bothering you or that's new?
+
+PATIENT X286
+Well I got kind of a night cough.  I keep coughing up phlegm.
+
+DOCTOR X286
+Okay.
+
+PATIENT X286
+So I probably need some type of cough syrup or something.
+
+DOCTOR X286
+Okay.  And how long have you been coughing for?
+
+PATIENT X286
+Uh it's been since the winter months.  I guess since about December.
+
+DOCTOR X286
+Okay.
+
+PATIENT X286
+Maybe about November.
+
+DOCTOR X286
+Okay.
+
+PATIENT X286
+And it only usually happens at night for some reason.
+
+DOCTOR X286
+Okay.
+
+PATIENT X286
+And uh other than that uh, I got a letter that's saying they changed the sildenafil to.
+
+DOCTOR X286
+Viagra?
+
+PATIENT X286
+Yeah.
+
+DOCTOR X286
+Yeah.
+
+PATIENT X286
+And uh the dosage is not high enough for me.
+
+DOCTOR X286
+Okay.
+
+PATIENT X286
+I need that to probably be 100.
+
+DOCTOR X286
+Okay.  Have you tried it?
+
+PATIENT X286
+Yeah.
+
+DOCTOR X286
+The dose is what you needed and it's not working?
+
+PATIENT X286
+No.
+
+DOCTOR X286
+Okay.  Okay.  Alright what else?
+
+PATIENT X286
+And other than that.
+
+DOCTOR X286
+@@@.
+
+PATIENT X286
+Uh that's about it.
+
+DOCTOR X286
+Okay.
+
+PATIENT X286
+Uh a lot of the medications that they giving me like for my uh bowel movements.
+
+DOCTOR X286
+Yeah.
+
+PATIENT X286
+I don't even basically use those anymore.  I don't know if it's a problem but when I start having a problem I got to use what they call enemas.
+
+DOCTOR X286
+Enemas?
+
+PATIENT X286
+Enemas, its a little tube.
+
+DOCTOR X286
+Yes.
+
+PATIENT X286
+Okay I don't see it on there.
+
+DOCTOR X286
+Oh.
+
+PATIENT X286
+Oh I think it might be on there, its okay.
+
+DOCTOR X286
+Yeah it's this one.
+
+PATIENT X286
+How many more prescriptions I got for that?
+
+DOCTOR X286
+You have two refills.
+
+PATIENT X286
+Okay.
+
+DOCTOR X286
+I'll give you more.
+
+PATIENT X286
+Well I mean I'm okay with that.
+
+DOCTOR X286
+Okay.
+
+PATIENT X286
+Cause I see my Baclofen I got one refill left for that.
+
+DOCTOR X286
+Okay.
+
+PATIENT X286
+And I think you're gonna have to order that.
+
+DOCTOR X286
+You want to have that.
+
+PATIENT X286
+I probably need some more of that.
+
+DOCTOR X286
+Are you taking this Docusate, the oral medication for your stool or no?
+
+PATIENT X286
+No.
+
+DOCTOR X286
+Do you want us to take off your list?
+
+PATIENT X286
+No, see the reason for that being it's like, it's unpredictable.
+
+DOCTOR X286
+Okay.
+
+PATIENT X286
+You see what I'm saying it's like.
+
+DOCTOR X286
+Yeah.
+
+PATIENT X286
+I stay on the second floor.
+
+DOCTOR X286
+Okay.
+
+PATIENT X286
+And I stay with my son and my daughter-in-law.
+
+DOCTOR X286
+Okay.
+
+PATIENT X286
+So I got 16 stairs to my bedroom.
+
+DOCTOR X286
+Okay.
+
+PATIENT X286
+And so it's unpredictable so it'd be like maybe three or four days I don't have the desire to go.
+
+DOCTOR X286
+Okay.
+
+PATIENT X286
+So I know I have to so that's when I use the enema.  I have one of them in the bathroom I got access to.
+
+DOCTOR X286
+Okay, so you just use the enemas?
+
+PATIENT X286
+Yes.
+
+DOCTOR X286
+Okay.
+
+PATIENT X286
+Now like I say I don't know if that's a problem.
+
+DOCTOR X286
+So I don't know if they're good to use regularly.
+
+PATIENT X286
+You see I end up using them anytime I have to go, other than I don't have no.
+
+DOCTOR X286
+I think maybe what we should do is, so are you able to walk at all?
+
+PATIENT X286
+Yes.
+
+DOCTOR X286
+You are.
+
+PATIENT X286
+Yeah at home I walk with a cane.
+
+DOCTOR X286
+Oh.
+
+PATIENT X286
+As long as I hold to something.
+
+DOCTOR X286
+Oh okay okay.  Um so what I would suggest is that we switch you to another medication.
+
+PATIENT X286
+Okay.
+
+DOCTOR X286
+And so if you don't like the Docusate, if it doesn’t, if it's not predictable or you just don't like it, there's about 100 other things we can try.
+
+PATIENT X286
+See the reason why I say this because if I take uh, the Docusate is basically a stool softener.
+
+DOCTOR X286
+Softener yes.
+
+PATIENT X286
+Okay so if I take it and I don't know when it's gonna work.
+
+DOCTOR X286
+Okay.
+
+PATIENT X286
+And I might be.
+
+DOCTOR X286
+You just have to have a bowel movement very suddenly after you take it?
+
+PATIENT X286
+Uh not the pills but the uh like they gave me, I think it's a laxative too.
+
+DOCTOR X286
+Yeah that one is unpredictable yeah.
+
+PATIENT X286
+That one was like for constipation.
+
+DOCTOR X286
+But the Docusate shouldn't be.
+
+PATIENT X286
+Okay.
+
+DOCTOR X286
+Yeah.
+
+PATIENT X286
+I mean I don't have a problem as far as my stool being soft or nothing.
+
+DOCTOR X286
+Yeah.
+
+PATIENT X286
+I don't have a problem with that.
+
+DOCTOR X286
+So why don't you, so what is the problem?  You weren't taking it otherwise.
+
+PATIENT X286
+In otherwise the problem is that I don't have a desire to go at all.
+
+DOCTOR X286
+You don't feel like you have to go?
+
+PATIENT X286
+I don't have to go at all but I know I've been waiting three or four days without going.
+
+DOCTOR X286
+Yeah.  Know what I think you should do is start taking Miralax, so I'll prescribe that for you.  So Miralax is uh, it's a powder and you need to take one or two capfuls a day and you just mix it in anything and you can't taste it at all.
+
+PATIENT X286
+Okay.
+
+DOCTOR X286
+I've used it before; you really can't taste it okay.  Um.
+
+PATIENT X286
+I mean it doesn't come all of a sudden.
+
+DOCTOR X286
+No not at all.
+
+PATIENT X286
+Okay.
+
+DOCTOR X286
+So I think that this will be, you're right the Docusate is just a softener.  It doesn't make you have to go.
+
+PATIENT X286
+Right.
+
+DOCTOR X286
+So if that's the problem then Docusate is not the right medicine for you.  Um and the other one that you probably took is uh, is probably Bisacodyl or something like that where a laxative, those make you have to go very suddenly um.
+
+PATIENT X286
+Right.
+
+DOCTOR X286
+So Miralax is a really good option.
+
+PATIENT X286
+Okay.
+
+DOCTOR X286
+Because you just take it every day and it should make you have to go every couple days.
+
+PATIENT X286
+Okay that's something I need.
+
+DOCTOR X286
+So let's just try that.
+
+PATIENT X286
+Now see I don't think it's healthy for me to just.
+
+DOCTOR X286
+I don't think.
+
+PATIENT X286
+Waiting three or four days.
+
+DOCTOR X286
+Yeah I don't think it's healthy for you to use enemas that frequently.
+
+PATIENT X286
+Without going and then I have to keep using the enemas you know.
+
+DOCTOR X286
+So try the Miralax, take two capfuls a day.  You can put it in, I don't know what you drink but you can put it in your coffee or your water or whatever.
+
+PATIENT X286
+Okay.
+
+DOCTOR X286
+Um and take it every day.  Give it like a week or so to really start doing the job.
+
+PATIENT X286
+Okay.
+
+DOCTOR X286
+Okay then hopefully you can do that instead of the enemas. 
+
+PATIENT X286
+Okay.
+
+DOCTOR X286
+You can still use enemas when you need them.
+
+PATIENT X286
+Right.
+
+DOCTOR X286
+But using them three or four times a week is too much.
+
+PATIENT X286
+Okay.
+
+DOCTOR X286
+Okay.
+
+PATIENT X286
+Cause see basically the only, like I said I use them.  I don't have a desire to go, I could be three or four days and I'm constantly eating.
+
+DOCTOR X286
+Yeah.
+
+PATIENT X286
+So then I start feeling bloated.
+
+DOCTOR X286
+Sure okay.
+
+PATIENT X286
+And so I know it's a time that I'm at home and I don't have to go out cause I go out enough, Tuesdays, Wednesdays and Thursdays when I'm taking therapy.
+
+DOCTOR X286
+Okay.
+
+PATIENT X286
+And so I don't want to have to just watch it when I'm out @@@.
+
+DOCTOR X286
+Yeah, sure I understand.  
+
+PATIENT X286
+You know.
+
+DOCTOR X286
+Okay so let's try that and see if it works okay.
+
+PATIENT X286
+Okay, okay.
+
+DOCTOR X286
+Alright.  Um and are you still taking the Norco?
+
+PATIENT X286
+Yes.
+
+DOCTOR X286
+The hydrocodone okay.  Uh where do you have pain?
+
+PATIENT X286
+Well I got scoliosis.
+
+DOCTOR X286
+Okay.
+
+PATIENT X286
+So I always have pain in my back.
+
+DOCTOR X286
+Okay.
+
+PATIENT X286
+But sometime I get like a sharp pain since I had the surgery.  I'll have a sharp pain in the back of my head on the left hand side and it's like a, like getting hit in the head with a hammer.
+
+DOCTOR X286
+Hmm, okay.
+
+PATIENT X286
+And it just comes all of a sudden.
+
+DOCTOR X286
+Okay.
+
+PATIENT X286
+And so if it don't go away you know I'll take it.
+
+DOCTOR X286
+You take it okay.
+
+PATIENT X286
+So basically when I do a lot of physical activity my back will start hurting.
+
+DOCTOR X286
+Okay.
+
+PATIENT X286
+So before I take a shower in the morning I'll take one.
+
+DOCTOR X286
+You take that okay.
+
+PATIENT X286
+And then if I do some therapy or something I'll take another one.
+
+DOCTOR X286
+Okay gotcha.  Have you ever tried anything like tramadol or anything else for pain?
+
+PATIENT X286
+No.
+
+DOCTOR X286
+No okay.  
+
+PATIENT X286
+They put me on oxycodone one time but it was kind of, it didn't nothing but put me to sleep.
+
+DOCTOR X286
+Okay gotcha.  And this one's not bad, uh we can continue this.  There are other medications that are a little bit easier on your system if they work and I'm not.
+
+PATIENT X286
+And I think the Norco constipates me.
+
+DOCTOR X286
+It does yeah.  So that's why I'm saying um but what I can do is give you a prescription for a medication and your kidneys work okay?
+
+PATIENT X286
+Yeah.
+
+DOCTOR X286
+Yeah okay.  So there's another medicine that you can try in place of the Norco, called tramadol um and it's not, won't constipate you.  It's not as strong so it might not work but if it does it's a much better option.
+
+PATIENT X286
+Okay.
+
+DOCTOR X286
+Okay so at least try it.
+
+PATIENT X286
+Okay.
+
+DOCTOR X286
+Um.
+
+PATIENT X286
+I'll try it.
+
+DOCTOR X286
+Um you haven't tried it in the past.
+
+PATIENT X286
+I've never tried it.
+
+DOCTOR X286
+And then it doesn't work then.
+
+PATIENT X286
+I mean just like right now, it depends on the position I'm in.
+
+DOCTOR X286
+Yeah.
+
+PATIENT X286
+Whether I'm gonna have pain or not.  Pain is a given for me, I mean I accept that.
+
+DOCTOR X286
+Yes.
+
+PATIENT X286
+But sometimes it's just more prevalent depending on the activities that I'm doing.
+
+DOCTOR X286
+Sure.
+
+PATIENT X286
+You know.
+
+DOCTOR X286
+Okay.  So what I recommend is the tramadol cause it's not as strong um.  You can take it every day no problem.
+
+PATIENT X286
+Okay.
+
+DOCTOR X286
+You can even take two a day um, it's not as addicting and it's not constipating.  It's not um not like a controlled substance.
+
+PATIENT X286
+Okay.
+
+DOCTOR X286
+The way Norco is.  Um so I would take one every morning and then you can take a second one in the afternoon.
+
+PATIENT X286
+Okay.
+
+DOCTOR X286
+Try that for a couple days and if it's not doing anything.
+
+PATIENT X286
+Without the Norco.
+
+DOCTOR X286
+Without the Norco.
+
+PATIENT X286
+Okay.
+
+DOCTOR X286
+Um you can take them together; they're not bad together um.
+
+PATIENT X286
+Okay.
+
+DOCTOR X286
+Um so if you have a day that you try the tramadol and all of a sudden you're in a lot of pain, you can still take the Norco.
+
+PATIENT X286
+Okay, I understand right.
+
+DOCTOR X286
+Um but if you, if the tramadol works then.
+
+PATIENT X286
+I could discontinue okay.
+
+DOCTOR X286
+Go off the Norco or take it less frequently.
+
+PATIENT X286
+Like I do believe the Norco is what's constipating me.
+
+DOCTOR X286
+It will, absolutely yes.
+
+PATIENT X286
+So that causes me to have a problem with my digestive system.
+
+DOCTOR X286
+Yes, you're exactly right about that okay.  So let's try that and see how you do.
+
+PATIENT X286
+Okay.
+
+DOCTOR X286
+Okay.  Um okay so what other medical problems do you have?  Like you a follow a doctor for, you have scoliosis?
+
+PATIENT X286
+Right.
+
+DOCTOR X286
+You had surgery on your scoliosis?
+
+PATIENT X286
+No, never did.
+
+DOCTOR X286
+What kind of back surgery have you had?
+
+PATIENT X286
+I've had surgery; I had a bone in my neck pressing up against my spinal cord.
+
+DOCTOR X286
+Oh okay.
+
+PATIENT X286
+And so I had a laminectomy.
+
+DOCTOR X286
+Okay.
+
+PATIENT X286
+And so like I said, @@@ out.
+
+DOCTOR X286
+Okay.
+
+PATIENT X286
+And so sometimes during the day, like say, it depends on my activities.  My neck will get tired and I'll have pain in that too you know.
+
+DOCTOR X286
+Okay.
+
+PATIENT X286
+I just, then I go take @@@.
+
+DOCTOR X286
+And um do you have weakness in your lower extremities?
+
+PATIENT X286
+I got this weakness in my left leg, no in my right leg and my left arm and my left hand is numb.
+
+DOCTOR X286
+Your right leg and your left arm?
+
+PATIENT X286
+Right.
+
+DOCTOR X286
+And what about, tell me about your numbness?
+
+PATIENT X286
+Okay so, this is how it started.  I had an operation on my hammertoes in the service.
+
+DOCTOR X286
+Okay.
+
+PATIENT X286
+And I ended up with calluses up under the bottom of my right foot.
+
+DOCTOR X286
+Okay.
+
+PATIENT X286
+And so every time I take a step I steps down on the calluses it would hurt.
+
+DOCTOR X286
+Uh-huh.
+
+PATIENT X286
+So it caused me to start walking on my tip toe.
+
+DOCTOR X286
+Okay.
+
+PATIENT X286
+So with me walking on my top toes, so I didn't bend my right leg see.
+
+DOCTOR X286
+Okay.
+
+PATIENT X286
+And so now, the tendons in the back of my leg won't stretch all the way out.
+
+DOCTOR X286
+Okay.
+
+PATIENT X286
+And that in time, it probably had something with me doing twisting my back.
+
+DOCTOR X286
+Okay.
+
+PATIENT X286
+Okay so when I started mentioning they gave me a cane.
+
+DOCTOR X286
+Uh-huh.
+
+PATIENT X286
+Doctor told me to use the cane in my left hand but my left being numb I have no control over it.
+
+DOCTOR X286
+Oh yeah.
+
+PATIENT X286
+So I started walking with it in my right hand.
+
+DOCTOR X286
+Okay.
+
+PATIENT X286
+But still this twisted my spine.
+
+DOCTOR X286
+Okay, gotcha, okay.
+
+PATIENT X286
+And that's basically where I'm at today.
+
+DOCTOR X286
+Okay do you have lower back pain?
+
+PATIENT X286
+Yes.
+
+DOCTOR X286
+Yeah okay.
+
+PATIENT X286
+It's always like on the right hand side.
+
+DOCTOR X286
+On that side.  Okay what happened with your arm, why is it numb?
+
+PATIENT X286
+Well my left hand is numb from the.
+
+DOCTOR X286
+Oh from that surgery?
+
+PATIENT X286
+Yeah, well no it had been numb for the longest.
+
+DOCTOR X286
+Oh okay.
+
+PATIENT X286
+And what actually happened was they took a MRI and uh they saw that a bone was pressing up against my spinal cord.
+
+DOCTOR X286
+Yeah.
+
+PATIENT X286
+And I told them I didn't want to have an operation just for my left hand being numb so I dealt with it.
+
+DOCTOR X286
+Okay.
+
+PATIENT X286
+I mean I would pick up things and I'd drop them.
+
+DOCTOR X286
+Yeah.
+
+PATIENT X286
+And whatever so as time went on, every time I walked my right foot would start turning inward.
+
+DOCTOR X286
+Hmm.
+
+PATIENT X286
+And this was causing me to trip and fall.
+
+DOCTOR X286
+Okay.
+
+PATIENT X286
+And stuff.
+
+DOCTOR X286
+Okay.
+
+PATIENT X286
+So they gave me a walker.
+
+DOCTOR X286
+Okay.
+
+PATIENT X286
+Then I started walking with the walker and then I had another MRI and the bone pressed up to my spinal cord and started looking like a pancake.
+
+DOCTOR X286
+Oh okay so then you had to get the surgery.
+
+PATIENT X286
+So then I had to have the surgery so.  When I had the surgery, the residual from it, my right foot still turns inward.
+
+DOCTOR X286
+Okay.
+
+PATIENT X286
+And I'm taking uh Botox shots in the back of my legs so I can stretch it out.
+
+DOCTOR X286
+Okay.
+
+PATIENT X286
+But what it is, it's the same when I walk.
+
+DOCTOR X286
+Yeah, sure okay.
+
+PATIENT X286
+So I had to try to learn how to walk again basically.
+
+DOCTOR X286
+Oh okay.
+
+PATIENT X286
+So I'm still kind of clumsy you know what I'm saying.
+
+DOCTOR X286
+Okay, gotcha.
+
+PATIENT X286
+Cause I got 16 stairs at home so.
+
+DOCTOR X286
+You have to get up those.
+
+PATIENT X286
+I get up and down the stairs with a cane.
+
+DOCTOR X286
+Okay, okay.  So besides all this stuff with your joints and your back and everything, do you have any other problems like high blood pressure?
+
+PATIENT X286
+No.  Now my blood pressure is high today.
+
+DOCTOR X286
+It was high today, yeah.  You take it at home?
+
+PATIENT X286
+Never.
+
+DOCTOR X286
+Okay.
+
+PATIENT X286
+Cause I had another.
+
+DOCTOR X286
+Has it ever been high before?
+
+PATIENT X286
+No.  Normally it's in the 130s.
+
+DOCTOR X286
+Okay.
+
+PATIENT X286
+And like I told them, when I took physical therapy it was 128 and then I wheeled myself over here.
+
+DOCTOR X286
+Okay yeah that could be why.
+
+PATIENT X286
+So that's probably the reason why.
+
+DOCTOR X286
+Okay, we'll watch it.
+
+PATIENT X286
+I have never took high blood pressure medication or nothing.
+
+DOCTOR X286
+Yeah why don't we watch it?  I don't like to start anything just on one reading.
+
+PATIENT X286
+Right.
+
+DOCTOR X286
+Since you just got here so if, we'll just make sure it's not continuing and keep an eye on it okay.
+
+PATIENT X286
+Okay.
+
+DOCTOR X286
+Do you have any diabetes?
+
+PATIENT X286
+No.
+
+DOCTOR X286
+No okay.  Any cancers?
+
+PATIENT X286
+No.
+
+DOCTOR X286
+Any problems with your heart?
+
+PATIENT X286
+No.  Now they did say I had a irregular heartbeat, the last EKG I took.
+
+DOCTOR X286
+Okay.
+
+PATIENT X286
+That was in September I think.
+
+DOCTOR X286
+Let's take a look.  Did they start you on any medication for it?
+
+PATIENT X286
+No.  I don't even think they recommended any.
+
+DOCTOR X286
+Okay.  Okay, it looks okay.
+
+PATIENT X286
+Okay good.  That's good to know.
+
+DOCTOR X286
+Yes that's true.  Yeah it's good.
+
+PATIENT X286
+That's too good of thing, considering at the time cause I was involved in so many physical activities.
+
+DOCTOR X286
+Okay.
+
+PATIENT X286
+I don't know if that had anything to do with it or not.
+
+DOCTOR X286
+Okay, okay, yeah that's fine.
+
+PATIENT X286
+It's a possibility.
+
+DOCTOR X286
+Sure okay.  Um okay and any medical problems that run in your family?
+
+PATIENT X286
+Uh my mother was diabetic and my father he had uh heart problems.
+
+DOCTOR X286
+At a young age or was he older?
+
+PATIENT X286
+Yeah well he lived to 90.
+
+DOCTOR X286
+Oh okay.
+
+PATIENT X286
+She lived to 79 so.
+
+DOCTOR X286
+Okay.  Okay.  Alright and are you a smoker?
+
+PATIENT X286
+Yes.
+
+DOCTOR X286
+Presently?
+
+PATIENT X286
+Yes.
+
+DOCTOR X286
+Why are you still smoking?
+
+PATIENT X286
+I keep trying to stop but it makes me gain weight so I have got down to no more than five cigarettes a day.
+
+DOCTOR X286
+Okay how long have you been smoking for?
+
+PATIENT X286
+Since I was about 12 years old.
+
+DOCTOR X286
+Now you're almost 50 so okay.
+
+PATIENT X286
+I mean I have stopped before but I guess I don't smoke as much in the wintertime cause I have to go outside to smoke.
+
+DOCTOR X286
+Yeah.
+
+PATIENT X286
+So I might smoke maybe three cigarettes a day.
+
+DOCTOR X286
+Okay.
+
+PATIENT X286
+Just actually 2 1/2 really.
+
+DOCTOR X286
+Okay.
+
+PATIENT X286
+It's not, I don't know, it's just I guess that's what it is, just a habit.
+
+DOCTOR X286
+Okay.  Are you interested in quitting?
+
+PATIENT X286
+Uh yes.
+
+DOCTOR X286
+Have you ever, what have you done in the past.
+
+PATIENT X286
+I've taken uh, what's the little lozenges.
+
+DOCTOR X286
+Yeah.  Was it gum or the actual lozenges?
+
+PATIENT X286
+The lozenges.
+
+DOCTOR X286
+Okay.
+
+PATIENT X286
+And I take them and they're so strong that when I take them they would have me gagging.
+
+DOCTOR X286
+Okay.
+
+PATIENT X286
+Coughing and stuff.
+
+DOCTOR X286
+Okay.
+
+PATIENT X286
+I mean when I'm supposed to take them, I mean.
+
+DOCTOR X286
+Have you tried the gum?
+
+PATIENT X286
+Never.
+
+DOCTOR X286
+Do you chew gum ever?
+
+PATIENT X286
+Yeah.
+
+DOCTOR X286
+Okay.
+
+PATIENT X286
+They don't stop me though.
+
+DOCTOR X286
+So maybe you should try the gum.  Have you used the patches?
+
+PATIENT X286
+No.
+
+DOCTOR X286
+Do you want to try the patches too?
+
+PATIENT X286
+I prefer the gum.
+
+DOCTOR X286
+Just the gum alone.
+
+PATIENT X286
+Yeah.
+
+DOCTOR X286
+Okay.  Let's, we can try the gum and if it doesn't work.
+
+PATIENT X286
+See the reason why I say that is because I don't want to have the patch on, if I didn't have the urge to smoke that doubles it.
+
+DOCTOR X286
+Yeah.  Well so what you could do is if you ever do use the patches.
+
+PATIENT X286
+Don't.
+
+DOCTOR X286
+And you need to smoke; obviously we don't want you to.
+
+PATIENT X286
+Right.
+
+DOCTOR X286
+Um so what the most success.  The way people are most successful is that they do the patches and either the gum or the lozenges so that they have some nicotine in their systems.
+
+PATIENT X286
+And then they.
+
+DOCTOR X286
+And the way the patches work is you change them every day and the amount of nicotine goes down so every two weeks it helps your body to kind of detox from the nicotine.
+
+PATIENT X286
+Oh okay.
+
+DOCTOR X286
+And then if you have an urge to smoke you're supposed to take the gum instead of the cigarettes.
+
+PATIENT X286
+Okay, the same stuff.
+
+DOCTOR X286
+Okay.
+
+PATIENT X286
+I'll try that.
+
+DOCTOR X286
+And then if the worst case scenario and you have a really bad day or something and you need to smoke you can take the patch off and then you can smoke.
+
+PATIENT X286
+Actually I used to buy a carton of cigarettes per month.
+
+DOCTOR X286
+Okay.
+
+PATIENT X286
+You know and those last me a whole month.
+
+DOCTOR X286
+Yeah.
+
+PATIENT X286
+Cause I had just got, it was a habit of buying a whole carton.
+
+DOCTOR X286
+Okay.
+
+PATIENT X286
+And so now I don't.
+
+DOCTOR X286
+Okay.
+
+PATIENT X286
+You know what I'm saying.
+
+DOCTOR X286
+Well that's good.  I'm glad you've cut back.
+
+PATIENT X286
+Yeah so I'm making it last.
+
+DOCTOR X286
+Okay, but if you're, you know you're close so.  If you're only smoking three a day maybe we can get down.
+
+PATIENT X286
+Right, right, right.
+
+DOCTOR X286
+Yeah and that's the best thing you can do in the world for your health.
+
+PATIENT X286
+I know.
+
+DOCTOR X286
+Okay so um.  Do you want to try that?
+
+PATIENT X286
+Yeah I will.
+
+DOCTOR X286
+Do you want to try the patches?
+
+PATIENT X286
+Yeah I will, I will.
+
+DOCTOR X286
+Okay great, that's good.
+
+PATIENT X286
+Yeah I'll try it.
+
+DOCTOR X286
+Okay.
+
+PATIENT X286
+Cause I keep saying you know I cut down on my own and then I be paying for the cigarettes.
+
+DOCTOR X286
+Yeah.
+
+PATIENT X286
+You know what I mean.  I take the lozenges and they gag me.
+
+DOCTOR X286
+And they're bad yeah.
+
+PATIENT X286
+It's not you know and then I put it out and I'm still paying for the cigarettes.
+
+DOCTOR X286
+Yeah.
+
+PATIENT X286
+Cause I don't want to take another lozenge cause I know the results of that.
+
+DOCTOR X286
+Sure, sure.
+
+PATIENT X286
+But then I go down there and I start eating.
+
+DOCTOR X286
+Okay, okay and honestly it's okay.  I'd rather you eat than smoke.
+
+PATIENT X286
+And then if I eat, I keep eating and then I get bloated and then I'll have to take an enema.
+
+DOCTOR X286
+Oh okay, so yeah I see, okay.  Alright well let's try the patches and the gum.
+
+PATIENT X286
+Okay.
+
+DOCTOR X286
+And see how you do okay.
+
+PATIENT X286
+Okay, okay.
+
+DOCTOR X286
+Alright and do you drink any alcohol?
+
+PATIENT X286
+I drink beer.
+
+DOCTOR X286
+How often?
+
+PATIENT X286
+Oh.
+
+DOCTOR X286
+How many beers a week do you have?
+
+PATIENT X286
+Well I'd say about a day I might have three beers at the most.
+
+DOCTOR X286
+A day okay.
+
+PATIENT X286
+You know.
+
+DOCTOR X286
+Okay, alright.  That's just on the cusp of too much but that's okay.
+
+PATIENT X286
+Alright.
+
+DOCTOR X286
+So try to keep it to one or two a day okay.
+
+PATIENT X286
+Okay.
+
+DOCTOR X286
+Um do you use any illicit drugs like?
+
+PATIENT X286
+No.
+
+DOCTOR X286
+No okay.
+
+PATIENT X286
+Not since 2003, that was before I went to xxx Brown.
+
+DOCTOR X286
+Oh good, okay.  Did you ever use any IV drugs in the past?
+
+PATIENT X286
+Nope never.
+
+DOCTOR X286
+No, good okay.  Alright and where do you live, you said you live with your son?
+
+PATIENT X286
+Yes I have a son and daughter-in-law in @@@.
+
+DOCTOR X286
+Okay.
+
+PATIENT X286
+And I'm in the process of moving.
+
+DOCTOR X286
+Oh okay.  Where are you moving to?
+
+PATIENT X286
+Well I'm in the Homeless Program so I'm looking for an apartment, actually in the suburbs.  
+
+DOCTOR X286
+Okay.
+
+PATIENT X286
+I want to move to the city.
+
+DOCTOR X286
+Okay, alright, good.  Okay and so you follow up with Spinal Cord and who else do you see here?
+
+PATIENT X286
+Uh Podiatry.
+
+DOCTOR X286
+Okay.
+
+PATIENT X286
+Every three months.
+
+DOCTOR X286
+Okay.
+
+PATIENT X286
+And uh I was seeing a neurologist but they're basically were just following up on my operation.
+
+DOCTOR X286
+Okay.
+
+PATIENT X286
+And giving me information on simply the symptoms that I might have.
+
+DOCTOR X286
+Okay.
+
+PATIENT X286
+Uh I still have spasticity in my right leg.
+
+DOCTOR X286
+Yeah.
+
+PATIENT X286
+And so I take Doxepin for that.
+
+DOCTOR X286
+Okay good.  Okay.  Alright and what are these @@@ where are these?
+
+PATIENT X286
+Those are written with @@@.
+
+DOCTOR X286
+Oh yeah.
+
+PATIENT X286
+That was a wheelchair gang.
+
+DOCTOR X286
+Oh.
+
+PATIENT X286
+I got my application in where those are made.
+
+DOCTOR X286
+Oh okay.
+
+PATIENT X286
+And that's in the same force.
+
+DOCTOR X286
+Okay.
+
+PATIENT X286
+In March I'm going to Colorado.
+
+DOCTOR X286
+Wow, so do you go through the VA for all these things?
+
+PATIENT X286
+Yeah uh-huh.
+
+DOCTOR X286
+That sounds fun.
+
+PATIENT X286
+So you have to get points.
+
+DOCTOR X286
+Oh okay.
+
+PATIENT X286
+Voluntaring for candy sales and printing out letters that solicit for different you know.
+
+DOCTOR X286
+Okay to qualify to go.
+
+PATIENT X286
+Yeah so I went in and sold flowers today, @@@.
+
+DOCTOR X286
+Oh okay for Valentine's Day.
+
+PATIENT X286
+Yes.
+
+DOCTOR X286
+Oh I see good.  Okay so had blood work back in November.  Okay so that's six months ago and let's see what else is there.  Um so your cholesterol six months ago was perfect.  Your kidneys look very good.  Everything looks normal.
+
+PATIENT X286
+Okay.
+
+DOCTOR X286
+And your blood counts look normal, so all your lab work was normal six months ago.
+
+PATIENT X286
+That's good to know.
+
+DOCTOR X286
+Yeah so um, so we won't repeat it today.
+
+PATIENT X286
+Okay.
+
+DOCTOR X286
+We don't need to do lab work as long as everything is normal once a year.
+
+PATIENT X286
+Okay.
+
+DOCTOR X286
+Okay so the next time I see you before you come in, just don't eat breakfast that morning you need your lab work done fasting.
+
+PATIENT X286
+Okay right.
+
+DOCTOR X286
+And then we'll go over it.
+
+PATIENT X286
+So that was after @@@ when I got the appointment then I had to go do labs and they told me since you're going to have a new doctor go find out first.
+
+DOCTOR X286
+Yeah, yeah.
+
+PATIENT X286
+So they checked the computers.
+
+DOCTOR X286
+Sure.
+
+PATIENT X286
+Yeah that makes sense.
+
+DOCTOR X286
+So yeah we'll do, you know if things start popping up abnormal we'll do them more frequently but everything looks perfect.
+
+PATIENT X286
+Good.
+
+DOCTOR X286
+So.  Okay, alright good.  So let's go through and put your meds in.  Do you want to pick up your new medicines today or do you want them to come in the mail?
+
+PATIENT X286
+You know what I can pick them up today since I'm here.
+
+DOCTOR X286
+Okay, sounds good.  I'll put those in before you leave.
+
+PATIENT X286
+Since I got my briefcase, I can put them in there.
+
+DOCTOR X286
+Okay alright.  Um and have you ever had a colonoscopy?
+
+PATIENT X286
+Yes.
+
+DOCTOR X286
+When was your colonoscopy?
+
+PATIENT X286
+Uh, it would be, I think it should be in there.
+
+DOCTOR X286
+You had it here?
+
+PATIENT X286
+Uh.
+
+DOCTOR X286
+I don't think you did, it doesn't look like it.
+
+PATIENT X286
+I can't remember if I did.
+
+DOCTOR X286
+xxx xxx xxx?
+
+PATIENT X286
+xxx Brown.
+
+DOCTOR X286
+How long ago approximately?
+
+PATIENT X286
+Uh, let me see, I might of had it in 2009.
+
+DOCTOR X286
+Okay, so.
+
+PATIENT X286
+2008 or 09.
+
+DOCTOR X286
+Okay, I'll look in the record.  Usually it's done every ten years.
+
+PATIENT X286
+Okay.
+
+DOCTOR X286
+So it sounds like you're okay.
+
+PATIENT X286
+Oh I'm all good with that.
+
+DOCTOR X286
+Okay.
+
+PATIENT X286
+Oh it hasn't been ten years so.
+
+DOCTOR X286
+Yeah definitely less than ten.  Okay, alright let me take a look at you.  Yeah, just that and a little bit.  Wow can you get up here?  Okay, that'd be great.
+
+PATIENT X286
+Yeah.
+
+DOCTOR X286
+Let's see what @@@ for.  Just lay back @@@.
+
+PATIENT X286
+@@@.
+
+DOCTOR X286
+Wow okay @@@.  Okay look ahead, okay open up say ah.
+
+PATIENT X286
+Ah.  I was gonna say lately I've been you know if I move my head real fast I see like some uh, like uh a flash.
+
+DOCTOR X286
+Oh yeah.
+
+PATIENT X286
+If I look on the left.
+
+DOCTOR X286
+Okay.
+
+PATIENT X286
+Something like stars or something.
+
+DOCTOR X286
+How long has that been going on?
+
+PATIENT X286
+I don't know just lately, no more than two weeks.
+
+DOCTOR X286
+Do you get dizzy at all?  Have you fallen?
+
+PATIENT X286
+Uh I did fall but.
+
+DOCTOR X286
+What @@@.
+
+PATIENT X286
+No I fell cause I was @@@.
+
+DOCTOR X286
+Alright, okay.
+
+PATIENT X286
+And they had me in a bucket with the one speed.
+
+DOCTOR X286
+Okay.
+
+PATIENT X286
+And I was trying to get to my balance, the reason I fell is I just the other way to the left.
+
+DOCTOR X286
+Okay.
+
+PATIENT X286
+Then I just go over that.  I used the crutches with the tube and @@@.
+
+DOCTOR X286
+Oh okay.  Alright.
+
+PATIENT X286
+@@@.
+
+DOCTOR X286
+We'll keep an eye on it.  If it's still going on we can look into it more closely but I'm not sure exactly what would cause that.  Any pain when I push down on your throat?  Any weight loss or weight gain, are you feeling anything when I press there?
+
+PATIENT X286
+I think I just gained some weight.
+
+DOCTOR X286
+Okay.
+
+PATIENT X286
+Probably from trying to stop smoking.
+
+DOCTOR X286
+Okay.  Breathe normal.  Take a deep breath.  Take a deep breath here, just so I can listen.
+
+PATIENT X286
+Uh-huh.
+
+DOCTOR X286
+Take a few more breaths.  Okay.  So you're coughing phlegm up at night?
+
+PATIENT X286
+Yeah, it's something like a kind of had a little longer.
+
+DOCTOR X286
+Uh-huh.
+
+PATIENT X286
+You know I don't know if it's a cold or.
+
+DOCTOR X286
+Okay.  Well like are you actually coughing it up do you see it?
+
+PATIENT X286
+Yeah.
+
+DOCTOR X286
+What color is it?
+
+PATIENT X286
+Grayish.
+
+DOCTOR X286
+Any blood in it?
+
+PATIENT X286
+No.
+
+DOCTOR X286
+No, oh and you're not coughing at all during the day?
+
+PATIENT X286
+No @@@ sometimes I can feel a cold in my throat and I'm just coughing.
+
+DOCTOR X286
+Okay.  Are you short of breath ever?  No okay.  Um so it might be related to your smoking.
+
+PATIENT X286
+I thought of that.
+
+DOCTOR X286
+Okay.
+
+PATIENT X286
+Like a smoker's cough.
+
+DOCTOR X286
+Um and this has been going on for how long?  A month?
+
+PATIENT X286
+Uh I guess.
+
+DOCTOR X286
+No pain when I push?
+
+PATIENT X286
+I had appendectomy.
+
+DOCTOR X286
+Oh okay.  Do you get swelling in the ankles at all?
+
+PATIENT X286
+No.
+
+DOCTOR X286
+No okay.  Alright kick out against my hand, same here good.  Kick up against my hand right here, on this side okay and down.  Okay up, okay and down.  Lift up your @@@ touch my hand okay.
+
+PATIENT X286
+Sounds good.
+
+DOCTOR X286
+Okay, this one.
+
+PATIENT X286
+Up.
+
+DOCTOR X286
+@@@.  Okay @@@ into me.  Good, this one now follow in okay.  @@@ try to @@@.  Okay now shrug your shoulder, this one, shrug up, now this one okay.  Now put your hands out like this, turn your hands, okay.  Squeeze my fingers on both sides just as hard as you can good, I feel your thumb okay.  Okay.
+
+PATIENT X286
+You can tell the weakness on one.
+
+DOCTOR X286
+Yeah I can, yes and this arm is actually pretty strong.  Squeeze my hand again, it's pretty strong.  Do it as hard as you can okay.  Do you do a lot of stuff with this arm?
+
+PATIENT X286
+Well uh actually like when I do the physical therapy I've been building this arm up but on some of the weights I have to, in order for it to be even I have to put more weight on this one.
+
+DOCTOR X286
+And that one is stressed.
+
+PATIENT X286
+Than this one.
+
+DOCTOR X286
+Okay, okay.
+
+PATIENT X286
+You know and like I do the weights one at a time.
+
+DOCTOR X286
+Okay.  Let me see you stand up.  Okay.
+
+PATIENT X286
+I can't put this leg all the way straight.
+
+DOCTOR X286
+So you can't take a step with that foot or you'll fall.
+
+PATIENT X286
+I mean I can take s step but my balance is off.
+
+DOCTOR X286
+Very difficult yeah.  Okay.  Okay.  This exam form is asking for some details on your strength.
+
+PATIENT X286
+Okay.
+
+DOCTOR X286
+Okay.  Good okay.  You can get back in your chair.
+
+PATIENT X286
+But like I say at home I use a cane.
+
+DOCTOR X286
+Yeah.
+
+PATIENT X286
+And I hold on to different things.
+
+DOCTOR X286
+Okay.
+
+PATIENT X286
+I don't know if I can put this back on.
+
+DOCTOR X286
+Okay, I'm sorry the coughing has been going on for how long?
+
+PATIENT X286
+Uh @@@ smoke @@@.
+
+DOCTOR X286
+Okay.  Is it worse when you're laying down or does it happen at night no matter what position that you're in?  Do you think its worse when you're laying down?
+
+PATIENT X286
+Yeah.  I guess it's, it's @@@ up at night.
+
+DOCTOR X286
+Uh-huh.  Okay.  There's a couple of things we need to check.  Your testosterone.  Okay let me go talk to one of the other doctors about this and um and I'll fill this form out and I'll be right back.
+
+PATIENT X286
+Okay.
+
+DOCTOR X286
+Okay.
+
+(DOCTOR OUT:  52:56  DOCTOR IN:  64:49)
+
+DOCTOR X286
+Okay.  Okay.  That's good.  Almost done with this form.  I'll put all your meds in.  Now for your cough, we can try this Mucinex; this is something to help you break up the mucous.
+
+PATIENT X286
+Okay.
+
+DOCTOR X286
+A cough suppressant generally isn't a great idea.
+
+PATIENT X286
+Okay.
+
+DOCTOR X286
+Because if you have a lot of mucous in your chest, especially as a smoker, if you don't cough it up you can be more prone to getting a pneumonia or an infection.
+
+PATIENT X286
+Okay.
+
+DOCTOR X286
+Essentially it's good to cough it up.
+
+PATIENT X286
+Right.
+
+DOCTOR X286
+Um so.
+
+PATIENT X286
+I mean the more I'm coughing, if I keep on coughing I can get it to come up.
+
+DOCTOR X286
+It comes up okay.
+
+PATIENT X286
+I mean it's not a whole lot.
+
+DOCTOR X286
+Yeah, yeah.  Have you ever had pulmonary function testing done?  Where you breathe into a machine?
+
+PATIENT X286
+Yeah I think I did.
+
+DOCTOR X286
+You did.
+
+PATIENT X286
+Uh as a matter of fact uh one time, when I was at xxx Brown they tested me and said I had sarcoidosis, sarcoid or something.
+
+DOCTOR X286
+Really?
+
+PATIENT X286
+It was years ago.
+
+DOCTOR X286
+Hmm.
+
+PATIENT X286
+And uh they gave me a, this thing that I breathe in and it's got a little ball.
+
+DOCTOR X286
+Yeah.
+
+PATIENT X286
+Like it was a plastic thing.
+
+DOCTOR X286
+Okay.  I'll probably repeat your pulmonary function testing.
+
+PATIENT X286
+Okay.
+
+DOCTOR X286
+Cause I think you have COPD.
+
+PATIENT X286
+Okay.
+
+DOCTOR X286
+Because of lung problems that people that smoke for a long time get um and there's a lot of good medications to treat COPD but we don't know, we don't have a diagnosis for this.
+
+PATIENT X286
+Okay.
+
+DOCTOR X286
+In order to get one we need to have the pulmonary function testing done.
+
+PATIENT X286
+Okay.
+
+DOCTOR X286
+So why don't make you, we can repeat your chest x-ray if it doesn't go away.  Um let give it another couple weeks.
+
+PATIENT X286
+Okay.
+
+DOCTOR X286
+And if your cough is no better then we could get it tested okay.
+
+PATIENT X286
+Okay.
+
+DOCTOR X286
+Um and in the meantime we'll get your pulmonary function tests.
+
+PATIENT X286
+Right in the meantime I need to cut down on the smoking.
+
+DOCTOR X286
+And you cut back smoking yeah okay.
+
+PATIENT X286
+Cause I know that's probably fine if I stop it.
+
+DOCTOR X286
+I think so.  So give me one second here and I'll just get all this done and then we'll get you on your way.
+
+PATIENT X286
+Okay.
+
+DOCTOR X286
+So I want you to call me if your cough isn't gone in like three weeks.
+
+PATIENT X286
+Okay.
+
+DOCTOR X286
+Okay.  Cause I can have the nurse call you but sometimes it doesn't actually happen.
+
+PATIENT X286
+Right, right.
+
+DOCTOR X286
+So.
+
+PATIENT X286
+So then.
+
+DOCTOR X286
+You call me.
+
+PATIENT X286
+And your extension is?
+
+DOCTOR X286
+Uh, let's see the number is PHONE NUMBER.  Okay and DOCTOR so you can leave a message with someone.  You probably won't get me directly but you can actually leave a message.  Okay.  And you've never had any surgery on the back, just the neck you said right?
+
+PATIENT X286
+Right.  Like I said I don't know because of my age or cause I've had it so long would it even be possible, I don't know.
+
+DOCTOR X286
+Yeah okay.  Have you seen Neurosurgery yet?  No.
+
+PATIENT X286
+Yes.
+
+DOCTOR X286
+Oh you did.
+
+PATIENT X286
+Uh-huh.  I haven't seen them in a while.
+
+DOCTOR X286
+Okay right here yeah.
+
+PATIENT X286
+And I know the last time I came here for a operation I ended up coming out of it with broken ribs.
+
+DOCTOR X286
+Hmm okay.
+
+PATIENT X286
+I know @@@.
+
+DOCTOR X286
+Where'd you have your surgery here?
+
+PATIENT X286
+Yes.
+
+DOCTOR X286
+Okay.
+
+PATIENT X286
+It was done September 06, 2010.
+
+DOCTOR X286
+Okay.
+
+PATIENT X286
+Is that in there?
+
+DOCTOR X286
+Uh-huh.
+
+PATIENT X286
+Okay.
+
+DOCTOR X286
+Yeah it's in here.
+
+PATIENT X286
+Did I get the dates right?
+
+DOCTOR X286
+I don't see the surgery date but I have a clinic note you had in January after you got through the surgery.
+
+PATIENT X286
+Yeah.
+
+DOCTOR X286
+Okay.  Okay.  We'll put that up there.  I guess that's it.  Here are your forms.  The rest of it I think you can fill out.
+
+PATIENT X286
+Okay.
+
+DOCTOR X286
+Okay.  You have my number.
+
+PATIENT X286
+Uh-huh.
+
+DOCTOR X286
+I'm going to refill all your meds so you can go down today and get them.
+
+PATIENT X286
+Okay.
+
+DOCTOR X286
+Okay.  And then don't forget to call me if your cough doesn't get better in a couple of weeks.
+
+PATIENT X286
+In a couple of weeks.
+
+DOCTOR X286
+Okay.
+
+PATIENT X286
+So just the next time I need to visit you will be in?
+
+DOCTOR X286
+I'll see you back like four months. 
+
+PATIENT X286
+Okay.
+
+DOCTOR X286
+What about that, we'll just check in.
+
+PATIENT X286
+Okay.
+
+DOCTOR X286
+And see how your cough is and the cigarettes are doing.  Hopefully you'll have your pulmonary function tests by then as well.
+
+PATIENT X286
+Right.  Alright so you going to set up an appointment for that.
+
+DOCTOR X286
+I'm going to put in for that okay.
+
+PATIENT X286
+Okay.  Thanks very much.
+
+DOCTOR X286
+Okay and the next time I see you hopefully you won't be smoking anymore.
+
+PATIENT X286
+I hope not.
+
+DOCTOR X286
+And your cough will be gone and you'll have those tests done okay.
+
+PATIENT X286
+Right okay.
+
+DOCTOR X286
+Okay, alright.  I'll help you check out.
+
+PATIENT X286
+Let me turn around and go that way.
+
+DOCTOR X286
+So again with that pain medicine the new one is called tramadol.
+
+PATIENT X286
+Tramadol.
+
+DOCTOR X286
+Okay so try it but you know you can keep taking what you're taking if you need it.
+
+PATIENT X286
+Okay.
+
+DOCTOR X286
+But I think it's worth a try.
+
+PATIENT X286
+Then I can stop the constipation, supposed to.
+
+DOCTOR X286
+Yeah exactly okay.
+
+PATIENT X286
+I knew if I kept taking that hydrocodone it's got some side effects to it too cause it's got the morphine in it.
+
+DOCTOR X286
+Right yeah that's correct.  But yeah I think it's worth a try but um, you know sometimes if you've been taking the other one for a while it can be difficult to get off of it so.
+
+PATIENT X286
+Oh.
+
+DOCTOR X286
+I don't want you to feel sick or anything for pain.
+
+PATIENT X286
+What are some of the side effects of withdrawal?
+
+DOCTOR X286
+If you still feel shaky or kind of sick to your stomach.
+
+PATIENT X286
+Oh okay, cause I know some days if I don't, I try to go without taking it.
+
+DOCTOR X286
+You'll feel nausea.
+
+PATIENT X286
+You know I try to deal with the pain if I'm just in the house or laying down or something and I'm not doing much and then I kind of feel sick.  I didn't know what that was.
+
+DOCTOR X286
+Yeah but the tramadol in place of it might help it.
+
+PATIENT X286
+Okay, okay.
+
+DOCTOR X286
+So you're not twice as bad okay.  Do you know where to check out?  You can check out right here okay.  Okay take care.
+
+PATIENT X286
+Alright nice meeting you.
+
+DOCTOR X286
+Yeah you too.
+
+PATIENT LEAVES:  77:47.
+
+Time is 3:35.
+
+
+
+

@@ -1,0 +1,837 @@
+
+DOCTOR X582
+Hi I'm DOCTOR.  We met before.
+
+PATIENT X582
+Yeah. 
+
+DOCTOR X582
+It's been a while ago.
+
+PATIENT X582
+Yep.
+
+DOCTOR X582
+Have a seat.  How's everything going?
+
+PATIENT X582
+Well so far so good.
+
+DOCTOR X582
+So far, so good?
+
+PATIENT X582
+Except I got a lot of stiffness in my left side.
+
+DOCTOR X582
+Yeah.
+
+PATIENT X582
+It's been for about three or four days.
+
+DOCTOR X582
+Where is it?
+
+PATIENT X582
+From the neck down.  Its starts right here in my neck.
+
+DOCTOR X582
+Do you know what brought that on?  Have you ever had it before?
+
+PATIENT X582
+Yes.
+
+DOCTOR X582
+What have you done to relieve this?
+
+PATIENT X582
+After a while it just went away.
+
+DOCTOR X582
+It just goes away.
+
+PATIENT X582
+I'll put a heating pad on it at night and take Tylenol.  I mean iboprofen but that don't seem to be doing no good this time.
+
+DOCTOR X582
+Gotcha.  Are you having any fevers?
+
+PATIENT X582
+I don't think I did.
+
+DOCTOR X582
+Okay.  Any headaches?
+
+PATIENT X582
+No.
+
+DOCTOR X582
+Okay.  Um breathing okay with the @@@?
+
+PATIENT X582
+Yeah.
+
+DOCTOR X582
+Using your inhalers?
+
+PATIENT X582
+Yep.
+
+DOCTOR X582
+Alright, good.  Are you smoking?
+
+PATIENT X582
+Oh no.
+
+DOCTOR X582
+Good.  Are you still taking the montelukast?
+
+PATIENT X582
+Yes.
+
+DOCTOR X582
+Good and you're on three liters of oxygen.  Is that what you've been on for a while?
+
+PATIENT X582
+Yes.
+
+DOCTOR X582
+Good.  Um do you need refills on your inhalers?  I think you just got refills on a lot of your meds.
+
+PATIENT X582
+All of my medications are set.
+
+DOCTOR X582
+Okay good.  How's the diabetes going?
+
+PATIENT X582
+Uh, I brought my chart in.
+
+DOCTOR X582
+Good.
+
+PATIENT X582
+Okay this last page, that's today's entries.
+
+DOCTOR X582
+Okay.
+
+PATIENT X582
+That's yesterday and the day before, and the day before.
+
+DOCTOR X582
+Uh when you have these low, these low glucoses in the 50s, do you feel it?
+
+PATIENT X582
+I felt them last night.
+
+DOCTOR X582
+You did, what time was that?
+
+PATIENT X582
+And the same this morning.  It was like it this morning, I feel so lightheaded.  I went downstairs and uh got me some glucose tablets.
+
+DOCTOR X582
+Okay.  
+
+PATIENT X582
+And so this morning when I checked my sugars it was 102.
+
+DOCTOR X582
+Okay.
+
+PATIENT X582
+So I know it was lower than that last night because like I said when I woke up I was so lightheaded and all that I had to walk downstairs and get some glucose and I just ate about four tablets of that.
+
+DOCTOR X582
+Okay.  You felt lightheaded.  So it seems like what are the dates on all of these?
+
+PATIENT X582
+Well like I said, the last one is today.
+
+DOCTOR X582
+So this is from this morning?
+
+PATIENT X582
+And that's yesterday.
+
+DOCTOR X582
+This is from yesterday.
+
+PATIENT X582
+And the day before.
+
+DOCTOR X582
+So this reading right here is it from the morning or the night?
+
+PATIENT X582
+In the morning.
+
+DOCTOR X582
+Okay.
+
+PATIENT X582
+When I woke up that morning.
+
+DOCTOR X582
+And then what was dinner?  Bedtime was 125?
+
+PATIENT X582
+Yeah.
+
+DOCTOR X582
+Okay.  The blood pressure's been okay.  How much insulin are you taking now?
+
+PATIENT X582
+74.
+
+DOCTOR X582
+74?
+
+PATIENT X582
+Yeah.
+
+DOCTOR X582
+How long have you been taking 74?
+
+PATIENT X582
+Since last week.
+
+DOCTOR X582
+Hmm, I think that might be a little too much for you.  And how much are you taking at lunch, I mean you're taking 74 plus three times a day, you give yourself shots?
+
+PATIENT X582
+Twice a day.
+
+DOCTOR X582
+Twice a day, what time?
+
+PATIENT X582
+In the morning and at bedtime.
+
+DOCTOR X582
+With regular insulin or with Aspart?
+
+PATIENT X582
+Who?
+
+DOCTOR X582
+Which kind of insulin, Aspart or regular?
+
+PATIENT X582
+I guess I do regular.
+
+DOCTOR X582
+Regular.  So you get that in the morning and at lunch time are you feeling lightheaded?  You have a lot of low readings around lunch.
+
+PATIENT X582
+Well see actually I don't get up till around 11 o'clock.
+
+DOCTOR X582
+Okay.
+
+PATIENT X582
+So then I'm up to eat at 12 o'clock.
+
+DOCTOR X582
+What time are you, so let me understand.  At night what time do you give yourself the shots, the 74?
+
+PATIENT X582
+At 10 o'clock.
+
+DOCTOR X582
+10 p.m.?
+
+PATIENT X582
+Uh-huh.
+
+DOCTOR X582
+And before you give yourself the 74 you take your sugars right?
+
+PATIENT X582
+Yes.
+
+DOCTOR X582
+Okay and that's the Lantus and then let me see what else you're taking, hold on.  And then regular.  How much are you doing of regular?
+
+PATIENT X582
+5 in the morning and 8 at night.
+
+DOCTOR X582
+Okay.  I think we're gonna have to take you down a little bit.  So before this week you were doing 70 of Lantus at night?
+
+PATIENT X582
+Yeah.
+
+DOCTOR X582
+And you were over 200 and now you're in the 50s?  Hmm.  How's the diet been?
+
+PATIENT X582
+Same, exactly the same.
+
+DOCTOR X582
+Are you taking all your blood pressure pills?
+
+PATIENT X582
+Yep.
+
+DOCTOR X582
+And what time to do you take the 8 at night of regular?
+
+PATIENT X582
+About 10 o'clock.
+
+DOCTOR X582
+Oh why are you taking it at 10?
+
+PATIENT X582
+Cause that's when I go to bed.
+
+DOCTOR X582
+Well you should take the 74 at 10 and then you take the regular before dinner.  What time do you eat dinner?
+
+PATIENT X582
+I eat dinner around 8 o'clock, 7 or 8 o'clock.
+
+DOCTOR X582
+Okay.  So I think that we need to change when you're taking it okay.  And what time do you take the 5?
+
+PATIENT X582
+Once in the morning.
+
+DOCTOR X582
+What time in the morning?
+
+PATIENT X582
+Whenever I wake up, 12 o'clock, 11 or 12 o'clock.
+
+DOCTOR X582
+Even though your sugars are so low like that?
+
+PATIENT X582
+@@@ insulin I'm supposed to take at 12 o'clock.
+
+DOCTOR X582
+Okay.  I'm not trying to, I'm trying to make it so you don't have real low sugars cause I don't want, it's dangerous to be hypoglycemic right.  I want to make sure that we're taking care of you.  So you give yourself one shot at night at 10.
+
+PATIENT X582
+Yes.
+
+DOCTOR X582
+Or you give yourself two shots at 10?
+
+PATIENT X582
+One shot.
+
+DOCTOR X582
+One shot of the 74?
+
+PATIENT X582
+Yeah.
+
+DOCTOR X582
+And then you wake up in the morning and then before breakfast do you give yourself the 5?
+
+PATIENT X582
+Yes the 5 and the 74.
+
+DOCTOR X582
+But the 74 you said you give at night right?
+
+PATIENT X582
+I do that twice a day.
+
+DOCTOR X582
+Oh you do the 74 twice a day.
+
+PATIENT X582
+Yes.
+
+DOCTOR X582
+So when you wake up at about 10, let's say 10 a.m., 10 to 11 a.m. you give yourself the 74.
+
+PATIENT X582
+Plus 5.
+
+DOCTOR X582
+Plus 5 and then again at 10 you give yourself the 74 plus 8.
+
+PATIENT X582
+74 plus 8.
+
+DOCTOR X582
+Plus 8 okay.  But you don't eat after.
+
+PATIENT X582
+No.  I eat before.
+
+DOCTOR X582
+I think we're gonna have to change some of that and is that how they told you to take it?
+
+PATIENT X582
+Well as long as I take it @@@.
+
+DOCTOR X582
+Because your blood sugars, see the 5 and the 8 are supposed to be covering you for your meals.  Do you have breakfast every day when you wake up?
+
+PATIENT X582
+No.
+
+DOCTOR X582
+Do you eat lunch?
+
+PATIENT X582
+Yes.
+
+DOCTOR X582
+What time do you eat lunch?
+
+PATIENT X582
+When I get up.
+
+DOCTOR X582
+Okay so you get up in the morning and you eat something.
+
+PATIENT X582
+Yeah.
+
+DOCTOR X582
+Okay.  And then so you only have two meals a day?
+
+PATIENT X582
+Basically.
+
+DOCTOR X582
+And then you have your dinner.
+
+PATIENT X582
+Yeah.
+
+DOCTOR X582
+Okay.  Alright.  Let me think about how we're gonna change this so that you don't get these lows cause I don't want you to get these lows you know.  Cause it's dangerous and you're feeling it right.
+
+PATIENT X582
+Uh-huh.
+
+DOCTOR X582
+Okay.  Let's see what else is going on with you.  Um any more bleeding from your rectum?
+
+PATIENT X582
+Nope.
+
+DOCTOR X582
+Coughing up blood?
+
+PATIENT X582
+No.
+
+DOCTOR X582
+Black stools?
+
+PATIENT X582
+Nope.
+
+DOCTOR X582
+Okay.  Are you still taking the PPI?
+
+PATIENT X582
+Who?
+
+DOCTOR X582
+The PPI, let's see what you take for it um the stomach medicine.
+
+PATIENT X582
+Yeah.
+
+DOCTOR X582
+Okay.  Are you seeing the ID doctors for the HIV?
+
+PATIENT X582
+I'll see them; I'll see them on February 14th.
+
+DOCTOR X582
+Okay good.  
+
+PATIENT X582
+That's just a month ahead.
+
+DOCTOR X582
+Okay and you're on Plavix, then when do you see the neurologist for the strokes?  Do you go see them?
+
+PATIENT X582
+Uh uh.
+
+DOCTOR X582
+Have you had any more symptoms?  And let's see, have you gotten your flu shot this year?
+
+PATIENT X582
+Oh yes.
+
+DOCTOR X582
+Okay.  When did you get it?
+
+PATIENT X582
+When they first giving them out.  Back in October.
+
+DOCTOR X582
+Okay.  And you'll be due for your um your pneumococcal shot in about six months so we'll give you that.  Um and you had your colonoscopy in 2003, did they tell you when you need to come back?
+
+PATIENT X582
+Uh uh.
+
+DOCTOR X582
+Okay probably ten years so we'll get that and when did we last check your lipids?  Oh, so your, what are you taking for cholesterol?  Your cholesterol was a little bit high, let's see you're taking.  I don't know what the, you're taking the rosuvastatin.  You're only 10 of rosuvastatin.  Do you take that every day?
+
+PATIENT X582
+Uh-huh.
+
+DOCTOR X582
+Sometimes, I don't want it to, I know sometimes the rosuvastatin, the statins can interact with the HIV medicines so I don't want to um do too high of a dose.  Let me see what you're and you're taking that every night, not missing any.  Okay.  Let me look at um, here.  Your lipids were better the last time, what happened?  Did you miss any of your cholesterol medicines?
+
+PATIENT X582
+Uh uh.
+
+DOCTOR X582
+No.  Okay.  We'll see what we're gonna do about that.  Okay.  And let me just take a listen to you okay.  Oh any swelling in your legs?
+
+PATIENT X582
+No.
+
+DOCTOR X582
+And you last saw the foot doctor in July.
+
+PATIENT X582
+I seen him this month.
+
+DOCTOR X582
+This month.  When do you see the eye doctor?
+
+PATIENT X582
+I have an appointment for that.
+
+DOCTOR X582
+Okay.
+
+PATIENT X582
+It's coming up.
+
+DOCTOR X582
+When did you last see them?
+
+PATIENT X582
+Last February.
+
+DOCTOR X582
+Last February okay.  So you know you need to make the appointment.
+
+PATIENT X582
+Yeah.
+
+DOCTOR X582
+Let me just take a listen.  Deep breath okay.  I'm just going to listen to your lungs.  
+
+PATIENT X582
+So DOCTOR not going to be my primary?
+
+DOCTOR X582
+No DOCTOR is, DOCTOR is here.  I work with DOCTOR but he's not here today.
+
+PATIENT X582
+Oh.  Well I have some paperwork he has to fill out.
+
+DOCTOR X582
+Oh what is it; I can try to fill it out.
+
+PATIENT X582
+For the @@@ for me.
+
+DOCTOR X582
+Okay.
+
+PATIENT X582
+@@@.  I've got the sheet over here.  
+
+DOCTOR X582
+Okay.  When do you need this back by?
+
+PATIENT X582
+I want to take it with me.
+
+DOCTOR X582
+You need this back?
+
+PATIENT X582
+Yes.  @@@.
+
+DOCTOR X582
+Oh well you should've let me know, I have a lot of patients.  Let me see.
+
+PATIENT X582
+It don't take but a second to fill it out.
+
+DOCTOR X582
+It's gonna take more than a second for that.  Just so you know, I'm filling out all this stuff.  Have you, when was your last PPD placed?
+
+PATIENT X582
+What was that?
+
+DOCTOR X582
+Your PPD where they like check you to see if you have um.
+
+PATIENT X582
+TB?
+
+DOCTOR X582
+Yeah.
+
+PATIENT X582
+Oh I'll show a positive for that but I'm okay.
+
+DOCTOR X582
+Okay when was it?
+
+PATIENT X582
+Back in 1980 something.
+
+DOCTOR X582
+Alright.  Do you use a CPAP or BIPAP?
+
+PATIENT X582
+Huh?
+
+DOCTOR X582
+Do you use a CPAP or BIPAP?
+
+PATIENT X582
+What is that?
+
+DOCTOR X582
+For sleeping, do you use a special mask or do you just use that?
+
+PATIENT X582
+Just sleeping.
+
+DOCTOR X582
+Okay.  What do you normally do with the games?
+
+PATIENT X582
+Shuffleboard, dominoes and we do air rifle @@@.
+
+DOCTOR X582
+Do you have an Advanced Directive?  @@@.  Do you have any allergies?
+
+PATIENT X582
+Bactrim.
+
+DOCTOR X582
+Okay.  So when was the last time you were admitted to the hospital?
+
+PATIENT X582
+Oh boy, it's been so long I don't even remember.
+
+DOCTOR X582
+Okay.  It looks like the last time was in December of 08.  Alright I guess I'm gonna have to print out a bunch of things. You don't need help with walking around?
+
+PATIENT X582
+No, no, no.
+
+DOCTOR X582
+Or grooming or anything.  Okay.  Alright.  Let me get this stuff for you.  Okay.
+
+PATIENT X582
+Okay.
+
+DOCTOR X582
+I have to give them a list of your medication.
+
+PATIENT X582
+I got one already.
+
+DOCTOR X582
+You have that?
+
+PATIENT X582
+I got it right here.
+
+DOCTOR X582
+And what about your chest x-ray, your last one?
+
+PATIENT X582
+I got that already.
+
+DOCTOR X582
+Okay and I.
+
+PATIENT X582
+And the EKG, I got that.
+
+DOCTOR X582
+We're set okay.  I'll be back then.
+
+PATIENT X582
+Alright.
+
+(DOCTOR OUT:  34:10  DOCTOR IN:  51:41)
+
+DOCTOR X582
+Alright sir, I'm sorry to keep you waiting.
+
+PATIENT X582
+That's alright.
+
+DOCTOR X582
+Alright so I filled out all this.  I think it should be good for you.  Um oh when was your last tetanus shot do you know?
+
+PATIENT X582
+I don't know.
+
+DOCTOR X582
+Let me see.  Uh I don't know how to find it.  Hold on; let me ask DOCTOR how I find when it was.  This is for you.  The other thing that I wanted you to do is your nighttime insulin, I want you to take you before you eat instead of at 10 okay.  So take your morning in the morning like you've been doing.  Have your breakfast or lunch or whatever meal you eat.  Then take your nighttime insulin before bedtime okay.  And make sure you check your sugars and if you're still getting those lows in the morning then I want you to drop back down to 70 instead of 74. Does that sound like a plan?
+
+PATIENT X582
+Okay.
+
+DOCTOR X582
+And I want you to come back and see our pharmacist in 1-2 weeks okay.  And then I want you to see me in three months and I'm going to order some urine tests for you okay.  And I think everything else is good.  
+
+PATIENT X582
+Was there something you could give me for this shoulder?
+
+DOCTOR X582
+For the shoulder.
+
+PATIENT X582
+Yes.
+
+DOCTOR X582
+You can take Tylenol.  Do you take Tylenol?  Do you want Tylenol?
+
+PATIENT X582
+I take acetaminophen.
+
+DOCTOR X582
+Acetaminophen, that's the same thing.
+
+PATIENT X582
+Okay.
+
+DOCTOR X582
+How much are you taking?
+
+PATIENT X582
+500 I think.
+
+DOCTOR X582
+500 how many times a day?
+
+PATIENT X582
+Twice.
+
+DOCTOR X582
+Okay.  Well you can take it up to four times a day.
+
+PATIENT X582
+Okay.
+
+DOCTOR X582
+See if that'll help.  The other thing is on this I'm gonna have to put that you have HIV and hepatitis B cause they are communicable diseases, that means like if you were to get hurt and start bleeding then you know.
+
+PATIENT X582
+That's all VA.
+
+DOCTOR X582
+Okay I just wanted you to know.  Okay let me figure out how to find out about your tetanus alright, I'll be right back.
+
+(DOCTOR OUT: 54:54  DOCTOR IN:  56:39)
+
+SECOND PERSON X582
+So.
+
+PATIENT X582
+Okay.
+
+SECOND PERSON X582
+Let me see here, let's see, get my lab jacket out of here.  Are you okay?
+
+PATIENT X582
+No I'm fine.
+
+DOCTOR X582
+Okay so I'm gonna give you your tetanus shot today too okay.
+
+PATIENT X582
+A what?
+
+DOCTOR X582
+A tetanus shot.  Because you're due for it.  You're due for one every ten years so, let me put that order in okay along with the urine tests.  If the nurses give me a different room I'm happy to do it.
+
+SECOND PERSON X582
+No that's okay, I don't mind.  It's just that I hate to interrupt and come in and get my things back and get to work here.
+
+DOCTOR X582
+Yeah I mean but I'm totally fine with going to another room as long as the nurses have one.
+
+SECOND PERSON X582
+It don't matter, not that I'm dying to get to work.
+
+PATIENT X582
+I bet I was.  
+
+SECOND PERSON X582
+Alright I'm gonna get my lab jacket and stuff.
+
+PATIENT X582
+@@@.
+
+SECOND PERSON X582
+@@@ is that I'm used to my lab.
+
+DOCTOR X582
+Yeah so that's fine.  Um and alright I'm gonna bring you over to the nurses so that they can give you a tetanus shot and I put three months for you to come back okay and make sure three months for me, two weeks for the nurse and make sure that if your sugars get low you drop down to the 70 again okay.  Cause I don't want you to be you know having any problems with hypoglycemia okay.  Okay so let me walk you out and then I'll be back in a few minutes @@@.
+
+SECOND PERSON X582
+You know what I mean I.
+
+DOCTOR X582
+But taking my room it really doesn't bother me.
+
+SECOND PERSON X582
+No it don't bother me that you're here I just hate to come in you know.
+
+DOCTOR X582
+Yeah no this is totally fine.  @@@.
+
+SECOND PERSON X582
+You can't help it, I just want to.
+
+DOCTOR X582
+That's okay.
+
+SECOND PERSON X582
+Put it on my chair that's all.
+
+DOCTOR X582
+Oh that's fine.  Okay.  I want you to go have a seat outside.  They're going to call you in okay.
+
+PATIENT X582
+What about that paper, do you need it?
+
+DOCTOR X582
+Well I'm gonna give it to the nurse so that she knows to call you in and then she'll give you the.
+
+PATIENT X582
+They'll come and @@@.
+
+DOCTOR X582
+Oh yeah sorry.  So I filled out everything um.
+
+PATIENT X582
+Thank you.
+
+DOCTOR X582
+Okay there you go.  That's everything medical.  @@@ enjoy, @@@.
+
+
+
+
+

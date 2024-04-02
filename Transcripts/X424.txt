@@ -1,0 +1,476 @@
+
+DOCTOR X424
+@@@.  
+
+PATIENT X424
+Oh man, taking me.
+
+DOCTOR X424
+What are we going to do?
+
+PATIENT X424
+@@@.
+
+DOCTOR X424
+Hi how are you?
+
+PATIENT X424
+I'm good.
+
+DOCTOR X424
+Oh yeah okay, have a seat.
+
+PATIENT X424
+Here?
+
+DOCTOR X424
+@@@ right.
+
+PATIENT X424
+Uh-huh, @@@ stuff that they give me.
+
+DOCTOR X424
+I'm sorry.  Oh this one @@@.
+
+PATIENT X424
+I think @@@.
+
+DOCTOR X424
+Oh was this an infection?
+
+PATIENT X424
+That's the result of a tuberculin test at the xxx xxx's Clinic.
+
+DOCTOR X424
+Okay so what is specific @@@ admission at the @@@ unit?
+
+PATIENT X424
+@@@.
+
+DOCTOR X424
+Oh okay, okay.
+
+PATIENT X424
+Yeah.
+
+DOCTOR X424
+So basically uh.
+
+PATIENT X424
+I @@@ here, @@@ here.
+
+DOCTOR X424
+You had the TB test over there.
+
+PATIENT X424
+Yes I did.
+
+DOCTOR X424
+Okay, okay.  Okay so you had a positive TB test okay.  And we'll do the chest x-ray and um you have to get like some lab work because uh you are 63 years old so it may be hard for taking all the medications you know because certain medications.
+
+PATIENT X424
+Limited to age?
+
+DOCTOR X424
+Yes.
+
+PATIENT X424
+Okay.
+
+DOCTOR X424
+You know it might affect your liver and other things so um we will first run the lab and then get x-ray okay.
+
+PATIENT X424
+Okay.
+
+DOCTOR X424
+Do you mind my going and getting the chest x-ray now?
+
+PATIENT X424
+I have an awful lot of running around to do @@@.
+
+DOCTOR X424
+Okay.  Um.
+
+PATIENT X424
+And I have another complaint.
+
+DOCTOR X424
+Uh-huh.
+
+PATIENT X424
+And it's kind of weird.  This shoulder, the left shoulder.
+
+DOCTOR X424
+Uh-huh.
+
+PATIENT X424
+And a recent, uh let's say the past six weeks.
+
+DOCTOR X424
+Uh-huh.
+
+PATIENT X424
+Is giving me quite a bit of pain.  It is constantly locking.
+
+DOCTOR X424
+Uh-huh.
+
+PATIENT X424
+And I a lot of @@@.
+
+DOCTOR X424
+Yeah.
+
+PATIENT X424
+I'm having ongoing, guess you can hear me talk, it's not much of a voice uh, I get special antibiotic that was helping me.
+
+DOCTOR X424
+I'm sorry.
+
+PATIENT X424
+Antibiotics that.
+
+DOCTOR X424
+What do you have now?
+
+PATIENT X424
+Uh I want just, throat pain just.
+
+DOCTOR X424
+So a cold a cough or what?
+
+PATIENT X424
+A little of both.
+
+DOCTOR X424
+Okay.
+
+PATIENT X424
+A little of both, I'm not sure it might be associated with the TB thing I don't know.
+
+DOCTOR X424
+Are you coughing up any blood?
+
+PATIENT X424
+No, no.  Just I'm not coughing up blood.
+
+DOCTOR X424
+So how long the coughing is going on?
+
+PATIENT X424
+Oh it's not consistent but it has been for like the past uh six weeks.
+
+DOCTOR X424
+I'm sorry.
+
+PATIENT X424
+@@@.
+
+DOCTOR X424
+Uh-huh.
+
+PATIENT X424
+I went up to the xxx xxx which is a @@@.  I just recently went through foreclosure.  I have my house right now.
+
+DOCTOR X424
+Okay.
+
+PATIENT X424
+But if the temperature rises and @@@ I'm going to sleep and it's going to be going.
+
+DOCTOR X424
+Uh-huh.
+
+PATIENT X424
+The bill situation.  They're just; they're going to freeze thing but its worse more than anything else.
+
+DOCTOR X424
+That is what it is?
+
+PATIENT X424
+Worse and I had both flu shots.
+
+DOCTOR X424
+Okay.
+
+PATIENT X424
+It's not a cold thing but just.
+
+DOCTOR X424
+So do you have uh fever, chills, anything?
+
+PATIENT X424
+Chills is one.
+
+DOCTOR X424
+And night sweats.
+
+PATIENT X424
+Yes I have that.
+
+DOCTOR X424
+Have you lost weight recently?
+
+PATIENT X424
+Uh no.
+
+DOCTOR X424
+Okay and you have shoulder pain you were saying.
+
+PATIENT X424
+Oh this shoulder.
+
+DOCTOR X424
+Uh-huh.
+
+PATIENT X424
+Oh yes.
+
+DOCTOR X424
+Which shoulder?
+
+PATIENT X424
+The left one, yes it is and it's more in the uh rotocuff, the top of the shoulder.  It's @@@ but when it comes it comes, it hurts.
+
+DOCTOR X424
+Do you have it not using it or when you are using it?
+
+PATIENT X424
+Pardon me?
+
+DOCTOR X424
+You have the pain when you are using your arm or when you are just resting?
+
+PATIENT X424
+Really when I'm not using it.
+
+DOCTOR X424
+Okay.  Okay so the pain is when you are not using it.
+
+PATIENT X424
+When I'm not using it yes.  I can be walking and just the weight of the shoulder itself.
+
+DOCTOR X424
+Okay.
+
+PATIENT X424
+It hurts.
+
+DOCTOR X424
+Okay.  So how long that's going on?
+
+PATIENT X424
+That's been for a while and it's getting to be more frequent because it's been regular, it's been going for like two years but it's more frequent now.
+
+DOCTOR X424
+Uh-huh.  Okay.  So for a couple of years?
+
+PATIENT X424
+Yeah.
+
+DOCTOR X424
+Okay and now it's more frequent.
+
+PATIENT X424
+Well the frequency right now is about three, four days out of the week.
+
+DOCTOR X424
+Okay.  So the last time you were here was in the uh.
+
+PATIENT X424
+@@@.
+
+DOCTOR X424
+You were here in @@@.
+
+PATIENT X424
+Okay you're right.
+
+DOCTOR X424
+You still drinking alcohol?
+
+PATIENT X424
+Yes I am.
+
+DOCTOR X424
+A lot or have you @@@?
+
+PATIENT X424
+No, no, decreased considerably.
+
+DOCTOR X424
+Uh-huh.
+
+PATIENT X424
+I drank today and I had the next in 16 days and I do not, no drugs.
+
+DOCTOR X424
+@@@.
+
+PATIENT X424
+I had @@@ at one time.
+
+DOCTOR X424
+Oh.
+
+PATIENT X424
+But I'll just say that.
+
+DOCTOR X424
+Have you @@@ or not?
+
+PATIENT X424
+Mmm no.
+
+DOCTOR X424
+Okay.  You know you were supposed to get a vitamin D @@@.
+
+PATIENT X424
+I had the vitamin D, @@@ one week @@@.
+
+DOCTOR X424
+Oh once a week?
+
+PATIENT X424
+Vitamin D?
+
+DOCTOR X424
+Uh-huh.
+
+PATIENT X424
+Yeah.
+
+DOCTOR X424
+Oh really.
+
+PATIENT X424
+Do you want to show you @@@.
+
+DOCTOR X424
+Uh-huh, oh I @@@ about okay.
+
+PATIENT X424
+Yeah the vitamin D I take once a week.
+
+DOCTOR X424
+Okay.
+
+PATIENT X424
+I take folic acid.  I take uh.
+
+DOCTOR X424
+Just hold on one second okay.
+
+PATIENT X424
+Okay.
+
+DOCTOR X424
+Hold on one second @@@.
+
+PATIENT X424
+That's quite alright.
+
+(DOCTOR OUT:  24:32  DOCTOR IN:  27:28)
+
+DOCTOR X424
+Okay um well I know @@@.  The blood pressure is doing good today.
+
+PATIENT X424
+Okay.
+
+DOCTOR X424
+Okay and so I'm going to go ahead and order all the x-ray I ordered.  Do you mind going and getting the x-ray now?
+
+PATIENT X424
+No not now.
+
+DOCTOR X424
+You can go and they will @@@ and call you.
+
+PATIENT X424
+Where do I go?
+
+DOCTOR X424
+The Outpatient Radiology right up top the street, across the corridor.  You can see the Radiology okay.
+
+PATIENT X424
+Okay.
+
+DOCTOR X424
+Or you can get out.  You can just walk the.
+
+PATIENT X424
+Are you prescribing for me today?
+
+DOCTOR X424
+For what?
+
+PATIENT X424
+Antibiotics for pain or anything.
+
+DOCTOR X424
+I'll give you the cough syrup maybe and then uh what kind of sputum are you producing?
+
+PATIENT X424
+Sorry you lost me.
+
+DOCTOR X424
+Are you coughing up anything, any sputum or phlegm?
+
+PATIENT X424
+@@@.
+
+DOCTOR X424
+What color?
+
+PATIENT X424
+Uh green.
+
+DOCTOR X424
+Green see because you know um if you are not having any fevers.
+
+PATIENT X424
+I'm not having any.
+
+DOCTOR X424
+How long have you had this cough?
+
+PATIENT X424
+Oh gee, only for maybe 2 1/2 weeks.
+
+DOCTOR X424
+2 1/2 weeks.
+
+PATIENT X424
+Yeah.
+
+DOCTOR X424
+I just talked to the attending and see you know.  You can go and get the x-ray now okay.
+
+PATIENT X424
+Right.
+
+DOCTOR X424
+And when you come back we'll talk more okay.
+
+PATIENT X424
+@@@ am I supposed to come back here?
+
+DOCTOR X424
+No you will be taken to @@@.  And they'll do a chest x-ray okay.
+
+PATIENT X424
+So do I leave all my stuff with you?
+
+DOCTOR X424
+Actually the front desk, the nursing station, thank you.
+
+PATIENT X424
+@@@.
+
+PATIENT LEAVES:  29:20
+
+
+
+

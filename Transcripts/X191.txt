@@ -1,0 +1,845 @@
+
+DOCTOR X191
+PATIENT?
+
+
+PATIENT X191
+Hi.
+
+
+DOCTOR X191
+Did you have a nice visit?
+
+
+PATIENT X191
+Alright.
+
+
+DOCTOR X191
+Yes.  I saw you had, from the @@@ people faxed me.
+
+
+PATIENT X191
+Okay, the sciatic nerve?
+
+
+DOCTOR X191
+Yeah.
+
+
+PATIENT X191
+@@@
+
+
+DOCTOR X191
+So we'll have you go to the MRI I see.
+
+
+PATIENT X191
+Now what?
+
+
+DOCTOR X191
+Did they even call you?
+
+
+PATIENT X191
+This, I'm supposed to get it done sometime next month.
+
+
+DOCTOR X191
+Next month, did they schedule it?
+
+
+PATIENT X191
+They scheduled it; I got the letter that says it's been done.  I think @@@ disk.
+
+
+DOCTOR X191
+@@@ okay, at 8 o'clock.
+
+
+PATIENT X191
+Right.
+
+
+
+DOCTOR X191
+And then you're gonna see the Rehab doctor on the 7th?
+
+
+PATIENT X191
+Right, uh.  These pills that they give me seem to be a little bit helping me with the sciatic nerve.
+
+
+DOCTOR X191
+Uh-huh.
+
+
+PATIENT X191
+And they gave me something else and it's not doing anything.
+
+
+DOCTOR X191
+But the prednisone can only be given for like a a very short time and so they only gave you the one week.  We can't put on that long term cause it can cause diabetes, osteoporosis along with other stuff.  So this is a steroid.  This is the Vicodin, has that been helping?
+
+
+PATIENT X191
+A little.  I ran out of these and uh right now I'm taking three Aleve and two Motrin.
+
+
+
+DOCTOR X191
+Okay.  Did these help when you took em?
+
+
+PATIENT X191
+Yeah, it wasn't @@@.
+
+
+DOCTOR X191
+Okay cause I can refill this.
+
+
+PATIENT X191
+Okay well.
+
+
+DOCTOR X191
+This one, I I won't give you again because this is, this is a medication we give sparingly because of all the side effects.
+
+
+PATIENT X191
+Oh.
+
+
+DOCTOR X191
+Okay?  This we can, we can I can give you more of until we get you to the Rehab doctor so they can do the exercises that you need.
+
+
+PATIENT X191
+Okay.
+
+
+DOCTOR X191
+Okay.
+
+
+PATIENT X191
+Alright and then uh could you change this nitroglycerin?
+
+
+DOCTOR X191
+Mometasone and what's this one?  Flunisolide.  Uh let me see if it's available.  Cause what they did is they, they went and changed it on their own when there was a shortage and this is the inhaler.  Let me see if, if this is available okay.
+
+
+PATIENT X191
+Okay.
+
+
+DOCTOR X191
+How often are you doing the @@@, how often were you doing this one?
+
+
+PATIENT X191
+This one I was doing twice a day, once in the morning and once at night.
+
+
+DOCTOR X191
+Okay.  Let's see if . . .  So you were doing it, it's an inhaler right?
+
+
+PATIENT X191
+Right.
+
+
+DOCTOR X191
+It's not an Ace inhibitor right?
+
+
+PATIENT X191
+No it's an inhaler.
+
+
+DOCTOR X191
+Yeah, see, probably, probably just coming off is an option.  The problem is, their not even, it's not even being offered anymore.  This was replaced for this.  That's not working for you or not as good?
+
+
+PATIENT X191
+Not as good.
+
+
+DOCTOR X191
+Okay.  How's the uh, how's the breathing?
+
+
+PATIENT X191
+It's good.  I couldn't have that; I took the whatcha call the sleep study.
+
+
+DOCTOR X191
+I saw that.
+
+
+PATIENT X191
+And I couldn't fall asleep.  I went until @@@ in the morning.
+
+
+DOCTOR X191
+Yeah.
+
+
+PATIENT X191
+So I got there at 8:30 and they hook you up and I'm just rolling and tossing and turning and I couldn't go to sleep.
+
+
+DOCTOR X191
+That's a hell of a time though, especially for a sleep study on Christmas Eve.
+
+
+PATIENT X191
+Laughter.
+
+
+DOCTOR X191
+Laughter.  I'm surprised anyone was working in this place.  Okay, so the, they'll try to do it again.
+
+
+PATIENT X191
+Again yeah.
+
+
+DOCTOR X191
+Are you still having troubles with the shortness of breath at night?
+
+
+PATIENT X191
+No.
+
+
+DOCTOR X191
+No okay.  Um are you noticing that you're getting short of breath regularly or?
+
+
+PATIENT X191
+No.
+
+
+DOCTOR X191
+No okay.  So with what you're on, I know this is not as good as that was, but with what we have you on, the albuterol and ipratropium separately, you feel that things are okay?
+
+
+PATIENT X191
+Right.
+
+
+DOCTOR X191
+Okay.  Alright and then I know that you saw the rheumatologist and they put a, they gave you a shot in your shoulder.
+
+
+PATIENT X191
+Uh-huh, that didn’t work.
+
+
+DOCTOR X191
+It didn’t help.
+
+
+PATIENT X191
+There's another thing I wanted to talk to you about.
+
+
+DOCTOR X191
+Okay.
+
+
+PATIENT X191
+Uh, when you get, when they do the MRI, are they gonna be able to do one on my shoulder to see what's with the shoulder or, if I tore it again?
+
+
+DOCTOR X191
+Well let me see here.  Patient shoulder, @@@ emergency, @@@.
+
+
+PATIENT X191
+Um they won't let me go back to work.
+
+
+DOCTOR X191
+Who won't let you go back to work?
+
+
+PATIENT X191
+Uh the doctor in the ER.
+
+
+DOCTOR X191
+Uh-huh.
+
+
+PATIENT X191
+Because of the sciatic nerve.
+
+
+DOCTOR X191
+Uh-huh.
+
+
+PATIENT X191
+Because of the shoulder, they said I I shouldn't go back to work.  Because yesterday when I was carrying up a sheet of drywall and then all of a sudden, you know @@@ my leg would give out.
+
+
+DOCTOR X191
+Yes.
+
+
+PATIENT X191
+My leg would give out.
+
+
+DOCTOR X191
+Yeah.
+
+
+PATIENT X191
+My knee gave out again.
+
+
+DOCTOR X191
+Okay.
+
+
+PATIENT X191
+And that's when we talked and found out that it's the nerve.
+
+
+DOCTOR X191
+@@@ okay.
+
+
+PATIENT X191
+And now for a real long time, my knee wouldn't give out, my knee wouldn't give out.
+
+
+DOCTOR X191
+Yeah.
+
+
+PATIENT X191
+I need to find out why.
+
+
+DOCTOR X191
+Well right, cause we were thinking it was the peripheral vascular disease that you had before.
+
+
+PATIENT X191
+Right.
+
+
+DOCTOR X191
+But finally that checked out, to make sure that wasn't the reason.
+
+
+PATIENT X191
+Right.
+
+
+DOCTOR X191
+And so that wasn't, so it's probably the nerve.
+
+
+PATIENT X191
+Right.
+
+
+DOCTOR X191
+So we'll see what the MRI shows.  Um, you know.
+
+
+PATIENT X191
+Well you think you can do my shoulder?
+
+
+DOCTOR X191
+Yeah I'll order it.
+
+
+PATIENT X191
+You know, both of them at one time.
+
+
+DOCTOR X191
+It's your right shoulder right?
+
+
+PATIENT X191
+Correct.
+
+
+DOCTOR X191
+You have no implants or foreign objects?
+
+
+PATIENT X191
+No.
+
+
+DOCTOR X191
+Shrapnel, none of that stuff?
+
+
+PATIENT X191
+No.
+
+
+DOCTOR X191
+Okay.  You're not claustrophobic?
+
+
+PATIENT X191
+No.
+
+
+DOCTOR X191
+Okay, now let me go through all the work-up.  But so the shoulder is unchanged?
+
+
+PATIENT X191
+Right.
+
+
+DOCTOR X191
+When you're taking the Vicodin was that helping at all with the shoulder?
+
+
+PATIENT X191
+Yeah, it, you know between the Vicodin and the Aleve.
+
+
+DOCTOR X191
+Uh-huh.
+
+
+PATIENT X191
+Because I was still taking the Aleve with the uh with the Vicodin.
+
+
+DOCTOR X191
+Uh-huh.
+
+
+PATIENT X191
+Uh, I was doing alright.
+
+
+DOCTOR X191
+Okay.
+
+
+PATIENT X191
+Nobody, @@@ try to get everything fixed @@@.
+
+
+DOCTOR X191
+Right.  No I understand.  And you're going on the 5th, so let me just think if I can just schedule it for then. (DOCTOR working on computer)  Huh, just to make sure you have the blood work.  Well, they're going to require some basic blood work before this MRI so we're gonna need it regardless.
+
+
+PATIENT X191
+Okay.
+
+
+DOCTOR X191
+So I'm just gonna order it okay.  So alright, so and then so for the shoulder we'll get an MRI.  You're gonna see the Rehab doctors.
+
+
+PATIENT X191
+Okay.
+
+
+DOCTOR X191
+And um and we'll go for and then I'll renew the um, I will renew the Vicodin.
+
+
+PATIENT X191
+Okay and that stuff that you guys gave me for the fungus is working too.
+
+
+DOCTOR X191
+Good, good and it doesn't put your liver at risk for failure so I'm glad.  That's improving?
+
+
+PATIENT X191
+Yes.  My toes have practically cleared up.
+
+
+DOCTOR X191
+Good.
+
+
+PATIENT X191
+You know and this one is.
+
+
+DOCTOR X191
+Yeah, okay.
+
+
+PATIENT X191
+Come along real good too.
+
+
+DOCTOR X191
+Good.  Uh let's see.  Now the Vicodin, do you want to pick it up or do you want it to be mailed to you?
+
+
+PATIENT X191
+No I'll pick it up.
+
+
+DOCTOR X191
+Okay.
+
+
+PATIENT X191
+That's it.
+
+
+DOCTOR X191
+No problem.  Okay.  So let me see if there's anything else that we need to look at.  So what's going on with your liver?  Are you gonna go back to the Liver Clinic or what?
+
+
+PATIENT X191
+Yes.
+
+
+DOCTOR X191
+Okay.  When are you planning to do that?
+
+
+PATIENT X191
+They, they told me as soon as I get rid of all the @@@ to give them a call.
+
+
+DOCTOR X191
+Perfect.
+
+
+PATIENT X191
+Because of uh the.
+
+
+DOCTOR X191
+Right they don't want to deal with active infection okay good.  So we're making headway on the fungus and then once that's under control then you'll go back to see the Liver.
+
+
+PATIENT X191
+Right.
+
+
+DOCTOR X191
+Okay.  For the sciatica we have ya, you need medicine, so we're gonna get the MRI as well as the neurologists you're gonna see, those are the nerve doctors.
+
+
+PATIENT X191
+Okay.
+
+
+DOCTOR X191
+And you have an appointment to see them in early February, but by then you'll have the MRI, we'll have the rehab going and see how you do with those.
+
+
+PATIENT X191
+Okay.
+
+
+DOCTOR X191
+Okay.  The asthma is stable so that's good.  Okay.  Do you need any of your other medicines refilled?
+
+
+PATIENT X191
+Uh no I don't think so.
+
+
+DOCTOR X191
+Okay.  Now let me just look here to see if there's any other tests done.  
+
+
+PATIENT X191
+Now you said the Albuterol there's only one refill left?
+
+
+DOCTOR X191
+Okay, I'll take a look at it, one second.  We should, while we're doing your blood work today I'm gonna check your PSA, that's that prostate test that we do, it's just a blood test.
+
+
+PATIENT X191
+Okay.
+
+
+DOCTOR X191
+Okay.  And then in terms of your medicine so, you've got @@@,  your albuterol looks like it needs a refill.  Uh you want to pick up, you want go pick up your inhalers all together or do you want them mailed to you?
+
+
+PATIENT X191
+I can pick them up.
+
+
+DOCTOR X191
+Okay.  You'll get these too.
+
+
+PATIENT X191
+@@@.
+
+
+DOCTOR X191
+Exactly.  
+
+
+PATIENT X191
+@@@ all these meds that I'm taking seem to make my blood pressure right now, they said it was kind of high.  Do you think it could be this that's affecting my blood pressure?
+
+
+DOCTOR X191
+Um no.  I'm gonna repeat your blood pressure though.  Are you in any pain right now?
+
+
+PATIENT X191
+Just my leg.
+
+
+DOCTOR X191
+How bad is your pain?
+
+
+PATIENT X191
+It's, it's up there.
+
+
+DOCTOR X191
+Okay.  Pain can cause your blood pressure to go up so on a scale of 1 to 10 how high?
+
+
+PATIENT X191
+6.
+
+
+DOCTOR X191
+Okay.
+
+
+PATIENT X191
+6 you know.
+
+
+DOCTOR X191
+So I'll repeat your blood pressure but that's not uncommon.  When people are having pain that makes their blood pressure go up so, I'm not going to start you on blood pressure medicine because once we remove the pain your blood pressures will look fine, you see what I'm saying?
+
+
+PATIENT X191
+Yeah.
+
+
+DOCTOR X191
+So we take a falsely elevated blood pressure cause of pain.  So we want to be able to treat the pain not the blood pressure.
+
+
+PATIENT X191
+Alright.
+
+
+DOCTOR X191
+The blood pressure will normalize once we get rid of the pain okay.
+
+PATIENT X191
+Cause you know I've never had, you know.
+
+
+DOCTOR X191
+I know.
+
+
+PATIENT X191
+I've never had you know blood pressure, you know high blood pressure you know but.
+
+
+DOCTOR X191
+Yeah, no, that's the reason why because the pain is, it's because you're having pain.  Not uncommon to have it happen.  Okay.  @@@ to look at your @@@.
+
+
+PATIENT X191
+Uh it's @@@, put pressure on the foot.
+
+DOCTOR X191
+Yeah.
+
+
+PATIENT X191
+It's all.
+
+
+DOCTOR X191
+All the way down.
+
+
+PATIENT X191
+I can feel it in my toes.
+
+
+DOCTOR X191
+Okay.  
+
+
+PATIENT X191
+@@@.
+
+
+DOCTOR X191
+Uh, I'll probably give you a @@@.  Plus sometimes the machines out there are not calibrated very well so that the blood pressure might be a little inaccurate but the main reason is usually pain.  Okay, now I'll hold up your arm, just relax it.   Okay, the number is 144/82.  The top number is still high but again as I said when you're in pain, we expect that.  Let me just type that in the computer.  I just want finishing examining you okay?  Deep breath.
+
+
+PATIENT X191
+(Breathes)
+
+
+DOCTOR X191
+Okay good.  Just breathe normally.  Okay.  Come and sit down over here.  @@@ have you had a colonoscopy?
+
+
+PATIENT X191
+Yes.
+
+
+DOCTOR X191
+How long ago has that been?
+
+
+PATIENT X191
+Oh about a year I guess.
+
+
+DOCTOR X191
+And it was done here?
+
+
+PATIENT X191
+Yes.
+
+
+DOCTOR X191
+Okay.  So I think we have plans for everything.  And we need, we need to have @@@ so we can figure out why you're having so much issue with your back, which is also the sciatica.  So continue the Vicodin and we'll do everything else.  Okay, they can do physical therapy with you to hopefully, help alleviate the stress on that nerve and try to get this improved okay.
+
+
+PATIENT X191
+I @@@.
+
+
+DOCTOR X191
+Okay.  It's not uncommon that can happen.  But usually it happens with guys because they tuck their wallet in their back pockets and they sit like you know, whenever you sit down the pressure compressing on the nerve and then it just causes injury and it causes the pain.  So that's usually, that's usually the number one culprit to be honest with you.
+
+
+PATIENT X191
+Your wallet.
+
+
+DOCTOR X191
+Your wallet being in the back pocket and then once we like tell people to take your wallet out of your back pocket, then all of a sudden they feel much better.  But I'm not sure, you know yours, since yours was so severe, we need, I think we should see what the MRI shows, if there's anything else, if there's something particular in the back that's still pushing on it or what, what's going on okay?
+
+
+PATIENT X191
+Alright.
+
+
+DOCTOR X191
+Um alright.  Okay.  Let me go talk to my boss, I'll be right back okay?
+
+
+PATIENT X191
+Can you still give me the @@@?
+
+
+DOCTOR X191
+Uh yeah and here I can take them.
+
+
+(DOCTOR OUT:  41:37  DOCTOR IN:  47:50)
+
+
+DOCTOR X191
+Okay.  So you are all set.  So um, I put in that order for the MRI and I asked if they'd do it the same day that they're doing your back, so hopefully they can accommodate that okay.
+
+
+PATIENT X191
+Okay.
+
+
+DOCTOR X191
+And then if the MRI of the shoulder shows something that's you know, grossly abnormal then I'll refer you back to the Ortho so they can evaluate you, okay?
+
+
+PATIENT X191
+Okay, okay.
+
+DOCTOR X191
+Um and then you're gonna get the, you're gonna be seen in Podiatry and you have a plan for everything.  We just need to get these tests done so that we can see you know, whether it's from the @@@ or not and then we'll, we'll go based on that.  Alright.  Is there anything else that you need?
+
+
+PATIENT X191
+Let me know when you want me to come back, cause I'm not gonna know for the MRI.
+
+
+DOCTOR X191
+So the result of the MRI, the MRI is typically read um about a week, within a week, generally after, generally after it's done.  So what I would do is just call the office here um like the next week so you're getting it done January 5th, so like you would be the 10th or something.
+
+
+PATIENT X191
+Okay.
+
+
+DOCTOR X191
+And then I will look at it and I can call you with the results.
+
+
+PATIENT X191
+Okay.
+
+
+DOCTOR X191
+Okay and just call and say you're asking for your MRI results that's all.
+
+
+PATIENT X191
+Okay.
+
+
+DOCTOR X191
+Okay and then I'll give you a reminder as well to look.  I'm gonna look but just go ahead and ask for a reminder and I'll give you a call with the results.  Alright, you're all set.
+
+
+PATIENT X191
+Okay.  Thank you.
+
+
+DOCTOR X191
+Uh-huh.
+
+
+PATIENT X191
+@@@.  
+
+
+DOCTOR X191
+Yeah you too.  Hopefully we'll get to the bottom of this huh.  @@@.  Okay all good to go.  Thank you, have a great holiday sir.
+
+PATIENT X191
+You too.  Happy New Year.
+
+DOCTOR X191
+You have a Happy New Year.
+
+DOCTOR OUT:  50:27
+
+
+
+

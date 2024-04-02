@@ -1,0 +1,1001 @@
+
+DOCTOR X34
+PATIENT.  How have you been doing?
+
+PATIENT X34
+Well I've been doing pretty good.
+
+DOCTOR X34
+Okay.
+
+PATIENT X34
+Up until now.
+
+DOCTOR X34
+Okay.
+
+PATIENT X34
+I've uh, the reason I'm here, I can't urinate.  I've uh been, it's been uh kind of a progressive problem for the last month maybe.
+
+DOCTOR X34
+Uh-huh.
+
+PATIENT X34
+But these last few days I'm up half the night trying to urinate and I can't.
+
+DOCTOR X34
+Okay.
+
+PATIENT X34
+And now, just these last couple days, it's almost a continuous urge to but I go and there's nothing there.
+
+DOCTOR X34
+Do you think that there is something that is obstructing your?
+
+PATIENT X34
+It feels like, sure it feels like it.
+
+DOCTOR X34
+Feels like that okay.  Uh have you found that you actually wet your underpants or or?
+
+PATIENT X34
+No, no.  Not more than a drop or two.
+
+DOCTOR X34
+Not more than a drop or two okay.  Do you feel any pain when you try to @@@?
+
+PATIENT X34
+Yeah, yeah.
+
+DOCTOR X34
+Have you noticed any blood coming out of it?
+
+PATIENT X34
+No.
+
+DOCTOR X34
+No okay.  Uh, I don't see any record of yours in the computer, is it for the first time that you are here?
+
+PATIENT X34
+My very first visit here yes.
+
+DOCTOR X34
+Okay.  Because this is the only time you've seen a physician, only you were calling earlier?
+
+PATIENT X34
+No I hadn't got a primary care physician.  Whatever problems I had in the past were always Emergency Room situations.
+
+DOCTOR X34
+Okay.
+
+PATIENT X34
+And uh it was uh, uh, one was a bleeding ulcer 20 years ago.
+
+DOCTOR X34
+Uh-huh.
+
+PATIENT X34
+And then uh a uh hip replacement shortly after that and uh then I had a uh cellulitis infection in my leg uh since then but that's been maybe ten years ago so its.
+
+DOCTOR X34
+So you mentioned that you were bleeding from the ulcer?
+
+PATIENT X34
+Uh yeah I was taking medication for arthritis in my hip.
+
+DOCTOR X34
+Okay.
+
+PATIENT X34
+And that caused my ulcer.
+
+DOCTOR X34
+Uh-huh.
+
+PATIENT X34
+And I started uh.
+
+DOCTOR X34
+So what you were actually vomiting blood or?
+
+PATIENT X34
+Passing it.
+
+DOCTOR X34
+You were passing blood okay.  So what did they do at that time?
+
+PATIENT X34
+Uh they uh, it actually healed itself but uh.
+
+DOCTOR X34
+You didn't require any kind of endoscopy or @@@.
+
+PATIENT X34
+They did, they went in and looked at it.
+
+DOCTOR X34
+They did an endoscopy?
+
+PATIENT X34
+They went in and looked at it.
+
+DOCTOR X34
+Okay.
+
+PATIENT X34
+But just medication was all, there was no surgery.
+
+DOCTOR X34
+They did no surgery.  That was in which hospital?
+
+PATIENT X34
+Pardon me?
+
+DOCTOR X34
+That was in which hospital?
+
+PATIENT X34
+Laxxx xxx.
+
+DOCTOR X34
+Laxxx xxx okay and then you mentioned that you had a 
+hip replacement.
+
+PATIENT X34
+Miola.
+
+DOCTOR X34
+Uh how many years was that?
+
+PATIENT X34
+That was in uh 2000, no no, it was before that, it was uh in '90.  Yeah it's been 18 years.
+
+DOCTOR X34
+1990.
+
+PATIENT X34
+Yeah uh-huh.
+
+DOCTOR X34
+Okay and which hip was done?
+
+PATIENT X34
+Left.
+
+DOCTOR X34
+The left one, okay.  And it was because you had arthritis there?
+
+PATIENT X34
+Yeah it was, I saw four different doctors and uh they looked at the x-ray and uh, you got a bad hip, wait as long as you can, let me know when you're ready.
+
+DOCTOR X34
+Okay and you never injured your hip right?
+
+PATIENT X34
+Pardon me?
+
+DOCTOR X34
+You never injured your hip or something.  You never had an accident or something?
+
+PATIENT X34
+No, no.  The amazing thing.
+
+DOCTOR X34
+What's an amazing thing?
+
+PATIENT X34
+The amazing thing of that.
+
+DOCTOR X34
+(Doctor gets a phone call) Okay sorry for the interruption.
+
+PATIENT X34
+DOCTOR was a surgeon over at Miola.
+
+DOCTOR X34
+Uh-huh.
+
+PATIENT X34
+And uh he did the surgery on a Thursday and I was back at work on Monday and uh I went back to see him for one check-up and uh then he died after that.  Couldn't go back and see him anymore and I hadn't had any check-up at all since then.
+
+DOCTOR X34
+Okay.
+
+PATIENT X34
+Been 18 years since then.
+
+DOCTOR X34
+But does it bother you any?
+
+PATIENT X34
+Not at all.
+
+DOCTOR X34
+@@@.
+
+PATIENT X34
+Yeah.
+
+DOCTOR X34
+@@@ okay.
+
+PATIENT X34
+@@@ hip yeah.
+
+DOCTOR X34
+If there was copies @@@.
+
+PATIENT X34
+Pardon me?
+
+DOCTOR X34
+There is another thing you @@@.
+
+PATIENT X34
+Oh the cellulitis.
+
+DOCTOR X34
+Oh cellulitis when was that?
+
+PATIENT X34
+I don't know exactly but it was.
+
+DOCTOR X34
+Just take a guess.
+
+PATIENT X34
+It's maybe ten years.
+
+DOCTOR X34
+@@@ 
+
+PATIENT X34
+Uh my lower left leg swelled up.
+
+DOCTOR X34
+Uh-huh.
+
+PATIENT X34
+To a point of where it was inflamed.
+
+DOCTOR X34
+@@@.
+
+PATIENT X34
+Well I got an ulcer.  I've had a leg ulcer that's been there for a long long time.
+
+DOCTOR X34
+Okay.
+
+PATIENT X34
+And uh, and uh that was there, actually that was there before the hip replacement so.
+
+DOCTOR X34
+Okay since then you have had it, okay.
+
+PATIENT X34
+But this is, it was probably worse, gets better and then it gets worse.  It's not even worth having anything.
+
+DOCTOR X34
+But the cellulitis @@@ that was much worse than what you @@@.
+
+PATIENT X34
+Oh the whole leg was swelled and inflamed.
+
+DOCTOR X34
+How did you get it treated?
+
+PATIENT X34
+It was antibiotic I think.
+
+DOCTOR X34
+Was it an IV antibiotic?
+
+PATIENT X34
+Yeah.
+
+DOCTOR X34
+IV.
+
+PATIENT X34
+Uh-huh.
+
+DOCTOR X34
+So were you in the hospital for that?
+
+PATIENT X34
+I was in the hospital for that for uh and that was in Laxxx xxx for probably I don't four or five days I think.
+
+DOCTOR X34
+Okay.  Any other problem that you have, any other medical or physical problems, uh I see you are having a hearing aid.
+
+PATIENT X34
+Yeah a hearing aid.
+
+DOCTOR X34
+@@@.
+
+PATIENT X34
+Yeah I've had those for probably ten years.
+
+DOCTOR X34
+For 10 years.
+
+PATIENT X34
+This is the second set now.
+
+DOCTOR X34
+Okay.
+
+PATIENT X34
+The first ones quit on me and I had to buy another one.
+
+DOCTOR X34
+And you think @@@.
+
+PATIENT X34
+What?
+
+DOCTOR X34
+Do you think that it is working that fine for you?
+
+PATIENT X34
+It's uh, the right one isn't working as good as it had.  The left one is really, really good @@@ I think.
+
+DOCTOR X34
+Apart from the @@@ do you have any other physical, any other medical issues?
+
+PATIENT X34
+Not, well it's been, like I said the leg ulcer.
+
+DOCTOR X34
+Uh-huh.
+
+PATIENT X34
+I had a small hernia.
+
+DOCTOR X34
+Uh-huh.
+
+PATIENT X34
+In my belly button.
+
+DOCTOR X34
+Uh-huh.
+
+PATIENT X34
+And uh that's, but other than that, that's the only thing I can think of that's uh that's a problem.
+
+DOCTOR X34
+Uh-huh.  Uh, you never had hypertension, high blood pressure or diabetes, asthma, do you smoke?
+
+PATIENT X34
+Never did.
+
+DOCTOR X34
+Okay.  Uh, drink alcohol?
+
+PATIENT X34
+Uh quit 40 years ago.
+
+DOCTOR X34
+4 or 40?
+
+PATIENT X34
+40.
+
+DOCTOR X34
+40 and before that how much alcohol did you drink?
+
+PATIENT X34
+Just social.
+
+DOCTOR X34
+Just socially.  Uh any illicit drug issues @@@ no okay.  
+
+PATIENT X34
+The only think I take now is uh a multivitamin and an aspirin a day.
+
+DOCTOR X34
+Multivitamin and an aspirin.  Who told you to take aspirin?
+
+PATIENT X34
+Pardon me?
+
+DOCTOR X34
+Who told you to take aspirin?
+
+PATIENT X34
+That was when I was in with that uh, I was in the hospital with that uh uh uh cellulitis.
+
+DOCTOR X34
+Okay.
+
+PATIENT X34
+And I've got an irregular heart beat.
+
+DOCTOR X34
+Okay.
+
+PATIENT X34
+It's an irregular heart beat and they uh, he wanted to put me on Coumadin and I said doc you know I'd really rather not get involved in that.
+
+DOCTOR X34
+Uh-huh.
+
+PATIENT X34
+And how about an aspirin a day and he very reluctantly said well maybe just as well.
+
+DOCTOR X34
+Uh-huh.
+
+PATIENT X34
+And so uh I've been taking an aspirin a day since then, that's been maybe ten years.
+
+DOCTOR X34
+Uh-huh.  How much aspirin do you take 81 mg or the 325?
+
+PATIENT X34
+I take regular aspirin.
+
+DOCTOR X34
+The 325?
+
+PATIENT X34
+Yeah 225 year.
+
+DOCTOR X34
+The 325 okay.  Uh other than that, anything else, no okay.  You didn't call when you are mentioning this for something that has been happening for the last one month?
+
+PATIENT X34
+I noticed some indication prior to that but it became more, more of a problem just this last month and it became a real problem this week so.
+
+DOCTOR X34
+@@@.  Year, the month?
+
+PATIENT X34
+When I what?
+
+DOCTOR X34
+When you were actually @@@ was a problem when was that?
+
+PATIENT X34
+Uh.
+
+DOCTOR X34
+Just tell me how long that this was a problem, when was that?
+
+PATIENT X34
+Uh.
+
+DOCTOR X34
+Just tell me how you @@@ problem.
+
+PATIENT X34
+The the urination problem?
+
+DOCTOR X34
+The urination problem yeah.
+
+PATIENT X34
+Um three months ago.
+
+DOCTOR X34
+Three months.
+
+PATIENT X34
+Yeah three months.
+
+DOCTOR X34
+Not @@@ then.
+
+PATIENT X34
+No.
+
+DOCTOR X34
+@@@.
+
+PATIENT X34
+A year yeah, a year ago I was fine.  Two months ago I was fine and then.
+
+DOCTOR X34
+Okay.  Uh any back pain?
+
+PATIENT X34
+When I work too hard.
+
+DOCTOR X34
+But nothing down, when you are lying down, when you are relaxing?
+
+PATIENT X34
+No.
+
+DOCTOR X34
+Okay.  Any chest pain?
+
+PATIENT X34
+No.
+
+DOCTOR X34
+Uh shortness of breath?
+
+PATIENT X34
+I'm getting older.  It seems like I can't do anything anymore.
+
+DOCTOR X34
+What happens.
+
+PATIENT X34
+Well any kind of, any time I get in a physical situation where I have to move, move boxes or things.
+
+DOCTOR X34
+Uh-huh.
+
+PATIENT X34
+I get tired faster and it takes me longer to recover but.
+
+DOCTOR X34
+Are you able to walk how much steps can you walk without getting short of breath?
+
+PATIENT X34
+Uh I walk all day really and uh.
+
+DOCTOR X34
+@@@.
+
+PATIENT X34
+Yeah I don't uh; I develop probably sore legs before I run short on breath with just normal walking.
+
+DOCTOR X34
+Uh-huh.
+
+PATIENT X34
+I'll go, I like to fly, I like airplanes and I uh go to Oshkosh.
+
+DOCTOR X34
+Okay.
+
+PATIENT X34
+I drive to Oshkosh, spend all day there walking around.
+
+DOCTOR X34
+How far can you walk?  Can you walk a block or two without getting short of breath?
+
+PATIENT X34
+Oh yeah.
+
+DOCTOR X34
+You can?
+
+PATIENT X34
+Sure.
+
+DOCTOR X34
+Okay.  Uh okay but no chest pain right?
+
+PATIENT X34
+No.
+
+DOCTOR X34
+@@@.
+
+PATIENT X34
+No.
+
+DOCTOR X34
+No.  Any dizziness, any falls?
+
+PATIENT X34
+When I was passing all that blood I couldn't stay vertical.
+
+DOCTOR X34
+Okay, but not for the last few years?
+
+PATIENT X34
+No.
+
+DOCTOR X34
+Okay.  Do you get up at night sometime @@@.
+
+PATIENT X34
+@@@.
+
+DOCTOR X34
+@@@.
+
+PATIENT X34
+No, no.
+
+DOCTOR X34
+But how many pillows do you use at night?  How many pillows do you use at night?
+
+PATIENT X34
+Just one.
+
+DOCTOR X34
+Just one.
+
+PATIENT X34
+Just one yeah.
+
+DOCTOR X34
+Has there been any time in the night when you woke up getting short of breath and then you needed to move around before you can go back to bed again?  Okay.  Okay.  Are you allergic to any medications?
+
+PATIENT X34
+Not that I know of.
+
+DOCTOR X34
+Uh any family history of heart disease or diabetes?
+
+PATIENT X34
+My uh niece is diabetic, insulin-dependent.  Our son is insulin-dependent and uh.
+
+DOCTOR X34
+Who.
+
+PATIENT X34
+Huh.
+
+DOCTOR X34
+Your own son?
+
+PATIENT X34
+Yeah.
+
+DOCTOR X34
+Okay.
+
+PATIENT X34
+He, yeah he's 35 and he was diagnosed at 21 and my niece is 45 and she was diagnosed at 10.
+
+DOCTOR X34
+Uh-huh.
+
+PATIENT X34
+And uh that's the only that I know of.  My dad died of a heart attack just before his 80th birthday and my mom passed on of a cerebral hemorrhage at 54 so.  She didn't live long enough to figure out if she had heart trouble.
+
+DOCTOR X34
+Uh-huh.  At 54 you mean.
+
+PATIENT X34
+Yeah.
+
+DOCTOR X34
+But your father and your mother both were not diabetic right?
+
+PATIENT X34
+No.
+
+DOCTOR X34
+And then the medications you take are the multivitamin and the aspirin that's it?  Yeah.  @@@ so I can examine you, can you get comfortable?  Recently have you feel as if you are getting more forgetful?
+
+PATIENT X34
+Uh not, not as much as my wife is.  My wife is very very forgetful.  She's got really, really bad and uh it almost seems like my memory has been improving since I've been working Sudoku puzzles.  
+
+DOCTOR X34
+Okay.
+
+PATIENT X34
+So the Sudoku it seems to be helping me um.
+
+DOCTOR X34
+In your house currently the members are you and your wife?
+
+PATIENT X34
+Yes sir.
+
+DOCTOR X34
+Just you and your wife.
+
+PATIENT X34
+Just the two of us yeah.
+
+DOCTOR X34
+Okay.  You do some kind of work these days?
+
+PATIENT X34
+Pardon me?
+
+DOCTOR X34
+You do some kind of work these days?
+
+PATIENT X34
+Yeah I drive sick people to rehab actually and uh I do have another question.  This is a medical exam they want me to fill out for that driving job.
+
+DOCTOR X34
+Okay, for the driving?  What kind wagon you drive?
+
+PATIENT X34
+What kind of uh?
+
+DOCTOR X34
+What kind of wagon you drive, is it an ambulance?
+
+PATIENT X34
+No it's a minivan.
+
+DOCTOR X34
+It's a minivan okay.
+
+PATIENT X34
+And I have patients with uh wheelchairs and walkers.
+
+DOCTOR X34
+Are you in some kind rapid transportation or just?
+
+PATIENT X34
+No just it's a regular.
+
+DOCTOR X34
+Just regular transfer.
+
+PATIENT X34
+Regular transfer, in and out.  Take a load of @@@ to rehab, take them back.
+
+DOCTOR X34
+Do you have stairs at home?
+
+PATIENT X34
+Now what?
+
+DOCTOR X34
+Do you have stairs at home?
+
+PATIENT X34
+Yes.
+
+DOCTOR X34
+You do.  You are able to climb those up without a problem?
+
+PATIENT X34
+12 up and 12 down.
+
+DOCTOR X34
+12 up, 12 down.  No problems with those okay.
+
+PATIENT X34
+If I get in.
+
+DOCTOR X34
+Open your mouth, deep breath in and out.  Again, okay, breathe out, in and out okay, good.  I want to lie down over here and put your feet on this.  That's good.  So you have not seen a regular doctor in years and.
+
+PATIENT X34
+Since that infection in my leg.
+
+DOCTOR X34
+Uh-huh.
+
+PATIENT X34
+That's been probably ten years.
+
+DOCTOR X34
+Take a deep breath and hold it for a second okay breathe, okay once more, okay.  Any problems with bowel movements.
+
+PATIENT X34
+Well this last week.
+
+DOCTOR X34
+@@@.
+
+PATIENT X34
+Up till a week ago I had normal daily bowel movements but this urination problem it's affected that.  I've probably gone to four or five a day instead of the one a day.
+
+DOCTOR X34
+Any pain when I press here?
+
+PATIENT X34
+Pardon me?
+
+DOCTOR X34
+Any pain when I press.
+
+PATIENT X34
+No, it's just makes me feel I have to urinate worse.
+
+DOCTOR X34
+Okay.  Can you take this off for a second?  Okay, this is the hernia you were talking about.
+
+PATIENT X34
+Uh-huh.
+
+DOCTOR X34
+I'll be taking your socks off okay?
+
+PATIENT X34
+Pardon me?
+
+DOCTOR X34
+I'll be taking your socks off.
+
+PATIENT X34
+Okay.
+
+DOCTOR X34
+The present state of legs is it bad for you or does it get even better than this?
+
+PATIENT X34
+Is what?  What was that?
+
+DOCTOR X34
+This ulcer which you were talking about.
+
+PATIENT X34
+Yeah.
+
+DOCTOR X34
+Are these the best these usually get or these get even better?
+
+PATIENT X34
+This is probably as bad as they ever get.
+
+DOCTOR X34
+Okay.
+
+PATIENT X34
+They get much better than this at times yeah.
+
+DOCTOR X34
+Do you get pain over here sometimes when you walk?
+
+PATIENT X34
+No not really.
+
+DOCTOR X34
+And you never get leg strains right?
+
+PATIENT X34
+No, no.
+
+DOCTOR X34
+Did you ever have something called varicose veins?
+
+PATIENT X34
+Yeah I've got varicose veins.
+
+DOCTOR X34
+Did you get treatment for that?
+
+PATIENT X34
+No.
+
+DOCTOR X34
+No.  Okay sit up for me.  @@@.  This definitely does not look good.
+
+PATIENT X34
+Pardon me?
+
+DOCTOR X34
+You definitely don't look good.
+
+PATIENT X34
+Yeah.
+
+DOCTOR X34
+You don't get fevers right?
+
+PATIENT X34
+No.
+
+DOCTOR X34
+No okay.
+
+PATIENT X34
+This leg has got a plate and six screws in here where a compound fracture, 50 years ago.
+
+DOCTOR X34
+50 years ago.
+
+PATIENT X34
+50 years ago.
+
+DOCTOR X34
+Okay.
+
+PATIENT X34
+Yeah there's a plate and six screws in that one.
+
+DOCTOR X34
+You were having this kind of ulcers, since when you are having these types of ulcers.  How many years have you had them?
+
+PATIENT X34
+This one?
+
+DOCTOR X34
+Yes.
+
+PATIENT X34
+Um five, six years.
+
+DOCTOR X34
+Five, six years.
+
+PATIENT X34
+Yeah.  It started with just a bump on the leg and just never healed up.
+
+DOCTOR X34
+But this was something that just happened on its own right?
+
+PATIENT X34
+Yeah.
+
+DOCTOR X34
+The last thing for me to do, I need to do a rectal exam, to see how large is your prostate okay.  You know what a rectal exam is?
+
+PATIENT X34
+Yeah.
+
+DOCTOR X34
+You know what, now that is a @@@ to do.
+
+PATIENT X34
+Yeah I had a.
+
+DOCTOR X34
+You've had a rectal exam.
+
+PATIENT X34
+Yeah once before yeah.
+
+DOCTOR X34
+Okay.  Okay, I would like to @@@.  It will be very quick, just a minute, you will be done okay.
+
+PATIENT X34
+Okay.
+
+DOCTOR X34
+Uh I want you to get you off the pants so I can do the exam.  It will be very quick.  Okay.  (Someone knocked on the door, doctor spoke briefly with them)  Please lean on the @@@ okay.  Do you feel any pain when I checked you?
+
+PATIENT X34
+No.
+
+DOCTOR X34
+No pain there?
+
+PATIENT X34
+No.
+
+DOCTOR X34
+No okay.  Good.  Thank you very much sir.  You have got a big prostate.
+
+PATIENT X34
+Big prostate.
+
+DOCTOR X34
+Yeah.
+
+PATIENT X34
+Okay.
+
+DOCTOR X34
+Okay, @@@ out of the room for a few minutes, we have to check everything with our supervisors and other doctors to kind of plan @@@ right and then @@@ and come up with a plan okay now in the meantime you can have your coat and get dressed.  Hang on for a few minutes okay and then we'll talk about the causes.  I think this is all related with your @@@ right?
+
+PATIENT X34
+Yeah that's a report that they want for the driving, it's for the xxx xxx in xxx.
+
+DOCTOR X34
+Okay.  That's for the @@@.
+
+PATIENT X34
+Yeah.  That's a normal report so it doesn't have to be complete, it's.
+
+DOCTOR X34
+Okay.
+
+PATIENT X34
+They just want to make sure that there's nothing currently.
+
+DOCTOR X34
+I'll get you some okay.
+
+PATIENT X34
+Appreciate it.
+
+DOCTOR X34
+I'll be back soon.
+
+(DOCTOR OUT 28:21  DICTATION STOPS HERE)
+
+
+
+
+

@@ -1,0 +1,1754 @@
+
+
+
+DOCTOR X635
+PATIENT?
+
+PATIENT X635
+Yeah. 
+
+DOCTOR X635
+I'm DOCTOR.
+
+PATIENT X635
+Pardon?
+
+DOCTOR X635
+I'm DOCTOR.
+
+PATIENT X635
+Oh how you doing DOCTOR?
+
+DOCTOR X635
+Good, how you doing?
+
+PATIENT X635
+Very good.
+
+DOCTOR X635
+Do you have pain?
+
+PATIENT X635
+Pardon?
+
+DOCTOR X635
+Are you having pain?
+
+PATIENT X635
+Yes I am in my back, back and both of my hips.
+
+DOCTOR X635
+It really hurts you huh.
+
+PATIENT X635
+Uh-huh.
+
+DOCTOR X635
+Okay.  Has this been going on for a while?
+
+PATIENT X635
+Yes.
+
+DOCTOR X635
+Yeah.  Come in here and sit wherever you're comfortable.  I don't know if I've ever seen you before.  This may be the first time I've seen you.
+
+PATIENT X635
+Yeah this is the first time.
+
+DOCTOR X635
+Do you want me to take your coat sir?  If the seat with the back is more comfortable you're welcome sit right here, otherwise @@@.
+
+PATIENT X635
+I'm gonna sit here.
+
+DOCTOR X635
+Yeah, no that's fine.  Alright let me just pull up your chart here.  The @@@ that was on before and we lost this computer so then of course now I've got to print off some of these charts, so I've been @@@ you today.  Okay.  Well let's just @@@.  How long have you been like that?
+
+PATIENT X635
+Well it's been hurting for a while you know.
+
+DOCTOR X635
+How long?
+
+PATIENT X635
+The doctor that's been coming out to see me, you know to see if I can on some pain pills, but she don't want to continue to just giving me pain pills.
+
+DOCTOR X635
+Yeah.
+
+PATIENT X635
+She wants me to you know get it checked out.  She wanted me to go to a pain doctor.
+
+DOCTOR X635
+Specialist?
+
+PATIENT X635
+Yeah.
+
+DOCTOR X635
+Okay.  Who is seeing you, is it a visiting doctor, at home?
+
+PATIENT X635
+Yeah, uh-huh, yeah.  DOCTOR.
+
+DOCTOR X635
+Through the VA here or somewhere else?
+
+PATIENT X635
+No she's a mobile, mobile uh.
+
+DOCTOR X635
+Mobile doctor?
+
+PATIENT X635
+Mobile uh-huh.
+
+DOCTOR X635
+What was she giving you for the pain do you know?
+
+PATIENT X635
+Uh.
+
+DOCTOR X635
+Was it Vicodin?
+
+PATIENT X635
+Vicodin, Vicodin.
+
+DOCTOR X635
+Yeah.  What's the reason?  Usually we like to give people Vicodin to try and get them over a hump.
+
+PATIENT X635
+Yeah.
+
+DOCTOR X635
+People who have chronic back pain like that.
+
+PATIENT X635
+Yes.
+
+DOCTOR X635
+You're always gonna be in some degree of pain but I'm sure as you know if it's bad.
+
+PATIENT X635
+Yeah, yeah.
+
+DOCTOR X635
+If it's bad enough you'll get something done.
+
+PATIENT X635
+Yes.
+
+DOCTOR X635
+So some people have pain all the time?
+
+PATIENT X635
+Yes.
+
+DOCTOR X635
+Your body gets used to that.
+
+PATIENT X635
+Yeah well you know it helps you know but you know but she doesn't want to continue to give it to me cause she say that you know it would probably start affecting my liver and then you know it will be habit-forming too also.
+
+DOCTOR X635
+Right.
+
+PATIENT X635
+You know so she didn't want to continue to give it to me you know.
+
+DOCTOR X635
+Okay.
+
+PATIENT X635
+So she wanted me to go to a pain doctor.
+
+DOCTOR X635
+Okay and really um, I'm not a pain doctor.  I'm a general internist, a @@@ fellow but I can get you to the pain doctor and I can try my best to get you on you know something else.
+
+PATIENT X635
+Yeah okay.
+
+DOCTOR X635
+It might help cause I know they have more experience with seeing people.
+
+PATIENT X635
+Right.
+
+DOCTOR X635
+Um are you taking any other medications?
+
+PATIENT X635
+Uh no.  My high blood pressure, that's the only thing.
+
+DOCTOR X635
+Do you know what that's called?
+
+PATIENT X635
+Uh, I don't remember the name of it.
+
+DOCTOR X635
+Is this the first time you've been here, with us?
+
+PATIENT X635
+What?
+
+DOCTOR X635
+Is this the first time you've been here to the VA?
+
+PATIENT X635
+No, I was here um, I don't know about six weeks ago.
+
+DOCTOR X635
+Okay.  I'll check to see if it's @@@ then I can look and we can see all your meds.
+
+PATIENT X635
+Right.
+
+DOCTOR X635
+And your vitals and how your blood pressure has been and all that kind of stuff.  Um you said it's in the hip as well?
+
+PATIENT X635
+Yeah they I mean it radiates.
+
+DOCTOR X635
+Yeah.
+
+PATIENT X635
+It's in my back and then it radiates down to my hip.
+
+DOCTOR X635
+Okay.
+
+PATIENT X635
+And then it goes all the way down to my knees.
+
+DOCTOR X635
+Does it ever reach the back of the foot?
+
+PATIENT X635
+Pardon?
+
+DOCTOR X635
+Does it ever reach the back of the foot?
+
+PATIENT X635
+No uh uh.
+
+DOCTOR X635
+Okay, it stops at the knees.
+
+PATIENT X635
+Uh-huh, uh-huh.
+
+DOCTOR X635
+Um any incontinence?  Are you losing your bowel or your bladder with this?
+
+PATIENT X635
+Am I?
+
+DOCTOR X635
+Losing your bowel or your bladder.  Are you being incontinent with this pain?  I know this sounds like a strange question but the same nerves that supply down the back of the leg also supply your bladder and your bowels.  So if people are having a lot of compression on that nerve for some reason or the other.
+
+PATIENT X635
+Uh-huh.
+
+DOCTOR X635
+Sometimes they're not able to hold their bowels or bladder.  Has that been a problem for you?
+
+PATIENT X635
+No, no, no, no.
+
+DOCTOR X635
+Good.  Any tingling on the inner thighs at all or just pain down the back?
+
+PATIENT X635
+Uh it's just goes; it goes in the thighs and then the back of the knees.  If feels like its radiating.
+
+DOCTOR X635
+Oh yeah, I'm sure it does.  I mean it sounds to me just um like textbook sciatica.
+
+PATIENT X635
+I thought it was you know like, see at one time I was carrying my wallet in my back, in the back pocket you know.
+
+DOCTOR X635
+Yeah.
+
+PATIENT X635
+And uh somebody told me that that's probably what's, you know, what's causing the pain you know.
+
+DOCTOR X635
+Uh I don't know about that.
+
+PATIENT X635
+But I haven't been carrying a wallet back there for a while; I keep my wallet in the coat pocket.
+
+DOCTOR X635
+Yeah but you're probably still getting the pain huh?
+
+PATIENT X635
+Yeah.
+
+DOCTOR X635
+Let me pull this up.  I'm sorry for the delay.  I'm gonna pull up @@@ and I'm gonna show you something um, cause has anybody ever done an MRI of the back or explain to you why you get the pain in the hip as well?  Has anybody ever talked to you about that aside from the wallet theory?
+
+PATIENT X635
+No they took x-rays you know.
+
+DOCTOR X635
+Okay.
+
+PATIENT X635
+But uh.  They asked me if I had fallen or something.
+
+DOCTOR X635
+Yeah.
+
+PATIENT X635
+But I denied it.  
+
+DOCTOR X635
+Yeah.
+
+PATIENT X635
+You know I don't remember myself falling.
+
+DOCTOR X635
+Okay.  When did you first start having back trouble?
+
+PATIENT X635
+Uh.
+
+DOCTOR X635
+Even as a young man?
+
+PATIENT X635
+I'd say about, about two years.
+
+DOCTOR X635
+Okay.
+
+PATIENT X635
+About two years ago and then I, I had a therapist come over and he used to give me uh exercise you know cause I have in all the years of walking being bent over like this you know.
+
+DOCTOR X635
+Yeah.
+
+PATIENT X635
+And uh he would give me exercise and then after the exercise it would do okay.
+
+DOCTOR X635
+Probably feel good.
+
+PATIENT X635
+Yeah it helped.
+
+DOCTOR X635
+Yeah.
+
+PATIENT X635
+You know but then after a while you know I got it going back again.
+
+DOCTOR X635
+Yeah.  Let me call this nurse back if you could @@@.
+
+PATIENT X635
+Alright.
+
+(Doctor makes a phone call)
+
+DOCTOR X635
+Man those people, so I'm most the doctors here we all work at either University of Illinois or xxx.
+
+PATIENT X635
+Okay.
+
+DOCTOR X635
+You know.
+
+PATIENT X635
+@@@.
+
+DOCTOR X635
+And they keep us five that worked last night till about 10 p.m. and admitted 28 patients yesterday.
+
+PATIENT X635
+Uh-huh.
+
+DOCTOR X635
+So it's just gonna be, you know its one thing after another.
+
+PATIENT X635
+Yesterday they were telling me to go to the uh.
+
+DOCTOR X635
+Because you were a vet?
+
+PATIENT X635
+Uh-huh and uh I just happened to be passing here and I was you know @@@ a bit, I just asked if any of the pain clinics you know.
+
+DOCTOR X635
+Yeah.
+
+PATIENT X635
+Here you know and they told me yeah so this is where I stopped you know.
+
+DOCTOR X635
+Yeah, nothing wrong with that, especially if you're a veteran, use your benefits.
+
+PATIENT X635
+Yeah.
+
+DOCTOR X635
+They're all gonna be free.
+
+PATIENT X635
+Yeah.
+
+DOCTOR X635
+And you can also get your medication here, um you know right now we should definitely start because I'm sure it's gonna be, I mean depending on what your co-pay is and stuff.
+
+PATIENT X635
+Yes.
+
+DOCTOR X635
+It's usually a lot cheaper than getting it on the outside.
+
+PATIENT X635
+Uh-huh.
+
+DOCTOR X635
+Okay.  Alright.  So what they did it looks like that they gave you some x-rays.  They x-rayed the back, spine and x-rayed the right hip and then the right femur, which is this bone here.
+
+PATIENT X635
+Uh-huh.
+
+DOCTOR X635
+And you actually had @@@ you saw DOCTOR, the one I was just telling the nurse to go page, who's covering for me over there.  Um.  So did you get x-rays the last time you were here?
+
+PATIENT X635
+No I didn't get the x-rays here.
+
+DOCTOR X635
+Okay.
+
+PATIENT X635
+You know, the day the VA told me to go and get them I was hurting so bad.
+
+DOCTOR X635
+Yeah.
+
+PATIENT X635
+And she told me that I had trouble walking down here to Radiology and then going over there to the uh.
+
+DOCTOR X635
+Lab and all this stuff.
+
+PATIENT X635
+Lab and stuff you know and man I was hurting so bad that day I just kept on out the door you know.
+
+DOCTOR X635
+I understand, I understand.
+
+PATIENT X635
+I wanted to keep my appointment today you know I, yeah I wanted to go and got to keep my appointment.  I had lost my appointment slip.
+
+DOCTOR X635
+Hmm.
+
+PATIENT X635
+I didn't know what time I was supposed to you know be here.  I was here early this morning.
+
+DOCTOR X635
+Yeah I saw that, 10:44.
+
+PATIENT X635
+Yeah, uh-huh.
+
+DOCTOR X635
+So let me take a listen and then I want to show you this picture.  Um so what the physical therapist was probably doing that helps is a lot of times strengthening those muscles are on the back groups helps you take some of the pressure off for the spine.  Your spine @@@ walk.
+
+PATIENT X635
+Uh-huh.
+
+DOCTOR X635
+And if you get trouble in that with the little nerves coming out.
+
+PATIENT X635
+Uh-huh.
+
+DOCTOR X635
+You kind of get pain like you're having.
+
+PATIENT X635
+Yeah.
+
+DOCTOR X635
+Um so the physical therapy is good because it strengthens all the muscles around that and keeps those vertebrae from @@@ and putting pressure on.
+
+PATIENT X635
+Uh-huh.
+
+DOCTOR X635
+Um, let me see if I can take a listen to you.  Do you have heart problems?
+
+PATIENT X635
+Do I have what?
+
+DOCTOR X635
+Heart troubles?
+
+PATIENT X635
+Heart troubles?
+
+DOCTOR X635
+Have you ever had a heart attack or?
+
+PATIENT X635
+Not that I know of.
+
+DOCTOR X635
+Okay.  Mouth open, deep breath in and out.  Good.  Good.  Good.  Okay.  Can you show me with one hand where it hurts the most?  Right on the side there huh?
+
+PATIENT X635
+Right in here.
+
+DOCTOR X635
+Okay.  Did you ever wear a brace when you were a kid?  Did they ever put you in a back brace when you were a child or anything like that?
+
+PATIENT X635
+No um.  I know, I have no idea when I was 5-year-olds I got @@@ you know.
+
+DOCTOR X635
+Yeah.
+
+PATIENT X635
+And I wore a cast.  I was in a cast from here all the way down to you know.
+
+DOCTOR X635
+Oh wow.
+
+PATIENT X635
+And both my legs so.
+
+DOCTOR X635
+Wow.
+
+PATIENT X635
+So.
+
+DOCTOR X635
+Cause on the exam your spine is a little crooked.  It almost looks like a little scoliosis but not only are you getting like this, you've got a little bit this way.
+
+PATIENT X635
+Yeah.
+
+DOCTOR X635
+And that's typical.  Scoliosis usually will have the spine going like this and in reality @@@.
+
+PATIENT X635
+Yeah okay.  It's a little bit different in there.
+
+DOCTOR X635
+Yeah I think having scoliosis and having an injury in the past.
+
+PATIENT X635
+Uh-huh.
+
+DOCTOR X635
+Makes you more likely to have this so, scoot your butt back for me, I just want to check your reflexes here of your foot, alright.  And just relax.  Can you take your hands and go like this, perfect.  Okay.  So the pain is on the side.  I don't want you to have pain but I'm glad it's not on the bone.
+
+PATIENT X635
+Uh-huh.
+
+DOCTOR X635
+Okay I'm gonna lay you back.  You can go real slow.  Just lay back.  Does that make the pain any better, any worse?  Can you relax for me @@@.
+
+PATIENT X635
+I get stiff but it doesn't make me feel pain or anything.
+
+DOCTOR X635
+Okay.  So I'm gonna lift your lift your leg up here.  I want you to tell me if it causes you any pain and if so where alright.  We'll go real slow.  Tell me if it's hurting you.  Tell me when okay.  You alright?
+
+PATIENT X635
+Okay it's starting to hurt now.
+
+DOCTOR X635
+Where does it hurt?
+
+PATIENT X635
+Right there.
+
+DOCTOR X635
+Right there alright.  Okay the same here.  Does it cause any pain when I pick this one up?
+
+PATIENT X635
+Yeah this ones bad.
+
+DOCTOR X635
+It hurts you on that side huh.
+
+PATIENT X635
+Uh-huh.
+
+DOCTOR X635
+Alright.  Let me sit you up here.  Alright.  Is there anything that seems to make the pain better or worse?
+
+PATIENT X635
+Pardon?
+
+DOCTOR X635
+Does anything seem to make the pain better or worse position wise?
+
+PATIENT X635
+A position?
+
+DOCTOR X635
+Yeah, like leaning forward, leaning back, anything like that?
+
+PATIENT X635
+Well sitting down you know helps the pain.  When I stand and when I walk, when I walk is when it really, you know it really hurt most.
+
+DOCTOR X635
+Okay.
+
+PATIENT X635
+And that's when I have the most pain is when I walk.
+
+DOCTOR X635
+Okay.
+
+PATIENT X635
+You know.  As long as I'm still.
+
+DOCTOR X635
+Uh-huh.
+
+PATIENT X635
+But when I cramp, you know like I be on the bus sometimes and like if the bus is crowded or something.
+
+DOCTOR X635
+Uh-huh.
+
+PATIENT X635
+And I have to scoot a certain way.
+
+DOCTOR X635
+Yeah.
+
+PATIENT X635
+Because then you know.
+
+DOCTOR X635
+It takes some of the pressure off huh.
+
+PATIENT X635
+Yes, you know.
+
+DOCTOR X635
+Alright, excuse me. (Doctor speaks to someone at the door)  Let me show you this picture.  So I think what's going on um, pretty classic for something we call sciatica.  I just put in three x-ray of the back.
+
+PATIENT X635
+Uh-huh.
+
+DOCTOR X635
+But I think I already know what I'm gonna find.
+
+PATIENT X635
+Uh-huh.
+
+DOCTOR X635
+Probably gonna see.  Can you see right here, I know it's kind of, let's see if I can make this any bigger, okay so that's much better.  So what I, oh alright so your pain you were telling me is kind of like here.  We're looking at the back of this gentleman right.
+
+PATIENT X635
+Hmm.
+
+DOCTOR X635
+The pain is kind of right here. 
+
+PATIENT X635
+Uh-huh.
+
+DOCTOR X635
+So but these T's and these L's came for are how medicine named the blocks that make up your lumbar spine.  What the picture is trying to show are all the nerves that come out in between those blocks.  The pictures of blocks here and a block there.  So from things like injuries like you got hit when you were five.
+
+PATIENT X635
+Uh-huh.
+
+DOCTOR X635
+One thing, scoliosis is another thing.  Those are two things that tend to give people arthritis in the back okay and what happens when they get the arthritis, the picture of these kind of two blocks here, there's a close-up picture and he and you live your life in your @@@ you just came out no problem and you have no pain.  So these nerves travel everywhere, some down your legs, up your arms wherever and ever nerve is responsible for a different part of the body okay.
+
+PATIENT X635
+Uh-huh.
+
+DOCTOR X635
+So the reason why I was asking you does your pain affect your knee, does the pain reach your feet at sometimes is to figure out exactly what nerve might be responsible for causing you this pain.  So as we age you get these little bony spurs here and these little bony spurs pinch those nerves.  So the fact that you're getting pain here and the pain goes all the way down to your knees but doesn't get past the leg.
+
+PATIENT X635
+Uh-huh.
+
+DOCTOR X635
+Tells me your trouble is probably in the nerve L3-L4, actually probably most definitely in L3-L4.  So what I bet we're gonna find in your x-rays, we're gonna find some bony spurs compressing those nerves.  So what do we do to treat it is the big question.  There's a component of inflammation.  So you're always gonna have those spurs, you can't get rid of them, despite surgery, despite anything.  So we got to get in the place where we're treating your pain on a daily basis.
+
+PATIENT X635
+Uh-huh.
+
+DOCTOR X635
+And whenever you get these inflammations you get exacerbations you know you throw out your back or sit for too long whatever, you're gonna have these ups and downs of pain.  At that point, I'm definitely comfortable to give you Vicodin.  At that point I'm definitely comfortable giving you Flexeril which is actually a muscle relaxant.  That's what DOCTOR gave you before.
+
+PATIENT X635
+Uh-huh.
+
+DOCTOR X635
+Did that help you at all?  The Flexeril?
+
+PATIENT X635
+Um I had some before.  They helped you know at night you know.
+
+DOCTOR X635
+Yeah, yeah.
+
+PATIENT X635
+They uh you know when I go to bed you know.
+
+DOCTOR X635
+Yeah.
+
+PATIENT X635
+They helped but during the day they don't they don't do a thing.
+
+DOCTOR X635
+They don't do it okay.  Alright um the other thing of course is I'm on to your hearing loss so I'm pretty sure I'm gonna see @@@ first and talk to the nurse.  I want to see @@@.  You've never had cancer?  Right you haven't.
+
+PATIENT X635
+No, no.
+
+DOCTOR X635
+Alright very good.  Um so maybe let's start there.  @@@.  But I think DOCTOR would do it and I like to show my patients just so they understand what's going on.  You know if I kind of knew what's going on and nobody tells us cause I want to get you feeling better you know.
+
+PATIENT X635
+Uh-huh.
+
+DOCTOR X635
+Um let's see here.  Okay just let me enter this.  So I'll just kind of go through what DOCTOR said.  You have a history of hypertension, the scoliosis and the lumbago, that's the back pain.  You've had ulcers in the stomach and then what it says, its kind like you've had um some blockages in the heart.
+
+PATIENT X635
+Uh-huh.
+
+DOCTOR X635
+But there's no heart attack or heart troubles.  Surgeries you had the removed parts of the ulcer.
+
+PATIENT X635
+Uh-huh.
+
+DOCTOR X635
+Um you're taking the Vicodin and then the blood pressure medications.  Are you still smoking?
+
+PATIENT X635
+Uh I smoke about four or five cigarettes a day.
+
+DOCTOR X635
+Okay.
+
+PATIENT X635
+Yeah.
+
+DOCTOR X635
+I think that's better of course than a pack you know but smoking and pain are related.
+
+PATIENT X635
+Yeah I'm, I'm weaning myself off the cigarettes.
+
+DOCTOR X635
+Okay have you ever had a colonoscopy?  This has nothing to do with your back.
+
+PATIENT X635
+Yeah.
+
+DOCTOR X635
+You did.
+
+PATIENT X635
+Yeah.
+
+DOCTOR X635
+Okay was it normal?
+
+PATIENT X635
+Uh yes.
+
+DOCTOR X635
+And when did you have that?
+
+PATIENT X635
+Just before I had the ulcer.
+
+DOCTOR X635
+Okay.
+
+PATIENT X635
+Because you know I thought that when I had that colonoscopy they took a piece.
+
+DOCTOR X635
+Uh-huh.
+
+PATIENT X635
+Of my skin, they pulled a piece of my skin.
+
+DOCTOR X635
+A biopsy yeah.
+
+PATIENT X635
+Yeah.  And I was assuming that that was what caused the ulcer.
+
+DOCTOR X635
+Okay.
+
+PATIENT X635
+After they you know stuck that you know probe up in there.
+
+DOCTOR X635
+Yeah.
+
+PATIENT X635
+And started taking stuff you know.
+
+DOCTOR X635
+Yeah.
+
+PATIENT X635
+Cause I thought maybe that caused me to have ulcers because I never did have any pain.
+
+DOCTOR X635
+Yeah.
+
+PATIENT X635
+In my stomach before you know.
+
+DOCTOR X635
+Yes.
+
+PATIENT X635
+It was never any pain.  I never had no kind of uh indication that I had a ulcer you know.
+
+DOCTOR X635
+Okay.
+
+PATIENT X635
+And then you know and I went to the hospital they told me that I had a hole in my stomach you know.
+
+DOCTOR X635
+Yeah.
+
+PATIENT X635
+They were telling me there was a ulcer you know.
+
+DOCTOR X635
+Yeah.
+
+PATIENT X635
+That's what I found out.
+
+DOCTOR X635
+That there was a hole.  Any stomach pain since?
+
+PATIENT X635
+No.
+
+DOCTOR X635
+No.
+
+PATIENT X635
+No I never had any.
+
+DOCTOR X635
+So no blood in the stool or dark tarry stools?
+
+PATIENT X635
+Uh uh.
+
+DOCTOR X635
+Okay good.  So when did you have the operation to take the?
+
+PATIENT X635
+Uh.
+
+DOCTOR X635
+10 years ago, 5 years ago?
+
+PATIENT X635
+No about five years ago.
+
+DOCTOR X635
+About five years.  Are you allergic to anything?
+
+PATIENT X635
+No, no.
+
+DOCTOR X635
+So in terms of today what exactly do you think I could do for you today.  Are you bad enough where you think you need Vicodin?
+
+PATIENT X635
+Pardon?
+
+DOCTOR X635
+Are you bad enough where you think you need some Vicodin?
+
+PATIENT X635
+I don't, usually can I get the Norco, I think the Norco is good.
+
+DOCTOR X635
+Norco is just like two Vicodins.
+
+PATIENT X635
+Yeah but they said it don't, it don't do what Vicodin do.
+
+DOCTOR X635
+Now do you have liver troubles?
+
+PATIENT X635
+Huh?
+
+DOCTOR X635
+Do you have hepatitis or liver cancer?
+
+PATIENT X635
+Uh uh.
+
+DOCTOR X635
+No hepatitis?  
+
+PATIENT X635
+No.
+
+DOCTOR X635
+So you haven't really @@@.
+
+PATIENT X635
+Uh-huh.
+
+DOCTOR X635
+You can take as much as 4 grams of Tylenol a day.
+
+PATIENT X635
+Uh-huh.
+
+DOCTOR X635
+As far as the Tylenol right.
+
+PATIENT X635
+Okay.
+
+DOCTOR X635
+And a Vicodin was 325 mg.
+
+PATIENT X635
+Uh-huh.
+
+DOCTOR X635
+So in theory you could take probably about 12 like before you start having liver trouble.
+
+PATIENT X635
+Oh okay.
+
+DOCTOR X635
+A lot of nurses don't understand that, they think all Vicodin and Tylenol is bad for your liver.
+
+PATIENT X635
+Oh.
+
+DOCTOR X635
+Um in terms of the Norco they @@@ don't let us have Norco here cause it's a stronger narcotic.
+
+PATIENT X635
+Uh-huh.
+
+DOCTOR X635
+So I prefer to keep you on Vicodin.
+
+PATIENT X635
+Okay.
+
+DOCTOR X635
+But if you have you know getting them from me I'm gonna talk to my attending DOCTOR and see what she thinks about a pain consult.
+
+PATIENT X635
+Okay.
+
+DOCTOR X635
+Um at this point.  But since you've only had this for two years I like the fact that you did some physical therapy.
+
+PATIENT X635
+Hmm.
+
+DOCTOR X635
+I like the fact that you're still moving around.
+
+PATIENT X635
+Hmm.
+
+DOCTOR X635
+I don't think there's anything wrong with your hip.  I don't think there's anything wrong with the back of your leg.  I think it's all coming from the back.
+
+PATIENT X635
+Okay.
+
+DOCTOR X635
+But I want to get those x-rays with DOCTOR and just do some regular labs to make sure there's nothing else @@@.
+
+PATIENT X635
+Okay.
+
+DOCTOR X635
+Um any questions for me or anything I didn't ask you that you think might be important?
+
+PATIENT X635
+The only thing, the nurse when she come out to the house she felt a knot, do you think it's a muscle or something that's here?
+
+DOCTOR X635
+Yeah I think you were probably having a muscle spasm secondary to this arthritis.
+
+PATIENT X635
+Cause right up there, right in where you had.
+
+DOCTOR X635
+Where I'm pressing?
+
+PATIENT X635
+No up a little bit, up a little bit.
+
+DOCTOR X635
+Right here?
+
+PATIENT X635
+Right in there, right in there.  She said @@@ or something.  She felt a bulge or something.
+
+DOCTOR X635
+I think it's, yeah there is a little bulge but I don't know if it's due to the misalignment of the spine.
+
+PATIENT X635
+Could it be a muscle or something?
+
+DOCTOR X635
+I don't know.  It's hard to say, does it hurt when I press on it?
+
+PATIENT X635
+No it doesn't hurt.
+
+DOCTOR X635
+I think it's more just because your spine is misaligned but let's get that x-ray and see if it changes.
+
+PATIENT X635
+Hmm.
+
+DOCTOR X635
+Okay.
+
+PATIENT X635
+Okay.
+
+DOCTOR X635
+Um alright, anything else?  Any other questions or anything else bothering you?
+
+PATIENT X635
+No.
+
+DOCTOR X635
+Okay let me just take a listen.
+
+PATIENT X635
+I can't hear.
+
+DOCTOR X635
+Okay.  Have you ever worn hearing aids?
+
+PATIENT X635
+No.
+
+DOCTOR X635
+No.
+
+PATIENT X635
+But I think I need it.
+
+DOCTOR X635
+Okay.
+
+PATIENT X635
+Yeah.
+
+DOCTOR X635
+Is it both ears?  One ear?
+
+PATIENT X635
+I believe it's both ears.
+
+DOCTOR X635
+Okay.
+
+PATIENT X635
+Yeah.
+
+DOCTOR X635
+Do you ever get ringing in the ear?
+
+PATIENT X635
+Do I get what?
+
+DOCTOR X635
+Ringing in the ears?
+
+PATIENT X635
+No.
+
+DOCTOR X635
+No.
+
+PATIENT X635
+Uh uh.
+
+DOCTOR X635
+Okay.  Alright yeah I can definitely set you up with hearing tests.  
+
+PATIENT X635
+Hmm.
+
+DOCTOR X635
+You know there's different kinds.  Sometimes there's a problem getting the sound from here to there and sometimes @@@ so we can do that.  Any changes in your vision?
+
+PATIENT X635
+Well I know I need glasses cause I know, you know I know I now I used to wear glasses you know what I'm saying in school.  I had to have glasses in order to read.
+
+DOCTOR X635
+You wore them as a child.
+
+PATIENT X635
+Keep up with class and.
+
+DOCTOR X635
+Yeah.
+
+PATIENT X635
+Other than that and uh I used to drive a lot you know and I didn't use glasses for that, only at night you know and to see the signs.
+
+DOCTOR X635
+Yeah.
+
+PATIENT X635
+If I'm in a place that I'm not familiar with I have to know where I'm at, I read the signs.
+
+DOCTOR X635
+Okay, I get it, I know this, you're here for your back I understand that but if it's all the same to you I have no problem referring you to Ophtho to get glasses or to Audiology to get your hearing tested.  Any headaches?
+
+PATIENT X635
+No, uh-huh.
+
+DOCTOR X635
+Okay any trouble swallowing?
+
+PATIENT X635
+Hmm.
+
+DOCTOR X635
+Changes um, any nausea, vomiting?
+
+PATIENT X635
+Uh, uh.
+
+DOCTOR X635
+Okay you told me no abdominal pain, no bleeding from below.  Are you moving your bowels okay?
+
+PATIENT X635
+Uh my bowels I move, I don't move them every day you know like I should do.
+
+DOCTOR X635
+No you shouldn't, everybody's different.  As long as you feel okay and it works for you.
+
+PATIENT X635
+Okay.
+
+DOCTOR X635
+If you ever do feel plugged up sometimes it's just as simple as staying real hydrated.
+
+PATIENT X635
+Yeah.
+
+DOCTOR X635
+You know.
+
+PATIENT X635
+Hmm.
+
+DOCTOR X635
+Taking a walk.
+
+PATIENT X635
+Yeah.
+
+DOCTOR X635
+Um.
+
+PATIENT X635
+Yeah see that's my problem.  See I like to walk you know but I, I mean I can't walk the distance.
+
+DOCTOR X635
+Yeah.
+
+PATIENT X635
+You know and I mean I walk from here to the machines out there you know and I be about to fall over you know.
+
+DOCTOR X635
+Yeah.
+
+PATIENT X635
+So it's hard for me to you know take a walk.
+
+DOCTOR X635
+Yeah I'm sure it is.
+
+PATIENT X635
+Other than that I feel pretty good.
+
+DOCTOR X635
+Feel pretty good.  Any trouble passing water?
+
+PATIENT X635
+I pass too much water.
+
+DOCTOR X635
+Okay.  How old are you?
+
+PATIENT X635
+Uh 72.
+
+DOCTOR X635
+Okay.
+
+PATIENT X635
+Uh-huh.
+
+DOCTOR X635
+Um you know when you watch a baseball game how they have all those commercials about dribbling, hesitancy, frequent urinations all that stuff?
+
+PATIENT X635
+Yes.
+
+DOCTOR X635
+Does that sound like you?
+
+PATIENT X635
+Yes uh-huh.
+
+DOCTOR X635
+Any man gets old enough his prostate gets old with him, it gets bigger.
+
+PATIENT X635
+Yeah.
+
+DOCTOR X635
+And it closes off the urethra which is @@@ the bladder to the outside.
+
+PATIENT X635
+Uh-huh.
+
+DOCTOR X635
+How many times a night are you getting up to pee?
+
+PATIENT X635
+Oh man about at least six times.
+
+DOCTOR X635
+Oh my goodness.
+
+PATIENT X635
+At least six.
+
+DOCTOR X635
+Okay.  So this is the kind of thing that's completely up to you because there's really no harm in not treating it and I'm not trying to push a bunch of junk down your throat since this is the first time I meet you.
+
+PATIENT X635
+Uh-huh.
+
+DOCTOR X635
+But they do make medicine for that.
+
+PATIENT X635
+Yeah but a guy told me he said you ought to be glad that you go to the bathroom.
+
+DOCTOR X635
+No.
+
+PATIENT X635
+Because he stopped going and he was on dialysis.
+
+DOCTOR X635
+Gotcha.
+
+PATIENT X635
+And so.
+
+DOCTOR X635
+That's trouble with the kidneys.  You keep your blood pressure low you'll never have trouble with the kidneys.
+
+PATIENT X635
+Oh.
+
+DOCTOR X635
+Your blood pressure was great today.  A little high but I can live with it.
+
+PATIENT X635
+Yeah.
+
+DOCTOR X635
+Yeah so um let me know, let me know if you want that and we can do that for you, that's really easy to take care of.
+
+PATIENT X635
+Uh-huh.
+
+DOCTOR X635
+Any problems aside from the back and the pain?  Any other problems with your joints?  Your hands look like, yeah this really makes me wonder so, did you ever injure the hand?
+
+PATIENT X635
+Uh.
+
+DOCTOR X635
+You've got significant arthritis in these hands.
+
+PATIENT X635
+Arthritis, that's what this is.
+
+DOCTOR X635
+Oh yeah significant.  So sometimes, so the fact that you have trouble here, usually it means it's turning into arthritis, over use arthritis.
+
+PATIENT X635
+Uh-huh.
+
+DOCTOR X635
+Sometimes more women than men we see a lot of swollen knee joints, it's just sometimes @@@ upright @@@.
+
+PATIENT X635
+Yeah but I know I got arthritis.
+
+DOCTOR X635
+Yeah but this is, I can tell you've had it for years because this is terminal enlargement, this isn't active arthritis per say.
+
+PATIENT X635
+Uh-huh.
+
+DOCTOR X635
+But the swelling and there's been a lot of damage for years.  Okay.  Do you take anything besides the Vicodin at home?  Do you ever try Tylenol or tramadol or anything else?
+
+PATIENT X635
+Tramadol they gave me, they gave me tramadol but tramadol really don't @@@.
+
+DOCTOR X635
+Yeah.
+
+PATIENT X635
+You know.
+
+DOCTOR X635
+@@@.
+
+PATIENT X635
+Help the pain you know.
+
+DOCTOR X635
+Yeah.
+
+PATIENT X635
+I don't know maybe you know but I don't have no pain nowhere else you know.
+
+DOCTOR X635
+Yeah.
+
+PATIENT X635
+Nowhere else.  I don't even have it in my hand.  I have it in my shoulder sometimes you know.
+
+DOCTOR X635
+Yeah.
+
+PATIENT X635
+Other than that I don't you know.  My biggest problem is the back area and my hips.
+
+DOCTOR X635
+Yeah.  Alright.  
+
+PATIENT X635
+I'm gonna be just fine.
+
+DOCTOR X635
+Well I'll give you some um, I think it's important to take scheduled Tylenol, I really do.
+
+PATIENT X635
+Uh-huh.
+
+DOCTOR X635
+So taking it kind of every eight hours.  Cause pain is the kind of thing if you don't stay ahead of it it will catch up to you.
+
+PATIENT X635
+Okay.
+
+DOCTOR X635
+You know so especially with a lot of these veterans who are trying to be tough you know, they say oh I can take the pain when I can take the pain meds and they wait until it gets so bad and then they really have to play catch up.
+
+PATIENT X635
+Yeah.
+
+DOCTOR X635
+So there's nothing wrong with you taking Tylenol like three times a day.
+
+PATIENT X635
+Okay.
+
+DOCTOR X635
+Getting ahead of it and that's gonna be your baseline cause you're always gonna have this pain.
+
+PATIENT X635
+Uh-huh.
+
+DOCTOR X635
+I'm comfortable giving you some Vicodin to take home.
+
+PATIENT X635
+Okay.
+
+DOCTOR X635
+Take it when you need it
+
+PATIENT X635
+Alright.
+
+DOCTOR X635
+I'm comfortable with giving you some muscle relaxants to take home, take it before you go to bed if the pain is really bothering you.
+
+PATIENT X635
+Okay.
+
+DOCTOR X635
+But at least start taking something or something like acetaminophen or Tylenol regularly.
+
+PATIENT X635
+Tylenol.
+
+DOCTOR X635
+Because you've bled in your stomach.
+
+PATIENT X635
+Uh-huh.
+
+DOCTOR X635
+I avoid things like ibuprofen.  I would avoid Naprosyn.  Things in that family we call NSAIDs.
+
+PATIENT X635
+Right uh-huh.
+
+DOCTOR X635
+That's what NAME had is ulcers @@@ ball players popping pain relievers.
+
+PATIENT X635
+Uh-huh.
+
+DOCTOR X635
+And they'll give you ulcers.
+
+PATIENT X635
+Right.
+
+DOCTOR X635
+And even if your ulcers weren't from that we just avoid them.
+
+PATIENT X635
+Okay.
+
+DOCTOR X635
+You know, we don't want any trouble.
+
+PATIENT X635
+Uh-huh.
+
+DOCTOR X635
+Um I want to see an x-ray um just to make sure there's nothing going on.  Again I don't really see a mass.  I know what's she's talking about but again I think it's just because you're a little bit crooked back there.
+
+PATIENT X635
+Okay.
+
+DOCTOR X635
+So let's do an x-ray and make sure there's nothing um nothing concerning.
+
+PATIENT X635
+Okay.
+
+DOCTOR X635
+And just some basic blood work if that's alright, just a blood count and a chemistry.  Make sure your kidneys are working, make sure you're not anemic anything like that.
+
+PATIENT X635
+Uh-huh.
+
+DOCTOR X635
+Have you been losing weight?
+
+PATIENT X635
+Uh I haven't been losing weight and I haven't been gaining weight.
+
+DOCTOR X635
+So you've been okay.
+
+PATIENT X635
+Yeah.  Uh-huh.
+
+DOCTOR X635
+Okay.  Any other questions for me?
+
+PATIENT X635
+Hmm.  You know I mean I was waiting for you to stay on me.
+
+DOCTOR X635
+I know, I know.  And I know that's a lot but usually the first time I see a patient.
+
+PATIENT X635
+Uh-huh.
+
+DOCTOR X635
+I like to talk about everything.
+
+PATIENT X635
+Yeah.
+
+DOCTOR X635
+So we can @@@ I know you were in here for trouble passing water, decreased hearing.
+
+PATIENT X635
+Yeah.
+
+DOCTOR X635
+We'll just test it.  Okay I'll be back in just a minute.
+
+PATIENT X635
+Okay.
+
+(DOCTOR OUT:  40:44  DOCTOR IN: 44:16)
+
+DOCTOR X635
+So the way it works here this is @@@ big institution, like I told you we're not @@@.  I'm telling you about it but um.
+
+PATIENT X635
+Alright.
+
+DOCTOR X635
+Usually it's not like the Army so I'm like a lieutenant and I've got to report to the general, you know and I don't know where she is.  She might be in the bathroom or something so I'm gonna sit here and put these orders in.
+
+PATIENT X635
+Alright.
+
+DOCTOR X635
+And be efficient and in about three minutes I'll go look for her again but I know you've been waiting for a while.  (Doctor works on computer)  Now do you live here in xxx?
+
+PATIENT X635
+Uh yes I do.  Right now I'm temporarily out in xxx.
+
+DOCTOR X635
+Yeah.
+
+PATIENT X635
+You know but I'm only out them temporarily.  I'm out there with my brother.
+
+DOCTOR X635
+Uh-huh.
+
+PATIENT X635
+Because I'm looking for a place you know.
+
+DOCTOR X635
+Yeah.
+
+PATIENT X635
+And so.
+
+DOCTOR X635
+Is xxx south?
+
+PATIENT X635
+Huh?
+
+DOCTOR X635
+Is xxx south?
+
+PATIENT X635
+Yeah around 167th.
+
+DOCTOR X635
+Oh okay.
+
+PATIENT X635
+Hmm.
+
+DOCTOR X635
+(Doctor makes a phone call looking for the attending)  Looking for the attending doctor.  Okay.  I'm sorry to waste your time.  I think we're in business so um X-Ray, do you remember where X-Ray is, DOCTOR?
+
+PATIENT X635
+I don't know, I was wondering why I didn't go over there first.
+
+DOCTOR X635
+I'll walk you out.
+
+PATIENT X635
+@@@.
+
+DOCTOR X635
+I'll walk you out.  Do you like your medications to go to your house or do you want to pick them up now?
+
+PATIENT X635
+I'll pick them up now.
+
+DOCTOR X635
+Okay, what I'm gonna do is give you, let's see here, um so what I'm gonna do is I'm going to put in with DOCTOR.  If you want to see the hearing people and if you want to see the eye doctor people and they can schedule you an appointment.  So this way you've got an order so you can do that after you're through here okay. That's what I'm doing now.
+
+PATIENT X635
+Alright.
+
+DOCTOR X635
+Uh then you'll stop at the Lab and do some blood work and I'll walk you out and I'll show you where the X-Ray is.
+
+PATIENT X635
+Okay.
+
+DOCTOR X635
+And then you can just get some x-rays to make sure there's nothing more going on.
+
+PATIENT X635
+Okay.
+
+DOCTOR X635
+Um do you have a phone number I can reach you at so I can call you when your labs are?
+
+PATIENT X635
+Yeah NUMBER.
+
+DOCTOR X635
+Okay.
+
+PATIENT X635
+NUMBER.
+
+DOCTOR X635
+Okay.  And I can give you one of my cards too.  Now how the heck do you get in the surgery @@@.  Are you far-sighted or near-sighted?
+
+PATIENT X635
+Uh.
+
+DOCTOR X635
+Sounds like you were.
+
+PATIENT X635
+I, what you call far-sighted means you can't see a long distance?
+
+DOCTOR X635
+No, it's the opposite.  So you couldn't see the board so you were near-sighted.
+
+PATIENT X635
+Okay near-sighted.
+
+DOCTOR X635
+Okay.  Okay I gave you 100 Tylenol with a couple refills, so that should be good to start you with.
+
+PATIENT X635
+Okay.
+
+DOCTOR X635
+I also gave you 30 Vicodin and again take those when you need them.
+
+PATIENT X635
+Okay.
+
+DOCTOR X635
+I'll give you my card.  Even if the back pain goes perfect, I'd still like to see you back in six months.
+
+PATIENT X635
+Okay.
+
+DOCTOR X635
+We'll have the @@@ clerk schedule your appointment for the hearing aids and the eye exam.
+
+PATIENT X635
+Right.
+
+DOCTOR X635
+Um we'll get some labs and we'll get some x-rays and I'll call you.
+
+PATIENT X635
+Good.
+
+DOCTOR X635
+Okay.
+
+PATIENT X635
+Okay.
+
+DOCTOR X635
+@@@ so.  Let me just make sure there's no wax in your ears cause that would be embarrassing as the reason for your.  I'll look now, let's see.  I can't list it on my own, @@@ put the order in.  You've got the cleanest ears in xxx xxx. 
+
+PATIENT X635
+Oh you think so.
+
+DOCTOR X635
+Great, excellent.
+
+PATIENT X635
+Now I can't hear, you know I be looking at the TV and I be right up on it.  You know what I mean; I'll be looking at TV.
+
+DOCTOR X635
+Yeah.
+
+PATIENT X635
+And I can be like I see the TV and I can hear it come out their mouth but I can't understand what they're saying.
+
+DOCTOR X635
+Yeah, yeah.
+
+PATIENT X635
+You know.
+
+DOCTOR X635
+I mean a certain degree of that just comes with aging.
+
+PATIENT X635
+Uh-huh.
+
+DOCTOR X635
+You know.  The nice thing is will be to see an audiologist.  You know what they do @@@.  But they can tell us if the trouble is here, if the sound is getting from here to there.
+
+PATIENT X635
+Okay.
+
+DOCTOR X635
+Sometimes people just have wax in the ear.
+
+PATIENT X635
+I know that too.
+
+DOCTOR X635
+@@@ but the other thing is see if you'd be a good candidate for hearing aids.
+
+PATIENT X635
+Yeah.
+
+DOCTOR X635
+Okay.  Down the hallway, go down there, X-Ray is down there.  @@@.  But I'll walk up this way, just to here.  You know what, it looks like their @@@.
+
+PATIENT X635
+Where do I take this?
+
+DOCTOR X635
+@@@ appointment and I'll see you in six months.  Any questions or concerns they'll send me a message okay.
+
+PATIENT X635
+Okay.
+
+DOCTOR X635
+Thanks.
+
+PATIENT LEAVES:  60:02
+
+
+

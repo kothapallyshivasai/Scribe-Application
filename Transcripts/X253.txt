@@ -1,0 +1,904 @@
+
+DOCTOR X253
+PATIENT?  Hi how are you? 
+
+PATIENT X253
+I'm good.
+
+DOCTOR X253
+Doing okay.
+
+PATIENT X253
+@@@.
+
+DOCTOR X253
+@@@.  Have a seat.
+
+PATIENT X253
+I could @@@.  Good to see you.
+
+DOCTOR X253
+Good to see you.
+
+PATIENT X253
+When was the last time?
+
+DOCTOR X253
+Maybe yeah.
+
+PATIENT X253
+Yeah you the man.
+
+DOCTOR X253
+Yeah you're just not sick enough to see me enough, you're too healthy.
+
+PATIENT X253
+I think so.
+
+DOCTOR X253
+@@@ get along.
+
+PATIENT X253
+That's what he put me on.
+
+DOCTOR X253
+Yeah.
+
+PATIENT X253
+@@@.
+
+DOCTOR X253
+Alright, I'll see if it's available.  Alright so uh are both knees still bothering you?
+
+PATIENT X253
+Yes.  I think @@@, do you see that?
+
+DOCTOR X253
+Yes I do.
+
+PATIENT X253
+And uh I was having chills and pain in my left arm and the right arm, achy all over.  And the doctor who saw me, he done gave me a EKG, see here @@@.
+
+DOCTOR X253
+Okay.
+
+PATIENT X253
+And he said that uh probably was the cholesterol medication I was taking.
+
+DOCTOR X253
+Uh-huh.
+
+PATIENT X253
+He told me to stop taking it.  
+
+DOCTOR X253
+Has that stuff gone away sometime?
+
+PATIENT X253
+It did slow down a lot.  I mean I get it just not as much as I was getting it before so I thought I was having a heart attack man.
+
+DOCTOR X253
+Mainly in the shoulder this time?
+
+PATIENT X253
+My shoulder, right shoulder and in the left arm and the right arm, achy all over.  Even in my head with that stuff.
+
+DOCTOR X253
+Okay.  @@@.
+
+PATIENT X253
+Yes 80 mg.
+
+DOCTOR X253
+Oh so this is completely gone now?
+
+PATIENT X253
+Well it comes and goes.  Every now and then it'll come and I get the pain in my shoulders and my arms, you know just like it was before.  Like I said it would take a while before I could actually use it.
+
+DOCTOR X253
+That's true.  Um when do you get that pain in your shoulder?
+
+PATIENT X253
+Especially at night when I'm laying down.
+
+DOCTOR X253
+Do you ever get it when you're walking around?
+
+PATIENT X253
+Sometimes.  Very rarely up here though.
+
+DOCTOR X253
+Okay.
+
+PATIENT X253
+But when I lay down and relax that's when the pain in the shoulders, arms, I get the pain.
+
+DOCTOR X253
+Um, do you ever get short of breath with that?
+
+PATIENT X253
+Sometimes I get a little bit short of breath just when I walk.
+
+DOCTOR X253
+Do you get the shortness of breath at the same time as the shoulder pain or is that separate?
+
+PATIENT X253
+It's separate.
+
+DOCTOR X253
+Okay.  Uh what about nausea or vomiting?
+
+PATIENT X253
+No sir.
+
+DOCTOR X253
+Well it doesn't sound like it’s your heart.
+
+PATIENT X253
+I have an appointment with Cardiology Clinic next month.
+
+DOCTOR X253
+You do.
+
+PATIENT X253
+@@@.
+
+DOCTOR X253
+Alright.
+
+PATIENT X253
+That gave it a name.
+
+DOCTOR X253
+Good.  Uh when was the last time you saw them?  Cardiology fellows, October?
+
+PATIENT X253
+They took an EKG downstairs.
+
+DOCTOR X253
+Alright good.
+
+PATIENT X253
+@@@.
+
+DOCTOR X253
+You had a and in the past you've had some testing done on your heart.
+
+PATIENT X253
+I had stents.
+
+DOCTOR X253
+Yeah but even since that time um, it looks like you've had a stress test.
+
+PATIENT X253
+A long time before I had the stents.
+
+DOCTOR X253
+@@@.
+
+PATIENT X253
+Before I get stents again.
+
+DOCTOR X253
+Okay.  When were the stents put in?
+
+PATIENT X253
+Oh a couple years ago.
+
+DOCTOR X253
+Of which year do you remember?
+
+PATIENT X253
+09.
+
+DOCTOR X253
+09 okay.  Are you able to walk?
+
+PATIENT X253
+Pardon?
+
+DOCTOR X253
+Can you walk now without getting short of breath?
+
+PATIENT X253
+Uh if I walk alone, just walk to fast I'll be short of breath.
+
+DOCTOR X253
+Okay.  How long is a long distance?
+
+PATIENT X253
+I'd say about one block.
+
+DOCTOR X253
+One block?
+
+PATIENT X253
+Yes.  I take more steps when I walk fast, try to keep up with my wife you know and then I get tired.
+
+DOCTOR X253
+I don't blame you at all okay.  Trying to find when that stress test was that you did.  November.  Alright sir, that's good.  @@@.
+
+PATIENT X253
+What's that?
+
+DOCTOR X253
+So the stress test that you had was good.
+
+PATIENT X253
+It was good but um, but there was this young guy up there.  He suggested that I go downstairs and take that cardiac angiogram.
+
+DOCTOR X253
+Angiogram?
+
+PATIENT X253
+Angiogram right.  He suggested I do that.  And when I was on the table and he was doing it, then the doctor came in and he told me I two blockages and said he's going to put two stents while I was in there already.
+
+DOCTOR X253
+That was done here?
+
+PATIENT X253
+Yes, right here.
+
+DOCTOR X253
+Trying to figure out when that was done, what month.  Okay February.  
+
+PATIENT X253
+Was it in 09, @@@.
+
+DOCTOR X253
+No it was in January 2010.
+
+PATIENT X253
+January?  No, was it?
+
+DOCTOR X253
+Yeah.
+
+PATIENT X253
+I didn't think so.
+
+DOCTOR X253
+Well let me see, yeah that's when they planned to do it at least.
+
+PATIENT X253
+Pardon?
+
+DOCTOR X253
+February, February 2010, that was about a year ago.  And you had one vessel that was blocked.
+
+PATIENT X253
+There were two blockages.
+
+DOCTOR X253
+Yeah, two main ones blocked and what did they do for you, they put some stents in at that time.
+
+PATIENT X253
+Yes they did.  Two stents.  And getting up for the bathroom.
+
+DOCTOR X253
+But does what you have now, does it feel at all the same as what you had back then?
+
+PATIENT X253
+I really think, I didn't feel no different back then cause I didn't know I had a blockage or anything you know.
+
+DOCTOR X253
+Okay.
+
+PATIENT X253
+I didn't know until they told me.  I was lying there on the table so.  
+
+DOCTOR X253
+Hop up here.  Yeah, let me look at your medication list here.
+
+PATIENT X253
+I got that here, you want it?
+
+DOCTOR X253
+No I've got the same one here too.
+
+PATIENT X253
+Okay.
+
+DOCTOR X253
+We'll read together here then.  Amlodipine for blood pressure, you got aspirin every day and Plavix every day.  Those two are protecting your heart.  You've got Tylenol with codeine if you need to for pain.
+
+PATIENT X253
+Right.
+
+DOCTOR X253
+Iron supplement.
+
+PATIENT X253
+Right.
+
+DOCTOR X253
+Gemfibrozil for cholesterol.  Hydrochlorothiazide for blood pressure.  Do you take insulin?
+
+PATIENT X253
+Take insulin?  Yes, yes.
+
+DOCTOR X253
+Yes, how much?
+
+PATIENT X253
+Uh 36.
+
+DOCTOR X253
+36 units.
+
+PATIENT X253
+Yeah twice a day.
+
+DOCTOR X253
+Okay.
+
+PATIENT X253
+But you know doctor, my they fluctuates so.
+
+DOCTOR X253
+Yeah.
+
+PATIENT X253
+Some days it's 200s you know, it's 250 some days and then some days it drops down to 100 something you know.  It fluctuates you know.  
+
+DOCTOR X253
+What is it usually?
+
+PATIENT X253
+I can't stabilize it.
+
+DOCTOR X253
+How about in the morning?  What is it usually in the morning?
+
+PATIENT X253
+Well, I should have brought my pad, uh this morning it was 180 this morning.
+
+DOCTOR X253
+180.
+
+PATIENT X253
+180 something.
+
+DOCTOR X253
+What is it normally in the morning?
+
+PATIENT X253
+It's that that's shown.
+
+DOCTOR X253
+What's the lowest and the highest?
+
+PATIENT X253
+Uh maybe, maybe 230-240, something like that.
+
+DOCTOR X253
+That's the highest?
+
+PATIENT X253
+Yeah.
+
+DOCTOR X253
+And the lowest?
+
+PATIENT X253
+The lowest tends to be down to 80.
+
+DOCTOR X253
+Okay.  Well are you changing your diet?  Are you eating different things?
+
+PATIENT X253
+I try to watch what I eat and I try to stay off those sweets.
+
+DOCTOR X253
+Good.
+
+PATIENT X253
+You know and I just drink water you know.
+
+DOCTOR X253
+Does it ever go above 240?
+
+PATIENT X253
+Some days it does.
+
+DOCTOR X253
+Okay.  In the 300s after meals?
+
+PATIENT X253
+Well some days, it hasn't been 300 in a while.  It hasn't been 300 in a while.
+
+DOCTOR X253
+Okay.
+
+PATIENT X253
+But it sure feel like it though.
+
+DOCTOR X253
+Well I think we need to um, we need to get them better than that cause I think you're right.  300s, 230, 240s that's too high, we want to get it lower than that.  Now when was your last A1c, let me find out.  Okay so August.
+
+PATIENT X253
+A couple times it go low you know, it goes low you know a couple times.
+
+DOCTOR X253
+Start feeling bad?
+
+PATIENT X253
+I have to get something sweet you know like orange juice or something like that to bring it up you know.
+
+DOCTOR X253
+Uh-huh.
+
+PATIENT X253
+I feel real jittery you know.
+
+DOCTOR X253
+Yeah.  Alright so your hemoglobin A1c, that's the blood test that we use to check how your sugar has been over a three month period.
+
+PATIENT X253
+Uh-huh.
+
+DOCTOR X253
+It's been right around 7, 6.9 to 7.3.  That's pretty good.  We want it to be lower than 7 if we can.  So we’ll try to, we can adjust a little bit your regimen.  Now looks like your cholesterol was also checked back at that time, about a year ago.  We need to check that again.
+
+PATIENT X253
+The last my hemoglobin @@@.
+
+DOCTOR X253
+@@@.
+
+PATIENT X253
+That was in March, when I came downstairs I think we checked it.
+
+DOCTOR X253
+Yeah here it is.
+
+PATIENT X253
+You should have yeah I went downstairs.
+
+DOCTOR X253
+No they didn't actually check that one.  They checked a lot of other good things but not that one.  I'm going to order a few things right now for you.  Um have you ever been on lisinopril?
+
+PATIENT X253
+What?
+
+DOCTOR X253
+We didn't get through the rest of your list so I need to talk to you about the rest of your medications.  You're on Losartan, metoprolol, a multivitamin.
+
+PATIENT X253
+Right.
+
+DOCTOR X253
+Omega 3 fatty acids, omeprazole, you were on simvastatin, sildenafil for erectile dysfunction and terazosin for prostate.
+
+PATIENT X253
+Yes sir.
+
+DOCTOR X253
+@@@ okay.
+
+PATIENT X253
+Can you take them off?
+
+DOCTOR X253
+I wish I could.  No I don't think we can today.  So your blood tests from the first of this month look pretty good.
+
+PATIENT X253
+Uh-huh.
+
+DOCTOR X253
+Um your hemoglobin is just a little bit low and that's the blood count, you know the total blood count, it's still a little low.
+
+PATIENT X253
+Uh-huh.
+
+DOCTOR X253
+When was your last colonoscopy?
+
+PATIENT X253
+Hmm, I don't know cause I had one here didn't I?
+
+DOCTOR X253
+Um I don't know I could check for you though.  All your other tests look pretty good so I think really it's the diabetes that we need to work on, just to continue to fine tune that.  I think you're not too far off from where you need to be overall.  Have you seen an eye doctor this year?
+
+PATIENT X253
+December.
+
+DOCTOR X253
+Back in December okay.
+
+PATIENT X253
+Yeah I had, yeah I saw him.
+
+DOCTOR X253
+Okay.  Alright take your shoes and socks off for me.  Have you changed the terazosin @@@.
+
+PATIENT X253
+What?
+
+DOCTOR X253
+The medicine called terazosin or terazosin.
+
+PATIENT X253
+What is that for?
+
+DOCTOR X253
+Prostate.
+
+PATIENT X253
+Yeah I'm taking that every night.
+
+DOCTOR X253
+Good.
+
+PATIENT X253
+That the one I take before I go to bed.
+
+DOCTOR X253
+Alright good.
+
+PATIENT X253
+Yes, capsules.  You want me to just keep taking those pills?
+
+DOCTOR X253
+Yeah.  Inhale, go ahead and let it out.  @@@.  Anyway I'll see you one more time.
+
+PATIENT X253
+Pardon?  You'll see me again?
+
+DOCTOR X253
+Yeah.
+
+PATIENT X253
+Oh great, good.
+
+DOCTOR X253
+I want you to have your blood tests done before you see me.  Do it about a week before you see me okay, fasting. 
+
+PATIENT X253
+Pardon?
+
+DOCTOR X253
+I want you to get your blood tests about a week before you see me.
+
+PATIENT X253
+Oh man.
+
+DOCTOR X253
+Fasting blood test.
+
+PATIENT X253
+Fasting blood tests okay.
+
+DOCTOR X253
+Just means nothing to eat for 12 hours beforehand.
+
+PATIENT X253
+And they going to take a blood test?
+
+DOCTOR X253
+Yep.
+
+PATIENT X253
+@@@.
+
+DOCTOR X253
+So that just means just when you're at home but then nothing after midnight.
+
+PATIENT X253
+Oh okay.
+
+DOCTOR X253
+You come in and get the blood tested in the morning.
+
+PATIENT X253
+So when we gonna do that?
+
+DOCTOR X253
+Just about a week before your next appointment with me.
+
+PATIENT X253
+Okay.
+
+DOCTOR X253
+And that'll be in June.
+
+PATIENT X253
+Okay.
+
+DOCTOR X253
+Alright.  That'll be @@@.  Let me check your feet.  Have you lost any sensation in your feet?
+
+PATIENT X253
+No sir.
+
+DOCTOR X253
+Alright I'm going to hit you with this @@@ but you'll feel it like that, do you feel that?
+
+PATIENT X253
+Uh-huh.
+
+DOCTOR X253
+Let me know when you feel it.
+
+PATIENT X253
+Yes.
+
+DOCTOR X253
+Yeah.
+
+PATIENT X253
+Yeah, yeah, ooh.
+
+DOCTOR X253
+Way down there.
+
+PATIENT X253
+Uh-huh.
+
+DOCTOR X253
+What's this?
+
+PATIENT X253
+@@@.
+
+DOCTOR X253
+A little scar there.
+
+PATIENT X253
+Scar.
+
+DOCTOR X253
+Very good.  You might as well sit up.  Did they check your blood pressure or not
+
+PATIENT X253
+She took it; she said it was where it was supposed to be.  It come up a little bit.
+
+DOCTOR X253
+How high?
+
+PATIENT X253
+173/80.
+
+DOCTOR X253
+80 oh that's too high.
+
+PATIENT X253
+It was 160; she said you would check it.  @@@.
+
+DOCTOR X253
+I'll take it again.  @@@.  Let's see where it's at.  Deep breath.  Okay lay back.  Alright I 140/68.
+
+PATIENT X253
+I'll be darn.
+
+DOCTOR X253
+So it's still too high but it's not terribly high.  @@@ reading.  About your diabetes, so we'll go problem by problem.  The diabetes I think is doing well but I understand what you're saying about the fluctuation going up and down.
+
+PATIENT X253
+Uh-huh.
+
+DOCTOR X253
+I'd like your numbers to be a little bit lower.
+
+PATIENT X253
+Uh-huh.
+
+DOCTOR X253
+So what I'd like you to do, when you come in next time, I want to record for me, in a little book or a binder or piece of paper, right when you wake up in the morning what your sugar is.
+
+PATIENT X253
+That thing I take it at home with, oh yeah I got that at home.
+
+DOCTOR X253
+Perfect and then one time throughout the day, about two hours after you eat.
+
+PATIENT X253
+I record it in the morning and record in the week okay.
+
+DOCTOR X253
+Okay so this is what I want you to keep doing the morning one.
+
+PATIENT X253
+Uh-huh.
+
+DOCTOR X253
+And then also do it sometime during the day, maybe lunch time or dinner time but two hours after your meal.
+
+PATIENT X253
+Okay.
+
+DOCTOR X253
+Cause then we can adjust your insulin if we need to.  Uh no medicine changes for now and you have an appointment next month with the cardiologist?
+
+PATIENT X253
+Yes, I think it's made for the 15th.
+
+DOCTOR X253
+Oh that's good.  I want you to mention the shoulder pain to them.  I don't think it's your heart but you didn't have chest pain before they found this blockage last time, I want to make sure it's not a new blockage.
+
+PATIENT X253
+It showed that before.
+
+DOCTOR X253
+Right.
+
+PATIENT X253
+I don't have chest pain; I don't have no chest pain now.
+
+DOCTOR X253
+No.
+
+PATIENT X253
+Put my shoes back on?
+
+DOCTOR X253
+Yep.  I'm going to go talk to my boss and I'll be right back.  
+
+(DOCTOR OUT:  33:32  DOCTOR IN:  42:16)
+
+DOCTOR X253
+Alright, thanks for waiting.  So I think we can make one small adjustment for you.  You're taking 36 units of insulin twice a day?
+
+PATIENT X253
+Uh-huh.
+
+DOCTOR X253
+I want to go up on the morning dose okay so to about 38, it's a small increase.  You'll go from 36 to 38 in the morning.
+
+PATIENT X253
+Uh-huh.
+
+DOCTOR X253
+Keep it at 36 in the evening and do like I told you which is check your blood sugar in the morning and then in the evening and we'll see how they go.  Everything else we'll just do the same for now and then we'll see you back in about 6-8 weeks.
+
+PATIENT X253
+You renew all my medications?  @@@ run out of some of them.
+
+DOCTOR X253
+You have refills on all of them it looks like.
+
+PATIENT X253
+@@@?
+
+DOCTOR X253
+I'm not giving you a refill on the sildenafil.
+
+PATIENT X253
+Who?
+
+DOCTOR X253
+The erectile dysfunction.
+
+PATIENT X253
+Oh okay maybe it's easier.
+
+DOCTOR X253
+I'll renew all @@@.
+
+PATIENT X253
+Don't take the cholesterol medicines, should I stay off it?
+
+DOCTOR X253
+Oh you know what, you're right.  I wanted to talk to you about that too.  I think its okay to restart that but I want to start it at a lower dose.  You're taking the highest dose that's available right now.  I'm going to change that so that it's a low dose.
+
+PATIENT X253
+@@@ how many?
+
+DOCTOR X253
+It was 80; I'm going to go to 20.
+
+PATIENT X253
+@@@ the same way.  @@@ the same way.
+
+DOCTOR X253
+Yeah.
+
+PATIENT X253
+@@@ the same that she had.
+
+DOCTOR X253
+With the muscles and stuff?
+
+PATIENT X253
+Yes, yes.  She did the same thing.
+
+DOCTOR X253
+Well let's try it on 20 and if you get the problem again we'll quit it all together okay.
+
+PATIENT X253
+I ain't going to feel like that, I felt like hell.
+
+DOCTOR X253
+You don't want to have that?
+
+PATIENT X253
+I don't want to feel like that anymore.
+
+DOCTOR X253
+Well you'll know.
+
+PATIENT X253
+Can you just give me just one week or put me on something else?
+
+DOCTOR X253
+Well the problem is, that's the best medication that we have.
+
+PATIENT X253
+Oh.
+
+DOCTOR X253
+There are different types of statins but that's the best one we have for.
+
+PATIENT X253
+Okay.
+
+DOCTOR X253
+It's for your heart disease, for your cholesterol.
+
+PATIENT X253
+So don't take nothing till I get.
+
+DOCTOR X253
+Just take the low dose.  Don't take the ones you have.
+
+PATIENT X253
+So take nothing until I get the new one right?
+
+DOCTOR X253
+Right.
+
+PATIENT X253
+Don't take nothing until I get the new one.
+
+DOCTOR X253
+Correct.
+
+PATIENT X253
+If it starts doing it again just stay lay off it again right?
+
+DOCTOR X253
+And then just quit yeah, just don't take it again.  Alright.
+
+PATIENT X253
+Okay.  I'm going to go and get that shot now, I hate that man.
+
+DOCTOR X253
+You got another shot in the knee?
+
+PATIENT X253
+In the shoulder too.
+
+DOCTOR X253
+But it makes you feel better though doesn't it?
+
+PATIENT X253
+I hope so.
+
+DOCTOR X253
+Yeah right.  Take care of yourself.
+
+PATIENT X253
+See you soon.
+
+DOCTOR X253
+You take care.
+
+PATIENT X253
+See you again, take care.  Thanks a lot.
+
+DOCTOR X253
+Alright take care.
+
+PATIENT X253
+Okay.
+
+DOCTOR X253
+This is a form to give them when you check out.
+
+PATIENT LEAVES:  45:28.
+
+Time is 2:36
+
+
+
+

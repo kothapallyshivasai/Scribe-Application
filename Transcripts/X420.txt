@@ -1,0 +1,985 @@
+
+DOCTOR X420
+PATIENT?
+
+PATIENT X420
+PATIENT.
+
+DOCTOR X420
+How are you?
+
+PATIENT X420
+How are you too?
+
+DOCTOR X420
+Okay.  Come on in.
+
+PATIENT X420
+Oh.
+
+DOCTOR X420
+How are you?
+
+PATIENT X420
+I lost four things.
+
+DOCTOR X420
+Yeah my name is DOCTOR, nice to meet you.
+
+PATIENT X420
+Uh where is my regular doctor?
+
+DOCTOR X420
+Um DOCTOR?
+
+PATIENT X420
+Yeah.
+
+DOCTOR X420
+Yeah she's here.  I'm just working with her right now but she'll come in and say hello to you.
+
+PATIENT X420
+Oh okay.
+
+DOCTOR X420
+You're having a lot of pain, is this usual for you?
+
+PATIENT X420
+Well, the doctor I'm getting in dialysis gave me medicine.
+
+DOCTOR X420
+Uh-huh.
+
+PATIENT X420
+And those do good for me.
+
+DOCTOR X420
+@@@.
+
+PATIENT X420
+The pain is in my legs.
+
+DOCTOR X420
+Uh were you just in the hospital?
+
+PATIENT X420
+Yep.
+
+DOCTOR X420
+And why did you go into the, oh your heartbeat was fast.
+
+PATIENT X420
+Uh-huh.  That's something.  I always sneeze when I come over here.
+
+DOCTOR X420
+What's that.
+
+PATIENT X420
+I live in the North Division, the xxx xxx xxx xxx.
+
+DOCTOR X420
+Uh-huh.
+
+PATIENT X420
+And in there all three years ago, it was my last year for the year and they tell me I was in the borderline but not exactly yet and I see the borderline @@@.
+
+DOCTOR X420
+How @@@ in the 130s?
+
+PATIENT X420
+I can't hear, correct.
+
+DOCTOR X420
+The problem is you can't hear.
+
+PATIENT X420
+Uh-huh.
+
+DOCTOR X420
+Okay.
+
+PATIENT X420
+So I needed an appointment for.
+
+DOCTOR X420
+Okay.  Now do you have um, do you have, you're on dialysis.  You have high blood pressure, high cholesterol, diabetes.  You have a history of a heart attack and they went in and they put a stent?
+
+PATIENT X420
+No.
+
+DOCTOR X420
+They didn't put in a stent; they just went inside to look?  Do you want, can you sit here?  Can you hear me okay?
+
+PATIENT X420
+Huh?
+
+DOCTOR X420
+Can you hear me okay?
+
+PATIENT X420
+Oh yes.
+
+DOCTOR X420
+So you had, you had a history of a heart attack right?
+
+PATIENT X420
+They say.
+
+DOCTOR X420
+Okay in 2005 and then you had a large prostate.
+
+PATIENT X420
+Uh-huh.
+
+DOCTOR X420
+Is that right?  Anything else?  Any cancers or anything like that?
+
+PATIENT X420
+No.
+
+DOCTOR X420
+Okay.  And then your, what medical problems does your family have?  Your mother have high blood pressure and diabetes?
+
+PATIENT X420
+Uh-huh.
+
+DOCTOR X420
+And what else?  And what about your father.
+
+PATIENT X420
+Yes she died.
+
+DOCTOR X420
+What about your father.  
+
+PATIENT X420
+He died of cancer.
+
+DOCTOR X420
+What kind of cancer?
+
+PATIENT X420
+Uh I don't know.
+
+DOCTOR X420
+Anybody else, what about your brothers and sisters?
+
+PATIENT X420
+My sister died of cancer in her head.
+
+DOCTOR X420
+Okay what else?
+
+PATIENT X420
+And the other sister got cancer on her back.
+
+DOCTOR X420
+Okay what else?
+
+PATIENT X420
+That's it.
+
+DOCTOR X420
+Okay.  Um and then you, you quit smoking 20 years, when did you quit smoking?
+
+PATIENT X420
+About 28 years ago.
+
+DOCTOR X420
+And then how much were you smoking?
+
+PATIENT X420
+20, at least a pack a day.
+
+DOCTOR X420
+For how many years?
+
+PATIENT X420
+I don't know, I was smoking for about 15-20 years.
+
+DOCTOR X420
+And then what about alcohol?
+
+PATIENT X420
+Alcohol, I did used to drink on weekends a lot.
+
+DOCTOR X420
+When did you quit?
+
+PATIENT X420
+Oh 15 years ago.
+
+DOCTOR X420
+Were you a heavy drinker?
+
+PATIENT X420
+Well if you call heavy drinker on weekends.  Never did I during the week no.
+
+DOCTOR X420
+And then what about drugs?
+
+PATIENT X420
+No.
+
+DOCTOR X420
+And then do you work right now?
+
+PATIENT X420
+I'm retired.
+
+DOCTOR X420
+From?
+
+PATIENT X420
+Coca Cola.
+
+DOCTOR X420
+What did you do with Coca Cola?
+
+PATIENT X420
+Service.
+
+DOCTOR X420
+So Coca Cola things?  Do you service the machines?
+
+PATIENT X420
+I used to service the machines.
+
+DOCTOR X420
+I see.  Did you get a lot of free soda?
+
+PATIENT X420
+All I want.
+
+DOCTOR X420
+Really?
+
+PATIENT X420
+Want to bring home, I have to buy it.
+
+DOCTOR X420
+Oh really, so you can drink on the job all you want?
+
+PATIENT X420
+Yeah.
+
+DOCTOR X420
+Are you married?
+
+PATIENT X420
+Yes.
+
+DOCTOR X420
+And you live here in xxx?
+
+PATIENT X420
+Yes.
+
+DOCTOR X420
+And then um, so you said that you feel like.  Sorry.  Have you seen DOCTOR before?
+
+PATIENT X420
+Yeah.
+
+DOCTOR X420
+You have been here; I just can't bring up her notes.  Hmm.  But anyway are you feeling?  How are you feeling today?  You said they started you on some new medicines?
+
+PATIENT X420
+Well I just started coughing badly.
+
+DOCTOR X420
+For how many days now?
+
+PATIENT X420
+Oh for I'm not @@@ as severe now, oh for a week.
+
+DOCTOR X420
+Anything coming up?
+
+PATIENT X420
+Yeah, phlegm coming up.  Although with the medicine that I get from the doctor, you can see it over there.  Yeah ever since doctor give it to me.
+
+DOCTOR X420
+Oh, oh.  They gave you xxxadryl.  And it's helping you?
+
+PATIENT X420
+Oh yeah.
+
+DOCTOR X420
+What color is the phlegm?
+
+PATIENT X420
+Uh yellowish but it's coming to an end already.
+
+DOCTOR X420
+Okay good.  I've never used that before, that's good.  Any chest pain?
+
+PATIENT X420
+No.
+
+DOCTOR X420
+Shortness of breath?
+
+PATIENT X420
+Shortness of breath it comes because my nose always plug.
+
+DOCTOR X420
+Okay.  But otherwise you can walk around without any problems?
+
+PATIENT X420
+It comes when I'm laying still.
+
+DOCTOR X420
+Okay.  But it's the pain in your leg that makes you stop but not shortness of breath?
+
+PATIENT X420
+@@@.
+
+DOCTOR X420
+Okay.
+
+PATIENT X420
+In the same person.
+
+DOCTOR X420
+Okay and then uh so do you.  How far can you walk?
+
+PATIENT X420
+I've never measured it.
+
+DOCTOR X420
+No okay.
+
+PATIENT X420
+But during the home I don't walk that much.
+
+DOCTOR X420
+Okay.
+
+PATIENT X420
+Because after all we're living in three levels and from the first floor to the second floor is 20 steps.
+
+DOCTOR X420
+Oh that's a lot.  That's a lot even for me.  Okay.  Any nausea, vomiting, fevers or chills?
+
+PATIENT X420
+No.
+
+DOCTOR X420
+Any belly pain?  Any black stool, black like this?
+
+PATIENT X420
+No.
+
+DOCTOR X420
+Any bloody stools?
+
+PATIENT X420
+Not that I know.
+
+DOCTOR X420
+And do you still make urine?
+
+PATIENT X420
+Huh?
+
+DOCTOR X420
+Or do you still pee or no?
+
+PATIENT X420
+Oh yeah.
+
+DOCTOR X420
+Okay.  Does it burn when you pee?
+
+PATIENT X420
+No.
+
+DOCTOR X420
+Any blood in your urine?
+
+PATIENT X420
+Not that I know.  No because I can see what it.
+
+DOCTOR X420
+You don't see any okay.  And then, you can see though, you just haven't been looking?
+
+PATIENT X420
+Oh when they did the operation.
+
+DOCTOR X420
+What did they do for that operation?
+
+PATIENT X420
+They changed the pupil.
+
+DOCTOR X420
+Pupil or.
+
+PATIENT X420
+Pupil rather, the part of the eye.  Now I need glasses only for reading.
+
+DOCTOR X420
+Pupil or lens?
+
+PATIENT X420
+Huh?
+
+DOCTOR X420
+Pupil or lens?
+
+PATIENT X420
+The glasses are for reading.
+
+DOCTOR X420
+But they never changed the pupil.  The pupil is just the opening.
+
+PATIENT X420
+There was something, they did something over here.  They put something new and I don't need any glasses.
+
+DOCTOR X420
+Implants.  Uh cataracts.
+
+PATIENT X420
+Yeah they took that out.
+
+DOCTOR X420
+Okay.  And then your fistula, they just put it in November huh?
+
+PATIENT X420
+Yeah, it is right here.
+
+DOCTOR X420
+Okay.  Does it hurt?
+
+PATIENT X420
+Still hurt.
+
+DOCTOR X420
+It hurts?
+
+PATIENT X420
+Yeah.  Only when I touch it, see.
+
+DOCTOR X420
+Very good.
+
+PATIENT X420
+It's working?
+
+DOCTOR X420
+Yeah, yeah.  So you had in 2007, you had a fistula too.
+
+PATIENT X420
+Here.
+
+DOCTOR X420
+But it's not working anymore huh?
+
+PATIENT X420
+No.
+
+DOCTOR X420
+Okay.
+
+PATIENT X420
+The one that work I have over here.
+
+DOCTOR X420
+What is that?
+
+PATIENT X420
+The two tubes for the dialysis.
+
+DOCTOR X420
+Oh okay and then they took it out.
+
+PATIENT X420
+No it still there.
+
+DOCTOR X420
+Oh it is, can I see?  How come they haven't taken it out?  How come they haven't taken it out?
+
+PATIENT X420
+Cause they're still using it.  Because this is where they use it for blood yet.
+
+DOCTOR X420
+Alright.  Thank you.  It should be getting ready soon.  One month or did they tell you a couple months?
+
+PATIENT X420
+I tried to go to take a short time about 15 years or 20.
+
+DOCTOR X420
+You didn't want them to use that?
+
+PATIENT X420
+Look at that.
+
+DOCTOR X420
+They tried @@@ again?
+
+PATIENT X420
+Over here by the elbow here.
+
+DOCTOR X420
+Here did they try that already?
+
+PATIENT X420
+No.  
+
+DOCTOR X420
+What other surgery have you had?
+
+PATIENT X420
+What other what?
+
+DOCTOR X420
+What other surgeries have you had?
+
+PATIENT X420
+They cut my whole body, what do you want.
+
+DOCTOR X420
+They what?
+
+PATIENT X420
+Oh yeah.
+
+DOCTOR X420
+Yeah no, we don't need your.
+
+PATIENT X420
+What does she want?
+
+DOCTOR X420
+So they put that chest in August.
+
+PATIENT X420
+@@@ yes.
+
+DOCTOR X420
+Is there anything that you wanted us to address today?
+
+PATIENT X420
+Uh.
+
+DOCTOR X420
+It looks like you're doing pretty good.
+
+PATIENT X420
+Hold on, they took x-rays of my legs.
+
+DOCTOR X420
+Okay.
+
+PATIENT X420
+For the pain.  I don't know what happened to it.  I never heard of it.
+
+DOCTOR X420
+Okay.  Let me renew your medicines.  You're taking all your medicines without any problems?
+
+PATIENT X420
+@@@.  Oh sometimes I cut them in half and that piece like that but.
+
+DOCTOR X420
+Do you want all these medicines to be sent to your house?
+
+PATIENT X420
+Yes.
+
+DOCTOR X420
+Your multivitamin.  You're taking medicines for your prostate too huh?
+
+PATIENT X420
+Yeah.
+
+DOCTOR X420
+And you're taking Viagra and any problems with that?
+
+PATIENT X420
+Yes I'm out of Viagra.
+
+DOCTOR X420
+You can always pick some more up um.  You have.
+
+PATIENT X420
+You send the Viagra; I want to get over here.  One pill.
+
+DOCTOR X420
+I know. I don't know why they do that.  I'm very sorry.  I don't know why they do that.
+
+PATIENT X420
+Cheaper.
+
+DOCTOR X420
+But I'll still fill it right.  Let me see.  I will give you more refills on the Viagra but you can only still pick it up once a month.
+
+PATIENT X420
+Uh-huh.
+
+DOCTOR X420
+Um.  Okay.
+
+PATIENT X420
+What's the other one, the ear wax in?
+
+DOCTOR X420
+Yes.  I'm gonna look in the ears but I'm also gonna send you to somebody.
+
+PATIENT X420
+Uh-huh.
+
+DOCTOR X420
+Now you had the chest x-ray right?  Your chest x-ray looks good.
+
+PATIENT X420
+@@@.
+
+DOCTOR X420
+And your legs, when did they do your legs?
+
+PATIENT X420
+I don't know @@@.
+
+DOCTOR X420
+They did your, oh they did your bone scan.
+
+PATIENT X420
+Ah that what they did hmm.
+
+DOCTOR X420
+Um let's look.  Your bone showed that you have weak bones.  It showed that you have weak bones and do you drink milk or take vitamins, vitamin D or calcium?
+
+PATIENT X420
+I only take whatever they give me here.
+
+DOCTOR X420
+Okay.  So hmm.  Oh @@@.  Hmm.  So I might start you on a vitamin, another vitamin.
+
+PATIENT X420
+Uh-huh.
+
+DOCTOR X420
+Vitamin D for your bones.  Do you, have you been falling at all or anything like that?
+
+PATIENT X420
+Whatever they gave me my wife take care of it, that @@@.
+
+DOCTOR X420
+But you haven't been falling?  Have you fallen?
+
+PATIENT X420
+No I'm very careful.
+
+DOCTOR X420
+Okay.  Do you feel like you're losing your hearing and that's why you want to get it checked?
+
+PATIENT X420
+Well about three years ago the doctors said that I'm the borderline.  
+
+DOCTOR X420
+Which doctors?
+
+PATIENT X420
+The television huh?
+
+DOCTOR X420
+Which doctors?
+
+PATIENT X420
+In the nerve division.
+
+DOCTOR X420
+Have a seat here, let me look.
+
+PATIENT X420
+Uh I lay down to listen to the television I have to put it at very high volume.
+
+DOCTOR X420
+No ear pain?
+
+PATIENT X420
+No.
+
+DOCTOR X420
+Very good.  Do you clean your ears?
+
+PATIENT X420
+Yes.
+
+DOCTOR X420
+You can stop.  Does that hurt?
+
+PATIENT X420
+No.
+
+DOCTOR X420
+Don't put anything into your ears.
+
+PATIENT X420
+I have to clean because when I take a shower water gets in.
+
+DOCTOR X420
+Oh okay.  You've never used hearing aids before?
+
+PATIENT X420
+No.
+
+DOCTOR X420
+Can you unzip your jacket?  Deep breath in and out.  When are your dialysis days?
+
+PATIENT X420
+Monday, Wednesday and Friday.
+
+DOCTOR X420
+Where do you get dialysis?
+
+PATIENT X420
+Huh?
+
+DOCTOR X420
+You get dialysis here?
+
+PATIENT X420
+Yes.
+
+DOCTOR X420
+Any swelling in your legs?
+
+PATIENT X420
+No, no swelling.  And yes I can feel it.
+
+DOCTOR X420
+What do you take for the pain?
+
+PATIENT X420
+Uh Tylenol.
+
+DOCTOR X420
+So it gets better?
+
+PATIENT X420
+Yeah but I don't take the Tylenol very often.
+
+DOCTOR X420
+Alright.  Okay.  I'll be right back okay.
+
+PATIENT X420
+Okay.
+
+DOCTOR X420
+Anything else, so just the bones and then your cough is getting better right?
+
+PATIENT X420
+Yes, oh yes uh-huh.
+
+DOCTOR X420
+Let me just take a look inside.  Say ah.
+
+PATIENT X420
+Ah.
+
+DOCTOR X420
+Stick out your tongue good.  I'll be right back okay.
+
+(DOCTOR OUT:  51:11  DOCTOR IN:  52:43)
+
+DOCTOR X420
+She's still a little bit busy.  You didn't feel like your heart was racing?
+
+PATIENT X420
+No.  Did you notice?
+
+DOCTOR X420
+The recorder?  Are you recording me?
+
+PATIENT X420
+No somebody is.
+
+DOCTOR X420
+Oh good.  They didn't increase your medicine.  You didn't bring your medicines.  Did you bring your medicines?
+
+PATIENT X420
+No.
+
+DOCTOR X420
+Is this to record your heart though right?  Who gave this to you?
+
+PATIENT X420
+He was taking a @@@ over there.  He said to find out how the doctors behave you know when they're with a patient.
+
+DOCTOR X420
+Oh.
+
+PATIENT X420
+Some type of @@@.
+
+DOCTOR X420
+Oh okay okay.  I thought it was a machine to, okay.  I'm sorry I thought it was something else for your heart.
+
+PATIENT X420
+No.
+
+DOCTOR X420
+Okay.  That's fine.
+
+PATIENT X420
+Now you got two.
+
+DOCTOR X420
+I don't think so, well maybe.  Well I'll have them explain it to you.  Um I'm sorry um one of your medicines.  One of your medicines they were supposed to increase it but did you bring your medicines with you?
+
+PATIENT X420
+No.  I used to but the only the that I had that.
+
+DOCTOR X420
+It was too many?
+
+PATIENT X420
+They never used it I mean they're white.
+
+DOCTOR X420
+I'm really sorry but one of your medicines they were supposed to increase but on here it looked like they lowered it.  So I would, your blood pressure I mean your blood pressure and your heart rate we can make it better controlled.  So can I change one of your medicines?
+
+PATIENT X420
+Huh?
+
+DOCTOR X420
+Can I change one of your medicines?
+
+PATIENT X420
+Change what?
+
+DOCTOR X420
+Change one of your medicines.
+
+PATIENT X420
+Whatever.  I'm not a doctor.  I @@@ that's all.
+
+DOCTOR X420
+Okay.  I'm not sure why they.
+
+PATIENT X420
+I know the last time the doctor gave me a piece of paper.
+
+DOCTOR X420
+Right.
+
+PATIENT X420
+And they eliminated two and they cut one in half.
+
+DOCTOR X420
+They eliminated two and cut one in half?
+
+PATIENT X420
+Yeah.
+
+DOCTOR X420
+Yeah I'm not sure why they cut it in.  I wonder why they cut your medicine in half because in your note it says to continue it.  Hmm.
+
+PATIENT X420
+I remember in there in dialysis every month they make a, they take blood and configure whatever the content or what they take from that.
+
+DOCTOR X420
+Okay I'm very sorry it's taking a little bit longer.  Let me go see if @@@.
+
+PATIENT X420
+Oh it's okay.
+
+DOCTOR X420
+Alright.  Let me see if I can figure out what your, what your medicine is.
+
+PATIENT X420
+I use the telephone you could call my wife, she tell you.
+
+DOCTOR X420
+What's your wife's telephone number?
+
+PATIENT X420
+Uh NUMBER.
+
+DOCTOR X420
+She's at home right now?
+
+PATIENT X420
+Yeah.
+
+DOCTOR X420
+What's her name?
+
+PATIENT X420
+NAME.  @@@ I call her for her.
+
+DOCTOR X420
+Okay, alright thank you.  Let me see if I can't get a hold of her.  Okay we're gonna check one blood test.  I didn't have to call your and I'm going to send you for the ears.
+
+PATIENT X420
+Uh-huh.
+
+DOCTOR X420
+Okay and we're gonna send you for one blood test that is, we're gonna check for your vitamin D level to see if we need to give you something for your bones.
+
+PATIENT X420
+Uh-huh.
+
+DOCTOR X420
+And then um next time you're gonna see DOCTOR okay.  It was a mistake for you to be seen with us.
+
+PATIENT X420
+But you visited.
+
+DOCTOR X420
+Sorry.
+
+PATIENT X420
+So will @@@.
+
+DOCTOR X420
+You better.
+
+PATIENT X420
+A doctor is a doctor, what can I say.
+
+DOCTOR X420
+She's more curious.
+
+PATIENT X420
+Well that mean that you are younger @@@.
+
+DOCTOR X420
+And then um and then I put in um an order for you to get your ears checked but they'll call you or they'll send you an appointment.
+
+PATIENT X420
+Oh okay.
+
+DOCTOR X420
+Okay.
+
+PATIENT X420
+Okay.
+
+DOCTOR X420
+So then you'll come back and see her in about four months.
+
+PATIENT X420
+Okay.
+
+DOCTOR X420
+Okay.  Okay.
+
+PATIENT X420
+Okay.
+
+DOCTOR X420
+Thank you very much.  It was nice meeting you and you can just give that to the front office.  Thank you.
+
+PATIENT X420
+Okay.
+
+PATIENT LEAVES:  66:36
+
+It is 10:30.
+
+
+
+

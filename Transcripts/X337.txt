@@ -1,0 +1,1561 @@
+
+DOCTOR X337
+PATIENT? Hello.  How are you today?
+
+PATIENT X337
+Pretty good.
+
+DOCTOR X337
+Good to see you again.  Come on back.  Have a seat right there.  So I haven't seen you since the holidays, how have things been going?
+
+PATIENT X337
+Going down the toilet.
+
+DOCTOR X337
+Oh no, what's going on?
+
+PATIENT X337
+Uh I @@@ cardiac failure.  @@@.
+
+DOCTOR X337
+Yeah.
+
+PATIENT X337
+Minor @@@.
+
+DOCTOR X337
+How long has it been going on for you?
+
+PATIENT X337
+Been going a few months.
+
+DOCTOR X337
+A few months okay.  Next time that happens call me and we can get you in sooner okay.  I don't want you to wait that long if you feel.
+
+PATIENT X337
+You know I don't even know when I'm supposed to be seeing the cardiologist again.
+
+DOCTOR X337
+Yeah so you saw them in September it looks like, is that right?
+
+PATIENT X337
+Uh somewhere around there.
+
+DOCTOR X337
+DOCTOR.
+
+PATIENT X337
+Yeah.
+
+DOCTOR X337
+Yeah.  It looks like they did an echocardiogram.  @@@.
+
+PATIENT X337
+Not a heck of a lot.
+
+DOCTOR X337
+It says four months, so September, October, November, December, January, so you should have already had a follow-up with them.  We'll get you in to see them.  But first let's talk about this shortness of breath, what's going on?  It started four months, or then four months ago?
+
+PATIENT X337
+It's, I'm convinced that it's the blockage causing it.
+
+DOCTOR X337
+Yeah.  How far can you walk before you get short of breath?
+
+PATIENT X337
+Believe it or not walking it comes and goes.  I might get a little off, I don't know somewhere.  The pain but there's also shortness of breath.
+
+DOCTOR X337
+Like in your calves?
+
+PATIENT X337
+In here.
+
+DOCTOR X337
+Okay.  Do you get like @@@ or.
+
+PATIENT X337
+It feels like it.
+
+DOCTOR X337
+Okay.
+
+PATIENT X337
+But it's not it's.
+
+DOCTOR X337
+Yeah.
+
+PATIENT X337
+From the diabetes.
+
+DOCTOR X337
+Yeah.
+
+PATIENT X337
+But uh, trying to tie my shoes.
+
+DOCTOR X337
+Yeah.
+
+PATIENT X337
+That type of exertion and then in terms of not even exertion just sleeping.
+
+DOCTOR X337
+Okay.
+
+PATIENT X337
+Getting into bed, curled on my side.
+
+DOCTOR X337
+Yeah.  Do you feel more short of breath when you're laying flat at night?  Do you wake up short of breath at all?
+
+PATIENT X337
+It happens.
+
+DOCTOR X337
+You have more shortness of breath.  Okay and laying flat is okay.
+
+PATIENT X337
+Well I don't usually.
+
+DOCTOR X337
+You usually don't okay.
+
+PATIENT X337
+I don't usually.
+
+DOCTOR X337
+Okay that's fine and did you park your car out there and walk in today or do you valet?
+
+PATIENT X337
+I parked and walked in, I didn't have any problems.
+
+DOCTOR X337
+Not this time.
+
+PATIENT X337
+If I can take my time I'm alright.
+
+DOCTOR X337
+Okay, it's when you're kind of walking a little bit faster?
+
+PATIENT X337
+Yeah.  
+
+DOCTOR X337
+Yeah.
+
+PATIENT X337
+If you can call it a little bit faster.
+
+DOCTOR X337
+Okay and then um how is that different from where you were when I last saw you?  Cause I just saw you @@@.  What were you able to do before that for a comparison?
+
+PATIENT X337
+I wasn't getting short of breath.  The only thing that was bothering me then was the pain.
+
+DOCTOR X337
+The pain.
+
+PATIENT X337
+In the legs.
+
+DOCTOR X337
+Yeah.  And they said that was a neuropathy is that what, okay yeah.
+
+PATIENT X337
+That's what they said.
+
+DOCTOR X337
+Yeah.
+
+PATIENT X337
+Uh I wasn't that short of breath.
+
+DOCTOR X337
+That was never an issue.  It was the pain that made you stop.
+
+PATIENT X337
+No.
+
+DOCTOR X337
+And now it's like a little bit of both.
+
+PATIENT X337
+Right.
+
+DOCTOR X337
+Any chest pain with any of this?
+
+PATIENT X337
+Occasionally.
+
+DOCTOR X337
+Occasional.  What is it, is it kind of in the middle of your chest?  Does it go anywhere?  Where do you feel it?
+
+PATIENT X337
+It's kind of down in the ribs.
+
+DOCTOR X337
+It's down here?  On both sides?
+
+PATIENT X337
+@@@.
+
+DOCTOR X337
+Like a tightness or what does it feel like?
+
+PATIENT X337
+It's uh, that's why I did the cardiac.  It's a, it's almost like the inside, the pain against like my ribs.
+
+DOCTOR X337
+Like a pressure?
+
+PATIENT X337
+Right.
+
+DOCTOR X337
+Okay.
+
+PATIENT X337
+And it's there for a while and then it'll subside.
+
+DOCTOR X337
+Okay.  And how long does it take for it to go away when you stop?
+
+PATIENT X337
+Maybe a few minutes.
+
+DOCTOR X337
+Few minutes okay.  So it does resolve after you stop and then it kind of goes away?
+
+PATIENT X337
+Yes.
+
+DOCTOR X337
+Okay and then if you're just sitting and not doing anything else, do you ever feel any symptoms or are you just only when you're moving and exerting yourself?
+
+PATIENT X337
+No, no, not that I'm aware of.
+
+DOCTOR X337
+Okay.  Do you, have you noticed more fluid on your legs?
+
+PATIENT X337
+Today yeah.
+
+DOCTOR X337
+Today or over the last couple months?
+
+PATIENT X337
+It's been a couple months.
+
+DOCTOR X337
+Over the last couple months okay.  And you're still taking the Lasix twice a day the 40 and 40?  Okay.  Are you still having the same amount of urine output when you take the Lasix?
+
+PATIENT X337
+Uh just when it comes @@@ maybe it's not @@@ of it.  I think I've developed kind of a.
+
+DOCTOR X337
+Like a tolerance.
+
+PATIENT X337
+Tolerance.
+
+DOCTOR X337
+Yeah that happens sometimes.
+
+PATIENT X337
+That's what I was thinking.
+
+DOCTOR X337
+Yeah, yeah.
+
+PATIENT X337
+Only sometimes when I really need to go.
+
+DOCTOR X337
+Yeah.
+
+PATIENT X337
+Other times it's like I never took it.
+
+DOCTOR X337
+Uh-huh.  Are you eating more salt, salty food?
+
+PATIENT X337
+No, no, not really.
+
+DOCTOR X337
+Nothing like that.
+
+PATIENT X337
+I don't eat salt, I hate salty food.
+
+DOCTOR X337
+Okay, okay.  So you're kind of aware of eating more salt makes you swell up more okay.  Do you remember the last time we did like an echo of your heart that's imaging where they do an ultrasound of your heart?  The last one I found was in 2010, do you remember doing anything @@@?
+
+PATIENT X337
+Was that where they give @@@ the chest?
+
+DOCTOR X337
+No it's, it's more.
+
+PATIENT X337
+@@@.
+
+DOCTOR X337
+It's just like a little machine, an ultrasound machine over your chest.  It's not like an x-ray.
+
+PATIENT X337
+I didn't.
+
+DOCTOR X337
+@@@ okay and then you had a CABG back in 2001, a open heart surgery and then you had stents placed in 2005 and nothing since then, okay.
+
+PATIENT X337
+Nothing since then.
+
+DOCTOR X337
+Okay, okay.  Oh in 2007.  You had something since then?
+
+PATIENT X337
+@@@.
+
+DOCTOR X337
+@@@ okay.
+
+PATIENT X337
+As far as that is because I lost my job and @@@.  I had that done before I lost my job.
+
+DOCTOR X337
+Okay and then when you saw DOCTOR in September, in his note now correct me if I'm wrong; he wanted you to cut down your Lasix in half.
+
+PATIENT X337
+Right.
+
+DOCTOR X337
+What were you taking before?
+
+PATIENT X337
+I was taking it twice a day.
+
+DOCTOR X337
+Uh-huh.
+
+PATIENT X337
+One pill twice a day.
+
+DOCTOR X337
+Uh-huh.
+
+PATIENT X337
+He wanted me to cut it down.
+
+DOCTOR X337
+Yes.
+
+PATIENT X337
+I did that.
+
+DOCTOR X337
+Did not go well.
+
+PATIENT X337
+Did not go well.
+
+DOCTOR X337
+Okay.
+
+PATIENT X337
+I added.
+
+DOCTOR X337
+You added it back okay and then after that you probably felt back to normal and then something happened.
+
+PATIENT X337
+Right.
+
+DOCTOR X337
+Where it got worse.
+
+PATIENT X337
+And now it's, I'm retaining the fluids.
+
+DOCTOR X337
+Retaining the fluids okay.  And you said how long exactly this has been going on for?
+
+PATIENT X337
+Four months, I don't know.
+
+DOCTOR X337
+Four months, okay so it's been a little while okay.  Um and then your blood pressure, how has that been doing?  Have you been checking it at all at home?
+
+PATIENT X337
+Blood pressure's fine.  It was okay today.
+
+DOCTOR X337
+Yeah it was really good today @@@.  Okay and then your diabetes, what's been going on?  Have you been checking your sugars?
+
+PATIENT X337
+It @@@.
+
+DOCTOR X337
+How we doing?
+
+PATIENT X337
+It bounces back and forth.
+
+DOCTOR X337
+Yes.
+
+PATIENT X337
+@@@ healthier.
+
+DOCTOR X337
+What is that?
+
+PATIENT X337
+Uh I don't want anything to do with whatever @@@ is.  @@@.
+
+DOCTOR X337
+Okay.
+
+PATIENT X337
+I'm just.  I get really angry sometimes.
+
+DOCTOR X337
+Okay.
+
+PATIENT X337
+You know I've been told they were going to send me a letter and I said you can call me on this date.
+
+DOCTOR X337
+Yeah.
+
+PATIENT X337
+And then I get here a half an hour early @@@.
+
+DOCTOR X337
+Yes.
+
+PATIENT X337
+And then you know, I didn't get called for an hour to an hour and a half later.
+
+DOCTOR X337
+Yeah.
+
+PATIENT X337
+I've got things I got to do and I'm working at night, I got to get some sleep.
+
+DOCTOR X337
+Yeah.
+
+PATIENT X337
+And that really ticks me off.
+
+DOCTOR X337
+Uh-huh did you explain that to her?
+
+PATIENT X337
+No I didn't because they tell me I was wrong last time.  She called one day and I didn't have any notice of an appointment.
+
+DOCTOR X337
+Uh-huh.
+
+PATIENT X337
+Oh just be here, uh-huh.
+
+DOCTOR X337
+Hmm.
+
+PATIENT X337
+No I didn't.
+
+DOCTOR X337
+Yeah.
+
+PATIENT X337
+And then she thinks I have the time and its like, look we talk about you, you need to change.
+
+DOCTOR X337
+Yeah.
+
+PATIENT X337
+What if I don't to?
+
+DOCTOR X337
+Well it's good to let us know if there is a complaint.
+
+PATIENT X337
+Well she was @@@ and she'd been constantly on this uh I think we need to change you to, the other type of @@@.
+
+DOCTOR X337
+Okay.  Was it long-acting?  What are you on now?  @@@.
+
+PATIENT X337
+I don't know, it's different.  I'm on the long-acting.
+
+DOCTOR X337
+You're on the long-acting.
+
+PATIENT X337
+Right.
+
+DOCTOR X337
+Hmm.  Are you taking it along with meals?
+
+PATIENT X337
+@@@  take it @@@.
+
+DOCTOR X337
+Yeah.
+
+PATIENT X337
+@@@.  Sometimes I get it and other times I'd be eating like five and six times a day.
+
+DOCTOR X337
+Yeah.
+
+PATIENT X337
+That doesn't fit in a lifestyle at home.
+
+DOCTOR X337
+Right.  Okay.
+
+PATIENT X337
+So, I'm just a little irritated.
+
+DOCTOR X337
+Okay.  @@@.  What have your blood sugars been running?
+
+PATIENT X337
+They'll go anywhere from 80 to uh about 160.
+
+DOCTOR X337
+Okay and when do you check your blood sugars?
+
+PATIENT X337
+Usually at night.
+
+DOCTOR X337
+Before you go to bed?
+
+PATIENT X337
+Before I go to bed.
+
+DOCTOR X337
+So that's like morning to you right?
+
+PATIENT X337
+That's morning.
+
+DOCTOR X337
+Okay so you're sleeping kind of all day and then you wake up, you check it and then you go to work.
+
+PATIENT X337
+Right.
+
+DOCTOR X337
+Okay.  Do you ever check it after you eat a meal?
+
+PATIENT X337
+It's rare.
+
+DOCTOR X337
+It's rare.  But when you do where are we sitting on that?
+
+PATIENT X337
+Oh after a meal I'll shoot up to about in the 200s uh after dinner I'll check it, two hours.  At two hours it might be down to 180 which frequently is the case.
+
+DOCTOR X337
+Uh-huh.
+
+PATIENT X337
+I don't go back to normal after two hours.  In three hours I'm back.
+
+DOCTOR X337
+Uh-huh.
+
+PATIENT X337
+No but I can @@@ 140 range.
+
+DOCTOR X337
+Right, right.  
+
+PATIENT X337
+She doesn't like that @@@.
+
+DOCTOR X337
+Well um and what are we doing like your maintenance stuff, have you seen the eye doctors in the last year?
+
+PATIENT X337
+I'm okay.
+
+DOCTOR X337
+Right and then do you follow with Podiatry or no?  Do you ever have issues with your feet?
+
+PATIENT X337
+No, no.
+
+DOCTOR X337
+Ulcers or anything like that?
+
+PATIENT X337
+No
+
+DOCTOR X337
+Okay.  Just make sure you keep an eye out for that stuff just because you know, with neuropathy sometimes you don't feel it in your feet.
+
+PATIENT X337
+Oh the other thing I told the nurse when she checked my feet today.
+
+DOCTOR X337
+Yeah.
+
+PATIENT X337
+She mentioned about going barefoot, even in the house and I said that may not happen.
+
+DOCTOR X337
+Yeah.
+
+PATIENT X337
+But uh if I have a teensy little nick on the ball of my feet.
+
+DOCTOR X337
+Yes.
+
+PATIENT X337
+It hurts, for quite a while.
+
+DOCTOR X337
+Yeah.
+
+PATIENT X337
+And our feet are so connected with.
+
+DOCTOR X337
+Yeah.
+
+PATIENT X337
+And I make sure @@@.
+
+DOCTOR X337
+Uh-huh.
+
+PATIENT X337
+It took quite a while.
+
+DOCTOR X337
+Yeah.
+
+PATIENT X337
+Maybe two or three weeks just for a little.
+
+DOCTOR X337
+Yeah.
+
+PATIENT X337
+Teeny thing.
+
+DOCTOR X337
+And that's what's really concerning because of the diabetes and it's a slow healing process of wounds and a lot of people, unfortunately that have poorly controlled diabetes get a cut like that and that leads to developing like a bone infection and it gets worse and worse and.
+
+PATIENT X337
+I keep a close eye on that.
+
+DOCTOR X337
+It's very important and if things like you feel are getting all out of hand or a little out of your control then you've got someone to call and we'll get you in to see somebody.
+
+PATIENT X337
+What was my record and here's @@@.
+
+DOCTOR X337
+Yeah.
+
+PATIENT X337
+I was told I'll call you and let you know the results and nobody called.
+
+DOCTOR X337
+Okay.
+
+PATIENT X337
+What my A1c?
+
+DOCTOR X337
+The one in earlier April we checked?
+
+PATIENT X337
+Correct.
+
+DOCTOR X337
+Okay that one was 8.2.
+
+PATIENT X337
+Oh then that's pretty high.  @@@ was a lot better than those.
+
+DOCTOR X337
+And then the one in January was 8 and then you had 8.6 in August is when I saw you last.
+
+PATIENT X337
+I thought it was up in the teens.
+
+DOCTOR X337
+And then before that I think you were really up there and then before that, that's when you had a high number.
+
+PATIENT X337
+Okay.  But it was 8.2.  Oh the next thing, I got to say this before I forget.
+
+DOCTOR X337
+Yeah.
+
+PATIENT X337
+Uh I had blood work today.
+
+DOCTOR X337
+Yes.
+
+PATIENT X337
+I just had it on the 6th.
+
+DOCTOR X337
+Yeah um she didn't order all the tests that I wanted to see.
+
+PATIENT X337
+Oh so @@@.
+
+DOCTOR X337
+Yeah I did, I did.  I just wanted other, like other tests as well.
+
+PATIENT X337
+That's fine.
+
+DOCTOR X337
+And then along with that is to check your A1c today.
+
+PATIENT X337
+I just.
+
+DOCTOR X337
+We want to have it here and it was 8.4.  8.4, this is really not that good.
+
+PATIENT X337
+So I'll just okay, I was curious whether.
+
+DOCTOR X337
+So I mean, you know the A1c is tested over three months so checking it @@@ you know.  But like said the more recent A1c we have the more we can then make changes to your medications.
+
+PATIENT X337
+Well months ago 6 was a lot.
+
+DOCTOR X337
+7 or below is my goal for you to have.  I think 6 or below um I was, with 6.5 or below you'd be in @@@ not diabetic but for a diabetic I want you below 7 and ideally around 6.5 but that would be our target.
+
+PATIENT X337
+I think the main problem is my @@@.
+
+DOCTOR X337
+Yeah so.
+
+PATIENT X337
+But I can't move it.
+
+DOCTOR X337
+Well I know you work late so it's hard uh.  Yeah this is back in like 2010 you were like 12.7 and you were like 9.8 and then we kind of hung around the 8 region for a long time and that's why they sent you to @@@ so they could help you with that.  So tell me what, I know it's hard for you to gauge it so what is your diet usually consist of?  Do you know what's healthy to eat and what's not healthy to eat for diabetes?
+
+PATIENT X337
+Yeah.
+
+DOCTOR X337
+Okay.
+
+PATIENT X337
+Stay away from carbs.
+
+DOCTOR X337
+@@@.
+
+PATIENT X337
+Stay away from carbs, starches, greases.
+
+DOCTOR X337
+Uh-huh.
+
+PATIENT X337
+And the sugar.
+
+DOCTOR X337
+Yeah.  Definitely.  You know okay so that's like one step and then I know you're kind of on the go it seems like.  Are you usually on the couch most of the time?
+
+PATIENT X337
+I've been more lately.
+
+DOCTOR X337
+Yeah.
+
+PATIENT X337
+But even then it's not always bad, well what I get it'll still be fast food but you know I'll have @@@.
+
+DOCTOR X337
+Uh-huh.
+
+PATIENT X337
+Tuna.  @@@.  I cook a lot of chicken and it lasts for three or four days.
+
+DOCTOR X337
+Yeah.
+
+PATIENT X337
+@@@.
+
+DOCTOR X337
+What time is your biggest meal usually?
+
+PATIENT X337
+Right about now.
+
+DOCTOR X337
+Right about now okay and that's when you're like getting home from work?
+
+PATIENT X337
+Right.
+
+DOCTOR X337
+Okay.
+
+PATIENT X337
+That's the thing I can't do without food so, @@@, mashed potatoes @@@.
+
+DOCTOR X337
+Yeah that you make specifically yeah.  Do you remember the last time we did a stress test on your?
+
+PATIENT X337
+You haven't that I know of.
+
+DOCTOR X337
+Okay.
+
+PATIENT X337
+But that's in the mail @@@.
+
+DOCTOR X337
+Right.
+
+PATIENT X337
+That's last time I had one.
+
+DOCTOR X337
+Oh my goodness.
+
+PATIENT X337
+I really don't remember when I got it.
+
+DOCTOR X337
+Yeah.
+
+PATIENT X337
+I've had more than one.
+
+DOCTOR X337
+Yeah.  Uh-huh.
+
+PATIENT X337
+And I only lasted like 30 seconds.
+
+DOCTOR X337
+Okay, but did you get the treadmill?  You got a treadmill?
+
+PATIENT X337
+Yeah.
+
+DOCTOR X337
+Okay.
+
+PATIENT X337
+They started me on the main going a high speed.
+
+DOCTOR X337
+Right.  We don't, we don't have to do a treadmill, we could do like where we give you a medication and that's your stress test.  What I mean it stresses your heart enough to maybe push it and we monitor it.  People that can't get up on a treadmill we have other ways to do the stress test.
+
+PATIENT X337
+That's fine.
+
+DOCTOR X337
+Yeah.  It's a different kind test.
+
+PATIENT X337
+And I just can't do it because of the pain in my legs.
+
+DOCTOR X337
+Yes.  So I don't think your treadmill was here.  @@@.
+
+PATIENT X337
+@@@.  As a matter of fact I'm pretty sure it was before I had the last stent.
+
+DOCTOR X337
+Oh okay.
+
+PATIENT X337
+Cause I tried to talk the doctor out of doing it.  I said look @@@.
+
+DOCTOR X337
+Okay and then do you also, did you get your Lasix when you saw him.  You stopped the niacin and the Zetia.  Did you stop those two?
+
+PATIENT X337
+Yes.
+
+DOCTOR X337
+Okay but the Lasix you kind of went back to that.
+
+PATIENT X337
+@@@.
+
+DOCTOR X337
+What were you having, you were just swelling more or short of breath or what?
+
+PATIENT X337
+Both.
+
+DOCTOR X337
+Okay.
+
+PATIENT X337
+Mainly the shortness of breath because I could feel the fluid, feel the fluid in my lungs.
+
+DOCTOR X337
+Okay, yeah.  It's uncomfortable.
+
+PATIENT X337
+Is it a different type?  Right now I'm taking Lasix that I had.  @@@.  Might be generic.
+
+DOCTOR X337
+Oh the furosemide.
+
+PATIENT X337
+@@@.
+
+DOCTOR X337
+Yes.
+
+PATIENT X337
+Is there a difference?
+
+DOCTOR X337
+There isn't but we have room to go up on your list, you have a lot of room.  The max dose of Lasix is like 400 a day @@@.  So what we could do is I'll talk to DOCTOR and see what her plan is but I would probably want to get you an echo and see how much your cardiac function has changed.  I'd probably get an ultrasound of your heart.
+
+PATIENT X337
+Okay.
+
+DOCTOR X337
+Um I'd maybe do a stress test on you too.  I'll see what she has to say about it and I'd definitely increase your Lasix, at least for now because you've become symptomatic so we need to figure out what's going on okay.  But let me just take a @@@.  And then do you need refills on any medications do you know?
+
+PATIENT X337
+When I was getting weighed, uh let's see.  Carvedilol expires, I got five left until August.
+
+DOCTOR X337
+Okay.
+
+PATIENT X337
+@@@.
+
+DOCTOR X337
+Let's @@@.
+
+PATIENT X337
+Cause I've only got one refill left.
+
+DOCTOR X337
+Okay I'll refill that one too.
+
+PATIENT X337
+Furosemide I got three refills left.  Glipizide only one.
+
+DOCTOR X337
+Okay.  What are you on for glipizide is it 10?
+
+PATIENT X337
+I take two tablets by mouth twice a day.
+
+DOCTOR X337
+Okay.  And you're on the @@@.
+
+PATIENT X337
+10 mg.
+
+DOCTOR X337
+I'll refill that one.
+
+PATIENT X337
+Uh insulin two refills left before July.
+
+DOCTOR X337
+Okay I've got the metformin.
+
+PATIENT X337
+Metformin three refills left before July.
+
+DOCTOR X337
+@@@.  And you're still taking the rosuvastatin, that's for the cholesterol?
+
+PATIENT X337
+Correct.
+
+DOCTOR X337
+Okay.  And that's going okay, no muscles aches or pains or anything?
+
+PATIENT X337
+No nothing.  How's the @@@ these days?  Did you get me a new statin?
+
+DOCTOR X337
+Oh yeah I did.  We'll go over that @@@.
+
+PATIENT X337
+And I do have one other unrelated question.
+
+DOCTOR X337
+Yes, @@@.  Let's see maybe we'll go 50 twice a day.  Do you have 20 mg tablets or are they 40's?
+
+PATIENT X337
+Uh.
+
+DOCTOR X337
+Do you take just one pill or do you take two pills in the morning.
+
+PATIENT X337
+It's one twice a day.
+
+DOCTOR X337
+Just one pill okay.
+
+PATIENT X337
+I take one.
+
+DOCTOR X337
+@@@.
+
+PATIENT X337
+So take two of them twice?
+
+DOCTOR X337
+Yeah I'll let you know a final decision, we'll write everything down.
+
+PATIENT X337
+Oh yeah.
+
+DOCTOR X337
+Okay so, let's go through your labs.  The A1c we talked about before.  This is your white blood cell count.  Your hemoglobin here is 14.5 that's normal for a male your age.  Um your white blood cell count is 9 and that's a sign of infection.  Um your platelet count is 193 and that's also elevated.  This is your electrolyte count and also your kidney functions and your cholesterol levels.  So this is what I wanted.  I wanted to check your cholesterol and your liver enzymes since you were on @@@ a long time, so we check like your liver so I wanted to make sure nothing was going on with that.  Okay so your electrolytes, your potassium is actually a little bit low and that's probably from your Lasix so what we'll probably have to do is give you some potassium tablets okay.
+
+PATIENT X337
+Uh-huh.
+
+DOCTOR X337
+Cause if that drops too low your heart can go into like arrhythmias it's just @@@.  So that's why we do that um, this is a test of your kidney function and it was 1.08 and that's kind of in your baseline so your kidney function is kind of in the low range.  Your urea nitrogen is your BUN.  It's another measurement of your kidneys um but that was consistent for you.  Let's see you were 6.7, nothing has changed and that's kind of what we look for in the test.
+
+PATIENT X337
+@@@ is high.
+
+DOCTOR X337
+It is high.  Minimally at high risk um and then the magnesium this is another one that is kidney function. So your potassium and your magnesium are two electrolytes that are very important to watch.  Your magnesium is also low.  So we'll probably have to start you on supplements and I may even want to give you some IV stuff here today before you go home and I know you're tired and you want to go home and sleep.
+
+PATIENT X337
+I want to eat.
+
+DOCTOR X337
+@@@.  And then these are your triglycerides so those are the fats.  So that's what you were taking niacin for @@@.  Yeah you were at @@@ on the niacin.  Do you know why she didn't want you on it?  No.
+
+PATIENT X337
+I don't know.
+
+DOCTOR X337
+Were you tolerating it okay?  You weren't getting real hot or night sweats.
+
+PATIENT X337
+@@@ rashes or itches.
+
+DOCTOR X337
+Well I would probably restart that for you, if that's okay with you.
+
+PATIENT X337
+It's okay with me.
+
+DOCTOR X337
+Those numbers, I think I don't like this number.  I definitely want you like closer to 200 and also @@@, let's just do that.  So I @@@.
+
+PATIENT X337
+It wasn't just the niacin, what was the Zetia for?
+
+DOCTOR X337
+So Zetia is also kind of a type of cholesterol um and your statin.
+
+PATIENT X337
+@@@.
+
+DOCTOR X337
+Yes.
+
+PATIENT X337
+Because I was controlled with triglycerides under the doctor before.
+
+DOCTOR X337
+Yeah.
+
+PATIENT X337
+Uh and he specifically put me on those to get the triglycerides down.
+
+DOCTOR X337
+Yeah.  So the only problem with Zetia is that like they haven't really proven that it does a lot, like it maybe minimally helps with your triglycerides.  It also causes a lot of GI upset.  So I would prefer we would start back on the niacin first and you know check this in like three months and see if it's helping.  If that's not helping then we can add back the Zetia but with the Prilosec I'd rather you just do the niacin if you tolerate that well if it controls it.  Okay.
+
+PATIENT X337
+I've never had any side effects on any of the medications.
+
+DOCTOR X337
+Yeah, that's good.  Your medicines.  Your cholesterol.  So there's good cholesterol and there's bad cholesterol.
+
+PATIENT X337
+The good is always low.
+
+DOCTOR X337
+Your good cholesterol is the HDL and the niacin also helps with that actually.  It'll help bring it up just a little bit but the way you get your HDL up is exercise.  Physical exercise which I know right now is kind of hard because of work going on but your LDL and exercise helps with that.  Great we want you below 70; you're at 58, that's excellent.  Your diabetic with heart disease and we want you below 70 for your bad cholesterol.  So the LDL is where we want it.  The HDL is a little bit low um, we'll work on kind of symptomatically relieving your issues so you can feel a little more but we mainly covered that.  Your @@@ are your liver function tests, all the liver functions, but these usually go back when you're on a statin and then they'll be normal.  
+
+PATIENT X337
+@@@ high?
+
+DOCTOR X337
+No that's low, 0.4 is low.  4 is high it looks like you've never had levels that high @@@.  Yeah you've been down @@@.  So @@@ go back on niacin.  Do you want to do a 90 day supply or do you want a 30 day supply?
+
+PATIENT X337
+@@@. Will that be sent to me?
+
+DOCTOR X337
+Yes sent in the mail.  Okay let me just uh examine you and then we'll come up with a game plan and I'll write everything down for you.  Where do you work security?
+
+PATIENT X337
+I work uh in xxx xxx.
+
+DOCTOR X337
+Okay.  That's @@@ right yeah.
+
+PATIENT X337
+Right.  @@@.  About.
+
+DOCTOR X337
+@@@.
+
+PATIENT X337
+About 18 miles I guess.
+
+DOCTOR X337
+Oh okay.  Do you work there too?
+
+PATIENT X337
+Yeah.  @@@ Nordby.
+
+DOCTOR X337
+Just look straight ahead for me I just want to check your eyes first.  Open up wide for me, say ah.
+
+PATIENT X337
+Ah.  @@@.
+
+DOCTOR X337
+@@@.  Okay.  Can I have you hold your breath for a minute?  Okay perfect.  Deep breath for me.  So are some days worse than others?  Is today probably a good day for you?  I don't hear much fluid in your lungs.
+
+PATIENT X337
+Oh no, @@@ good day.
+
+DOCTOR X337
+So with the exertion the shortness of breath you're getting.
+
+PATIENT X337
+@@@.
+
+DOCTOR X337
+Yeah, yeah.  Is it days on days off kind of a thing @@@.
+
+PATIENT X337
+Uh-huh.
+
+DOCTOR X337
+Okay.  But you said you've noticed more fluid huh?
+
+PATIENT X337
+@@@.
+
+DOCTOR X337
+Yeah.
+
+PATIENT X337
+And that's the way you can.
+
+DOCTOR X337
+Yeah.
+
+PATIENT X337
+You know it's not down in my feet, it's always there.
+
+DOCTOR X337
+Here.  @@@ all right here.  You can tell that by pushing down and if it leaves an indent.  You usually don't have that.
+
+PATIENT X337
+@@@.
+
+DOCTOR X337
+The swelling.
+
+PATIENT X337
+Yeah, that's what I've been having for about.
+
+DOCTOR X337
+For the last four months.  But before I'm saying you didn't have any fluid on there, okay.  @@@.  Check this side.
+
+PATIENT X337
+Since @@@.
+
+DOCTOR X337
+Why is this one red?  Is it because of the veins for your surgery, do you know?
+
+PATIENT X337
+Uh.
+
+DOCTOR X337
+When they do cardiac surgery sometimes they take a vein from your legs for the graft, do you remember?
+
+PATIENT X337
+I don't remember.
+
+DOCTOR X337
+Yeah a lot of people are like that.  Okay, uh just have a seat right there.  I'm going to talk to DOCTOR.  I'll be back in just a couple minutes okay.
+
+(DOCTOR OUT:  58:14  DOCTOR IN:  69:09)
+
+DOCTOR X337
+Okay.  So we've come up with a game plan.  Do you have that little med sheet they gave you when you came in, I have to write down on it, then you can keep that and I'll take this one okay.  So I'm just going to write on the back of this one if that's okay.  So we'll do the changes.  We're going to do your Lasix we're going to do 60 mg twice a day.  You can cut your pills in half; do you have a pill cutter?
+
+PATIENT X337
+@@@.
+
+DOCTOR X337
+Oh okay that's fine too yeah so just cut them in half until you get the new ones.  The new ones will probably just be 20's and you'll take three.
+
+PATIENT X337
+What am I taking?
+
+DOCTOR X337
+You're taking 40 mg twice a day.
+
+PATIENT X337
+Okay.
+
+DOCTOR X337
+Now it's going to be 60.
+
+PATIENT X337
+So 1 1/2 okay.
+
+DOCTOR X337
+Yeah it goes to 1 1/2.  Um and then we're starting the niacin okay and then I'm starting you on some calcium @@@.  Your calcium and magnesium are low.  I'm not going to make an IV I know you want to go home and sleep but I want you to take so we're going to give you magnesium it's going to be 420 mg three times daily.
+
+PATIENT X337
+@@@.
+
+DOCTOR X337
+For one week yeah and then you just take it twice a day.
+
+PATIENT X337
+Three times a day for a week.
+
+DOCTOR X337
+One week and then after that just take it twice a day and then potassium, that's potassium chloride and that's 20 mg and you'll take that twice daily.  So we're increasing your Lasix and @@@.
+
+PATIENT X337
+What's the difference, just out of curiosity?
+
+DOCTOR X337
+Sure.
+
+PATIENT X337
+This is @@@ isn't it?
+
+DOCTOR X337
+No.
+
+PATIENT X337
+It's not.
+
+DOCTOR X337
+Sodium is salt.
+
+PATIENT X337
+Oh.
+
+DOCTOR X337
+Right, potassium is something else yeah.
+
+PATIENT X337
+Okay.
+
+DOCTOR X337
+It's another electrolyte.  It's like inside of your cells, it's the thing it has the most of is potassium.
+
+PATIENT X337
+Okay.
+
+DOCTOR X337
+And it stabilizes your cardiac membranes if you have enough potassium.  It if doesn't then you can have like arrhythmias and that's probably not good for your heart @@@.
+
+PATIENT X337
+Yeah and when you were checking me I could feel, I could feel the heart.
+
+DOCTOR X337
+Yeah.
+
+PATIENT X337
+Doing weird stuff in their.
+
+DOCTOR X337
+Yeah, yeah.  So we'll keep an eye on that stuff.  We'll do the electrolytes and that might help.  If you continue to feel like palpitations and stuff like that then we can put you on a Holter monitor.  It hooks up to you and kind of watches your rhythm for a little while but we'll adjust @@@.  Um and I'm gonna schedule you to see Cardiology.  Cardiology appointment they'll schedule you when you're leaving just take the next available if you can.  We're gonna do an echo. That's an ultrasound of your heart and that'll tell us how much your blood is pumping, your ejection fraction I don't know if you've heard that before so you know.  If it's low.
+
+PATIENT X337
+I don't remember when I had it but the last time I had it it was not this cardiologist, the one before.
+
+DOCTOR X337
+Okay.
+
+PATIENT X337
+Had me do it and @@@.
+
+DOCTOR X337
+Your ejection fraction was low.  It was 40% at that time.
+
+PATIENT X337
+Yeah.
+
+DOCTOR X337
+Yeah.
+
+PATIENT X337
+And he said he was a little concerned about it.
+
+DOCTOR X337
+Right so if it's, on this echo so if you're a lot worse then we would worry and would probably send you to do a stress test.  But I would do the chemical one for you so the treadmill wouldn't be an issue okay.  We want to see how you're heart's doing when it's under stress.
+
+PATIENT X337
+Okay.
+
+DOCTOR X337
+And if your echo looks find and I'll call you when I get the results.  It might take like a week to kind of get that back so uh if your echo looks fine then I wouldn't worry, then we'll just do @@@ and then we'll see how you do.
+
+PATIENT X337
+So when am I doing this echo?
+
+DOCTOR X337
+It's going to be scheduled.  When you check out they'll schedule you.
+
+PATIENT X337
+Okay.
+
+DOCTOR X337
+Uh and then I want you to come back for labs in one week.
+
+PATIENT X337
+Again?
+
+DOCTOR X337
+Yes.  I want to make sure your potassium and magnesium are coming back to normal.  I don't want to stress your heart any more than we have to, so it's really important.
+
+PATIENT X337
+Well I've got to get this today then.
+
+DOCTOR X337
+Yeah do you want to pick those up downstairs?
+
+PATIENT X337
+I can.
+
+DOCTOR X337
+I'd prefer you do.  I know you want to go home and sleep but, I'd prefer you just pick them up.  Especially because they're new, let me just sign this and get all this stuff ordered and then I want you to see, I know you don't like the plan B stuff kind of didn't work out and that's totally fine.  I want to actually see an endocrinologist.  They manage diabetes a lot better.
+
+PATIENT X337
+Than this.
+
+DOCTOR X337
+Yeah so, we'll set you up with one.
+
+PATIENT X337
+@@@.
+
+DOCTOR X337
+Let's just go down, your A1c has been 8 for like a while so we're not really making headway so.  Endocrinology means like the doctors look at the glands in your body and the pancreas is like a gland so they deal with it a lot so they're very good.  Okay, is this pretty clear?
+
+PATIENT X337
+Yeah.  Furosemide 1 1/2 twice a day.
+
+DOCTOR X337
+Uh-huh.
+
+PATIENT X337
+Start the niacin, start the, restart the niacin.
+
+DOCTOR X337
+Uh-huh.
+
+PATIENT X337
+Magnesium, new one three times a day.
+
+DOCTOR X337
+You can restart it whenever you get it, it's not.
+
+PATIENT X337
+Oh okay.
+
+DOCTOR X337
+You know it's not urgent you start it today.
+
+PATIENT X337
+Magnesium, potassium start today or tonight.  Magnesium three times a day for a week then twice a day and potassium chloride twice a day, Cardiology appointment, echo appointment, labs in one week.  @@@.
+
+DOCTOR X337
+Okay wonderful.  Okay so I ordered those two for the windows so they should be there um and those other two I ordered the niacin, I ordered your echo.
+
+PATIENT X337
+And go to Cardiology, do the echo and endocrinologist but they, I just need to go get the echo right?
+
+DOCTOR X337
+Uh-huh.  But they'll have to schedule you.  I don't know if you can just go over or if they schedule you and if things get worse I want you to call and if they tell you come in for an HC visit I want you to do that.  That means we're going to take @@@.  Even if you don't see me you need to be seen by somebody.  I don't want you to go through or suffer for three months before somebody sees you, do you know what I mean?  Usually they'll be able to get you in with me but if they don't.
+
+PATIENT X337
+Don't close out.
+
+DOCTOR X337
+Don't close out.
+
+PATIENT X337
+Okay.  I got another question.
+
+DOCTOR X337
+Okay.
+
+PATIENT X337
+Which month?
+
+DOCTOR X337
+Hmm.  Okay and then when are you due to see the eye people again?  September okay, next September.  
+
+PATIENT X337
+Well I'm still confused if the furosemide, at least to me doesn't seem like its working then why am I depleting my potassium and magnesium?
+
+DOCTOR X337
+Because it's still making you urinate and potassium and Lasix actually wastes potassium.  So even if you're on a low dose sometimes people can be wasting potassium.  Some people are sensitive to it differently um because the higher you go on a dosage the more potassium you're gonna lose so that's why it's important.  So @@@ on Lasix you're going to lose potassium.  Some people their bodies adjust to it and they kind of you know just absorb more potassium and your body's kind of like leaks the stuff but when you're on a higher dose of it it can't keep up and so you're better just to take oral.  It's not uncommon.
+
+PATIENT X337
+No @@@.  What fruits might include?
+
+DOCTOR X337
+Bananas, very high in potassium.
+
+PATIENT X337
+Oh good I like bananas.
+
+DOCTOR X337
+Yeah eat a banana every morning if you can or every night whenever you're going to work.  Okay, what were the other questions?
+
+PATIENT X337
+Oh yeah I see on TV and I also see you have the documentation out here in the Waiting Room.
+
+DOCTOR X337
+Yes.
+
+PATIENT X337
+Should I get that?
+
+DOCTOR X337
+The shingles.  So you are 62, so we recommend vaccination usually around you know after 60.  Um have you had the chicken pox as a child?  You have okay.  So you know what shingles is? 
+
+PATIENT X337
+I guess it's some sort of a neuro.
+
+DOCTOR X337
+Yeah @@@.  Exactly it's a herpes @@@ so.  Chicken pox is a herpes virus.  You get chicken pox and you break out everywhere and it goes away but it actually stays in your body, it's dormant and then one day when you're older and your immune system's down and especially if you're a diabetic sometimes.
+
+PATIENT X337
+That's what I.
+
+DOCTOR X337
+@@@ it can flare, it can flare-up and then when it flares up it kind of is like, it flares up like in a distribution of one side of your body.
+
+PATIENT X337
+I've seen it.
+
+DOCTOR X337
+And it's like pretty, it's pretty painful.  
+
+PATIENT X337
+Yeah.
+
+DOCTOR X337
+Some people sometimes can have residual neuropathy so I mean if you're not adverse to getting it we'll do it today.
+
+PATIENT X337
+That fine.
+
+DOCTOR X337
+Okay.
+
+PATIENT X337
+That's what I wanted to know.
+
+DOCTOR X337
+Sure, sure.
+
+PATIENT X337
+She recommended it.
+
+DOCTOR X337
+It's a great product; it's a great product yeah.
+
+PATIENT X337
+I don't need any more pain.
+
+DOCTOR X337
+Okay, let's walk you out.  Okay so labs in a week okay.
+
+PATIENT X337
+Okay.
+
+DOCTOR X337
+I think we have everything all set.  I want you to come back to see me in a little shorter interval this time is that okay?
+
+PATIENT X337
+Sure.
+
+DOCTOR X337
+Okay.  So we'll see you in two months.  That's to check your cardiac enzymes.
+
+PATIENT X337
+Are you getting close to leaving?
+
+DOCTOR X337
+No I'm just starting so you'll see me in two months.
+
+PATIENT X337
+Does it take that long?
+
+DOCTOR X337
+Yeah three years @@@.
+
+PATIENT X337
+@@@.
+
+DOCTOR X337
+So I've got two more.  So we'll get to know each other a lot better.  @@@ workout and then I'll take a look at your lab and I'll call you when we get the echo, the labs in a couple of weeks.  Thank you.  Take care sir.
+
+PATIENT X337
+You too.
+
+PATIENT LEAVES:  82:16.
+
+Time is  3:35.
+
+
+
+

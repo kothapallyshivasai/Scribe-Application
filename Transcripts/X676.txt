@@ -1,0 +1,508 @@
+
+DOCTOR X676
+PATIENT?
+
+PATIENT X676
+@@@.
+
+DOCTOR X676
+Taking a look at your chart.
+
+PATIENT X676
+Yea.
+
+DOCTOR X676
+You @@@.
+
+PATIENT X676
+Yea, I know. I hurt enough.
+
+DOCTOR X676
+Yea.  I saw you were recently hospitalized too.
+
+PATIENT X676
+Yea.
+
+DOCTOR X676
+@@@.
+
+PATIENT X676
+Yea.
+
+DOCTOR X676
+What happened down there?  I know you had a couple of surgeries.
+
+PATIENT X676
+Yea, uh, @@@.  They went back and something, I don’t know what he did.  I forget what he called it.  But @@@ and just started hurting more and more and as soon as I ran out of my pain pills they didn’t give me that many.
+
+DOCTOR X676
+Okay.
+
+PATIENT X676
+So I tried to last long @@@.  I ain’t got no more pain pills.  
+DOCTOR X676
+Okay.
+
+PATIENT X676
+I @@@ pain pills.  I need some stomach pills.  I need some @@@.  But I need the pain pills bad.  I ain’t got no more left.  
+
+DOCTOR X676
+Let me look at @@@.  
+
+PATIENT X676
+Ah, @@@, DOCTOR, the one she was @@@, forgot her name.
+
+DOCTOR X676
+DOCTOR?
+
+PATIENT X676
+Yea.  
+
+DOCTOR X676
+He is gone.  
+
+PATIENT X676
+Gone?  
+
+DOCTOR X676
+He is has gone to greener pastures.  
+
+PATIENT X676
+Oh.  Are you the one I seeing now?
+
+DOCTOR X676
+Yea, you got me find out huh?
+
+PATIENT X676
+No.  @@@ answer because he told me that somebody @@@ my transcript @@@ to get back and forth to the appointment.  I want to know @@@.  @@@ pick me up and take me back home.
+
+DOCTOR X676
+Oh that is fine.  @@@.
+
+PATIENT X676
+Okay.  
+
+DOCTOR X676
+So what do you do @@@?
+
+PATIENT X676
+Ah, @@@.  
+
+DOCTOR X676
+They sent you @@@ on one occasion right?
+
+PATIENT X676
+Right.
+
+DOCTOR X676
+@@@.  
+
+PATIENT X676
+Yea.
+
+DOCTOR X676
+And they sent out on a sleeping pill.  Send you out on @@@. 
+
+PATIENT X676
+Yea they already gave me @@@ for my pain.
+
+DOCTOR X676
+Um hm.
+
+PATIENT X676
+I need some of that.
+
+DOCTOR X676
+How often were you taking it?
+
+PATIENT X676
+I was taking like for pain, like little pain, @@@, were like, they didn’t give me that many.  They gave me like 30 I think.
+
+DOCTOR X676
+Right but how often were you taking it?
+
+PATIENT X676
+I was taking one twice a day.  Twice a day.
+
+DOCTOR X676
+Twice a day?
+
+PATIENT X676
+Yea.  I take one.
+
+DOCTOR X676
+And was the pain pretty much controlled?
+
+PATIENT X676
+Yea I mean, yea, it gave control.
+
+DOCTOR X676
+Well alright.  
+
+PATIENT X676
+It was not @@@.  They told me to take the other one like @@@ on @@@ the other one @@@ because @@@.
+
+DOCTOR X676
+@@@.  August 6, 2011.  @@@ controlling pain.  @@@.  Okay.  @@@ too much while you were in the hospital right?
+
+PATIENT X676
+No.  
+
+DOCTOR X676
+You didn’t have any seizures or anything.
+
+PATIENT X676
+No, no.
+
+DOCTOR X676
+@@@ the pain @@@. 
+
+PATIENT X676
+Yup that’s all.
+
+DOCTOR X676
+Okay.  And you were @@@ medication right?
+
+PATIENT X676
+Right.
+
+DOCTOR X676
+Alright.  
+
+PATIENT X676
+Yea I still taking that @@@.
+
+DOCTOR X676
+Everything been okay at home?
+
+PATIENT X676
+Yea @@@, although I @@@ pain @@@.
+
+DOCTOR X676
+Yea.  Your blood pressure is doing great.
+
+PATIENT X676
+Yea my blood pressure is good.
+
+DOCTOR X676
+That is fantastic.  You @@@ at all?
+
+PATIENT X676
+Yea.  I take them twice a day.
+
+DOCTOR X676
+So @@@ the albuterol?
+
+PATIENT X676
+Yea, what’s, yea.
+
+DOCTOR X676
+I am writing everything down @@@.  You have a pretty complicated  medical history.
+
+PATIENT X676
+Yea, I know.  I know that.
+
+DOCTOR X676
+It is going to be hard talking about this.  @@@ memory so.
+
+PATIENT X676
+Yea I used to drink alcohol a long time ago and @@@.
+
+DOCTOR X676
+Yea. 
+
+PATIENT X676
+The alcohol.  I ain’t drank none.  I haven’t drank none in two three years.  I am doing alright.  @@@.  I still smoke a pack of cigarettes a day.  I am slowing down.
+
+DOCTOR X676
+When you going to quit?  
+
+PATIENT X676
+@@@.  
+DOCTOR X676
+When you going to quit?  Alright.  You are doing pretty stable.  Um, @@@ follow with the Anticoagulation Clinic too?
+
+PATIENT X676
+Yea.
+
+DOCTOR X676
+Good.  Good.  We should check your cholesterol.  
+
+PATIENT X676
+Yea she said something about a shot @@@, I need some kind of shot.  I forget.  The nurse.
+
+DOCTOR X676
+Yea, the flu shot right?
+
+PATIENT X676
+Yea, right.
+
+DOCTOR X676
+You should get a flu shot today.
+
+PATIENT X676
+Yea.
+
+DOCTOR X676
+And then @@@.
+
+PATIENT X676
+I ain’t had one since last year.
+
+DOCTOR X676
+Yea and it is recommended that we get a shot every year especially if you @@@ the hospital a lot.  The worse thing is we can get flu and then not able to breath as well, and all that other stuff.
+
+PATIENT X676
+I can get one of these @@@?
+
+DOCTOR X676
+What is that?
+
+PATIENT X676
+I can get a shot @@@.
+
+DOCTOR X676
+Yea, absolutely.  We can get you one today.  I am just looking through a couple of things here.  We @@@.
+
+PATIENT X676
+I can pick them up today too right?
+
+DOCTOR X676
+Yea.  
+
+PATIENT X676
+Okay.  @@@.  Cause I need it.
+
+DOCTOR X676
+When did you run out meds?
+
+PATIENT X676
+I been a week.
+
+DOCTOR X676
+A week?  
+
+PATIENT X676
+Yea.  It has been a week. I came down @@@.  I was at the other doctor that takes care of my blood thinners @@@ put the order in.  I just wait till today to come in and get it.  I been in pain.  I @@@.  Couldn’t eat for a couple of days.  @@@.  
+
+DOCTOR X676
+It hurts right here?
+
+PATIENT X676
+Yea when I cough.
+
+DOCTOR X676
+You got a lot of pressure in there.
+
+PATIENT X676
+Yea.
+
+DOCTOR X676
+@@@ hematoma.  
+
+PATIENT X676
+Yea, they was able to @@@.  Yea. @@@.
+
+DOCTOR X676
+Yea.  
+
+PATIENT X676
+Guess if it gets bad, go back to Emergency Room again.
+
+DOCTOR X676
+I am checking to see if @@@.
+
+PATIENT X676
+Give me your name too okay?
+
+DOCTOR X676
+Yea it will be on the prescription.
+
+PATIENT X676
+Okay.
+
+DOCTOR X676
+You will see though.  @@@ too right?
+
+PATIENT X676
+Right and I need that too.  @@@.
+
+DOCTOR X676
+@@@.  
+
+PATIENT X676
+@@@.
+
+DOCTOR X676
+You knew.  @@@.  
+
+PATIENT X676
+Well I need it done.  @@@.
+
+DOCTOR X676
+Yea, you’re right.  @@@.
+
+PATIENT X676
+Alright.  
+
+DOCTOR X676
+Let’s see.  When did they diagnose the @@@.
+
+PATIENT X676
+Hm, I don’t know.  It has been a while.  I don’t know.  I am not for sure.
+
+DOCTOR X676
+When was the last @@@?
+
+PATIENT X676
+@@@.  
+
+DOCTOR X676
+You want to start this @@@ too.
+
+PATIENT X676
+Yea.  @@@.
+
+DOCTOR X676
+@@@.  Alright.  Okay.  I @@@.  We are going to check your cholesterol today, maybe a couple of @@@.
+
+PATIENT X676
+Okay then.  
+
+DOCTOR X676
+Everything looks pretty good.  
+
+PATIENT X676
+They going to give me enough?
+
+DOCTOR X676
+@@@.  Quit smoking.  
+
+PATIENT X676
+Okay @@@.  
+
+DOCTOR X676
+Yea.  Yea.   Let me talk to the boss.
+
+PATIENT X676
+Okay.  
+
+DOCTOR OUT:  41:14  DOCTOR IN:  48:08
+
+DOCTOR X676
+Alright buddy.  I am going to @@@.
+
+PATIENT X676
+Okay.
+
+DOCTOR X676
+Because they won’t be @@@.  Okay?
+
+PATIENT X676
+Okay.
+
+DOCTOR X676
+I will put them in the computer too.
+
+PATIENT X676
+Alright.
+
+DOCTOR X676
+So you can go pick them up then.  I can’t give you any refills on those medicines.  @@@ it won’t let me refill them.  Um, what you are going to have to do is come back in another 30 days.  Come to the @@@ Clinic because I will be here every Friday.  We will be able to write you a new prescription.
+
+PATIENT X676
+Are these the one you going to give me for my pain?
+
+DOCTOR X676
+Right.  The morphine and the Dilaudid.  Alright?  It is a heavy dose of narcotics, I can’t give you the refills @@@.  You will have to come in every 30 days to get them.
+
+PATIENT X676
+Okay.
+
+DOCTOR X676
+You can come in, you know, @@@ an appointment @@@ but you won’t be able to cash in on that until the 30 days are up.  You know what I am saying?
+
+PATIENT X676
+Yea, I got you.
+
+DOCTOR X676
+Yea.  Alright.
+
+PATIENT X676
+In 30 days I can come in.  
+
+DOCTOR X676
+Exactly.  Alright.
+
+PATIENT X676
+@@@.
+
+DOCTOR X676
+@@@.
+
+PATIENT X676
+Okay.  What about the stomach pills?  
+
+DOCTOR X676
+Yea, those too.
+
+PATIENT X676
+Okay.  Alright.
+
+DOCTOR X676
+@@@ and the @@@.
+
+PATIENT X676
+Now but the @@@, pick me up and bring me to my appointment?
+
+DOCTOR X676
+Yea I am going to fill out the encounter form.
+
+PATIENT X676
+I don’t send anything to them?
+
+DOCTOR X676
+Right.  Ah, we got the letter.
+
+PATIENT X676
+Okay then.  
+
+DOCTOR X676
+And then I am going to refill your albuterol.  I am putting in those orders for @@@.
+
+PATIENT X676
+Okay then. 
+
+DOCTOR X676
+You got to get your flu shot.
+
+PATIENT X676
+Okay, I go over here?
+
+DOCTOR X676
+Yea right over there.
+
+PATIENT X676
+The flu shot and ah?
+
+DOCTOR X676
+And a Tdap.
+
+PATIENT X676
+Alright.  Okay thanks man.
+
+DOCTOR X676
+@@@.
+
+PATIENT X676
+I appreciate it.  @@@.  Okay.
+
+DOCTOR X676
+@@@.
+
+PATIENT LEAVES:  50:33
+
+
+
+
+

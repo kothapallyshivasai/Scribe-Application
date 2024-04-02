@@ -1,0 +1,791 @@
+
+DOCTOR X464
+PATIENT?  Have a seat.
+
+PATIENT X464
+Okay.
+
+DOCTOR X464
+How you doing?
+
+PATIENT X464
+@@@.
+
+DOCTOR X464
+So um, any problems today?
+
+PATIENT X464
+Yeah.  Uh the one thing I was running late and ran out of the office, I forgot my what's that thing, that meter, glucose meter.
+
+DOCTOR X464
+Okay.  So you don't have your log with you?
+
+PATIENT X464
+Hmm?
+
+DOCTOR X464
+Did you bring a log of your blood sugars?
+
+PATIENT X464
+No I didn't bring the log cause I had too many stops.  There's a lot of things that's happened since the last time, that's what I'm saying uh, @@@ exam and that threw me off.  I was thinking of tracking everything but as far as taking you know @@@ that was that until uh then I had another personal problem.
+
+DOCTOR X464
+What kind of personal problems?
+
+PATIENT X464
+Uh so but I think, I can tell you what the uh, what the numbers are.
+
+DOCTOR X464
+Okay.
+
+PATIENT X464
+They been running in the high twos and low threes.
+
+DOCTOR X464
+Okay.
+
+PATIENT X464
+Now go ahead, I'll ask you these questions at the end.
+
+DOCTOR X464
+No you ask me your questions first.
+
+PATIENT X464
+Um it's about the medication.  Now I been on this medication for a while and it doesn't seem to be bringing the numbers down.
+
+DOCTOR X464
+The insulin?
+
+PATIENT X464
+Yeah.
+
+DOCTOR X464
+You're not on a very high dose and you're not going up on it that fast because you, the last time you were here we were trying to get you to at least in the low 100s okay and that would be good but your A1c, your three months blood sugars is not showing that and so that's why I sent you over to the diabetes pharmacist so that you could go up on the insulin to get your sugars controlled okay.
+
+PATIENT X464
+What?
+
+DOCTOR X464
+Um I saw that you missed a couple of appointments with them uh.
+
+PATIENT X464
+Well.
+
+DOCTOR X464
+They wanted to see you at the end of December.
+
+PATIENT X464
+Right.
+
+DOCTOR X464
+It sounds like you had some personal.
+
+PATIENT X464
+Yeah but that's not, that day something, either the weather and I called and worked the system asking me do you want to cancel or do you want to reschedule and I told it I want to reschedule.  They said we'll be sending you out this information.
+
+DOCTOR X464
+Uh-huh.
+
+PATIENT X464
+They never sent it out.  The only way I got it is that I redid it myself.  Your appointment and their appointment so I don't know why.
+
+DOCTOR X464
+When do you go see them next?
+
+PATIENT X464
+What's that?
+
+DOCTOR X464
+Today at what time?
+
+PATIENT X464
+After you.
+
+DOCTOR X464
+Okay.
+
+PATIENT X464
+They said I had two appointments.
+
+DOCTOR X464
+Okay.  Yeah.  And you had a little bit of wait for us so you'll have a hard time getting to the other one on time.  Um.
+
+PATIENT X464
+Well.
+
+DOCTOR X464
+You know, do you need to.  How much insulin are you taking right now?
+
+PATIENT X464
+30.
+
+DOCTOR X464
+30 okay.  They had asked you to go up on it by um 2 units every four days because it is still high.  Have you been doing that?
+
+PATIENT X464
+Well they told me that.
+
+DOCTOR X464
+Uh-huh.
+
+PATIENT X464
+2 units every four days.
+
+DOCTOR X464
+Yeah until your sugars come down to the 100s in the morning.  But that, you know that takes a lot of checking on your part so if you don't, if you have other things going on and you're not checking your sugars, you know you definitely have a lot work to do on your diabetes.  Okay.  And I understand that sometimes personal problems, you know things going on in your personal life that may affect it but you know we definitely have a lot of work to do.  Um going up on the insulin, I mean we may have you come up to giving insulin twice a day or adding um an insulin that you take with meals but.
+
+PATIENT X464
+With what?
+
+DOCTOR X464
+With meals.
+
+PATIENT X464
+Okay, okay.
+
+DOCTOR X464
+Another shot with each meal that you eat.  Um but that takes a lot of work on your part as well.  I mean you are writing everything down and putting it in a log so you know what to do um.
+
+PATIENT X464
+Right.  Any guess on how many doctors ever go here to the VA, I probably @@@.
+
+DOCTOR X464
+Um I'm gonna let the diabetes pharmacist change your insulin okay.  
+
+PATIENT X464
+Change it to the 2.
+
+DOCTOR X464
+Well uh yeah.  I'll let them talk to you about what to, this has also been like all day long um and so you know you should be going to see her every month until we get this under better control okay.
+
+PATIENT X464
+Okay.
+
+DOCTOR X464
+Um so I'm not going to change anything but I can tell you, when you see her I'll let her do that when you see her after we're done okay.
+
+PATIENT X464
+Alright.
+
+DOCTOR X464
+Um.
+
+PATIENT X464
+Now okay go ahead you go first.
+
+DOCTOR X464
+What else do you need to talk to me about?
+
+PATIENT X464
+Meds.
+
+DOCTOR X464
+What about them?
+
+PATIENT X464
+I am completely out of.
+
+DOCTOR X464
+Uh-huh.
+
+PATIENT X464
+Meds and like.
+
+DOCTOR X464
+You have refills on most of them.  
+
+PATIENT X464
+So when I call they tell me uh you don't have any more refills but you gonna see the doctor here and I say really, @@@ your meds.
+
+DOCTOR X464
+You have um three refills on the Levitra.
+
+PATIENT X464
+On what?
+
+DOCTOR X464
+Levitra, you have three refills on those.
+
+PATIENT X464
+Oh I ain't worried about that.
+
+DOCTOR X464
+Um hydralazine you are out of.
+
+PATIENT X464
+Right.
+
+DOCTOR X464
+Um so I renewed it.
+
+PATIENT X464
+And I'm out of @@@.
+
+DOCTOR X464
+How much of the, so you're just taking 60 mg a day?
+
+PATIENT X464
+How much?
+
+DOCTOR X464
+60 mg?  Your blood pressure is still high today.
+
+PATIENT X464
+Well when I first came in and she took it, it was 130.
+
+DOCTOR X464
+4.
+
+PATIENT X464
+Yeah and then we got talking about something else and that raised it up.
+
+DOCTOR X464
+Yeah but it's still too high.
+
+PATIENT X464
+Okay.
+
+DOCTOR X464
+Um so let me, I'm going to increase the hydralazine okay.
+
+PATIENT X464
+That's the orange pill.
+
+DOCTOR X464
+It's the one you take three times a day.
+
+PATIENT X464
+That's the orange pill.
+
+DOCTOR X464
+Um.
+
+PATIENT X464
+I'm out of that.  I'm out of lisinopril.
+
+DOCTOR X464
+That you have one refill on.
+
+PATIENT X464
+And uh.
+
+DOCTOR X464
+That's the cholesterol medicine.
+
+PATIENT X464
+I'm low on the uh, on the uh what is that little white pill?
+
+DOCTOR X464
+Let's see.  
+
+PATIENT X464
+I mean like I got to pick these up today.
+
+DOCTOR X464
+Yeah you can, I mean I'm putting them in here so you can just pick them up on your way out alright.
+
+PATIENT X464
+Yeah cause I'm about, should have, I need a refill on the insulin.
+
+DOCTOR X464
+So I'm gonna let.
+
+PATIENT X464
+You know if they do it.
+
+DOCTOR X464
+Yeah well they're gonna change it today and I'm gonna change that one out for you okay.  So it, I did everything except the insulin okay.  So you have refills on everything except the insulin.
+
+PATIENT X464
+Okay.
+
+DOCTOR X464
+Okay.  Do you still want the Tylenol?
+
+PATIENT X464
+No I got those @@@.
+
+DOCTOR X464
+Yeah.  So the blood pressure you know 134 is still too high, especially when you have diabetes.
+
+PATIENT X464
+Yeah nobody told me with diabetes you don't want it over 130.
+
+DOCTOR X464
+And they want it under 120.
+
+PATIENT X464
+120?
+
+DOCTOR X464
+Yeah.
+
+PATIENT X464
+I never heard that.
+
+DOCTOR X464
+So we'll just increase the hydralazine.
+
+PATIENT X464
+Okay.
+
+DOCTOR X464
+So if you have any left at home or.
+
+PATIENT X464
+I don't have, I took the last one this morning.
+
+DOCTOR X464
+Okay.  So what we'll, we'll increase the hydralazine okay.
+
+PATIENT X464
+Okay let me ask you something now, all the rest of the pills I get 90 days worth cause I always take them once a day.  I get 90 days.
+
+DOCTOR X464
+Do you want 90 days of the hydralazine?
+
+PATIENT X464
+Yeah cause I always run out of that.
+
+DOCTOR X464
+Oh.
+
+PATIENT X464
+Because I'm taking it three times a day.
+
+DOCTOR X464
+You take the, so I have a 90 days supply put in.  So they'll give you a 90 day supply today on that.
+
+PATIENT X464
+Okay and these are going to be increased dosage?
+
+DOCTOR X464
+We're gonna increase the dose from @@@.
+
+PATIENT X464
+So when I go home and take my second one I'll just take one of these.
+
+DOCTOR X464
+Yes.
+
+PATIENT X464
+And then one tonight.
+
+DOCTOR X464
+Uh-huh.
+
+PATIENT X464
+Okay.
+
+DOCTOR X464
+Alright.  Um let's see what else, any problems with shortness of breath?  Okay.  No chest pain or anything like that?
+
+PATIENT X464
+Nope.  In fact, well I shouldn't say this but I think it must not be right.  I used to have problems with my legs as far as them swelling.
+
+DOCTOR X464
+Is that better?
+
+PATIENT X464
+It hasn't done that in a long time.
+
+DOCTOR X464
+Well that's good.
+
+PATIENT X464
+And @@@.
+
+DOCTOR X464
+So that means the medicines are doing their jobs.
+
+PATIENT X464
+Huh?
+
+DOCTOR X464
+The medicines are doing their jobs.
+
+PATIENT X464
+Yeah because, like it would be like right here.
+
+DOCTOR X464
+Uh-huh.
+
+PATIENT X464
+It would be out here.
+
+DOCTOR X464
+Yeah.
+
+PATIENT X464
+You know what I mean and then there's nothing in the ankles.
+
+DOCTOR X464
+Yeah.  Um let's see last time in December we checked your cholesterol.  Your cholesterol is not quite where we need it to be.
+
+PATIENT X464
+It was under 200 the last time I took it, what is it?
+
+DOCTOR X464
+So your total cholesterol was 300 in December okay.  The bad cholesterol is 119 and when you have diabetes we want it under 70 okay.  Um and given your history of heart problems in the past okay.  So you're on, let's see, you're on the um simvastatin 80 mg.
+
+PATIENT X464
+I take them once every night.
+
+DOCTOR X464
+Let's see.
+
+PATIENT X464
+There's three pills I take at night, that one, the prostate medicine and the uh orange pill.
+
+DOCTOR X464
+Let's see.  Well I'll have to see what, you're on the highest dosage that we have here so I'll have to talk to DOCTOR about you know if we can get you a different medicine uh or what we can do.  Uh but you're cholesterol needs to come down so okay.
+
+PATIENT X464
+I brought it down cause the last time I.
+
+DOCTOR X464
+It was down back a year ago but when we tested it in December it was back up.
+
+PATIENT X464
+Well I'm taking @@@.
+
+DOCTOR X464
+And we checked it today and it's not back yet.  The thing is if that comes back, the blood that you had done this morning, it looks like your kidney function is not doing the best.  Have you ever seen the kidney doctors?
+
+PATIENT X464
+No.
+
+DOCTOR X464
+Okay.  Um you're seeing the urologist right for your um, for your cancer of the prostate right?
+
+PATIENT X464
+Uh-huh.
+
+DOCTOR X464
+No problems there?
+
+PATIENT X464
+Uh uh.  I got an appointment with him in a couple of weeks.
+
+DOCTOR X464
+Okay it's likely the worsened kidney function is from your diabetes okay and the high blood pressure.  Your blood pressure has been uncontrolled you know in the past you probably you've had it @@@ but right now it's okay.  Um so it's just another reason to get the diabetes under control okay.  Um and yeah.
+
+PATIENT X464
+They gonna do a PSA on that?
+
+DOCTOR X464
+PSA did they check that today as well?  Um, the last time we checked it was in September and it was low, it was 0.03 so very well, that's good, no problems there.  Um so you know really getting the diabetes under control, all I'm gonna do for you today is to increase the blood pressure medicine and see if we can change the cholesterol medicine.
+
+PATIENT X464
+Okay.
+
+DOCTOR X464
+And anything else you want to talk to me about?
+
+PATIENT X464
+Uh uh.
+
+DOCTOR X464
+Okay.  Come have a seat up here.  And you said no chest pain, no shortness of breath, no belly problems, problems urinating?
+
+PATIENT X464
+@@@.
+
+DOCTOR X464
+Your going more often?
+
+PATIENT X464
+No more than before.
+
+DOCTOR X464
+That's partly because of your sugars.  Your sugar @@@ in your urine and you know all this stuff with your sugar is tied.
+
+PATIENT X464
+Uh-huh.
+
+DOCTOR X464
+It happens when the blood sugar is high.  You know, when you have @@@ go more often so.  Hopefully we can get your sugars down and we can make that better too.
+
+PATIENT X464
+I hope so.
+
+DOCTOR X464
+Deep breath, again.  @@@ during the day?  No?
+
+PATIENT X464
+Uh uh.
+
+DOCTOR X464
+@@@.  Do you check your feet every day sir?
+
+PATIENT X464
+I can't use it.
+
+DOCTOR X464
+Do you check your feet every day still?
+
+PATIENT X464
+Yes.
+
+DOCTOR X464
+Okay great.  Come back and sit over here um let me go run and talk to DOCTOR here okay and I'll be right back.
+
+PATIENT X464
+Alright.
+
+(DOCTOR OUT:  41:52  DOCTOR IN:  46:04)
+
+(Knock on the door)
+
+PATIENT X464
+Come in.
+
+SECOND DOCTOR X464
+@@@.  Are you PATIENT?
+
+PATIENT X464
+Yeah.
+
+SECOND DOCTOR X464
+I'm DOCTOR.  I'm one of the pharmacists.
+
+PATIENT X464
+I talked to you yesterday.
+
+SECOND DOCTOR X464
+Yeah, we're going to see you in the Diabetes Clinic too so.  Um let me go talk to DOCTOR, she's looking for me.
+
+PATIENT X464
+Okay.
+
+SECOND DOCTOR X464
+Just relax.
+
+PATIENT X464
+Yeah.
+
+(DOCTOR OUT:  46:21  DOCTOR IN:  49:05)
+
+DOCTOR X464
+Alright so, did the uh pharmacist stop in here?  The pharmacist?
+
+PATIENT X464
+Pharmacist?
+
+DOCTOR X464
+The pharmacist?
+
+PATIENT X464
+Well DOCTOR just stopped in here.
+
+DOCTOR X464
+Your sugar is 500 this morning.
+
+PATIENT X464
+Huh?
+
+DOCTOR X464
+Your sugar was 500 this morning.
+
+PATIENT X464
+Well @@@.
+
+DOCTOR X464
+So um they'll have to give you some refills I'm sorry some insulin so you have.  Did you eat this morning before you got the tests done?
+
+PATIENT X464
+Did I do what?
+
+DOCTOR X464
+Did you eat?
+
+PATIENT X464
+They called me yesterday and told me don't eat or drink nothing after midnight.
+
+DOCTOR X464
+Alright, you're cholesterol is all weird um.  Let's see.  Okay so we're gonna change um your cholesterol medicine.  Are you taking the @@@?
+
+PATIENT X464
+Uh-huh, everyday.
+
+DOCTOR X464
+So we're gonna change you to a different cholesterol medicine and so we'll adjust @@@ um medicine so instead of having 10 mg, we'll go up to @@@.
+
+PATIENT X464
+What @@@ med?
+
+DOCTOR X464
+The rosuvastatin.
+
+PATIENT X464
+Oh that's for the uh.
+
+DOCTOR X464
+Cholesterol.
+
+PATIENT X464
+Cholesterol.
+
+DOCTOR X464
+@@@ okay.
+
+PATIENT X464
+So when do I take that, at night like I did the other one?
+
+DOCTOR X464
+Uh-huh.  And I have to check the cholesterol medicine.  I'll be right back.
+
+PATIENT X464
+Okay.
+
+(DOCTOR OUT:  52:22  DOCTOR IN:  57:48)
+
+SECOND PERSON X464
+You know what, you're not gonna actually see the pharmacist that you thought you were gonna see, you're going to see the diabetic pharmacist and she wants you to sit in the Gold Clinic when you're done over here.
+
+PATIENT X464
+Where is the Gold Clinic.
+
+SECOND PERSON X464
+Right next door.  Just remind me when you come out and I'll let them know when you go sit down.
+
+PATIENT X464
+Okay thank you.
+
+SECOND PERSON X464
+Okay you're welcome
+
+DOCTOR X464
+Alright so um @@@.  I've added two more cholesterol medicines um and I'm gonna add another medicine to your triglycerides.  Your triglycerides today are 1200.
+
+PATIENT X464
+That's not good.
+
+DOCTOR X464
+We want it at 150 or better.
+
+PATIENT X464
+Triglycerides are bad.
+
+DOCTOR X464
+That's very bad.  Um so.  Basically all your numbers are getting worse.
+
+PATIENT X464
+I wonder why.
+
+DOCTOR X464
+Um, so we have a lot of work to do.  I'm gonna have you probably come back in six weeks to see me okay.  Uh actually if @@@ and then we need to get you in to see the kidney doctor as well.  So why don't we start with niacin first so um this medicine @@@ when you take it so I'm also giving you some aspirin to take with it.
+
+PATIENT X464
+I can't take any aspirin.
+
+DOCTOR X464
+Why not?
+
+PATIENT X464
+You bleed in the stomach.
+
+DOCTOR X464
+When did you bleed in the stomach?
+
+PATIENT X464
+Huh?
+
+DOCTOR X464
+When did you bleed in the stomach?
+
+PATIENT X464
+A couple years ago, they sent me to the hospital for a @@@.
+
+DOCTOR X464
+@@@.
+
+PATIENT X464
+Yeah.
+
+DOCTOR X464
+Was that here or somewhere else?
+
+PATIENT X464
+Was that here?
+
+DOCTOR X464
+Yeah.
+
+PATIENT X464
+No that was at uh another hospital.
+
+DOCTOR X464
+When exactly @@@ at the time.
+
+PATIENT X464
+Uh, @@@.
+
+DOCTOR X464
+@@@.
+
+PATIENT X464
+It happened before.
+
+DOCTOR X464
+Well I mean we can, aspirin helps decrease @@@ but if you can't tolerate the aspirin it's probably best @@@.
+
+PATIENT X464
+Well I had, @@@ when I was on that radiation treatment and it was just hurting more than it.
+
+DOCTOR X464
+Yeah.
+
+PATIENT X464
+You know, I can deal with that.
+
+DOCTOR X464
+But we need to; we'll start at the low dose okay.
+
+PATIENT X464
+Uh-huh.
+
+DOCTOR X464
+And we'll kind of go from there.  Um when you come back you'll have to do blood tests @@@ with the kidney doctors.  So um they'll call you with the appointment.
+
+PATIENT X464
+They'll call me?
+
+DOCTOR X464
+Uh-huh.  Okay.  So @@@, go see the pharmacist today and we need to get this under control okay.
+
+PATIENT X464
+Alright.  I have to pick up these meds here.
+
+DOCTOR X464
+You can pick up the meds here; I just sent them all over.  Alright.
+
+PATIENT X464
+Okay.  Alright DOCTOR.  I'll do my part let's hope these meds do their part.
+
+DOCTOR X464
+Yeah we need to get you on better medicines, go up on the medicines so we have a lot of work to do alright.
+
+PATIENT X464
+Alright.  Thank you.
+
+DOCTOR X464
+Alright.
+
+PATIENT X464
+You want the.
+
+DOCTOR X464
+Go to the Gold Team.
+
+PATIENT X464
+Yeah I know.
+
+DOCTOR X464
+They'll see you in the Gold Team.
+
+PATIENT LEAVES:  63:52
+
+
+
+

@@ -1,0 +1,868 @@
+
+DOCTOR X694
+PATIENT? 
+
+PATIENT X694
+Right here.
+
+DOCTOR X694
+Just go on in here.
+
+PATIENT X694
+Okay.
+
+DOCTOR X694
+I'm DOCTOR; I'll be seeing you today.  Your blood pressure is low.
+
+PATIENT X694
+Yeah.
+
+DOCTOR X694
+Do you feel bad today?
+
+PATIENT X694
+No I don't feel bad.
+
+DOCTOR X694
+No.
+
+PATIENT X694
+I feel great today.
+
+DOCTOR X694
+That's good.
+
+PATIENT X694
+I feel great; I don't feel bad at all.
+
+DOCTOR X694
+Yeah I'm just gonna close the door; you can have a seat over there.  Okay.  So you're feeling okay?
+
+PATIENT X694
+Yeah I feel great.
+
+DOCTOR X694
+Okay.
+
+PATIENT X694
+I'm feeling fine.
+
+DOCTOR X694
+Um any chest pains?
+
+PATIENT X694
+No.
+
+DOCTOR X694
+Any trouble breathing?
+
+PATIENT X694
+No.
+
+DOCTOR X694
+Any coughs?
+
+PATIENT X694
+No.
+
+DOCTOR X694
+Any fevers or chills?
+
+PATIENT X694
+No, no.
+
+DOCTOR X694
+Any belly pain?
+
+PATIENT X694
+No.
+
+DOCTOR X694
+Nausea, vomiting?
+
+PATIENT X694
+No.
+
+DOCTOR X694
+Diarrhea?
+
+PATIENT X694
+No.
+
+DOCTOR X694
+Blood in your stools?
+
+PATIENT X694
+No.
+
+DOCTOR X694
+Black stools?
+
+PATIENT X694
+No.
+
+DOCTOR X694
+Okay.  Any problems urinating?
+
+PATIENT X694
+No.
+
+DOCTOR X694
+Okay and do you feel lightheaded right now?
+
+PATIENT X694
+No.
+
+DOCTOR X694
+Do you feel dizzy?
+
+PATIENT X694
+No.
+
+DOCTOR X694
+Do you feel like you're gonna pass out?
+
+PATIENT X694
+No.  (laughs)
+
+DOCTOR X694
+And do you check your sugars regularly at home?
+
+PATIENT X694
+Yes.
+
+DOCTOR X694
+What are they usually?
+
+PATIENT X694
+What have my readings been?
+
+SECOND PERSON X694
+It was 160 today.
+
+DOCTOR X694
+160 today.  How often.
+
+SECOND PERSON X694
+They've usually been lower than that, like 135.
+
+DOCTOR X694
+What's the lowest it is?
+
+SECOND PERSON X694
+Let me see, @@@.
+
+DOCTOR X694
+Is it ever lower than 100?
+
+SECOND PERSON X694
+A hair less.
+
+DOCTOR X694
+When was the last time though?
+
+SECOND PERSON X694
+Uh see if I can find it.  Well, on a few occasions they were low but I really can't say.  When we were moving around you know it's really not that bad.
+
+DOCTOR X694
+So he doesn't really have low episodes normally?
+
+SECOND PERSON X694
+No.
+
+DOCTOR X694
+Okay and how much insulin is he using?
+
+SECOND PERSON X694
+Uh he's taking 7 with meals with three meals.
+
+DOCTOR X694
+Okay.
+
+SECOND PERSON X694
+That uh and then he's taking 60 uh.
+
+DOCTOR X694
+At night?
+
+SECOND PERSON X694
+Long-acting yes, in the morning, sorry and at night yeah.
+
+DOCTOR X694
+So you having any blurred vision?
+
+PATIENT X694
+Having any what?
+
+DOCTOR X694
+Blurry vision?
+
+PATIENT X694
+No.
+
+DOCTOR X694
+Okay um and you quit smoking and everything right since 2000?
+
+PATIENT X694
+Yeah.
+
+SECOND PERSON X694
+I think he hasn't smoked.
+
+DOCTOR X694
+Okay.  Um okay and when was the last time you saw the oncologist?  They look at your lung cancer.
+
+SECOND PERSON X694
+Been about six or eight months.
+
+DOCTOR X694
+Are you due to see them soon?
+
+PATIENT X694
+Uh not right away, I think it was rescheduled.
+
+SECOND PERSON X694
+@@@.
+
+PATIENT X694
+@@@.
+
+SECOND PERSON X694
+There were more reasons that we rescheduled it, that's all.
+
+DOCTOR X694
+Okay and you were supposed to, in June, I think it was June when you saw them?
+
+PATIENT X694
+Last uh.
+
+DOCTOR X694
+Well I see one from January that they wanted to see you in June.  When was the last CT scan of his chest?
+
+SECOND PERSON X694
+Probably uh, it should be uh prior to that to the oncology examination.  
+
+DOCTOR X694
+Okay.
+
+SECOND PERSON X694
+See what happened is he came from Florida.
+
+DOCTOR X694
+Uh-huh.
+
+SECOND PERSON X694
+From a nursing home and uh they uh he didn't bring any records with him and so they asked me to go and see if I could happen to @@@ because they wanted to uh, some information about what really happened.
+
+DOCTOR X694
+Sure.
+
+SECOND PERSON X694
+With that and so it took me a while to get that information and when I found that, I got the information for the actual treatment that he took for his lung cancer.
+
+DOCTOR X694
+Okay.
+
+SECOND PERSON X694
+And but I think @@@, well everything's fine, they think that he doesn't, you know no @@@ or follow-up and then the CT @@@.
+
+DOCTOR X694
+Okay and you don't feel like your heart is racing right now or anything like that?
+
+PATIENT X694
+No.
+
+DOCTOR X694
+Okay and you took your blood pressure medicine this morning?
+
+PATIENT X694
+Yeah.
+
+SECOND PERSON X694
+Uh let me, if I may, uh we are doing @@@.
+
+DOCTOR X694
+Uh-huh.
+
+SECOND PERSON X694
+He just started that uh two weeks ago.
+
+DOCTOR X694
+Okay.
+
+SECOND PERSON X694
+That might be the reason why his blood pressure is dropping because he's been on this medication @@@ for a while but we just recently started this exercise.
+
+DOCTOR X694
+Okay.
+
+SECOND PERSON X694
+So that might be suppressing his blood pressure because he's just never been on exercise before.
+
+DOCTOR X694
+Okay.  Yeah I mean it is low.
+
+SECOND PERSON X694
+Yeah.
+
+DOCTOR X694
+But the fact that he's not having any symptoms kind of makes me less worried.
+
+SECOND PERSON X694
+Yeah.
+
+DOCTOR X694
+Cause your blood pressure can drop for many reasons but if you're not having symptoms from it you know, if you're having infection, you're not drinking enough fluids, you're eating and drinking okay.
+
+PATIENT X694
+Uh-huh.
+
+DOCTOR X694
+And you're making good urine and still urinating @@@.
+
+PATIENT X694
+Yeah.
+
+DOCTOR X694
+I'm not getting worried about that okay.  But I'm gonna take a quick listen to your heart and lungs.  And I understand you see the neurologist and they do injections is that right?
+
+PATIENT X694
+Uh-huh.
+
+DOCTOR X694
+You had one.
+
+SECOND PERSON X694
+@@@ shot.
+
+DOCTOR X694
+Yeah and where did they do it?
+
+SECOND PERSON X694
+Well they've done, they've done it from his arm and they got it from his on the @@@ left side, the arm and the middle lower leg.
+
+DOCTOR X694
+On the left side.
+
+SECOND PERSON X694
+Right, the right side I'm sorry.
+DOCTOR X694
+Right, on both sides.
+
+SECOND PERSON X694
+Right.
+
+DOCTOR X694
+And then you had the tremor in your left hand.
+
+PATIENT X694
+Uh uh yes, yes.
+
+DOCTOR X694
+Okay, okay.  I'm gonna listen to your heart.  I'm gonna lift up your um.
+
+PATIENT X694
+@@@?
+
+DOCTOR X694
+Uh-huh.  Okay.  Take a deep breath.  One more time.  One more time.  Once more.  You can breathe normally now.  No belly pain or anything?
+
+PATIENT X694
+No.
+
+DOCTOR X694
+No pain with urination?  Can you open your mouth?  @@@.  Okay.  Are you able to move this arm at all?  Okay and then what about this arm can you move it straight up, push it up, don't let me push it down good.  Are you able to lift this leg up?  Is that an improvement from before?  Okay and what about this one?  @@@ This one again, okay good.  Okay let me grab the blood pressure machine okay.  @@@ sit up here, are you able to do that?
+
+SECOND PERSON X694
+Uh with assistance.
+
+DOCTOR X694
+With assistance.
+
+PATIENT X694
+Gotcha.
+
+DOCTOR X694
+Let's see if you can, then I have to have you lay down so I can finish examining him.
+
+SECOND PERSON X694
+I can get him up there too.  @@@.  Do you want to lay back for me?  @@@.  You can do it.
+
+DOCTOR X694
+That's great.  That's great.  Did you feel lightheaded when you stood up?
+
+PATIENT X694
+Uh uh.
+
+DOCTOR X694
+Huh?
+
+PATIENT X694
+Uh uh.
+
+DOCTOR X694
+Is it easier if you take this off or how can we?
+
+PATIENT X694
+Uh-huh.
+
+DOCTOR X694
+Let me take it off.
+
+PATIENT X694
+Okay.  
+
+DOCTOR X694
+Give me a second @@@ first okay.  133/59.
+
+PATIENT X694
+Uh-huh.
+
+DOCTOR X694
+Let me check the other arm.  Okay.  Okay hold still while I check it.  Just relax @@@.  One second okay.  Are you uncomfortable like this?  Yeah.  What's hard for you, is your back hurting?
+
+PATIENT X694
+My back.
+
+DOCTOR X694
+Okay.
+
+PATIENT X694
+@@@.
+
+DOCTOR X694
+Sorry I'll just be quick and then I can get you back in a chair okay.
+
+PATIENT X694
+Okay.
+
+DOCTOR X694
+I think it's a little bit hard because you can't move your arm out completely right.  And are you @@@ trying to make sure that nothing is going on with that.  Did you take a flu shot this year?  Okay for the last time I'll take it in this arm and then I'll let you get off the table okay.  Okay.  Alright I'm gonna go talk to DOCTOR but you can come back and have a seat here; you'll help him get back to the chair right?
+
+SECOND PERSON X694
+Yes I will.
+
+DOCTOR X694
+It's still low but.
+
+SECOND PERSON X694
+Uh-huh.
+
+DOCTOR X694
+I'll just talk to DOCTOR @@@.  And he's taking 40 of the lisinopril?
+
+SECOND PERSON X694
+Huh?
+
+DOCTOR X694
+40 mg of lisinopril?
+
+SECOND PERSON X694
+Yes.
+
+DOCTOR X694
+Okay.
+
+SECOND PERSON X694
+One half.
+
+DOCTOR X694
+One half of the 40.
+
+SECOND PERSON X694
+One half of the 40 yes.
+
+DOCTOR X694
+20 mg okay.
+
+PATIENT X694
+Huh?
+
+SECOND PERSON X694
+That's fine uh-huh.  Okay.
+
+PATIENT X694
+Pull my chair some.
+
+DOCTOR X694
+You haven't moved yet uh, sorry about this.
+
+SECOND PERSON X694
+Stay here?
+
+DOCTOR X694
+Stay there just for a second because.
+
+SECOND PERSON X694
+Okay, okay.
+
+DOCTOR X694
+You know with machines, if you want you can test it yourself so I'm going to take it on my own the blood pressure.
+
+SECOND PERSON X694
+Oh okay.
+
+DOCTOR X694
+I want it on the machine; I want to make sure it's accurate okay.
+
+SECOND PERSON X694
+Okay, okay, yes.
+
+DOCTOR X694
+Cause I'm telling, if it doesn't seem like its right they kind of like to have @@@.
+
+SECOND PERSON X694
+Okay.  Okay.
+
+DOCTOR X694
+Do you think you could take out one arm, you'll have to the right arm too just to, we're going to do that @@@ yeah so.  Sorry sir, I just want to make sure.
+
+SECOND PERSON X694
+Okay, okay.
+
+DOCTOR X694
+Okay.  Yeah it's still low.  Alright uh why don't you just stay in this chair cause I don't want you to have to keep getting up but I'll be back okay.
+
+SECOND PERSON X694
+Okay.
+
+(DOCTOR OUT:  39:10  DOCTOR IN:  55:40)
+
+DOCTOR X694
+Okay I'm sorry for @@@ but I'll be back in a couple of minutes okay.
+
+SECOND PERSON X694
+Okay.
+
+PATIENT X694
+The nurse.
+
+SECOND PERSON X694
+She's the doctor.
+
+PATIENT X694
+Doctor.
+
+DOCTOR X694
+You want him back into the wheelchair?
+
+PATIENT X694
+Yeah I will in one second.
+
+DOCTOR X694
+You can do that; sorry I need to put in this.
+
+PATIENT X694
+Okay.
+
+(DOCTOR OUT:  56:06  DOCTOR IN:  60:03)
+
+DOCTOR X694
+Okay, so what we're gonna do is we're just gonna stop the blood pressure medication now okay.
+
+SECOND PERSON X694
+Oh yeah.
+
+DOCTOR X694
+And do you have a blood pressure cuff at home?
+
+SECOND PERSON X694
+No.
+
+DOCTOR X694
+Okay so I'll.
+
+SECOND PERSON X694
+We had one and uh.
+
+DOCTOR X694
+We'll get you one.
+
+SECOND PERSON X694
+Thanks.
+
+DOCTOR X694
+And I want you to check his blood pressure at home and if you notice it coming up higher then we can.
+
+SECOND PERSON X694
+Just notify you.
+
+DOCTOR X694
+Yeah we can note it, yeah.
+
+SECOND PERSON X694
+Start it back again.
+
+DOCTOR X694
+Yeah but right now we want to stop it.
+
+SECOND PERSON X694
+Right.
+
+DOCTOR X694
+And obviously if he has any symptoms from it or if you feel lightheaded or you feel like you're gonna pass out or you start having diarrhea, anything to make us think that you're losing volume, then we'd be worried and we'd want you to come into the ER okay.  But right now you're not having any symptoms right?
+
+PATIENT X694
+Uh uh.
+
+DOCTOR X694
+So you're feeling fine so there's nothing to do for you right now besides stop the medication.
+
+PATIENT X694
+Okay.
+
+DOCTOR X694
+Does that sound okay?
+
+PATIENT X694
+Okay.
+
+DOCTOR X694
+Um and then there is one lab that I want to check and that's the three months average of the blood sugars just to see where it's going um by what you're telling me I think it'll be in the right range.
+
+SECOND PERSON X694
+Okay.
+
+DOCTOR X694
+So um.
+
+SECOND PERSON X694
+We can get that done before we leave here.
+
+DOCTOR X694
+If it stays around 100 that's fine but if it starts going up above 120 then we want to restart it okay.
+
+SECOND PERSON X694
+Okay.
+
+DOCTOR X694
+But we want you to call and let us know.
+
+SECOND PERSON X694
+Sure.
+
+DOCTOR X694
+Okay if you start noticing anything different.
+
+SECOND PERSON X694
+Okay.
+
+DOCTOR X694
+But I'm just gonna, I want him to schedule an appointment with the oncologist in a couple weeks, they wanted to repeat the CT scan, it will be time for him to follow up again anyway.
+
+SECOND PERSON X694
+Yeah thank you.
+
+DOCTOR X694
+Everything else is fine.  I'll see him back in a couple months.
+
+SECOND PERSON X694
+Okay.  Now that paperwork I left, so when can I pick it up?
+
+DOCTOR X694
+When did you leave it, just now?
+
+SECOND PERSON X694
+A week ago.
+
+DOCTOR X694
+Who did you leave it with?
+
+SECOND PERSON X694
+The nurse.
+
+DOCTOR X694
+Here?
+
+SECOND PERSON X694
+Yes.
+
+DOCTOR X694
+Um do you know which nurse you left it with?
+
+SECOND PERSON X694
+NAME.
+
+DOCTOR X694
+NAME?
+
+SECOND PERSON X694
+NAME.
+
+DOCTOR X694
+Okay I'll talk to her.  Do you want to get it now?
+
+SECOND PERSON X694
+Yes please.
+
+DOCTOR X694
+Okay and let me put in uh for the blood pressure monitor.  
+
+SECOND PERSON X694
+So I'll move the chair.  Thank you.
+
+DOCTOR X694
+Sorry @@@.
+
+PATIENT X694
+No.
+
+SECOND PERSON X694
+Could you make sure he has all the refills?
+
+DOCTOR X694
+Uh-huh yeah I'll be putting them in.  I know, I know.  I'll be seeing him though.  Um so do you know where Prosthetics is?
+
+SECOND PERSON X694
+Uh-huh upstairs?
+
+DOCTOR X694
+Yeah that's where you can get the blood pressure cuff from.
+
+SECOND PERSON X694
+Okay.
+
+DOCTOR X694
+Oh do want them sent to your house?
+
+SECOND PERSON X694
+No, no, no.
+
+DOCTOR X694
+Okay.
+
+SECOND PERSON X694
+We rather go pick it up if they have them.
+
+DOCTOR X694
+Okay so I put the order in okay.
+
+SECOND PERSON X694
+Alright thanks.
+
+DOCTOR X694
+So you're gonna go.
+
+SECOND PERSON X694
+Uh-huh.
+
+DOCTOR X694
+And why don't, you can go ahead and start checking out, I'll meet you out there and I'll fill out the form.
+
+SECOND PERSON X694
+Form?  Oh the paperwork okay.
+
+DOCTOR X694
+The forms that you'd left.
+
+SECOND PERSON X694
+Okay.
+
+DOCTOR X694
+Okay.
+
+SECOND PERSON X694
+Okay.  I'll get it.
+
+DOCTOR X694
+Um are you coming back any time?
+
+SECOND PERSON X694
+Huh?
+DOCTOR X694
+Is he coming back any time?  Are you coming back to the VA any time soon?
+
+SECOND PERSON X694
+Yeah.
+
+DOCTOR X694
+When will he be back here?
+
+SECOND PERSON X694
+Uh the 12th I think.
+
+PATIENT X694
+12th I think.
+
+DOCTOR X694
+12th yeah to get the, they'll check, do they check the blood pressure there?  Cause okay.
+
+SECOND PERSON X694
+Yeah.  But that's the Nail Clinic you're going to.
+
+PATIENT X694
+@@@.
+
+SECOND PERSON X694
+I don't recall it.
+
+DOCTOR X694
+Oh December 30th is nail care.
+
+SECOND PERSON X694
+No but who does he see on the 12th?
+
+DOCTOR X694
+No it's not December 12th, it's January 12th.
+
+SECOND PERSON X694
+Oh okay.
+
+DOCTOR X694
+For his postop.
+
+SECOND PERSON X694
+So you want it checked on December 30th?
+
+DOCTOR X694
+Yeah.
+
+SECOND PERSON X694
+Oh okay.
+
+DOCTOR X694
+The only thing is to have him come back in here for a blood pressure check but if you're gonna be here, you don't have to come in here @@@.  Is that okay?
+
+SECOND PERSON X694
+That sounds good okay.
+
+DOCTOR X694
+So obviously call or come in if there's something abnormal.
+
+SECOND PERSON X694
+Yeah.
+
+DOCTOR X694
+Even though you've @@@ medications if the level drops then @@@.
+
+SECOND PERSON X694
+Right, alright.
+
+DOCTOR X694
+I'll go get the forms and I'll check with NAME.
+
+SECOND PERSON X694
+Okay thanks.
+
+DOCTOR X694
+Right over here, sorry do you want to @@@.
+
+SECOND PERSON X694
+Okay, okay.  Take care.  Hold on here I'll be right back.
+
+DOCTOR X694
+@@@.
+
+SECOND PERSON X694
+Yeah.
+
+DOCTOR X694
+Okay.
+
+PATIENT LEAVES:  65:40
+
+Time is 2:55.
+
+
+
+

@@ -1,0 +1,1213 @@
+
+DOCTOR X193
+PATIENT?
+
+PATIENT X193
+Yep.  
+
+DOCTOR X193
+Pleased to meet you.  @@@.  Hmm, who is your primary, I'm following your comments.
+
+PATIENT X193
+I had.
+
+DOCTOR X193
+What happened?
+
+PATIENT X193
+I can't even remember @@@.
+
+DOCTOR X193
+Oh okay, so what brings you in today?
+
+PATIENT X193
+Well actually it's several things.
+
+DOCTOR X193
+Uh-huh.
+
+PATIENT X193
+The main one is my breathing pattern with some anxiety, @@@.
+
+DOCTOR X193
+Oh, okay.
+
+PATIENT X193
+The last several times @@@.
+
+DOCTOR X193
+Okay.
+
+PATIENT X193
+But I also have some blood in my stool.
+
+DOCTOR X193
+Today?
+
+PATIENT X193
+Not today, some days.
+
+DOCTOR X193
+Okay how much blood is in it. 
+
+PATIENT X193
+Serious amounts, it's about the color of that switch right there where that help is.
+
+DOCTOR X193
+How many times have you had happen?
+
+PATIENT X193
+Just that one time.
+
+DOCTOR X193
+Okay.
+
+PATIENT X193
+But it scared me to see it was all clotted up and bright red @@@.
+
+DOCTOR X193
+Okay.
+
+PATIENT X193
+And I knew I hadn't eaten anything that would cause that.
+
+DOCTOR X193
+Right.
+
+PATIENT X193
+Uh there's a possibility that you know a hemorrhoid popped or something.
+
+DOCTOR X193
+Yeah.
+
+PATIENT X193
+I guess that's a possibility that I would have thought.
+
+DOCTOR X193
+Did you have rectal pain?
+
+PATIENT X193
+No.
+
+DOCTOR X193
+No pain when you were wiping?
+
+PATIENT X193
+No, except there was blood.
+
+DOCTOR X193
+So did you see blood when you were wiping?
+
+PATIENT X193
+Right.
+
+DOCTOR X193
+Without even wiping?
+
+PATIENT X193
+Oh no, I looked in the bowl.  You know, I could tell something wasn't right because the stool was a little bit loose.
+
+DOCTOR X193
+Okay.
+
+PATIENT X193
+And so I was looking down and oh my God, there was a lot of blood.
+
+DOCTOR X193
+Okay.
+
+PATIENT X193
+And uh I'm gonna guess, if I were measuring it probably a quarter cup of.
+
+DOCTOR X193
+Okay.
+
+PATIENT X193
+Of serious uh blood.  Now I also noticed that here lately my urine has been darkening up quite a bit.
+
+DOCTOR X193
+Uh-huh.
+
+PATIENT X193
+Which in the olden days that would have been indicating my rheumatic fever was acting up uh; however, I don't think I that's the case any more.  There's a real heavy odor to it.
+
+DOCTOR X193
+Uh-huh.
+
+PATIENT X193
+Uh, I'm concerned.  I tell you what, I take @@@ uh Humira. 
+
+DOCTOR X193
+Uh-huh.
+
+PATIENT X193
+For RA and I know that it masks the symptoms of cancer.
+
+DOCTOR X193
+Hmm.
+
+PATIENT X193
+And that's my major concern, yeah that's the way it goes.
+
+DOCTOR X193
+Is that, do you have bladder cancer?
+
+PATIENT X193
+Well I don't know it could be liver, it could be kidney or anything.  It could be a lot of different kinds.
+
+DOCTOR X193
+Uh-huh.  Okay.
+
+PATIENT X193
+Uh could I have rectal cancer?  Is that a possibility?  I could have something like that @@@.
+
+DOCTOR X193
+Uh-huh.
+
+PATIENT X193
+So uh, so I'm more than a little concerned about the blood so.
+
+DOCTOR X193
+Right.
+
+PATIENT X193
+And I'm hoping that you send me downstairs and get a series of tests done.
+
+DOCTOR X193
+Yeah the only problem is, well let's see.  Just to have things come back faster.
+
+PATIENT X193
+Uh-huh, well you don't have to do it faster.
+
+DOCTOR X193
+You know we may.  How's your breathing?
+
+PATIENT X193
+My breathing right now is uh; let me put it this way, its worse if I lay down.
+
+DOCTOR X193
+Uh-huh.
+
+PATIENT X193
+I've got mucous so I need a mucolytic of some sort.
+
+DOCTOR X193
+You're coughing up a lot?
+
+PATIENT X193
+In the morning I cough up a hairball, I mean a really hard matter of smack.
+
+DOCTOR X193
+Okay.  Does it feel like your COPD?
+
+PATIENT X193
+I'm sure that the COPD is uh being uh fed by the uh drainage.  You know I'm sure that it's causing the COPD to react.
+
+DOCTOR X193
+Uh-huh.  Postnasal drainage?
+
+PATIENT X193
+Yeah.
+
+DOCTOR X193
+Okay when did all of this start?
+
+PATIENT X193
+Oh God it's been @@@.  A couple times I've been in.
+
+DOCTOR X193
+I mean is @@@ coming and going?
+
+PATIENT X193
+Well actually it never seems to go away.  It lightens up a while when I'm taking the antibiotics and the prednisone.
+
+DOCTOR X193
+Uh-huh.
+
+PATIENT X193
+And almost two, three days later I'm right back where I left.  I've had this a number of times now so I don't, they're pretty sure it's an exacerbation of COPD, probably being caused by the postnasal drainage and the fact that, you know when you stop @@@ it makes it a little harder to get a breath in to begin with and then you start you know coughing @@@.
+
+DOCTOR X193
+So when were your last @@@ thing?
+
+PATIENT X193
+Well about four weeks ago.  No two weeks ago cause I @@@.
+
+DOCTOR X193
+Okay and when are you going to see DOCTOR again?
+
+PATIENT X193
+I think that's the end of next week.
+
+DOCTOR X193
+Okay.
+
+PATIENT X193
+I could be wrong but you can check that.  I think possibly next Thursday I see him.
+
+DOCTOR X193
+Um have you been treated off and on with prednisone and antibiotics.
+
+PATIENT X193
+Yeah.
+
+DOCTOR X193
+For years?
+
+PATIENT X193
+Probably even longer than that.
+
+DOCTOR X193
+Off and on?
+
+PATIENT X193
+Off and on.  Since I came back from Arizona two years ago I've felt, at first they saw stuff in my lungs and x-rays and CAT scans that they couldn't figure out and uh they thought that maybe you know there was a possibility I had some kind of a disease or a fungal disease cause I'd been out in the southwest.  
+
+DOCTOR X193
+Uh-huh.
+
+PATIENT X193
+It turned out that wasn't the case.  They tested for I can't tell you how many different types and they know I've got COPD.  They know that I have some kind of issue that's causing the drainage so.  And eventually I keep getting sicker with breathing problems.
+
+DOCTOR X193
+Do you feel like your breathing is more labored?
+
+PATIENT X193
+Oh yeah.
+
+DOCTOR X193
+Are you wheezing more or?
+
+PATIENT X193
+Well actually I do wheeze but then it's more a medical treatment.  It's hard really to know to say which one was worse; it's the fact that it's hard to get a breath.
+
+DOCTOR X193
+Uh-huh.
+
+PATIENT X193
+Or sometimes @@@.
+
+DOCTOR X193
+Do you have a neb machine at home?
+
+PATIENT X193
+Yes I do and it's actually in my car.  I have @@@ in my car.
+
+DOCTOR X193
+Okay.  Have you given yourself a breathing treatment today?
+
+PATIENT X193
+Uh I may have taken about three.
+
+DOCTOR X193
+Okay.
+
+PATIENT X193
+One on the way here and two before that and I have taken a puff of albuterol.  
+
+DOCTOR X193
+And you're coughing up more sputum.  What color is it?
+
+PATIENT X193
+Grey.  The infection is pretty ended at this point.
+
+DOCTOR X193
+@@@.  You've had a fever today?
+
+PATIENT X193
+I got a fever right now.  Uh I was at 98 something she said.
+
+DOCTOR X193
+What do you normally run?
+
+PATIENT X193
+I'm normal at 97.6, 97.4.
+
+DOCTOR X193
+Are you that warm at home?
+
+PATIENT X193
+Yeah, I'll actually may walk halfway to the top and end up having to restart @@@.  So if I have a cold or something to go along with all those issues, that's a problem too.  So I end up taking a cold medicine at this point in time.
+
+DOCTOR X193
+Any chills?
+
+PATIENT X193
+Well, actually what happens is you take your shirt off cause you're just soaking wet and oh I try to dry off as best I can.
+
+DOCTOR X193
+Yeah.
+
+PATIENT X193
+But then yeah eventually I start being like chilled.
+
+DOCTOR X193
+Okay.  So kind of warm and chilled for how long now?
+
+PATIENT X193
+That's been going on for at least a week.
+
+DOCTOR X193
+Okay.  Have you been tested for tuberculosis?
+
+PATIENT X193
+Yes.
+
+DOCTOR X193
+Okay when did you have that?
+
+PATIENT X193
+About 500 times.  Well the first time has been about ten years or eight years ago when they started me on Humira but every third year, two years ago or three years ago when I went there @@@ when I came back, that report was one of the top things on the list that they were worried about so they went ahead and gave me the @@@ steps and uh I think I've gotten two or three times subsequently.
+
+DOCTOR X193
+Okay.
+
+PATIENT X193
+Just in case.  And the x-ray, I've looked at that and prevention is a couple of things here but do I think that's the problem now, uh probably not.  Now I'll be happy to take a stress test if you want it but my concern is possible cancer and uh I mean I could probably get by until next week and see DOCTOR to get the prednisone and the antibiotics.
+
+DOCTOR X193
+When was your last chest x-ray?  October.
+
+PATIENT X193
+Uh.
+
+DOCTOR X193
+You had a CT in April.
+
+PATIENT X193
+Yep.
+
+DOCTOR X193
+You had a chest x-ray before then.
+
+PATIENT X193
+Yeah I think I've got another CT coming up next Thursday.
+
+DOCTOR X193
+Uh-huh.  Uh you're probably right in the middle where you look fine but some of your symptoms are concerning and you need the breathing treatments @@@ and of course you have fevers.
+
+PATIENT X193
+Yeah.
+
+DOCTOR X193
+Uh I want to talk about @@@ about you going home with the treatment that you had before or maybe going to the Emergency Room so that you can have a chest x-ray and get it read, you get @@@, we get everything that you need @@@ you know.  Uh we'll see let me talk to my attending.
+
+PATIENT X193
+Okay.  Whatever.
+
+DOCTOR X193
+And then the blood in the stool, so that happened how many times?
+
+PATIENT X193
+It's happened more than once but this one was @@@.
+
+DOCTOR X193
+So how long has that been going on?
+
+PATIENT X193
+Wasn't the same.
+
+DOCTOR X193
+The blood in the stool?
+
+PATIENT X193
+Uh probably several months but that's, you know I had treated it probably because I couldn't handle it you know and it was never in this large of amount.  You know I would go back and wipe and you know there's a little blood or something like that it's uh.
+
+DOCTOR X193
+When was your last colonoscopy?
+
+PATIENT X193
+Uh I want to say two years, three years ago.
+
+DOCTOR X193
+Was that here?
+
+PATIENT X193
+Yeah.  Yeah I've had a couple of them actually.
+
+DOCTOR X193
+@@@.
+
+PATIENT X193
+Uh probably three weeks ago.
+
+DOCTOR X193
+I don't see where it was done.
+
+PATIENT X193
+Pardon?
+
+DOCTOR X193
+I don't see that it was done.
+
+PATIENT X193
+You don't see that it was done.
+
+DOCTOR X193
+I see that they took @@@.
+
+PATIENT X193
+Oh no, I've had two of them.
+
+DOCTOR X193
+@@@.  
+
+PATIENT X193
+Yeah I've had two and they were all negative.
+
+DOCTOR X193
+Okay did you feel dizzy or like you were going to pass out?
+
+PATIENT X193
+When they did it?
+
+DOCTOR X193
+When you had the blood in your stool on Sunday?
+
+PATIENT X193
+Actually yeah I did feel a little bit lightheaded.
+
+DOCTOR X193
+Okay.  We did @@@.  @@@ a problem?  You started tamsulosin.  A little prostate problem @@@ but they didn't say that @@@.  How did you find out about @@@?
+
+PATIENT X193
+Well uh I guess guy to another, @@@ normally prostate @@@ mentioned.  Not that they were serious or anything.
+
+DOCTOR X193
+Uh-huh.  Okay.
+
+PATIENT X193
+Usually once a year somebody's got a prostate gland you know they were problem inflamed one time.
+
+DOCTOR X193
+Well how often were you having this blood in your stool before?
+
+PATIENT X193
+It's not like it was that often and it certainly was never that much.
+
+DOCTOR X193
+Every other month?  Every day or every week?
+
+PATIENT X193
+Oh no, no.
+
+DOCTOR X193
+Every week?
+
+PATIENT X193
+No nothing like that and when I could see it I'd put Prep H on that and you know pretty much.
+
+DOCTOR X193
+Are you constipated?  Do you strain for a bowel movement?
+
+PATIENT X193
+No.
+
+DOCTOR X193
+So how often was it happening?
+
+PATIENT X193
+You know it was infrequent let's put it that way.
+
+DOCTOR X193
+Okay.
+
+PATIENT X193
+Did it happen with any regularity no.  Uh did it occur, in a large amount like this no.  Usually it's just a trace amount.
+
+DOCTOR X193
+Okay.
+
+PATIENT X193
+And uh like I said in this case it was totally loose stool so then you've got no straining, no cause for a rupture of a hemorrhoid.
+
+DOCTOR X193
+And the blood was mixed with the stool?
+
+PATIENT X193
+Yes.
+
+DOCTOR X193
+Did you pass out?
+
+PATIENT X193
+No.
+
+DOCTOR X193
+Did you feel like you were having @@@?
+
+PATIENT X193
+No.
+
+DOCTOR X193
+Any chest pain?
+
+PATIENT X193
+Yes.  I just have a little amount of pain every once in a while.
+
+DOCTOR X193
+@@@.
+
+PATIENT X193
+Yes.
+
+DOCTOR X193
+Okay.  And your urine is dark?
+
+PATIENT X193
+Very dark, about the color of that box here.
+
+DOCTOR X193
+Okay.  @@@.
+
+PATIENT X193
+And it @@@ and odor.
+
+DOCTOR X193
+Okay.  How long has it been like that?
+
+PATIENT X193
+Uh a while.  I can't give you a specific time that it started, three months.
+
+DOCTOR X193
+Two or three months?
+
+PATIENT X193
+Yeah.  
+
+DOCTOR X193
+Okay.
+
+PATIENT X193
+And @@@ that day, I got a FedEx so I remember it.
+
+DOCTOR X193
+Any pain or burning when you urinate?
+
+PATIENT X193
+No.
+
+DOCTOR X193
+No blood that you can see in the urine?
+
+PATIENT X193
+What's that?
+
+DOCTOR X193
+Can you see blood in the urine?
+
+PATIENT X193
+You know it could be blood that's causing it to darken @@@.
+
+DOCTOR X193
+Have you seen blood?
+
+PATIENT X193
+Specifically no.
+
+DOCTOR X193
+Okay.
+
+PATIENT X193
+But I mean I know that if blood mixes with urine that it darkens it.
+
+DOCTOR X193
+Right.
+
+PATIENT X193
+Now that could be the cause, it's possible and like I say it's got that real sulfurous @@@.
+
+DOCTOR X193
+Okay, alright.  So your other medical illnesses are diabetes, diet controlled?  You have diabetes?
+
+PATIENT X193
+Yes.
+
+DOCTOR X193
+Okay.  @@@.
+
+PATIENT X193
+Yeah.
+
+DOCTOR X193
+Reflux.
+
+PATIENT X193
+Acid reflux.
+
+DOCTOR X193
+Okay so have you got belly pain?
+
+PATIENT X193
+No.
+
+DOCTOR X193
+Okay and how about burning?
+
+PATIENT X193
+No.
+
+DOCTOR X193
+@@@?
+
+PATIENT X193
+Yes.
+
+DOCTOR X193
+High blood pressure.
+
+PATIENT X193
+No.
+
+DOCTOR X193
+You don't have high blood pressure?
+
+PATIENT X193
+No.  No in fact my blood pressure is one of the good things about me.  I think it was 120/59 today.
+
+DOCTOR X193
+Do you drink alcohol?
+
+PATIENT X193
+No.
+
+DOCTOR X193
+Or take Advil?
+
+PATIENT X193
+Uh no, I don't take any of that stuff.  I see the @@@.
+
+DOCTOR X193
+Smoking?
+
+PATIENT X193
+Let's see my last one was three years ago in January.
+
+DOCTOR X193
+Did you quit @@@.
+
+PATIENT X193
+Yeah I had to quit.
+
+DOCTOR X193
+Okay.
+
+PATIENT X193
+@@@.
+
+DOCTOR X193
+Okay.  Are you having any problems with @@@.  
+
+PATIENT X193
+@@@ urine test, whatever.
+
+DOCTOR X193
+Okay, alrighty.  I'll have you sit here and we'll take a quick listen to you.
+
+PATIENT X193
+Shirt off?
+
+DOCTOR X193
+Uh-huh.  So are you taking the omeprazole every day?
+
+PATIENT X193
+Yep.  
+
+DOCTOR X193
+Okay.
+
+PATIENT X193
+Twice a day.
+
+DOCTOR X193
+How often are you using your Combivent?
+
+PATIENT X193
+Twice a day, two puffs.
+
+DOCTOR X193
+Formoterol?
+
+PATIENT X193
+Uh I want to say that's a capful a day, one in the morning and one in the evening.  I also take one, or is that the formoterol.
+
+DOCTOR X193
+That's your um @@@ inhaler?
+
+PATIENT X193
+Yeah I push down on it.
+
+DOCTOR X193
+That's the mometasone.
+
+PATIENT X193
+Okay.  I take that twice a day as well.  Two puffs.
+
+DOCTOR X193
+Okay, it's the pink one that you.
+
+PATIENT X193
+The twisting one.
+
+DOCTOR X193
+That may be your, I think that's the mometasone.
+
+PATIENT X193
+The mometasone I think is the one in the capsule when you put in the little grey thing.
+
+DOCTOR X193
+I can't remember what they were.
+
+PATIENT X193
+I think the pink one starts with an A.
+
+DOCTOR X193
+Deep breath.  Breath out, deep breath in and out.  Deep breath in and out.  Okay.  You can breathe normally.  Can you lie back?  @@@.
+
+PATIENT X193
+@@@.
+
+DOCTOR X193
+Oh okay.  Tell me if you have any pain here.  Can you bend your knees.  Can you bring your legs up and your knees.
+
+PATIENT X193
+Both of them?
+
+DOCTOR X193
+Uh-huh.
+
+PATIENT X193
+@@@.
+
+DOCTOR X193
+Alright, okay you can stand up.  Let's do a quick wrestle.  You know I'm leaning to send you to the Emergency Room.
+
+PATIENT X193
+For.
+
+DOCTOR X193
+A breathing treatment and @@@.
+
+PATIENT X193
+I've got a breathing treatment down in the car so there's no real need for that.  I mean there's nothing that they can give me that I don't already have.
+
+DOCTOR X193
+Yeah they can give you IV steroids.  You can't give yourself that.
+
+PATIENT X193
+Nope.  That's true but I don't think we need to do that do we?
+
+DOCTOR X193
+We may need to.
+
+PATIENT X193
+Okay.
+
+DOCTOR X193
+Okay.  Let me uh, @@@.  I need to take a listen.
+
+PATIENT X193
+Okay.
+
+DOCTOR X193
+@@@.  They do.
+
+PATIENT X193
+Oh well.
+
+DOCTOR X193
+Alright, let me put the table up for the little, okay alright.  Now lean forward, it'll be fast, this is my hand, okay.  Are you squeezing?  
+
+PATIENT X193
+No.
+
+DOCTOR X193
+Okay, alright cold lubricant.
+
+PATIENT X193
+Ohh.
+
+DOCTOR X193
+Alright all done.
+
+PATIENT X193
+Ah.
+
+DOCTOR X193
+I don't see any bright red blood from there.
+
+PATIENT X193
+You don't see what?
+
+DOCTOR X193
+No bright red blood.
+
+PATIENT X193
+Yeah I, like I said it was just that one day.
+
+DOCTOR X193
+Do you feel dizzy today?
+
+PATIENT X193
+No.  Not at all.
+
+DOCTOR X193
+Okay.  Just standing like that, I'm going to check your blood pressure.
+
+PATIENT X193
+Oh okay.  Which arm do you want?
+
+DOCTOR X193
+That one is fine.  
+
+PATIENT X193
+You should probably do that before the rectal.
+
+DOCTOR X193
+Oh.  I think you're right.  Cause it's going to be high.
+
+PATIENT X193
+It won't do anything.
+
+DOCTOR X193
+132/82.
+
+PATIENT X193
+So it's higher than a few minutes ago.
+
+DOCTOR X193
+Yeah, yeah.
+
+PATIENT X193
+Just like I figured.
+
+DOCTOR X193
+Okay, oh wow, let's weight.
+
+PATIENT X193
+Yeah I know.  So.
+
+DOCTOR X193
+Okay, let's have you sit.  Just sit for like one minute.
+
+PATIENT X193
+Oh you're going to do it again?
+
+DOCTOR X193
+Uh-huh.
+
+PATIENT X193
+So am I going to be able to get meds?
+
+DOCTOR X193
+Uh medications today?
+
+PATIENT X193
+Yeah.
+
+DOCTOR X193
+What kind of medicines do you need?
+
+PATIENT X193
+Well whatever you're going to give me I assume.
+
+DOCTOR X193
+Well.
+
+PATIENT X193
+Are you going to give me something?
+
+DOCTOR X193
+I don't know just yet.
+
+PATIENT X193
+Okay.  The reason I ask is its quarter to five and I think they close at five so.
+
+DOCTOR X193
+Yeah you may have, I don't know yet.  Okay, let's recheck it.  
+
+PATIENT X193
+What are you going to do when you get out of here?
+
+DOCTOR X193
+@@@.  118/70.
+
+PATIENT X193
+Oh yes.  When you get out of xxx what are you going to do?
+
+DOCTOR X193
+Um primary care.
+
+PATIENT X193
+Where at, local?
+
+DOCTOR X193
+I'm not sure yet, yeah local.
+
+PATIENT X193
+Are you from the xxx land area?  You're not going to hang out at the VA huh?
+
+DOCTOR X193
+No.
+
+PATIENT X193
+They aren't paying you enough for that huh?
+
+DOCTOR X193
+Okay.  Alright, let me just talk with my attending briefly.
+
+PATIENT X193
+Okay.
+
+DOCTOR X193
+And um I will be back shortly.
+
+PATIENT X193
+Alright.
+
+DOCTOR X193
+When were your last pulmonary function tests?
+
+PATIENT X193
+Oh you'd have to look it up because I don't remember to be honest with you.  I remember being in the booth, it was probably a year ago.
+
+DOCTOR X193
+I'll be back shortly.
+
+PATIENT X193
+@@@.
+
+DOCTOR X193
+Uh-huh.
+
+PATIENT X193
+Thank you.
+
+(DOCTOR OUT:  152:00  DOCTOR IN:  158:20)
+
+SECOND DOCTOR X193
+Hi PATIENT, how are you?
+
+PATIENT X193
+How you doing?
+
+SECOND DOCTOR X193
+Not too bad, yourself?
+
+PATIENT X193
+Not bad.
+
+SECOND DOCTOR X193
+So uh DOCTOR was just telling me what's going on here.  You're coughing more and uh you know.  Let me just listen to your lungs here.  Can you take a deep breath, out, again.  Okay and you're also having um bloody stools?  Okay.  So you know it's fairly complex a history and there is some wheezing in your lungs.
+
+PATIENT X193
+That's been going on for a while though, they know about that.
+
+SECOND DOCTOR X193
+Yeah, yeah, no I mean most of your wheezing is that type of history but your coughing and you're producing, you need a chest x-ray and things like that alright.
+
+PATIENT X193
+I have no problem with that.
+
+SECOND DOCTOR X193
+And the stool we need to follow up at the Emergency Room.
+
+PATIENT X193
+@@@ get it here.
+
+SECOND DOCTOR X193
+We can't do it out of here in this clinic.  You need to go to the Emergency Room.
+
+PATIENT X193
+Oh, you can't give me, have me go downstairs?
+
+SECOND DOCTOR X193
+No you need to go to the Emergency Room to follow up with that okay.  Because it's going to take hours for a routine test to be read by the radiologist, the radiologist has to read it, we can't read the films.  So the only facility here after hours is the Emergency Room.
+
+PATIENT X193
+Okay, I never want to go there so.
+
+SECOND DOCTOR X193
+Yeah.
+
+PATIENT X193
+That's why I came here to begin with.
+
+SECOND DOCTOR X193
+No I know.
+
+PATIENT X193
+If I wanted to go straight there I'd of done that and I.
+
+SECOND DOCTOR X193
+Yeah.
+
+PATIENT X193
+I don't feel like sitting around for ten hours.
+
+SECOND DOCTOR X193
+But you know you have uh.
+
+PATIENT X193
+I've got a machine in the car.
+
+SECOND DOCTOR X193
+Blood in your stool and things like that, they're going to need to check your.
+
+PATIENT X193
+Well that's why I came here.
+
+SECOND DOCTOR X193
+Yeah.
+
+PATIENT X193
+You guys would write a thing, I'd go downstairs to the Lab and they'd run whatever tests you need.
+
+SECOND DOCTOR X193
+Yeah we can do that but we need to follow up with that.  If there's been emergency stuff then.  How long have you been having bloody stools @@@?
+
+PATIENT X193
+Well like I told her one time.
+
+FIRST DOCTOR X193
+On Sunday.
+
+SECOND DOCTOR X193
+Uh-huh.
+
+PATIENT X193
+Sunday I had blood and like I was telling her a quarter cup probably @@@.
+
+SECOND DOCTOR X193
+Do you have hemorrhoids?
+
+PATIENT X193
+I've been told I had some but she couldn't see any so.
+
+FIRST DOCTOR X193
+He's had a colonoscopy before @@@.
+
+SECOND DOCTOR X193
+Okay what we can do is just the original plan, the Z-Pak, uh blood work.
+
+FIRST DOCTOR X193
+Okay.
+
+SECOND DOCTOR X193
+Blood work.
+
+FIRST DOCTOR X193
+Okay.
+
+SECOND DOCTOR X193
+The steroids and then you can follow up with your pulmonologist.
+
+PATIENT X193
+I'll see him next Thursday anyway.
+
+SECOND DOCTOR X193
+And after that we'll see if his medications need to be changed.  I don't think we need to @@@ the medications.
+
+FIRST DOCTOR X193
+No.
+
+SECOND DOCTOR X193
+Just the steroid, Z-Pak and then the blood work.
+
+FIRST DOCTOR X193
+Okay.
+
+SECOND DOCTOR X193
+And a chest x-ray.
+
+PATIENT X193
+Can they get a mucolytic to cut down on the amount of the secretions?
+
+SECOND DOCTOR X193
+No, the antibiotics should help with that okay.
+
+PATIENT X193
+Okay.
+
+SECOND DOCTOR X193
+We don't want that necessarily.
+
+PATIENT X193
+Okay.
+
+FIRST DOCTOR X193
+Okay.  Alright.
+
+SECOND DOCTOR X193
+Okay, take care.
+
+FIRST DOCTOR X193
+I'll put that in for your blood work at the Lab and your antibiotics and steroids.
+
+SECOND DOCTOR X193
+Yeah if you get worse you need to come to the Emergency Room.
+
+PATIENT X193
+I will.  Thank you.
+
+FIRST DOCTOR X193
+No problem.
+
+PATIENT X193
+You've been @@@.  Now about a urine test for @@@ matter?
+
+SECOND DOCTOR X193
+Yeah she can order all that.  @@@.
+
+FIRST DOCTOR X193
+@@@.
+
+SECOND DOCTOR X193
+So that's the thing, I mean you probably should have been evaluated in the Emergency Room.  They can follow up with all of these things but.
+
+PATIENT X193
+But you can do the tests here I mean.
+
+FIRST DOCTOR X193
+Not after hours we can’t.
+
+PATIENT X193
+Oh I see what you're saying.
+
+SECOND DOCTOR X193
+It's going to take and it's going to delay, overnight.
+
+PATIENT X193
+Well I'm not going to die in the next 24 hours.  If something gets worse @@@.
+
+SECOND DOCTOR X193
+That's what I'm talking about, overnight if something happens you need to come to the Emergency Room.
+
+PATIENT X193
+Right.
+
+SECOND DOCTOR X193
+Okay.
+
+PATIENT X193
+That's fine.
+
+FIRST DOCTOR X193
+Okay.
+
+SECOND DOCTOR X193
+Thanks DOCTOR.
+
+PATIENT X193
+Thank you doc.
+
+SECOND DOCTOR X193
+Thank you take care.
+
+PATIENT LEAVES:  162:3
+
+Time is 4:58.
+
+
+
+

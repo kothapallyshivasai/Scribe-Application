@@ -1,0 +1,338 @@
+
+DOCTOR X525 
+PATIENT?  Have a seat.  I haven't see you before, DOCTOR sees you usually right?
+
+PATIENT X525
+Yes.
+
+DOCTOR X525
+Okay.  But I see from the notes here that you've had some weight loss and they did some scopes on you from above and below and they found some ulcer in the stomach and they found an intestine ulcer too so they gave you some medicine and they told you to @@@ here.  Does this all sound familiar?
+
+PATIENT X525
+Yes.
+
+DOCTOR X525
+Okay.  So did you get @@@, that's probably about two weeks or something.
+
+PATIENT X525
+Yeah I was bleeding down there.
+
+DOCTOR X525
+You were okay.  Oh @@@ last year but they sent you to get a biopsy on June 15, 2000, is what we had you do.
+
+PATIENT X525
+Uh-huh.
+
+DOCTOR X525
+@@@ okay but you still don't feel that you're um weight and all that is getting better now?
+
+PATIENT X525
+No I still feel like I'm losing.
+
+DOCTOR X525
+You still feel like you're losing weight.  What made you go in to see them before the scope that you got, um did you have pain or?
+
+PATIENT X525
+Oh it was my weight loss.
+
+DOCTOR X525
+It was just weight loss.  So you didn't have stomach pain.
+
+PATIENT X525
+Uh uh.
+
+DOCTOR X525
+Or @@@.
+
+PATIENT X525
+Uh uh.
+
+DOCTOR X525
+Okay so but now, but you think, @@@.
+
+PATIENT X525
+I've had some @@@ in the last two weeks.
+
+DOCTOR X525
+You've been @@@ for two weeks.
+
+PATIENT X525
+Last two weeks.
+
+DOCTOR X525
+Okay.  Okay.  Um so you're still losing weight.
+
+PATIENT X525
+Uh-huh.
+
+DOCTOR X525
+Okay and.
+
+PATIENT X525
+And that's why I went to the doctors.  I didn't know I was going to go through those things.
+
+DOCTOR X525
+Oh well I @@@ office just so you could let them know.
+
+PATIENT X525
+And then she knows what's happening.
+
+DOCTOR X525
+Right.  Well she's gonna hear about you anyway just @@@.
+
+PATIENT X525
+Okay.
+
+DOCTOR X525
+She's still behind everything, she's behind the scenes.
+
+PATIENT X525
+Okay.
+
+DOCTOR X525
+Um but so what else is going on?
+
+PATIENT X525
+Well I need to get all of my medicine that I usually get from her.
+
+DOCTOR X525
+Okay what medicine is it, I don't have a list @@@.
+
+PATIENT X525
+Well I need.
+
+DOCTOR X525
+Do you have @@@ medicines?
+
+PATIENT X525
+I missed my uh, just a minute, the @@@ need some of that.
+
+DOCTOR X525
+Okay.
+
+PATIENT X525
+And the @@@.
+
+DOCTOR X525
+Do you take water pill?
+
+PATIENT X525
+Imodium.
+
+DOCTOR X525
+Or a blood pressure pill?
+
+PATIENT X525
+Yeah I @@@.
+
+DOCTOR X525
+Do you have @@@ blood pressure looks like you do okay.  Have you been taking this?
+
+PATIENT X525
+Well I'm taking all of the medicines.
+
+DOCTOR X525
+@@@.
+
+PATIENT X525
+Yeah.
+
+DOCTOR X525
+Do you need @@@.  
+
+PATIENT X525
+Everything.
+
+DOCTOR X525
+The water pill.
+
+PATIENT X525
+The water pills.
+
+DOCTOR X525
+Hydralazine, yeah I see that you've @@@.  Hydralazine 25 twice a day and lisinopril 20 once a day.  Cholesterol medicine, are you taking that?
+
+PATIENT X525
+What's that?
+
+DOCTOR X525
+The cholesterol medicine.
+
+PATIENT X525
+Oh yes I do.
+
+DOCTOR X525
+Okay.  And then there's the medicine for the prostate.
+
+PATIENT X525
+Uh-huh.
+
+DOCTOR X525
+5 mg of terazosin.  I'll give you a copy of this.  Do you want to pick up today or do you want them mailed to you?
+
+PATIENT X525
+They can be mailed to me.  @@@ gonna have to call me.
+
+DOCTOR X525
+Okay.  So do you just @@@, do you know.  Cause you had a water pill are you still taking it?
+
+PATIENT X525
+It's a little bitty pill that I take @@@ no appetite.
+
+DOCTOR X525
+Yeah right so.  But if @@@ you one pill, it also helps with the @@@ and it looks like @@@ have it all fixed.  People @@@ to stimulate your appetite.
+
+PATIENT X525
+@@@.
+
+DOCTOR X525
+Yeah right.  You want to try that?  @@@.
+
+PATIENT X525
+Uh-huh.
+
+DOCTOR X525
+@@@.
+
+PATIENT X525
+@@@.
+
+DOCTOR X525
+Hmm.  You @@@ normally taken, I don't know if they @@@.  Um you want to just keep taking it now, it can help increase your appetite and it can help with all different things.
+
+PATIENT X525
+Uh-huh.
+
+DOCTOR X525
+@@@.  I wonder when the last time was that you had blood tests done.  Do you remember?
+
+PATIENT X525
+Uh, I think the last time I was here DOCTOR @@@.
+
+DOCTOR X525
+Your blood pressure okay.  So it's been a long time, so you're due for some blood tests.
+
+PATIENT X525
+Yeah.
+
+DOCTOR X525
+So I'll get those done.  Uh the best would be if you could get a panel when you're fasting.  Do you live around here, could you come back sometime when you haven't eaten anything?
+
+PATIENT X525
+Yes.
+
+DOCTOR X525
+Okay so I'll order it and you can probably just come back in the morning when you haven't eaten to get your blood tests done.
+
+PATIENT X525
+Okay.
+
+DOCTOR X525
+Okay.
+
+PATIENT X525
+Um I have an appointment in here Friday.
+
+DOCTOR X525
+Okay, just come on Friday then.
+
+PATIENT X525
+Okay.  @@@.
+
+DOCTOR X525
+That's okay you can come, you can do it before or after, whenever you want.
+
+PATIENT X525
+After everything?
+
+DOCTOR X525
+Yeah as long as you're okay being hungry until afterwards, you can't eat anything.
+
+PATIENT X525
+Oh okay.
+
+DOCTOR X525
+So if you want, you could come over here at 7 if you want to do it like before your appointment that way you can eat something.
+
+PATIENT X525
+Oh yeah okay.
+
+DOCTOR X525
+Otherwise you'll get pretty hungry.
+
+PATIENT X525
+Okay.  @@@.
+
+DOCTOR X525
+What's that?
+
+PATIENT X525
+The Lab is open.
+
+DOCTOR X525
+Yeah I think they open at 7 o'clock or something.
+
+PATIENT X525
+Go in.
+
+DOCTOR X525
+Yeah.  @@@ see if we can do some good for you okay.
+
+PATIENT X525
+Uh-huh.  @@@.
+
+DOCTOR X525
+Uh-huh.  Did @@@ some of your medicines until get some of the blood tests, that way you can get some of them today and then come back and get the rest of them on Friday because @@@.  But we could probably give you most of them but there were a couple of them @@@.
+
+PATIENT X525
+Hmm.
+
+DOCTOR X525
+@@@ okay.  Um @@@ okay.  Deep breath again, breath in and out okay.  Okay.  @@@ I'll be right back.
+
+(DOCTOR OUT:  60:37  DOCTOR IN:  62:45)
+
+DOCTOR X525
+@@@.  So your vitamin D, your vitamin D level is low so there is a vitamin D that you take once a week.
+
+PATIENT X525
+Uh-huh.
+
+DOCTOR X525
+Okay, you take it once a week for three months and we'll check your level to see how you're doing to see if we can get it up to where it's supposed to be okay.
+
+PATIENT X525
+@@@.
+
+DOCTOR X525
+@@@.  So get all these blood tests done and then @@@.  Um and then we're gonna also get a chest x-ray to see @@@.  Okay @@@.
+
+PATIENT X525
+Okay.
+
+DOCTOR X525
+@@@.
+
+PATIENT X525
+@@@.
+
+DOCTOR X525
+@@@.  Okay @@@ and I'll put in for you to come back in three months @@@ okay.
+
+PATIENT X525
+Do I need to give this to the front?
+
+DOCTOR X525
+And the Pharmacy should have these in the computer.  @@@, it's all in the computer so @@@ okay.  You're all set.
+
+PATIENT X525
+@@@.
+
+DOCTOR X525
+Yep @@@.
+
+PATIENT LEAVES:  66:50.
+
+
+
+

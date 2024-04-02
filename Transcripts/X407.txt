@@ -1,0 +1,424 @@
+
+DOCTOR X407
+PATIENT?  How you doing?
+
+PATIENT X407
+Good.
+
+DOCTOR X407
+@@@.  Did you enjoy Thanksgiving?
+
+PATIENT X407
+Huh?
+
+DOCTOR X407
+Did you enjoy Thanksgiving?
+
+PATIENT X407
+Oh yes.
+
+DOCTOR X407
+Yeah.  Good.
+
+PATIENT X407
+Too much.
+
+DOCTOR X407
+Too much.
+
+PATIENT X407
+Yeah I ate too much.
+
+DOCTOR X407
+Story of the world right.
+
+PATIENT X407
+Yeah.
+
+DOCTOR X407
+Everything going well?  How you feeling?
+
+PATIENT X407
+Yeah everything's going.
+
+DOCTOR X407
+Good.
+
+PATIENT X407
+Pretty good so far.
+
+DOCTOR X407
+Um I looked up a few things and your blood sugars were still pretty high when we saw you in August.
+
+PATIENT X407
+And they're still high.
+
+DOCTOR X407
+They're still high?
+
+PATIENT X407
+I ain't @@@.
+
+DOCTOR X407
+Yeah okay.  So what are we gonna do?  You know how much he's giving you?  So the last time you thought maybe he wasn't giving you enough?
+
+PATIENT X407
+Yes.  Uh he gave me 40 of one and I think 40 of the other one too.
+
+DOCTOR X407
+So you get, one is the 40 that you take for the whole day and then there's some that you take right before lunch?
+
+PATIENT X407
+Right.  I just started taking that just before lunch.
+
+DOCTOR X407
+Okay.
+
+PATIENT X407
+Uh the last, the last time I been here the pills.
+
+DOCTOR X407
+Okay.
+
+PATIENT X407
+That's @@@ and I check it 2 1/2 hours and the other one @@@ 24 hours.
+
+DOCTOR X407
+Okay.  Um do you ever, does your blood sugar ever get real low?
+
+PATIENT X407
+Yeah it has gotten real low once.
+
+DOCTOR X407
+When was that?
+
+PATIENT X407
+Uh huh @@@, uh six days ago.
+
+DOCTOR X407
+Okay.
+
+PATIENT X407
+It was about 60 something.
+
+DOCTOR X407
+Okay.  @@@.
+
+PATIENT X407
+@@@ so I think @@@.  The last time @@@.
+
+DOCTOR X407
+Okay.  Uh well it looks like @@@ blood test today.  You have to go up on your insulin but it's a little hard if you don't know what your numbers are.
+
+PATIENT X407
+Well they've been about 180, 190s.
+
+DOCTOR X407
+Uh-huh.
+
+PATIENT X407
+120s.
+
+DOCTOR X407
+And those are the morning ones?
+
+PATIENT X407
+Those are the ones period.  I don't @@@ morning and in the evening.
+
+DOCTOR X407
+Okay.
+
+PATIENT X407
+@@@.
+
+DOCTOR X407
+Okay.  Um so you've been getting it lately.
+
+PATIENT X407
+Yes, I've been doing it regularly.
+
+DOCTOR X407
+Okay.  Um did you take your blood pressure medicines today?
+
+PATIENT X407
+Yes.
+
+DOCTOR X407
+Okay.  Your blood pressure's high too.
+
+PATIENT X407
+It was?
+
+DOCTOR X407
+Uh-huh.  160/75.
+
+PATIENT X407
+Oh yeah you told me it was and it's been high every time that I come here but usually it goes down.
+
+DOCTOR X407
+At home?
+
+PATIENT X407
+No here.
+
+DOCTOR X407
+When we recheck it.
+
+PATIENT X407
+Yes.
+
+DOCTOR X407
+Okay.  Do you ever check it at home?
+
+PATIENT X407
+Yes I do sometimes.
+
+DOCTOR X407
+Do you know what it runs at home?
+
+PATIENT X407
+1, I can't tell you that.
+
+DOCTOR X407
+Okay.  Let's see, you know it's been kind of high.  It needs to be below 130 because of the diabetes um.  I think we could probably @@@.  Yeah we could go up on some of your medications.  On all of your medications.  @@@.  Do you want to try that?
+
+PATIENT X407
+Yeah we can.
+
+DOCTOR X407
+Okay.  Um and I want to get some blood tests today.
+
+PATIENT X407
+Some tests.
+
+DOCTOR X407
+Yeah is that okay?  Yeah.  
+
+PATIENT X407
+Okay.
+
+DOCTOR X407
+@@@.
+
+PATIENT X407
+Yeah @@@.
+
+DOCTOR X407
+Okay.
+
+PATIENT X407
+The last time I was here.
+
+DOCTOR X407
+Okay.  Can you have a seat up here so I can take a listen?  I'll have you pull up your sweatshirt.  Uh I'm just going to listen to your back up here okay.
+
+PATIENT X407
+Okay.
+
+DOCTOR X407
+Take a deep breath.  Again.  Okay.  Any pain in your belly.
+
+PATIENT X407
+Uh uh.
+
+DOCTOR X407
+No.
+
+PATIENT X407
+@@@.
+
+DOCTOR X407
+Any swelling in your legs?
+
+PATIENT X407
+Yeah.
+
+DOCTOR X407
+Oh they're looking great.  You can hop down.
+
+PATIENT X407
+Okay.
+
+DOCTOR X407
+Are you in any pain?
+
+PATIENT X407
+No.  No pain at all.
+
+DOCTOR X407
+Okay.  Alright @@@.
+
+PATIENT X407
+Okay.  Oh yeah, @@@ uh my stool has thinned out and @@@.
+
+DOCTOR X407
+Okay.
+
+PATIENT X407
+And @@@.
+
+DOCTOR X407
+Uh-huh.
+
+PATIENT X407
+Taking.
+
+DOCTOR X407
+Did it get better?
+
+PATIENT X407
+Yeah it got brown and then black again.
+
+DOCTOR X407
+Okay.
+
+PATIENT X407
+But it's a lot better; I don't have the bloody bowels like I did.
+
+DOCTOR X407
+Okay.  So it's not like just runny?
+
+PATIENT X407
+No.
+
+DOCTOR X407
+Okay.  Hmm.  Okay I'll be right back okay.
+
+PATIENT X407
+Alright then.  Can you give me @@@.
+
+DOCTOR X407
+Yeah sure, will you bring it with you next time?
+
+PATIENT X407
+Yes I promise I'll bring it with me.
+
+DOCTOR X407
+Okay.
+
+PATIENT X407
+I promise.
+
+DOCTOR X407
+Then I'll give you one.
+
+PATIENT X407
+I'll take care of it now.
+
+(DOCTOR OUT:  40:13  DOCTOR IN:  41:30)
+
+DOCTOR X407
+@@@.
+
+PATIENT X407
+@@@.
+
+DOCTOR X407
+Okay.  Um let me talk to, adjust the Lantus, hmm.  So I'm gonna send you home um, lisinopril that's one of the blood pressure medicines that you're taking.
+
+PATIENT X407
+Uh-huh.
+
+DOCTOR X407
+Uh I'm gonna increase it okay.
+
+PATIENT X407
+Okay.
+
+DOCTOR X407
+So I need the medication list that you have and then I'll write down some of the changes.  So we're going to, so you usually take 1/2 tab, so you're going to take one tab okay.
+
+PATIENT X407
+Okay.
+
+DOCTOR X407
+And then we'll have you come back and see the pharmacist.  Do you want me to have them mailed to you then?
+
+PATIENT X407
+Yes.
+
+DOCTOR X407
+Okay.  So then I'll have you come back for a blood pressure check okay.
+
+PATIENT X407
+Okay.
+
+DOCTOR X407
+In like two weeks.
+
+PATIENT X407
+Alright.
+
+DOCTOR X407
+And then we'll have you come back and see the pharmacist in a month and then you can come every two months.
+
+PATIENT X407
+Okay.
+
+DOCTOR X407
+Um do you think you could get some blood tests done today, is that okay?
+
+PATIENT X407
+Yes I guess so.  @@@.
+
+DOCTOR X407
+Yeah okay.  
+
+(DOCTOR OUT:  44:54  DOCTOR IN:  47:37)
+
+DOCTOR X407
+So you need to bring your medications @@@ okay.
+
+PATIENT X407
+Okay.  @@@.
+
+DOCTOR X407
+And bring all your medicines @@@.
+
+PATIENT X407
+Okay.
+
+DOCTOR X407
+@@@ okay.  Alright.  Okay so I wrote down the @@@.  You still have some at home, you can just start taking instead of half a pill, take a whole pill.
+
+PATIENT X407
+Okay.
+
+DOCTOR X407
+Okay.  Uh we'll see you back in two weeks to get a blood pressure check with the nurse.  Okay so you just @@@ and then they'll contact you about the pharmacist visit and then we'll see you back in three months in the clinic.
+
+PATIENT X407
+Okay.
+
+DOCTOR X407
+Okay and if you can get those blood tests done today.
+
+PATIENT X407
+Yeah.
+
+DOCTOR X407
+That'll be great.
+
+PATIENT X407
+I'll get them done today.
+
+DOCTOR X407
+Alright.  So I'll see you back.
+
+PATIENT X407
+Okay.
+
+DOCTOR X407
+Have a Merry Christmas.
+
+PATIENT X407
+You too.
+
+DOCTOR X407
+Bye.
+
+PATIENT LEAVES:  48:33.
+
+
+
+

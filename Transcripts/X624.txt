@@ -1,0 +1,521 @@
+
+DOCTOR X624
+PATIENT.
+
+PATIENT X624
+Right here.
+
+DOCTOR X624
+How are you sir?  Come on in.  How are you feeling?
+
+PATIENT X624
+Uh, tired.
+
+DOCTOR X624
+Tired.
+
+PATIENT X624
+Getting better I think.
+
+DOCTOR X624
+I was looking at your chart.  I saw you got @@@ uh at that time you were kind of going back and forth on whether you wanted cystoscopy. 
+
+PATIENT X624
+Uh.
+
+DOCTOR X624
+They referred you back to the GU doctors, looks like you saw them and you actually did have that.
+
+PATIENT X624
+Okay I have @@@ right?
+
+DOCTOR X624
+Yes, yes exactly.
+
+PATIENT X624
+I want uh 2010 mostly I'm just out of the medicines but uh I'm clean.
+
+DOCTOR X624
+Uh-huh, uh-huh.
+
+PATIENT X624
+@@@ otherwise.
+
+DOCTOR X624
+You have those yes.
+
+PATIENT X624
+And then this year or since November or when I started out on, I have, recently, no @@@.
+
+DOCTOR X624
+Yeah @@@.
+
+PATIENT X624
+Yeah I want some of that @@@.
+
+DOCTOR X624
+Okay.
+
+PATIENT X624
+@@@.
+
+DOCTOR X624
+Yeah how's that working for you?
+
+PATIENT X624
+It's uh, real good.
+
+DOCTOR X624
+Yeah so you're not having a problem.  And you're gonna receive all the other medications but this one's working real good huh?
+
+PATIENT X624
+Uh I will say yeah, @@@.
+
+DOCTOR X624
+Yes.
+
+PATIENT X624
+It's @@@ initial @@@ right.
+
+DOCTOR X624
+Right, right yeah.
+
+PATIENT X624
+No problem.
+
+DOCTOR X624
+Good, good I'm glad to hear it.  They did the cystoscopy where they you know give you the washings in your blood and everything looked good with that, so that was good.
+
+PATIENT X624
+They did?
+
+DOCTOR X624
+Yeah.  When they did it.
+
+PATIENT X624
+They did something yeah.
+
+DOCTOR X624
+Yeah, it's like @@@.  Um so yeah they wanted you to be on that one finasteride um otherwise how's everything going for you.  I've know that you have the left-sided weakness correct?
+
+PATIENT X624
+Yeah.
+
+DOCTOR X624
+From the @@@ stroke.  Any changes with that or is it a lot better?
+
+PATIENT X624
+Uh no, but I used to when I @@@ into things, that's probably not much better @@@.
+
+DOCTOR X624
+@@@.  Um.
+
+PATIENT X624
+Since the last time I talked to you my concern was I want @@@.
+
+DOCTOR X624
+Physical therapy?
+
+PATIENT X624
+Physical therapy @@@.
+
+DOCTOR X624
+Yeah.
+
+PATIENT X624
+I want to @@@.
+
+DOCTOR X624
+Right.
+
+PATIENT X624
+Not that @@@.
+
+DOCTOR X624
+@@@.
+
+PATIENT X624
+Yeah that pill.  @@@.
+
+DOCTOR X624
+It probably won't recover.
+
+PATIENT X624
+Yeah probably @@@.
+
+DOCTOR X624
+Just @@@ that you could go so they can @@@ and give you exercises at home.  Um but the main problem last time I saw you was and you were getting up at night to pee at times.
+
+PATIENT X624
+Well, you know it got so good that, well I mean last night was an incredible amount I don't know why.  Maybe it was nerves, that was nerves.  @@@.  Um I did urinate @@@.
+
+DOCTOR X624
+Okay.  But normally how many times at this point are you getting up?
+
+PATIENT X624
+Hmm once, twice.
+
+DOCTOR X624
+Wow.  So you're more rested.
+
+PATIENT X624
+Well one of the times yeah.  Let's say for X reason other than @@@ I couldn't skip this thing.
+
+DOCTOR X624
+Okay.
+
+PATIENT X624
+And uh but like I say it was nothing to do with medicine.
+
+DOCTOR X624
+@@@.  Good, good.  Do you need any medication refills?
+
+PATIENT X624
+All of them.
+
+DOCTOR X624
+All of them sure.  Do you want them mailed to your house or do you want uh, do you want to pick them up here?
+
+PATIENT X624
+Well let's see, I did run out of the blood pressure medicine.
+
+DOCTOR X624
+Then why don't we have you pick it up.  Do you have time to wait here?  How long does it take to get to your house?
+
+PATIENT X624
+No yeah it takes about a half hour.
+
+DOCTOR X624
+Okay.  So.
+
+PATIENT X624
+I @@@ but I was wondering if I could get that flunisolide it comes once a month.  I don't know if you've got them, @@@ the month.
+
+DOCTOR X624
+Let's see finasteride five tablets, @@@.  You take it once a day right?
+
+PATIENT X624
+Yeah it lasts one month.
+
+DOCTOR X624
+Yeah, oh do you want three months’ worth?
+
+PATIENT X624
+If I could get three months, not a problem.
+
+DOCTOR X624
+Okay.  What are you on for blood pressure?  I don't even see you being on any medications for blood pressure and your blood pressure looks fantastic.
+
+PATIENT X624
+Right.  I didn't take the medicine today.
+
+DOCTOR X624
+So do you want me to send it?
+
+PATIENT X624
+Uh I have been taking it.
+
+DOCTOR X624
+Oh @@@ amlodipine.
+
+PATIENT X624
+Lisinopril and amlodipine.
+
+DOCTOR X624
+Okay.  Uh and how long have you been out of it?
+
+PATIENT X624
+I been taking it every day.
+
+DOCTOR X624
+But did you run out?  You didn't run out?
+
+PATIENT X624
+Oh hmm, I just got one pill for each one left.
+
+DOCTOR X624
+Okay then I will refill both of those, that's fine.
+
+PATIENT X624
+And I got them there.
+
+DOCTOR X624
+Oh okay, okay.
+
+PATIENT X624
+Well the @@@.
+
+DOCTOR X624
+And you have the aspirin, yeah good, perfect.  So alright.
+
+PATIENT X624
+Uh let's see.  If I can get the amlo.
+
+DOCTOR X624
+Uh-huh.
+
+PATIENT X624
+And lisinopril.
+
+DOCTOR X624
+Uh-huh.
+
+PATIENT X624
+And flunisolide.
+
+DOCTOR X624
+Uh-huh.
+
+PATIENT X624
+For three months.
+
+DOCTOR X624
+Uh-huh.  Uh okay, so you know that the lisinopril is a tab you should only be taking half a tablet.
+
+PATIENT X624
+I'm taking a half yeah.
+
+DOCTOR X624
+Okay and then the amlodipine the whole tablet and the finasteride a whole tablet.
+
+PATIENT X624
+Right, it's a small little pill.
+
+DOCTOR X624
+Are you still needing a medication for a cream?
+
+PATIENT X624
+No.
+
+DOCTOR X624
+No okay then we won't worry about it okay.  Um it's just those three and then that's it, that's all you need.
+
+PATIENT X624
+Uh-huh that's all.
+
+DOCTOR X624
+Perfect so I'll put that in.
+
+PATIENT X624
+And I can pick them up today uh.  Yeah that way in about three months I can make another round.
+
+DOCTOR X624
+That we'll see you, okay, yeah let's do that.  Um let me just check a couple things I need to do.  So last time we checked your cholesterol was recently, no it was about a year ago.  I'm gonna order labs for you.  You do not have to get them done today.
+
+PATIENT X624
+Well I might as well get it cause I.
+
+DOCTOR X624
+Cause you're here you'll get them.
+
+PATIENT X624
+I haven't eaten nothing.
+
+DOCTOR X624
+You haven't eaten?
+
+PATIENT X624
+Since 3 o'clock yesterday in the afternoon.
+
+DOCTOR X624
+Why not?
+
+PATIENT X624
+I'm getting ready for @@@.
+
+DOCTOR X624
+@@@ smart.
+
+PATIENT X624
+Maybe you wanted to uh.
+
+DOCTOR X624
+Alright I.
+
+PATIENT X624
+Blood tests.
+
+DOCTOR X624
+Yes I do but I didn't think you'd go this long.  Okay let's check some labs; I'll refill your meds.  Um and you had a flex sig in 2006 that showed some diverticulosis.  Are you interested at all in doing a colonoscopy where they go up through the bottom and they take a look for colon cancer?  The test you had in the past was sort of an incomplete test.
+
+PATIENT X624
+It was incomplete cause.
+
+DOCTOR X624
+It was uncomfortable.
+
+PATIENT X624
+It was real uncomfortable.  They could at least put uh a local.
+
+DOCTOR X624
+Yeah I agree.  So the one that I want you to get is more complete and they completely knock you out.
+
+PATIENT X624
+Well I don't need a complete knock out.
+
+DOCTOR X624
+But they sedate you so that you don't remember it.  You can respond like when they're asking you questions you can respond but you won't remember it so it's not painful or anything.
+
+PATIENT X624
+That's what mine was, that's where I got the @@@. 
+
+DOCTOR X624
+You want to do that okay.
+
+PATIENT X624
+I don't think they found anything unusual but they.
+
+DOCTOR X624
+No, no, they didn't.  It just wasn't a complete study so I just wasn't sure if you.
+
+PATIENT X624
+I've been going on the @@@ to work on the stomach.
+
+DOCTOR X624
+Oh okay, okay.  Well think about it.  If you decide you want to change your mind and do it we can set you up okay.  Um otherwise everything is looking pretty good.  You're doing a real good job.  Your blood pressure looks great.  You're taking your aspirin.  Um sounds like all the GU stuff and your urology stuff has gotten.
+
+PATIENT X624
+Right, no problem.
+
+DOCTOR X624
+Good well let me go talk to the boss.  Let me take a listen to you, then I'll talk to the boss and we'll get you out of here.  We'll send you to the Lab; we'll send you to the Pharmacy.
+
+PATIENT X624
+Okay.
+
+DOCTOR X624
+Alright.  Go ahead and lean forward just a little bit.  Forward, there you go.  Big breath.  Another one.  Good you can breathe normal, I'm gonna listen to your heart.  Good.  Let me go talk to the boss and we'll get you out of here.
+ 
+(DOCTOR OUT: 30:11  DOCTOR IN:  36:42)
+
+DOCTOR X624
+Alright sir.
+
+PATIENT X624
+You know I was thinking, I want to mention something.  I did go to the doc, some kind of growth.
+
+DOCTOR X624
+Yeah.
+
+PATIENT X624
+That needs to come out, on the side here.
+
+DOCTOR X624
+Uh-huh.
+
+PATIENT X624
+And uh over on the side here.
+
+DOCTOR X624
+Uh-huh.
+
+PATIENT X624
+But it kind of like @@@.
+
+DOCTOR X624
+Okay.
+
+PATIENT X624
+And got smaller and smaller and it's gotten better but a little harder.
+
+DOCTOR X624
+Okay.
+
+PATIENT X624
+Than what they originally were.
+
+DOCTOR X624
+Okay.
+
+PATIENT X624
+Another one.
+
+DOCTOR X624
+This one right here.
+
+PATIENT X624
+This one here, I don't know what.
+
+DOCTOR X624
+We can send you over to the Dermatology Clinic.  This is a little growth like you said.  But they're usually not too bad.  Does it bother you?
+
+PATIENT X624
+It uh.  No, it's a little reddish and a little swollen at one time.
+
+DOCTOR X624
+Okay.
+
+PATIENT X624
+But uh it went away, like it's right now.
+
+DOCTOR X624
+Okay, okay.  Um let's keep an eye on it.  If it changes in size, changes in color you come back and let me know okay.
+
+PATIENT X624
+Uh-huh.
+
+DOCTOR X624
+Um cause then I will send you over to the skin doctors.
+
+PATIENT X624
+Right, dermatologist.
+
+DOCTOR X624
+Yes, you got it.  Amlodipine 30 day supply.  So I changed your finasteride medication to be a three month supply, cause the way Urology wrote it out it was only 30 pills um otherwise I refilled your amlodipine and your lisinopril.  I'm going to put in for your labs now and you can just go get it.  Let's see.  And then why don't you come back and see me in three months, does that sound good?
+
+PATIENT X624
+Yeah.
+
+DOCTOR X624
+And that's the Blue Clinic and make sure you stop and do the lab um and then you're all good to go.  And your meds should be waiting for you at the Pharmacy.  Everything's in the Lab.
+
+PATIENT X624
+Yeah I'll come back in May, more or less about the same 13th, 16th.
+
+DOCTOR X624
+Yeah they'll send you a letter with the date.  It'll be a Wednesday afternoon that I can promise you.  That's the only day I'm here.
+
+PATIENT X624
+Okay.
+
+DOCTOR X624
+Okay.  So let me know if anything, you know you need to change anything or you can come back earlier.  Okay.
+
+PATIENT X624
+I look forward to it.
+
+DOCTOR X624
+Okay.
+
+PATIENT X624
+Okay help me.
+
+DOCTOR X624
+Well you can take this if you'd like it, it's a type of @@@ but you don't need it for anything.
+
+PATIENT X624
+She said I could give it.
+
+DOCTOR X624
+@@@.  Okay sir.
+
+PATIENT X624
+Okay I got to go back here uh.
+
+DOCTOR X624
+Yes, yes.  You might want to stop at the Pharmacy first and take a number cause I know that line can get really long.
+
+PATIENT X624
+Oh yeah okay.
+
+DOCTOR X624
+Bye sir.
+
+PATIENT X624
+Uh-huh.
+
+PATIENT LEAVES:  40:53
+
+
+
+

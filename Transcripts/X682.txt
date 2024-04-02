@@ -1,0 +1,695 @@
+
+DOCTOR X682
+Yeah come back.  How you doing?
+
+PATIENT X682
+How do you do?
+
+DOCTOR X682
+Pretty well today sir.  We're a little farther down.
+
+PATIENT X682
+Oh.
+
+DOCTOR X682
+How you doing today?
+
+PATIENT X682
+What?
+
+DOCTOR X682
+Right here to the right, right here.
+
+PATIENT X682
+Right here, oh yeah that's the old room.  Will you hang my jacket?
+
+DOCTOR X682
+Um behind the door yes.  How have you been?
+
+PATIENT X682
+Fine.
+
+DOCTOR X682
+Last time I saw you in August.  Anything bothering you since then?
+
+PATIENT X682
+No.
+
+DOCTOR X682
+Good.  You taking that cholesterol medicine?
+
+PATIENT X682
+Yes.
+
+DOCTOR X682
+Good.  Any problems with it?  Any problems with it?
+
+PATIENT X682
+And I'm also taking one per day.
+
+DOCTOR X682
+A multivitamin.
+
+PATIENT X682
+A multivitamin and one of the clonidine. 
+
+DOCTOR X682
+Perfect.
+
+PATIENT X682
+So.
+
+DOCTOR X682
+What kinds of foods are you eating?
+
+PATIENT X682
+Well I'm trying to have mixture of vegetables, meat.
+
+DOCTOR X682
+Okay good.  You're eating well.
+
+PATIENT X682
+No red meat.  I don't eat @@@ uh occasionally.
+
+DOCTOR X682
+That's okay.
+
+PATIENT X682
+But I only buy like.
+
+DOCTOR X682
+Yeah you don't want to start; you don't have a lot of it at home and things like that.
+
+PATIENT X682
+@@@.
+
+DOCTOR X682
+Have you lost a lot of weight?
+
+PATIENT X682
+I don't know.  They just weighed me today.
+
+DOCTOR X682
+Yeah.  You're 60 pounds lighter.
+
+PATIENT X682
+How can I be 60 pounds lighter?
+
+DOCTOR X682
+That's what I'm asking you.  Do you think you lost that much weight?
+
+PATIENT X682
+No.
+
+DOCTOR X682
+Okay.
+
+PATIENT X682
+Someone must have made a mistake.
+
+DOCTOR X682
+Maybe it's a mistake.  But you don't know whether you lost 60 pounds.
+
+PATIENT X682
+I don't think I lost 60 pounds.
+
+DOCTOR X682
+I'm going to @@@, yeah, yeah.
+
+PATIENT X682
+I look like.
+
+DOCTOR X682
+You look the same.
+
+PATIENT X682
+What?
+
+DOCTOR X682
+You look the same.
+
+PATIENT X682
+Yeah.
+
+DOCTOR X682
+You look fine.  Um good.  Have you gotten the flu shot this year?
+
+PATIENT X682
+Yes.
+
+DOCTOR X682
+Perfect.  When did you get it?
+
+PATIENT X682
+Uh last Sunday in uh @@@.
+
+DOCTOR X682
+Perfect, great.  Well I'm glad you're feeling better.  Your blood pressure looks great today.
+
+PATIENT X682
+Yeah.  But I can't be 60 pounds lighter.
+
+DOCTOR X682
+No it's a mistake.
+
+PATIENT X682
+Yeah.
+
+DOCTOR X682
+It has to be a mistake.
+
+PATIENT X682
+You think I look thinner?
+
+DOCTOR X682
+No, maybe a little thinner but not that much.
+
+PATIENT X682
+Oh you do think I do look.
+
+DOCTOR X682
+I don't think, I think maybe you lost a few pounds but not 60.
+
+PATIENT X682
+No.
+
+DOCTOR X682
+That's for sure, that's for sure.
+
+PATIENT X682
+So when she weighed me.
+
+DOCTOR X682
+I think it was incorrect.
+
+PATIENT X682
+Which was incorrect, do I have to go back and get weighed or?
+
+DOCTOR X682
+No, no, it's okay.  We'll get a new weight from here next time to make sure.
+
+PATIENT X682
+Uh-huh.
+
+DOCTOR X682
+Otherwise you seem to be doing pretty well.
+
+PATIENT X682
+I think it was 120 pounds, that's why @@@.
+
+DOCTOR X682
+Yeah 220, 220.
+
+PATIENT X682
+I mean 220.
+
+DOCTOR X682
+220, yeah, yeah.
+
+PATIENT X682
+220.
+
+DOCTOR X682
+Yeah, yeah.
+
+PATIENT X682
+What was it last time?
+
+DOCTOR X682
+280.
+
+PATIENT X682
+No I pretty much weighed the last time.  I've been over 2, 2, I think it was 2 @@@.
+
+DOCTOR X682
+Yeah I think the last one was wrong.  The last time it was 237, now it's 229.
+
+PATIENT X682
+Oh.
+
+DOCTOR X682
+Yeah, 237 and 229, maybe you lost eight pounds.
+
+PATIENT X682
+That's probably right.
+
+DOCTOR X682
+Yeah.  We'll get that changed.
+
+PATIENT X682
+And you said it wasn't up last time and.
+
+DOCTOR X682
+Yeah.
+
+PATIENT X682
+So where do you get that 280?
+
+DOCTOR X682
+I think it was incorrectly put in here.
+
+PATIENT X682
+Oh.  So that's what the VA is supposed to read.
+
+DOCTOR X682
+No, no.
+
+PATIENT X682
+For the last time.
+
+DOCTOR X682
+Last time yeah.
+
+PATIENT X682
+Oh.
+
+DOCTOR X682
+You walking okay?  No chest pain, shortness of breath?
+
+PATIENT X682
+No.
+
+DOCTOR X682
+Good.  No swelling in your legs?
+
+PATIENT X682
+So how is my weight compared to two times ago?
+
+DOCTOR X682
+Let's see.  You're five pounds, at that time it was 226 and you're 229, about the same.
+
+PATIENT X682
+You changed it.
+
+DOCTOR X682
+Yeah.
+
+PATIENT X682
+Yeah probably had more clothes on.
+
+DOCTOR X682
+That's also true with the winter.
+
+PATIENT X682
+It was really hot the other day.
+
+DOCTOR X682
+No it's nice yeah.
+
+PATIENT X682
+I mean two uh two times ago.
+
+DOCTOR X682
+Yeah.
+
+PATIENT X682
+Now not the last time but that would be the same huh.
+
+DOCTOR X682
+Oh okay.
+
+PATIENT X682
+So I think that's clothes and everything.
+
+DOCTOR X682
+That's probably true. 
+
+PATIENT X682
+Yeah.
+
+DOCTOR X682
+Alright, so I'm glad you're feeling better.  Let me see what you need.  We'll probably gonna recheck a cholesterol panel.
+
+PATIENT X682
+What?
+
+DOCTOR X682
+We're gonna recheck a cholesterol panel now that we started you on this new medicine.
+
+PATIENT X682
+Yeah.
+
+DOCTOR X682
+Last time we checked was back in March.
+
+PATIENT X682
+Yeah.
+
+DOCTOR X682
+Did you eat breakfast today and lunch?
+
+PATIENT X682
+Yeah.
+
+DOCTOR X682
+Okay.  So I want you to come back here sometime when you haven't eaten anything.
+
+PATIENT X682
+Hmm.
+
+DOCTOR X682
+Okay.
+
+PATIENT X682
+Yeah.  How many hours do you think?
+
+DOCTOR X682
+Just like six to eight hours is okay.
+
+PATIENT X682
+I can come more than that.
+
+DOCTOR X682
+Yes in the morning.
+
+PATIENT X682
+When the.
+
+DOCTOR X682
+@@@.
+
+PATIENT X682
+Alright @@@.
+
+DOCTOR X682
+Correct yeah.
+
+PATIENT X682
+Oh that's something like it used to be.
+
+DOCTOR X682
+You can ask them on the way out.
+
+PATIENT X682
+Oh.
+
+DOCTOR X682
+But I think it's @@@.
+
+PATIENT X682
+Oh I'll look at the door.
+
+DOCTOR X682
+Yeah.
+
+PATIENT X682
+So I can get it anytime?
+
+DOCTOR X682
+Yeah.  How about you sit right here, let me take a look at your ears.  So you seem to be doing quite well.
+
+PATIENT X682
+So.
+
+DOCTOR X682
+Yeah you can sit up, yeah that's perfect.
+
+PATIENT X682
+So when's the deadline on taking that test?
+
+DOCTOR X682
+Before next time I see you.
+
+PATIENT X682
+Alright so in other words it's pretty open-ended.
+
+DOCTOR X682
+It is pretty open-ended.
+
+PATIENT X682
+So anytime I go @@@.
+
+DOCTOR X682
+Correct.  No emergency yes.
+
+PATIENT X682
+Hmm.
+
+DOCTOR X682
+Take some deep breaths.  
+
+PATIENT X682
+So when I feel like taking it.
+
+DOCTOR X682
+Exactly.
+
+PATIENT X682
+I don't feel like it tomorrow.
+
+DOCTOR X682
+That's okay.  A couple more.
+
+PATIENT X682
+Yeah.  Well it could be closer to the next appointment.
+
+DOCTOR X682
+It really doesn't matter.
+
+PATIENT X682
+@@@.
+
+DOCTOR X682
+Do it, yeah.  As long as you're taking your medicine I don't mind.
+
+PATIENT X682
+Right.  As long as it's before the next appointment.
+
+DOCTOR X682
+Correct, yeah.
+
+PATIENT X682
+Do you think it'd be best to have it as close to the next appointment as possible?
+
+DOCTOR X682
+I will @@@ whenever you get it done.
+
+PATIENT X682
+Right.
+
+DOCTOR X682
+If you get it done sooner, I'll take a look at it.  You want to be in the record before the next visit, I'll look at it then.
+
+PATIENT X682
+Yes.
+
+DOCTOR X682
+You see what I'm saying?
+
+PATIENT X682
+Yes.
+
+DOCTOR X682
+So either way I'll pick them up.
+
+PATIENT X682
+And so it doesn't make any difference really.
+
+DOCTOR X682
+Right.
+
+PATIENT X682
+As long as it's before the next appointment.
+
+DOCTOR X682
+Correct.
+
+PATIENT X682
+Yeah.
+
+DOCTOR X682
+So you seem to be doing well.
+
+PATIENT X682
+@@@.
+
+DOCTOR X682
+You seem to be doing well.  I'm going to visit with my attending and I'll be back okay.
+
+PATIENT X682
+What?
+
+DOCTOR X682
+Let me go talk with the attending outside and I'll be back.
+
+PATIENT X682
+Alright.
+
+DOCTOR X682
+You can have a seat wherever you would like.
+
+PATIENT X682
+Hmm.
+
+(DOCTOR OUT:  31:41  DOCTOR IN:  36:50)
+
+DOCTOR X682
+Alright sir.  @@@.  
+
+PATIENT X682
+@@@.
+
+DOCTOR X682
+You know your weight has been stable.
+
+PATIENT X682
+Yes.
+
+DOCTOR X682
+You're still overweight.
+
+PATIENT X682
+Yeah.
+
+DOCTOR X682
+So I want you to go to this program we have called TeleMove.
+
+PATIENT X682
+@@@.
+
+DOCTOR X682
+Do you have a phone at home?
+
+PATIENT X682
+Yeah.
+
+DOCTOR X682
+So what you can do is you can call this number here.
+
+PATIENT X682
+Yeah.
+
+DOCTOR X682
+And this is a program that we offer through the VA and it helps individuals to lose weight and to stay on track.
+
+PATIENT X682
+@@@.
+
+DOCTOR X682
+Helping people with diet and exercise.
+
+PATIENT X682
+Yeah.
+
+DOCTOR X682
+And it's something that kind of, you know keep talking to you about this and keeping an eye on it.  Are you interested in this?  @@@.
+
+PATIENT X682
+Uh-huh, yeah.
+
+DOCTOR X682
+Okay.
+
+PATIENT X682
+Okay.  So I'm overweight.
+
+DOCTOR X682
+Yeah.
+
+PATIENT X682
+I'm losing weight but I'm not getting there.
+
+DOCTOR X682
+Correct and I think that it'll help your cholesterol and help with the other.  We'll try to see that you get a couple pounds off.
+
+PATIENT X682
+Right.
+
+DOCTOR X682
+And the wintertime is really a hard time for people to lose weight just because you're indoors a lot, all of the holidays, things like that.
+
+PATIENT X682
+Right, good.  Maybe I shouldn't eat as much hmm.
+
+DOCTOR X682
+Well I think it's not what you eat, it's just to watch the portion size.
+
+PATIENT X682
+Right.
+
+DOCTOR X682
+So.
+
+PATIENT X682
+And I don't want to be on those exercise machines.
+
+DOCTOR X682
+Well are you definitely, this is a really good resource cause they give you a lot of different options.
+
+PATIENT X682
+Hmm.
+
+DOCTOR X682
+And so they'll go through with you all of the things that you can do.
+
+PATIENT X682
+Right.
+
+DOCTOR X682
+So if you say oh no I don't want to exercise, she'll talk with you and help you out with that.
+
+PATIENT X682
+Right.
+
+DOCTOR X682
+Okay.
+
+PATIENT X682
+Okay.
+
+DOCTOR X682
+I will see you back in a couple of months.  We get a cholesterol drawn before you come in okay.
+
+PATIENT X682
+Right.
+
+DOCTOR X682
+So no rush on that.
+
+PATIENT X682
+Right.  So you already ordered it so.
+
+DOCTOR X682
+I'm putting it in right now.
+
+PATIENT X682
+Right.
+
+DOCTOR X682
+Alright sir, take care.
+
+PATIENT X682
+Thank you.  The main thing is my cholesterol huh?
+
+DOCTOR X682
+Yes sir.
+
+PATIENT X682
+Alright.
+
+DOCTOR X682
+Take care.
+
+PATIENT X682
+And I think those pills are working.
+
+DOCTOR X682
+That's good.
+
+PATIENT X682
+Oh I only have one more refill don't I.
+
+DOCTOR X682
+I'll make sure the refills can go to you.
+
+PATIENT X682
+Alright.
+
+DOCTOR X682
+Yeah.
+
+PATIENT LEAVES:  38:55
+
+
+
+

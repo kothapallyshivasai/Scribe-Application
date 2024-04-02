@@ -1,0 +1,916 @@
+
+DOCTOR X468
+PATIENT?
+
+PATIENT X468
+Yo.
+
+DOCTOR X468
+@@@.  
+
+PATIENT X468
+It never fails, whatever side I sit on the doctor come out the other side.  
+
+DOCTOR X468
+How are you doing today?
+
+PATIENT X468
+Well I'm not so good.
+
+DOCTOR X468
+We can talk about it.
+
+PATIENT X468
+Okay.  I got it.
+
+DOCTOR X468
+Okay.  @@@.
+
+PATIENT X468
+Put my stuff over here?
+
+DOCTOR X468
+Yeah.  What's going on?
+
+PATIENT X468
+Well, it's to be expected.  I have cancer of both lungs.
+
+DOCTOR X468
+Right.
+
+PATIENT X468
+And I'm on chemo.
+
+DOCTOR X468
+Right.
+
+PATIENT X468
+So there gonna be some good days and some bad days.
+
+DOCTOR X468
+Okay.
+
+PATIENT X468
+This would be one of my bad days you know, a little dizzy but no pain or anything like that.
+
+DOCTOR X468
+Okay.
+
+PATIENT X468
+I'm not falling down dizzy you know.
+
+DOCTOR X468
+Do you feel.
+
+PATIENT X468
+Sort of like you feel after you have three shots you know.
+
+DOCTOR X468
+Yeah.  I think that, I was just looking through your chart.  I think we can stop one of your blood pressure medicines.  So the blood pressure is pretty well, has it ever been high since we started the chemo?
+
+PATIENT X468
+Uh no.  In fact, a couple of times.
+
+DOCTOR X468
+Uh-huh.
+
+PATIENT X468
+It has, you know its hit bottom.
+
+DOCTOR X468
+Right.
+
+PATIENT X468
+Has been in the 90s.
+
+DOCTOR X468
+In the 90s yeah.
+
+PATIENT X468
+Yeah.
+
+DOCTOR X468
+I think we should, if it's alright with you, try stopping the blood pressure medicine, the hydrochlorothiazide.
+
+PATIENT X468
+Oh that's the little yellow pill.
+
+DOCTOR X468
+Yeah.
+
+PATIENT X468
+It makes you get up sometime at night.
+
+DOCTOR X468
+The water pill right.
+
+PATIENT X468
+Right.
+
+DOCTOR X468
+Um I'll talk with DOCTOR but I think and that'll help you from being, so you were losing water by taking that and so.
+
+PATIENT X468
+Uh-huh.
+
+DOCTOR X468
+That causes some dizziness and some low blood pressures.
+
+PATIENT X468
+Uh-huh.
+
+DOCTOR X468
+But maybe we could try.
+
+PATIENT X468
+Okay.
+
+DOCTOR X468
+Cause I don't think you need it anymore.
+
+PATIENT X468
+Uh-huh.
+
+DOCTOR X468
+Yeah.
+
+PATIENT X468
+For a long period, as long as my blood pressure been down.
+
+DOCTOR X468
+Yeah.
+
+PATIENT X468
+Yeah.
+
+DOCTOR X468
+It's going, let me just check and see.
+
+PATIENT X468
+Well I feel, well I still have my nifedipine.
+
+DOCTOR X468
+You still have the nifedipine?
+
+PATIENT X468
+Yeah.
+
+DOCTOR X468
+What's that uh, let's see.  How much of that are you taking?
+
+PATIENT X468
+Thought it was 90 right?
+
+DOCTOR X468
+Right, it's 90.
+
+PATIENT X468
+90 mg.
+
+DOCTOR X468
+Okay.  Let's talk with DOCTOR.  I think we should go down on one of these blood pressure medicines.
+
+PATIENT X468
+Uh-huh.
+
+DOCTOR X468
+Either the nifedipine we can, since that's a pretty strong dose maybe we could just cut it to 60 instead of 90.
+
+PATIENT X468
+Hey good.
+
+DOCTOR X468
+Or we could get rid of the hydrochlorothiazide.
+
+PATIENT X468
+Completely.
+
+DOCTOR X468
+Yeah.
+
+PATIENT X468
+Until further notice.
+
+DOCTOR X468
+Right, right.
+
+PATIENT X468
+Okay.
+
+DOCTOR X468
+I'll, I'll talk to him and see what he thinks is the.
+
+PATIENT X468
+Okay.
+
+DOCTOR X468
+Better thing to do.
+
+PATIENT X468
+Uh-huh.
+
+DOCTOR X468
+Any fevers or chills?
+
+PATIENT X468
+Uh no.
+
+DOCTOR X468
+No.
+
+PATIENT X468
+Uh.
+
+DOCTOR X468
+Any trouble breathing?
+
+PATIENT X468
+Uh uh.
+
+DOCTOR X468
+Just the dizziness.
+
+PATIENT X468
+Yes, you know just the dizziness.
+
+DOCTOR X468
+Okay.
+
+PATIENT X468
+I was dizzy.  @@@.
+
+DOCTOR X468
+Uh-huh.
+
+PATIENT X468
+I had chemo three weeks ago.
+
+DOCTOR X468
+Right.
+
+PATIENT X468
+And right after you know, the body said hey what's this you giving me.
+
+DOCTOR X468
+Yeah.
+
+PATIENT X468
+And uh and I been doing pretty good you know.  I no longer getting the blood-streaked sputum you know.
+
+DOCTOR X468
+That's good.
+
+PATIENT X468
+I hope it is.
+
+DOCTOR X468
+Yeah.  And then did they talk to you about how many cycles of chemo you have to get or?
+
+PATIENT X468
+Uh right now they said, not to hold them to it, it all depends on the tests they take.
+
+DOCTOR X468
+How you're doing.
+
+PATIENT X468
+And what have you but they said approximately.
+
+DOCTOR X468
+Uh-huh.
+
+PATIENT X468
+Six three weeks apart.
+
+DOCTOR X468
+Three weeks apart each one.
+
+PATIENT X468
+Uh-huh.
+
+DOCTOR X468
+Yeah.  You're going good.
+
+PATIENT X468
+Well I'm hanging in there.
+
+DOCTOR X468
+Yeah.  So do you live with anyone then or?
+
+PATIENT X468
+Huh?
+
+DOCTOR X468
+Do you live by yourself or do you have someone to kind of help you out?
+
+PATIENT X468
+Uh I live in a building with 150 apartments.
+
+DOCTOR X468
+Okay.
+
+PATIENT X468
+And uh.
+
+DOCTOR X468
+Your neighbors are pretty nice?
+
+PATIENT X468
+I know people and sometimes they come in.  Once you get past 75 you can, you know the neighbors you know.  So they always want to know where you been and all that and you know when you came out, those type of neighbors.  Pretty @@@ you know.
+
+DOCTOR X468
+Right, right.  So nobody stays like with you in the house though?
+
+PATIENT X468
+Uh no.
+
+DOCTOR X468
+Okay.  Do you that, would you like to if I could get it set up that a visiting nurse come by and just check on you @@@?  Just so you know if you need anything you know she could help get it.  I'll have to see if I can get that set up but you probably would qualify if you think that would help you.
+
+PATIENT X468
+Oh BNA?
+
+DOCTOR X468
+Uh-huh.
+
+PATIENT X468
+Yeah.  Okay.
+
+DOCTOR X468
+Do you have that already or?
+
+PATIENT X468
+No.
+
+DOCTOR X468
+No okay, yeah.  I think it might be helpful at this point in time.
+
+PATIENT X468
+I believe it is.
+
+DOCTOR X468
+Yeah.  I'll see if I can get that set up.
+
+PATIENT X468
+Oh she can make suggestions you know.
+
+DOCTOR X468
+Sure, yeah.
+
+PATIENT X468
+You know maybe you should go to the hospital.
+
+DOCTOR X468
+Exactly.
+
+PATIENT X468
+You know.
+
+DOCTOR X468
+Yeah.
+
+PATIENT X468
+Lighten up on the crown or you know things like that.
+
+DOCTOR X468
+Yeah, yeah.
+
+PATIENT X468
+But I think it'd be a good idea.
+
+DOCTOR X468
+I think so too.  I'll see if I can, it'll take a while for it to get to but.
+
+PATIENT X468
+I know.
+
+DOCTOR X468
+But we'll get that started and um did you need any refills on any medications or anything?
+
+PATIENT X468
+Well, if he cut the hydrochlorothiazide to say 60.
+
+DOCTOR X468
+Uh-huh.
+
+PATIENT X468
+I mean to @@@ the nifedipine to say 60, I would need to get that refilled so I don't take the old 90 mg.
+
+DOCTOR X468
+Sure.  We will uh.
+
+PATIENT X468
+And only hydrochlorothiazide 25 mg would probably lower the cost.
+
+DOCTOR X468
+Yeah.  Well I'll ask him and see which one is better to do.
+
+PATIENT X468
+Okay.
+
+DOCTOR X468
+So.
+
+PATIENT X468
+Okay.  Yeah he's a good man.
+
+DOCTOR X468
+Yeah I mean either one is probably fine so.  I'll ask him.  Let me just take a listen to you and you want to sit up here okay?
+
+PATIENT X468
+Okay.
+
+DOCTOR X468
+@@@ oh you can finish your coffee.
+
+PATIENT X468
+Of course.  I'm gonna be here all day.
+
+DOCTOR X468
+Oh yeah, you have something else today?
+
+PATIENT X468
+No I'm gonna, I've had my blood drawn for my chemo tomorrow and I'm gonna eat lunch here.
+
+DOCTOR X468
+Good.  Yeah, @@@.
+
+PATIENT X468
+Uh-huh.
+
+DOCTOR X468
+Your blood work looks from the last time.  Say ah.
+
+PATIENT X468
+Ah.
+
+DOCTOR X468
+When was the last time you've seen the dentist?
+
+PATIENT X468
+You know I like the way you do things.  Oh about ten years ago.
+
+DOCTOR X468
+And do you have trouble eating or anything?
+
+PATIENT X468
+Uh no I eat soft food you know.
+
+DOCTOR X468
+You eat soft food.
+
+PATIENT X468
+And uh, according how this chemical thing works out you know if the process should go in remission or something then I worry about the teeth.
+
+DOCTOR X468
+Sure, no I understand.  That's more important right now.
+
+PATIENT X468
+Yeah.  So why worry about uh.
+
+DOCTOR X468
+Yeah.
+
+PATIENT X468
+Putting dentures in the gun.
+
+DOCTOR X468
+Deep breath for me.  Good, good.  Did they tell you had @@@ cause I don't hear anything.
+
+PATIENT X468
+They well.
+
+DOCTOR X468
+Did they tell you @@@.
+
+PATIENT X468
+They want; they first noticed it from the x-ray on the right side you know.
+
+DOCTOR X468
+Uh-huh.
+
+PATIENT X468
+And at then they gave me the other side they said I had a small one.
+
+DOCTOR X468
+Oh really.
+
+PATIENT X468
+And they wound up doing a.
+
+DOCTOR X468
+Biopsy.
+
+PATIENT X468
+Biopsy for the one on the right side you know.
+
+DOCTOR X468
+Right.  We need to see what the period, yeah and it did come back um.
+
+PATIENT X468
+@@@ especially on the right side.
+
+DOCTOR X468
+It's not working for you too.  @@@ no I @@@ secondary @@@.
+
+PATIENT X468
+Uh-huh.
+
+DOCTOR X468
+@@@ I think their small.
+
+PATIENT X468
+On the right side they're small.
+
+DOCTOR X468
+On both of them yeah.  That's good.
+
+PATIENT X468
+I'm gonna ask you a question doctor.
+
+DOCTOR X468
+Uh-huh.
+
+PATIENT X468
+See my feet.
+
+DOCTOR X468
+Yes.
+
+PATIENT X468
+They are so colonized like the raptor.
+
+DOCTOR X468
+The what?
+
+PATIENT X468
+A raptor, a bird of prey.
+
+DOCTOR X468
+Oh sure.
+
+PATIENT X468
+You know.
+
+DOCTOR X468
+You mean just like how it's like @@@.
+
+PATIENT X468
+No it's @@@.
+
+DOCTOR X468
+Yeah you know that's kind of uh one of the signs of, it's called clubbing.  Has anybody told you that?
+
+PATIENT X468
+No. 
+
+DOCTOR X468
+It's like um, it'll happen for a lot of different reasons.  Two of the most common ones are when people smoke a lot.
+
+PATIENT X468
+Uh-huh.
+
+DOCTOR X468
+They can get discolored like the bottom side @@@.
+
+PATIENT X468
+@@@ very much.
+
+DOCTOR X468
+Yeah its part and usually when that happens it's because people smoke a lot and then you worry about cancer, so the cancer causes the problem.
+
+PATIENT X468
+Oh okay.
+
+DOCTOR X468
+So it's uh nothing, we can't really do anything to change it.  You could just um you know clip your nails but they don't look that long I mean.
+
+PATIENT X468
+Uh-huh.  I clipped them last night.
+
+DOCTOR X468
+Yeah so but yeah it's just part of the.
+
+PATIENT X468
+Part of the, part of the situation.
+
+DOCTOR X468
+Right, right.  
+
+PATIENT X468
+I have a power port on the right side.
+
+DOCTOR X468
+Now what is it?
+
+PATIENT X468
+A power port.
+
+DOCTOR X468
+Oh power port, yeah I wanted to ask you where you get your chemo from.  Okay so yeah it didn't hurt to see it.
+
+PATIENT X468
+Huh.
+
+DOCTOR X468
+Looks good.  I'm just checking with you.  
+
+PATIENT X468
+Yeah okay, no problem.
+
+DOCTOR X468
+Everything looks great.  Let's see.  Good.  Just lay down for me and I'm gonna take a look at your feet @@@.
+
+PATIENT X468
+My skin is dry.  Always has sort of a crustiness of it.
+
+DOCTOR X468
+Yeah.  You put any lotion or anything on it?
+
+PATIENT X468
+Up until the last couple of days.  When I'm coming to the doctor I don't put any lotion on the day before that.
+
+DOCTOR X468
+I see.
+
+PATIENT X468
+So I can be more natural.
+
+DOCTOR X468
+I don't know, does that hurt you when I do that?
+
+PATIENT X468
+Uh no.
+
+DOCTOR X468
+Okay great, good.  Yeah that should, you should put some lotion on it.
+
+PATIENT X468
+And I wouldn't do that generally as a man.
+
+DOCTOR X468
+Oh I know.
+
+PATIENT X468
+My feet are not so.
+
+DOCTOR X468
+Yeah.
+
+PATIENT X468
+They just big.
+
+DOCTOR X468
+@@@.
+
+PATIENT X468
+Oh uh-huh.
+
+DOCTOR X468
+Alright, you can have a seat back there.
+
+PATIENT X468
+Alright.
+
+DOCTOR X468
+Alright, let me go talk to DOCTOR.  I think the main thing today is to kind of go down a little bit on your blood pressure medicine.
+
+PATIENT X468
+Okay.
+
+DOCTOR X468
+And then everything else looks alright.
+
+PATIENT X468
+Okay.
+
+DOCTOR X468
+Okay let me just go talk to him okay.
+
+PATIENT X468
+You think I make December 12, 2012?
+
+DOCTOR X468
+Do I think you'll make it?
+
+PATIENT X468
+Uh-huh.  
+
+DOCTOR X468
+I think so; I don't know that much about those things.  @@@.
+
+PATIENT X468
+That's the end of the world you know.
+
+DOCTOR X468
+That's right I remember you telling me that last time.
+
+PATIENT X468
+Uh-huh on the Mayan calendar.
+
+DOCTOR X468
+The way you look right now I think you'll make it.
+
+PATIENT X468
+Yeah I'm gaining a few pounds and I was you know hoping that wasn't permanent because.
+
+DOCTOR X468
+I understand you.
+
+PATIENT X468
+On this procedure they don't want you to bloat up.
+
+DOCTOR X468
+Right, right.
+
+PATIENT X468
+You know, it good to gain a few pound but you start bloating up and swelling in the feet and all that.
+
+DOCTOR X468
+Yeah.
+
+PATIENT X468
+It's not good.  Okay doc.
+
+DOCTOR X468
+Alright I'll be right back.
+
+PATIENT X468
+Uh-huh.
+
+(DOCTOR OUT:  48:09  DOCTOR IN:  51:42)
+
+(Knock on the door)
+
+PATIENT X468
+Come on.
+
+DOCTOR X468
+He said to just cut out the hydrochlorothiazide.
+
+PATIENT X468
+Okay.
+
+DOCTOR X468
+To keep the nifedipine at the 90.
+
+PATIENT X468
+Uh-huh.
+
+DOCTOR X468
+Um and cut out the @@@.
+
+PATIENT X468
+The lisinopril okay.
+
+DOCTOR X468
+Yeah okay.
+
+PATIENT X468
+So we remove more pills.
+
+DOCTOR X468
+Right.  Right and if your blood pressure goes high you can start taking it again but I don't think it's gonna go high right so.  Alright and then I'll put in for the nursing to come visit you and that could get set-up over the next couple of weeks okay.
+
+PATIENT X468
+Uh okay.  They've got my phone number right?
+
+DOCTOR X468
+They should, what is it just so I can have it too.
+
+PATIENT X468
+NUMBER.
+
+DOCTOR X468
+Uh-huh.
+
+PATIENT X468
+NUMBER.
+
+DOCTOR X468
+NUMBER uh-huh.
+
+PATIENT X468
+NUMBER.
+
+DOCTOR X468
+NUMBER okay, sounds good.
+
+PATIENT X468
+Would you check one thing else for me?
+
+DOCTOR X468
+Uh-huh.  What's that?
+
+PATIENT X468
+Uh when I was in the GU Clinic three weeks ago.
+
+DOCTOR X468
+Yeah.
+
+PATIENT X468
+They took a PSA on me.
+
+DOCTOR X468
+It was 6.12, so it's good.  You just having @@@.
+
+PATIENT X468
+Cause it had jumped from 4 to 6.
+
+DOCTOR X468
+You know that's uh, yeah 4 to 6 but it's been 6 before in like 2008, it was 6.47.
+
+PATIENT X468
+Uh-huh.
+
+DOCTOR X468
+And it was like 5 in May.  It kind of jumps around you know, that's not a big difference.  What you worry about is if it goes up by a lot, like if it doubles or triples.
+
+PATIENT X468
+Or keeps inching up.
+
+DOCTOR X468
+Yeah.
+
+PATIENT X468
+You know each time a little worse okay.
+
+DOCTOR X468
+Okay.
+
+PATIENT X468
+Cause I was just wondering about that.
+
+DOCTOR X468
+Yeah.  So it looks, I wouldn't worry about it.
+
+PATIENT X468
+I was in the GU, he seemed pretty, oh your PSA was 6, that's not good, okay.
+
+DOCTOR X468
+Oh it's not the, it's not anything to worry about.
+
+PATIENT X468
+What good is for one is average for another, I'm way over that.
+
+DOCTOR X468
+Right, right.
+
+PATIENT X468
+I worked with doctors a long time.
+
+DOCTOR X468
+Yeah.  Alright, so come back me and see me in three months okay.
+
+PATIENT X468
+Uh-huh.
+
+DOCTOR X468
+You have people with the Oncology doctors right, who are gonna see you every three weeks?
+
+PATIENT X468
+Yeah I have to be there tomorrow to get another zapping.
+
+DOCTOR X468
+Yeah.
+
+PATIENT X468
+So I don't have to see DOCTOR?
+
+DOCTOR X468
+No I talked to him and he just said you know to get off the hydrochlorothiazide.
+
+PATIENT X468
+Okay he said that.  I must be doing pretty good.
+
+DOCTOR X468
+Yeah, yeah.  Alright and I'll put, @@@ so just stop taking the hydrochlorothiazide.
+
+PATIENT X468
+Okay.
+
+DOCTOR X468
+Okay.
+
+PATIENT X468
+And you want to see me in three months okay.
+
+DOCTOR X468
+Alright.
+
+PATIENT X468
+Okay I'm a thank you doc.
+
+DOCTOR X468
+Alright, @@@.
+
+PATIENT X468
+@@@.
+
+DOCTOR X468
+I've renewed your prescriptions.  Have a day sir.
+
+PATIENT LEAVES:  55:21.
+
+
+
+

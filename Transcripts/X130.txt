@@ -1,0 +1,577 @@
+
+DOCTOR X130
+PATIENT?
+
+PATIENT X130 
+Yes ma'am.  How are you today?
+
+DOCTOR X130
+I'm good, how are you?
+
+PATIENT X130
+Okay.  @@@.
+
+DOCTOR X130
+@@@.
+
+PATIENT X130
+@@@.
+
+DOCTOR X130
+Really.  @@@.
+
+PATIENT X130
+You know what @@@ a couple weeks ago I came in, I came into the hospital and I have like a stomach pain or something.
+
+DOCTOR X130
+Uh-huh.
+
+PATIENT X130
+And um this is from someone in Primary Care and DOCTOR, she suggested I get a course of action which I follow and it seems to resolve itself.  She said @@@ for 24 hours or a subsequent 24 hour period to be on a liquid diet.
+
+DOCTOR X130
+Okay.
+
+PATIENT X130
+She said to allow my colon and things to kind of relax.
+
+DOCTOR X130
+Okay.
+
+PATIENT X130
+At any rate that seems to have occurred and then this morning I woke up and I had an explosive case of diarrhea.
+
+DOCTOR X130
+Uh-huh.
+
+PATIENT X130
+And then you know what, sitting there waiting for you it occurred to me what happened to me and I know what I did.
+
+DOCTOR X130
+What'd you do?
+
+PATIENT X130
+I bought a brand new stove.
+
+DOCTOR X130
+Uh-huh.
+
+PATIENT X130
+And I had the stove put in on Thursday.
+
+DOCTOR X130
+Uh-huh.
+
+PATIENT X130
+And yesterday was the first time that I actually fried something in it.
+
+DOCTOR X130
+Okay.
+
+PATIENT X130
+And I fried some chicken.
+
+DOCTOR X130
+Okay.
+
+PATIENT X130
+And chicken fried too quickly and what I did was, I bit into that chicken and when I bit into a few parts, I realized after I saw I looked at the bone and everything, I realized that chicken wasn't done.
+
+DOCTOR X130
+@@@.
+
+PATIENT X130
+It wasn't cooked right.  So what I did with the subsequent pieces that I made and I smothered them.
+
+DOCTOR X130
+Okay.
+
+PATIENT X130
+To make sure they were done but I think what gave me the stomach trauma was that piece of chicken that I ate.
+
+DOCTOR X130
+Uh-huh.
+
+PATIENT X130
+It wasn't done.
+
+DOCTOR X130
+Okay.
+
+PATIENT X130
+That can do it can't it?
+
+DOCTOR X130
+Oh sure.
+
+PATIENT X130
+Uh-huh and I think that's what it is.
+
+DOCTOR X130
+Okay.  So @@@ made this appointment is for this abdominal pain?
+
+PATIENT X130
+That's right uh-huh.
+
+DOCTOR X130
+And nothing else okay.  How long would that have been?
+
+PATIENT X130
+Oh it started at 7:15 this morning.
+
+DOCTOR X130
+Okay.  When did you eat the chicken though?
+
+PATIENT X130
+Last night.
+
+DOCTOR X130
+Okay.
+
+PATIENT X130
+And I put some, took sedatives and went to sleep and slept through the night.
+
+DOCTOR X130
+Okay.
+
+PATIENT X130
+Okay and then when I woke up, I think that the @@@ made me wake up.
+
+DOCTOR X130
+Hmm.
+
+PATIENT X130
+Okay.  @@@ doctor.
+
+DOCTOR X130
+Where is there abdominal pain?
+
+PATIENT X130
+Just right here, lower abdomen.
+
+DOCTOR X130
+And has it been constant in nature, is it constant?
+
+PATIENT X130
+No, it's intermittent.
+
+DOCTOR X130
+Okay.
+
+PATIENT X130
+And that's what I was telling the nurse, it's a 4.
+
+DOCTOR X130
+Okay.
+
+PATIENT X130
+@@@ moderate @@@.
+
+DOCTOR X130
+Uh-huh.  So when was the diarrhea?
+
+PATIENT X130
+No it's all gone as we speak.
+
+DOCTOR X130
+How many times have you gone today?
+
+PATIENT X130
+Six times today.  Now it's just kind of.
+
+DOCTOR X130
+Did you @@@ anything?
+
+PATIENT X130
+Yes it is.  So there's nothing left in my stomach but when I went to the washroom it was just my bowels in terms of @@@.
+
+DOCTOR X130
+Uh-huh.
+
+PATIENT X130
+Yeah just @@@ but there isn't anything in there anymore that'll come out.
+
+DOCTOR X130
+Okay.  No blood?
+
+PATIENT X130
+No ma'am.
+
+DOCTOR X130
+Okay.
+
+PATIENT X130
+No ma'am.
+
+DOCTOR X130
+Were you able to eat anything today?
+
+PATIENT X130
+Uh I ate some oatmeal and toast.
+
+DOCTOR X130
+@@@.
+
+PATIENT X130
+@@@.  But @@@ drank a lot of @@@ and water this morning.
+
+DOCTOR X130
+Okay.
+
+PATIENT X130
+This is @@@.
+
+DOCTOR X130
+Okay.  How about nausea, vomiting?
+
+PATIENT X130
+No.
+
+DOCTOR X130
+Any new symptoms of chills?
+
+PATIENT X130
+No.
+
+DOCTOR X130
+Any fevers?
+
+PATIENT X130
+Not that I know of no.  When she took my temperature it was 96.7.
+
+DOCTOR X130
+Okay.  @@@ okay.
+
+PATIENT X130
+About ten days ago I had requested the results of my uh prostate and I did have the lab, okay but I believe it's all out of my system now.
+
+DOCTOR X130
+Okay.  But have @@@ now?
+
+PATIENT X130
+No not since then no.
+
+DOCTOR X130
+@@@ what your prostate test is?
+
+PATIENT X130
+Not @@@.
+
+DOCTOR X130
+Well you said that you.
+
+PATIENT X130
+I had to @@@.
+
+DOCTOR X130
+Yeah you say you were depressed because of something.
+
+PATIENT X130
+Yeah I was depressed because of the uh, it was a number of things.
+
+DOCTOR X130
+Uh-huh.
+
+PATIENT X130
+Something going on with my son and uh having problems with my prostate and then when I started taking the Prilosec and it resolved itself.
+
+DOCTOR X130
+Hmm.
+
+PATIENT X130
+And uh it's just a number of things okay.
+
+DOCTOR X130
+So how long @@@
+
+PATIENT X130
+Nine years, so I really felt bad after that.
+
+DOCTOR X130
+After nine years, why did you start using again?
+
+PATIENT X130
+I didn't @@@ use it.  @@@ I was at a graduation party and.
+
+DOCTOR X130
+Did you know it was there?
+
+PATIENT X130
+It was there and I was there and @@@.  So it really depressed me.  Cause I'm one of the reasons for this person does them sorts of things.
+
+DOCTOR X130
+Uh-huh.
+
+PATIENT X130
+Then along comes, @@@ you know I have my fits of depression or paranoia, the guilt.
+
+DOCTOR X130
+Uh-huh.
+
+PATIENT X130
+@@@ and I see now what they mean about it.  If there's not something @@@ world doctor @@@.
+
+DOCTOR X130
+Uh-huh.
+
+PATIENT X130
+@@@ saying.
+
+DOCTOR X130
+Uh-huh.
+
+PATIENT X130
+You take a drink or a drug, to try and eliminate that feeling.
+
+DOCTOR X130
+Uh-huh.
+
+PATIENT X130
+@@@ feeling worse.
+
+DOCTOR X130
+Yeah exactly.  Okay.  Okay do you have an appointment with your primary care doctor coming up soon?
+
+PATIENT X130
+No.
+
+DOCTOR X130
+You do not?  When was the last time you saw her?
+
+PATIENT X130
+Eight months ago.
+
+DOCTOR X130
+Okay.
+
+PATIENT X130
+On my way out of the hospital I'm going to walk back over there okay because they said they would give me one cause I really need to see her or maybe you could help me.  I'd like to have a colonoscopy.
+
+DOCTOR X130
+Colonoscopy?
+
+PATIENT X130
+Colonoscopy right.
+
+DOCTOR X130
+No I can set it up for you.
+
+PATIENT X130
+I'd appreciate it very much.  
+
+DOCTOR X130
+Okay.
+
+PATIENT X130
+Cause what I'm trying to do with respect to my health is act in a prophylactic manner.
+
+DOCTOR X130
+Are you still going, undergoing therapy for your prostate cancer?
+
+PATIENT X130
+No @@@.  And my PSA is just a number.  0.0025, that's the number isn't it?
+
+DOCTOR X130
+Uh-huh.  @@@.
+
+PATIENT X130
+@@@ probably you don't.  People have, that's kind of a cancer.  What is the probability of the recurrence?
+
+DOCTOR X130
+You know that's not my field at all.  You @@@.
+
+PATIENT X130
+Uh-huh.
+
+DOCTOR X130
+When you see your urologist.
+
+PATIENT X130
+Uh-huh.
+
+DOCTOR X130
+You can ask him.  I don't want to give you the numbers, I'm not sure.
+
+PATIENT X130
+Uh-huh.
+
+DOCTOR X130
+Okay.  @@@.
+
+PATIENT X130
+Okay.
+
+DOCTOR X130
+Okay.
+
+PATIENT X130
+And your area is internal medicine?
+
+DOCTOR X130
+Yes internal medicine.  Deep breaths.  Okay @@@.
+
+PATIENT X130
+Uh-huh.
+
+DOCTOR X130
+Now you think this pain is getting better in your stomach?
+
+PATIENT X130
+It's getting better @@@.
+
+DOCTOR X130
+Yeah, so just, you know just who did you see, @@@ was it the nurse?
+
+PATIENT X130
+Yeah, yeah.
+
+DOCTOR X130
+Yeah.
+
+PATIENT X130
+@@@.
+
+DOCTOR X130
+Yeah just take again you know uh.
+
+PATIENT X130
+@@@.
+
+DOCTOR X130
+Yeah just, we'll call it a bland diet, crackers um.
+
+PATIENT X130
+Uh-huh.  Some noodles?
+
+DOCTOR X130
+Yeah things like that.  Things that are not too spicy.
+
+PATIENT X130
+Okay.
+
+DOCTOR X130
+Um.
+
+PATIENT X130
+Well anyone who knows me thinks that I'm just renowned for a bland diet anyways.
+
+DOCTOR X130
+You are.
+
+PATIENT X130
+Yes uh-huh.  @@@ oatmeal and a glass of water @@@ stomach and my blood pressure @@@.  That's how I can do it.
+
+DOCTOR X130
+@@@ you are.  @@@ 
+
+PATIENT X130
+Uh-huh.
+
+DOCTOR X130
+I'll be right back.
+
+PATIENT X130
+Okay.
+
+(DOCTOR OUT:  25:05  DOCTOR IN: 28:33)
+
+DOCTOR X130
+Okay so uh they can make an appointment with your primary care doctor okay.
+
+PATIENT X130
+Uh-huh.
+
+DOCTOR X130
+@@@.  So a bland diet, @@@.
+
+PATIENT X130
+Yes @@@.  And now that's going to reflect on what originated.
+
+DOCTOR X130
+Yeah.
+
+PATIENT X130
+Uh-huh.
+
+DOCTOR X130
+No problem so let's see, @@@  
+
+PATIENT X130
+Okay.  And I won't be seeing you anymore?
+
+DOCTOR X130
+No.
+
+PATIENT X130
+We're going to have a client divorce is that what it means?  Well thank you doctor you've been very helpful.
+
+DOCTOR X130
+@@@.
+
+PATIENT X130
+And very professional.  Okay.
+
+DOCTOR X130
+@@@.
+
+PATIENT X130
+@@@.  Okay, okay, uh-huh.
+
+DOCTOR X130
+I'm sorry.
+
+PATIENT X130
+Okay.
+
+DOCTOR X130
+Good, okay.
+
+PATIENT X130
+@@@.
+
+DOCTOR X130
+@@@.
+
+PATIENT X130
+@@@.
+
+DOCTOR X130
+Okay.
+
+PATIENT X130
+Okay bye bye.
+
+DOCTOR X130
+Bye bye.
+
+PATIENT X130
+Right there?
+
+DOCTOR X130
+Yeah.
+
+PATIENT X130
+Thank you very much.  You have a good day.
+
+DOCTOR X130
+@@@.
+
+PATIENT X130
+@@@.
+
+DOCTOR X130
+@@@.
+
+PATIENT X130
+Okay, I'm going to go check out then.
+
+DOCTOR X130
+@@@.  Okay.
+
+PATIENT LEAVES:  30:50
+
+Time is 3:10.
+
+
+
+

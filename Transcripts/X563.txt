@@ -1,0 +1,999 @@
+
+DOCTOR X563
+PATIENT?  How you doing today? 
+
+PATIENT X563
+I'm doing fine.  How are you?
+
+DOCTOR X563
+I'm fine.
+
+PATIENT X563
+I'm fine.  This is on one of my best days.
+
+DOCTOR X563
+@@@.
+
+PATIENT X563
+Yeah we got the back door.
+
+DOCTOR X563
+Take a seat.  How can I help you today?
+
+PATIENT X563
+Well let's start off like this.  My medications.
+
+DOCTOR X563
+Okay.
+
+PATIENT X563
+I been coming back here up here almost a month because I don't have refills.
+
+DOCTOR X563
+Oh.  Let's get them, let's get that first checked first okay.
+
+PATIENT X563
+If you can, if you can.  Now I go again to see the kidney doctor for my next appointment I tells him.
+
+DOCTOR X563
+Uh-huh.
+
+PATIENT X563
+And I think it was gonna be mailed.  I wait two; three weeks I ain't get it.
+
+DOCTOR X563
+Okay.
+
+PATIENT X563
+So I come back again.  He puts it back in there again as he said.  But two, three weeks later, some medications trickle in, some I don't get.
+
+DOCTOR X563
+Okay.
+
+PATIENT X563
+So I call the Pharmacy and she said I need for the doctor to refill.  I guess that doctor that gave me the same must have to refill it or something cause the doctor up there couldn't refill it.
+
+DOCTOR X563
+I don’t know why.
+
+PATIENT X563
+So.
+
+DOCTOR X563
+We’ll check it out.
+
+PATIENT X563
+I went to the Pharmacy and she gave me a.
+
+DOCTOR X563
+Okay.
+
+PATIENT X563
+Temporary refill, 30 day refill.
+
+DOCTOR X563
+Alright well let's do it today.
+
+PATIENT X563
+Okay.
+
+DOCTOR X563
+So then everything.
+
+PATIENT X563
+Let's get it.
+
+DOCTOR X563
+So are you still taking Docusate?  You are?
+
+PATIENT X563
+What is that?
+
+DOCTOR X563
+That's the stool softener.
+
+PATIENT X563
+Yeah.
+
+DOCTOR X563
+You need refills?
+
+PATIENT X563
+No they send that like clockwork.
+
+DOCTOR X563
+Hydralazine for your blood pressure?
+
+PATIENT X563
+I got that.
+
+DOCTOR X563
+Do you want me to refill it though?  I'll refill it.
+
+PATIENT X563
+Yeah let's refill everything.
+
+DOCTOR X563
+Okay.
+
+PATIENT X563
+Now.
+
+DOCTOR X563
+Do you want to pick it up at the window or do you want?
+
+PATIENT X563
+No I'll wait as long as they can mail it.
+
+DOCTOR X563
+Okay.
+
+PATIENT X563
+I got enough to hold me over.  Now.
+
+DOCTOR X563
+How about the Senna?  That's also for the bowel, do you take that too?
+
+PATIENT X563
+Huh?
+
+DOCTOR X563
+Senna?
+
+PATIENT X563
+Senna.
+
+DOCTOR X563
+Yeah.
+
+PATIENT X563
+Oh that's for constipation?
+
+DOCTOR X563
+Yeah.
+
+PATIENT X563
+Uh.
+
+DOCTOR X563
+No you don't want it?
+
+PATIENT X563
+I got about four, five bottles of that.
+
+DOCTOR X563
+Okay.
+
+PATIENT X563
+See the thing about when you don't need it they send it.
+
+DOCTOR X563
+Okay so I'll discontinue it if you don't need it.
+
+PATIENT X563
+No I don't need, discontinue that.
+
+DOCTOR X563
+Okay, that's why we're gonna go through this.
+
+PATIENT X563
+Okay.
+
+DOCTOR X563
+Okay.  What about the pancrelipase?  That's like the.
+
+PATIENT X563
+Three times, three pills three times a day.
+
+DOCTOR X563
+Yeah do you need that?
+
+PATIENT X563
+I just got that thank you.
+
+DOCTOR X563
+Alright well let me refill it.
+
+PATIENT X563
+Yes ma'am refill it.
+
+DOCTOR X563
+So that you.  This says this cannot be refilled.
+
+PATIENT X563
+Now see we got a problem with it.
+
+DOCTOR X563
+Hold on, I am just going to @@@, okay.
+
+PATIENT X563
+Okay.
+
+DOCTOR X563
+Good oh yeah.
+
+PATIENT X563
+Alright.
+
+DOCTOR X563
+Got renewed.
+
+PATIENT X563
+Uh that's the difference between refilled and renewed?
+
+DOCTOR X563
+Yep.
+
+PATIENT X563
+Oh so uh water pills, I don't have none, you got to renew that.
+
+DOCTOR X563
+I know but we have to go through every one.
+
+PATIENT X563
+Okay, I know.
+
+DOCTOR X563
+You have 20 meds alright, I want to make sure we do it right.
+
+PATIENT X563
+I'm just telling things when they come in my head.
+
+DOCTOR X563
+Alright um.  I'll renew the pancrelipase.
+
+PATIENT X563
+Okay.
+
+DOCTOR X563
+Let me see what else is here.
+
+PATIENT X563
+I got so much we might be here all day.
+
+DOCTOR X563
+Oh no, I don't know.  @@@.  We're gonna go through it a little faster.
+
+PATIENT X563
+Alright.
+
+DOCTOR X563
+So, I the pancrelipase I just renewed that um.  The socks that you get your um.
+
+PATIENT X563
+I just went over there.
+
+DOCTOR X563
+Your kidney doctors can, they'll give you that.
+
+PATIENT X563
+Okay.
+
+DOCTOR X563
+Amlodipine, that's the blood pressure med.
+
+PATIENT X563
+Amlodipine.
+
+DOCTOR X563
+Do you take that once a day for your blood pressure?
+
+PATIENT X563
+I've got that.
+
+DOCTOR X563
+Alright well I'll refill it for you anyway. 
+
+PATIENT X563
+Thank you.
+
+DOCTOR X563
+Are you still taking the gabapentin three times a day?
+
+PATIENT X563
+Yes, yes I am.
+
+DOCTOR X563
+Okay I'll refill that.
+
+PATIENT X563
+Yes.
+
+DOCTOR X563
+Are you taking the iron supplementation?
+
+PATIENT X563
+Yes.
+
+DOCTOR X563
+Okay.  Do you need insulin syringes?
+
+PATIENT X563
+No I got enough of that.
+
+DOCTOR X563
+Alright.  Are you sure?  You don't want me to renew it?  I'm gonna renew it in case you need it.
+
+PATIENT X563
+Oh yeah you can renew it but I don't need none right now.
+
+DOCTOR X563
+Are you still taking the isosorbide dinitrate for the heart?
+
+PATIENT X563
+Isosorbide that's two pills two times, nope I ain't take that in about two, three months.
+
+DOCTOR X563
+Okay why did you stop taking it?
+
+PATIENT X563
+I have ran out.
+
+DOCTOR X563
+Alright well I'm gonna renew it for you.
+
+PATIENT X563
+No since I told you doctor, since I ain't come for two, three months, I don't even take it no more.
+
+DOCTOR X563
+Um.
+
+PATIENT X563
+Cause my blood pressure's been okay and when I first ran out I started having headaches but then after the headaches went away everything was okay.
+
+DOCTOR X563
+So you have to take it because you have CHF right?  Is that correct?
+
+PATIENT X563
+Who?
+
+DOCTOR X563
+You do.  Are you taking the hydralazine, you should be taking it with the hydralazine.
+
+PATIENT X563
+Well.
+
+DOCTOR X563
+Cause they're both it's like a pill that goes with the hydralazine.
+
+PATIENT X563
+I know.
+
+DOCTOR X563
+Are you still taking the hydralazine?
+
+PATIENT X563
+Yes but I haven't been taking the other thing for two months, you can just take the other pill, I don't want to be off and on.
+
+DOCTOR X563
+No that's why it's a problem that you stopped it yeah.  Cause no one took you off from it, you just ran out right?
+
+PATIENT X563
+Yes it ran out and nobody wouldn't ever refill it back until I came here.  I don't see this doctor in this clinic for like six months and the medication runs out before that time and I got to come back in here and refill it cause.
+
+DOCTOR X563
+Alright well we've got to make sure that you have refills.  So can I refill that?
+
+PATIENT X563
+I'm not gonna take it.
+
+DOCTOR X563
+I don't know what you're saying.
+
+PATIENT X563
+Okay wait a minute, wait a minute.
+
+DOCTOR X563
+@@@.
+
+PATIENT X563
+I don't want to die.
+
+DOCTOR X563
+Well it's a medication that's to be taken with the hydralazine for your CHF.
+
+PATIENT X563
+But, but.
+
+DOCTOR X563
+For your heart failure.
+
+PATIENT X563
+Right but since I haven't took it in.
+
+DOCTOR X563
+Yeah but it's not gonna make a difference in two months, it's the long term effects.
+
+PATIENT X563
+I know but when I stopped taking it I had headaches for about a month.  Now the headaches went away so if I get back on it the headaches gonna come back on me until it you know I take it for a while cause it get back into the system?
+
+DOCTOR X563
+Well were you having headaches while you took it or?
+
+PATIENT X563
+No, soon as I stopped taking it.
+
+DOCTOR X563
+Or were you having headaches after?
+
+PATIENT X563
+Soon as I ran out.
+
+DOCTOR X563
+Okay.
+
+PATIENT X563
+I started having headaches, almost every day.  I was taking Tylenol for it and then after about a month I got it where it started going away.
+
+DOCTOR X563
+Alright.  I'm gonna go ahead and renew it.  Cause if you don't want to take it.
+
+PATIENT X563
+I mean, uh uh you the doctor now if you say take it I'm gonna take it cause I don't know what I'm doing.  I'm just taking things that I have.
+
+DOCTOR X563
+Alright.  Well I don't want it, if it's causing you headaches that.
+
+PATIENT X563
+No I said.  When I ran out it gave me headaches, not while taking it.
+
+DOCTOR X563
+Well do you want me to renew it or not?
+
+PATIENT X563
+Now why you keep @@@ up?  @@@.
+
+DOCTOR X563
+Why should I have a renewal on medicine if you're not gonna take it?
+
+PATIENT X563
+Oh if you say I have to take it, I will take it.
+
+DOCTOR X563
+You should take it with your CHF.  So I'll order it.  Your CHF has been pretty controlled so if you feel like you're doing well without it you could just keep monitoring it.
+
+PATIENT X563
+Okay keep monitoring.
+
+DOCTOR X563
+Um.
+
+PATIENT X563
+Cause I'm trying to get the.
+
+DOCTOR X563
+Are you using the capsaicin stuff, the cream?
+
+PATIENT X563
+For my feet?
+
+DOCTOR X563
+It's wherever you have pain.
+
+PATIENT X563
+No I ain't, you can stop that too.
+
+DOCTOR X563
+Alright.
+
+PATIENT X563
+Uh.
+
+DOCTOR X563
+Um what about the calcium and vitamin D, are you taking that?
+
+PATIENT X563
+Uh that pill once a month?
+
+DOCTOR X563
+No twice a day.  Are you still taking it or not?
+
+PATIENT X563
+No.
+
+DOCTOR X563
+Calcium and vitamin D are you taking it?
+
+PATIENT X563
+Oh calcium yeah I'm taking that.
+
+DOCTOR X563
+Okay I'll renew that.  Um and then what about aspirin?  Baby aspirin, are you taking that?
+
+PATIENT X563
+Yes.
+
+DOCTOR X563
+You should take that okay good.  And the insulin?
+
+PATIENT X563
+Right.
+
+DOCTOR X563
+We might have to change that so I'm gonna leave that for now; we'll work on that later.  Are you taking the simvastatin for the cholesterol?
+
+PATIENT X563
+I ran out of that.
+
+DOCTOR X563
+Alright well you need to start taking that again.
+
+PATIENT X563
+Yes.
+
+DOCTOR X563
+I'll renew that.  
+
+PATIENT X563
+So you got to what's that renew it or refill it.
+
+DOCTOR X563
+Yeah.
+
+PATIENT X563
+That the word.
+
+DOCTOR X563
+Um the @@@, you're @@@ on that right?
+
+PATIENT X563
+Yes.
+
+DOCTOR X563
+Uh are you still taking the Lasix?
+
+PATIENT X563
+That's the water pill.
+
+DOCTOR X563
+Yeah and you're taking that.
+
+PATIENT X563
+I ran out of that.
+
+DOCTOR X563
+Okay.  I'll renew that.  
+
+PATIENT X563
+And I got a question for you.
+
+DOCTOR X563
+What, you can ask it.
+
+PATIENT X563
+Okay.  The reason why I don't want to get back on that what isosorbide.
+
+DOCTOR X563
+Uh-huh.
+
+PATIENT X563
+Because I can't take Viagra with that.
+
+DOCTOR X563
+Right you definitely cannot.
+
+PATIENT X563
+Right so that's why I don't want to get back on it cause I want to get back, I can't get Viagra.
+
+DOCTOR X563
+Well you still can't get back on Viagra because it's dangerous for your heart to use that but definitely not when your taking that medication.  What about hydralazine?
+
+PATIENT X563
+I'm taking that.
+
+DOCTOR X563
+Okay.  The reason why I don't want to put you back on the Viagra to be honest is that if you were to have a heart attack and you needed nitrates that'd be really dangerous.  Um are you taking the metoprolol still?
+
+PATIENT X563
+Yeah.  So they say I don't need to have sex and that's it.
+
+DOCTOR X563
+Well I don't want to tell you don't have sex.
+
+PATIENT X563
+Yeah @@@ I can't even get that @@@ to work.  One of the pills, one of them come.
+
+DOCTOR X563
+And you can't have sex without it?
+
+PATIENT X563
+Uh uh.
+
+DOCTOR X563
+Well I'll talk to DOCTOR I just with all the medications that you're taking, probably that's probably one of the reasons too.
+
+PATIENT X563
+Yeah I know.
+
+DOCTOR X563
+Let me talk to DOCTOR.  Okay I think that we got through all your medications enough so we're in a good place now.
+
+PATIENT X563
+Okay.
+
+DOCTOR X563
+Alright, I'll sign all of this.
+
+PATIENT X563
+I had blood work would that let you know if I need the insulin, I mean not the insulin, the anemia shot or do I have to wait till I go back upstairs.
+
+DOCTOR X563
+We put in your medicines but I think your blood work was fine actually that's why I don't want to um.
+
+PATIENT X563
+Okay.
+
+DOCTOR X563
+Let me look.  I'll look at it but I remember I was glancing at it before and I think it looked fine.
+
+PATIENT X563
+And the less shots I take that's cool with me.  Oh, I need some, I used to get this nasal spray.  It's uh.
+
+DOCTOR X563
+Yeah why do you need the nasal spray?
+
+PATIENT X563
+Cause I get, my nose shuts off at night, it closes.  I can't hardly breathe.  I used to get it but then I ran out and never refilled it uh I forgot the name of it.  It was @@@, something like that.  When the bottle say to use by such and such I throwed it away.  I should have kept it.  I forgot the name of it.
+
+DOCTOR X563
+Was it flunisolide, looks like they're sending, would like some more?
+
+PATIENT X563
+No it just squirt like that, squeeze it up there, it's like a solution uh.
+
+DOCTOR X563
+Yeah I think that's flunisolide @@@.
+
+PATIENT X563
+It's the name like BC.
+
+DOCTOR X563
+Hmm, I don't know that doesn't sound familiar but I'll give you something.  We'll be fine; you take two sprays up your nose with that.
+
+PATIENT X563
+What's the name of that?
+
+DOCTOR X563
+Flunisolide it's the thing that you put up your nose.  I think it'll help you.
+
+PATIENT X563
+Okay.  You can mail that to me.
+
+DOCTOR X563
+Okay.  Alright.  And what else, oh your @@@ were sent to you.
+
+PATIENT X563
+Oh since I take it Saturday night once a day it works out pretty good.
+
+DOCTOR X563
+When did you start taking this at night?  That was a while ago right?
+
+PATIENT X563
+Yeah.
+
+DOCTOR X563
+So the problem is, is what has it been?
+
+PATIENT X563
+It's been, if I go to sleep with my sugar at 200 I can last till 6 o'clock in the morning but if I go less than 200 about 1 o'clock if I don't eat a half a sandwich or something at night at about 1 or 12 o'clock, by 6 in the morning in the morning it be about 40 something.
+
+DOCTOR X563
+Okay.
+
+PATIENT X563
+So since I keep it at 200 I wake up it be a decent thing in the morning, like 90 to 108, 102.
+
+DOCTOR X563
+How much are you taking?
+
+PATIENT X563
+Uh I think 12 units.
+
+DOCTOR X563
+Okay.
+
+PATIENT X563
+But it varies from 12 to 14 I think.
+
+DOCTOR X563
+Do you ever feel when your sugar goes low?
+
+PATIENT X563
+Nope.  Except if I'm walking I might just fall down I know it get me.
+
+DOCTOR X563
+So do you take any um, any insulin with food with your.
+
+PATIENT X563
+With food.
+
+DOCTOR X563
+What food, with your meals?
+
+PATIENT X563
+Oh uh I takes it at bedtime.  This is after dinner.
+
+DOCTOR X563
+Oh so you don't take it ever with the meals?
+
+PATIENT X563
+No this one.
+
+DOCTOR X563
+But if you're um.
+
+PATIENT X563
+This is 10 o'clock at night before I go to bed so I done ate dinner and everything.
+
+DOCTOR X563
+So um do you take your finger stick, how often do you check your glucose during the day?
+
+PATIENT X563
+Twice.
+
+DOCTOR X563
+So once in the morning and once at night?
+
+PATIENT X563
+Yep.
+
+DOCTOR X563
+What about in the midday?
+
+PATIENT X563
+No I ain’t punching myself that many times, that's why I only have one shot.  I get.
+
+DOCTOR X563
+Would you be willing to take more than one shot?
+
+PATIENT X563
+No.  So what I do is I just eat lunch anyway, you know what I'm saying.  Cause I know it usually, it be, go down between that time, between 7 in the morning and 12 I know it's about time to eat so I then ate so there wasn't no reason to take it.  But do you want me to go back to it?
+
+DOCTOR X563
+Well I just wanted you to see, cause it's weird that your sugars are down so low at night.  I was hoping that we could get you to check your sugar maybe three or four times a day for the next couple weeks and then we can adjust it.
+
+PATIENT X563
+Adjust it again?
+
+DOCTOR X563
+Yeah.
+
+PATIENT X563
+But you know, one of those things is you gotta stick yourself.
+
+DOCTOR X563
+Well, one other @@@.
+
+PATIENT X563
+They have one, it's on TV it says put it on your arm and wait till your blood strip.
+
+DOCTOR X563
+That's not real I don't think, anyway.  Any more problems with bleeding from your rectum?  You had that last time.
+
+PATIENT X563
+Yeah.
+
+DOCTOR X563
+It's still doing it?
+
+PATIENT X563
+No every, I get it when I go back in there.
+
+DOCTOR X563
+Okay.
+
+PATIENT X563
+When I be constipated I got to go back in there and strain.
+
+DOCTOR X563
+Uh-huh.
+
+PATIENT X563
+But then after I get that first excuse me poop out, I'll be okay.
+
+DOCTOR X563
+Alright so what I want you to do, seriously, is do you think for two weeks you could take @@@ and check your blood sugars three or four times a day and then come back in and see our pharmacist to adjust your insulin?
+
+PATIENT X563
+Are you gonna give me an appointment to come back in and see the pharmacist?
+
+DOCTOR X563
+Yeah.
+
+PATIENT X563
+Okay.
+
+DOCTOR X563
+In two weeks.  Would you do it, just for two weeks?
+
+PATIENT X563
+Okay.
+
+DOCTOR X563
+I know it's a pain in the butt but I just get worried that your sugar goes so low and I want to see what it's kind of doing throughout the day.
+
+PATIENT X563
+Alright.
+
+DOCTOR X563
+And then we can adjust the insulin as needed.
+
+PATIENT X563
+Okay.
+
+DOCTOR X563
+Okay.
+
+PATIENT X563
+So in two weeks.
+
+DOCTOR X563
+And then did you get your flu shot, yes you did.
+
+PATIENT X563
+Yeah I got.
+
+DOCTOR X563
+Okay let me do this @@@.
+
+PATIENT X563
+@@@.
+
+DOCTOR X563
+Okay.
+
+PATIENT X563
+I got uh a log book or whatever you call it.
+
+DOCTOR X563
+Good.  So bring that in in two weeks.
+
+PATIENT X563
+I mean, I ain't got no log book for the sugar, I got a log book for the flu shot.
+
+DOCTOR X563
+Oh.  Well can you write down your sugars on a piece of paper?
+
+PATIENT X563
+Well don't you got a log book?
+
+DOCTOR X563
+Oh I don't have one.
+
+PATIENT X563
+Ask DOCTOR, they got them back there.
+
+DOCTOR X563
+Alright I'll see if they have one.  If not you can write it down on a piece of, for two weeks come on.
+
+PATIENT X563
+Yeah okay.
+
+DOCTOR X563
+Give me a break here right.
+
+PATIENT X563
+Yeah.
+
+DOCTOR X563
+Alright and then come and see me in three months and I renewed all your meds.
+
+PATIENT X563
+Is my meds gonna last for three months?
+
+DOCTOR X563
+Uh-huh.
+
+PATIENT X563
+Okay.
+
+DOCTOR X563
+I've got it set up.  If not you.
+
+PATIENT X563
+Cause it look like if you write uh.
+
+DOCTOR X563
+Yeah all of them have at least three refills on them and I renewed them all.
+
+PATIENT X563
+Okay.
+
+DOCTOR X563
+Okay.
+
+PATIENT X563
+Alright.  Did you put the isosorbide in there or?
+
+DOCTOR X563
+No cause you said you didn't want to take it, it wasn't making you feel good.
+
+PATIENT X563
+Alright.  And I know I can't take the other pill now, shoot.
+
+DOCTOR X563
+Well that's life @@@.
+
+PATIENT X563
+Life is over without that.
+
+DOCTOR X563
+Well I don't want life to be over for you.
+
+PATIENT X563
+If you can't have sex so now well you know it happens.
+
+DOCTOR X563
+Well let me go talk to DOCTOR okay.  Any swelling in your legs, let me see.  
+
+PATIENT X563
+Nope.
+
+DOCTOR X563
+Can I listen to your lungs?  I have to look at your feet too.
+
+PATIENT X563
+I just came from the foot doctor.
+
+DOCTOR X563
+You did, alright.  What'd they say?
+
+PATIENT X563
+They just clipped my toes and everything was okay.  No swelling.
+
+DOCTOR X563
+Okay.  Let me listen to your lungs and your heart.  
+
+PATIENT X563
+Do you want me to take off everything?
+
+DOCTOR X563
+No you can lay back.  Okay, deep breath, again, okay.  Okay.  @@@.  Alright I'll be right back.
+
+PATIENT X563
+Alright.
+
+(DOCTOR OUT:  91:17  DOCTOR IN:  95:17)
+
+DOCTOR X563
+Alright PATIENT so two weeks and you have an appointment.  Just have them make it out there and you can come see me in three months.
+
+PATIENT X563
+Okay.
+
+DOCTOR X563
+Okay.  Everything else is good.
+
+PATIENT X563
+Alright, okay.  Did you get the book?
+
+DOCTOR X563
+No I didn't get the book.
+
+PATIENT X563
+Alright.
+
+DOCTOR X563
+Thank you.
+
+PATIENT X563
+I'll just use the.
+
+DOCTOR X563
+@@@.
+
+PATIENT X563
+Yeah.
+
+DOCTOR X563
+Have a nice day.
+
+PATIENT X563
+Make them @@@ alright, thank you.
+
+PATIENT LEAVES:  95:47
+
+
+
+
+

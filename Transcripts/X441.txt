@@ -1,0 +1,624 @@
+
+DOCTOR X441
+PATIENT?
+
+PATIENT X441
+Yeah DOCTOR.
+
+DOCTOR X441
+What room are in?
+
+PATIENT X441
+Well that's not the one you said I didn't require additional care.
+
+DOCTOR X441
+Let me check your record though.  @@@.
+
+PATIENT X441
+They said that I don't need any.
+
+DOCTOR X441
+@@@.
+
+PATIENT X441
+No, no, let's see @@@.  I got to get this @@@.
+
+DOCTOR X441
+@@@.
+
+PATIENT X441
+@@@ second hand.
+
+DOCTOR X441
+Normally yes but not now.
+
+PATIENT X441
+What I need is like 24 hours, you think this is just a joke.
+
+DOCTOR X441
+You can head that off.
+
+PATIENT X441
+@@@.
+
+DOCTOR X441
+@@@.
+
+PATIENT X441
+@@@.  
+
+DOCTOR X441
+@@@.  You're at 98.3.  @@@ if you want something we'll order it.
+
+PATIENT X441
+Yeah that's what I'm saying.
+
+DOCTOR X441
+You stay here.  
+
+SECOND PERSON X441
+No way @@@.
+
+DOCTOR X441
+Do you want to see DOCTOR?
+
+SECOND PERSON X441
+No.
+
+DOCTOR X441
+@@@ standard of care.
+
+SECOND PERSON X441
+I'm sure you can deal with it.  @@@.
+
+THIRD PERSON X441
+We need to deal with the pain now.
+
+SECOND PERSON X441
+No way @@@.
+
+PATIENT X441
+@@@.
+
+SECOND PERSON X441
+Okay you gained.
+
+PATIENT X441
+Right.
+
+SECOND PERSON X441
+You say you gonna do it, holler at me, look like you gonna don't now correct it.
+
+PATIENT X441
+@@@.
+
+SECOND PERSON X441
+Now you making me mad, you're momma gonna have to carry you @@@.
+
+PATIENT X441
+What you all doing here?
+
+SECOND PERSON X441
+I won't do that.
+
+PATIENT X441
+@@@.
+
+SECOND PERSON X441
+@@@ you stop me.
+
+PATIENT X441
+I'm gonna talk to you later.
+
+SECOND PERSON X441
+You talk with me, you tell me cause you tell me, momma gonna go have @@@.  
+
+DOCTOR X441
+Yeah.
+
+SECOND PERSON X441
+So he told me he was gonna play a game and it gonna @@@ and @@@.
+Hell no, I can't play this game.
+
+DOCTOR X441
+Okay.  @@@.
+
+SECOND PERSON X441
+I can't help it I get it.
+
+THIRD PERSON X441
+As long as you can @@@.  Hmm, hmm, hmm.  I can't even think about that.
+
+DOCTOR X441
+@@@ your blood pressure is high.  Let's check your other arm.  Did you take your blood pressure medications today?  @@@.  
+
+SECOND PERSON X441
+@@@.
+
+DOCTOR X441
+Yeah @@@ okay.
+
+SECOND PERSON X441
+What @@@.
+
+DOCTOR X441
+@@@.  
+
+SECOND PERSON X441
+The last four.
+
+PATIENT X441
+Now @@@.
+
+DOCTOR X441
+Yeah.  @@@. 
+
+SECOND PERSON X441
+@@@.  Do I need to do a couple curl-ups?
+
+DOCTOR X441
+No @@@.
+
+SECOND PERSON X441
+@@@.
+
+DOCTOR X441
+I'll try it again.  @@@.  Do you take an aspirin a day?  @@@.  
+
+PATIENT X441
+Yeah the last time I @@@.
+
+DOCTOR X441
+And you never got it?
+
+PATIENT X441
+I use @@@ four or five times a day.
+
+DOCTOR X441
+Oh that's probably why @@@.
+
+PATIENT X441
+@@@.
+
+DOCTOR X441
+@@@.  
+
+PATIENT X441
+That's why they call them @@@.
+
+DOCTOR X441
+Okay.  How much @@@ do you use?
+
+SECOND PERSON X441
+@@@ this time what is it?
+
+DOCTOR X441
+150/72.  It's a little high.  Alright sir.
+
+SECOND PERSON X441
+You gonna do another one in the room?
+
+DOCTOR X441
+Already did one.
+
+SECOND PERSON X441
+Okay.
+
+DOCTOR X441
+This one is better 150/72.
+
+SECOND PERSON X441
+Okay.  Alright, thank you so much.
+
+DOCTOR X441
+Alright sir.  We probably @@@ get blood pressure medicine.  I'll give you the refills of hydrochlorothiazide.
+
+PATIENT X441
+Okay.
+
+DOCTOR X441
+@@@.  You were taking 25 probably.
+
+PATIENT X441
+Yeah and uh I still have some of the atenolol.
+
+DOCTOR X441
+Okay and then I'm gonna give you the aspirin.
+
+PATIENT X441
+Okay.
+
+DOCTOR X441
+Pick it up at the window or do you want to.
+
+PATIENT X441
+They can mail it.
+
+DOCTOR X441
+Mail it okay.  Aspirin @@@ and the hydrochlorothiazide.  Do you have a blood pressure cuff at home?
+
+PATIENT X441
+No.
+
+DOCTOR X441
+Okay.  Do you want to pick one up today?
+
+PATIENT X441
+Uh well.
+
+DOCTOR X441
+Or we can mail it.
+
+PATIENT X441
+You can mail it sure just @@@ mail it.
+
+DOCTOR X441
+@@@.  Okay so we're gonna have, I want you to get a blood pressure monitor.
+
+PATIENT X441
+Uh-huh.
+
+DOCTOR X441
+I want you to write down um your blood pressure okay every day.  Um and then I want you to come back in about two weeks.
+
+PATIENT X441
+Uh-huh.
+
+DOCTOR X441
+To recheck your blood pressure and see if you need to be started on any other medication or they may be like be normal on the atenolol and I wanted to also start you, you @@@ too so @@@.
+
+PATIENT X441
+@@@.
+
+DOCTOR X441
+Yeah you really really, I mean if you want all your, I mean you don't have that many medical problems.  You really want to.
+
+PATIENT X441
+Take your medicines.
+
+DOCTOR X441
+Yeah.  Otherwise and I mean you don't have that many problems.  I mean everything goes you know, you really @@@.  And then I'm gonna give a multivitamin.  Do you have problems with your stomach?
+
+PATIENT X441
+@@@.
+
+DOCTOR X441
+Yeah.  @@@ problems any more or?
+
+PATIENT X441
+Just constipation.
+
+DOCTOR X441
+Do you need the acid reflux medication?
+
+PATIENT X441
+The omeprazole.
+
+DOCTOR X441
+Yeah.  And then are you still drinking a lot or?
+
+PATIENT X441
+No I've tried to cut back.
+
+DOCTOR X441
+How much have you tried to cut back?
+
+PATIENT X441
+Uh I usually have a shot about 50 times a week now.
+
+DOCTOR X441
+Okay.  @@@.
+
+PATIENT X441
+@@@.
+
+DOCTOR X441
+Uh-huh.
+
+PATIENT X441
+Usually @@@ when I'm watching sports.
+
+DOCTOR X441
+Hmm okay.  Alright.  Well maybe some vitamins just so you don't have any problems @@@.
+
+PATIENT X441
+Oh yeah.
+
+DOCTOR X441
+You should take those and the folic acid and the thiamine and um a multivitamin okay.
+
+PATIENT X441
+Yeah.  
+
+DOCTOR X441
+@@@.
+
+PATIENT X441
+That's what it does?
+
+DOCTOR X441
+It's supposed to protect you from the drinking you know like sometimes whenever you drink you don't eat good foods, eat vegetables or.
+
+PATIENT X441
+Uh-huh.
+
+DOCTOR X441
+You know basically @@@ having problems with alcohol.  Okay and now so you get one shot three times a week.
+
+PATIENT X441
+Alright.
+
+DOCTOR X441
+And one beer too?
+
+PATIENT X441
+Yeah.
+
+DOCTOR X441
+Alright.  Anything else been bothering you?  @@@ following your activities or?
+
+PATIENT X441
+No.
+
+DOCTOR X441
+No.  You can probably @@@.  You're taking your medicines and is that the problem?
+
+PATIENT X441
+Yeah.  @@@.
+
+DOCTOR X441
+Is there any way you can pick up the blood pressure monitor today cause the problem is that if I have you come back to see the nurse you won't have a blood pressure monitor to write down okay.
+
+PATIENT X441
+Uh I really need to see if a physical, @@@ TB test.
+
+DOCTOR X441
+Uh-huh.  A TB.
+
+PATIENT X441
+So if I do the TB test I'll have to come back in later on.
+
+DOCTOR X441
+Yeah.
+
+PATIENT X441
+It starts with an H.
+
+DOCTOR X441
+Yeah.
+
+PATIENT X441
+Yeah.
+
+DOCTOR X441
+Okay.
+
+PATIENT X441
+Uh I know the last time I had one I think they didn't have that scheduled because nobody's here on the weekend.
+
+DOCTOR X441
+Yeah.  Yeah and this is a problem again.
+
+PATIENT X441
+Right.
+
+DOCTOR X441
+Today's Thursday, Friday, Saturday, Sunday.
+
+PATIENT X441
+So I'd probably have to come back Monday and @@@.
+
+DOCTOR X441
+Yeah.  Just come to see the nurse then.
+
+PATIENT X441
+Okay.
+
+DOCTOR X441
+Yeah.  I'll write the, you need to pick this up at Prosthetics when you leave okay.
+
+PATIENT X441
+Okay.  Prosthetics.
+
+DOCTOR X441
+Oh for the blood pressure monitor.
+
+PATIENT X441
+Oh for the blood pressure.
+
+DOCTOR X441
+So you should pick that up today or if you want to just wait until Monday that's fine too.  But either way I want you to come back and get your blood pressure checked by the nurse.  So I'll have you come back @@@.  One on Monday, can you come back Monday?  To do the @@@ and get your blood pressure checked alright and I'm going to renew all your medications so we'll do that.  And are you having any problems with headaches, vision changes?
+
+PATIENT X441
+No.
+
+DOCTOR X441
+Cough, sore throat?
+
+PATIENT X441
+@@@.
+
+DOCTOR X441
+@@@ chest pain or anything? No.
+
+PATIENT X441
+No.
+
+DOCTOR X441
+Oh you had a birthday, happy belated.
+
+PATIENT X441
+Thank you, you noticed.
+
+DOCTOR X441
+Yeah.  Um no problems urinating, no blood in your urine?
+
+PATIENT X441
+No.
+
+DOCTOR X441
+No peeing a lot at night or getting up to urinate at all?
+
+PATIENT X441
+No.
+
+DOCTOR X441
+Anything else then, any problems @@@?
+
+PATIENT X441
+Hmm.
+
+DOCTOR X441
+You just really need to take care of this @@@.
+
+PATIENT X441
+I can do that.
+
+DOCTOR X441
+@@@.  I'll have you see what's on there.  Have you noticed that you're having problems with your headaches as far as pain @@@.  Hop up, have you been noticing it @@@ the same way or anything?  Have your, the headache getting larger or anything?
+
+PATIENT X441
+Hmm.
+
+DOCTOR X441
+You @@@.
+
+PATIENT X441
+No.
+
+DOCTOR X441
+Have you noticed @@@ getting larger?  Okay.  Deep breath good, out.  In, out, in.  Can you lay back for me?  Did you always have this @@@ scar right here?
+
+PATIENT X441
+That's a scar.
+
+DOCTOR X441
+From what?
+
+PATIENT X441
+Uh this one here I got nailed back in my apartment.
+
+DOCTOR X441
+Oh okay.  Did they have to, what happened there @@@.
+
+PATIENT X441
+@@@.
+
+DOCTOR X441
+Oh @@@.  Okay.  Sit up for me.  Any problems with numbness or tingling or anything?  @@@.  Good, @@@ on both sides, @@@.  Okay.  Can you say ah.
+
+PATIENT X441
+Ah.
+
+DOCTOR X441
+Can you lift up your hips, @@@.  Now push out, push back good.  Alright.  @@@.  I'll have you come back in a couple, your @@@ sounds fine.  Have you had the flu shot?  @@@.  I think you should have that @@@.
+
+PATIENT X441
+Yeah.
+
+DOCTOR X441
+@@@ I'll be right back.
+
+(DOCTOR OUT:  17:47  DOCTOR IN:  20:07)
+
+DOCTOR X441
+Alright so I wanted to ask you um, you don't smoke at all?
+
+PATIENT X441
+Yeah.
+
+DOCTOR X441
+Oh really.  How much do you smoke?
+
+PATIENT X441
+Uh I'd say five cigarettes a day.
+
+DOCTOR X441
+Five cigarettes a day alright.  Well do you think you can try less or what do you think?
+
+PATIENT X441
+Hmm I'll work on it.
+
+DOCTOR X441
+You'll work on it.
+
+PATIENT X441
+I'll try.  Well it goes along with the drinking you know.
+
+DOCTOR X441
+Yeah.
+
+PATIENT X441
+And during @@@ it helps if you drink.
+
+DOCTOR X441
+Okay.  I @@@.
+
+PATIENT X441
+@@@.
+
+DOCTOR X441
+Well do you think you can cut off on the drinking like five and cutting down @@@ for one month and just see if you can do it.
+
+PATIENT X441
+Yeah I know.
+
+DOCTOR X441
+Cause you don't think you have a problem right?
+
+PATIENT X441
+No.
+
+DOCTOR X441
+Yeah.  Just see if you can cut it off in one month and then we'll talk about it next time and we'll see if the smoking will you know go along with that.  Some people @@@ okay.
+
+PATIENT X441
+@@@.
+
+DOCTOR X441
+Yeah.  Yeah, bum off of other people okay, alright.  @@@ so be compliant with your medications, check your blood pressure every day and get the monitor on Monday right and then make an appointment with the nurse, get the TB, here's your form back.  We'll just @@@.  And take your medications.  @@@.
+
+PATIENT X441
+@@@.
+
+DOCTOR X441
+Yeah I think it'll be three days @@@.  
+
+PATIENT X441
+@@@ outside. 
+
+DOCTOR X441
+How much is that 343?  Yeah that's an actual weight too.  Okay.
+
+PATIENT X441
+Hmm.
+
+DOCTOR X441
+Just try to cut down on everything okay.  If you're over eating, with the smoking and drinking okay.
+
+PATIENT X441
+That's a bunch of things.
+
+DOCTOR X441
+Yeah alright?
+
+PATIENT X441
+Okay.
+
+DOCTOR X441
+Okay bye.
+
+PATIENT X441
+Thanks a lot now.
+
+DOCTOR X441
+Take care.
+
+PATIENT X441
+Take care
+
+PATIENT LEAVES:  23:20
+
+
+
+

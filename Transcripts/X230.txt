@@ -1,0 +1,682 @@
+
+DOCTOR X230 
+PATIENT?
+
+PATIENT X230
+Yes ma'am.
+
+DOCTOR X230
+Hi.  How you doing?
+
+PATIENT X230
+Okay.  
+
+DOCTOR X230
+Good to see you.
+
+PATIENT X230
+It's been a long time.
+
+DOCTOR X230
+I know, is that a good thing?  Have you been healthy?
+
+PATIENT X230
+Oh yes and no.
+
+DOCTOR X230
+Oh okay.
+
+PATIENT X230
+Odds and ends.
+
+DOCTOR X230
+Okay.  Come on in.  Have a seat.  So tell me how you've been.
+
+PATIENT X230
+Well so far, so good. I uh.
+
+DOCTOR X230
+Any issues today?
+
+PATIENT X230
+No, not really.  I uh just got back from Arizona.
+
+DOCTOR X230
+Okay.
+
+PATIENT X230
+I spent eight months over there.  Uh they got me here with some medication that I couldn't get here but I got it over there, why I don't know.
+
+DOCTOR X230
+Okay.  Are you still working out?
+
+PATIENT X230
+I try, yes ma'am.
+
+DOCTOR X230
+Okay.  How many times a week?
+
+PATIENT X230
+Well right now I'm trying to go twice a week.  I used to go three times but uh the last 2 1/2 years, I don't know if you remember but my wife had those strokes and she had another one in 09.
+
+DOCTOR X230
+Uh-huh.
+
+PATIENT X230
+That's why we went to Arizona for the winter last year.
+
+DOCTOR X230
+Okay.
+
+PATIENT X230
+And uh we had to come back here because uh Medicare.  We had to be here in Illinois.
+
+DOCTOR X230
+Okay.
+
+PATIENT X230
+We just got back here in December.
+
+DOCTOR X230
+Okay.
+
+PATIENT X230
+Which I hated it, to come back.
+
+DOCTOR X230
+Uh-huh.  Well let’s see here, so you're still getting your alprazolam here.
+
+PATIENT X230
+There's one medication that came here a couple of weeks back that one of the doctors wanted canceled.
+
+DOCTOR X230
+Okay.
+
+PATIENT X230
+Uh, well I don't pronounce those words.
+
+DOCTOR X230
+Doxycycline?
+
+PATIENT X230
+Yeah.
+
+DOCTOR X230
+Now why are you taking that?
+
+PATIENT X230
+Because of my nose, it breaks out.
+
+DOCTOR X230
+Oh okay.
+
+PATIENT X230
+I get uh blisters.
+
+DOCTOR X230
+Uh-huh.
+
+PATIENT X230
+And uh this was recommended by Dermatology.
+
+DOCTOR X230
+Right.
+
+PATIENT X230
+Now when I, this doctor said it's no good, it could cause problems later on.
+
+DOCTOR X230
+Well it can.  How often do you use it?
+
+PATIENT X230
+Well as long as nothing pops up on my nose I don't take it.
+
+DOCTOR X230
+Right.
+
+PATIENT X230
+Sometimes I take three times a week, sometimes twice, all depends.  When I see my nose breaking out that's when I take the medication.
+
+DOCTOR X230
+So are you taking 100 mg of metoprolol now?  Cause we have you on 200 here.
+
+PATIENT X230
+Uh, what does that say 200?
+
+DOCTOR X230
+It says 100.
+
+PATIENT X230
+100 yeah.
+
+DOCTOR X230
+And we have 200.
+
+PATIENT X230
+Yeah but I've been taking half of it.
+
+DOCTOR X230
+You take half a pill?
+
+PATIENT X230
+I've been taking half of it right.
+
+DOCTOR X230
+Alright let me just change that cause.
+
+PATIENT X230
+I should have brought the bottle.
+
+DOCTOR X230
+Alright.
+
+PATIENT X230
+Now this here, this one here.
+
+DOCTOR X230
+Uh-huh.
+
+PATIENT X230
+Medication.
+
+DOCTOR X230
+The oxybutynin?
+
+PATIENT X230
+Yeah uh was given to me because a couple of times I find myself uh wet at night.
+
+DOCTOR X230
+Uh-huh.
+
+PATIENT X230
+The pajamas or I couldn't hold it so I stopped at the VA over there in Arizona and they says no you don't have an infection it just could be your bladder and I've been taking that too as I need it.
+
+DOCTOR X230
+Okay.
+
+PATIENT X230
+Now one thing I don't understand.
+
+DOCTOR X230
+Yeah.
+
+PATIENT X230
+Uh the VA Hospital, as far as I understand, regardless of where they are, you should honor the other place, their instructions or whatever.
+
+DOCTOR X230
+Uh-huh.
+
+PATIENT X230
+I was there and I didn't have no problem.  They registered me right away.  Uh I went to the hospital; they assigned me to a doctor.
+
+DOCTOR X230
+Uh-huh.
+
+PATIENT X230
+I came here and I ran a couple medications and they wouldn't give them to me, they said no, no you have to see a doctor.
+
+DOCTOR X230
+Well you know I have to actually renew the medicines.  I have to put in the order otherwise the Pharmacy can't fill it.  So that might have been what happened.
+
+PATIENT X230
+Yeah but if I, I can see if I'm out completely that I have to renew it but if it's still good, the bottle says renew a couple of more times or whatever.
+
+DOCTOR X230
+Uh-huh.
+
+PATIENT X230
+Why when I.
+
+DOCTOR X230
+I don't know the answer to that.  That's weird cause.  I don't really know.
+
+PATIENT X230
+Why isn't that particular medication that I'm telling you about my nose?
+
+DOCTOR X230
+Yeah that one had expired in our system.  That's why you couldn't get it.
+
+PATIENT X230
+Oh.
+
+DOCTOR X230
+So it needed to be reordered by a doctor and I've done that.
+
+PATIENT X230
+And then he only gave me enough, he gave me nine pills only.
+
+DOCTOR X230
+Uh-huh.
+
+PATIENT X230
+Like I say I take that when my nose breaks out.
+
+DOCTOR X230
+Right.  Alright and then are you doing the aspirin through the VA?
+
+PATIENT X230
+No.  
+
+DOCTOR X230
+You're just buying that over-the-counter?
+
+PATIENT X230
+You cut me off.
+
+DOCTOR X230
+Well you can get it here.  It's probably cheaper to just buy it over-the-counter.
+
+PATIENT X230
+Its cheaper buying over-the-counter yes, that's alright.  I can handle that one.
+
+DOCTOR X230
+I mean I can order it for you through here.
+
+PATIENT X230
+No I'll get it.
+
+DOCTOR X230
+Okay.
+
+PATIENT X230
+Uh the uh, the softener.
+
+DOCTOR X230
+Yeah.  I reordered that.
+
+PATIENT X230
+You did, good.  Cause they canceled me here one time and then I just noticed I still got it here.  Now the other medication that I'm taking is um like complex vitamin B.
+
+DOCTOR X230
+Uh-huh.
+
+PATIENT X230
+And stuff like that.
+
+DOCTOR X230
+Uh-huh.
+
+PATIENT X230
+Those were recommended by the cardiologist.
+
+DOCTOR X230
+Okay.
+
+PATIENT X230
+And I'm still taking that.
+
+DOCTOR X230
+Okay.
+
+PATIENT X230
+Yeah the one medication that is.
+
+DOCTOR X230
+The saw palmetto that's an over-the-counter thing.
+
+PATIENT X230
+Uh the one medication that I don't have here.
+
+DOCTOR X230
+Lovaza?
+
+PATIENT X230
+Yeah.
+
+DOCTOR X230
+Yeah we don't have that here.  That's not in our pharmacy.
+
+PATIENT X230
+And that baby's expensive.
+
+DOCTOR X230
+Uh-huh.  That's why we don't have it in our pharmacy.
+
+PATIENT X230
+And I been taking that since I had my bypass.
+
+DOCTOR X230
+Uh-huh.  I can see if I can get it.
+
+PATIENT X230
+I had a uh blood work over there and I'm always concerned about my prostate and according to them it was real good, it was 1. something.
+
+DOCTOR X230
+Okay.  How much of the Lovaza are you on?  Do you remember?
+
+PATIENT X230
+No it's not, I don't have it here.  I'm surprised, yeah wait a minute, wait a minute.  That's my wife's list.  I thought I had everything in order, 1 mg.
+
+DOCTOR X230
+Is that daily?  Once a day?
+
+PATIENT X230
+This?  Again I take it three times a week, four times a week because it's expensive.
+
+DOCTOR X230
+Okay.
+
+PATIENT X230
+See the metoprolol, I got it here as a half.
+
+DOCTOR X230
+Okay.  Alright, have you eaten today?
+
+PATIENT X230
+Uh I had coffee and a roll.
+
+DOCTOR X230
+Okay.  Do you still see DOCTOR?
+
+PATIENT X230
+Yeah my cardiologist.
+
+DOCTOR X230
+Okay.
+
+PATIENT X230
+Yeah.  In fact I should have had a stress test, a stress test.  I haven't seen him since two years ago or three years ago and I call him up, he says yeah come in and we'll give a test.
+
+DOCTOR X230
+Uh-huh.
+
+PATIENT X230
+You know do the stress test and all that.
+
+DOCTOR X230
+And it was okay?
+
+PATIENT X230
+Yeah he did blood work on that too, yes.  He showed me the x-ray before and after and.
+
+DOCTOR X230
+You mean the stress test?
+
+PATIENT X230
+Yeah and they show pretty good.
+
+DOCTOR X230
+Good.  Okay.
+
+PATIENT X230
+I'm taking um that uh sleeping pill.
+
+DOCTOR X230
+Uh-huh.
+
+PATIENT X230
+Uh because I get them, they call it stress with my wife and had to put her in a home, after 2 1/2 years taking care of her.  It was getting to me.  I wasn't getting no sleep, at all, maybe two hours, three hours at night.
+
+DOCTOR X230
+Yeah.
+
+PATIENT X230
+I'm still taking that and that sort of helps me relax at night.  Well it helps me fall asleep.  
+
+DOCTOR X230
+Alright and then you had your colonoscopy in 2002 right?
+
+PATIENT X230
+The what?
+
+DOCTOR X230
+You had your colonoscopy in 2002 at Godley's?
+
+PATIENT X230
+Yeah.
+
+DOCTOR X230
+So you're due for another one next year okay.
+
+PATIENT X230
+Okay, if I'm around.
+
+DOCTOR X230
+Um can we do labs today?
+
+PATIENT X230
+I don't know, you want to do it?
+
+DOCTOR X230
+Well I'd like to do your fasting labs but you haven't been fasting.
+
+PATIENT X230
+No well they didn't tell me.
+
+DOCTOR X230
+Yeah.  So what do you want me to do?  Do you want me to order them and you can come back at your convenience and get them done?
+
+PATIENT X230
+Yeah why don't we do that.  Like I said in Arizona they did a blood work.
+
+DOCTOR X230
+When was the most recent blood work?  That was at the VA right?
+
+PATIENT X230
+Right.
+
+DOCTOR X230
+Let me take a look at it.
+
+PATIENT X230
+It should be there.
+
+DOCTOR X230
+Sometimes it's hard to pull it up.  
+
+PATIENT X230
+Since I had my angioplasty done, back in '93, this same doctor, DOCTOR, suggested I should have a little wine at night.
+
+DOCTOR X230
+Yeah @@@.
+
+PATIENT X230
+So I been doing that.  In fact, they did the stress test and I said shall I stay on the wine, yes.
+
+DOCTOR X230
+Uh-huh.
+
+PATIENT X230
+But no more than two glasses though.
+
+DOCTOR X230
+Uh-huh.  Oh your cholesterol is okay on those labs.
+
+PATIENT X230
+What was it over there?
+
+DOCTOR X230
+Your total cholesterol is 152; we like to see less than 100 or less than 200.
+
+PATIENT X230
+So.
+
+DOCTOR X230
+And your bad cholesterol, your LDL we like to be less than 100 and yours was 86 so that's good.
+
+PATIENT X230
+Yeah cause I was going at the Y over there.
+
+DOCTOR X230
+Uh-huh.
+
+PATIENT X230
+Twice a week, three times a week sometimes.  I try to keep active.
+
+DOCTOR X230
+That's good.
+
+PATIENT X230
+And now with the wife in there, I got to go see her so the most I can go is twice a week.
+
+DOCTOR X230
+Hop up here; let's take a look at you.  So are you all alone now at home?
+
+PATIENT X230
+Yeah.
+
+DOCTOR X230
+Okay, open up for me, say ah.
+
+PATIENT X230
+Ah.
+
+DOCTOR X230
+You doing okay at home?  Kind of getting around okay?
+
+PATIENT X230
+Yeah.  Cleaning.
+
+DOCTOR X230
+Cleaning.
+
+PATIENT X230
+Washing, pressing, cooking, dusting.
+
+DOCTOR X230
+Yeah.  So you're going to work huh.  Big deep breaths.  Good.  Any swelling in your legs?
+
+PATIENT X230
+No, oh I got my long socks.
+
+DOCTOR X230
+That's okay.  Well everything looks good.  Alright, give me just a couple of minutes and let me go talk to my boss and we'll get you going okay?
+
+PATIENT X230
+Okay.
+
+DOCTOR X230
+You can hop on down.  Actually, let me just quickly look and see at my reminders to see what we need to do @@@.  Anything in your body that's metal, @@@, nothing like that.  You had your CABG though right, you had a bypass?
+
+PATIENT X230
+Yeah.  My bypass.  The only problem I've got is with my knee but an injury before the Korean now its bone with bone.  If I do a lot of walking or standing it swells up on me.  I was trying to prove that it happened just before the Korean and I can't find the records.  I know there's records here, they took care of it but they x-rayed it.
+
+DOCTOR X230
+Okay give me just a couple of minutes okay.
+
+PATIENT X230
+Yeah.
+
+(DOCTOR OUT:  83:07  DOCTOR IN:  93:06
+
+DOCTOR X230
+Well alright.  Well hopefully they got the medicines kind straightened out.
+
+PATIENT X230
+Okay yeah.  I just ordered this here uh, you don't know if it's been mailed.
+
+DOCTOR X230
+Well actually let me see if I can tell or not.
+
+PATIENT X230
+Cause I got enough just for this week.
+
+DOCTOR X230
+Mail, so it was just mailed yesterday.
+
+PATIENT X230
+Oh good, good.
+
+DOCTOR X230
+So um @@@ three months or so.
+
+PATIENT X230
+Okay.
+
+DOCTOR X230
+Okay and then we'll repeat your labs at that time here.
+
+PATIENT X230
+Okay.
+
+DOCTOR X230
+Okay.
+
+PATIENT X230
+Uh.
+
+DOCTOR X230
+If you're not gonna be around I'd like you to be sure you follow up.
+
+PATIENT X230
+I'll be here.  Yeah my wife is in there now.
+
+DOCTOR X230
+So you're here.  You're here.
+
+PATIENT X230
+I'm stuck here now.  Um oh and the blood tests.
+
+DOCTOR X230
+I'll order them for three months from now okay.
+
+PATIENT X230
+Are you gonna, do you want me to come back or do you want me to?
+
+DOCTOR X230
+No, we'll just do it before you come back.
+
+PATIENT X230
+Oh you'll let me know.
+
+DOCTOR X230
+Your next appointment, when you come in for your next appointment.
+
+PATIENT X230
+Yeah.
+
+DOCTOR X230
+Come in having fasted the night before.
+
+PATIENT X230
+Okay.
+
+DOCTOR X230
+Okay.
+
+PATIENT X230
+Sounds good.
+
+DOCTOR X230
+And I'll order those now to get it all set up okay.
+
+PATIENT X230
+Very good.
+
+DOCTOR X230
+You're all set.
+
+PATIENT X230
+Thank you.
+
+DOCTOR X230
+It's good to see you.
+
+PATIENT X230
+Okay, thank you DOCTOR.  And I return this over there right?
+
+DOCTOR X230
+Right up front there.
+
+PATIENT X230
+Okay.
+
+DOCTOR X230
+Okay.
+
+PATIENT X230
+Thank you ma'am.
+
+DOCTOR X230
+Have a good uh @@@.  Be careful outside.
+
+PATIENT X230
+Yeah it can get bad.
+
+PATIENT LEAVES:  94:52.
+
+Time is 10:00 a.m.
+
+
+
+

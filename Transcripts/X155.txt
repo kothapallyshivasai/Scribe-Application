@@ -1,0 +1,490 @@
+
+DOCTOR X155
+Do you have an appointment for tonight?
+
+PATIENT X155
+Yes I do at 4 o'clock.
+
+DOCTOR X155
+Okay well, it's a little bit after 4 so this.
+
+PATIENT X155
+Well I know everything's okay I just want to be sure to get.
+
+DOCTOR X155
+@@@.
+
+PATIENT X155
+Thank you.
+
+DOCTOR X155
+Hello.
+
+PATIENT X155
+Hi.
+
+DOCTOR X155
+How are you?
+
+PATIENT X155
+Oh I could be better.
+
+DOCTOR X155
+@@@.
+
+PATIENT X155
+It's good to meet you.  But that's why I @@@.
+
+DOCTOR X155
+Okay.  So you normally go to the North VA?
+
+PATIENT X155
+Yeah xxx xxx.
+
+DOCTOR X155
+@@@.
+
+PATIENT X155
+Oh I moved to @@@ so I come to the VA.
+
+DOCTOR X155
+Okay.
+
+PATIENT X155
+@@@.
+
+DOCTOR X155
+Okay.
+
+PATIENT X155
+All kinds of problems.
+
+DOCTOR X155
+I'm sorry?
+
+PATIENT X155
+I got all kinds of problems.
+
+DOCTOR X155
+Oh.
+
+PATIENT X155
+Yeah.
+
+DOCTOR X155
+(Doctor spoke with someone who came to the door).  What kind of problems do you have?
+
+PATIENT X155
+Diabetes uh seizures.  
+
+DOCTOR X155
+Uh-huh.
+
+PATIENT X155
+I have a cyst on my brain.
+
+DOCTOR X155
+You have a what?
+
+PATIENT X155
+A cyst.
+
+DOCTOR X155
+A cyst.
+
+PATIENT X155
+In my brain.
+
+DOCTOR X155
+Okay.
+
+PATIENT X155
+Uh.  They told me I had some kind of a thromboembolus on my brain.  Uh I have arthritis in my neck and I believe they did some blood work but I left from there and found @@@.
+
+DOCTOR X155
+Okay.
+
+PATIENT X155
+That I had last Friday.
+
+DOCTOR X155
+Okay.
+
+PATIENT X155
+Um.  I got a little bit of like memory loss.
+
+DOCTOR X155
+Okay.
+
+PATIENT X155
+It gets pretty @@@.  They told me to come for the blood draw the week before.  @@@ in my neck that's there all the time.  I ran out of my @@@ pills and my headaches have been more.
+
+DOCTOR X155
+So you're not taking your @@@.
+
+PATIENT X155
+No I have run out of them.
+
+DOCTOR X155
+Yeah.
+
+PATIENT X155
+Yeah I ran out Thursday.
+
+DOCTOR X155
+Okay.
+
+PATIENT X155
+And um I was seeing the neurologist; I had two neurologists the one for my headache pain and he's gave me shots in the back of my neck back here.
+
+DOCTOR X155
+Uh-huh.
+
+PATIENT X155
+And then @@@ for my pain from my neck and those headaches I get.  My eyes are a little blurry.  I got glasses though.  @@@.
+
+DOCTOR X155
+So that's not you right?
+
+PATIENT X155
+No.  I got my @@@ medication list.
+
+DOCTOR X155
+Okay @@@.
+
+PATIENT X155
+@@@.  I wrote this one down.  These are the medications the doctor gives them to me.
+
+DOCTOR X155
+Okay.
+
+PATIENT X155
+@@@.
+
+DOCTOR X155
+What have they done for your headaches?
+
+PATIENT X155
+Um, I was going to DOCTOR right here @@@ shot.  I'm not sure what kind of shot they were.
+
+DOCTOR X155
+Okay.
+
+PATIENT X155
+Yeah that one helped with @@@ pain and I was taking uh these tablets right there.  This one right here for pain.
+
+DOCTOR X155
+Uh-huh.
+
+PATIENT X155
+As a matter of fact I have a couple of them but this is the one that helps the most.  The other one I really try to take it less.
+
+DOCTOR X155
+Looks @@@.  Okay.  So you recently moved?
+
+PATIENT X155
+Yes.
+
+DOCTOR X155
+Okay.
+
+PATIENT X155
+I have a couple of @@@ to be able to keep an eye on any of them.
+
+DOCTOR X155
+So I'll you see an audiologist here okay.
+
+PATIENT X155
+Okay.
+
+DOCTOR X155
+Your headaches, you said they're getting worse?
+
+PATIENT X155
+Yeah.
+
+DOCTOR X155
+Since you stopped taking the medication.
+
+PATIENT X155
+The Keppra.
+
+DOCTOR X155
+The Keppra.
+
+PATIENT X155
+And once I was getting the shot in the head and the back, it would help keep them away for about a week or so.
+
+DOCTOR X155
+Uh-huh.
+
+PATIENT X155
+When @@@ they would come back @@@.  Now that I ran out of Keppra they seem to come more often @@@.
+
+DOCTOR X155
+No seizures?
+
+PATIENT X155
+No I haven't had any for a while.
+
+DOCTOR X155
+When was the last time you had a seizure?
+
+PATIENT X155
+Well back in January and that was the, I had a couple in January.  I went to DOCTOR when I went to the hospital I guess.  I don't remember too much, only what they told me.
+
+DOCTOR X155
+Okay.
+
+PATIENT X155
+When I went to the hospital.
+
+DOCTOR X155
+@@@ okay.
+
+PATIENT X155
+@@@.
+
+DOCTOR X155
+Are you taking insulin?
+
+PATIENT X155
+Uh-huh.
+
+DOCTOR X155
+No you don't have @@@.
+
+PATIENT X155
+Yeah I have fun taking those.
+
+DOCTOR X155
+@@@.
+
+PATIENT X155
+I have to go @@@.
+
+DOCTOR X155
+@@@.
+
+PATIENT X155
+I don't know if it's updated because as you can see some of the medication was upgraded more.
+
+DOCTOR X155
+Okay do you want me to take both of these?
+
+PATIENT X155
+If you want, yeah.  
+
+DOCTOR X155
+Okay yeah.  Do you need this here?
+
+PATIENT X155
+Yeah.
+
+DOCTOR X155
+Do you need this?  Okay let me write this down, I'm trying to write the dose down for this order, the pain medication that you're on.
+
+PATIENT X155
+Oh the ones that say one tablet every 12 hours.
+
+DOCTOR X155
+Yeah so I can get them both.  They've got the dose on the sheet here.  It's 160 okay, so I'll keep this and then I'll.
+
+PATIENT X155
+I wrote down on the one @@@.
+
+DOCTOR X155
+Okay I'll give you a year's supply of this.
+
+PATIENT X155
+Okay.  Is the insulin in there?
+
+DOCTOR X155
+I'm sorry?
+
+PATIENT X155
+Have you got the insulin in there?  We've been really low at night.
+
+DOCTOR X155
+There you go.
+
+PATIENT X155
+Okay.
+
+DOCTOR X155
+So you say your sugars are low sometimes?
+
+PATIENT X155
+Yeah uh.
+
+DOCTOR X155
+Is it a lot or occasionally?
+
+PATIENT X155
+Uh @@@.  They go up and down.  That one gets low on Sunday, that one right there, 54.
+
+DOCTOR X155
+Uh-huh.
+
+PATIENT X155
+And then I brought it back up.
+
+DOCTOR X155
+Okay, so that's @@@ low.
+
+PATIENT X155
+Yeah.
+
+DOCTOR X155
+And @@@.
+
+PATIENT X155
+Yeah and I to really look.  I got like @@@ when I go low and so.
+
+DOCTOR X155
+At those times are you eating?
+
+PATIENT X155
+Uh I started eating or I'll drink some orange juice.
+
+DOCTOR X155
+But at the times when it was low, had you eaten?
+
+PATIENT X155
+Yeah I'd eat and they still have gone low.  It's tight.  @@@.  @@@ working tomorrow.
+
+DOCTOR X155
+Okay.
+
+PATIENT X155
+@@@.  I @@@.
+
+DOCTOR X155
+Give you what?
+
+PATIENT X155
+A new packet @@@.
+
+DOCTOR X155
+@@@.  Were you admitted @@@?
+
+PATIENT X155
+Was I admitted?
+
+DOCTOR X155
+Uh-huh.
+
+PATIENT X155
+Oh I was admitted to the @@@ Hospital because I had my DD214.
+
+DOCTOR X155
+You had your what?
+
+PATIENT X155
+Back in January I was admitted at xxx xxx xxx and they examined me.
+
+DOCTOR X155
+Okay.
+
+PATIENT X155
+That was when I was having my seizures and that's when they discovered I was diabetic cause my blood sugars were in the lower 500s.
+
+DOCTOR X155
+Uh-huh.
+
+PATIENT X155
+And then that's when the problem started @@@.
+
+DOCTOR X155
+They've really been running a little bit high and you've already had @@@.  Were you ever dizzy @@@.
+
+PATIENT X155
+Oh yeah, @@@. I almost forgot about that.
+
+DOCTOR X155
+Okay so the big thing for you is I want you to restart your @@@ and then I'm going to have you see the neurologist @@@.
+
+PATIENT X155
+Oh okay.
+
+DOCTOR X155
+Deep breath and deep breath.  Deep breath.  @@@.
+
+PATIENT X155
+@@@.  
+
+(DOCTOR OUT:  61:49  DOCTOR IN:  66:10)
+
+DOCTOR X155
+Okay so that's what we'll do okay.  We'll have you come back in one month.
+
+PATIENT X155
+Okay.
+
+DOCTOR X155
+Uh make it two months.  I know you just saw your doctor over there.
+
+PATIENT X155
+Okay.
+
+DOCTOR X155
+Alright so we'll make it two months.  I'll have Neurology see you.
+
+PATIENT X155
+Okay.
+
+DOCTOR X155
+Okay um, I'll have Neurology see you.  Start the injections again and then restart the Keppra.
+
+PATIENT X155
+Okay.
+
+DOCTOR X155
+Okay.
+
+PATIENT X155
+Alright.
+
+DOCTOR X155
+Alright and then before you come make sure you do labs okay so labs in two months.
+
+PATIENT X155
+When do I have the labs?
+
+DOCTOR X155
+Right before you come.
+
+PATIENT X155
+Okay.
+
+DOCTOR X155
+Okay.
+
+PATIENT X155
+Alright.  Are they going to give me the appointment for the neurologist?
+
+DOCTOR X155
+Yeah you'll get a letter.  Just @@@ here.
+
+PATIENT X155
+Okay.  Alright.  Will I take this yes.
+
+DOCTOR X155
+@@@ um on your right hand side.
+
+PATIENT X155
+Okay.
+
+DOCTOR X155
+You can check out.
+
+PATIENT X155
+Alright thank you.
+
+PATIENT LEAVES:  67:14.
+
+Time is 4:50.
+
+
+
+

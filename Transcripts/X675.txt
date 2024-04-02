@@ -1,0 +1,682 @@
+
+
+DOCTOR X675
+PATIENT?
+
+PATIENT X675
+How you doing?  Alright.
+
+DOCTOR X675
+How you doing?  
+
+PATIENT X675
+I am doing good.
+
+DOCTOR X675
+Alright.
+
+PATIENT X675
+@@@.
+
+DOCTOR X675
+@@@.  
+
+PATIENT X675
+If I don’t @@@ I am not going to @@@.  Alright.  @@@.
+
+DOCTOR X675
+@@@.
+
+PATIENT X675
+I get here on my appointment day, appointment time and it be an hour before I get seen and I got another appointment.
+
+DOCTOR X675
+Yea.
+
+PATIENT X675
+@@@ and I am just @@@.  I missed the appointment.
+
+DOCTOR X675
+Yea.
+
+PATIENT X675
+@@@ I am feeling angry, @@@ but I can’t see straight.
+
+DOCTOR X675
+Right.
+
+PATIENT X675
+I need my asthma medicine and some cold medicine.
+
+DOCTOR X675
+Some cold medicine?  What’s going on?
+
+PATIENT X675
+Everything.  I am cold.  I am spitting up green, green and yellow @@@.
+
+DOCTOR X675
+Okay.  How long ago did this start?
+
+PATIENT X675
+A couple of days ago and I know @@@.
+
+DOCTOR X675
+@@@.  Any fevers at homes?
+
+PATIENT X675
+I been having hot and then I been getting cold.
+
+DOCTOR X675
+Okay.
+
+PATIENT X675
+All of this was happening last year when they put me @@@.
+
+DOCTOR X675
+Do you have any problems with dizziness?
+
+PATIENT X675
+Yea, @@@.  It is usually about this time of the year.
+
+DOCTOR X675
+@@@.
+
+PATIENT X675
+I can’t move around.  I can’t get around that much without me stopping and I got @@@.
+
+DOCTOR X675
+@@@.
+
+PATIENT X675
+Well I hope not.  You see I had pneumonia one time too.
+
+DOCTOR X675
+Okay.
+
+PATIENT X675
+And I hope that is not coming back.  @@@ it only happens one time @@@ but they say there is a possibility of me having it again. 
+
+DOCTOR X675
+Yea, did you get a flu shot this year?
+
+PATIENT X675
+Yea she just gave me a flu shot out there.  Yea, uh huh.  Because the last one I had I don’t remember but it was done again.
+
+DOCTOR X675
+Okay.  
+
+PATIENT X675
+Anything to be @@@.  And they were going to put me back on breathing machine and the lung machine and then @@@.  Right now I need some, my inhalers and some cough medicine.
+
+DOCTOR X675
+Yea.
+
+PATIENT X675
+Actually I need that now from the pharmacy. 
+
+DOCTOR X675
+Hold on there a second.
+
+PATIENT X675
+@@@ right?  I just @@@.
+
+DOCTOR X675
+I am checking on a couple of things right now.  @@@.  
+
+PATIENT X675
+Oh, let me tell you doctor.  Listen here, they put a recording on me.  
+
+DOCTOR X675
+Oh yea?
+
+PATIENT X675
+Yea.  Now like, they want to know how the doctor patient relationship is going and then I got to turn it back in when I get out of here.
+
+DOCTOR X675
+Oh.
+
+PATIENT X675
+I told them I was going to tell the doctors that I got it on me and I may be a little abusive to @@@ but they want to see how the doctor patient relationship is going and see what all they are doing @@@.  I told that @@@.  I told him I ain’t going to hide from anybody.  That is not me.  I am going to let him know.
+
+DOCTOR X675
+@@@.  Okay well this is @@@.  
+
+PATIENT X675
+Right.
+
+DOCTOR X675
+@@@ in October.  The last time we got the cholesterol done you were high.
+
+PATIENT X675
+Right and then you told me I did have @@@.  I guess I was angry and @@@.
+
+DOCTOR X675
+You are doing pretty good though. You @@@.  Your blood pressure is probably better than mine.
+
+PATIENT X675
+Alright @@@.
+
+DOCTOR X675
+@@@ right now.  Um, looking at your @@@ is a little elevated.  I didn’t give you any medication last time but I think @@@ remember talking to you about @@@ cholesterol.
+
+PATIENT X675
+I @@@.  I have been scheduled, I @@@.
+
+DOCTOR X675
+Okay.
+
+PATIENT X675
+@@@.  Sometimes I don’t feel like I can @@@ that far.  I always be tired.
+
+DOCTOR X675
+Okay did you change your diet at all?
+
+PATIENT X675
+Not really.  I will be honest with you, no.
+
+DOCTOR X675
+@@@.
+
+PATIENT X675
+Right.  I not supposed to be smoking.  I am not supposed to drink but I am still doing @@@.
+
+DOCTOR X675
+Okay.  @@@.
+
+PATIENT X675
+@@@.  I only smoke a little cigarette.  I only smoke a pack a day.
+
+DOCTOR X675
+A pack a day?
+
+PATIENT X675
+I only smoke a pack a week.
+
+DOCTOR X675
+Okay.  
+
+PATIENT X675
+I haven’t cut down on that a lot but my voice @@@.
+
+DOCTOR X675
+Yea.
+
+PATIENT X675
+Sometimes I breath heavy and I can’t get my words out.
+
+DOCTOR X675
+Yea.  
+
+PATIENT X675
+And you know.
+
+DOCTOR X675
+Are you wheezing at all?
+
+PATIENT X675
+I been wheezing at nighttime.  I been getting chills again.  I am hot, cold.
+
+DOCTOR X675
+Right.  Have you @@@?
+
+PATIENT X675
+Well I ran out of all of them.
+
+DOCTOR X675
+When did you run out?
+
+PATIENT X675
+Four days ago.
+
+DOCTOR X675
+Okay.  
+
+PATIENT X675
+Yea, I need that.  
+
+DOCTOR X675
+@@@.  
+
+PATIENT X675
+And I need you know @@@.
+
+DOCTOR X675
+@@@.
+
+PATIENT X675
+Right.
+
+DOCTOR X675
+I am going to give you a hear supply on your inhaler.  Okay?
+
+PATIENT X675
+Okay.
+
+DOCTOR X675
+@@@.
+
+PATIENT X675
+Listen I couldn’t get back @@@.
+
+DOCTOR X675
+Oh I know, I know. Hold on.
+
+PATIENT X675
+@@@.
+
+DOCTOR X675
+Yea.  We will give you an appointment to come back and see us @@@.
+
+PATIENT X675
+Okay.
+
+DOCTOR X675
+And we will give you a full year on your inhaler because we don’t ever want you running out that okay.  @@@.
+
+PATIENT X675
+Right. And I @@@ come back though @@@.
+
+DOCTOR X675
+Yea.
+
+PATIENT X675
+@@@. 
+
+DOCTOR X675
+No, no I understand.  Okay.  Now other than @@@ everything seems to be pretty up to date.  @@@.
+
+PATIENT X675
+Right.  @@@.
+
+DOCTOR X675
+Um, let’s see, you didn’t have a colonoscopy last time huh.
+
+PATIENT X675
+No, I chickened out on that.
+
+DOCTOR X675
+Why?
+
+PATIENT X675
+You ain’t sticking nothing up my behind.  I don’t @@@.  Every time they say if this happens @@@ somebody come with you.
+
+DOCTOR X675
+Oh.
+
+PATIENT X675
+I didn’t have no body to come with me and I @@@.
+
+DOCTOR X675
+Yea.
+
+PATIENT X675
+Who is going to sit through all of that?
+
+DOCTOR X675
+Yea, we need to have that done.  @@@ get that done. @@@.  Do you live @@@?
+
+PATIENT X675
+Yea, I live in @@@.  I just had a @@@ last week.
+
+DOCTOR X675
+You had @@@?
+
+PATIENT X675
+No I want to gain weight.
+
+DOCTOR X675
+Yea.  Well you @@@ important for a cancer screening.
+
+PATIENT X675
+I know.  They told me that before.
+
+DOCTOR X675
+I am @@@.  You know.
+
+PATIENT X675
+They said this time @@@.
+
+DOCTOR X675
+@@@ because you didn’t go in for a colon cancer screening.
+
+PATIENT X675
+I ain’t got that much time for it.  @@@.
+
+DOCTOR X675
+@@@ put it in for you.
+
+PATIENT X675
+Alright.  @@@.  
+
+DOCTOR X675
+@@@.  
+
+PATIENT X675
+No.
+
+DOCTOR X675
+Why not?  
+
+PATIENT X675
+@@@.  
+
+DOCTOR X675
+Alright.  I don’t think you need to be hospitalized but I definitely think we need to get you @@@.
+ 
+PATIENT X675
+I been doing that for the last couple of weeks.
+
+DOCTOR X675
+Yea.
+  
+PATIENT X675
+I been doing @@@ stop breathing at night but I think @@@.
+
+DOCTOR X675
+Let me just @@@ your back here.  Where, does it hurt anywhere?
+
+PATIENT X675
+Sometimes in my chest and sometimes @@@ my voice been changing and @@@.
+
+DOCTOR X675
+Yea, yea.
+  
+PATIENT X675
+Usually I quit wheezing @@@ but I can’t tell the difference.  She hits me and wakes me up and says you ain’t breathing. 
+
+DOCTOR X675
+Okay.
+  
+PATIENT X675
+When she wakes me up.  I am breathing.  I am breathing.
+
+DOCTOR X675
+Has that been going on for a long time?
+  
+PATIENT X675
+@@@, the last couple of months.  Like I said I can @@@.
+
+DOCTOR X675
+Yea.
+  
+PATIENT X675
+I was supposed to come in but I been to @@@.  I am just @@@.  I can’t do @@@ no more.
+
+DOCTOR X675
+We can try it because you feel like your lungs aren’t catching up or like you are going @@@?
+  
+PATIENT X675
+Yea.  My airway is closing up and @@@ a little airway.
+
+DOCTOR X675
+Yea.  Let me see if I can pull up you last set of PFTs.  @@@ those breathing tests.
+  
+PATIENT X675
+Yea they put me on a breathing machine.  They put me on a heart machine, a lung machine.  They said I had irregular heart beat at one time.
+
+DOCTOR X675
+So let me write a couple of things down here.  Remember @@@ so
+  
+PATIENT X675
+You going to put my medication in @@@ I get at the pharmacy right?
+
+DOCTOR X675
+Absolutely.  And then @@@.
+  
+PATIENT X675
+Remember I got to go see somebody else.
+
+DOCTOR X675
+I am not going to let you leave here without your medications.  @@@.  
+  
+PATIENT X675
+I ran out of all of it.
+
+DOCTOR X675
+Yea, how much are you taking of the @@@?  You have @@@.
+  
+PATIENT X675
+It says take one to two puffs?
+
+DOCTOR X675
+Yea.
+  
+PATIENT X675
+I been taking eight or nine.
+
+DOCTOR X675
+Eight or nine puffs every day?  
+  
+PATIENT X675
+Right.
+
+DOCTOR X675
+That’s a lot.  
+  
+PATIENT X675
+Yea, but it don’t help me.  I take one puff and I can’t feel it.  I feel better when I take eight @@@.
+
+DOCTOR X675
+And your mometasone @@@.
+  
+PATIENT X675
+I am out of all of that.  @@@.
+
+DOCTOR X675
+And you were taking it twice a day.
+  
+PATIENT X675
+Right. I am out of everything.  
+
+DOCTOR X675
+And your @@@.
+  
+PATIENT X675
+Right.  Out of everything.
+
+DOCTOR X675
+Let me talk to my attending real quick.  Um, @@@ that much.
+
+PATIENT X675
+@@@ everything @@@.
+
+DOCTOR X675
+Um you might have come down with @@@ get some sort of exacerbation so.  The @@@ give you a short course of antibiotic and then you can @@@. Okay?  Again, I @@@.
+  
+PATIENT X675
+When, now?
+
+DOCTOR X675
+Yea.
+  
+PATIENT X675
+There going to be a long wait?
+
+DOCTOR X675
+It won’t be that long.
+  
+PATIENT X675
+Because I got another appointment I got to go to and I am trying to get everything @@@.  The main thing is my @@@.  They always close up at 4 o’clock.
+
+DOCTOR X675
+Yea.
+  
+PATIENT X675
+I need money to get back home.
+
+DOCTOR X675
+We are going to have you come in the room with me @@@.
+  
+PATIENT X675
+Okay.
+
+DOCTOR OUT:  48:55  DOCTOR IN:  58:40
+
+SECOND DOCTOR X675
+Hey how you doing?
+  
+PATIENT X675
+@@@.
+
+SECOND DOCTOR X675
+You ran out of your medicine?
+
+PATIENT X675
+I ran out of everything.  Now my question is, @@@.
+
+SECOND DOCTOR X675
+@@@.
+  
+PATIENT X675
+I don’t mean to be vague with you but I just want to know from one doctor to another doctor @@@.
+
+DOCTOR X675
+Well he is the boss of the clinic.
+  
+PATIENT X675
+He is the boss?
+
+DOCTOR X675
+Yea.  Alright.
+
+SECOND DOCTOR X675
+So we don’t want you to run out of your medicines @@@ come over here we can get you refills.
+  
+PATIENT X675
+Right. I ran out about a couple of weeks ago @@@ but I can’t get @@@. I can’t @@@.  
+
+SECOND DOCTOR X675
+You can call us up and we can help you.
+
+PATIENT X675
+Well I @@@ about that @@@.
+
+DOCTOR X675
+We are here to do our job.    
+
+PATIENT X675
+Alright doctor I appreciate it.  I don’t mean to be @@@ but @@@.
+
+DOCTOR X675
+@@@.  You going to pick everything up today?
+
+PATIENT X675
+Yes, @@@ pharmacy.  I am not going to come in.  She is going to make me come in if I feel bad.  @@@.  
+
+DOCTOR X675
+We are just here to help.  You don’t have to come in if you don’t want to.
+
+PATIENT X675
+Right.  @@@. I cancelled a lot of appointments and @@@.
+
+DOCTOR X675
+Okay.
+
+PATIENT X675
+I be too weak to travel.
+
+SECOND DOCTOR X675
+You don’t want to wait until you have to go by ambulance.
+
+PATIENT X675
+I did that a couple of times already.
+
+SECOND DOCTOR X675
+You have refills on these.
+
+PATIENT X675
+I ain’t refilled them.
+
+SECOND DOCTOR X675
+I know but you have them.
+
+PATIENT X675
+Yea but I didn’t have a refill.  I never refilled none of them.
+
+DOCTOR X675
+You have a bunch of refills left.  You can go to the pharmacy and just pick them up.
+
+PATIENT X675
+Well can you call down there so I can get them?
+
+DOCTOR X675
+No you don’t need to call.  You just show up.
+
+PATIENT X675
+I ain’t got no paperwork or nothing.
+
+DOCTOR X675
+It doesn’t matter.  You just show up and tell them your name and then @@@.
+
+SECOND DOCTOR X675
+Do you have a computer?
+
+PATIENT X675
+I don’t have no computer, no.
+
+SECOND DOCTOR X675
+No?  Okay.
+
+PATIENT X675
+I was wondering if I can just go from here to the pharmacy. I got to have some paperwork to them.
+
+DOCTOR X675
+@@@.
+
+PATIENT X675
+But okay, @@@.
+
+DOCTOR X675
+@@@ a year @@@.  Order the refills @@@ wants to pick them up.
+
+PATIENT X675
+@@@.  I don’t have anything going on @@@.
+
+DOCTOR X675
+@@@ your appointment.  @@@ your medications too alright.
+
+PATIENT X675
+When I go down there they going to ask me what I need.  I said it supposed to be on the computer because I ain’t got no paperwork.
+
+SECOND DOCTOR X675
+They are there.
+
+PATIENT X675
+Okay.  So you going to reschedule me for another appointment?
+
+DOCTOR X675
+Yea.  I will see you again @@@ okay?
+
+PATIENT X675
+Alright we want @@@.
+
+DOCTOR X675
+I will put it in.
+
+PATIENT X675
+@@@ on my phone.
+
+DOCTOR X675
+Yea.
+
+PATIENT X675
+You got my phone.  @@@ and schedule my appointment.
+
+DOCTOR X675
+Okay.  Alright buddy.  
+
+PATIENT X675
+Alright thanks a lot man.
+
+DOCTOR X675
+Okay.
+
+PATIENT X675
+Yea, yea.
+
+PATIENT LEAVES:  62:40
+
+
+
+
+

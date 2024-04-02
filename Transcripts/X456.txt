@@ -1,0 +1,312 @@
+
+DOCTOR X456
+PATIENT?  
+
+PATIENT X456
+How are you?
+
+DOCTOR X456
+Pretty good, how are you?
+
+PATIENT X456
+Could be better.
+
+DOCTOR X456
+Could be better.  So what's new?
+
+PATIENT X456
+Well, what's new @@@ I has is my right face.
+
+DOCTOR X456
+Hmm.
+
+PATIENT X456
+Other than that.
+
+DOCTOR X456
+@@@.
+
+PATIENT X456
+Eyesight right now is about 20%.
+
+DOCTOR X456
+What's that?
+
+PATIENT X456
+Eyesight.
+
+DOCTOR X456
+Oh yeah what'd the eye doctor say?
+
+PATIENT X456
+I ain't been up there.
+
+DOCTOR X456
+You need to make another appointment.
+
+PATIENT X456
+Yeah.
+
+DOCTOR X456
+Have you been taking that insulin that we wanted you to take?  No.
+
+PATIENT X456
+I know.
+
+DOCTOR X456
+Yeah, so you don't take that insulin?  You're on the insulin?  Your diabetes is way out of control you know that.
+
+PATIENT X456
+I watch it.
+
+DOCTOR X456
+Yeah so we started insulin last time.
+
+PATIENT X456
+Well I ain't into the shots.
+
+DOCTOR X456
+Alright.  Well e can try another medicine then.  It's not going to bring you down as much as you need but it might help okay.
+
+PATIENT X456
+Alright.
+
+DOCTOR X456
+How's your weight management going?
+
+PATIENT X456
+I haven't lost much.
+
+DOCTOR X456
+Yeah.  Trying to?
+
+PATIENT X456
+I eat.
+
+DOCTOR X456
+Yeah.  You have a good appetite and everything?
+
+PATIENT X456
+Yeah.
+
+DOCTOR X456
+You're eating.  Any problems with your bowels or anything there?
+
+PATIENT X456
+Yeah.
+
+DOCTOR X456
+What?
+
+PATIENT X456
+Come out hard, peeing some.
+
+DOCTOR X456
+You're urinating alright?
+
+PATIENT X456
+Yeah.
+
+DOCTOR X456
+Yeah.  Have your any problems with a lot of, any coughing more than usual?  Is your breathing less than usual?
+
+PATIENT X456
+Regular.
+
+DOCTOR X456
+Just regular.  
+
+PATIENT X456
+Seems not in a flare no more.
+
+DOCTOR X456
+Huh?
+
+PATIENT X456
+I'm not in a flare anymore.
+
+DOCTOR X456
+Okay that's good.
+
+PATIENT X456
+So.  Something's going on somewhere.
+
+DOCTOR X456
+Alright.  Did you ever go to the foot doctors to take a look at that?
+
+PATIENT X456
+Uh, that's who I had an appointment with and I missed.  That was about three weeks ago.
+
+DOCTOR X456
+You want to get that checked out?
+
+PATIENT X456
+I give up.  They not gonna, they wanted to operate.
+
+DOCTOR X456
+Yeah.
+
+PATIENT X456
+That's @@@.
+
+DOCTOR X456
+What did they say was wrong?
+
+PATIENT X456
+I don't know.
+
+DOCTOR X456
+How much you smoking still?
+
+PATIENT X456
+Not much.  I haven't quit.
+
+DOCTOR X456
+Yeah alright.  So do you think you're getting enough fluid?  You have a good appetite, you eat enough?
+
+PATIENT X456
+I eat.
+
+DOCTOR X456
+Yeah.  Do get full, you don't feel like you get full easily and everything?
+
+PATIENT X456
+No because I'm not a overeater.
+
+DOCTOR X456
+Yeah.  Okay.  @@@ what to do with it.
+
+PATIENT X456
+What day was this?
+
+DOCTOR X456
+Are taking the omeprazole?
+
+PATIENT X456
+What's that?
+
+DOCTOR X456
+For the stomach.
+
+PATIENT X456
+I am.
+
+DOCTOR X456
+@@@.
+
+PATIENT X456
+Yeah.
+
+DOCTOR X456
+So you're still taking them @@@.  And how about the lisinopril?  It's a blood pressure medicine.  We started it last time.
+
+PATIENT X456
+I get two blue pills, a vitamin, @@@ a green pill @@@ that's it.
+
+DOCTOR X456
+I don't know what the pills look like; I don't know what you mean.  So @@@.
+
+PATIENT X456
+I got.
+
+DOCTOR X456
+You haven't refilled any of your medicines since this summer.
+
+PATIENT X456
+They done gave me extra medication.
+
+DOCTOR X456
+Okay.
+
+PATIENT X456
+And I got @@@ about a month.
+
+DOCTOR X456
+Let's take a look.  Can you come up here?  I need you to lay down so could you put this down please.  Huh?
+
+PATIENT X456
+That's.
+
+DOCTOR X456
+Where?
+
+PATIENT X456
+Right in here.
+
+DOCTOR X456
+Right here.
+
+PATIENT X456
+Yeah.
+
+DOCTOR X456
+Can you sit up for me?  Deep breaths.  Follow this.  Good.  Okay @@@.  You can sit back here for me.  I'll be back in a minute okay.
+
+(DOCTOR OUT:  40:43  DOCTOR IN:  46:21)
+
+DOCTOR X456
+@@@.  Can you pick up the medicines today?
+
+PATIENT X456
+They can just, they can mail it.
+
+DOCTOR X456
+Okay and is your address ADDRESS?
+
+PATIENT X456
+79.
+
+DOCTOR X456
+That's a PO box?
+
+PATIENT X456
+Yeah.
+
+DOCTOR X456
+Can we get some blood drawn from you today?
+
+PATIENT X456
+Uh yeah.
+
+DOCTOR X456
+@@@ again?
+
+PATIENT X456
+Yeah @@@.
+
+DOCTOR X456
+Okay.
+
+PATIENT X456
+@@@.
+
+DOCTOR X456
+That's fine.  And can you go get a tetanus shot today from us?
+
+PATIENT X456
+Yeah.
+
+DOCTOR X456
+Okay.  (Doctor working on computer 49:53 - 57:23)  Sir. (No conversation from 57:24 - 59:04)  Alright sir.  I want you to take this up front, they'll make your appointments and then go and get your chest x-ray and your blood draw.
+
+PATIENT X456
+Okay.
+
+DOCTOR X456
+Alright.
+
+PATIENT X456
+Bye.
+
+DOCTOR X456
+Take care.
+
+PATIENT X456
+Alright.
+
+PATIENT LEAVES:  59:27
+
+
+
+
+

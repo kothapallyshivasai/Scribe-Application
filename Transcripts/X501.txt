@@ -1,0 +1,731 @@
+
+DOCTOR X501
+PATIENT?
+
+PATIENT X501
+Yeah.  How you doing?
+
+DOCTOR X501
+@@@ getting warm?
+
+PATIENT X501
+Yeah.
+
+DOCTOR X501
+@@@.
+
+PATIENT X501
+Terrible.
+
+DOCTOR X501
+Okay, what medicines are you using every day?
+
+PATIENT X501
+I usually uh albuterol.
+
+DOCTOR X501
+Uh-huh.
+
+PATIENT X501
+And that.
+
+DOCTOR X501
+Okay.
+
+PATIENT X501
+You take the Combivent.
+
+DOCTOR X501
+I'll give you those refills okay.  That's it?
+
+PATIENT X501
+That's all.  @@@.
+
+DOCTOR X501
+Okay.  @@@.
+
+PATIENT X501
+I don't have any more.
+
+DOCTOR X501
+Okay, alright.  Uh you haven't been here @@@ since January.
+
+PATIENT X501
+Yeah.
+
+DOCTOR X501
+And you ran out @@@.
+
+PATIENT X501
+And I just ran out.
+
+DOCTOR X501
+Okay.  Okay.  There's supposed to be a couple other things you're supposed to be on okay.
+
+PATIENT X501
+Yeah.
+
+DOCTOR X501
+You're supposed to be on mometasone.
+
+PATIENT X501
+Those I run out of.
+
+DOCTOR X501
+Okay and you're on the mometasone and you're also supposed to be on Singulair both of those need to be taken twice a day every day no matter what.
+
+PATIENT X501
+Okay.
+
+DOCTOR X501
+Using that will make you feel a lot better.
+
+PATIENT X501
+Well give me those two things uh-huh.  I have to have some.  Yeah what my biggest problem is, is night.
+
+DOCTOR X501
+Uh-huh.
+
+PATIENT X501
+Because see I use that CPAP.
+
+DOCTOR X501
+Uh-huh.
+
+PATIENT X501
+And @@@.
+
+DOCTOR X501
+You sound awful.
+
+PATIENT X501
+What?
+
+DOCTOR X501
+You sound awful right now.
+
+PATIENT X501
+And I am @@@.
+
+DOCTOR X501
+You want to go to the ER?
+
+PATIENT X501
+No, no, I'm not feeling that bad.
+
+DOCTOR X501
+Are you sure?
+
+PATIENT X501
+Yes.
+
+DOCTOR X501
+Okay.
+
+PATIENT X501
+But uh it's uh, and I had one @@@ you know I had the CPAP and see, that happens with that at night.
+
+DOCTOR X501
+Uh-huh, uh-huh.  I think okay, so this one are you taking it uh every single day four times a day or just when.
+
+PATIENT X501
+When I need it.
+
+DOCTOR X501
+You should start taking this every single day at least twice a day.
+
+PATIENT X501
+Uh-huh.
+
+DOCTOR X501
+That's two puffs in the morning and two puffs at night.
+
+PATIENT X501
+Uh-huh.
+
+DOCTOR X501
+Every day.
+
+PATIENT X501
+That's all.
+
+DOCTOR X501
+Every day yeah.  And then the other ones I'm going to give you they're also going to be the same thing.  
+
+PATIENT X501
+Uh-huh.
+
+DOCTOR X501
+@@@ and you have to every @@@ two puffs in the morning and two at night.
+
+PATIENT X501
+Well what about this?
+
+DOCTOR X501
+You use this every evening.
+
+PATIENT X501
+Every evening.
+
+DOCTOR X501
+This is as needed.
+
+PATIENT X501
+Oh.
+
+DOCTOR X501
+You take all the medicines that you should take and if you still feel short of breath then you can take this one too.
+
+PATIENT X501
+Okay.
+
+DOCTOR X501
+This one you take all the time cause this medicine is in here.
+
+PATIENT X501
+Yeah.
+
+DOCTOR X501
+@@@ getting it twice a day.
+
+PATIENT X501
+Uh-huh.
+
+DOCTOR X501
+Okay.  And you're going to pick it all up right, right now?
+
+PATIENT X501
+Yes.
+
+DOCTOR X501
+Okay.
+
+PATIENT X501
+And you know a couple of @@@ is out, you know, no more refills.
+
+DOCTOR X501
+Right.  Well I'm going to put in the refills for you.  
+
+PATIENT X501
+And like I say it'll be like it's @@@ night.
+
+DOCTOR X501
+Uh-huh.
+
+PATIENT X501
+It's uh, it's difficult to breathe and I have to use it, you know it helps.
+
+DOCTOR X501
+Okay.
+
+PATIENT X501
+At night.
+
+DOCTOR X501
+Well we have to um, we have to look and make sure you don't have @@@.  Now when's the last time you took your meds?
+
+PATIENT X501
+My medicine, this morning.
+
+DOCTOR X501
+Um, this morning, okay you didn't run out of everything?  You just ran out of some @@@.
+
+PATIENT X501
+Well um uh gout.
+
+DOCTOR X501
+Okay.
+
+PATIENT X501
+I was out.
+
+DOCTOR X501
+Okay.
+
+PATIENT X501
+Of the gout.
+
+DOCTOR X501
+Right.
+
+PATIENT X501
+But the rest of it I had some, I took it this morning.
+
+DOCTOR X501
+Okay.  Okay.  Let me, right now I'm gonna refill the um the ones that you get refilled the one that's out and then this other one @@@ that's out and then I'm gonna get some breathing tests okay cause we haven't done that @@@.
+
+PATIENT X501
+Uh-huh.
+
+DOCTOR X501
+I just want to see what's going on with your lungs okay.  What's your phone number?
+
+PATIENT X501
+Uh NUMBER.
+
+DOCTOR X501
+Any fevers or chills at all?
+
+PATIENT X501
+No I had, it seemed to me a couple nights ago, I had so much trouble because I was sick, you know I had you know sweats.
+
+DOCTOR X501
+Uh-huh.
+
+PATIENT X501
+Not every night.
+
+DOCTOR X501
+Okay are you having any uh swelling in your legs at all?
+
+PATIENT X501
+No cause that's, you know they don't, @@@ for some reason.
+
+DOCTOR X501
+@@@.  Do you have any problems like when you wake up in the middle of the night and you have to stick your head out the window to breathe or @@@.
+
+PATIENT X501
+No I hadn't get that but I have to get.
+
+DOCTOR X501
+You have to sit up?
+
+PATIENT X501
+Sit up.
+
+DOCTOR X501
+Okay.
+
+PATIENT X501
+Uh-huh.
+
+DOCTOR X501
+When are you using the inhalers?
+
+PATIENT X501
+Sometime at night I use that thing three or four times you know because when I wake up seems like @@@ clogged up.
+
+DOCTOR X501
+Okay and with the diabetes you're on the @@@.
+
+PATIENT X501
+Pills.
+
+DOCTOR X501
+Pills, @@@.
+
+PATIENT X501
+Now that.
+
+DOCTOR X501
+Glipizide @@@.
+
+PATIENT X501
+Yeah I had uh, like this morning when I, I hadn't taken anything you now all the time but, but that's the way it was this morning.  
+
+DOCTOR X501
+157.
+
+PATIENT X501
+And before breakfast and after.  
+
+DOCTOR X501
+@@@.  You have 50 before breakfast and @@@ at lunch.
+
+PATIENT X501
+Yeah @@@.
+
+DOCTOR X501
+Okay.  You've had a couple of lows I see.  They don't look too bad, @@@.
+
+PATIENT X501
+And I take 1 1/2.
+
+DOCTOR X501
+You take one and a half of those pills.
+
+PATIENT X501
+In the morning.
+
+DOCTOR X501
+In the morning.
+
+PATIENT X501
+And half at noon.
+
+DOCTOR X501
+Okay.  And you take @@@.  It looks like all the high ones are.
+
+PATIENT X501
+The high ones is after noon.
+
+DOCTOR X501
+In the afternoons.  But then there's some lowers too.
+
+PATIENT X501
+Yes I get some low ones cause half of them.
+
+DOCTOR X501
+In between February 23 and February 28th.
+
+PATIENT X501
+Yeah I been taking some.
+
+DOCTOR X501
+@@@ okay.
+
+PATIENT X501
+From what I was @@@.
+
+DOCTOR X501
+@@@ 135 in the morning, 218 after lunch, 148 after dinner and 148's not bad after dinner, 159 before breakfast, that one's kind of high and then 270, that's a little high.  So today you are kind of high so.  When you're taking the 10 glipizide every night, the same dose of glipizide every day?
+
+PATIENT X501
+Uh-huh, I take.
+
+DOCTOR X501
+You take that pill.
+
+PATIENT X501
+The one and a half and the half.
+
+DOCTOR X501
+Okay.  Your hemoglobin A1c was 7.1, so that's not too bad but this it's @@@.
+
+PATIENT X501
+I can't remember why I don't have no appetite in the afternoons.
+
+DOCTOR X501
+Let's see.  Can you get labs today?
+
+PATIENT X501
+Yeah.
+
+DOCTOR X501
+Can you get your blood lab tests?
+
+PATIENT X501
+Yeah.
+
+DOCTOR X501
+Okay good.  Are you taking, do you have lisinopril and atenolol at home?
+
+PATIENT X501
+What?
+
+DOCTOR X501
+Lisinopril and atenolol?  Some other blood pressure medicines you're supposed to be on, do you have those at home?
+
+PATIENT X501
+Yes I have all, I have all the medicines.
+
+DOCTOR X501
+Okay these are the ones you're running out of.
+
+PATIENT X501
+Yeah.
+
+DOCTOR X501
+But you have all the meds.
+
+PATIENT X501
+But I have the other ones yeah.
+
+DOCTOR X501
+Okay and you also take hydrochlorothiazide?  The water pill?
+
+PATIENT X501
+Yeah, yeah.
+
+DOCTOR X501
+And then you also take amlodipine.  You take like five pills for blood pressure is that correct?
+
+PATIENT X501
+Yeah, yeah, I'm taking that right.  I got all the rest of them, but those are the ones that.
+
+DOCTOR X501
+Okay.  And I'll refill them all.  No do you feel, you can have them delivered by mail or you can pick them all up at the Lab.
+
+PATIENT X501
+I need to pick them up today.
+
+DOCTOR X501
+Okay.  So you took all five of your blood pressure pills this morning is that right?
+
+PATIENT X501
+No.
+
+DOCTOR X501
+Oh.
+
+PATIENT X501
+I took, they tell me to take some in the morning and I take some in the evening.
+
+DOCTOR X501
+Oh okay.
+
+PATIENT X501
+I think I.
+
+DOCTOR X501
+But the ones you're supposed to take in the morning you took all those?
+
+PATIENT X501
+Yeah the ones I take at morning I take but now I got some they just say take once a day and I divide them up and put you know.
+
+DOCTOR X501
+Take some in the morning and some in the evening.
+
+PATIENT X501
+Some in the evening.  I take some in the evening that um know night and some say morning.
+
+DOCTOR X501
+Yeah.
+
+PATIENT X501
+And I take those, you know like they say but the other ones I just kind of divide them up and just take once a day.
+
+DOCTOR X501
+Okay.
+
+PATIENT X501
+And I got some you know that say take twice a day.
+
+DOCTOR X501
+Uh-huh.  
+
+PATIENT X501
+Along with the aspirin.
+
+DOCTOR X501
+Okay.  Do you know your dose of allopurinol?
+
+PATIENT X501
+Huh?
+
+DOCTOR X501
+Do you know your dose of your gout medicine?  Is it 50 or 100 mg do you know?
+
+PATIENT X501
+I don't know but you need to find out.  I know I haven't no problem ever since I been taking it.  But you know you ain't @@@.
+
+DOCTOR X501
+Okay.
+
+PATIENT X501
+But then they said it wasn't on the schedule and @@@.
+
+DOCTOR X501
+Well I don't know.
+
+PATIENT X501
+The last time I was here you had to mark it for me.
+
+DOCTOR X501
+Yeah.
+
+PATIENT X501
+@@@.
+
+DOCTOR X501
+But they didn't send @@@ filled out.
+
+PATIENT X501
+No.
+
+DOCTOR X501
+I wonder why they @@@.  I don't have a lot of control over the scheduling.
+
+PATIENT X501
+Uh-huh.
+
+DOCTOR X501
+@@@.  Alright let me listen to your lungs okay.
+
+PATIENT X501
+Do you want me?
+
+DOCTOR X501
+Uh yeah, could you take just the top shirt off?  @@@.  Just put your back facing @@@.  Deep breath, again, again, again okay.  That was pretty fast.  Then you can @@@ regular one.  @@@.  Look over there for, look that way and @@@.  
+
+PATIENT X501
+It's tingling.
+
+DOCTOR X501
+What?
+
+PATIENT X501
+It's tingling.  Like it went to sleep.
+
+DOCTOR X501
+Oh hmm.  Only this one and not on the other one?
+
+PATIENT X501
+Just this one.
+
+DOCTOR X501
+Just this one, the whole arm?
+
+PATIENT X501
+@@@.
+
+DOCTOR X501
+Only near the elbow.
+
+PATIENT X501
+Yeah.
+
+DOCTOR X501
+Like it's asleep?
+
+PATIENT X501
+Yeah.
+
+DOCTOR X501
+Hmm.  How long has that been going on?
+
+PATIENT X501
+It's been like a week.
+
+DOCTOR X501
+A week.  Do you sleep on it @@@ or something?
+
+PATIENT X501
+Well that could be if I @@@.
+
+DOCTOR X501
+Oh okay.  Well try sleeping on the other side and maybe it'll go away.
+
+PATIENT X501
+@@@.
+
+DOCTOR X501
+If it doesn't go away next time I see you we'll do an x-ray and that can make sure that everything looks okay.
+
+PATIENT X501
+Okay.
+
+DOCTOR X501
+@@@ normal here right?
+
+PATIENT X501
+Uh-huh.
+
+DOCTOR X501
+Alright @@@ I ordered all your medicines okay.
+
+PATIENT X501
+Okay.
+
+DOCTOR X501
+You can get dressed and I'll talk to DOCTOR and I'll be right back.  @@@.  Be right back.  You're gonna get your blood tests today okay?
+
+PATIENT X501
+Okay yes.
+
+DOCTOR X501
+And then have you seen the eye doctor?
+
+PATIENT X501
+Yes.
+
+DOCTOR X501
+When did you see the eye doctor?
+
+PATIENT X501
+Well you know because I got these new glasses.
+
+DOCTOR X501
+Okay.  @@2.
+
+PATIENT X501
+Uh March, I think it was in March.
+
+DOCTOR X501
+March or February.  You know you went in November for the eye doctors; you get to go back this November.
+
+PATIENT X501
+@@@.
+
+DOCTOR X501
+Are you smoking?
+
+PATIENT X501
+Smoking?
+
+DOCTOR X501
+Do you smoke?
+
+PATIENT X501
+No.
+
+DOCTOR X501
+Okay.  Did you used to?
+
+PATIENT X501
+Yes.
+
+DOCTOR X501
+Do you know when you quit?  What year?
+
+PATIENT X501
+98.
+
+DOCTOR X501
+98 okay.  Let me talk to DOCTOR and I'll be right back okay.
+
+PATIENT X501
+Okay.
+
+(DOCTOR OUT:  32:15  DOCTOR IN:  34:17
+
+DOCTOR X501
+So.  You're gonna get all your medicines and especially those inhalers.  Use them right away cause you sound really stuffy.
+
+PATIENT X501
+Yeah I will uh-huh.
+
+DOCTOR X501
+Um I want you to come back in about two months okay.
+
+PATIENT X501
+Right.
+
+DOCTOR X501
+After you get your breathing tests and all that stuff and we'll see you know and make sure you're on the right medicines.
+
+PATIENT X501
+Okay.
+
+DOCTOR X501
+You need to get some PFTs done which is the breathing tests um in about, you'll get them in about four weeks and then you're gonna get all your blood labs done today.
+
+PATIENT X501
+Uh-huh.
+
+DOCTOR X501
+So when you come back we'll talk about that @@@.  Okay I think that's it.
+
+PATIENT X501
+Thank you.
+
+DOCTOR X501
+@@@ know up front and they'll schedule the appointment.
+
+PATIENT X501
+Oh okay thank you.  The blood's already in on that right?
+
+DOCTOR X501
+What's that?
+
+PATIENT X501
+For the blood.
+
+DOCTOR X501
+Oh um yeah, over in the Lab.
+
+PATIENT LEAVES: 35:23.
+
+
+
+

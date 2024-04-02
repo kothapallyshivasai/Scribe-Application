@@ -1,0 +1,769 @@
+
+DOCTOR X677
+PATIENT?
+
+PATIENT X677
+Yea.
+
+DOCTOR X677
+How you doing today?
+
+PATIENT X677
+Alright.  @@@.
+
+DOCTOR X677
+@@@.  Okay @@@.
+
+PATIENT X677
+Good man, good.
+
+DOCTOR X677
+Doing okay?
+
+PATIENT X677
+I guess so far.
+
+DOCTOR X677
+Good.
+
+PATIENT X677
+My knee, @@@ about two weeks ago.
+
+DOCTOR X677
+Yea?
+
+PATIENT X677
+My knee just started swelling up on me you know.
+
+DOCTOR X677
+Yea.
+
+PATIENT X677
+You know @@@ you know it was hurting me around my @@@.
+
+DOCTOR X677
+Yea, yea, yea.
+
+PATIENT X677
+You know, I mean, my leg feels so tight you know.
+
+DOCTOR X677
+Hm hmm.  You wearing compression stockings at all?
+
+PATIENT X677
+Uh uh. 
+
+DOCTOR X677
+We should get you a prescription for those.
+
+PATIENT X677
+It was, it be so tight, you know, it feel like you know, when I uh, you when, you know I pull my feet, does @@@ like I can feel it, you know, feel the edge of my toes.
+
+DOCTOR X677
+Yea.  @@@.
+
+PATIENT X677
+The same way.  Both of them.
+
+DOCTOR X677
+The same way?  Both of them?
+
+PATIENT X677
+Yea.
+
+DOCTOR X677
+We should get you a prescription for stockings that help bring all of the fluid back up from the body.  
+
+PATIENT X677
+Hm hmm.
+
+DOCTOR X677
+So you don’t get swelling in your leg like that.
+
+PATIENT X677
+But it, you know, most of the time when I get @@@, I @@@ ain’t wearing no socks at all or anything.
+
+DOCTOR X677
+Yea.
+
+PATIENT X677
+@@@ you know.  Then it just hurting, you know. Just real tight.
+
+DOCTOR X677
+Yea.  Are you @@@ today?
+
+PATIENT X677
+Yea.  
+
+DOCTOR X677
+Okay, so @@@.
+
+PATIENT X677
+Hm hmm.  
+
+DOCTOR X677
+Okay.
+
+PATIENT X677
+But it still be tight.  You just @@@ about three weeks then I tried @@@ to come in you know.
+
+DOCTOR X677
+Yea.
+
+PATIENT X677
+@@@ gave this appointment for today.
+
+DOCTOR X677
+Yea, yea, yea.  How high up does the swelling go?  Right up to here?
+
+PATIENT X677
+Yea.  It come all the way up to here.  @@@.  @@@ just swollen.
+
+DOCTOR X677
+Okay.  Is this something new or you have had this before and it just went away?
+
+PATIENT X677
+Hm, this, this left leg still the same way.  You know I, you know I can walk downstairs good but walking up the steps, man, I mean @@@.
+
+DOCTOR X677
+Right.  So it has been like this for a long time?
+
+PATIENT X677
+Yea.
+
+DOCTOR X677
+Okay.  We got to get you some compression stockings to help the fluid to get back up here.
+
+PATIENT X677
+Because it just @@@.
+
+DOCTOR X677
+It is uncomfortable.
+
+PATIENT X677
+Yup, if I need to walk up the stairs, you know, you know I have to open my legs up just to get up the stairs. I can go down the stairs real good.
+
+DOCTOR X677
+Yea, yea.  So there has been no recent change in that huh?
+
+PATIENT X677
+No.  
+
+DOCTOR X677
+Are you still smoking?
+
+PATIENT X677
+Uh, yea, I have to go to that class.
+
+DOCTOR X677
+You got to cut that stuff out man.
+
+PATIENT X677
+Yea.  Yup, you right.
+
+DOCTOR X677
+You know it’s going to kill you. 
+
+PATIENT X677
+You right sir.
+
+DOCTOR X677
+Fair enough.  How is that cholesterol doing?
+
+PATIENT X677
+I have to take some more pills, I forgot to get some more of those pills.  @@@.
+
+DOCTOR X677
+@@@ last time you @@@ it was pretty high.
+
+PATIENT X677
+Hmm.
+
+DOCTOR X677
+Are you taking it a year ago?
+
+PATIENT X677
+No, not @@@.
+
+DOCTOR X677
+Okay.  @@@.  I saw you had a colonoscopy recently.
+
+PATIENT X677
+@@@.
+
+DOCTOR X677
+You had it done this last year.
+
+PATIENT X677
+Right.
+
+DOCTOR X677
+Did you already go for your yearly @@@?
+
+PATIENT X677
+@@@.
+
+DOCTOR X677
+Yea, you have a strong family history of colon cancer.
+
+PATIENT X677
+Right.  Right.
+
+DOCTOR X677
+Did you ever go to USC for genetic testing at all?
+
+PATIENT X677
+Ah no.
+
+DOCTOR X677
+Is that something you would like to do?
+
+PATIENT X677
+@@@.
+
+DOCTOR X677
+@@@ pretty close.
+
+PATIENT X677
+Yea, I know.
+
+DOCTOR X677
+Okay.  Let’s see what I can do, @@@ set up for you.
+
+PATIENT X677
+Okay.  @@@.  Whatever you say.  I go.  
+
+DOCTOR X677
+@@@.  
+
+PATIENT X677
+Whatever you say I’ll do it.  
+
+DOCTOR X677
+Alright.  You had a flu shot today?
+
+PATIENT X677
+Yes.
+
+DOCTOR X677
+Good.  How about the other shots?
+
+PATIENT X677
+Hmm, that is the only shot I had.
+
+DOCTOR X677
+Okay.  Just seeing when you had your last @@@.  You need one more today.
+
+PATIENT X677
+Okay.
+
+DOCTOR X677
+I will order it right now you can stop and pick it up on the way out.  Okay?
+
+PATIENT X677
+Okay.  
+
+DOCTOR X677
+@@@ the medicines @@@?
+
+PATIENT X677
+Yes.
+
+DOCTOR X677
+Fantastic.  Good.  Let me see if I can order you some compression stockings too.  @@@.  Do you know where our Prosthetics Department is by any chance?
+
+PATIENT X677
+Uh, nope.
+
+DOCTOR X677
+Okay, I am going to point it out to you.  
+
+PATIENT X677
+Yea, one more thing about, you know when I use, when I use the toilet?
+
+DOCTOR X677
+Uh huh.
+
+PATIENT X677
+I have to strain, you know.
+
+DOCTOR X677
+Okay.  
+
+PATIENT X677
+I have to strain you know to use it.
+
+DOCTOR X677
+Okay.  @@@ a rectal.  A rectal exam.
+
+PATIENT X677
+(Laughter).  Do you know I, I been having to strain real bad, you know, @@@. 
+
+DOCTOR X677
+Yea, yea.  And uh, do you know if you are going more in the middle of the night?
+
+PATIENT X677
+Hmm, nope, just strain @@@.  
+
+DOCTOR X677
+You have to push it out?  
+
+PATIENT X677
+Yea.
+
+DOCTOR X677
+Okay.  Does it hurt at all when you push it out?
+
+PATIENT X677
+Sometimes.
+
+DOCTOR X677
+Sometimes, okay.  And your stream has gotten weaker?
+
+PATIENT X677
+Ah, yea.  
+
+DOCTOR X677
+@@@ sometimes it gets a little stronger?
+
+PATIENT X677
+Yea.  Some @@@.
+
+DOCTOR X677
+Okay.  Do you feel like you @@@?  Like whenever @@@ to get rid of?
+
+PATIENT X677
+Yea, right.
+
+DOCTOR X677
+Yea.  Okay.  Okay.  We should get you on a trial of Flomax.
+
+PATIENT X677
+Flomax?
+
+DOCTOR X677
+@@@.
+
+PATIENT X677
+Okay.
+
+DOCTOR X677
+Flomax @@@.  There are two medicines they use @@@ prostate whenever the prostate is @@@.  Somethings @@@.  The prostate is kind of sort of a minority in terms of you know, as we get older it gets bigger and it causes more problems.
+
+PATIENT X677
+Yea.  I see @@@, you know, you know they been doing @@@.  Just stopped doing it.
+
+DOCTOR X677
+Yea, I know.  It is, fortunately, we have some really, really good medications to treat symptoms of BPH.  That is probably what you got.  Um, going to have to do a rectal though and @@@ nothing more pleasant in the world, @@@.
+
+PATIENT X677
+Okay.
+
+DOCTOR X677
+Make sure you don’t have any sort of @@@ or anything back there, you know, that could be possible cancer.  I am not saying you have cancer.  Most likely you have just some enlargement of the prostate which is stuff that guys get as they get older.  
+
+PATIENT X677
+Oh, okay.
+
+DOCTOR X677
+So it most likely what it is.  Um, any back pain at all, that you have had?
+
+PATIENT X677
+@@@ goes around my waist.  
+
+DOCTOR X677
+But that is nothing new right?
+
+PATIENT X677
+No.
+
+DOCTOR X677
+Okay.  Okay.  Sounds good.  Um, your blood pressure is doing good today.
+
+PATIENT X677
+Yes.
+
+DOCTOR X677
+I am really happy with where it is at.  Um, as far as @@@.
+
+PATIENT X677
+I take that every morning.  
+
+DOCTOR X677
+Good, good, good.  You are taking lisinopril 10 and amlodipine 10.
+
+PATIENT X677
+@@@ take less @@@.
+
+DOCTOR X677
+@@@.  You know what, it is going to be a little tricky because I want to give you a little bit of a water pill.  So that will get off that extra fluid, it’s going to help your legs but I want to make sure you are peeing okay and it is going to be more comfortable.  You know, so maybe we will wait and see if the peeing symptoms clear for a little bit and then once you go to the bathroom regularly with an average stream, @@@ start the water pill.
+
+PATIENT X677
+Oh okay.
+
+DOCTOR X677
+Okay.  It will help you, actually you might be able to back off that @@@ substitute the amlodipine @@@.
+
+PATIENT X677
+Oh okay.
+
+DOCTOR X677
+@@@.  I will talk to my boss and we will come up with a medication regimen that will be better for your legs.  
+
+PATIENT X677
+Okay.
+
+DOCTOR X677
+Okay.  Because if @@@ make your legs swell up or not.  So may need to take that off and cover you with something for a little bit.  We will talk about it.
+
+PATIENT X677
+Oh okay.
+
+DOCTOR X677
+Alright.  Let me take a listen to you and then we will have to do the rectal.  At least a guy doing it and not a girl huh?
+
+PATIENT X677
+Yea.
+
+DOCTOR X677
+Take a couple of big deep breaths for me buddy.  Alright.  Fantastic.  You have a good set of pipes on you man.  
+
+PATIENT X677
+@@@.  You said I need to get off them cigarettes.
+
+DOCTOR X677
+Yea.  Yea.  How much are you smoking now?  
+
+PATIENT X677
+Hm I say maybe a pack and a half a day, I cut down though but I need to cut @@@.
+
+DOCTOR X677
+A pack and a half a day?
+
+PATIENT X677
+Yea.  @@@.
+
+DOCTOR X677
+@@@ give yourself some bad lung disease.
+
+PATIENT X677
+Yup, you right.  
+
+DOCTOR X677
+@@@.  Your scheduled for @@@ or?
+
+PATIENT X677
+I don’t know. 
+
+DOCTOR X677
+Not yet huh?
+
+PATIENT X677
+Not yet.
+
+DOCTOR X677
+How much were you smoking before that you cut down from?
+
+PATIENT X677
+A couple of packs.  
+
+DOCTOR X677
+@@@.  That’s progress.  @@@ in your favor.  At Christmas time cut down to a pack a day.
+
+PATIENT X677
+Okay.
+
+DOCTOR X677
+It’s not that much.
+
+PATIENT X677
+No.  That’s, I may cut down a little bit more.  
+
+DOCTOR X677
+You can do it.  @@@, hey I’ll take more.  You are spending a lot of money on those things.
+
+PATIENT X677
+Yes.
+
+DOCTOR X677
+How much you spend, how much is a pack for you?
+
+PATIENT X677
+Say 5 or 6.
+
+DOCTOR X677
+Five or six?  
+
+PATIENT X677
+Sometimes 5 dollars a pack.
+
+DOCTOR X677
+Let’s say 5.50 and you go through about a pack and a half every day, three times, @@@, let’s say about ten and a half packs a week right?
+
+PATIENT X677
+Hm hmm.  @@@. Get them for five dollars a pack of cigarettes @@@ you know they seven dollars.  So I can get them for about five dollars a pack.
+
+DOCTOR X677
+You know how much you are spending on cigarettes a year?
+
+
+PATIENT X677
+What?  How much?
+
+DOCTOR X677
+@@@.
+
+PATIENT X677
+Whew!  Three thousand?
+
+DOCTOR X677
+That’s too much.  @@@ thousand dollars.  
+
+PATIENT X677
+That’s too much money.  That is another car.
+
+DOCTOR X677
+That’s a nice vacation that is what that is.
+
+PATIENT X677
+Yup.  
+
+DOCTOR X677
+That’s a good cruise on the xxx.  
+
+PATIENT X677
+Yup.
+
+DOCTOR X677
+And then some.  That’s VIP access, that’s @@@, thousand dollars.  How much do you make a year?
+
+PATIENT X677
+I’d say about what, 50 something.
+
+DOCTOR X677
+You got about more than 10% of your salary going towards cigarettes.
+
+PATIENT X677
+Cigarettes.
+
+DOCTOR X677
+I know.  Time to cut that shit out man. 
+
+PATIENT X677
+Yup, hm hmm.  
+
+DOCTOR X677
+Alright let me go and check @@@.
+
+PATIENT X677
+@@@.  
+
+DOCTOR X677
+Alright buddy.  Well you know it’s pretty uncomfortable okay.  I need you to drop your pants.  I am going to put @@@.  
+
+PATIENT X677
+@@@.  
+
+DOCTOR X677
+I know, I know buddy.  I know.  I just got to make sure it’s nothing you know, it’s smooth.  You don’t have any nodules.  Hey, @@@ okay?
+
+PATIENT X677
+Okay.
+
+DOCTOR X677
+Believe me I don’t like doing that either.  Like I said, luckily it is a guy doing it, it’s not a female.  Have you ever had this done?
+
+PATIENT X677
+Nope.
+
+DOCTOR X677
+No?  Even I have had it done.  I had to go in the hospital one time because I was having problems urinating and they had to do it for me.  It’s not pleasant.  @@@.
+
+PATIENT X677
+@@@.
+
+DOCTOR X677
+Yea, drop your pants.  Okay, and, feel a little @@@.  Now you are going to feel a little bit of pressure, @@@.  Okay.  @@@.  A little pressure.  Okay.  From side to side.  That hurt at all?
+
+PATIENT X677
+@@@.
+
+DOCTOR X677
+Just uncomfortable right?
+
+PATIENT X677
+Yea.  
+
+DOCTOR X677
+Okay.  Okay.  Here you go buddy.  That’s it.  It’s over.  Here are some towels you can wipe yourself off.  Completely smooth and @@@.  No nodules.  @@@.
+
+PATIENT X677
+@@@.
+
+DOCTOR X677
+@@@ trial of Flomax.  
+
+PATIENT X677
+Okay.
+
+DOCTOR X677
+@@@.  Alright and uh, I might check your cholesterol today too.  Alright.   I will be right back buddy.
+
+PATIENT X677
+Okay.
+
+DOCTOR OUT:  49:35  DOCTOR IN:  64:40
+
+DOCTOR X677
+@@@.  We are going to make a few changes to your meds today.  
+
+PATIENT X677
+Okay.
+
+DOCTOR X677
+@@@ makes it worse.  So you want to cut that out.  No more @@@.  We are going to start you on a water pill and a pill for your prostate.  
+
+PATIENT X677
+Okay.
+
+DOCTOR X677
+Okay so we are, @@@ taking away one and we are adding two but I think we are going to really help the swelling in your legs.  
+
+PATIENT X677
+Oh okay.
+
+DOCTOR X677
+Really going to help it.  @@@.  And then we are also going to get you stockings @@@.
+
+PATIENT X677
+What kind of stockings are these?
+
+DOCTOR X677
+They are called compression stockings.  Basically they are really tight fitting socks and the come up to right about here.  And they are tight fitting and they squeeze all of the fluid back into the veins.  @@@ happening in your veins, veins @@@ take up blood from down here and they bring it back to the heart.  And veins @@@ so the blood moves up a little bit, the valve closes it and it doesn’t come back down.  Your problem @@@ like that, the blood constantly comes back down. 
+
+PATIENT X677
+Alright.
+
+DOCTOR X677
+The pressure of the arteries taking the blood to the feet, and the veins trying to back up, that pressure is goes up down here and the extra fluid is pushed down into the leg.
+
+PATIENT X677
+Oh.
+
+DOCTOR X677
+Yea.  You keep putting pressure on this leg, @@@, your heart is putting pressure on this leg but the veins aren’t doing their job because they are @@@ to you, so the pressure goes up @@@.
+
+PATIENT X677
+Okay.
+
+DOCTOR X677
+Okay?  The trick is, let’s try to squeeze that fluid back into the veins, back into the veins and the veins @@@ is an artificial valve in your legs, with the compression stockings.  Sound good?
+
+PATIENT X677
+Yes, sir.
+
+DOCTOR X677
+Alright.  Alright, so let me um, we are doing to discontinue the amlodipine today.  Okay.  And let me get you that water pill too.  Alright and you can go to uh, actually go @@@.  
+
+PATIENT X677
+@@@.
+
+DOCTOR X677
+You got @@@.
+
+PATIENT X677
+@@@.
+
+DOCTOR X677
+@@@.  Prosthetics Department, @@@, pick up that.  I added terazosin, and chlorthalidone.  Stop amlodipine.  Stop at the nurses’ station and get your vaccination.  Then go up to Prosthetics real quick and pick up your stockings before they close for the weekend.  And then come down to the Pharmacy.
+
+PATIENT X677
+Oh okay.  Appreciate it doc.  Nice meeting you. 
+
+DOCTOR X677
+Nice meeting you man.
+
+PATIENT X677
+@@@.
+
+DOCTOR X677
+Yea, we got a lot of stuff done today.  
+
+PATIENT X677
+Okay.  Did you get that @@@?  You know, for that test, you know you said I had to go to the I forget the name of that.  You know for that exam or something.  You know for, I forgot what you did.  
+
+DOCTOR X677
+The prostate?
+
+PATIENT X677
+Yea, yea, something you know, where they can take some kind of exam over there.
+
+DOCTOR X677
+Oh for the genetic testing.  
+
+PATIENT X677
+Yea.
+
+DOCTOR X677
+Let me look into it.  Okay.  @@@.  I asked about it @@@.
+
+PATIENT X677
+Okay.
+
+DOCTOR X677
+I will write myself a note so I remember.
+
+PATIENT X677
+Okay.
+
+DOCTOR X677
+Alright.  
+
+PATIENT X677
+Hm hmm.  That’s good.  Okay stop at the nurses’ station.
+
+DOCTOR X677
+Yea, get it all done before five because you know this place shuts down at five.  
+
+PATIENT X677
+Oh okay.  
+
+DOCTOR X677
+@@@.
+
+PATIENT X677
+Okay thanks a lot doctor.
+
+DOCTOR X677
+I will see you somewhere in about three months just to see how you are doing okay.
+
+PATIENT X677
+Okay.  I get there on time.  
+
+DOCTOR X677
+Yea.
+
+
+PATIENT X677
+Okay, thanks a lot doc.  
+
+DOCTOR X677
+@@@.
+
+PATIENT X677
+Okay, take care.
+
+DOCTOR X677
+Alright buddy.  
+
+PATIENT X677
+Alright.  
+
+PATIENT LEAVES:  72:10.
+
+
+
+
+
+
+

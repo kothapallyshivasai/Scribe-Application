@@ -1,0 +1,1624 @@
+
+DOCTOR X599
+PATIENT.
+
+PATIENT X599
+How you doing?
+
+DOCTOR X599
+I'm DOCTOR, nice to meet you. 
+
+PATIENT X599
+Who.  Oh I thought it would be DOCTOR.
+
+DOCTOR X599
+Oh, is that who you usually see?  So do have to usually wear the oxygen?
+
+PATIENT X599
+Oh I haven't worn it for a while.
+
+DOCTOR X599
+Yeah I know.  So what do they usually do, take it off?
+
+PATIENT X599
+Yeah.
+
+DOCTOR X599
+Oh okay.
+
+PATIENT X599
+Yeah they want me to wear it every time I move.
+
+DOCTOR X599
+Oh.
+
+PATIENT X599
+Even in the house.
+
+DOCTOR X599
+Do you get short of breath if you don't or?
+
+PATIENT X599
+You know sometimes I do, sometimes I don't.
+
+DOCTOR X599
+Uh-huh.  When you usually go through a flight of stairs or just when?
+
+PATIENT X599
+Oh stairs, the stairs kill me.
+
+DOCTOR X599
+Yeah.
+
+PATIENT X599
+I'm moving out.  I'm staying with my son now.
+
+DOCTOR X599
+Uh-huh.
+
+PATIENT X599
+But I'm getting ready to move where there ain't no stairs, the stairs are killing me.
+
+DOCTOR X599
+Okay.
+
+PATIENT X599
+But uh.
+
+DOCTOR X599
+Um.
+
+PATIENT X599
+If I walk around real slow I'm alright.
+
+DOCTOR X599
+Okay.  And when you have your oxygen on are you fine usually?
+
+PATIENT X599
+No, still the same.
+
+DOCTOR X599
+Still a little short of breath when you move.
+
+PATIENT X599
+Still, it ain't no difference you know.
+
+DOCTOR X599
+Okay.  Okay.
+
+PATIENT X599
+I feel hurt right up in here.  The pain, it hurts right up in here.
+
+DOCTOR X599
+Uh-huh.
+
+PATIENT X599
+You know something, dropping it's something a little bit more.  This is mild pain.  There's some a little bit more complicated than what uh what the doctors think it is cause it's been there five years.
+
+DOCTOR X599
+Yeah.
+
+PATIENT X599
+And it's been the same thing.  It's the same thing.
+
+DOCTOR X599
+Uh-huh.
+
+PATIENT X599
+It ain't getting no worse but it ain't getting no better.
+
+DOCTOR X599
+Okay, okay.
+
+PATIENT X599
+You know I can't walk upstairs.
+
+DOCTOR X599
+Yeah.
+
+PATIENT X599
+Can't walk a long distance.
+
+DOCTOR X599
+Uh-huh.
+
+PATIENT X599
+And it's steady and it's constant.
+
+DOCTOR X599
+Okay.
+
+PATIENT X599
+If I was 25 or 30 years younger I'd have to do exploratory surgery cause.
+
+DOCTOR X599
+You don't want that, trust me, you don't want that.
+
+PATIENT X599
+No, I don't want that.
+
+DOCTOR X599
+You've had, I mean you've had like heart worked up before cause besides your heart was checked and your heart, if I remember correctly looked fine right?
+
+PATIENT X599
+Yeah.
+
+DOCTOR X599
+Yeah.  So that's good in that respect um.  It's a combination of things.  It's your lung disease, the COPD um combined with the obstructive sleep apnea you have.  Are you using the CPAP still anyway?  Do you use it every night or half a night?
+
+PATIENT X599
+Every night.  When I'm sleeping but when I sleeping light.  I'll go to sleep at 9 or 10 o'clock and I'll wake up at 2 in the morning.
+
+DOCTOR X599
+Uh-huh.
+
+PATIENT X599
+And then I'm up until 8, 9 or 10 o'clock the next night.
+
+DOCTOR X599
+Okay.
+
+PATIENT X599
+You know sometimes I take a nap, sometimes I don't.
+
+DOCTOR X599
+Okay.  Is it the breathing that keeps you from sleeping well or what is it or you just never having a good sleep really?
+
+PATIENT X599
+Uh you know it's hard to you know, it's hard to say.  It is hard to pinpoint.  It all depends on it because.
+
+DOCTOR X599
+Uh-huh.
+
+PATIENT X599
+I been like that ever since I uh came from Vietnam.  You know I couldn't get a good night's sleep and this carried on over the last four years because for that one year I was over there.
+
+DOCTOR X599
+Uh-huh.
+
+PATIENT X599
+I was up at all different times of the night.  You know I never got no more than three, four hours sleep.  Maybe five some nights if it was that much and it just carried over, over the years.
+
+DOCTOR X599
+Do you find yourself dozing off during the day sometimes?
+
+PATIENT X599
+No.
+
+DOCTOR X599
+You don't doze off?
+
+PATIENT X599
+No, you know that lady, that doctor up in the hospital had me, made me admit to that but you know what I don't doze off during the day.
+
+DOCTOR X599
+You don't.
+
+PATIENT X599
+No.
+
+DOCTOR X599
+Okay.
+
+PATIENT X599
+But see I was up there, I was up there and they had me on so many different type of drugs, I don't know what I was doing up there or what I was saying.
+
+DOCTOR X599
+What do you do for your blood pressure right now?
+
+PATIENT X599
+Um carvedilol.
+
+DOCTOR X599
+Uh-huh.
+
+PATIENT X599
+@@@.
+
+DOCTOR X599
+Uh-huh.
+
+PATIENT X599
+And it start with a d, what is that?
+
+DOCTOR X599
+Diltiazem?
+
+PATIENT X599
+@@@ that.
+
+DOCTOR X599
+They had increased some of your stuff.  Have you taken the higher doses?
+
+PATIENT X599
+Right.
+
+DOCTOR X599
+You have been?  Cause your blood pressures are a little bit high so do you?
+
+PATIENT X599
+This morning.
+
+DOCTOR X599
+Did you take it this morning?
+
+PATIENT X599
+This morning I forgot to take my carvedilol.
+
+DOCTOR X599
+Okay, okay, sure.
+
+PATIENT X599
+I forgot to take it.
+
+DOCTOR X599
+Sure, yeah uh that happens a lot um.
+
+PATIENT X599
+And because you know I take it, I took it last night at 10 o'clock.
+
+DOCTOR X599
+Uh-huh.
+
+PATIENT X599
+So at 5 o'clock that was too early.
+
+DOCTOR X599
+Uh-huh.
+
+PATIENT X599
+To take it again.
+
+DOCTOR X599
+Uh-huh.
+
+PATIENT X599
+But see I'm up every night at 5 in the morning.
+
+DOCTOR X599
+Right.
+
+PATIENT X599
+I want to take all my medication at 5 in the morning but if I take it at 7 or 8 at night you know that ain't 12 hours.
+
+DOCTOR X599
+Yeah and I mean it doesn't have to be 12 hours on the dot.  If it's between not taking it at 12 hours on the dot or.
+
+PATIENT X599
+Taking it.
+
+DOCTOR X599
+Taking it then we'd rather you just take it at like eight hours than not taking it at all so.
+
+PATIENT X599
+And uh since they increased that carvedilol I got, like water or something is in my ear you know.
+
+DOCTOR X599
+Some.
+
+PATIENT X599
+Yeah you know, it does it just like a 300 gram of aspirin do me.  I can't take a high volume aspirin.
+
+DOCTOR X599
+Oh.
+
+PATIENT X599
+Cause I do this, you know I feel something like a echo.
+
+DOCTOR X599
+Okay.  Does it affect your hearing?
+
+PATIENT X599
+No.
+
+DOCTOR X599
+It doesn't affect your hearing okay.
+
+PATIENT X599
+Just uncomfortable.
+
+DOCTOR X599
+Okay, alright.  Do you check your blood pressure at home by any chance?
+
+PATIENT X599
+Uh I don't have a machine.
+
+DOCTOR X599
+You don't, oh we can get you one.
+
+PATIENT X599
+And they uh, they wanted me to get one of those oxygen monitors.
+
+DOCTOR X599
+Yeah that actually wouldn't be a bad idea either.
+
+PATIENT X599
+But uh.
+
+DOCTOR X599
+@@@.
+
+PATIENT X599
+But I don't uh, at home, right here I feel pretty good but see at home I got some carpet on the floor.  I think I'm allergic to that carpet where I stay at.
+
+DOCTOR X599
+Why do you say that, what is it?
+
+PATIENT X599
+You see I can't breathe sometimes.  But when I leave it, when I leave it.
+
+DOCTOR X599
+Does it stop when you're gone?
+
+PATIENT X599
+Sometimes.  When I leave the house I'm good.
+
+DOCTOR X599
+Okay um.  How old is this where you're staying?
+
+PATIENT X599
+Oh it's a new place.  Could be how cheap is the carpet right.
+
+DOCTOR X599
+It's new?  Yeah or if it's had mold on your carpet but it's brand new.
+
+PATIENT X599
+I have no, the carpet ain't brand new.
+
+DOCTOR X599
+Okay.
+
+PATIENT X599
+And you know what, you're probably right because when my son moved in to the apartment, see I stay with my son now.
+
+DOCTOR X599
+Uh-huh.
+
+PATIENT X599
+The apartment, the carpets looked like it was dirty but they say they had cleaned it so it was probably what you said mold on those carpets.
+
+DOCTOR X599
+It's possible and that can really aggravate your lung disease.
+
+PATIENT X599
+Yeah.  My son will be walking around sniffling.
+
+DOCTOR X599
+Yeah.
+
+PATIENT X599
+He don't know, he don't know nothing about it now.
+
+DOCTOR X599
+Yeah.
+
+PATIENT X599
+He ain't figured it out yet.
+
+DOCTOR X599
+Yeah.
+
+PATIENT X599
+But I done figured out about that carpet.  He better off not having it.
+
+DOCTOR X599
+Yeah that's true actually.  Would you rather pick it up or would you rather it sent to your house?
+
+PATIENT X599
+What's that?
+
+DOCTOR X599
+The blood pressure cuff and the O2 machine?
+
+PATIENT X599
+Well I'll be back down this Thursday the 10th.
+
+DOCTOR X599
+Okay.
+
+PATIENT X599
+I could pick it up.
+
+DOCTOR X599
+Do you know where to pick it up?
+
+PATIENT X599
+Yeah.
+
+DOCTOR X599
+Okay.  I'll have it ready for you so it's there um.
+
+PATIENT X599
+And uh other than that you know I don't know why you increased that carvedilol on me uh.
+
+DOCTOR X599
+What was the reason?  It looks like your blood pressure was pretty high while you were in the hospital.
+
+PATIENT X599
+They made it that high.
+
+DOCTOR X599
+Because they aggravated you?
+
+PATIENT X599
+I ain't gonna say that, I ain't gonna say a word.
+
+DOCTOR X599
+Well you know it's, I mean.  They did the increased dose.
+
+PATIENT X599
+Yeah.
+
+DOCTOR X599
+You keep checking your blood pressure at home, if they're low or if you're getting nauseated or dizzy, then certainly we should back off a little bit okay.
+
+PATIENT X599
+I don't get nauseated.  I don't get dizzy.
+
+DOCTOR X599
+Yeah, yeah.  Those are usually the side effects that we see with if the carvedilol dose is too high.
+
+PATIENT X599
+Oh okay.
+
+DOCTOR X599
+I mean if you get those and your blood pressures are low, lower than normal, um cause your blood pressure usually runs high so if you start getting blood pressures like 100, 110, then maybe that's a little bit too aggressive and we can back off a little.
+
+PATIENT X599
+That's what I was getting.
+
+DOCTOR X599
+Yeah.
+
+PATIENT X599
+I missed the two tablets this morning.
+
+DOCTOR X599
+Uh-huh.
+
+PATIENT X599
+And it's at 147.
+
+DOCTOR X599
+Yeah.  Well what 147 is still considered high.
+
+PATIENT X599
+But see some doctors say they like to see my blood pressure at 130.
+
+DOCTOR X599
+Yeah less than 130.
+
+PATIENT X599
+Yeah less than 130.
+
+DOCTOR X599
+Yeah it's higher than 130.
+
+PATIENT X599
+Right but.
+
+DOCTOR X599
+Uh-huh.
+
+PATIENT X599
+That worries me but anybody say well 147's alright for you.  You know I say what you know what can I say?
+
+DOCTOR X599
+The goal is less than 130.  If it's running in the 140s then we can be okay with it but we would prefer not cause you're 62, you're still young.
+
+PATIENT X599
+(Laughter)
+
+DOCTOR X599
+Relatively.  With all ages right here that we see.
+
+PATIENT X599
+Oh yeah I know.
+
+DOCTOR X599
+So.
+
+PATIENT X599
+Yeah.
+
+DOCTOR X599
+So you still have a lot of years left.
+
+PATIENT X599
+Yeah.
+
+DOCTOR X599
+So you have your blood pressures all crazy now, that's gonna cut years off of your life.
+
+PATIENT X599
+Right, right.
+
+DOCTOR X599
+So we might as well be a little more aggressive if we can.
+
+PATIENT X599
+And there's something else I be wondering too.  They gave me these two things up there, where you know you inhale them.
+
+DOCTOR X599
+Yeah, yeah.
+
+PATIENT X599
+One got a cap though.
+
+DOCTOR X599
+Uh-huh.
+
+PATIENT X599
+And the other one got uh Tylenol.
+
+DOCTOR X599
+Uh-huh.
+
+PATIENT X599
+What is that with the one with the counter?  I don't see nothing in there.
+
+DOCTOR X599
+Is it?
+
+PATIENT X599
+Is it liquid or what?
+
+DOCTOR X599
+The, do you put it into the unit or is it?
+
+PATIENT X599
+One of them you don't put nothing in it you just take the cap off.
+
+DOCTOR X599
+Uh-huh.
+
+PATIENT X599
+And the counter goes, you know there's a counter on it, it's 60 doses.
+
+DOCTOR X599
+Uh-huh.
+
+PATIENT X599
+And the counter goes there and you inhale it.
+
+DOCTOR X599
+And you like click the lever or whatever and you inhale it real quick?  Is there a lever or anything that you push?
+
+PATIENT X599
+You talking about the one with the capsule.
+
+DOCTOR X599
+Yeah let me see which ones you're on.
+
+PATIENT X599
+You talking about the one with the capsule.
+
+DOCTOR X599
+Okay.
+
+PATIENT X599
+Now that's the only one that I can feel and I can inhale it.
+
+DOCTOR X599
+Uh-huh.
+
+PATIENT X599
+But uh that other one.
+
+DOCTOR X599
+You don't feel like there's anything in it?
+
+PATIENT X599
+I don't feel like nothing's coming out, that's what I say uh.
+
+DOCTOR X599
+Oh.
+
+PATIENT X599
+I even took it one time and turned it over upside down.  I didn't see nothing come out.
+
+DOCTOR X599
+You know the best thing to do in that instance is probably to bring it to the Pharmacy next time you're here and ask them about it and say hey look at this is it really working.
+
+PATIENT X599
+Yeah.
+
+DOCTOR X599
+So yeah, bring it in.
+
+PATIENT X599
+But I'm trying to say do I really need it?
+
+DOCTOR X599
+You do for your lung disease.  One's called mometasone.
+
+PATIENT X599
+Right.
+
+DOCTOR X599
+And that is supposed to be twice a day.
+
+PATIENT X599
+Right.
+
+DOCTOR X599
+And what's the other one they have you on, let's see.  Do you take albuterol, does that sound familiar?
+
+PATIENT X599
+I got some albuterol.  I got that which is  use as needed.
+
+DOCTOR X599
+How often are you using that?
+
+PATIENT X599
+Well I used it last night.  It seemed to work.
+
+DOCTOR X599
+It does?
+
+PATIENT X599
+I feel like, you know after I used the two powders.
+
+DOCTOR X599
+Uh-huh.
+
+PATIENT X599
+Uh I be stopped up.  Something's happening down there with them two powders and uh you know I can't breathe after using those two powders.  I believe that's what it is.  See I mean, I know you doctors like to over medication but.
+
+DOCTOR X599
+Formoterol, that's what it is.
+
+PATIENT X599
+That's what I got?
+
+DOCTOR X599
+Uh-huh.
+
+PATIENT X599
+But that's the powder.
+
+DOCTOR X599
+You're on formoterol.
+
+PATIENT X599
+What about the other powder though?
+
+DOCTOR X599
+You only have two medicines for your lungs disease right, so probably the albuterol.  Albuterol is the one you use.
+
+PATIENT X599
+Correct.
+
+DOCTOR X599
+The formoterol and mometasone are the two inhalers.
+
+PATIENT X599
+Okay.  One of them is a little capsule.
+
+DOCTOR X599
+Yeah.
+
+PATIENT X599
+That's the one you drop in the little machine.
+
+DOCTOR X599
+And then you inhale it.
+
+PATIENT X599
+Squeeze it.
+
+DOCTOR X599
+Uh-huh.
+
+PATIENT X599
+And inhale it.
+
+DOCTOR X599
+Uh-huh.
+
+PATIENT X599
+Now I feel that.
+
+DOCTOR X599
+Yes.
+
+PATIENT X599
+That other one, you just screw the cap off and a counter, I don't feel nothing coming out of that.
+
+DOCTOR X599
+The best thing to do is just bring it into the Pharmacy and let them look at it.
+
+PATIENT X599
+What does that do though?  Do I need them both?
+
+DOCTOR X599
+You do need them both cause they do different things.  One is, one is to make your airways bigger.
+
+PATIENT X599
+Right.
+
+DOCTOR X599
+So more air can come in and one is to decrease the inflammation that you have going in there.  So they work differently.
+
+PATIENT X599
+Oh okay.
+
+DOCTOR X599
+Yeah cause we can make your airways bigger but if you have a ton of inflammation then it's not going to do anything right?
+
+PATIENT X599
+It'll clean it out huh?
+
+DOCTOR X599
+Right or we can get rid of the inflammation but if your airway is still teeny tiny that's not gonna help either.
+
+PATIENT X599
+Right.
+
+DOCTOR X599
+So that's why you need both to kind of work together.
+
+PATIENT X599
+Okay.
+
+DOCTOR X599
+Um the albuterol, I know you're saying helps you, you seem to feel like it but the albuterol is supposed to be only as needed and we try to make it so that you're other medications control your breathing so that you only need albuterol maybe once or twice a month if even.
+
+PATIENT X599
+Right.
+
+DOCTOR X599
+Cause albuterol is not supposed to be like a daily or even weekly thing.  We try to keep it to a minimum cause if you're having to use it every day or you know almost every day that means you're not well controlled enough with your other stuff.
+
+PATIENT X599
+Okay now do they have anything that you can get a breathing treatment with at home?
+
+DOCTOR X599
+Yeah, I think so.  You like the breathing treatments you get in the hospital?
+
+PATIENT X599
+Yeah sometimes.  Yeah they work.
+
+DOCTOR X599
+With the humidifier.
+
+PATIENT X599
+Yeah they got something you can take that at home.
+
+DOCTOR X599
+Yeah I think so, let me find out for you.
+
+PATIENT X599
+Okay.
+
+DOCTOR X599
+I'm pretty sure there is yeah.
+
+PATIENT X599
+And uh.
+
+DOCTOR X599
+What is your um, have you been checking your um blood sugar?
+
+PATIENT X599
+Oh yes, it's uh I'm starting to get it back under control now, but when I went into the hospital they would give, all they would give me is short-acting insulin.
+
+DOCTOR X599
+Yeah.  Unfortunately you know the hospital.  So what are you taking right now?
+
+PATIENT X599
+15.
+
+DOCTOR X599
+Uh-huh.
+
+PATIENT X599
+Of long-acting.
+
+DOCTOR X599
+Okay, once a day or twice a day?
+
+PATIENT X599
+Twice a day.
+
+DOCTOR X599
+Twice a day.
+
+PATIENT X599
+And 15 of fast-acting.
+
+DOCTOR X599
+Okay with each meal.
+
+PATIENT X599
+Right.
+
+DOCTOR X599
+Okay and what are your morning sugars looking like?
+
+PATIENT X599
+I got them back down to 90 or 120.
+
+DOCTOR X599
+Good, wonderful.
+
+PATIENT X599
+You know uh anytime it's above 90 and 120, that mean I don't woke up eating something.
+
+DOCTOR X599
+Oh okay.
+
+PATIENT X599
+(Laughter)
+
+DOCTOR X599
+At least.
+
+PATIENT X599
+With eggs then I wake up in the morning and I'll check and maybe 160.
+
+DOCTOR X599
+Yeah do you write them down?
+
+PATIENT X599
+No I don't.
+
+DOCTOR X599
+Okay.  Well, do you think you can start writing them down and then we'll set you up with our pharmacists so they can take a good look at it and see if there's room to go up because your A1c which is the number we use to follow your diabetes.
+
+PATIENT X599
+Right.
+
+DOCTOR X599
+Got way up.
+
+PATIENT X599
+Oh yeah.
+
+DOCTOR X599
+Yeah it was, its 9., let me make sure so I'm not lying to you what it is, it is 9.3 when you had lab work done last week.
+
+PATIENT X599
+Okay.
+
+DOCTOR X599
+It was 7.4 in July.
+
+PATIENT X599
+So it went up 2 points.
+
+DOCTOR X599
+So way, way off in the wrong direction.
+
+PATIENT X599
+Well why would it, why would it made it do that?
+
+DOCTOR X599
+It's probably a combination of a lot of different things.  I think because we didn't cut it in and out of the hospital a lot since July.
+
+PATIENT X599
+Maybe it's been @@@ uh once or twice.
+
+DOCTOR X599
+Yeah, yeah, in September or whatever.  So usually there's not and if we keep @@@ controlled there and then um I don't know what else has been going on, I don't know if you've been having missing meals or eating too much sweets or this and that, little things can always do it.
+
+PATIENT X599
+Oh okay.  Well that's a task; I'll get it back down.
+
+DOCTOR X599
+Yeah.
+
+PATIENT X599
+That was just a little score right?
+
+DOCTOR X599
+The 7 yes, 7 is the goal, if we get it down to 7 for the A1c.  Um so why don't, if you can why don't you or actually does your monitor keep um.
+
+PATIENT X599
+The date and time.
+
+DOCTOR X599
+Does it keep track of it?
+
+PATIENT X599
+Yeah.
+
+DOCTOR X599
+So you don't even need to write down.
+
+PATIENT X599
+I brought it into her last week.
+
+DOCTOR X599
+Oh you did?  Did you bring it to our Pharmacy Clinic here?
+
+PATIENT X599
+Yeah, I seen them last week.
+
+DOCTOR X599
+For @@@.
+
+PATIENT X599
+@@@ Center right.
+
+DOCTOR X599
+And did they check your?
+
+PATIENT X599
+She checked it.  She told me just what you said keep a log.
+
+DOCTOR X599
+Oh okay, okay.
+
+PATIENT X599
+Keep a log and write down what I eat.
+
+DOCTOR X599
+Good, good.
+
+PATIENT X599
+You know cause.
+
+DOCTOR X599
+Yeah I mean for you, I mean you come in and seem them like once a week right?
+
+PATIENT X599
+Yeah they adjust my walker.
+
+DOCTOR X599
+Okay, okay, so then it seems like they kind of check on your diabetes as well.
+
+PATIENT X599
+That too.  
+
+DOCTOR X599
+Good.
+
+PATIENT X599
+They do that.
+
+DOCTOR X599
+Good okay.
+
+PATIENT X599
+They uh, you know they do all that, you know.
+
+DOCTOR X599
+Good, good.
+
+PATIENT X599
+Are you gonna be my permanent doctor or?
+
+DOCTOR X599
+We're gonna try.  We can try to make it that way um, we kind of switch around a lot.  So we try to keep seeing the same patient over and over but every now and then it, we have to.
+
+PATIENT X599
+Yeah cause I had one doctor he left.
+
+DOCTOR X599
+Yeah.
+
+PATIENT X599
+He was my doctor for almost a year.
+
+DOCTOR X599
+Uh-huh.
+
+PATIENT X599
+And uh you know he, you know we had a rapport.
+
+DOCTOR X599
+Yeah.
+
+PATIENT X599
+And we ended up having a little thing you know and then I got another friend, he spoke good of that doc too with his doctor.
+
+DOCTOR X599
+Uh-huh.
+
+PATIENT X599
+So you know, he was alright, I hate to see him go.
+
+DOCTOR X599
+Yeah.
+
+PATIENT X599
+But uh another thing I want to ask you too now.
+
+DOCTOR X599
+Uh-huh.
+
+PATIENT X599
+This oxygen, they got more modern stuff than this but the VA they won't give it to you.  They got some equipment that keep you out, where you can stay out for eight hours.
+
+DOCTOR X599
+Oh okay.
+
+PATIENT X599
+But they won't give it to you at the VA, they talk about too expensive all this crap.
+
+DOCTOR X599
+Yeah uh-huh.
+
+PATIENT X599
+But I do have uh, what do they call that insurance with the government, SSI or.
+
+DOCTOR X599
+Uh the Social Security?
+
+PATIENT X599
+Yeah type uh A and type B.
+
+DOCTOR X599
+Yeah.
+
+PATIENT X599
+That will pay for this specialty stuff.
+
+DOCTOR X599
+Uh-huh.
+
+PATIENT X599
+The guy told me he needs the doctor's name and my doctor's phone number here at the VA and he said that he could hook me up.
+
+DOCTOR X599
+Who is he?
+
+PATIENT X599
+With the guy that sell this stuff, Indigene, Indigene, that's the name of the place.
+
+DOCTOR X599
+Uh-huh.
+
+PATIENT X599
+That's the name of the company I get Indigene where you know they got modern equipment where you can take this and stay gone all day.
+
+DOCTOR X599
+Uh-huh.
+
+PATIENT X599
+And it's lightweight; you ain't got to have a heavy tank.
+
+DOCTOR X599
+Uh-huh.
+
+PATIENT X599
+And he say that he can get it, all he needs is a phone number and the doctor's name at the VA and he gonna call the doctor.
+
+DOCTOR X599
+Okay.  Well you know, we don't have direct lines here and I won't know what he's talking about, I've never heard of that.
+
+PATIENT X599
+I know but he said he's did it before.
+
+DOCTOR X599
+Is he a dealer?
+
+PATIENT X599
+@@@ uh you never seen that on TV?
+
+DOCTOR X599
+Oh I wouldn't, honestly I wouldn't trust those.
+
+PATIENT X599
+Uh let's see I got that insurance why not?
+
+DOCTOR X599
+There's a lot of scamming but.
+
+PATIENT X599
+@@@.
+
+DOCTOR X599
+I mean we can try to see what we can work out.  Are you still smoking?
+
+PATIENT X599
+No.
+
+DOCTOR X599
+How long ago did you quit?
+
+PATIENT X599
+I have one a day.
+
+DOCTOR X599
+So you are still smoking.
+
+PATIENT X599
+No.
+
+DOCTOR X599
+If you have a cigarette.
+
+PATIENT X599
+I bought @@@ pack of cigarettes in over a month.
+
+DOCTOR X599
+Uh-huh.  
+
+PATIENT X599
+Other than that I haven't had a cigarette in two months.
+
+DOCTOR X599
+Okay, alright um.
+
+PATIENT X599
+I won't buy nobody no more cigarettes.
+
+DOCTOR X599
+Okay.
+
+PATIENT X599
+I don't even put them in my hand.
+
+DOCTOR X599
+Yeah.
+
+PATIENT X599
+You know that's the first thing I did when I went out and bought those cigarettes.
+
+DOCTOR X599
+Uh-huh.
+
+PATIENT X599
+Got back in the car, opened them up and smoked it.
+
+DOCTOR X599
+Yeah @@@.
+
+PATIENT X599
+Don't say you are the devil.
+
+DOCTOR X599
+But you can't smoke around the oxygen either.
+
+PATIENT X599
+Yeah well I don't have it on, you know I ain't crazy.
+
+DOCTOR X599
+Either way, I mean there could be like a small leak that you don't know about I mean.
+
+PATIENT X599
+Don't you know that can happen to me before?
+
+DOCTOR X599
+Right, you're increases your changes.
+
+PATIENT X599
+But I don't do that no more, with those cigarettes, back to those cigarettes.
+
+DOCTOR X599
+Okay.
+
+PATIENT X599
+That's the hardest thing I ever had to do, quit smoking cigarettes.
+
+DOCTOR X599
+Yes, yeah no I can understand.  Alright, I'll be back.
+
+(DOCTOR OUT:  85:58  DOCTOR IN: 98:24)
+
+DOCTOR X599
+Okay.  So you can get those nebulizers at home, I can order it.  So the actual medication you need to pick up from the Pharmacy but the actual equipment to do a nebulizer.
+
+PATIENT X599
+Uh-huh.
+
+DOCTOR X599
+You can get from Prosthetics.
+
+PATIENT X599
+Okay.
+
+DOCTOR X599
+So let me put this in.  You'll probably like those better anyway huh.
+
+PATIENT X599
+Yeah.
+
+DOCTOR X599
+That seems to work better for you.
+
+PATIENT X599
+Well you know it makes it seem like it do how.
+
+DOCTOR X599
+No I mean it works differently.
+
+PATIENT X599
+Yeah.
+
+DOCTOR X599
+So um it's called Combivent and it's a brand name but it's a combination of albuterol and ipratropium.  I don't know what the name is.
+
+PATIENT X599
+Oh that's what this supposed to be?
+
+DOCTOR X599
+Yeah that's what the nebulizer treatment is.
+
+PATIENT X599
+Then you do it once a night, at night before you go to bed.
+
+DOCTOR X599
+Three times a day.
+
+PATIENT X599
+Three times a day.
+
+DOCTOR X599
+Yeah uh-huh, uh-huh.  Yeah if you want um I mean if you go and leave the house a lot I can prescribe the nebulizer and the inhaler then you can do nebulizers only at night and do the inhalers during the day.
+
+PATIENT X599
+Yeah.
+
+DOCTOR X599
+How would that sound?
+
+PATIENT X599
+That's alright.
+
+DOCTOR X599
+Okay.
+
+PATIENT X599
+Cause I don't want to sit at the house.
+
+DOCTOR X599
+Okay.  So why don't we, um we'll plan on um doing the inhalers um during the daytime.
+
+PATIENT X599
+Alright.
+
+DOCTOR X599
+And do the nebulizers at night.
+
+PATIENT X599
+Okay.
+
+DOCTOR X599
+Okay.
+
+PATIENT X599
+But usually we like to say like every six hours or so but you know I mean people are busy.  I doubt anyone ever gets every six hours but if you can get it in three or four times a day that'd be ideal.
+
+DOCTOR X599
+Okay.  So let make sure you get that and then continue the mometasone.  Do you need refills on that?
+
+PATIENT X599
+The who now?
+
+DOCTOR X599
+Mometasone, that's the new one that you got.
+
+PATIENT X599
+The powder?
+
+DOCTOR X599
+Uh-huh.
+
+PATIENT X599
+Oh no, I'm alright with that.  I think I need some more.
+
+DOCTOR X599
+Do you get it sent in the mail or pick it up at the window?
+
+PATIENT X599
+You can mail it.
+
+DOCTOR X599
+Mail it okay.
+
+PATIENT X599
+Uh you know I think I'm out of Losartan, they were supposed to send me some but I ain't got it yet.
+
+DOCTOR X599
+Okay.
+
+PATIENT X599
+Well, for your blood pressure.  I think I'm running low on that and I haven't gotten it yet but I've moved.
+
+DOCTOR X599
+Okay.
+
+PATIENT X599
+And maybe it got twisted in the mail.
+
+DOCTOR X599
+Yeah it's possible.  Let's see it goes to your address.  
+
+PATIENT X599
+And another thing I need a, a disabled plaque for disability.
+
+DOCTOR X599
+Uh-huh.
+
+PATIENT X599
+How do you go about to get that?
+
+DOCTOR X599
+Um that.
+
+PATIENT X599
+You know it has to be filled out by a doctor.  What you know what do I do?  You know.
+
+DOCTOR X599
+I'm not sure where you pick that, pick up those forms from.
+
+PATIENT X599
+But who fills them out, I mean what I can't just come in here and knock on your door and say here you go doc fill it out or give it to you then you know you ain't gonna mail it to me, that other doctor.  He was I hated to see him go.  He was so easy to deal with.
+
+DOCTOR X599
+Uh-huh.
+
+PATIENT X599
+You know, he'd mail it to you so I'm dropping it in the mail and mail it to you.
+
+DOCTOR X599
+Are you still, where are you living right now?  What's your address?
+
+PATIENT X599
+In the Highland area.
+
+DOCTOR X599
+xxx xxx xxx.
+
+PATIENT X599
+Right.
+
+DOCTOR X599
+It looks like the address is temporary.  Were you, for just this time can you pick it up at the window?
+
+PATIENT X599
+Tonight?
+
+DOCTOR X599
+Yeah cause they're not um, right now your addresses, aren't it's showing up as your temporary address.
+
+PATIENT X599
+Is it temporary, it is temporary.
+
+DOCTOR X599
+Yeah so but when they mail stuff out they mail it to your permanent address.
+
+PATIENT X599
+Okay.
+
+DOCTOR X599
+So for now we'll have to do medicines.
+
+PATIENT X599
+You can send it to my permanent address, the one before Tanglewood.
+
+DOCTOR X599
+Yeah.
+
+PATIENT X599
+Yeah you can send it there.
+
+DOCTOR X599
+Your address listed is @@@.
+
+PATIENT X599
+Right you just send it right to that address.
+
+DOCTOR X599
+Okay.
+
+PATIENT X599
+I'll get it.
+
+DOCTOR X599
+That's where all your medicine is going.
+
+PATIENT X599
+Okay.
+
+DOCTOR X599
+So your other medicine that you needed is probably there.
+
+PATIENT X599
+It might be.  It might be, I'm gonna check on my way home tonight.
+
+DOCTOR X599
+@@@.
+
+PATIENT X599
+But as far as me going to the hospital the last time I think all I had was a little bitty cold you know and I had to.  They could've probably, I wished I of went to Walgreens and bought me some you know some sugar free cough medicine.
+
+DOCTOR X599
+Oh you @@@.
+
+PATIENT X599
+I didn't need to be in the hospital.  I'm worse than when I was when I got out.
+
+DOCTOR X599
+Yeah.
+
+PATIENT X599
+After they gave me some pills up in there, I was on the 4th floor; they gave me some pills that I didn't know where I was for two days.
+
+DOCTOR X599
+Uh-huh.
+
+PATIENT X599
+You know and I think all I had was a little indigestion and that's what I had was a little cold.  Every time I come here.
+
+DOCTOR X599
+Do you ever check your blood sugar after you eat, about two hours after you eat?
+
+PATIENT X599
+I've started.
+
+DOCTOR X599
+Okay, alright, yeah.  So why don't we um the next time you have an appointment with the um, with the pharmacist for your um Coumadin check or whatever.
+
+PATIENT X599
+Yeah.
+
+DOCTOR X599
+If you bring your log in and let them look at some of your fasting and some of your two hour after meal numbers.
+
+PATIENT X599
+You know what; I'm gonna be dedicated to that so next week when I come in.
+
+DOCTOR X599
+Yeah, uh-huh.
+
+PATIENT X599
+I'm gonna have that.
+
+DOCTOR X599
+Okay good then we can see.  Maybe we can titrate your insulin a little bit.
+
+PATIENT X599
+Yeah.
+
+DOCTOR X599
+It'll give us a little bit of a better picture.
+
+PATIENT X599
+See I know what it be you know two hours after I eat, it'd be below 200.
+
+DOCTOR X599
+Yeah, well it could be.
+
+PATIENT X599
+It's below 200.
+
+DOCTOR X599
+@@@.
+
+PATIENT X599
+After I eat.
+
+DOCTOR X599
+Yeah we don't ever want it that @@@ so.
+
+PATIENT X599
+But then it goes down, it eases on down.
+
+DOCTOR X599
+Okay.  And do you remember when you went and when you did pulmonary function tests, do you remember doing those?
+
+PATIENT X599
+Sit in that little box.
+
+DOCTOR X599
+Uh-huh.
+
+PATIENT X599
+Yeah.
+
+DOCTOR X599
+When you go, I'm gonna try to get you set up to go and do that again just to see where your status is right now on your lung function um so let me see.  So I'll get that set up and I think they um, I think they'll call you with an appointment.
+
+PATIENT X599
+They'll send me a letter.
+DOCTOR X599
+Yeah they'll send you a letter.  Yeah so I'll fill this out and they'll just send you a letter with an appointment.
+
+PATIENT X599
+Now how do I go about to get the license plates tag, if I get an application what must I do cause I probably won't see another doctor here for what.
+
+DOCTOR X599
+You can bring it up to the front and just tell them to drop it off or to give it to your primary care doctor and they'll get it to us.
+
+PATIENT X599
+So my primary doctor is.
+
+DOCTOR X599
+You can tell them to drop it off either with me or with DOCTOR and some.
+
+PATIENT X599
+So what is it, you or DOCTOR?
+
+DOCTOR X599
+Well I always talk to her all the time.
+
+PATIENT X599
+Okay.
+
+DOCTOR X599
+So if you get to her then she can get it to me.
+
+PATIENT X599
+You are, you are a physician right?
+
+DOCTOR X599
+Yeah uh-huh.
+
+PATIENT X599
+Okay.
+
+DOCTOR X599
+Yeah okay.
+
+PATIENT X599
+Alright no problem.
+
+DOCTOR X599
+Alrighty well we'll get that all done.  So just stop by or stop by Prosthetics when you get a chance to pick up all that stuff.
+
+PATIENT X599
+I'll be here on the 10th.
+
+DOCTOR X599
+Okay, okay sure that's not a problem.
+
+PATIENT X599
+I'll be here on the 10th.
+
+DOCTOR X599
+Okay.
+
+PATIENT X599
+And I got, I missed my other appointment.  I had another 2 o'clock appointment.  That makes it, that means somebody do something at the desk.
+
+DOCTOR X599
+Uh-huh.
+
+PATIENT X599
+Because I been here since 10 o'clock this morning.
+
+DOCTOR X599
+Oh okay.
+
+PATIENT X599
+Now I got to walk all the way up to the sixth floor to get some oxygen.
+
+DOCTOR X599
+Oh okay.
+
+PATIENT X599
+(Laughter)  That gonna hurt but that's alright.  So what do I get another form to see?
+
+DOCTOR X599
+Oh they'll send you a letter cause they won't let you make appointment that.
+
+PATIENT X599
+For the doctor.
+
+DOCTOR X599
+Yeah uh-huh.  So they'll just sent you a letter sending you the appointment.
+
+PATIENT X599
+I bet you guys see a whole lotta people huh.
+
+DOCTOR X599
+Yeah, yes we do.
+
+PATIENT X599
+Alright.  See if you can have a nice one.
+
+DOCTOR X599
+Okay thank you, same to you.  See you later.
+
+PATIENT X599
+Alright.
+
+PATIENT LEAVES:  106:3
+
+
+
+

@@ -1,0 +1,588 @@
+AUDIO NAME:		X309
+
+DR ENTERS:		36:29 
+
+DOCTOR X309: 	I'm DOCTOR.  Nice to meet ya.
+
+PATIENT X309:	I'm PATIENT.
+
+DOCTOR X309: 	Okay.
+
+PATIENT X309:	Out there by the door. Huh?
+
+DOCTOR X309: 	Yeah.  Short walk.
+
+PATIENT X309:	Yeah.
+
+DOCTOR X309: 	Just give me any findings you have.  @@@.  
+
+PATIENT'S BROTHER X309:  Permission to check his medical records.
+
+DOCTOR X309: 	Are you staying in here or …
+
+PATIENT'S BROTHER X309: No I don't have to stay in.  I just wanted you to know.
+
+DOCTOR X309:	If you stay, I think it might be easier.
+
+PATIENT'S BROTHER 416:  Okay.
+
+DOCTOR X309:	I can answer any questions that you all have. As long as he is comfortable if you stay in the room.
+
+PATIENT'S BROTHER 416:  That's fine. Okay.
+
+DOCTOR X309:  Is that okay if I talk to your brother.  
+
+PATIENT X309:	Okay.  No problem.
+
+DOCTOR X309: 	Okay.  Not a problem.  Okay.  So the first question is - Why have you been away for so long?  
+
+PATIENT X309:	Have I been away that long?
+
+DOCTOR X309: 	Yeah.
+
+PATIENT X309:   @@@.
+
+DOCTOR X309: 	The last time you were here was in 2009 and you saw DOCTOR. I don't know if you remember him.
+
+PATIENT X309:	Yeah.  I forgot his name.  I just haven't had @@@.
+
+DOCTOR X309: 	Yeah.
+
+PATIENT X309:	When.  I was in here not too long ago.  @@@.
+
+DOCTOR X309: 	At the kidney doctors.  DOCTOR, DOCTOR ?
+
+PATIENT X309:	I don't know his name.
+
+DOCTOR X309: 	What were you to see him for?
+
+PATIENT X309:	The same thing that I see DOCTOR for.
+
+DOCTOR X309: 	Okay.
+
+PATIENT X309:	What was her name?  The lady doctor?
+
+DOCTOR X309: 	DOCTOR.
+
+PATIENT X309:	Yeah, DOCTOR.  I was here not to long ago to see her.
+
+DOCTOR X309:  How long ago was that?
+
+PATIENT'S BROTHER X309:  That was August.
+
+DOCTOR X309:	August, oh okay.  That wasn't too long ago.
+
+PATIENT X309:	Hmm, Hmm.
+
+DOCTOR X309: 	Did they give you medications and everything?
+
+PATIENT X309:	No they didn't give me nothing new.
+
+DOCTOR X309: 	Okay.
+
+PATIENT X309:	He said I was doing all right with what I had.
+
+DOCTOR X309: 	Your blood pressure is not where it we want it to be.
+
+PATIENT X309:	Right, we were talking about why it is up so high.
+
+DOCTOR X309:	Um.  So you are otherwise you are looking okay.
+
+PATIENT X309:	Hum. Hum.  That is the main thing.
+
+DOCTOR X309: 	I am going to check @@@ cholesterol.
+
+PATIENT'S BROTHER 416:  They did a blood draw.  Did they do a blood draw?
+
+DOCTOR X309:	Yeah, they did.  It is higher than where we want it to be.  Have you been having any chest pains?
+
+PATIENT X309:	No chest pains.
+
+DOCTOR X309: 	@@@ one.
+
+PATIENT X309:	Nothing but Twinkies.  @@@.
+
+DOCTOR X309: 	Cholesterol is up.
+
+PATIENT X309:	That is because I ain't had nothing to eat, but Twinkies.
+
+DOCTOR X309: 	(DOCTOR ON PHONE WITH LAB) 
+
+PATIENT X309 AND PATIENT'S BROTHER X309: (talking while DOCTOR is on phone with Lab): 
+
+@@@.
+
+PATIENT X309:	My cholesterol is up.
+
+PATIENT'S BROTHER X309: @@@.
+
+PATIENT X309:	Oh yeah, we can do that.  
+
+PATIENT'S BROTHER 416: @@@.
+
+PATIENT X309:	Oh yeah, the Twinkies are for my blood sugar.  There ain't no cholesterol.
+
+PATIENT'S BROTHER X309:  The Twinkies @@@.
+
+PATIENT X309:	Yeah, but I need it for my blood sugar.  
+
+PATIENT'S BROTHER X309:  The cholesterol needs to be checked. @@@.
+
+PATIENT X309: Hum, hum.  Yeah, @@@.  @@@.  No I don't think they stay open long last week.  
+
+DOCTOR X309: (PHONE CALL ENDED 49:33)
+
+PATIENT X309:	Cholesterol kinda high huh?
+
+DOCTOR X309: 	Yeah.  We are going to get you on @@@.  
+
+PATIENT X309:	Oh yeah.
+	
+DOCTOR X309: 	We will do that right away.  We are going to put you on medications for your cholesterol.  You had taken them before, but they are no longer on your medication list.
+
+PATIENT X309:	I don't know why they stopped them?
+
+DOCTOR X309: 	When you run out, you can call in and we can reorder them and renew them.  But you are supposed to be taking lisinopril and it is not on your med list.
+
+PATIENT X309:	What's that?
+
+DOCTOR X309: 	Lisinopril.
+
+PATIENT X309:	I never had of that before.
+
+DOCTOR X309: 	You had it many times in the past.
+
+PATIENT X309:	Oh yea.
+
+DOCTOR X309: 	You saw DOCTOR, you should have been taking the lisinopril.
+
+PATIENT X309:	Hum hum.
+
+DOCTOR 416:	Are you taking your blood pressure medications now?
+
+PATIENT X309:	The ones I got now yep.
+
+DOCTOR X309:	Do you know what you are taking?
+
+PATIENT X309:	Yeah, glipizide.
+
+DOCTOR X309:	How much?
+
+PATIENT X309:	A dry med?  
+
+DOCTOR X309:	How much of glipizide are you taking?
+
+PATIENT X309:	I don't know the answer with those.
+
+DOCTOR X309: 	How many times a day are you taking it?
+
+PATIENT X309:	Three times a day.  I take one and a half a day.
+
+DOCTOR X309: 	You take 1-1/2 three times a day?
+
+PATIENT X309:	No, just one time a day.
+
+DOCTOR X309: 	1-1/2 once a day.
+
+PATIENT X309:	Yeah.
+
+DOCTOR X309: 	When do you take it?
+
+PATIENT X309:	I usually take it when I get up before I eat my first breakfast.
+
+DOCTOR X309: 	You don't take anything at night?
+
+PATIENT X309:	Un Um.
+
+DOCTOR X309: 	As far as the blood pressure medications.  What are you taking?
+
+PATIENT X309:	@@@, whatever they call it.  I take it one time a day.
+
+DOCTOR X309: 	In the morning?
+
+PATIENT X309:	Yup.
+
+DOCTOR X309: 	That's fine.
+
+PATIENT X309:	I don't take none at night though.  I used to take that, what's its name?  But I don't take that no more.  They don't fit.  @@@.  What they call it?
+
+PATIENT'S BROTHER X309: He is taking them daily like he is supposed to.
+
+PATIENT X309: 	Yeah, the one dose two by day.  
+
+DOCTOR X309:	Now we are going to add two more medications.
+
+PATIENT X309:	Oh you’re adding two more?
+
+DOCTOR X309: 	One of them is a blood pressure medication which you can take in the morning, and the other one is going to be the cholesterol medication that you can take at night.
+
+PATIENT X309:	Um.
+
+DOCTOR X309: 	Very important.  Do you check your blood sugars at home?
+
+PATIENT X309:	Oh sure.
+
+DOCTOR X309: 	How often do you check them?
+
+PATIENT X309:	I do that, check them about three times a week.  I got a nurse that comes down on Wednesdays and she checks it.
+
+DOCTOR X309: 	Three times a week?
+
+PATIENT X309:	Yup.
+
+PATIENT'S BROTHER X309: @@@.
+
+PATIENT X309:	Yeah, you are getting to be pretty good.
+
+DOCTOR X309: 	Do you get any chest pains?
+
+PATIENT X309:	Nope.
+
+DOCTOR X309: 	Shortness of breath?
+
+PATIENT X309:	Nope.
+
+DOCTOR X309: 	Are you able to move around without that?
+
+PATIENT X309:	Without this?  Yup.
+
+DOCTOR X309: 	What do you do?
+
+PATIENT X309:	I move around.  I do a little.  I go outside and walk back in.
+
+DOCTOR X309: 	How often do you do that?
+
+PATIENT X309:	That would be all right.
+
+DOCTOR X309: 	Why do you use that?
+
+PATIENT X309:	You know I get used to it.  You know how people get when they get something new.  They use it.  I paid for it.   I may as well use it.
+
+DOCTOR X309: 	Is there any blood in your stool?  Or black in your stool?
+
+PATIENT X309:	Nope.
+
+DOCTOR X309: 	When was the last time you saw an eye doctor?
+
+PATIENT X309:	I want to talk to you about that too.  I want to see one, not today but as soon as possible, because I want @@@ and @@@ tells me that I need to get an appointment with the eye doctor.  But you probably can't do that right now.  I had to wait and get an okay from my eye doctor, my primary doctor and they could do it for me.
+
+PATIENT'S BROTHER 416:  His glasses are old.
+
+PATIENT X309:	Yeah, these are old.  These are over 10 years old.
+
+PATIENT'S BROTHER 416:  Yup, need an update. @@@.
+
+PATIENT X309:  Yup, need an eye check anyway.
+
+DOCTOR X309: 	Do you get numbness or tingling anywhere?
+
+PATIENT X309:	Nope.
+
+DOCTOR X309: 	Any lightheadedness.
+
+PATIENT X309:	Nope.
+
+DOCTOR X309: 	Headaches.
+
+PATIENT X309:	Nope.
+
+DOCTOR X309: 	Cough at all?
+
+PATIENT X309:	No, nothing unusual.  No.
+
+DOCTOR X309: 	Any weight loss or weight gain?
+
+PATIENT X309:	No, talking about that I think I have added weight though.
+
+DOCTOR X309: 	How much weight?
+
+PATIENT X309:	I don't know, but the last time I weighed one week I was at 214 and the next week I was down to 207.
+
+DOCTOR X309: 	Are you trying to lose weight?
+
+PATIENT X309:	No.  I wasn't trying.  I was walking around and stuff.  I could see losing weight.  But I just do the normal routine.
+
+DOCTOR X309: 	Do you need your glasses for near vision or distance vision?
+
+PATIENT X309:	I need them for everything.  Near and distance.
+
+DOCTOR X309: 	@@@.
+
+PATIENT X309:	What?
+
+DOCTOR X309:	I'm listening to you.  Do you eat a lot of salty foods?
+
+PATIENT X309:	No I wouldn't say salty, no.
+
+DOCTOR X309: 	Can you breathe normal?  Can you lean forward?  A few deep breaths in and out.  Real deep.  Okay.  Are you able to come over this way so I can check your blood pressure?  
+
+PATIENT X309:	Did something drop?
+
+DOCTOR X309: 	What?
+
+PATIENT X309:  I was asking if something dropped?
+
+DOCTOR X309:  No.
+
+PATIENT X309:	I was thinking that maybe I need to take me some water, may be that will have my blood pressure go down.
+
+DOCTOR X309:  @@@.  You need @@@.
+
+PATIENT X309:	I need it now.
+
+DOCTOR X309:	Any falls that you have had at all?
+
+PATIENT X309:	Any falls?
+
+DOCTOR X309:	Yeah.
+
+PATIENT X309:	Nope.  I ain't had no serious falls or nothing.  Nope.
+
+DOCTOR X309: 	Do you smoke at all?
+
+PATIENT X309:	Yep.
+
+DOCTOR X309: 	How much do you smoke?  
+
+PATIENT X309:	Probably about a pack every week.
+
+DOCTOR X309: 	Why are you smoking?  
+
+PATIENT X309:	Because I enjoy it. 
+
+DOCTOR X309: 	Are you going to quit?
+
+PATIENT X309:	I don't want to quit now if I don't have to.
+
+DOCTOR X309: 	You should quit.
+
+PATIENT X309:	Yep.
+
+DOCTOR X309: 	I think you have to quit.
+
+PATIENT X309:	Oh yeah.  I've been smoking over 50 years now.  It is hard to give up something just like that.
+
+DOCTOR X309: 	It is possible and it is only for your benefit.
+
+PATIENT X309:	Yeah, like I said, as long as it ain't killing me yet.
+
+DOCTOR X309: 	It is going to.
+
+PATIENT X309:	Yeah, eventually.  Yeah @@@.
+
+DOCTOR X309: 	@@@ this arm.  I'll hold it up.  Hold on.
+
+PATIENT X309:	All right.
+
+DOCTOR X309: 	Don't fall.  I want you to hold it.  I will hold it up.  Okay.
+
+PATIENT X309:	Okay.
+
+PATIENT'S BROTHER X309:  @@@.  Don't wiggle.  
+
+DOCTOR X309: 	Just let it fall.  Just like that.  
+
+DOCTOR X309: 	180/90.
+
+PATIENT X309:	180?
+
+DOCTOR X309: 	Yea.  It is supposed to be 130.
+
+PATIENT X309:	Yep.
+
+DOCTOR X309: 	It has a long way to go.  @@@.  Do you get any swelling in your legs?
+
+PATIENT X309:	They have been all right.
+
+DOCTOR X309: 	How many pillows do you sleep on at night?
+
+PATIENT X309:	I used to use two pillows, now I have to sleep on three.
+
+DOCTOR X309: 	Okay.  Do you snore at all?
+
+PATIENT X309:	I don't think I snore.
+
+PATIENT'S BROTHER X309:  He does.
+
+DOCTOR X309: 	Have you ever had a sleep study?  Do you take naps during the day?
+
+PATIENT X309:	Nope.
+
+DOCTOR X309: 	Do you feel refreshed when you wake up?
+
+PATIENT X309:	When I wake up I feel refreshed.  Yes.
+
+DOCTOR X309: 	Okay.
+
+PATIENT X309:	Yeah, usually when I get up I will be all right.  I walk outside.  I smoke me a cigarette right quick and then come back in and I feel pretty good for the rest of the day.
+
+DOCTOR X309: 	Okay.  Well I am going to talk with one of the other doctors.  I'll be back in after that.  Do you guys have any questions right now?
+
+PATIENT X309:	Yeah.  What about the eye glasses?
+
+DOCTOR X309:  Yeah, I'll get you in to see the eye doctor.  
+
+PATIENT'S BROTHER X309:  What about that MOVE Clinic?  What is that about?  Would he be more ambulatory @@@?
+
+DOCTOR X309: 	He will be seeing Physical Therapy too.  Those will be two different things.  Physical Therapy to get him walking more.  The MOVE Clinic is to help him lose weight and stay on the right foods to keep his @@@ and it can help with his blood pressure, anxiety.  Do you have any ulcers in your feet?  Do you get numbness and tingling in your feet?
+
+PATIENT X309:	Hun huh.  The feet are pretty good.
+
+DOCTOR X309: 	What is the reason you haven't seen the doctor in almost 10 years?
+
+PATIENT X309:	I don’t know.  I never had an appointment.
+
+DOCTOR X309: 	But you weren't seeing any other doctors?  
+
+PATIENT X309:	Un Un.  @@@.
+
+DOCTOR X309: 	Did you have someone who was ah…   At any time did you need to go into the hospital?
+
+PATIENT X309:	@@@ I don’t need @@@. He just comes back and makes sure everything is okay.
+
+DOCTOR X309: 	And your blood sugar.  When you check them what is the lowest number that you got?
+
+PATIENT X309:	Oh the lowest number I got was, I got it written down in a journal for the nurse.
+
+DOCTOR X309: 	Oh okay.  Bring it in.
+
+PATIENT X309:	Yeah, I'll bring it in.  Yup.  @@@.  I see him on Wednesday, but the doctor wants to see @@@.
+
+DOCTOR X309: 	I am going to have you come back in a month to see the nurse and get your blood pressure checked again.  Do you have a blood pressure cuff at home?
+
+PATIENT X309:	Yeah I got a machine at home.
+
+DOCTOR X309: 	Does it work?
+
+PATIENT X309:	Yes it do.
+
+DOCTOR X309: 	Okay.  I want you to bring that in when you come back in a month as well.
+
+PATIENT X309:	All right.
+	
+DOCTOR X309:  	I'll be back in a little bit.  Okay?
+
+PATIENT X309:	Okay.
+
+DOCTOR OUT:  65:32  DOCTOR IN:  68:51
+
+DOCTOR X309: 	I talked to the nurse.  We are going to do a pharmacist visit.  
+
+PATIENT X309:	Pharmacist?  
+
+DOCTOR X309:	Yeah.  They will be able to get you correct on the medications.  Continue to take your meds all the time.
+
+PATIENT X309:	Yeah.
+
+DOCTOR X309: 	Not sporadically.  You have to take them as daily.  Like you were saying, some of these meds, I don't know if you have them at home or not.  But it looks like you don't.
+
+PATIENT X309:	Right.
+
+PATIENT BROTHER X309:  You don't have any more?
+
+PATIENT X309: 	Yeah, I got some at the house, but not all them.
+
+PATIENT BROTHER X309:  The one for the cholesterol.  I know you don't have that because it's a new one, the one for the blood pressure.
+
+PATIENT X309: 	I got those pills.
+
+DOCTOR X309: 	How old are they?
+
+PATIENT X309:	They are old.  They are about, oh boy, they are about two months old.  Almost two months old.  @@@.
+
+DOCTOR X309: 	Any time you run out, you can always call and they can send you out all the medications.
+
+PATIENT X309:	Right.
+
+@@@
+
+PATIENT X309:	How many days?
+
+DOCTOR X309: 	A month's supply.
+
+PATIENT X309:	At least a month.  Yeah.  
+
+DOCTOR X309: 	Okay. @@@.
+
+PATIENT X309:	Oh yeah.
+
+DOCTOR X309: 	Okay. @@@.
+
+PATIENT X309:	Oh yeah. 
+ 
+DOCTOR X309: 	@@@.
+
+PATIENT X309:	@@@.
+
+DOCTOR X309: 	@@@.
+
+PATIENT X309:	They were a little bit different.  They were definitely @@@.
+
+DOCTOR X309: 	They were the same system.
+
+PATIENT X309:	@@@.  Lay down to watch TV.  I use them.  I can still see them.
+
+DOCTOR X309: 	Not as well?
+
+PATIENT X309:	No.
+
+DOCTOR X309: 	Okay.  So I will see you back here in three months and then the pharmacist should get a hold of you.  I will also send you to the MOVE Clinic and the ophthalmologist.
+
+PATIENT X309: 	I will get a letter, right?
+
+DOCTOR X309:	Or someone will call you.
+
+PATIENT X309:	Oh yeah.
+
+DOCTOR X309:	Okay.
+
+PATIENT X309:	All right.
+
+DOCTOR X309: 	When you do these labs, they are fasting labs for one month and for three months.
+
+PATIENT X309:	Fasting?  Oh okay.
+
+DOCTOR X309: 	Okay.
+
+PATIENT X309:	All right.
+
+PATIENT'S BROTHER X309:  One month and three months?
+
+DOCTOR X309: 	Yeah.
+
+PATIENT X309:	Well let me go down there and @@@ the work.
+
+DOCTOR X309: 	Okay.  Don't go off of your medications.  Okay.
+
+PATIENT X309:	All right doc.
+
+PATIENT'S BROTHER X309:  The MOVE Program stuff.  You will get that mailed out to him also?  
+
+DOCTOR X309:	Yeah.
+
+PATIENT'S BROTHER X309: Okay.
+
+DOCTOR X309: 	Yeah I will call ahead.  Okay.  
+
+PATIENT X309:	Yup.
+
+DOCTOR X309:	Okay, see you in a while.
+
+PATIENT X309:	Okay, doctor.
+
+DOCTOR X309:	Okay. Check out over here.
+
+PATIENT X309:	All right.  Okay.  @@@.
+
+DOCTOR X309:	@@@ Hospital.  So in three months I will send you a letter. Okay.
+
+PATIENT X309:	All right.  Thanks a lot.  I need to get me some water before I go down there.  Yeah Okay.  Be right there.  
+
+
+Times is 2:50.
+
+
+
+
+
+

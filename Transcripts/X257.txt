@@ -1,0 +1,1367 @@
+
+DOCTOR X257
+Come with me.
+ 
+PATIENT X257
+Yes ma'am.
+
+DOCTOR X257
+How are you?
+
+PATIENT X257
+I am quite well. 
+
+DOCTOR X257
+Well that's good.
+
+PATIENT X257
+Let's see your DOCTOR.
+
+DOCTOR X257
+Yeah.  You've been out for a while, have a seat right here.
+
+PATIENT X257
+I don't think we've met before.
+
+DOCTOR X257
+No.
+
+PATIENT X257
+And you're my primary physician uh DOCTOR.
+
+DOCTOR X257
+Yeah I'm taking over her clinics.
+
+PATIENT X257
+Yeah she's moved on.
+
+DOCTOR X257
+Yeah she has.  How have you been?
+
+PATIENT X257
+Uh I've gone through.
+
+DOCTOR X257
+A lot.
+
+PATIENT X257
+Near death and I feel very fit, especially for my age.
+
+DOCTOR X257
+That's good.  Any issues at all?  Concerns?
+
+PATIENT X257
+Yeah all kinds.
+
+DOCTOR X257
+Like?
+
+PATIENT X257
+Uh I'm primarily, this really helps, it's best handled by uh DOCTOR in Oncology but I had a.
+
+DOCTOR X257
+You saw them.
+
+PATIENT X257
+Oh yeah.
+
+DOCTOR X257
+Two weeks ago?
+
+PATIENT X257
+Oh yeah, yeah I'm well cared for uh I had a colectomy back in June and was given uh two months of chemo.
+
+DOCTOR X257
+@@@.
+
+PATIENT X257
+That.
+
+DOCTOR X257
+Didn't go too well.
+
+PATIENT X257
+Darn near killed me.
+
+DOCTOR X257
+Okay.
+
+PATIENT X257
+I didn't want to live that way uh and you know I outlasted it and I feel great and I'm only concerned with a return of the cancer and I have a colonoscopy scheduled.
+
+DOCTOR X257
+Right.
+
+PATIENT X257
+So it's under control.
+
+DOCTOR X257
+Okay.  You could not, so how's your appetite been though?
+
+PATIENT X257
+Uh good yes, very good.  And my alimentary canal, as far as I can tell is functioning very well considering I lost a third of the colon.
+
+DOCTOR X257
+Okay.  So otherwise you think you're doing fine?
+
+PATIENT X257
+Yes.  Thanks to you good folks at xxx and my wife.
+
+DOCTOR X257
+That's great.  And for your weight I was looking through, it looks like its back to where it was before you started the chemo.
+
+PATIENT X257
+No.  Oh uh yes.
+
+DOCTOR X257
+How is your appetite?
+
+PATIENT X257
+I uh, it, it's more than adequate.
+
+DOCTOR X257
+Okay.
+
+PATIENT X257
+Yeah, you know I.
+
+DOCTOR X257
+Any recent fevers or like chills?
+
+PATIENT X257
+No.
+
+DOCTOR X257
+Okay.
+
+PATIENT X257
+No.
+
+DOCTOR X257
+Coughing up anything?
+
+PATIENT X257
+No.  I have a persistent cough that I think is indicative of nothing other than bad habits.
+
+DOCTOR X257
+Shortness of breath?
+
+PATIENT X257
+No.  I'm back on my bicycle and trying to get my conditioning back.
+
+DOCTOR X257
+So any symptoms of your heart?
+
+PATIENT X257
+No.
+
+DOCTOR X257
+Cause I know you had a procedure where they ablated.
+
+PATIENT X257
+Yes, yeah.  Well I didn't know I needed an ablation.
+
+DOCTOR X257
+Okay.
+
+PATIENT X257
+Uh and I've had no what?
+
+DOCTOR X257
+No leg swelling?  Any leg swelling?
+
+PATIENT X257
+No, no, no.  Oh you know, well that was during uh the uh colon procedures and uh chemo I had a little.
+
+DOCTOR X257
+Okay.
+
+PATIENT X257
+But it's gone.
+
+DOCTOR X257
+You're having regular bowel movements daily?
+
+PATIENT X257
+Uh just about.  Yeah for all practical purposes I'm very regular.
+
+DOCTOR X257
+Not any, has it been loose or constipation?
+
+PATIENT X257
+Uh that concerns me.  It was uh not loose at all and suddenly it became much softer.
+
+DOCTOR X257
+When?
+
+PATIENT X257
+About six weeks ago and I have observed it and there seems to be nothing irregular.
+
+DOCTOR X257
+Okay.
+
+PATIENT X257
+Uh.
+
+DOCTOR X257
+No blood?
+
+PATIENT X257
+No, no blood, no blackness but variation.
+
+DOCTOR X257
+Okay.  You have a history of hypertension right?
+
+PATIENT X257
+I have what?
+
+DOCTOR X257
+Did they give you a list of your medicines?
+
+PATIENT X257
+Yes I have it.
+
+DOCTOR X257
+Let's go through that.
+
+PATIENT X257
+Okay, I that's a good idea cause I'm not taking much of any of this.  Uh.
+
+DOCTOR X257
+Are you taking the, this is your blood pressure medicine?
+
+PATIENT X257
+No.
+
+DOCTOR X257
+You're not.  I thought they told you to take it.  Remember when Cardiology saw you, you were taking 10 of it and they wanted you to decrease to 5.
+
+PATIENT X257
+Oh wait a minute, no I take half a pill for cholesterol every night but that's not it, that's not it no.  No that's.  You know I'm not taking this and uh I think it's my negligence.  
+
+DOCTOR X257
+Okay.
+
+PATIENT X257
+Uh I need to uh.
+
+DOCTOR X257
+Let's see if there are any other ones that you're not taking.
+
+PATIENT X257
+Start it.
+
+DOCTOR X257
+You take a stool softener?
+
+PATIENT X257
+No I don't need it.
+
+DOCTOR X257
+This is probably before.  You're to take it before your colonoscopy.
+
+PATIENT X257
+Yeah.
+
+DOCTOR X257
+Yeah.
+
+PATIENT X257
+Probably yeah.
+
+DOCTOR X257
+Do you take this one?
+
+PATIENT X257
+Uh.
+
+DOCTOR X257
+It's a stool softener too.
+
+PATIENT X257
+No, no.
+
+DOCTOR X257
+It's to keep you more regular, no.
+
+PATIENT X257
+No and I don't feel I need it.
+
+DOCTOR X257
+Do you use eye drops?
+
+PATIENT X257
+Yeah, oh, oh yes.  I use the eye drops every night religiously.  Uh what do you call it, I'm having a senior moment.
+
+DOCTOR X257
+Glaucoma?
+
+PATIENT X257
+Uh yes.
+
+DOCTOR X257
+Okay.  Um are you still taking Megace, Megace, Megestrol?  It's to help you help stimulate your appetite. 
+
+PATIENT X257
+No, don't need it.  
+
+DOCTOR X257
+@@@.  So you're taking half a pill of this for your cholesterol.
+
+PATIENT X257
+Yes.
+
+DOCTOR X257
+So you're not taking lisinopril either.
+
+PATIENT X257
+No.
+
+DOCTOR X257
+And you're not taking any blood pressure medicine?
+
+PATIENT X257
+No.
+
+DOCTOR X257
+So DOCTOR, who saw you a couple of weeks ago.
+
+PATIENT X257
+No, well he.
+
+DOCTOR X257
+Told you to restart those medicines but you're not.
+
+PATIENT X257
+Now wait a minute DOCTOR?
+
+DOCTOR X257
+Yeah.
+
+PATIENT X257
+I don't recall him telling me this.
+
+DOCTOR X257
+You don't recall him telling you that?
+
+PATIENT X257
+No.
+
+DOCTOR X257
+Okay.
+
+PATIENT X257
+Which is not to say he didn't.
+
+DOCTOR X257
+Okay.
+
+PATIENT X257
+But I, you know, I need to okay uh.
+
+DOCTOR X257
+You're taking baby aspirin right?
+
+PATIENT X257
+Nope.
+
+DOCTOR X257
+Why not?
+
+PATIENT X257
+Uh, a combination of forgetfulness and negligence.  I have to take the blame for that because if I was @@@ to take it.
+
+DOCTOR X257
+Do you have the pills at home?
+
+PATIENT X257
+Yeah oh right.
+
+DOCTOR X257
+Do you have like the.
+
+PATIENT X257
+The baby aspirin?
+
+DOCTOR X257
+No, no, no, you know like those um pill holders.
+
+PATIENT X257
+Oh yes uh.
+
+DOCTOR X257
+Where you can put in the medicines for days.
+
+PATIENT X257
+I have been.
+
+DOCTOR X257
+Would that help?
+
+PATIENT X257
+Religious about that and I can, I need to pick it up again and I hereby promise to do so.  Alright now, that's a baby aspirin.
+
+DOCTOR X257
+Uh-huh, 81.
+
+PATIENT X257
+Oh yeah there it is yeah.
+
+DOCTOR X257
+Uh-huh.  Are you taking the fish oil?
+
+PATIENT X257
+Yes I take that regularly.
+
+DOCTOR X257
+Do you take vitamin C?
+
+PATIENT X257
+No.
+
+DOCTOR X257
+Okay.
+
+PATIENT X257
+I, if I were.
+
+DOCTOR X257
+Do you take Calcitrate? The calcium pill?
+
+PATIENT X257
+No.
+
+DOCTOR X257
+Are you taking saw palmetto?
+
+PATIENT X257
+No.
+
+DOCTOR X257
+Okay.  
+
+PATIENT X257
+I will take vitamin C, because right or wrong I believe in it, if I think I'm coming down with a cold but I never get colds anymore at all.
+
+DOCTOR X257
+Are you taking the magnesium?
+
+PATIENT X257
+No.  Now I need to.
+
+DOCTOR X257
+@@@.
+
+PATIENT X257
+Alright the amlodipine and.
+
+DOCTOR X257
+You're taking lisinopril.
+
+PATIENT X257
+And lisinopril which I don't see on here at all.
+
+DOCTOR X257
+Yeah that medicine is actually expired so I'll have to renew it.
+
+PATIENT X257
+Oh okay.
+
+DOCTOR X257
+So your blood pressure is.
+
+PATIENT X257
+No, no.
+
+DOCTOR X257
+140-150s.
+
+PATIENT X257
+That's high.
+
+DOCTOR X257
+Yeah.
+
+PATIENT X257
+So I should be taking that stuff.  I'm seeing DOCTOR, cardiologist after this appointment.
+
+DOCTOR X257
+Uh-huh.  @@@.
+
+PATIENT X257
+Sure.
+
+DOCTOR X257
+And I think the reason why the plan @@@ for you to keep up on these medicines was to cut back on these medicines.
+
+PATIENT X257
+Uh.
+
+DOCTOR X257
+Was because during the time when you had the weight loss your blood pressure was low, you @@@.  It looks like things are much better now.
+
+PATIENT X257
+Yes.
+
+DOCTOR X257
+Okay.  Alright I need to just fill out; okay we have a series of questions the VA wants us to ask you guys okay?
+
+PATIENT X257
+Oh I'm at your disposal with great appreciation.
+
+DOCTOR X257
+You ate today right?
+
+PATIENT X257
+Yes.
+
+DOCTOR X257
+The only thing we probably have to check at some point is your cholesterol levels.
+
+PATIENT X257
+Hmm.
+
+DOCTOR X257
+So when is your next appointment?
+
+PATIENT X257
+Oh boy.
+
+DOCTOR X257
+And you see DOCTOR on the 31st oh.
+
+PATIENT X257
+No I see him today.
+
+DOCTOR X257
+Oh it's later today.
+
+PATIENT X257
+Yes.
+
+DOCTOR X257
+Okay.
+
+PATIENT X257
+And then I come in in about a week.
+
+DOCTOR X257
+Okay.
+
+PATIENT X257
+I think.
+
+DOCTOR X257
+You come in on April 6th?
+
+PATIENT X257
+Yes.
+
+DOCTOR X257
+I'll order that for April 6th.
+
+PATIENT X257
+Oh.
+
+DOCTOR X257
+Your cholesterol so make sure you don't eat before you come.
+
+PATIENT X257
+Oh okay.
+
+DOCTOR X257
+Okay.  So we can check your cholesterol and see if you need to.
+
+PATIENT X257
+And I won't receive any other notice so you know this, this will be the only instructions I get.
+
+DOCTOR X257
+Yeah.
+
+PATIENT X257
+Okay, April 6th.
+
+DOCTOR X257
+And you have your podiatry appointment.
+
+PATIENT X257
+Yeah, yeah wait a minute there's something else uh than Podiatry, oh well.  Where do I go to have the cholesterol checked?
+
+DOCTOR X257
+Oh you can get the labs done here.
+
+PATIENT X257
+Downstairs, on the first floor?
+
+DOCTOR X257
+You can have it done here.
+
+PATIENT X257
+Yeah but on the first floor?
+
+DOCTOR X257
+Uh-huh.
+
+PATIENT X257
+Cause I don't go there anymore.  I always go to 9E and they take my blood for labs.
+
+DOCTOR X257
+Okay.
+
+PATIENT X257
+So I should have it done there.
+
+DOCTOR X257
+Yes.
+
+PATIENT X257
+Okay.
+
+DOCTOR X257
+No, no, no, you should get your labs done up here.  Oh you mean when you come on.
+
+PATIENT X257
+On April 6th for the cholesterol.
+
+DOCTOR X257
+You get those in the Outpatient Lab downstairs on the first floor.
+
+PATIENT X257
+Oh on the first floor okay.
+
+DOCTOR X257
+Uh-huh.
+
+PATIENT X257
+Okay.
+
+DOCTOR X257
+Any problems peeing at all, like losing urine on yourself?
+
+PATIENT X257
+No.
+
+DOCTOR X257
+Okay, or feeling like you've got a weak stream?
+
+PATIENT X257
+No, no, definitely not.  I'm very pleased that I seem to be doing so well after going through all I've gone through.
+
+DOCTOR X257
+Are you fairly active at home like walking around, do you do all the walking yourself or?
+
+PATIENT X257
+No, but I do quite a bit and the only problem is that I am not regular enough but every once in a while I take a long bike ride which I really enjoy and then I sleep better.
+
+DOCTOR X257
+Okay.
+
+PATIENT X257
+At night.
+
+DOCTOR X257
+Do you do your cooking at home?
+
+PATIENT X257
+No.  My wife does.
+
+DOCTOR X257
+Who does that for you?
+
+PATIENT X257
+My wife does, my wife.
+
+DOCTOR X257
+Uh-huh.  Are you up walking around all the time?
+
+PATIENT X257
+Oh yes, I'm active during the day but not enough uh.  Because I have been very active almost all my life and I'm not as active as I used to be and I notice it.
+
+DOCTOR X257
+You're eating like three meals a day?
+
+PATIENT X257
+Oh yes, very very good meals.
+
+DOCTOR X257
+@@@ almost all your meals?
+
+PATIENT X257
+All of them without fail.  I’d feel deprived otherwise.
+
+DOCTOR X257
+Alright so we do the cholesterol on the 6th.
+
+PATIENT X257
+Yeah, yeah.
+
+DOCTOR X257
+There'll be an order at the blood lab?
+
+PATIENT X257
+Yeah.
+
+DOCTOR X257
+Come and have a seat here.
+
+PATIENT X257
+Okay.  Take off anything?  Sweater?
+
+DOCTOR X257
+The sweater.
+
+PATIENT X257
+Yeah.
+
+DOCTOR X257
+My hands are a bit cold.
+
+PATIENT X257
+Oh, if that's the worst I have to go through today I'll be very lucky.
+
+DOCTOR X257
+Let me look in your ears okay.
+
+PATIENT X257
+Yeah.
+
+DOCTOR X257
+Any problems with your vision at all?
+
+PATIENT X257
+Uh yeah I'm corrected, well yes.
+
+DOCTOR X257
+You do have a lot of wax in here.
+
+PATIENT X257
+Should I get them cleaned?
+
+DOCTOR X257
+Yeah.  Well do you use the wax remover like the Debrox?
+
+PATIENT X257
+No I don't.
+
+DOCTOR X257
+I could give you one and you can pick it up downstairs.
+
+PATIENT X257
+Oh that's terrific.
+
+DOCTOR X257
+So you just put it in and the wax dissolves itself.
+
+PATIENT X257
+Yeah, self-administered, terrific.
+
+DOCTOR X257
+Open your mouth for me.  Lift up your tongue.  No dentures right?
+
+PATIENT X257
+No.
+
+DOCTOR X257
+You look really good.  I'm just going to feel around your neck.
+
+PATIENT X257
+Okay.
+
+DOCTOR X257
+I'll try to warm up my hand.
+
+PATIENT X257
+Oh don't worry about it, don't worry about it.
+
+DOCTOR X257
+Alright.  @@@.
+
+PATIENT X257
+Uh-huh.
+
+DOCTOR X257
+Deep breath.
+
+PATIENT X257
+Uh excuse me I have to cough.
+
+DOCTOR X257
+Okay.
+
+PATIENT X257
+Sorry.
+
+DOCTOR X257
+Not a problem.  Deep breath for me.  Out.  Just going to lift up your shirt right here.
+
+PATIENT X257
+Oh sure.
+
+DOCTOR X257
+@@@.
+
+PATIENT X257
+Yeah.  Doc do I sit down?
+
+DOCTOR X257
+Yeah.
+
+PATIENT X257
+Okay.
+
+DOCTOR X257
+Any back pain at all?
+
+PATIENT X257
+Any what?
+
+DOCTOR X257
+Back pain?
+
+PATIENT X257
+None.
+
+DOCTOR X257
+Okay.
+
+PATIENT X257
+Uh oh I.
+
+DOCTOR X257
+Can you lay back for me?
+
+PATIENT X257
+Okay I have stiffness you know.  I'm an architect and I do a lot of sedentary work.
+
+DOCTOR X257
+Do you still do a lot of the architect stuff?
+
+PATIENT X257
+Not enough.  As a matter of fact I'm looking for work because I was off and uh @@@.
+
+DOCTOR X257
+Hmm.
+
+PATIENT X257
+Uh but I still am rather sedentary and I get up and my back is stiff.  But that's being 79 I presume.
+
+DOCTOR X257
+I think you're doing pretty well as far as we're concerned.
+
+PATIENT X257
+Hmm.
+
+DOCTOR X257
+Take a deep breath, out.  Can you sit up for me?  Have a seat right here.
+
+PATIENT X257
+Okay.  I do this with some hesitation but I uh.
+
+DOCTOR X257
+What's that?
+
+PATIENT X257
+I have solicited some of the people like DOCTOR and a nurse in Oncology um, I want to give back to the xxx VA and I'm offering my services as an architect.  Of course no fee, no commitment.  
+
+DOCTOR X257
+You've never smoked right?
+
+PATIENT X257
+No.
+
+DOCTOR X257
+Okay.  Drinking?  Wine?
+
+PATIENT X257
+I love about three or four ounces of wine a night.
+
+DOCTOR X257
+Okay, okay.
+
+PATIENT X257
+No it's very much under control and I hope therapeutic.
+
+DOCTOR X257
+Okay.
+
+PATIENT X257
+But I'd like to review it with a notice of what I'm doing.
+
+DOCTOR X257
+Well what you were saying about what you wanted to do with the VA?
+
+PATIENT X257
+Oh I'm offering my services, personal services as an architect to people like you.
+
+DOCTOR X257
+Oh.  That's nice of you.
+
+PATIENT X257
+Uh.
+
+DOCTOR X257
+So you've been an architect all your life right?
+
+PATIENT X257
+Yes uh yes in that perspective.
+
+DOCTOR X257
+I've been looking through all of your labs here.
+
+PATIENT X257
+Oh boy.  I have a.
+
+DOCTOR X257
+They're just fine.
+
+PATIENT X257
+Very long record.
+
+DOCTOR X257
+Okay I'll be right back okay.
+
+PATIENT X257
+Okay.  Alright I can tuck my shirt in.
+
+DOCTOR X257
+Oh yeah.
+
+PATIENT X257
+Move it.
+
+(DOCTOR OUT:  37:33  DOCTOR IN:  44:10)
+
+DOCTOR X257
+Alright, so we'll repeat your cholesterol like we said on the 6th of April.
+
+PATIENT X257
+Yes, yes.
+
+DOCTOR X257
+And let me see, how soon do you want to see me back, up to you.
+
+PATIENT X257
+Really.  Well, you've been my primary doctor for a while and this is our first appointment.
+
+DOCTOR X257
+Now @@@.
+
+PATIENT X257
+Uh I think I know why.
+
+DOCTOR X257
+Yeah.
+
+PATIENT X257
+Because I've been in here so regularly for the specialty things.
+
+DOCTOR X257
+Probably.
+
+PATIENT X257
+You know and I have my vitals you know whatever.  Although I really appreciate uh seeing a GP.
+
+DOCTOR X257
+Finally right?
+
+PATIENT X257
+Yes, yes.  Well I'm forever grateful to DOCTOR because she kept telling me to get a colonoscopy and I kept.
+
+DOCTOR X257
+@@@.
+
+PATIENT X257
+And I had one and it was one of the worst experience, physical experiences I've ever had.  It was, you know, it was not good or you know uh and I don't like the procedure but because of her I had it done and it turned out I had a small tumor.  Um oh when to see you uh.
+
+DOCTOR X257
+Six months, three months?
+
+PATIENT X257
+Okay alright six months yeah.
+
+DOCTOR X257
+Okay.  And if everything is stable we could go like a year.
+
+PATIENT X257
+Yeah, gee whiz, @@@.
+
+DOCTOR X257
+You look pretty.  Of course I didn't see you when all these things were going on you know.
+
+PATIENT X257
+Oh I, I weigh 180 now, I weighed 145 at one point.
+
+DOCTOR X257
+Yeah.
+
+PATIENT X257
+And I was not a happy camper.  Uh.
+
+DOCTOR X257
+So I'll see you back in six months.
+
+PATIENT X257
+Yes.
+
+DOCTOR X257
+And you get labs in two weeks, a week from now.
+
+PATIENT X257
+Uh okay, alright, alright.
+
+DOCTOR X257
+Oh, your medicines.  We need to resend some of those.  
+
+PATIENT X257
+Yes.
+
+DOCTOR X257
+I'm going to refill the medicine for you.
+
+PATIENT X257
+Alright.
+
+DOCTOR X257
+And the next to do you have to pick this up downstairs.
+
+PATIENT X257
+Now?  Very good, that's terrific.
+
+DOCTOR X257
+You can pick it up downstairs, let me make sure, let me refill it.
+
+PATIENT X257
+I, I should have some amlodipine but maybe.
+
+DOCTOR X257
+Maybe not.
+
+PATIENT X257
+I finished it.
+
+DOCTOR X257
+I'll renew it.
+
+PATIENT X257
+Okay, yeah considering what I pay for it, I shouldn't uh skimp.  Alright.
+
+DOCTOR X257
+Now let me give you the up-to-date list that we refilled the medicine so you can pick it up, here it is okay.  So you take the 5 daily and your lisinopril I'm going to refill it for you.
+
+PATIENT X257
+Hmm.
+
+DOCTOR X257
+So you can pick up both of them downstairs.
+
+PATIENT X257
+Alright.
+
+DOCTOR X257
+And let me see what other medicines you would need.  Alright, any refills on any of your medicines?
+
+PATIENT X257
+I, no, no.
+
+DOCTOR X257 
+Do you still need the hydrocortisone cream for itching?
+
+
+PATIENT X257
+No.
+
+DOCTOR X257
+I'm gonna refill your cholesterol medicine okay.
+
+PATIENT X257
+Uh, I have about three or four months.
+
+DOCTOR X257
+I'm just going to renew it.  You have no more refills left.
+
+PATIENT X257
+Oh, oh I see yeah because I should be taking it right.
+
+DOCTOR X257
+Let me finish my notes here.
+
+PATIENT X257
+Pardon?
+
+DOCTOR X257
+Let me finish my notes here.
+
+PATIENT X257
+Oh sure.
+
+DOCTOR X257
+Oh the ear wax.
+
+PATIENT X257
+Yes.  That'd be much appreciated uh.
+
+DOCTOR X257
+It's like an ear drop.
+
+PATIENT X257
+Uh-huh.
+
+DOCTOR X257
+Let me see how often you should be using it.  So you do it twice a day.
+
+PATIENT X257
+Okay.
+
+DOCTOR X257
+3-5 drops twice a day for about four days okay.
+
+PATIENT X257
+Uh I can't tell you how much I appreciate that and my wife will appreciate it even more if I hear better.
+
+DOCTOR X257
+Oh really.  Alright so we'll give you 10 of that.  You can pick that up downstairs too.
+
+PATIENT X257
+Oh boy.  So three things.
+
+DOCTOR X257
+Yes.  So are we clear on everything?
+
+PATIENT X257
+I think so.
+
+DOCTOR X257
+So you're to pick up your two medicines, your three medicines.
+
+PATIENT X257
+Yes.
+
+DOCTOR X257
+Two for your blood pressure.
+
+PATIENT X257
+Uh-huh and the ear wax.
+
+DOCTOR X257
+And the one for the ear wax.
+
+PATIENT X257
+Yeah.
+
+DOCTOR X257
+And we'll do your cholesterol check when you come back.
+
+PATIENT X257
+Uh-huh.
+
+DOCTOR X257
+When you go to Podiatry.
+
+PATIENT X257
+Podiatry, I'll stop at the blood lab.
+
+DOCTOR X257
+Any questions for me at all?
+
+PATIENT X257
+Yes uh, every month.
+
+DOCTOR X257
+Uh-huh.
+
+PATIENT X257
+Or more often I have a Port-A-Cath flushed.
+
+DOCTOR X257
+Okay.
+
+PATIENT X257
+Up on 9 East.
+
+DOCTOR X257
+Uh-huh.
+
+PATIENT X257
+Would it be simpler to have the cholesterol check as part of that or be more complicated?
+
+DOCTOR X257
+You could do it during that time but the thing is I'm not sure if they'll have the labels printed out for their labs.
+
+PATIENT X257
+Oh you want to do it.
+
+DOCTOR X257
+It doesn't matter as long as it's drawn.  So what we could do is.
+
+PATIENT X257
+Cause I'll be glad to do it when I come in for my podiatry.
+
+DOCTOR X257
+Well you could do it when you get the Port-A-Cath done.
+
+PATIENT X257
+Uh-huh.
+
+DOCTOR X257
+When you get it flushed, ask them whether they can do your labs.
+
+PATIENT X257
+Okay for cholesterol.
+
+DOCTOR X257
+For your cholesterol.
+
+PATIENT X257
+Yes.
+
+DOCTOR X257
+If they cannot then you'll have to go see downstairs.  The main reason is I'm not sure where those labels print out from.
+
+PATIENT X257
+Uh-huh no.
+
+DOCTOR X257
+Should the labels.
+
+PATIENT X257
+Well I don't want to complicate things.
+
+DOCTOR X257
+If they don't print out, just ask them.
+
+PATIENT X257
+Yeah okay.
+
+DOCTOR X257
+If they don't have the labels then you get it done downstairs.
+
+PATIENT X257
+Okay.
+
+DOCTOR X257
+Or if they can regenerate the label then it's perfectly fine.
+
+PATIENT X257
+Uh-huh.
+
+DOCTOR X257
+As long as the lab is done there.
+
+PATIENT X257
+Okay.
+
+DOCTOR X257
+Okay.
+
+PATIENT X257
+Yeah.
+
+DOCTOR X257
+So take your amlodipine, take your lisinopril.
+
+PATIENT X257
+Uh-huh, uh-huh.
+
+DOCTOR X257
+The cholesterol medicine and that's it and a baby aspirin.
+
+PATIENT X257
+Uh-huh.
+
+DOCTOR X257
+Your fish oil and then the Debrox you'll get downstairs.
+
+PATIENT X257
+My what?
+
+DOCTOR X257
+Debrox.
+
+PATIENT X257
+Oh yes.
+
+DOCTOR X257
+That's the one.
+
+PATIENT X257
+Oh that's what it's called right.
+
+DOCTOR X257
+And then we're done.
+
+PATIENT X257
+Alright.
+
+DOCTOR X257
+@@@.
+
+PATIENT X257
+Yeah okay, I take these with me.
+
+DOCTOR X257
+For the next time yeah.
+
+PATIENT X257
+Yes, yes.
+
+DOCTOR X257
+Just take these, give this to them when you check out.
+
+PATIENT X257
+Oh.
+
+DOCTOR X257
+You take these with you.
+
+PATIENT X257
+Oh yes, yes.
+
+DOCTOR X257
+So can I, let me write down something.
+
+PATIENT X257
+Okay yeah.
+
+DOCTOR X257
+Okay.
+
+PATIENT X257
+You have very legible handwriting for a doctor.
+
+DOCTOR X257
+Oh really.  So we're all set.
+
+PATIENT X257
+Yeah this explains what I was talking about and it's essentially a throw away.
+
+DOCTOR X257
+Okay.
+
+PATIENT X257
+Unless you're looking for services.  Okay.
+
+DOCTOR X257
+Thank you sir.
+
+PATIENT X257
+Well thank you DOCTOR.
+
+DOCTOR X257
+They'll schedule you for an appointment right.
+
+PATIENT X257
+Yes, yes.  Right we're all down.
+
+DOCTOR X257
+You need to check out.
+
+PATIENT X257
+Yes, thank you ma'am.
+
+PATIENT LEAVES:  55:02
+
+Time is 2:30 p.m.
+
+
+
+

@@ -1,0 +1,958 @@
+
+DOCTOR X80
+Come on back.  How's everything going?
+
+PATIENT X80
+I'm hanging in there.
+
+DOCTOR X80
+Good.  Your blood pressure was a little high when you first came in.
+
+PATIENT X80
+Yeah.
+
+DOCTOR X80
+@@@ running around.  @@@ rechecked it and it was 136/84 so. 
+
+PATIENT X80
+I know @@@.
+
+DOCTOR X80
+Yeah this time, the past three times when we've rechecked it it's always been 120s @@@.  Are you in any pain today?  Could be that why it's elevated.
+
+PATIENT X80
+I'm getting pain today because I'm kind of @@@ actually.
+
+DOCTOR X80
+Uh-huh.
+
+PATIENT X80
+No, actually when I saw you in January you was gonna put some orders in for me to uh have an eye consult.
+
+DOCTOR X80
+Yeah did they not schedule your eye appointment?
+
+PATIENT X80
+No eye appointment, no Ortho consult, no.
+
+DOCTOR X80
+Well remember we were going to try the physical therapy before we tried the Ortho consult and we ordered those films.  We wanted to take a look at those films so that's why the Ortho consult wasn't placed yet because we had ordered those films of your knees to look and see if there were any fracture or dislocation or anything that @@@ images first and the physical therapy is it helping your knees?
+
+PATIENT X80
+Well I, let me see I only went one more time because he said uh I don't know, he wanted me to continue but.
+
+DOCTOR X80
+Yeah.
+
+PATIENT X80
+But the guy downstairs he and I wanted to continue going but you know I guess he had to, he had to get something from you to continue with it and since that didn't happen.
+
+DOCTOR X80
+Well we should be able to continue that, I mean physical therapy isn't usually just one session.
+
+PATIENT X80
+Well I had @@@.
+
+DOCTOR X80
+It looks like you went multiple times.
+
+PATIENT X80
+I went multiple times.
+
+DOCTOR X80
+Okay, did you feel like you needed to continue with it?
+
+PATIENT X80
+I felt, I wanted to continue but he said you know, I don't know, I guess he needed something in writing I don't know, I guess.
+
+DOCTOR X80
+Okay but did you feel that you would benefit from more physical therapy?
+
+PATIENT X80
+He said I could.
+
+DOCTOR X80
+Uh-huh.
+
+PATIENT X80
+Uh but then.
+
+DOCTOR X80
+Do you feel like it was helping you?
+
+PATIENT X80
+It was helping with the strengthening you know.
+
+DOCTOR X80
+Uh-huh.  Okay it looks like you did try to do some, the Physical Therapy Clinic.
+
+PATIENT X80
+Right.
+
+DOCTOR X80
+It shows you had had 11 sessions.
+
+PATIENT X80
+Yeah @@@.
+
+DOCTOR X80
+So it looks like you were tolerating the exercises and doing well with the treatment.  But you don't feel like it was really helpful?
+
+PATIENT X80
+It's just, you know, it helped with strengthening, you know strengthening my legs but.
+
+DOCTOR X80
+Uh-huh.
+
+PATIENT X80
+But helping with my pain or anything like that @@@.
+
+DOCTOR X80
+Okay so it helped you @@@ but you're still having and it helped with your stability as well?
+
+PATIENT X80
+No, not really.
+
+DOCTOR X80
+No.
+
+PATIENT X80
+No.
+
+DOCTOR X80
+So you feel like unsteady when you're walking?
+
+PATIENT X80
+Uh-huh.
+
+DOCTOR X80
+Okay.
+
+PATIENT X80
+Uh-huh and he's the one that gave me the cane.
+
+DOCTOR X80
+Uh-huh.
+
+PATIENT X80
+Uh and then let's see what else.
+
+DOCTOR X80
+Do you take anything for the pain?
+
+PATIENT X80
+Naprosyn.
+
+DOCTOR X80
+Okay.  Is that helping?
+
+PATIENT X80
+I've been taking that for so long it's not really effective anymore.  I've been taking that for you know almost 10 years.
+
+DOCTOR X80
+10 years, that's a long time.
+
+PATIENT X80
+A long time.
+
+DOCTOR X80
+You're putting yourself at risk for a ulcer.
+
+PATIENT X80
+Right.
+
+DOCTOR X80
+Okay, how much Naprosyn are you taking?
+
+PATIENT X80
+250.
+
+DOCTOR X80
+And how often do you take it?
+
+PATIENT X80
+Uh twice a day, sometimes three times a day.
+
+DOCTOR X80
+Okay.
+
+PATIENT X80
+Uh.
+
+DOCTOR X80
+But it's not really doing any good?
+
+PATIENT X80
+No.
+
+DOCTOR X80
+Okay, I would stop it then if it's not helping you, then it's just putting you at risk for an ulcer.
+
+PATIENT X80
+Alright.
+
+DOCTOR X80
+Since it's not helping your pain.  Um okay so you those x-rays that we took continue to show the degenerative joint disease and the narrowing of the disk space but it didn't show any fractures or dislocation but we can send you to Ortho um now that we have the films and it does um @@@ if you would benefit from surgery.  They can evaluate you for that.
+
+PATIENT X80
+Um what about the colonoscopy?
+
+DOCTOR X80
+Is that something that you're still interested in?
+
+PATIENT X80
+Yeah you said you were gonna.
+
+DOCTOR X80
+Yeah did you go and get the labs done?
+
+PATIENT X80
+Uh-huh.
+
+DOCTOR X80
+Okay, so let's take a look at the labs here.  You went and had blood drawn?
+
+PATIENT X80
+Yeah.  You said you were gonna order me some of that stuff for my skin, for the dry skin Absorbase, never got that.
+
+DOCTOR X80
+Okay, so you don't have all the labs that you need for the colonoscopy.  Can you go down to the Lab today for some blood work and we can get that done.  So could you.
+
+PATIENT X80
+I didn't get the labs done, I thought I did.
+
+DOCTOR X80
+Those were different so before you had you know your cholesterol checked, that was back in, that was a while back, back in November I think, yeah back in January when you had your cholesterol getting checked and the hepatitis C and your prostate enzyme, all of that good stuff.  But you didn't get screening labs for your colonoscopy at that time so we need to order specific screening labs first just to review them and then we can refer you for the colonoscopy so.
+
+PATIENT X80
+So okay, so after I get the labs done then I'm gonna have to have another appointment or what?
+
+DOCTOR X80
+No you don't need another appointment.  I will see the labs and then I'll schedule you for the colonoscopy okay.  So let's go ahead and order these labs.
+
+PATIENT X80
+Yeah I'll get them done tomorrow morning, I got something else tonight.
+
+DOCTOR X80
+Okay.
+
+PATIENT X80
+I got to go back there.
+
+DOCTOR X80
+That's fine.  Okay so I've ordered the @@@ labs um, the physical therapy is not helping so we put in for Ortho to see you and you want the Absorbase you said?
+
+PATIENT X80
+Uh-huh.
+
+DOCTOR X80
+Okay.  Do you want to pick that up today?
+
+PATIENT X80
+Yeah sure.
+
+DOCTOR X80
+Okay.  And you're using that for dry skin?
+
+PATIENT X80
+For dry skin.
+
+DOCTOR X80
+Okay.
+
+PATIENT X80
+And uh I need to go to the Eye Clinic uh, I couldn't do a walk-in, I mentioned that when I saw you in January, I tried to go in and see if they had.
+
+DOCTOR X80
+Uh-huh.
+
+PATIENT X80
+It'd been almost a year that I had been in their so I needed to go our time here.
+
+DOCTOR X80
+It doesn't look like that won't, okay @@@.  Where do you usually come in, all over?
+
+PATIENT X80
+All over.
+
+DOCTOR X80
+So I'll do that.  @@@.  Do you want to pick it up at the window?
+
+PATIENT X80
+Yes.
+
+DOCTOR X80
+Also there's the colonoscopy labs you can go for tomorrow.
+
+PATIENT X80
+Yeah tomorrow, yeah.  What about the Eye consult?
+
+DOCTOR X80
+Uh-huh.  So what was going on with your eyes?
+
+PATIENT X80
+Um a few years ago um I started having blurred vision so I came in and with the guys in the Eye Clinic.
+
+DOCTOR X80
+Uh-huh.
+
+PATIENT X80
+And uh you know they dilated @@@ and did all that and did some additional tests.  They said they wanted to keep an eye on something, make sure I come back within a year but I kind of you know, I didn't follow up like I should have and that's probably why you know they wouldn't let me just walk back in because it had been over a year.
+
+DOCTOR X80
+You needed a few more tests?
+
+PATIENT X80
+Yes.
+
+DOCTOR X80
+Okay. 
+
+PATIENT X80
+It was something specific that they wanted to watch for but.
+
+DOCTOR X80
+Have you been having any vision symptoms?
+
+PATIENT X80
+Uh some yes.
+
+DOCTOR X80
+What, what kind of things?
+
+PATIENT X80
+Uh just the continued uh.
+
+DOCTOR X80
+Worsening of the vision?
+
+PATIENT X80
+Worsening of the vision yeah.
+
+DOCTOR X80
+Just when you're reading?
+
+PATIENT X80
+Uh when I'm reading or you know like when I uh, just sometimes during the day my vision will, even with the glasses that I have uh, I still can't see as sharply as.
+
+DOCTOR X80
+Uh-huh.
+
+PATIENT X80
+As I used to.
+
+DOCTOR X80
+And you think that um.
+
+PATIENT X80
+I think.
+
+DOCTOR X80
+That when you're looking at things far away or close?
+
+PATIENT X80
+When um, normally, usually my far vision isn't affected.  My distance vision hasn't really been affected in the past but that's starting to be affected too.
+
+DOCTOR X80
+Okay.
+
+PATIENT X80
+So it's both.
+
+DOCTOR X80
+Near and distant as well.
+
+PATIENT X80
+Yeah.
+
+DOCTOR X80
+Okay and then um tell me about, are you still taking those antibiotics, the amoxicillin?
+
+PATIENT X80
+No I'm done with that.  I'm going; you know I got a dental appointment at 10 o'clock, a follow-up.  Yeah that was for.
+
+DOCTOR X80
+That's today?
+
+PATIENT X80
+Yeah that was for dental stuff that I was on amoxicillin.
+
+DOCTOR X80
+Okay so you're off of it now?
+
+PATIENT X80
+Yeah I'm done, I'm done, I'm done with that.
+
+DOCTOR X80
+And @@@, which is @@@.
+
+PATIENT X80
+I'm still using that.
+
+DOCTOR X80
+Still using that okay.
+
+PATIENT X80
+I got like two bottles at home still.
+
+DOCTOR X80
+Okay.  Are you still taking Tylenol for your pain?
+
+PATIENT X80
+Yes I am.
+
+DOCTOR X80
+@@@ is that helping at all?
+
+PATIENT X80
+You know I was taking the Tylenol and I was taking that for the dental pain.
+
+DOCTOR X80
+Okay @@@.
+
+PATIENT X80
+Cause I gotta a you know.
+
+DOCTOR X80
+But that doesn't help @@@ at all.
+
+PATIENT X80
+Not really.
+
+DOCTOR X80
+Okay and you're taking that 500 every six hours?
+
+PATIENT X80
+Right.
+
+DOCTOR X80
+Okay.  
+
+PATIENT X80
+I was taking that, alternating that with 600 uh Motrin.
+
+DOCTOR X80
+Uh-huh.
+
+PATIENT X80
+So it was like.
+
+DOCTOR X80
+Oh you're taking Motrin and.
+
+PATIENT X80
+Yeah that was for my dental pain though.
+
+DOCTOR X80
+The oh the.
+
+PATIENT X80
+You know I got all my teeth pulled.
+
+DOCTOR X80
+Okay.  I see.  How long did you, are you still taking the Tylenol and the ibuprofen?
+
+PATIENT X80
+I'm still taking the Tylenol but I'm not really taking the ibuprofen as much.
+
+DOCTOR X80
+Okay.  I'm going to take that off your medication list.  I'm going to show you're using that.
+
+PATIENT X80
+Right.
+
+DOCTOR X80
+The ibuprofen?
+
+PATIENT X80
+Unless you can order something different yeah.
+
+DOCTOR X80
+So you don't need it for your tooth pain anymore?
+
+PATIENT X80
+Not no.
+
+DOCTOR X80
+Okay.
+
+PATIENT X80
+Alright.
+
+DOCTOR X80
+So you're not taking the ibuprofen but you're still taking the.
+
+PATIENT X80
+Still taking the Tylenol.
+
+DOCTOR X80
+Tylenol okay.
+
+PATIENT X80
+Now I take it sometimes but he wanted me to take it you know alternate it you know throughout the day.
+
+DOCTOR X80
+Uh-huh.
+
+PATIENT X80
+One a day you know throughout the day but take something else @@@.
+
+DOCTOR X80
+Oh okay.
+
+PATIENT X80
+I was doing it that way but you know that was like, this will be two weeks now that I had the dental work done.
+
+DOCTOR X80
+Uh-huh.
+
+PATIENT X80
+And uh, like I said I'm having my follow-up today.  I still got some sutures in my mouth.
+
+DOCTOR X80
+Okay.
+
+PATIENT X80
+They gonna remove @@@.
+
+DOCTOR X80
+I would stop taking your Naproxen because it's not helping your knee pain and if you're taking that much of it you're gonna just put yourself at risk for an ulcer.
+
+PATIENT X80
+Uh-huh, right I.  And I hadn't been taking the Naproxen anyway.
+
+DOCTOR X80
+Oh I thought you said you've been taking.
+
+PATIENT X80
+I had been taking the Advil.  You know I had been taking the Naprosyn like for years.
+
+DOCTOR X80
+Oh uh-huh.
+
+PATIENT X80
+But then I ran out, I didn't try to get anymore.
+
+DOCTOR X80
+Oh because it wasn't helping.
+
+PATIENT X80
+Wasn't helping.
+
+DOCTOR X80
+Okay.  Have you ever tried anything called tramadol? 
+
+PATIENT X80
+Tramadol, no, no.
+
+DOCTOR X80
+We can try that for you and the pain.
+
+PATIENT X80
+Okay.
+
+DOCTOR X80
+Do you want to pick that up today too?
+
+PATIENT X80
+Yeah.
+
+DOCTOR X80
+Tramadol @@@. You got your flu shot and all of that stuff?
+
+PATIENT X80
+Yeah flu and pneumonia I got all that.
+
+DOCTOR X80
+Are you still in the Methadone Program?
+
+PATIENT X80
+Yes.
+
+DOCTOR X80
+Okay good.  Put in the consult for you to see Ortho.
+
+PATIENT X80
+Now you said uh, remember I told you, I didn't tell you my story about the hep C?
+
+DOCTOR X80
+Right.  @@@ active right now.
+
+PATIENT X80
+@@@ okay.
+
+DOCTOR X80
+Uh-huh.  There is no active disease but we'll get the labs so.
+
+PATIENT X80
+So I don't need to go to that the Liver Clinic or anything like that?
+
+DOCTOR X80
+No, no not right now.
+
+PATIENT X80
+Okay.  Its borderline or anything, it's okay?
+
+DOCTOR X80
+No active disease.  It shows that you had possible; you know you were possibly infected in the past.
+
+PATIENT X80
+Uh-huh.
+
+DOCTOR X80
+But you're not, no active infection right now and your labs are not typical for disease @@@.
+
+PATIENT X80
+So could I give blood?
+
+DOCTOR X80
+Um, they'll probably want to do screening labs when you give blood.  Sometimes @@@ infection in the past they will not allow you to give blood.  I don't know exactly what their rules are.
+
+PATIENT X80
+Okay.  And the only reason I asked that uh I have a common type.
+
+DOCTOR X80
+How many @@@?
+
+PATIENT X80
+Ooh.
+
+DOCTOR X80
+How many years?
+
+PATIENT X80
+Well let's see, I first injured my knees in the 80s, yeah, 87.
+
+DOCTOR X80
+It's been a lot of years.
+
+PATIENT X80
+Yeah, 30 years, 87, this is what 2010, yeah that long yeah.  It's been a while, too long.  That's what they say is chronic.  So you're leaving in June?
+
+DOCTOR X80
+Yep.
+
+PATIENT X80
+So is you all done or you going somewhere else?
+
+DOCTOR X80
+I'll be all done and will um.
+
+PATIENT X80
+Staying in the xxx area?
+
+DOCTOR X80
+Yeah that's something I wanted to stay in xxx but, I'm still looking for a job so, I haven't found one just yet.
+
+PATIENT X80
+Hmm.
+
+DOCTOR X80
+Still working on that process.  It's hard to find a job today, now with the economy.
+
+PATIENT X80
+Really?
+
+DOCTOR X80
+Uh-huh.
+
+PATIENT X80
+Wow.
+
+DOCTOR X80
+@@@.
+
+PATIENT X80
+Yeah.
+
+DOCTOR X80
+What about you, did you find some work?
+
+PATIENT X80
+No.  You know I had an appointment to go to the uh, our Regional Office on xxx xxx, I'm in this program to get retrained and possibly get a job so my schedule has been kind of heavy to where they're scheduling me for appointments and not talking to me first so I've been having to cancel those appointments and they just called me now.
+
+DOCTOR X80
+Uh-huh.
+
+PATIENT X80
+And are gonna call me back this afternoon.  I'm just saying this uh yes, I'm looking.
+
+DOCTOR X80
+Uh-huh.
+
+PATIENT X80
+I'm looking.  I just don't want to jump into anything.
+
+DOCTOR X80
+Sure, that's understanding.  
+
+PATIENT X80
+Who dat?
+
+DOCTOR X80
+For your @@@ Clinic, we'll send you to the Eye Clinic, to the Ortho Clinic, colonoscopy labs, @@@.  A survey @@@.
+
+PATIENT X80
+Go ahead and get turned on.
+
+DOCTOR X80
+And have you quit smoking yet?
+
+PATIENT X80
+I'm almost there.  I been going to the Cessation Class.
+
+DOCTOR X80
+Oh good, excellent.
+
+PATIENT X80
+I'm getting there, I'm almost there.
+
+DOCTOR X80
+How many cigarettes are you going through?
+
+PATIENT X80
+Four.
+
+DOCTOR X80
+Okay.
+
+PATIENT X80
+Four to six a day, sometimes less, sometimes.
+
+DOCTOR X80
+How much were you on before you started @@@?
+
+PATIENT X80
+Oh man, a pack a day.
+
+DOCTOR X80
+Okay.  So @@@.  So this medication the tramadol it can cause confusion in elderly patients.  You're a young guy so I don't think you'll have a problem with it.
+
+PATIENT X80
+Uh-huh.
+
+DOCTOR X80
+So the first few times that you use it, make sure that you don't drive afterwards.
+
+PATIENT X80
+Oh I'm not driving now.
+
+DOCTOR X80
+Okay good.  Just kind of monitor yourself after you take it and make sure that your mind is still clear, you don't have any confusion and it's not making you drowsy or sleepy or anything like that okay.
+
+PATIENT X80
+Alright.
+
+DOCTOR X80
+And do you want to pick that up at the window as well?
+
+PATIENT X80
+Yes.
+
+DOCTOR X80
+And you're gonna take that on an as needed basis too.
+
+PATIENT X80
+Okay.
+
+DOCTOR X80
+Okay let me just talk to my boss real quick.  Anything else you wanted to discuss?
+
+PATIENT X80
+No.
+
+DOCTOR X80
+@@@ take a seat up there.  @@@.  Take some big deep breaths.  Good.  Your lungs sound good right now.  After you stop smoking you can prevent yourself from developing emphysema.  I'm on service right now at the VA and we see people coming in all the time.
+
+PATIENT X80
+With emphysema?
+
+DOCTOR X80
+Emphysema.
+
+PATIENT X80
+Yeah, like in the Smoking Cessation Class.
+
+DOCTOR X80
+Yeah, you problem see.
+
+PATIENT X80
+Almost all the guys, almost all of them have emphysema.
+
+DOCTOR X80
+Yeah.
+
+PATIENT X80
+And asthma.
+
+DOCTOR X80
+And asthma too.
+
+PATIENT X80
+Yeah.  
+
+DOCTOR X80
+Go ahead and lay back, @@@ underneath.  You're able to bend it?
+
+PATIENT X80
+Yes, part of that without hurting.
+
+DOCTOR X80
+Can you bend it any further?
+
+PATIENT X80
+Nope.
+
+DOCTOR X80
+Nope.  And how about this one?
+
+PATIENT X80
+This one's kind of not as bad.
+
+DOCTOR X80
+Okay.
+
+PATIENT X80
+Like the last one so.
+
+DOCTOR X80
+xxxd it again for me.  Did that cause any pain?
+
+PATIENT X80
+No.
+
+DOCTOR X80
+What about this?
+
+PATIENT X80
+That does, especially in the hip, not in the knee.
+
+DOCTOR X80
+Okay.  But it doesn't cause any pain in the knee?
+
+PATIENT X80
+No.
+
+DOCTOR X80
+Okay.  Alright.  @@@ it looks like you do have some restriction and some stiffness, @@@ may be able to @@@.  So the left side looked better.
+
+PATIENT X80
+It's worse than that.  That's also the one that locks, snaps and pops all the time.
+
+DOCTOR X80
+Okay.  (doctor working on computer)  @@@.
+
+PATIENT X80
+Right.
+
+DOCTOR X80
+Heading in the right direction huh.
+
+PATIENT X80
+Yeah.
+
+DOCTOR X80
+Good for you.
+
+PATIENT X80
+@@@.  All those crazy wild days are over. 
+
+DOCTOR X80
+Good.  Where are you living at?
+
+PATIENT X80
+Uh, presently I'm just staying with my mom.
+
+DOCTOR X80
+Okay.  
+
+PATIENT X80
+It's a temporary situation of course.
+
+DOCTOR X80
+Sure.
+
+PATIENT X80
+Uh when I get back to working.  
+
+DOCTOR X80
+Well, I'll be right back.
+
+PATIENT X80
+Alright.
+
+(DOCTOR OUT:  37:36  DOCTOR IN:  48:48)
+
+DOCTOR X80
+Okay sir, she agreed with our plan.  The only suggestion she had was to use just to try diclofenac instead of um tramadol just because tramadol @@@ property so it probably would be better to try something without those properties first and try um.
+
+PATIENT X80
+What is that that you said, what is it?
+
+DOCTOR X80
+Diclofenac.  It's a stronger anti-inflammatory medicine, it's stronger than Naproxen so.
+
+PATIENT X80
+Okay.
+
+DOCTOR X80
+So we'll try that and you can pick that up today too.  @@@.
+
+PATIENT X80
+@@@.
+
+DOCTOR X80
+Yeah it's not really what we use that often but @@@ so.  Cause usually Naproxen helps most people but.
+
+PATIENT X80
+Unless they've been taking it forever huh.
+
+DOCTOR X80
+Yeah @@@.  
+
+PATIENT X80
+I been taking it for a long time.
+
+DOCTOR X80
+So let's try something different.
+
+PATIENT X80
+I'm surprised no one's ever suggested coming off of that and trying something else.
+
+DOCTOR X80
+Yeah.
+
+PATIENT X80
+@@@.
+
+DOCTOR X80
+@@@.
+
+PATIENT X80
+They always ask me how long have you been taking it and I tell them and they just keep prescribing it.
+
+DOCTOR X80
+I know, so if it's helping then they'll still continue it but if it's not helping you then what's the point right?
+
+PATIENT X80
+@@@ from time to time anyway though.  I think you know, will that cause ulcers too?
+
+DOCTOR X80
+It can so they'll probably want you to take it with food.  They're going to @@@.
+
+PATIENT X80
+Yeah I always take it with food I don't, yeah I don't take without food.
+
+DOCTOR X80
+Okay, so you take it once in the morning @@@.  Alright.  So it sounds like they wanted you to go back up front, or go back to Room @@@ on the 22nd for a @@@.  Do you just want to wait over here in the Waiting Room?  Okay take care @@@.  There you go.
+
+PATIENT X80
+We'll try again.
+
+PATIENT LEAVES:  51:32.
+
+Time is 9:40.
+
+
+
+

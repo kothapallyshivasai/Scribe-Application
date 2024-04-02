@@ -1,0 +1,1070 @@
+
+DOCTOR X605
+PATIENT? 
+
+PATIENT X605
+Pardon?
+
+DOCTOR X605
+How you doing today?
+
+PATIENT X605
+Pretty good and yourself?
+
+DOCTOR X605
+I'm good.  I'm DOCTOR, I work with DOCTOR.  @@@.
+
+PATIENT X605
+Okay.
+
+DOCTOR X605
+Um so yeah.
+
+PATIENT X605
+@@@.
+
+DOCTOR X605
+Um, I was talking to DOCTOR, who I know you saw last time.
+
+PATIENT X605
+Yeah.
+
+DOCTOR X605
+Um so how you doing today?
+
+PATIENT X605
+Still have back pain.
+
+DOCTOR X605
+Okay.
+
+PATIENT X605
+And the headaches.
+
+DOCTOR X605
+When do you see Neurology next?
+
+PATIENT X605
+Uh I just saw them Monday.
+
+DOCTOR X605
+Yeah.
+
+PATIENT X605
+Yeah.
+
+DOCTOR X605
+And they said that they were still waiting for the reports?
+
+PATIENT X605
+I don't know.
+
+DOCTOR X605
+Is that right?  Cause I think they're the ones that have to make the decision if they want to treat your headache so that they want to do.
+
+PATIENT X605
+Okay.
+
+DOCTOR X605
+Okay um it looks like from your tests though that the EEG that they did where they stuck all those electrodes on your head.
+
+PATIENT X605
+Right.
+
+DOCTOR X605
+It looked normal.  So the findings were normal and symmetrical patterns were seen.  No evidence was seen in the sleep and waking methods or any focal or diffuse abnormalities so that's good.  At least they don't see anything wrong.
+
+PATIENT X605
+Okay.
+
+DOCTOR X605
+Um.
+
+PATIENT X605
+But she said something about a concussion, a mild concussion or something.
+
+DOCTOR X605
+Are they gonna do?  Well on the EEG Report it doesn't show any of that.  Um I don't know what she said.  If she said anything about a concussion because she didn't write anything about it and then are they gonna do like a MRI or anything like that?  Oh they did the MRI.
+
+PATIENT X605
+Well they did most of all the testing.
+
+DOCTOR X605
+Okay.
+
+PATIENT X605
+I don't know about any more testing.
+
+DOCTOR X605
+Okay.
+
+PATIENT X605
+The only thing that she said that it would be in a report was a mild concussion.
+
+DOCTOR X605
+Okay.
+
+PATIENT X605
+I @@@.
+
+DOCTOR X605
+I think we need to have you see the neurologist again though.
+
+PATIENT X605
+Uh when?
+
+DOCTOR X605
+To see if they want to do anything about it.  Um.
+
+PATIENT X605
+Just saw them Monday.
+
+DOCTOR X605
+Well the only thing is awaiting results of the ABER for closed concussive symptoms.
+
+PATIENT X605
+Okay.
+
+DOCTOR X605
+And loss of balance.  So you might need @@@ surgery or less aggressive treatment of nauseating @@@ if the ABER is also normal.  And the ABER results are normal so that's, they probably recommend treating the migraine then.
+
+PATIENT X605
+Okay.
+
+DOCTOR X605
+Okay.  Um whenever your fax came and that's the EEG so let's enter that.  Um I think that's in.  Okay.  What are you taking for pain?
+
+PATIENT X605
+Well I'm taking the tramadol.
+
+DOCTOR X605
+Okay.
+
+PATIENT X605
+And the neurologist asked me to cut back on the, cut back on the um Tylenol because they can damage my liver.
+
+DOCTOR X605
+Can hurt your liver.
+
+PATIENT X605
+Yeah they can damage my liver.
+
+DOCTOR X605
+Okay.
+
+PATIENT X605
+And uh they want me to take the Tylenol just rather than four times a day, take it one time a day.
+
+DOCTOR X605
+Okay.
+
+PATIENT X605
+Just to cut back you know, but what I'm saying after I cut back.
+
+DOCTOR X605
+Uh-huh.
+
+PATIENT X605
+Then what am I gonna use for the pain?
+
+DOCTOR X605
+Hmm.
+
+PATIENT X605
+I know that they increased the dosage of tramadol to 50%.
+
+DOCTOR X605
+Uh-huh.
+
+PATIENT X605
+I don't know, I know they increased one of them to 50%.
+
+DOCTOR X605
+So how often are you taking the Tylenol right now?
+
+PATIENT X605
+I was taking it four times a day.
+
+DOCTOR X605
+Is that one tablet or two tablets four times a day?
+
+PATIENT X605
+Two tablets four times a day.
+
+DOCTOR X605
+And now what are you taking?
+
+PATIENT X605
+Now I'm taking two tablets once a day.
+
+DOCTOR X605
+Okay.
+
+PATIENT X605
+Because they said I've been taking the Tylenol for a long period of time.
+
+DOCTOR X605
+Uh-huh.
+
+PATIENT X605
+Which has been over a year.  Almost a year and six months.
+
+DOCTOR X605
+Okay and the tramadol how much or how often are you taking it?
+
+PATIENT X605
+The tramadol twice a day.
+
+DOCTOR X605
+Okay.  So you can take the tramadol up to four times a day.
+
+PATIENT X605
+Increase it?
+
+DOCTOR X605
+Yeah you can take it up to four times a day.  That's how it's order at least.  Do you have your bottle?
+
+PATIENT X605
+No I don't have it.
+
+DOCTOR X605
+Yeah if you read the medication bottle it says it on there too.
+
+PATIENT X605
+Okay.
+
+DOCTOR X605
+Um the Tylenol, I don't know why they would tell you to take less.  You've had liver function tests done.
+
+PATIENT X605
+Yes.
+
+DOCTOR X605
+And that was in February.
+
+PATIENT X605
+Yes.
+
+DOCTOR X605
+And they actually don't look bad so you can actually take more Tylenol than just two tablets once a day.
+
+PATIENT X605
+What are you suggesting we take?
+
+DOCTOR X605
+Um the maximum dose is taking two tablets four times a day.
+
+PATIENT X605
+So that's eight tablets a day.
+
+DOCTOR X605
+Right.
+
+PATIENT X605
+That's what I was taking.
+
+DOCTOR X605
+That was, yeah that's the maximum you can take per day.
+
+PATIENT X605
+Go back to taking them?
+
+DOCTOR X605
+Well how's your pain doing?
+
+PATIENT X605
+Well I'm still with the pain.
+
+DOCTOR X605
+Is it mostly back pain?
+
+PATIENT X605
+No both, headaches and back pain.
+
+DOCTOR X605
+Okay.
+
+PATIENT X605
+So what I'm asking you is.
+
+DOCTOR X605
+Is what you should do.
+
+PATIENT X605
+Because the neurologist said cut back now you're telling me to keep taking them.
+
+DOCTOR X605
+Well I don't know.  The neurologist really didn't write too much in her note here um, it actually didn't say that.
+
+PATIENT X605
+Because she said because of my liver.
+
+DOCTOR X605
+Yeah.  If you take it in high doses and more than the recommended amount yeah.
+
+PATIENT X605
+But I'm just taking what's recommended.
+
+DOCTOR X605
+I understand.
+
+PATIENT X605
+On the bottle you know.  Why would she say cut back on it and you said take more?
+
+DOCTOR X605
+I think take what's recommended on the bottle.
+
+PATIENT X605
+Okay.
+
+DOCTOR X605
+Your liver isn't bad right?  Are you a drinker?
+
+PATIENT X605
+I don't drink.
+
+DOCTOR X605
+No alcohol okay.  Um let's see.  So then how have your sugars been doing?
+
+PATIENT X605
+I was told it was normal, I'm not sure.
+
+DOCTOR X605
+Do you check it every day?
+
+PATIENT X605
+Yes I checked it uh once every day.
+
+DOCTOR X605
+Your sugars.
+
+PATIENT X605
+I check it in the morning and don't check it that evening, check it the following evening after the meal, two hours after meals that's what he told me now.
+
+DOCTOR X605
+Okay.  Do you have the numbers?  You have a lot of sugars in the 90s.
+
+PATIENT X605
+Um not, I'm trying to stick with it.  Sometimes I fall off you know.  I try to keep up with it.
+
+DOCTOR X605
+Actually they're not too bad.  You've got @@@ here now.
+
+PATIENT X605
+Guess that's when I fall off the wagon @@@.
+
+DOCTOR X605
+Why did you check your blood sugar at 2:08 in the morning, is the timing on these right?
+
+PATIENT X605
+I don't know.
+
+DOCTOR X605
+When was the last time you checked your blood sugar?
+
+PATIENT X605
+I checked it.
+
+DOCTOR X605
+The 135 and what time is that from?
+
+PATIENT X605
+That uh in the morning, that was last night the last one.
+
+DOCTOR X605
+This 130 happened was last night?
+
+PATIENT X605
+Yeah.
+
+DOCTOR X605
+You're gonna have to, take it to the pharmacist today, have him change the time.
+
+PATIENT X605
+Okay.
+
+DOCTOR X605
+Because it says 1:12 p.m. so this looks like its yesterday after lunch.
+
+PATIENT X605
+Just take it to the Pharmacy and tell them to change the.
+
+DOCTOR X605
+Yeah, they need to change the settings.
+
+PATIENT X605
+I'm not up at 1:47 in the morning.
+
+DOCTOR X605
+That's what I, well yeah, this is at 1:12 p.m. and then this is at 2:08 a.m. which doesn't make too much sense.
+
+PATIENT X605
+No, no.  I'm not up that time of the morning.
+
+DOCTOR X605
+Uh-huh.  
+
+PATIENT X605
+Is the time incorrect, can you set it?
+
+DOCTOR X605
+I don't know how to set it.  That's why I said take it to the pharmacist, it's the first floor on the right and they can actually do it for you.
+
+PATIENT X605
+Is it all the way down?
+
+DOCTOR X605
+No on this hallway.
+
+PATIENT X605
+Uh-huh.
+
+DOCTOR X605
+The first door on the right, with the blond lady, short blond hair.  She's with DOCTOR @@@.
+
+PATIENT X605
+Where about over here?
+
+DOCTOR X605
+Yeah.
+
+PATIENT X605
+Straight across?
+
+DOCTOR X605
+In this hallway.  It's the first, when you're coming towards this way it's the first door on the right.
+
+PATIENT X605
+Alright.
+
+DOCTOR X605
+So when you're leaving here, it's the last door on the left.
+
+PATIENT X605
+Okay so it's just like where the uh blood test area?
+
+DOCTOR X605
+I'll take you there, don't worry about it.  
+
+PATIENT X605
+Because some of the pharmacists, I know once it's in the hallway I think down there.
+
+DOCTOR X605
+Hmm.  Are you taking amitriptyline at bedtime?
+
+PATIENT X605
+Yes.
+
+DOCTOR X605
+Is that helping at all?
+
+PATIENT X605
+Uh, cause I don't, because I'm not, at least I'm getting some sleep.
+
+DOCTOR X605
+Uh-huh.
+
+PATIENT X605
+You know.  It just seems I'm up through the night.
+
+DOCTOR X605
+Are you still taking meclizine?
+
+PATIENT X605
+Yes I am.
+
+DOCTOR X605
+You are taking it three times a day?
+
+PATIENT X605
+Taking all my meds, even some of the stomach.
+
+DOCTOR X605
+Are you still smoking?
+
+PATIENT X605
+No I'm trying to cut back.
+
+DOCTOR X605
+And when was the last time you had a cigarette?
+
+PATIENT X605
+Uh day before yesterday.
+
+DOCTOR X605
+How often are you smoking?
+
+PATIENT X605
+I'm trying to smoke as less as possible.
+
+DOCTOR X605
+I know but like how often, like four cigarettes a week or?
+
+PATIENT X605
+Uh something like two maybe three.
+
+DOCTOR X605
+Okay.  
+
+PATIENT X605
+I cut way back on the smoking.
+
+DOCTOR X605
+Uh-huh.
+
+PATIENT X605
+I used to smoke a pack every other day.
+
+DOCTOR X605
+Okay, so you @@@.
+
+PATIENT X605
+This gum has helped it sometimes but sometimes you just get the craving.
+
+DOCTOR X605
+Uh-huh.
+
+PATIENT X605
+Nothing like that cigarette I smoke.  So it's alright because I asked somebody from the Surgery Clinic that was supposed to be for March 4.
+
+DOCTOR X605
+What is it?
+
+PATIENT X605
+They called my house.
+
+DOCTOR X605
+Uh-huh.
+
+PATIENT X605
+And they just wanted to know that, what they called vascular imaging and scheduled me for surgery.
+
+DOCTOR X605
+For your hand?
+
+PATIENT X605
+This Saturday.  Yes it is.
+
+DOCTOR X605
+Okay.
+
+PATIENT X605
+It's Friday.
+
+DOCTOR X605
+Okay.
+
+PATIENT X605
+And everything is normal for that.
+
+DOCTOR X605
+Oh they said it was positive to be under slightly better control but you should be okay yeah.
+
+PATIENT X605
+Okay.  I stopped @@@ that day, said I was doing great.
+
+DOCTOR X605
+Yeah, it's just that we need to recheck some labs today to see how you're doing.  And uh you ate today I take it?
+
+PATIENT X605
+I ate this morning.
+
+DOCTOR X605
+Has it been eight hours since you ate?
+
+PATIENT X605
+No.
+
+DOCTOR X605
+No okay.
+
+PATIENT X605
+It was about 10 this morning.
+
+DOCTOR X605
+We need to retest your total cholesterol then.  @@@.  How's your dizziness?
+
+PATIENT X605
+Well I haven't fallen lately.
+
+DOCTOR X605
+You haven't.
+
+PATIENT X605
+That's a good thing.
+
+DOCTOR X605
+Okay.
+
+PATIENT X605
+Wasn't like when it first started.
+
+DOCTOR X605
+Uh-huh.
+
+PATIENT X605
+I had to hold on to something; at least now my head is not spinning.
+
+DOCTOR X605
+Okay.
+
+PATIENT X605
+Because it was before.  It was like my head was like spinning when I get up.
+
+DOCTOR X605
+Uh-huh.
+
+PATIENT X605
+Spinning when I go to sleep to lay down so at least that's not spinning.  So taking the meclizine is doing some good.
+
+DOCTOR X605
+Yeah.  Deep breath.  Just breathe normal.  Swelling in your legs?
+
+PATIENT X605
+Pardon?
+
+DOCTOR X605
+Swelling in the legs?
+
+PATIENT X605
+I don't know.
+
+DOCTOR X605
+It's kind of thin there.  Did you put some lotion on there?
+
+PATIENT X605
+Yeah but I'm peeling now.  You see the blister on my sock?
+
+DOCTOR X605
+Uh-huh.
+
+PATIENT X605
+It's like I shed down on here.
+
+DOCTOR X605
+You shed a lot?
+
+PATIENT X605
+In the winter.
+
+DOCTOR X605
+@@@ or down here.
+
+PATIENT X605
+Coming into spring.
+
+DOCTOR X605
+Okay.  Didn't feel too good with that.
+
+PATIENT X605
+Yep.
+
+DOCTOR X605
+You feel @@@.
+
+PATIENT X605
+Yeah actually moving too fast.
+
+DOCTOR X605
+Have a seat down there.  Let me go grab DOCTOR and see if we can try to figure out what we're gonna do for your @@@.  Alright, I'll be back.
+
+PATIENT X605
+Okay.
+
+DOCTOR X605
+Okay one sec.
+
+(DOCTOR OUT:  61:19  DOCTOR IN:  68:29)
+
+DOCTOR X605
+Okay um for the Tylenol, @@@ okay, @@@.
+
+PATIENT X605
+Okay.
+
+DOCTOR X605
+Um and we need to check some labs.  @@@.
+
+PATIENT X605
+Huh?
+
+DOCTOR X605
+The hemoglobin A1c is a marker to see how your sugars have been doing, so we need to get that, the cholesterol and um @@@.
+
+PATIENT X605
+Okay.
+
+DOCTOR X605
+Um and then @@@ the metformin that you're taking for the diabetes, we're gonna bump it up a little bit.  Um you're on 500 mg twice a day, we're gonna go up to 850 twice a day.  And the metformin can actually cause some low blood sugars, but your sugars are still high and we need to get them lower.  Do you usually get your meds by mail or do you want to pick them up?
+
+PATIENT X605
+No I'll pick it up.
+
+DOCTOR X605
+Okay.
+
+PATIENT X605
+I'd rather pick it up than for it to be sent out because then it goes to the post office and it sits there and so then I have to go.
+
+DOCTOR X605
+@@@.
+
+PATIENT X605
+See them coming last week, it was the only week I had a small week.  I had no visits last week.  That's on the weekend @@@.
+
+DOCTOR X605
+Okay.
+
+PATIENT X605
+I been pretty regularly.  I don't think I missed any appointments.  I try to keep them all.  I have to go back to my lawyers but since I've been a diabetic I haven't worked there, they just @@@ back up.  I had about five bottles and I haven't been @@@.
+
+DOCTOR X605
+Okay.
+
+PATIENT X605
+So I have to go back to the Wellness Center, something else come back up so.
+
+DOCTOR X605
+Okay.  Since you ate today I don't want you to get the blood draw done today.  I really think you should come back fasting in the morning.
+
+PATIENT X605
+Well I have to be out here in the morning.
+
+DOCTOR X605
+For labs.
+
+PATIENT X605
+I have an appointment.
+
+DOCTOR X605
+Oh.
+
+PATIENT X605
+Tomorrow morning and I got an appointment with the nurses.
+
+DOCTOR X605
+Oh well that's okay.  Well then maybe tonight after midnight you don't eat anything.
+
+PATIENT X605
+Okay.
+
+DOCTOR X605
+Then tomorrow first thing you come and get your labs done.
+
+PATIENT X605
+Okay and then you need me to, you want to check @@@.
+
+DOCTOR X605
+Yeah I'll put that in right now.
+
+PATIENT X605
+Okay.  You gonna sign me out.
+
+DOCTOR X605
+Okay.
+
+PATIENT X605
+Okay.
+
+DOCTOR X605
+@@@.
+
+PATIENT X605
+When I check in.  @@@.  The only thing you got to do is sign me out, that's it.  But they will give me a schedule at the desk.
+
+DOCTOR X605
+Uh-huh.
+
+PATIENT X605
+Then I go to Pharmacy and pick up my meds.  And don't take the other one.
+
+DOCTOR X605
+Okay.
+
+PATIENT X605
+Don't take the other, I'm taking two now.
+
+DOCTOR X605
+Well, the metformin we just switched it, we just switched the dose.
+
+PATIENT X605
+Okay now the metformin is the first one you gave me.
+
+DOCTOR X605
+Right.
+
+PATIENT X605
+Okay now what about the second one?
+
+DOCTOR X605
+Keep taking that.
+
+PATIENT X605
+In the morning.
+
+DOCTOR X605
+Yeah.  Keep taking that.
+
+PATIENT X605
+And take the metformin still twice a day.
+
+DOCTOR X605
+Yeah but at the higher dose.
+
+PATIENT X605
+Okay you giving me a higher dose.
+
+DOCTOR X605
+Right.
+
+PATIENT X605
+But it won't make my sugar go real low.
+
+DOCTOR X605
+No the metformin doesn't bring your sugar down.
+
+PATIENT X605
+Okay.  Okay, but the one I take in the morning makes it drop like that.  Okay.  Still take it?
+
+DOCTOR X605
+Don't take it.
+
+PATIENT X605
+Don't take the metformin that I have at home, you're increasing the dosage.
+
+DOCTOR X605
+Right.
+
+PATIENT X605
+So when I get home throw them away.
+
+DOCTOR X605
+Yes.
+
+PATIENT X605
+You sure got it okay, cool.
+
+DOCTOR X605
+You're number @@@.
+
+PATIENT X605
+Okay.  Now I be seeing you next year?
+
+DOCTOR X605
+Yeah I'll be here no.
+
+PATIENT X605
+Because @@@ losing me, I ain't never taking no meds and here it is I'm taking all these meds.
+
+DOCTOR X605
+I don't know.  Give this to the clerk, oh hold on, give this to the clerk @@@.
+
+PATIENT X605
+Okay but do you want me to still pick up my meds?
+
+DOCTOR X605
+Yes, pick them up at the window.
+
+PATIENT X605
+Okay.  Oh man.  What @@@.
+
+DOCTOR X605
+Well the metformin will help regulate your blood sugar too @@@, insulin and all kinds of other things but insulin makes your blood sugars, @@@ but the metformin works in a different way.
+
+PATIENT X605
+Okay.
+
+DOCTOR X605
+Yeah, it does eventually get your blood sugars down but @@@.  
+
+PATIENT X605
+So you gonna want me to do blood work up here.
+
+DOCTOR X605
+@@@.
+
+PATIENT X605
+Okay.
+
+DOCTOR X605
+Just come tomorrow morning and get it done, make sure you're fasting first thing in the morning.
+
+PATIENT X605
+Okay.
+
+DOCTOR X605
+So you should be set @@@.  
+
+PATIENT X605
+Okay.
+
+DOCTOR X605
+I think the clock figure, it was @@@ today like at lunch time @@@.  What was your sugar the last time you checked it last night?
+
+PATIENT X605
+Uh, I checked it at 9.
+
+DOCTOR X605
+So it's like an hour ahead yeah.
+
+PATIENT X605
+Cause yesterday @@@.
+
+DOCTOR X605
+And your lunch sugar was at @@@ or something and that was at 2 a.m., we know that's not right.
+
+PATIENT X605
+Not at that time.
+
+SECOND PERSON X605
+It sounds like it's just an hour ahead actually.  It was reading like 3:54 instead of 2:54; let's just check back off and on to see.
+
+DOCTOR X605
+Well did you check your sugar at 1 a.m. in the morning?
+
+PATIENT X605
+Not in the morning.
+
+SECOND PERSON X605
+So yesterday was more like 12, at noon.
+
+DOCTOR X605
+@@@.
+
+PATIENT X605
+In the day.
+
+DOCTOR X605
+Yeah right.
+
+SECOND PERSON X605
+Have you been checking in the a.m., it says 2 a.m.?
+
+PATIENT X605
+No.  I'm asleep.
+
+DOCTOR X605
+What?
+
+PATIENT X605
+@@@.
+
+SECOND PERSON X605
+That's interesting.
+
+DOCTOR X605
+@@@.
+
+SECOND PERSON X605
+And it's right, I mean it's 10 o'clock right now and I don't know if maybe it wasn't working correctly but I guess if you want to just check and see on how it goes from now on.  But it is correct now.
+
+PATIENT X605
+Okay.
+
+SECOND PERSON X605
+And maybe the averages are going to tell you more than those will.
+
+DOCTOR X605
+His averages are going to be.
+
+SECOND PERSON X605
+I know the 30 day it was @@@ was fine so.
+
+DOCTOR X605
+Yeah @@@ okay.
+
+SECOND PERSON X605
+Great.  Hope that's all set now.
+
+PATIENT X605
+Okay.  But I haven't been nowhere at that time of day.
+
+DOCTOR X605
+I'm sorry about the time @@@.
+
+PATIENT X605
+Cause I been @@@.
+
+DOCTOR X605
+Uh what's that?
+
+PATIENT X605
+@@@ I don't think it works.
+
+SECOND PERSON X605
+It'll go back and will just give you an average over the past 30 days so if you haven't been checking for 30 days it would give you as many.
+
+PATIENT X605
+Right.
+
+SECOND PERSON X605
+Even if you had checked it for 15 it will just give that average.
+
+PATIENT X605
+Okay.
+
+SECOND PERSON X605
+And it was, ahead yeah, an hour.
+
+DOCTOR X605
+Oh okay you lose an hour.
+
+SECOND PERSON X605
+You lose an hour yeah.  So on Sunday, just because the time is going to go ahead an hour, we'll need to change your time again but yeah, just so you know.  Cause it's um.
+
+PATIENT X605
+So when I come here next week.
+
+SECOND PERSON X605
+Yeah we can change it for you, uh-huh.
+
+PATIENT X605
+Just come in here.
+
+SECOND PERSON X605
+Yeah you can just come find me, no problem.
+
+PATIENT X605
+Okay.
+
+SECOND PERSON X605
+Sure. 
+
+PATIENT X605
+I don't need an appointment for that.
+
+SECOND PERSON X605
+No you just pop in here, I'll take care of it.
+
+PATIENT X605
+Okay.
+
+SECOND PERSON X605
+No worries, definitely we can do.
+
+PATIENT X605
+And you're here five days a week.
+
+SECOND PERSON X605
+I'm here yeah, come find me.
+
+THIRD PERSON X605
+Let's just set up the appointment.
+
+PATIENT X605
+Okay.
+
+SECOND PERSON X605
+Come find me.
+
+PATIENT X605
+Okay, thank you.
+
+SECOND PERSON X605
+Okay.
+
+PATIENT LEAVES:  77:12
+
+
+
+

@@ -1,0 +1,406 @@
+
+DOCTOR X416
+PATIENT?  I'm DOCTOR.  How are you?  Come on back.
+
+PATIENT X416
+I got my @@@ down here.  @@@ okay.
+
+DOCTOR X416
+Alright.  So we'll be in the second room to the right okay.
+
+PATIENT X416
+Second room to the right.
+
+DOCTOR X416
+This one right here.
+
+PATIENT X416
+@@@.
+
+DOCTOR X416
+Go ahead and have a seat.  How we doing today?
+
+PATIENT X416
+Okay.
+
+DOCTOR X416
+Doing okay?
+
+PATIENT X416
+Yeah.
+
+DOCTOR X416
+You're doing okay?  Yeah.
+
+PATIENT X416
+Uh-huh.
+
+DOCTOR X416
+Okay good.  You're here for a General Medicine visit right?
+
+PATIENT X416
+Yeah.
+
+DOCTOR X416
+Okay.  So the last time you were in here was back in September.  How have things been going since then?
+
+PATIENT X416
+Oh okay.
+
+DOCTOR X416
+Okay.
+
+PATIENT X416
+Yeah.
+
+DOCTOR X416
+Anything new?
+
+PATIENT X416
+No.
+
+DOCTOR X416
+Any new or different, changed?
+
+PATIENT X416
+No.
+
+DOCTOR X416
+Pretty much the same?
+
+PATIENT X416
+Yes.
+
+DOCTOR X416
+Okay.  Have you been eating okay?
+
+PATIENT X416
+Yes.
+
+DOCTOR X416
+Any chest pain or anything like that?
+
+PATIENT X416
+No.
+
+DOCTOR X416
+No okay.  Uh have you been checking your blood sugars at home?
+
+PATIENT X416
+Yeah.
+
+DOCTOR X416
+Yeah what do they run?
+
+PATIENT X416
+They run about the same.
+
+DOCTOR X416
+Run about the same?  Can you give me an approximate number?
+
+PATIENT X416
+Uh, I don't know, 90 something I think.
+
+DOCTOR X416
+Around the 90s?
+
+PATIENT X416
+Sometimes it goes up and down I don't know.
+
+DOCTOR X416
+What's the highest it gets up to?
+
+PATIENT X416
+Huh?
+
+DOCTOR X416
+What's the highest it goes up to?
+
+PATIENT X416
+102 I think.
+
+DOCTOR X416
+What's the lowest it goes down to?
+
+PATIENT X416
+About 50 something.
+
+DOCTOR X416
+50 something?  When it goes down to 50 something do you get lightheaded or dizzy?
+
+PATIENT X416
+No I haven't been feeling it too much.
+
+DOCTOR X416
+Not too much or not at all?
+
+PATIENT X416
+Not at all.
+
+DOCTOR X416
+Okay any nausea, vomiting, diarrhea?
+
+PATIENT X416
+No.
+
+DOCTOR X416
+Constipation?
+
+PATIENT X416
+Uh uh.
+
+DOCTOR X416
+Blood in your stools?
+
+PATIENT X416
+No.
+
+DOCTOR X416
+Okay.  So the last time you were here, what'd we talk about?  We wanted to continue your blood pressure management and your blood pressure looks really good today so that's good.  Still, are you still making urine?
+
+PATIENT X416
+Yes.
+
+DOCTOR X416
+Yeah cause I know you were seen by the kidney doctors and they said you absolutely do not want dialysis is that right?
+
+PATIENT X416
+Right.
+
+DOCTOR X416
+So are you on any medications?
+
+PATIENT X416
+Yes I, right now I used the last one and I run out of this one here.  This one I run out @@@.
+
+DOCTOR X416
+This is the one the kidney doctors prescribed you right?
+
+PATIENT X416
+Yes uh-huh.
+
+DOCTOR X416
+See if they refilled it for you.  You should still be on the calcium carbonate, let's just see what they said.  Are you taking the kayexalate that's uh the thing they gave you at the uh kidney doctors?  Like that liquid stuff?
+
+PATIENT X416
+The kayexalate.
+
+DOCTOR X416
+Yeah you still taking that?
+
+PATIENT X416
+Uh I haven't taken any of that stuff yet.
+
+DOCTOR X416
+You haven't taken any of it yet?
+
+PATIENT X416
+No.
+
+DOCTOR X416
+Why not?
+
+PATIENT X416
+I don't know.
+
+DOCTOR X416
+You should start taking it.
+
+PATIENT X416
+Alright.
+
+DOCTOR X416
+Cause they're worried because your potassium was really high and that can cause you to have a heart attack.
+
+PATIENT X416
+Alright.
+
+DOCTOR X416
+And we don't want that.
+
+PATIENT X416
+Alright.
+
+DOCTOR X416
+Okay.  So start taking that.  Can I see that medication bottle one more time and let me figure out.  Okay I refilled this.  What about the rest of your meds?  Do you still have all those?
+
+PATIENT X416
+Yes.
+
+DOCTOR X416
+Yeah.
+
+PATIENT X416
+I have some refills.
+
+DOCTOR X416
+I want to make sure you have enough to last you till your next appointment.  I think you're gonna run out so I'm gonna refill everything for you okay.
+
+PATIENT X416
+Alright.  They usually send it to me when I run out.
+
+DOCTOR X416
+Yeah they usually send it to you but if you run out then they can't send it to you right.  Like if you run out of refills.
+
+PATIENT X416
+That's why I should know when I have to renew cause they usually run out.
+
+DOCTOR X416
+Yeah they do and that's why we have to refill them for you before they run out of refills.  Make sense?
+
+PATIENT X416
+I don't know.
+
+DOCTOR X416
+(Laughter)  You know what, I see you're gonna be seeing the kidney doctors in see, do you have an appointment coming up with the kidney doctors?
+
+PATIENT X416
+I don't know when the next appointment is.  I ain't got nothing @@@ or anything. 
+
+DOCTOR X416
+They wanted to see you back in a month and that was back in November so I think we need to schedule you for a follow-up kidney doctor appointment okay.
+
+PATIENT X416
+Uh-huh.
+
+DOCTOR X416
+Other than that you're doing okay though huh?
+
+PATIENT X416
+Uh-huh.
+
+DOCTOR X416
+Okay.  Want to have a seat up here for me and I can examine you?  I'm looking to see when the last time we got a cholesterol panel on you.  Can you look straight ahead for me?  Open your mouth, stick your tongue out and say ah.
+
+PATIENT X416
+Ah.
+
+DOCTOR X416
+Give me some big deep breaths.  Good, breathe normally.  Good.  Numbness or tingling in your fingers or toes?
+
+PATIENT X416
+No.
+
+DOCTOR X416
+Stomach pain?
+
+PATIENT X416
+No.
+
+DOCTOR X416
+Okay, alright.  Give me a few minutes.  Let me go talk to DOCTOR and I'll be right back okay.
+
+(DOCTOR OUT:  32:54  DOCTOR IN:  49:40)
+
+SECOND DOCTOR X416
+Hey PATIENT.
+
+PATIENT X416
+Hi.
+
+SECOND DOCTOR X416
+How are you?
+
+PATIENT X416
+Okay.
+
+SECOND DOCTOR X416
+Okay.  Um are you watching your diet and @@@ off the potassium?
+
+PATIENT X416
+Uh-huh.
+
+FIRST DOCTOR X416
+High potassium diet.
+
+PATIENT X416
+Uh-huh.
+
+SECOND DOCTOR X416
+You're watching like bananas, oranges okay.  But you haven't taken that sweet liquid?
+
+PATIENT X416
+Hmm?
+
+SECOND DOCTOR X416
+The kayexalate, the one that tastes really sweet? 
+
+PATIENT X416
+Hmm.
+
+SECOND DOCTOR X416
+Do you have it at home?
+
+PATIENT X416
+Yeah.
+
+SECOND DOCTOR X416
+You do, okay.  I'm going to check your potassium again today so I don't want you to leave.  I want you to come back after your blood tests done and just wait out there because I need to make sure it's not too dangerously elevated and PATIENT you are @@@ readings quite fast, quite rapidly and I think the dialysis is eminent.  So I think you need to come to the conclusion that you really need it otherwise you I mean this is life-threatening.  You may not need it immediately but that might be in near future and you will need it.  What is that you are concerned about?  A lot of people are on dialysis.  They start you @@@ started on dialysis.
+
+PATIENT X416
+Well I.
+
+SECOND DOCTOR X416
+And they do fine.
+
+PATIENT X416
+Don't like the idea, @@@ three hours I don't like that.
+
+SECOND DOCTOR X416
+Well you are otherwise doing okay.  I think that dialysis is I mean.  I mean unfortunately we don't have any other way to protect your kidneys.  I don't think it's.  I mean the idea is bad to start it but once you get used to it I'm sure you'll.  I mean it's not as bad as you think.
+
+PATIENT X416
+Well I'll never get used to it.
+
+SECOND DOCTOR X416
+But the problem is, @@@ uh I mean that it's going to be your life support measure.  Without it.
+
+PATIENT X416
+Yeah.
+
+SECOND DOCTOR X416
+People die.
+
+PATIENT X416
+Yeah.
+
+SECOND DOCTOR X416
+You're not there yet but I'm sure that I want you to get used to the idea.
+
+PATIENT X416
+Right.
+
+SECOND DOCTOR X416
+So you do not decline.  That's what @@@.  That's what I wanted to talk to you about.
+
+PATIENT X416
+Yeah @@@.  I have to give it some thought.
+
+SECOND DOCTOR X416
+Okay because I don't want you to just, just without any thinking.
+
+PATIENT X416
+Yeah.
+
+SECOND DOCTOR X416
+Uh not.  Okay.  Alright.  So do the blood, wait out there and then we'll make your kidney doctors appointment okay.
+
+PATIENT X416
+Yeah.
+
+FIRST DOCTOR X416
+Alright so I want you to go to the Lab and get your blood drawn and then come back here okay.  And up front they're gonna schedule you in the clinic.  So I want you to go up front, schedule the appointment, go to the Lab get your blood drawn and come back here okay.
+
+PATIENT X416
+Yeah.
+
+FIRST DOCTOR X416
+Okay.
+
+PATIENT LEAVES:  52:50
+
+10:55
+
+
+
+

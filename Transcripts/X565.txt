@@ -1,0 +1,552 @@
+
+DOCTOR X565
+PATIENT?  Hi how are you?
+
+PATIENT X565 
+Back here?
+
+DOCTOR X565
+@@@.
+
+PATIENT X565
+Around the back.  @@@.
+
+DOCTOR X565
+@@@.  Alright how you been?
+
+PATIENT X565
+I've been better.
+
+DOCTOR X565
+Okay.  Any problems or complaints since the last time I saw you?
+
+PATIENT X565
+Uh no.
+
+DOCTOR X565
+Okay.
+
+PATIENT X565
+Yeah I been okay.
+
+DOCTOR X565
+And you haven't been sick or anything?
+
+PATIENT X565
+No I ain't been sick.
+
+DOCTOR X565
+Okay that's what we like to hear.
+
+PATIENT X565
+Uh.
+
+DOCTOR X565
+Um.
+
+PATIENT X565
+I had a talk you know like I been in the bed at night and I don't know whether it's too dry in the house or but this cough, @@@ and it's just like a smoker's cough and I ain't been smoking for four years.
+
+DOCTOR X565
+Okay so that's good um.  How long has this cough been going on?
+
+PATIENT X565
+For two @@@ nights.
+
+DOCTOR X565
+Just a couple nights.
+
+PATIENT X565
+Yeah.
+
+DOCTOR X565
+Okay.  Do you have any like, do you sense any dripping in the back of your throat or anything, are you coughing anything up with it?
+
+PATIENT X565
+Yeah my nose runs, my nose runs.
+
+DOCTOR X565
+And that just started in the last couple days too?
+
+PATIENT X565
+Well that's been going on for the last week.
+
+DOCTOR X565
+Okay.
+
+PATIENT X565
+Yeah.
+
+DOCTOR X565
+Alright is it only at night when you're coughing?  During the day are you coughing at all or not really?
+
+PATIENT X565
+No not really.  I just come into the cough and can't stop and it's been and when I wake up and then I be on my run, you know and I'll cough.
+
+DOCTOR X565
+@@@.  So it's just at night when you're laying back?
+
+PATIENT X565
+Yeah.
+
+DOCTOR X565
+Any burning in the belly, in the belly at all or anything like that?
+
+PATIENT X565
+No.
+
+DOCTOR X565
+No.  No nausea or vomiting or anything? 
+
+PATIENT X565
+No.
+
+DOCTOR X565
+No bad taste in the mouth at all?
+
+PATIENT X565
+Uh uh.
+
+DOCTOR X565
+Okay no shortness of breath?
+
+PATIENT X565
+No.
+
+DOCTOR X565
+You have like just a cough.  Alright well I mean, you said you started having this kind of dripping, do you feel like you have some of your sinuses are a little blocked up too?
+
+PATIENT X565
+Yeah you know like my nose right after I get out of the shower my nose is running.
+
+DOCTOR X565
+Okay and that's just been going on in the last week?
+
+PATIENT X565
+Huh?
+
+DOCTOR X565
+Just for about a week?
+
+PATIENT X565
+Yeah.
+
+DOCTOR X565
+Okay.  Nothing else, no fevers, chills, no chest pain or anything like that?
+
+PATIENT X565
+No.
+
+DOCTOR X565
+Okay.  I mean it sounds like, I mean you may have a little bit of an allergy almost.
+
+PATIENT X565
+Oh yeah.
+
+DOCTOR X565
+It sounds like; do you have a history of allergies at all?
+
+PATIENT X565
+Well then right here lately, you know like I was itching you know just like uh, you know like I'm scratching and then it fired up and uh it came back and I was itching again.
+
+DOCTOR X565
+Okay.  How long has this been there?
+
+PATIENT X565
+Huh?
+
+DOCTOR X565
+How long has this been there?
+
+PATIENT X565
+Been there about a month or two.
+
+DOCTOR X565
+You got any on the other side of you?
+
+PATIENT X565
+No.  You know just like uh when I was in the south, you know like @@@.
+
+DOCTOR X565
+Does it occur in the elbow, in the groin?
+
+PATIENT X565
+In the groin, not in the groin.
+
+DOCTOR X565
+But you're getting scratchy down there?
+
+PATIENT X565
+Yeah right.
+
+DOCTOR X565
+And nowhere else, nothing on your feet or your hands or anything like that?
+
+PATIENT X565
+No.
+
+DOCTOR X565
+How do these start?  What do they look like when they start?
+
+PATIENT X565
+It looks like that but I must have did that with my scratching you know like it was, it was all smooth so I just got through scratching you know just to relieve the pain and then I went to sleep and you know like I used my @@@ again and so I could get to sleep.
+
+DOCTOR X565
+Okay.
+
+PATIENT X565
+Yeah.
+
+DOCTOR X565
+Can I see this leg too?  And you don't feel like you're getting bit by anything at all?
+
+PATIENT X565
+No.
+
+DOCTOR X565
+Okay.  Have you changed sheets?  Did you change the kind of detergent you use?  Uh okay, you haven't got any new clothes or anything?
+
+PATIENT X565
+No.
+
+DOCTOR X565
+And no new medications, nothing else like that?
+
+PATIENT X565
+Yeah I use my medications.
+
+DOCTOR X565
+No new medications though, nothing new right?
+
+PATIENT X565
+Uh not that's new.
+
+DOCTOR X565
+Any pets?
+
+PATIENT X565
+No.
+
+DOCTOR X565
+Okay.  How often do you wash your sheets?
+
+PATIENT X565
+Once a week.
+
+DOCTOR X565
+Okay and you never noticed anything, no little bugs or anything like that?  Nothing like bed bugs or anything that you notice?  Uh okay.
+
+PATIENT X565
+Oh I never noticed, you know like uh I be looking for them but they I ain't seen none.
+
+DOCTOR X565
+You haven't seen anything okay.  And it's weird that it'll be just in one spot too.  But that's where you scratch it.  Did that start after you were scratching, there was nothing there that started to itch and then you were scratching?
+
+PATIENT X565
+Yeah there wasn't nothing here, it was like this.
+
+DOCTOR X565
+Okay and then it started to itch.
+
+PATIENT X565
+Yeah.
+
+DOCTOR X565
+And then you started scratching and then that came on.
+
+PATIENT X565
+Yeah that came but I was bleeding.
+
+DOCTOR X565
+So there might have been from scratching then from that?
+
+PATIENT X565
+Yeah, it was bleeding you know.  It don't itch right now.  But see @@@ there one time I didn't get any relief and the doctor gave me some allergy pills and then I I went and it was okay.  And then it came back again a real fit.
+
+DOCTOR X565
+When were you were seen for this?
+
+PATIENT X565
+Huh?
+
+DOCTOR X565
+When were you seen for this?
+
+PATIENT X565
+About a couple of months ago.  Two or three months, I can't remember.  Cause then it don't itch now.
+
+DOCTOR X565
+Okay here we go.  Did the medication help then?
+
+PATIENT X565
+Yes it did.
+
+DOCTOR X565
+Cause we're gonna give you probably something to help with your allergies anyway for the nose and it sounds like what they call allergic rhinitis where you just get a runny nose and it drips back and then one of the most common causes of cough, especially at night when you're on your back and it just kind of drips back and irritates the throat.
+
+PATIENT X565
+Oh yeah.
+
+DOCTOR X565
+So I think that's why you're having a cough.
+
+PATIENT X565
+Oh okay.
+
+DOCTOR X565
+So I think we'll probably give you some of this now it'll be, I'll give you enough for a month and then a couple refills, we'll see how you're doing.
+
+PATIENT X565
+Okay.
+
+DOCTOR X565
+With that uh okay.  But doing good otherwise though?
+
+PATIENT X565
+Yeah.
+
+DOCTOR X565
+Okay.
+
+PATIENT X565
+I think I'm doing good.
+
+DOCTOR X565
+Someone give you this.
+
+PATIENT X565
+No.
+
+DOCTOR X565
+Okay good, I'm going to schedule @@@ cause they saw you for that last time right.
+
+PATIENT X565
+Yeah right.
+
+DOCTOR X565
+Has that gone away?
+
+PATIENT X565
+Right that's going away.
+
+DOCTOR X565
+Okay good, good.
+
+PATIENT X565
+Yeah, that going away.
+
+DOCTOR X565
+Alright we're going to have you get up here.  You need refills on your medications?
+
+PATIENT X565
+Uh no I think that I got them all so it's good.
+
+DOCTOR X565
+Alright and then um, so you're not due for a colonoscopy till a couple years from now.
+
+PATIENT X565
+Yeah a couple years.
+
+DOCTOR X565
+You had one in 07 and you were to come back in five years.
+
+PATIENT X565
+Yeah.
+
+DOCTOR X565
+Uh you got the flu shot this year already?
+
+PATIENT X565
+Yeah I got a flu shot the other day.
+
+DOCTOR X565
+Okay, good, good, good.
+
+PATIENT X565
+There's a sty on my eye.
+
+DOCTOR X565
+Oh that's what that is.
+
+PATIENT X565
+Yeah.
+
+DOCTOR X565
+Alright deep breath okay.  Breathe normally here.  And hold your breath okay and breathe now hold your breath and breathe good.  Breathe in alright.  Can you look up to the ceiling for me please.  Yeah the front of your ear and parts of your nose there, you got a little bit of swelling and edema in there.
+
+PATIENT X565
+Uh-huh.
+
+DOCTOR X565
+Which is probably related to some kind of allergy.
+
+PATIENT X565
+Okay.
+
+DOCTOR X565
+So, take a look in your ears too okay, here.  Alright can you open your mouth for me?  Say ah.
+
+PATIENT X565
+Ah.
+
+DOCTOR X565
+Okay.  You mind if you take your hat off for me please.  Look straight forward, look at the wall again.  Okay.  Looks pretty good.  Go ahead and lay back, check your belly too.  And no pain in the belly you said?
+
+PATIENT X565
+Uh uh.
+
+DOCTOR X565
+Bowel movements have been normal?  And everything okay?
+
+PATIENT X565
+Yeah.
+
+DOCTOR X565
+Okay.  Alright, I'll give you a little bit of help, can you sit up.  Alright your heart sounds good, lungs are good.  You got a little bit, like I said you've got a little swelling in your nose right there, it could be consistent with just having allergies so I'm going to give you something like, it's called loratadine.  You had it before.
+
+PATIENT X565
+Yeah.
+
+DOCTOR X565
+It's an antihistamine.  It's called an antihistamine so, loratadine.
+
+PATIENT X565
+Loratadine.  Do I take it by mouth?
+
+DOCTOR X565
+Yep just once a day @@@ it should help with the allergies and the drip and everything too.
+
+PATIENT X565
+Oh okay.
+
+DOCTOR X565
+Just, you have a seat here um @@@ look great.  We checked your cholesterol a while ago in February so we need to check it again.
+
+PATIENT X565
+Oh yeah.
+
+DOCTOR X565
+We'll check it again the next time we see you but I don't need to check it today.
+
+PATIENT X565
+Oh okay.
+
+DOCTOR X565
+Your prostate was checked so no problems urinating at all?
+
+PATIENT X565
+No.
+
+DOCTOR X565
+No hesitancy, frequency or anything like that?
+
+PATIENT X565
+No.
+
+DOCTOR X565
+Okay alright and no diabetes in you good.
+
+PATIENT X565
+I don't have no diabetes, not since the last time.
+
+DOCTOR X565
+Alright let me run this by DOCTOR and we'll @@@ right.
+
+PATIENT X565
+Okay.
+
+DOCTOR X565
+Do you have any questions at all?
+
+PATIENT X565
+Uh no I don't have none @@@ just what @@@ to clear that up.
+
+DOCTOR X565
+Alright, I'll be right back.
+
+PATIENT X565
+Okay.
+
+(DOCTOR OUT:  26:42  DOCTOR IN:  28:08)
+
+DOCTOR X565
+Alright.  Just like @@@.
+
+PATIENT X565
+Oh yeah.
+
+DOCTOR X565
+DOCTOR said you can't give blood today.
+
+PATIENT X565
+Oh yeah?
+
+DOCTOR X565
+Uh-huh.  That's alright.  We'll give you the loratadine and you'll be good to go so.
+
+PATIENT X565
+Oh okay.
+
+DOCTOR X565
+Okay.  No shortness of breath or anything?
+
+PATIENT X565
+No none.
+
+DOCTOR X565
+You been using the inhaler?
+
+PATIENT X565
+Yeah.
+
+DOCTOR X565
+Okay.
+
+PATIENT X565
+Yeah I been walking good.
+
+DOCTOR X565
+You can stop by or do you want to get it mailed to you?
+
+PATIENT X565
+The loratadine?
+
+DOCTOR X565
+Yeah.
+
+PATIENT X565
+Okay yeah can I have it mailed to me?
+
+DOCTOR X565
+Not a problem, not a problem at all.
+
+PATIENT X565
+Yeah, yeah.
+
+DOCTOR X565
+Take it for a month, then if you want to stop you could try stopping and see how you do without it or you can even just try it for just a couple weeks and then you can stop taking it and if you don't need it, you don't need it then.
+
+PATIENT X565
+Oh okay, alright.
+
+DOCTOR X565
+That's it @@@.
+
+PATIENT X565
+Alright doc.
+
+DOCTOR X565
+That's it.  We'll see you in a little while.
+
+PATIENT X565
+Okay thank you.  I'll see you.
+
+DOCTOR X565
+Yep.
+
+PATIENT LEAVES:  29:30
+
+
+
+
+

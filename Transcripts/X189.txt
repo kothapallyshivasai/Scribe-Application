@@ -1,0 +1,638 @@
+
+PATIENT X189
+Yes.  Good morning, how are you?
+
+DOCTOR X189
+Good, how are you?
+
+PATIENT X189
+Terrific thank you.
+
+DOCTOR X189
+So you had the colonoscopy.
+
+PATIENT X189
+Yes.
+
+DOCTOR X189
+Everything went well?  As far as you know.
+
+PATIENT X189
+Yeah they sent me a a letter and uh everything's fine.
+
+DOCTOR X189
+Um, anything else bring you in today?
+
+PATIENT X189
+Nope.
+
+DOCTOR X189
+I'm seeing all the patients that I saw on the same day in my New Patient Clinic today.
+
+PATIENT X189
+Okay.
+
+DOCTOR X189
+So I'm like, I'm reviewing all these names that look super familiar to me because I've only @@@.  Are you supposed to see DOCTOR?
+
+PATIENT X189
+No.
+
+DOCTOR X189
+And you're gonna follow up here?
+
+PATIENT X189
+Yes.
+
+DOCTOR X189
+Most frequently.
+
+
+PATIENT X189
+Yes, uh-huh.
+
+DOCTOR X189
+And you are down to a pack a week of smoking?
+
+
+PATIENT X189
+A right there.
+
+
+DOCTOR X189
+Right there.
+
+
+PATIENT X189
+I'm thinking, uh as of January 1 over.
+
+
+DOCTOR X189
+You're over, okay.  What do you, do you want any help as well?
+
+
+PATIENT X189
+No you gave me the gum.
+
+
+DOCTOR X189
+I gave you the gum already.
+
+
+PATIENT X189
+Uh-huh.
+
+
+DOCTOR X189
+But you just haven't used it yet.
+
+
+PATIENT X189
+One, one day I used it.
+
+
+DOCTOR X189
+(Laughter) Okay, so you'll continue to, your cholesterol sure is high today.
+
+
+PATIENT X189
+Yeah I don't know why.
+
+
+DOCTOR X189
+Um, well we can repeat it, we'll see.  We are thinking that it's normal for you so hmm.  Okay.  @@@, it's a little high.  We'll check a @@@ okay?
+
+
+PATIENT X189
+Okay, well I haven't been biking so, but I just bought a new, newer bike.
+
+
+DOCTOR X189
+So you're only on @@@.  I don't think I have the latitude really to know.  Your white counts a little high but that might be normal for you, you know.
+
+
+PATIENT X189
+Uh-huh.
+
+
+DOCTOR X189
+Everyone is a little different.  I think it's probably just something we'll have to watch um.  Kidney function looks good so, it can maybe just a matter of you know, modifying your medicines.  Your LDL is really low, like almost too low.
+
+
+PATIENT X189
+Now what is that?
+
+
+DOCTOR X189
+The LDL is the bad cholesterol.  I want it to be low but that's really low.
+
+
+PATIENT X189
+Okay.
+
+
+DOCTOR X189
+Um, your LFTs are, I remember looking at them before, were fine.  Let me check iron studies, you're not anemic.  Okay um, I have to check on who did the colonoscopy that's why.
+
+
+PATIENT X189
+Uh-huh.
+
+
+DOCTOR X189
+Okay and you're, oh you're on the, you're on Crestor.  We ordered simvastatin right.
+
+
+PATIENT X189
+Uh-huh.
+
+
+DOCTOR X189
+Now you're on that.
+
+
+PATIENT X189
+Uh-huh.
+
+
+DOCTOR X189
+Your hemoglobin A1c is high um, but I think we need to just recheck it today and how often are you, when is your next follow-up with DOCTOR?
+
+
+PATIENT X189
+The DOCTOR?
+
+
+DOCTOR X189
+Yeah.  The pharmacist.
+
+
+PATIENT X189
+Oh, I just got my medication in last week, so probably not for another three months.
+
+
+DOCTOR X189
+So they didn't change anything at that time though?
+
+
+PATIENT X189
+No uh uh.
+
+
+DOCTOR X189
+So we'll just recheck the hemoglobin A1c this time.
+
+
+PATIENT X189
+Okay.
+
+
+DOCTOR X189
+Maybe we'll run @@@ tests today and @@@ today because @@@.
+
+
+PATIENT X189
+Right, I understand.
+
+
+DOCTOR X189
+I think the big thing we need to worry about is your blood pressure and why in the world it's so high.
+
+
+PATIENT X189
+Uh probably because of inactivity.
+
+
+DOCTOR X189
+Inactivity?
+
+
+PATIENT X189
+I've just been walking the dog the short walks and uh I gotta start it again and with the holidays coming, I've been cheating a little bit.
+
+
+DOCTOR X189
+Okay.
+
+
+PATIENT X189
+More than a little bit.
+
+
+DOCTOR X189
+I believe @@@.  But I think what I probably would do is go up on your hydrochlorothiazide/lisinopril combo pill.  Um I don't want to go up on both medications at once, @@@ on this too.  Because I don't want to bottom you out either.
+
+PATIENT X189
+Uh-huh.
+
+
+DOCTOR X189
+How have you been doing though, have you been feeling okay?
+
+
+PATIENT X189
+Terrific.
+
+
+DOCTOR X189
+No chest pain.
+
+
+PATIENT X189
+No.
+
+
+DOCTOR X189
+Or riding your bike, do you feel @@@?
+
+
+PATIENT X189
+Uh-huh, still do.
+
+
+DOCTOR X189
+Still do, alright.  And January 1st, you promise me that you'll @@@. (Laughter)
+
+
+PATIENT X189
+Eh, why not, it's a target date.
+
+
+DOCTOR X189
+Yeah.
+
+
+PATIENT X189
+We'll see.
+
+
+DOCTOR X189
+Yeah, I'll have you put your feet up there.  I mean you are really, like you're at your correct weight.
+
+
+PATIENT X189
+Uh-huh.
+
+
+DOCTOR X189
+And uh you're doing all those things correctly so.  So let's just repeat your blood pressure and make sure that it's, you know high as what they're saying it is cause sometimes you know, just walking into the doctor's office, people shoot up (laughter).  Holiday season, I don't think it's very relaxing season, I don't know about you.
+
+
+PATIENT X189
+Umm, @@@.
+
+
+DOCTOR X189
+Yeah.  Alright.  You can actually relax your arm though.  Yeah I got higher so, it's high.  So, I don't know if I really want to go up on both cause what I could do is I could just double your combination pill right, cause you don't want to give you one of those.
+
+PATIENT X189
+Right.
+
+
+DOCTOR X189
+Then kind of the max, the most effective dose of both of those pills is actually 25 and 40, which would be two of those tabs once a day.
+
+
+PATIENT X189
+Uh-huh.
+
+
+DOCTOR X189
+Um, you know with your blood pressure being 150 um, I would be inclined to maybe either; I think you're probably safe doing that.  Do you have a blood pressure cuff at home?
+
+
+PATIENT X189
+No I don't.
+
+
+DOCTOR X189
+Okay, that's something we'll have to get you because if you were taking it and you feel lightheaded or funny, for you it can be one of two reasons right?
+
+
+PATIENT X189
+Uh-huh.
+
+
+DOCTOR X189
+Either your sugar is low or your blood pressure is too low.
+
+
+PATIENT X189
+Right.
+
+
+DOCTOR X189
+So you can check your sugar and we should give you a way to check your blood pressure.
+
+
+PATIENT X189
+Okay.
+
+
+DOCTOR X189
+And then the reason why you're not exercising as much? 
+
+PATIENT X189
+Because of the weather.
+
+
+DOCTOR X189
+Because of the weather, are you an outside exerciser?
+
+PATIENT X189
+I'm a biker.
+
+
+DOCTOR X189
+Biker okay.
+
+
+PATIENT X189
+Bicycle bike and I walk the dog 3-5 miles a day and now we're down to about one.
+
+
+DOCTOR X189
+I think um, they have a program called MOVE that is supposed to help you with exercising and staying active.  Is it so much that  you don't know what to do or are you just @@@?.
+
+
+PATIENT X189
+Oh I know what they do.
+
+
+DOCTOR X189
+Kind a have been falling off the band wagon?
+
+
+PATIENT X189
+I just, I just fell off is all.
+
+
+DOCTOR X189
+Okay.
+
+
+PATIENT X189
+Yeah I'll be back on it January 1.
+
+
+DOCTOR X189
+So we need to get you back on there.  Um, if you drop a few pounds, start eating a little bit better.
+
+
+PATIENT X189
+Uh-huh.
+
+
+DOCTOR X189
+Restrict your salt, I bet you probably won't need to increase the blood pressure medicine.
+
+
+PATIENT X189
+Uh-huh. 
+
+
+DOCTOR X189
+The last time you were here your blood pressure was fantastic.
+
+
+PATIENT X189
+Uh-huh.
+
+
+DOCTOR X189
+So I'm a little bit um less inclined to you know go up so drastically so I might do is just add, um I might just separate your combo pills.
+
+
+PATIENT X189
+Uh-huh.
+
+
+DOCTOR X189
+And just go up on one.
+
+
+PATIENT X189
+Okay.
+
+DOCTOR X189
+Both of them are just once a day pills.
+
+
+PATIENT X189
+Right.
+
+
+DOCTOR X189
+So we'll just give more of a dose and you'll just be taking them once.
+
+
+PATIENT X189
+Okay.
+
+
+DOCTOR X189
+Okay?
+
+
+PATIENT X189
+Okay.
+
+
+DOCTOR X189
+I'll be right back.
+
+
+PATIENT X189
+Alrighty.
+
+
+DOCTOR X189
+Um did you need this rechecked?
+
+
+PATIENT X189
+Yes, just had it uh about ten minutes ago.
+
+
+DOCTOR X189
+And you just had it, okay and uh let me see.  @@@ up-to-date on your vaccinations?
+
+
+PATIENT X189
+Uh-huh.
+
+
+DOCTOR X189
+Shingles shot.
+
+
+PATIENT X189
+That I haven't had.
+
+
+DOCTOR X189
+Let's do one @@@ for you.  Everything else looks good.
+
+
+PATIENT X189
+Ha Ha.
+
+
+DOCTOR X189
+Alright.  We decided to @@@ for now.
+
+
+PATIENT X189
+Right.
+
+
+DOCTOR X189
+And not go looking for anything.
+
+
+PATIENT X189
+Right.
+
+
+DOCTOR X189
+But no urinary symptoms, no getting up a lot at night or?
+
+
+PATIENT X189
+Uh uh.
+
+(DOCTOR OUT:  37:42  DOCTOR IN:  45:33)
+
+DOCTOR X189
+Okay, @@@ perfect and I think you need @@@.  What we'll do is we'll just um we'll discontinue the combination pills.
+
+
+PATIENT X189
+Okay.
+
+
+DOCTOR X189
+And we'll order you just the lisinopril at 40.  This is the better of the two for you to use because you are a diabetic.
+
+
+PATIENT X189
+Okay.
+
+DOCTOR X189 
+@@@.  Um yes we want you on an as high of Ace inhibitor as we can as it'll help @@@.
+
+
+PATIENT X189
+Okay.
+
+
+DOCTOR X189
+So just one pill daily.  Do you want it mailed to you?
+
+
+PATIENT X189
+Sure.
+
+
+DOCTOR X189
+You can continue taking what you have now.
+
+
+PATIENT X189
+Uh-huh.
+
+
+DOCTOR X189
+If you have a problem with it just once you get the new medication just switch over.
+
+
+PATIENT X189
+Alright.
+
+
+DOCTOR X189
+@@@.  You get a 90 day supply?
+
+
+PATIENT X189
+Uh-huh.
+
+
+DOCTOR X189
+And then what else, oh.  I am going to get some blood work.  You know where the Lab is, you can just stop in there before you leave and get it done.
+
+
+PATIENT X189
+Okay.
+
+
+DOCTOR X189
+I made an appointment so and then you can continue @@@ medications, call me in three months.
+
+
+PATIENT X189
+Not a problem.
+
+
+DOCTOR X189
+Okay.  And then you know as I think I will, but you could try one of the @@@ lists so you could make an earlier appointment, like maybe early in the morning.
+
+
+PATIENT X189
+Yeah, uh-huh.
+
+
+DOCTOR X189
+So I will order blood work prior to that appointment, okay?
+
+
+PATIENT X189
+Uh-huh.
+
+
+DOCTOR X189
+@@@ okay?
+
+
+PATIENT X189
+Okay, terrific.
+
+
+DOCTOR X189
+Alright, so it's good to see you again and uh.
+
+
+PATIENT X189
+@@@.
+
+
+DOCTOR X189
+You too, just have fun.
+
+
+PATIENT X189
+Thank you very much. 
+
+
+DOCTOR X189
+You can just check-out.
+
+
+PATIENT X189
+Okay, have a great time.
+
+
+DOCTOR X189
+Uh-huh, bye.
+
+DOCTOR OUT:  48:09 
+
+
+
+
+
+
+
+
+
+

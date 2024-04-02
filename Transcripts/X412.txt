@@ -1,0 +1,507 @@
+
+DOCTOR X412
+PATIENT?
+
+PATIENT X412
+Right here.
+
+DOCTOR X412
+Give me one second.  What can I do for you today sir?
+
+PATIENT X412
+Well I've been wanting to make some changes in my meds doctor.
+
+DOCTOR X412
+I see and I think you haven't seen one in a while is that right?
+
+PATIENT X412
+That is correct I don't know.
+
+DOCTOR X412
+Okay.  Are you doing pretty good today otherwise?
+
+PATIENT X412
+For the most part.
+
+DOCTOR X412
+Alright sounds good.  Um you know this is going to be my first time seeing you so I'm just going to take a few seconds here to look through your chart a little bit okay.
+
+PATIENT X412
+Alright.
+
+DOCTOR X412
+Um @@@.  So uh I heard you were in the hospital for a little bit but before that, like when was the last time you saw a family doctor?
+
+PATIENT X412
+Uh the last time I saw a Gen. Med. doctor could have been seven or eight months ago maybe.
+
+DOCTOR X412
+Okay, alright.  Was it here or?
+
+PATIENT X412
+Uh it was at xxx.
+
+DOCTOR X412
+xxx xxx.  Let's see if I can find that information.  Okay, so I understand you have high blood pressure, diabetes.
+
+PATIENT X412
+Uh-huh.
+
+DOCTOR X412
+Um anything else?
+
+PATIENT X412
+High cholesterol.
+
+DOCTOR X412
+Uh-huh.
+
+PATIENT X412
+Uh that's about it.  That's enough.
+
+DOCTOR X412
+@@@.  So you stayed in the hospital for about a day huh?
+
+PATIENT X412
+Yeah.
+
+DOCTOR X412
+What were you doing that they put you in for?
+
+PATIENT X412
+Uh this time depression and substance abuse.  
+
+DOCTOR X412
+Well what kinds of substance abuse did you use?
+
+PATIENT X412
+Cocaine.
+
+DOCTOR X412
+Okay.  When was your last use?
+
+PATIENT X412
+Uh November the 25th.
+
+DOCTOR X412
+Um how much did you use?
+
+PATIENT X412
+About @@@.
+
+DOCTOR X412
+@@@ okay.  Um let's see what about your depression, what does that mean?
+
+PATIENT X412
+Uh at the present I guess it's slowly getting better.
+
+DOCTOR X412
+I'm really glad to hear that.  It's a long process but anything worthwhile, you know it seems to be with depression you need to take small steps okay over a long period of time you will notice an improvement you know.  Uh when were you discharged from the hospital?
+
+PATIENT X412
+Uh actually I was discharged from uh 7 East which is the Psych Unit two days ago.
+
+DOCTOR X412
+That's good.  So who do you live with?
+
+PATIENT X412
+Right now I'm inpatient for substance abuse now.
+
+DOCTOR X412
+Okay is that in @@@.
+
+PATIENT X412
+Yes it is.
+
+DOCTOR X412
+Wonderful.
+
+PATIENT X412
+I'm glad you're happy.
+
+DOCTOR X412
+Um so it sounds like somebody's looking in after you for your substance abuse and depression so I'll try to catch up with them and we'll talk okay.
+
+PATIENT X412
+Okay.
+
+DOCTOR X412
+Do you use @@@?
+
+PATIENT X412
+Yes.
+
+DOCTOR X412
+Okay.  Um let me look through your labs and see how your hemoglobin and sugars are doing.  Hmm.
+
+PATIENT X412
+They've been rising and falling.
+
+DOCTOR X412
+Yes they have.  We'll talk about that in a second.  And according to your blood pressure, have you been checking your blood pressure, of course you haven't been.
+
+PATIENT X412
+Uh yeah they did, on a daily basis.
+
+DOCTOR X412
+Okay.  Give me one more second, okay.  Someone called you and said it was the last time they'd be able to do that for you.
+
+PATIENT X412
+That's correct.
+
+DOCTOR X412
+And @@@ xxx @@@.
+
+PATIENT X412
+I would think uh it was maybe some time in May.
+
+DOCTOR X412
+May the 5th?
+
+PATIENT X412
+Yeah.
+
+DOCTOR X412
+Uh let me look over your medications real quickly here.  So insulin, you use Aspart.  How much before meals?
+
+PATIENT X412
+Uh for breakfast 15 units, lunch 18 units and for dinner 18 units.  
+
+DOCTOR X412
+And the Glargine?
+
+PATIENT X412
+50 units in the morning.
+
+DOCTOR X412
+Let me see the computer list, okay there is it, okay.  And how long @@@ on insulin?
+
+PATIENT X412
+Uh for the most part I've been on that regiment I would like to say, I been on that type of insulin for about two, three years.
+
+DOCTOR X412
+Any break-ins?
+
+PATIENT X412
+The dose really hasn't changed much.
+
+DOCTOR X412
+Over the last three years?
+
+PATIENT X412
+Right.
+
+DOCTOR X412
+Okay.  So you know for me, you know cause it helps me take care of you, how good are you at taking this regimen.  
+
+PATIENT X412
+Uh for the most part uh when I was working and my schedule is erratic I wasn't taking the insulin on a time basis.  Uh taking it a lot of times as needed or just before or after a meal and then at times had to adjust the dosage based upon what my blood sugars were running.
+
+DOCTOR X412
+Okay.
+
+PATIENT X412
+Pretty much.
+
+DOCTOR X412
+Um and I'm looking at your A1c right now.
+
+PATIENT X412
+And that's probably about 10.
+
+DOCTOR X412
+It's 12.
+
+PATIENT X412
+Ooh.  It needs to be about 7.
+
+DOCTOR X412
+Right.  Um your cholesterol is pretty good.  So that was checked and good alright.  So we checked that.  Your blood pressure is a little high.  Now what about your blood pressure medication?
+
+PATIENT X412
+Okay uh at one time I was on lisinopril, hydrochlorothiazide and another blood pressure medication.
+
+DOCTOR X412
+Okay.  So right now you're on just the hydrochlorothiazide and lisinopril.
+
+PATIENT X412
+I need this other blood medication cause it's been running constantly high. Let's see what was it, everything has changed here.  I had been on three medications for years but that's recently been changed and I think they changed it just because I bottomed out at one time.  I bottomed out because of the fact that I was dehydrated.  
+
+DOCTOR X412
+You're a type I diabetic?
+
+PATIENT X412
+Yeah I take insulin.  Uh that's been on uh, that baffles me sometimes.  He said my diabetes was onset after I became an adult.
+
+DOCTOR X412
+Okay.
+
+PATIENT X412
+Uh and @@@ type 2, type 1 meaning my pancreas doesn't produce anything, is that correct?
+
+DOCTOR X412
+Uh not exactly.
+
+PATIENT X412
+Or my body is not regularly using insulin officially.
+
+DOCTOR X412
+@@@.  And @@@ for years, though I only see your hydrochlorothiazide and uh lisinopril, I don't see anything else.
+
+PATIENT X412
+Uh go back to, go back to 2007, amlodipine and before @@@ they changed from something else before amlodipine.
+
+DOCTOR X412
+Yeah @@@.  So are you taking your blood pressure medications regularly?
+
+PATIENT X412
+Yes sir I am.
+
+DOCTOR X412
+Hydrochlorothiazide and the lisinopril?
+
+PATIENT X412
+That's right.  And right it could be high because I'm under constant stress.
+
+DOCTOR X412
+Well let me ask you this question.  Do you think we should add a third agent today or do you want to come back in a few weeks and see if it's still high and then add another?
+
+PATIENT X412
+Uh maybe we need to add that third agent uh and just because I have the diabetes and high blood pressure and stress a predisposition to be having a heart attack.
+
+DOCTOR X412
+Absolutely.  I'm glad you knew that.  Um well how often do you check your sugars during the day?
+
+PATIENT X412
+Uh two times a day.
+
+DOCTOR X412
+Really.
+
+PATIENT X412
+Yeah.
+
+DOCTOR X412
+Do you have a log with you or do you have your machine with you?
+
+PATIENT X412
+No I don't have a machine, oh I use a machine @@@.
+
+DOCTOR X412
+Uh how do you think your sugars have been averaging?
+
+PATIENT X412
+Uh I've been checking them on the Unit with their machine.
+
+DOCTOR X412
+What have they been running, have you been logging it?
+
+PATIENT X412
+No I don't have the log of this but I can tell you uh as of late, I don't think I've been over 230 and uh a lot of times I've been running right around the 150s.  If you check from November 27th on, while I was on 7 East they should have it in there, what they've been running.  Is that it?
+
+DOCTOR X412
+Yeah, I just have to look at your blood sugars.
+
+PATIENT X412
+Look at those @@@.  Can you pull up the blood?
+
+DOCTOR X412
+So I think it's kind of.
+
+PATIENT X412
+You're right.
+
+DOCTOR X412
+No I was looking for the hemoglobin.  So you're going to need something while you're in the hospital right now um but I want to talk about you, just you know to @@@ so much.
+
+PATIENT X412
+Right.
+
+DOCTOR X412
+And that first of all try to do better.
+
+PATIENT X412
+xxxefit @@@.
+
+DOCTOR X412
+Um.
+
+PATIENT X412
+If I feel low there or something could you schedule something?
+
+DOCTOR X412
+@@@ and pulling you into the port.
+
+PATIENT X412
+Oh.
+
+DOCTOR X412
+@@@ during the day.  It's 10 o'clock in the morning.
+
+PATIENT X412
+Oh you know what I'm concerned about, I'm supposed @@@ I could take it at nighttime and then when I wake up in the morning it's higher.
+
+DOCTOR X412
+Uh-huh.
+
+PATIENT X412
+I could take it at night, 9 at night and then when I take it at 6 in the morning it'll be significantly higher.
+
+DOCTOR X412
+You're sure.
+
+PATIENT X412
+Yeah.
+
+DOCTOR X412
+@@@, your body's going to use more insulin and it could be @@@.  Alright give me one second um, there's a lot of stuff we could do for you.  Um I'm not sure we're going to be able to get it all done but, give me one sec I'm going to bring you back within a month or two again so we can try to fine tune some of this stuff okay.
+
+PATIENT X412
+Okay.
+
+DOCTOR X412
+Alright.  I'll be right back okay.
+
+PATIENT X412
+Alright.
+
+(DOCTOR OUT:  49:35  DOCTOR IN:  52:26)
+
+DOCTOR X412
+Alrighty, so a couple of things.  Um I want to show this to you real quick uh, let's see here, so hmm.  Now this is your A1c and you can date it back to 1989 12, 10, 11, 11, 12, 11, almost 12, 12.  So going back 10 years basically your sugars have not been controlled.
+
+PATIENT X412
+Okay.
+
+DOCTOR X412
+Um I mean I know you've had some numbness already in your arms.
+
+PATIENT X412
+Uh-huh I've had a lot lately, ever since I've been taking the @@@.  I guess for a while, cause I haven't had pain @@@ a lot.
+
+DOCTOR X412
+I'm really glad to hear that um but um uh I have to tell you with levels of sugars in your body it won't be long before you start feeling more effects of your diabetes.  Your kidney function is okay right now but your kidneys can get shot up, you're right to worry about heart attacks, you're right to worry about strokes um, @@@ ulcers right.  We can work on this uh, if you need help we can probably get your sugar, there is no reason @@@ why you can't bring your blood sugar down very rapidly to a more control.
+
+PATIENT X412
+Okay.
+
+DOCTOR X412
+Uh so but you know I really am willing to help you along this process but again I'm helping you, I can't do it for you okay.  I just want to make it abundantly clear that these levels for ten years like this are completely unacceptable for a person on insulin uh.  If you're willing to do it, if we work together, within months your sugars could be much better okay.  Alright.  So right now I'm going to give you the Accu-Chek machine, all the supplies and have you keep a log and bring the machine back in basically so I can look at the sugars.  You need to check it at least three times a day, always in the morning and then the two other times can fluctuate.  Sometimes before meals, sometimes after meals but you have to note in your chart when it is.  Is it before meals or after meals.
+
+PATIENT X412
+Okay.
+
+DOCTOR X412
+Okay.  Uh I'm not going to change anything with the insulin today because I'm concerned that I have better data to when I should change your insulin okay.
+
+PATIENT X412
+Okay.
+
+DOCTOR X412
+Uh but if you're getting low blood sugars consistently let us know right away so we can back off on your 60 units of Glargine or whatever, your Aspart okay.
+
+PATIENT X412
+Okay.
+
+DOCTOR X412
+That's uh high sugars.  The high blood pressure, we'll add a tiny bit of amlodipine for you today, it's a really small amount, 2.5 okay.
+
+PATIENT X412
+Okay.
+
+DOCTOR X412
+So you can take it once a day and see how it goes.  I'm bringing you back in two weeks to see the @@@.
+
+PATIENT X412
+Okay.
+
+DOCTOR X412
+And we'll see what your sugars do.  
+
+PATIENT X412
+Uh I'm concerned; I'm concerned because uh I've had lichen planus.
+
+DOCTOR X412
+Uh-huh.
+
+PATIENT X412
+And right now I have two stubborn areas, right here.
+
+DOCTOR X412
+Uh-huh.
+
+PATIENT X412
+And well this area is not that bad but uh and uh.
+
+DOCTOR X412
+How long does it usually take for that to heal for you?
+
+PATIENT X412
+Okay if I get a shot of uh, what is that, I can't think of the name of the stuff right now, I don't know what it is.  Uh.
+
+DOCTOR X412
+Have you seen Derm recently?
+
+PATIENT X412
+I haven't seen Derm in a while.
+
+DOCTOR X412
+How long ago?
+
+PATIENT X412
+I haven't seen Derm probably here in a year.
+
+DOCTOR X412
+Okay, let's send you back to them and have them take a look at it okay.
+
+PATIENT X412
+Okay and uh and my eyes.
+
+DOCTOR X412
+Okay I'll send you back up to Ophtho and Podiatry as well alright.  Alright um two weeks @@@.
+
+PATIENT X412
+Oh I forgot to tell you I had an aneurysm in my left eye last year.
+
+DOCTOR X412
+Okay.  So we can, you'll see me back in two months.  I'll put in a consult for you so that you see the eye doctors, Dermatology and the foot doctors.
+
+PATIENT X412
+Okay.
+
+DOCTOR X412
+Alright but uh the amlodipine is the only thing I'm changing today and continue everything else.
+
+PATIENT X412
+I think that's appropriate.  So I'll see you back in.
+
+DOCTOR X412
+Two months.
+
+PATIENT X412
+Two months okay.
+
+DOCTOR X412
+Thank you sir.
+
+PATIENT X412
+Alright thank you.  Do I just go to the Pharmacy and pick up the amlodipine?
+
+DOCTOR X412
+Um go up front so they make that appointment for you um.
+
+PATIENT X412
+Uh-huh.
+
+DOCTOR X412
+And then after that pick up the supplies for your Accu-Chek and the amlodipine.
+
+PATIENT X412
+Okay thanks.
+
+PATIENT LEAVES:  58:03
+
+10:25.
+
+
+

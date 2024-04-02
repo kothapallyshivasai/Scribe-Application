@@ -1,0 +1,1097 @@
+
+DOCTOR X364
+Patient?  We'll go this way.  How you doing today?
+
+PATIENT X364
+Good.
+
+DOCTOR X364
+Good.  So how are things going?  I haven't seen you in a while.
+
+PATIENT X364
+Yeah.
+
+DOCTOR X364
+Good, good.  So you @@@.  Would you like to sit here?
+
+PATIENT X364
+That's okay. 
+ 
+DOCTOR X364
+There's a chair.  You're welcome to.
+
+PATIENT X364
+That's alright.
+
+DOCTOR X364
+Oh you're doing a @@@, is it new?
+
+PATIENT X364
+It could be @@@.
+
+DOCTOR X364
+Okay.  But no muscle twitch or does it happen, oh it's @@@.
+
+PATIENT X364
+Yeah anyway.  @@@.  Really that's @@@.
+
+DOCTOR X364
+I'm sorry.  Is there any pain or tingling with that?
+
+PATIENT X364
+Yeah.
+
+DOCTOR X364
+There is.  So have you seen a neurologist?  About it, no.  Probably just kind of a nerve issue.  Yeah.
+
+PATIENT X364
+You know I didn't think to just ask you, no I don't want to go see a neurologist.
+
+DOCTOR X364
+Okay, no I know.  I could ask you you're right.  Okay otherwise things are going pretty well?
+
+PATIENT X364
+Yeah.
+
+DOCTOR X364
+How are the blood sugars doing?
+
+PATIENT X364
+Good uh, I didn't take it this morning @@@.
+
+DOCTOR X364
+Yeah.  Are you taking it most days?
+
+PATIENT X364
+No I take it about three times a week.
+
+DOCTOR X364
+And what time do you usually take it?  In the morning?
+
+PATIENT X364
+About once a day, sometimes in the morning, sometimes I'll check it in the afternoon or sometimes at night.
+
+DOCTOR X364
+Right what are your normal values?  In the morning?
+
+PATIENT X364
+In the morning?
+
+DOCTOR X364
+Yeah.
+
+PATIENT X364
+Well maybe between anywhere between 145 or so and 80.
+
+DOCTOR X364
+Oh down to 80 okay.  Well that's pretty good.
+
+PATIENT X364
+Today it's in the 120s.
+
+DOCTOR X364
+Okay.
+
+PATIENT X364
+@@@.
+
+DOCTOR X364
+What about later in the day, pretty well controlled or a little higher?
+
+PATIENT X364
+About 150-160s.
+
+DOCTOR X364
+Not bad at all.
+
+PATIENT X364
+Yeah it's come down quite a bit.
+
+DOCTOR X364
+It has I remember the last time it was.
+
+PATIENT X364
+@@@.
+
+DOCTOR X364
+Yeah it was 300 in my last note so that's terrific um and then blood pressures are you taking the blood pressures?
+
+PATIENT X364
+Oh yeah.
+
+DOCTOR X364
+How much are you getting for that?
+
+PATIENT X364
+@@@.
+
+DOCTOR X364
+What are you getting for the blood pressures sorry?
+
+PATIENT X364
+Right uh to control it?
+
+DOCTOR X364
+No I'm sorry the numbers when you take it at home.
+
+PATIENT X364
+Oh they just took it, it was like uh.
+
+DOCTOR X364
+Yeah I got your values here which was perfect.
+
+PATIENT X364
+Yeah.
+
+DOCTOR X364
+Are you taking it at home with your own cuff?
+
+PATIENT X364
+Yeah, yeah every now and then.
+
+DOCTOR X364
+And what do you normally get when you take it?
+
+PATIENT X364
+I think it was about two weeks ago.
+
+DOCTOR X364
+Let's have you take it a little more frequently, maybe let's say you take your blood pressures three times a week or so.
+
+PATIENT X364
+Really?
+
+DOCTOR X364
+Yeah see what you're running at home.  We have you on blood pressure medicine I'd like to make sure you're controlled.
+
+PATIENT X364
+Oh alright.
+
+DOCTOR X364
+It looks good but I have faith that it's probably good at home too but let's see what you're running at home.
+
+PATIENT X364
+I never checked it @@@ take it once a month.
+
+DOCTOR X364
+Right okay.
+
+PATIENT X364
+@@@.
+
+DOCTOR X364
+So let's change that.
+
+PATIENT X364
+Yeah that'd be cool to do that.
+
+DOCTOR X364
+Okay.
+
+PATIENT X364
+Yeah so you have an idea you know.
+
+DOCTOR X364
+Yeah if you have a cuff you may as well.  Write down what you get next time when you're writing down your blood sugars.
+
+PATIENT X364
+Okay.
+
+DOCTOR X364
+And keep track that way.  Now how are you doing on the smoking?
+
+PATIENT X364
+Still smoking.
+
+DOCTOR X364
+One pack a day still?
+
+PATIENT X364
+Yeah I think it's still @@@.
+
+DOCTOR X364
+Same.
+
+PATIENT X364
+Yeah you know yeah.
+
+DOCTOR X364
+Um have you any interest in quitting, no?  Okay.  Any particular reason why not?  Can I help you a little get motivated?  A little?
+
+PATIENT X364
+It's really not a @@@.  I like to @@@ and I enjoy it.
+
+DOCTOR X364
+Uh-huh.
+
+PATIENT X364
+I think @@@.
+
+DOCTOR X364
+Yeah.
+
+PATIENT X364
+You know.
+
+DOCTOR X364
+Yeah no I mean I understand that, it's just important to know that especially with the diabetes it's um, it kind of compounds the diabetes and causes a lot of issues with the heart, the kidneys and we see a lot of things like that like amputations and infections, things like that all the time.  (Doctor takes a phone call).  I'm just going to put something in real quick.  Sorry.  How about alcohol?  How much are you drinking?
+
+PATIENT X364
+@@@.
+
+DOCTOR X364
+Um a couple times a week?
+
+PATIENT X364
+No.
+
+DOCTOR X364
+Every day, not even, okay.  Any other drugs besides medicine?  Okay.  And @@@ for this?  Is it at xxx?  Um in terms of medication, I've got you on the citalopram once a day and the diltiazem still just the once a day.  The stool softener twice a day, not taking that.  Do you want me to take it off your list?
+
+PATIENT X364
+They only gave me that stuff @@@.
+
+DOCTOR X364
+Oh that's why so I'll take that off.  You don't want to get it?
+
+PATIENT X364
+No, no.
+
+DOCTOR X364
+Alright.
+
+PATIENT X364
+What medicine makes me fall asleep?
+
+DOCTOR X364
+Uh gabapentin.  Do you take two pills every eight hours?  Three times a day?
+
+PATIENT X364
+Yeah.  @@@.  But I can't take it every eight hours.  Especially when I don't even eat breakfast.  @@@.
+
+DOCTOR X364
+So you want @@@.
+
+PATIENT X364
+It seems like I have to get up in the morning you should eat @@@.
+
+DOCTOR X364
+Okay.
+
+PATIENT X364
+@@@.
+
+DOCTOR X364
+Right.
+
+PATIENT X364
+So I take two in the morning, one at noon, one in the evening and two at bedtime.
+
+DOCTOR X364
+That's fine.
+
+PATIENT X364
+Is that alright?
+
+DOCTOR X364
+Yeah that's fine.  Are you feeling okay from the diabetic pain, with the burning pain?
+
+PATIENT X364
+No, not really.
+
+DOCTOR X364
+It's not helping at all?
+
+PATIENT X364
+No, never has, it never has.  @@@.
+
+DOCTOR X364
+What if we increase your dose then?  We have the room.
+
+PATIENT X364
+@@@ six years ago.
+
+DOCTOR X364
+Well if it's not helping there's no point in keeping it up.  We can either increase the dose or we can taper you off I mean.  If you want to keep trying it, if the diabetic pain is bothering you then I suggest.
+
+PATIENT X364
+@@@ every day.  It has been for years.
+
+DOCTOR X364
+Yeah but that's why we might try to control it with this medication or we could try a different medication if you want.
+
+PATIENT X364
+@@@.  I told my doctor to take me off it in the hospital.  @@@ last four or five years you know.
+
+DOCTOR X364
+Is it bothering you a lot the pain, the diabetes pain?
+
+PATIENT X364
+Yeah.  @@@ seems like a coal-burning pain you know with pain radiating this and that @@@.
+
+DOCTOR X364
+Why don't we increase your dose, do you want to try it?  Why don't we try it and tell me if it works and if so then we'll change it.  Try taking, uh try taking three in the morning, three at lunch, three at night.  You willing to do that?  What do you think?  That's a lot more regular.  The maximum dose per day which I think is quite high for uh gabapentin.  @@@.
+
+PATIENT X364
+Okay.
+
+DOCTOR X364
+(Doctor answers a page)  Alright, now wait I need to see, I think the maximum dose is probably, yeah it is @@@ pills per day.  So you take 900, we've got you on; if this doesn't work we'll try something else.  We'll taper you off it.  Two capsules, so take three capsules so 900 mg morning and at night.  So you still have @@@ that way?  
+
+PATIENT X364
+Yeah.
+
+DOCTOR X364
+Let me change the order.  So if you start running out I'm putting in more refills for you right now.  And we'll give that a try and we'll see how we do.  @@@.  Are you still taking it twice a day for pain or not anymore?  The ibuprofen?
+
+PATIENT X364
+I don't take it anymore.
+
+DOCTOR X364
+Okay that's fine.
+
+PATIENT X364
+I just take it if I need it.
+
+DOCTOR X364
+That's absolutely fine.
+
+PATIENT X364
+I don't take it unless I need it.
+
+DOCTOR X364
+That's actually even better.  Um and then your thyroid medication you take one per day.
+
+PATIENT X364
+Yeah.
+
+DOCTOR X364
+And then the lisinopril one per day.  Do you have a multivitamin?  Um omeprazole.
+
+PATIENT X364
+Omeprazole what's that for?
+
+DOCTOR X364
+For the GERD for the acid reflux.
+
+PATIENT X364
+Yeah.
+
+DOCTOR X364
+Do you take it once a day in the morning?
+
+PATIENT X364
+Yeah.
+
+DOCTOR X364
+Okay.
+
+PATIENT X364
+I take two of them every morning.
+
+DOCTOR X364
+That's perfect and the pravastatin 1/2 per day for cholesterol at bedtime?
+
+PATIENT X364
+Yes.
+
+DOCTOR X364
+Taking that one still.  Trazodone for sleeping okay and then I have you on some triamcinolone ointment.  Oh we gave you that you had a rash right, has it helped a little bit?
+
+PATIENT X364
+No not really.
+
+DOCTOR X364
+No.  You gonna be seeing the Derm people again?
+
+PATIENT X364
+I don't know.  You know I changed my @@@.
+
+DOCTOR X364
+Oh good, maybe that would @@@ a little bit.  So.
+
+PATIENT X364
+I remember it seems like @@@.  I think it's more and then it goes away.
+
+DOCTOR X364
+Oh that's kind of weird.
+
+PATIENT X364
+@@@.
+
+DOCTOR X364
+Yeah.  Uh how about the bupropion, two tablets a day?
+
+PATIENT X364
+Yeah.
+
+DOCTOR X364
+Are you on the bupropion okay and buspirone you take for anxiety two tablets three times a day okay.  And then the glipizide for the diabetes two tablets twice a day.
+
+PATIENT X364
+Right.
+
+DOCTOR X364
+And metformin one tablet twice a day.
+
+PATIENT X364
+Uh-huh.
+
+DOCTOR X364
+Anything that I missed?
+
+PATIENT X364
+I don't think you missed @@@.
+
+DOCTOR X364
+Want another one?
+
+PATIENT X364
+@@@ still take it.
+
+DOCTOR X364
+Yeah.  You can buy it over-the-counter but it's cheaper for you here, to get your refills here.  Then at least you can get it right here.  It's been a while since you've got that one it looks like.
+
+PATIENT X364
+@@@.
+
+DOCTOR X364
+Yeah.  Do you take a baby aspirin?
+
+PATIENT X364
+Yeah.  I get @@@.
+
+DOCTOR X364
+No that's good; it's a good thing to do.  It protects your heart.  It's a good remedy.  Why don't we just mail it to you is that okay?
+
+PATIENT X364
+Yeah.
+
+DOCTOR X364
+Okay that's @@@.  It doesn't look like you've had any blood work done in the Lab.  I did some blood work in January.  We did some blood work in November and everything looked pretty good actually.  Your cholesterol.  We should probably get some more blood work on you.  November, so it's been at least six months um and the cholesterol at that time was just a tad high and the diabetes value was also quite high.
+
+PATIENT X364
+Yeah.
+
+DOCTOR X364
+The diabetes value.
+
+PATIENT X364
+Okay.
+
+DOCTOR X364
+So that's a measurement of your average sugars over about three months.  So that we can check how your diabetes control is.  At that time it was pretty high but I'm thinking that now you're um.
+
+PATIENT X364
+@@@.
+
+DOCTOR X364
+I'm sorry?  The hemoglobin A1c.
+
+PATIENT X364
+Yeah okay.
+
+DOCTOR X364
+Yeah that's the value.
+
+PATIENT X364
+What was it?
+
+DOCTOR X364
+It was 10.5 and the goal is less than 7 but with your sugars being better controlled now, I'm gonna guess that it's probably better.  Did you eat breakfast this morning?
+
+PATIENT X364
+Yes.
+
+DOCTOR X364
+You did.  Are you able to come back to the VA in the next few weeks?  Would you be, are you going to be back for something else?
+
+PATIENT X364
+@@@.
+
+DOCTOR X364
+Yeah um is it difficult for you to get here?
+
+PATIENT X364
+@@@.
+
+DOCTOR X364
+@@@.  
+
+PATIENT X364
+Yeah.
+
+DOCTOR X364
+Okay.  Well I'm willing to get, I'm willing to get them in September that's okay if you want to do that.
+
+PATIENT X364
+Yeah @@@.
+
+DOCTOR X364
+Well when you come for that appointment then uh let's see, September 12th, fast and we'll check your labs, is that gonna be hard.  It's at 10 a.m.  Is that okay if you don't eat breakfast that day?  Just bring a snack for after your appointment.  So fast, you can eat dinner but then after that no more food and then we'll do cholesterol that day.
+
+PATIENT X364
+Okay.
+
+DOCTOR X364
+And we'll get your other tests then too.
+
+PATIENT X364
+Okay.  @@@.
+
+DOCTOR X364
+Right and we'll see how your diabetes control is doing then.  We'll draw the labs then okay.  I want to do an exam here.  Your blood pressure was good right?
+
+PATIENT X364
+Uh-huh.
+
+DOCTOR X364
+Okay.  I'm just gonna pull you back a little bit more.  Lean forward just a tad for me.  A couple deep breaths.  Okay go ahead and lay back; I'll feel your belly.  Bowel movements have been normal for you?  Did you fall?
+
+PATIENT X364
+Huh?
+
+DOCTOR X364
+You have a little cut on your head.
+
+PATIENT X364
+Yeah.
+
+DOCTOR X364
+What was that from?
+
+PATIENT X364
+My comb.
+
+DOCTOR X364
+From what?
+
+PATIENT X364
+My comb.
+
+DOCTOR X364
+I'm sorry.
+
+PATIENT X364
+My comb.
+
+DOCTOR X364
+Oh your comb.
+
+PATIENT X364
+Yeah.
+
+DOCTOR X364
+Oh gosh.  What comb?
+
+PATIENT X364
+Yeah I @@@.  Sometimes I forget @@@.  I do it real fast you know.
+
+DOCTOR X364
+What is this from?
+
+PATIENT X364
+Because I fell.
+
+DOCTOR X364
+Oh you did fall there?  When did you fall?
+
+PATIENT X364
+About a week ago.
+
+DOCTOR X364
+What happened?  Was it just lost your balance or?
+
+PATIENT X364
+No, no I uh someone pushed me.
+
+DOCTOR X364
+Uh-huh.
+
+PATIENT X364
+And I was going down this @@@.
+
+DOCTOR X364
+Oh @@@.
+
+PATIENT X364
+@@@.
+
+DOCTOR X364
+Did you see anybody about that?
+
+PATIENT X364
+What this?
+
+DOCTOR X364
+Yeah.
+
+PATIENT X364
+Yeah, yeah.
+
+DOCTOR X364
+You don't have any pain in your knee do you?
+
+PATIENT X364
+Yeah it's sore.
+
+DOCTOR X364
+Okay.
+
+PATIENT X364
+It's sore, just sore.
+
+DOCTOR X364
+Yeah.  I just want to make sure that you didn't break anything.
+
+PATIENT X364
+No.
+
+DOCTOR X364
+Okay alright.  Take good care of these guys.
+
+PATIENT X364
+Right.
+
+DOCTOR X364
+It looks like we got some healing but that one's still open.
+
+PATIENT X364
+Uh-huh.
+
+DOCTOR X364
+Right on the front of the knee there.  Make sure you're watching that.  Um a little Neosporin too if you have some, put on there.  Neosporin or Bacitracin is fine.
+
+PATIENT X364
+@@@.
+
+DOCTOR X364
+That's fine.
+
+PATIENT X364
+@@@.
+
+DOCTOR X364
+Um just so we don't see an infection around it yeah.  Sorry.  Make sure you're cleaning out between your toes.
+
+PATIENT X364
+I'm getting @@@.
+
+DOCTOR X364
+Because they get linty.  Pretty good keeping the nails clipped here.  Yeah so we'll do the sensation test okay.  Close your eyes for me, do you feel this okay?  Anything?
+
+PATIENT X364
+No.
+
+DOCTOR X364
+Tell me when you feel it.  Anything?
+
+PATIENT X364
+Maybe a little.
+
+DOCTOR X364
+Okay.  Alright so not much sensation in the foot there.
+
+PATIENT X364
+@@@.
+
+DOCTOR X364
+Sorry.
+
+PATIENT X364
+Seems like if I stub my toe or something I feel it.
+
+DOCTOR X364
+You can feel it okay.  @@@ everything look okay there?  Looks like you had a little @@@ here.  @@@ okay.  A little spot over there, a little @@@.
+
+PATIENT X364
+Yeah but that was from itching.
+
+DOCTOR X364
+Oh okay.  Okay good.  @@@ did you say you wear those?
+
+PATIENT X364
+No.
+
+DOCTOR X364
+Okay.  
+
+PATIENT X364
+@@@.
+
+DOCTOR X364
+Really, why?
+
+PATIENT X364
+Because this leg won't straighten out.
+
+DOCTOR X364
+Yeah.
+
+PATIENT X364
+But.  This let won't straighten out so I wouldn't be able to walk anyway.
+
+DOCTOR X364
+Can you @@@ with them?
+
+PATIENT X364
+No.
+
+DOCTOR X364
+Huh.
+
+PATIENT X364
+@@@.
+
+DOCTOR X364
+Huh.
+
+PATIENT X364
+@@@.  
+
+DOCTOR X364
+Right.
+
+PATIENT X364
+I went from a cane to a walker to a wheelchair and that's how @@@.  I needed it.
+
+DOCTOR X364
+Oh for the right knee.
+
+PATIENT X364
+Yeah.
+
+DOCTOR X364
+Okay.
+
+PATIENT X364
+@@@.
+
+DOCTOR X364
+I'm sorry @@@.
+
+PATIENT X364
+@@@.
+
+DOCTOR X364
+So um.
+
+PATIENT X364
+@@@.
+
+DOCTOR X364
+Right okay.  So um did you end up getting your colonoscopy done?
+
+PATIENT X364
+No.
+
+DOCTOR X364
+Why, what happened?
+
+PATIENT X364
+@@@.
+
+DOCTOR X364
+You don't have the @@@?
+
+PATIENT X364
+Yeah I couldn't picture myself sitting in the bathroom all day.
+
+DOCTOR X364
+Did they call you and try to schedule it?  @@@.
+
+PATIENT X364
+And I have to do that carefully @@@.
+
+DOCTOR X364
+@@@ no.
+
+PATIENT X364
+To me, @@@ in a wheelchair jump up to go to the bathroom you most of the time it's just not easy.
+
+DOCTOR X364
+I know but it is only the one day.
+
+PATIENT X364
+You know.
+
+DOCTOR X364
+It's only one day and then you get it done, probably for ten years.  That's the good thing about the colonoscopy.  Every @@@ ten years.  Do you want to think about it?
+
+PATIENT X364
+Can't do it.
+
+DOCTOR X364
+I'll bring it up next time you're here.
+
+PATIENT X364
+@@@.
+
+DOCTOR X364
+I know and it's a terrible day.  I'm not gonna lie to you.  People do not like the prep because it's uncomfortable; you're in the bathroom most of the day.  You can go schedule it and sometimes they'll get 15 on a Monday because it's a Sunday and obviously you're on, get everything done, get it on a Monday and then you're done with it.  Um but then it's all finished so then it's one day that's terrible.  So think about it.
+
+PATIENT X364
+Life is terrible for me for real.
+
+DOCTOR X364
+Oh I know.
+
+PATIENT X364
+Put me down in a wheelchair @@@.
+
+DOCTOR X364
+You need one though.
+
+PATIENT X364
+Yeah.
+
+DOCTOR X364
+@@@.  So.  Did we talk about it last time about having a Living Will or a document that states what you would want to have anything?
+
+PATIENT X364
+I have that.
+
+DOCTOR X364
+You do have one okay.
+
+PATIENT X364
+Yeah, yeah.
+
+DOCTOR X364
+Does somebody in your family know what your wishes are?
+
+PATIENT X364
+Yeah.
+
+DOCTOR X364
+About your Living Will?  Uh we talked about the falls but it sounds like it's sort of wheelchair related.
+
+PATIENT X364
+Yeah.
+
+DOCTOR X364
+Yeah when you fall.
+
+PATIENT X364
+Oh yeah.
+
+DOCTOR X364
+You're not having falls because you're getting lightheaded or anything like that though?  We are recommending to everybody that they get an HIV screening test, even if you have no risk factors.  Um if you like decline it that's fine but we encourage people to just get it on record um and then if it's negative you're done unless you want it again.  So I can fill it in for your next blood work, if you don't want it that's okay too.
+
+PATIENT X364
+Doesn't matter to me, I @@@.
+
+DOCTOR X364
+You can get it through the other ways or it can be.
+
+PATIENT X364
+Okay go ahead and take it.
+
+DOCTOR X364
+@@@.  I'll put it on with your next lab.  It's just one more thing.  And we talked about, I'll bother you about smoking again next visit I mean so don't worry I won't forget.
+
+PATIENT X364
+Yeah I know that.  I understand.
+
+DOCTOR X364
+We do have a lot of things that people can use to um to help out if they do want to quit um.  Let's see @@@.  So just let me know if the thought ever crosses your mind that you may want some assistance or you may want to cut back or anything.
+
+PATIENT X364
+Yeah.
+
+DOCTOR X364
+Um so let me fill the rest of your blood work in for September 17th, okay yeah.  
+
+PATIENT X364
+@@@.
+
+DOCTOR X364
+Yeah.  So we'll check the lipids and we'll check the cholesterol.  You're following fairly regularly with the Mental Health folks right?
+
+PATIENT X364
+@@@.
+
+DOCTOR X364
+And they wanted you to stay on all the same medications and they didn't make any changes this morning right?
+
+PATIENT X364
+No.
+
+DOCTOR X364
+Okay.
+
+PATIENT X364
+@@@.
+
+DOCTOR X364
+Oh they did.  @@@.  Okay.  I think that's all I wanted to go over.  Is there anything else you wanted to bring up today?
+
+PATIENT X364
+@@@ refills in.
+
+DOCTOR X364
+The prazosin, somebody refilled it, you've got refills now.
+
+PATIENT X364
+Okay.
+
+DOCTOR X364
+I'm just gonna @@@.  Trazodone is only one, I'll renew that one.  Let's see somebody else did that already.
+
+PATIENT X364
+Yeah @@@.
+
+DOCTOR X364
+Yeah it looks like he refilled all those and I just refilled the aspirin and we changed your dose of gabapentin so that one has refills um.  Everything else, you only have two of @@@, let me refill that one.  So everything else looks good.  @@@ find something for your @@@.  Um.
+
+PATIENT X364
+@@@.
+
+DOCTOR X364
+Uh-huh.  Alright so we talked about the diabetes, we talked about your high blood pressure; everything else seems to be going really well.  Um unless there's anything else, I don't think we'll need anything until your next visit.  Just the gabapentin and we're giving you @@@ some aspirin.
+
+PATIENT X364
+Cool.
+
+DOCTOR X364
+Start taking your blood pressure and keep the log for me okay.  Even just three times a week is fine.  A couple times a week just so I can see what you're running when you're at home alright.
+
+PATIENT X364
+@@@.
+
+DOCTOR X364
+@@@.
+
+PATIENT X364
+Yeah that way maybe I can keep my blood sugar.
+
+DOCTOR X364
+Yeah that's fine or I mean if it's @@@ you remember I'm fine with that.  So next time you come back me in another six months and we're gonna get labs in September and you know to fast before you come to your appointment in September though.  Otherwise I mean just the gabapentin and remember now it's gonna be, your new prescription when you get the new batch will say it so now you know you can take three pills in the morning, three with the lunch and three in the evening.  If that doesn't help, if that still doesn't help at all then call me.  Call the clinic and then we'll taper you down and get it off because it looks like you've been on the medication and it's doing nothing then we'll try something else.
+
+PATIENT X364
+@@@ next week.
+
+DOCTOR X364
+But it's something that's bothering you at night a little bit.
+
+PATIENT X364
+But I don't really do anything @@@.
+
+DOCTOR X364
+It's from nerve pain.
+
+PATIENT X364
+@@@.
+
+DOCTOR X364
+It's not a physical pain medication but we have some other medications that work for nerve pain also.  Um so if that one doesn't work for you we'll get you off of it.  Cause there's no point in your taking nine pills a day if it's doing nothing.
+
+PATIENT X364
+Yeah.
+
+DOCTOR X364
+I don't like doing that to people.  But having you on this increased dose, see if that makes a difference at all okay.  And otherwise you're doing well on your diet.  Sounds like your sugars have been much better than they were.
+
+PATIENT X364
+@@@.
+
+DOCTOR X364
+Which I'm very pleased about.  I'm very pleased about.  Um so in September we'll see how that control is if it reflects on the hemoglobin A1c and make any changes that we need to at that time.
+
+PATIENT X364
+@@@.
+
+DOCTOR X364
+Good.
+
+PATIENT X364
+@@@.
+
+DOCTOR X364
+Good.  Lots of fresh vegetables are good um. 
+
+PATIENT X364
+@@@.
+
+DOCTOR X364
+Here's how I eat a kiwi.
+
+PATIENT X364
+You peel it?
+
+DOCTOR X364
+No.  Peeling kiwi is really hard.  What I like to do is once it's ripe or a little bit soft, cut it down the middle where it's like so that when it's an oval.
+
+PATIENT X364
+Yeah.
+
+DOCTOR X364
+You cut it down the middle like this.  So you have two little halves.
+
+PATIENT X364
+Right.
+
+DOCTOR X364
+And then like eat it with a spoon.  Out of the skin.
+
+PATIENT X364
+Okay.
+
+DOCTOR X364
+You know cause I have a lot of trouble peeling them.  They're great @@@ and they're @@@.  They have more potassium than bananas and they have more vitamin C than oranges.
+
+PATIENT X364
+@@@.
+
+DOCTOR X364
+Uh-huh yeah.
+
+PATIENT X364
+So yeah @@@.
+
+DOCTOR X364
+Cut it down the middle and then eat out of the skin.  If it's ripe it'll come out just right.
+
+PATIENT X364
+@@@.
+
+DOCTOR X364
+Really, really.
+
+PATIENT X364
+@@@.  Strawberry soup you know.
+
+DOCTOR X364
+But not real @@@.  They're pretty good and they are good for you so remember not too much fresh fruit cause it does increase your sugar.
+
+PATIENT X364
+It does?
+
+DOCTOR X364
+Yeah so they're one of the natural sugars.
+
+PATIENT X364
+Oh.
+
+DOCTOR X364
+They can hike up your sugars a little bit so just stay maintaining your sugars, just don't eat the other fresh fruits.
+
+PATIENT X364
+That's what I'm doing @@@.
+
+DOCTOR X364
+So that's going to be @@@ for you.  Try to do fresh vegetables.  Make @@@ okay.
+
+PATIENT X364
+Well thank you doctor.
+
+DOCTOR X364
+You are welcome.  Good seeing you.  @@@ you know.  @@@ okay.
+
+PATIENT LEAVES AT:  88:49.
+
+Time is 12:35.
+
+
+
+

@@ -1,0 +1,413 @@
+
+DOCTOR X144
+Nice to meet you, how you doing?
+
+PATIENT X144
+Hmm, I'm doing alright.  @@@
+ 
+DOCTOR X144
+Just have a seat over there.  I understand you saw DOCTOR a few days ago?  
+
+PATIENT X144
+Yes.
+
+DOCTOR X144
+A few days ago, um and she diagnosed with plantar fasciitis.
+
+PATIENT X144
+Uh I actually knew that before.
+
+DOCTOR X144
+Okay and it flared up?
+
+PATIENT X144
+Uh it was bothering me so I went in and asked her to see if there's anything else to be done with it.
+
+DOCTOR X144
+Okay.
+
+PATIENT X144
+Here's the original x-rays and report on it.
+
+DOCTOR X144
+Okay, I kind of reviewed them already, thanks for bringing them in.  Um now when would you say you have your pain?
+
+PATIENT X144
+Whenever I try to pick the foot up.  I mean I try and walk on the ball of the foot.  Every time I take a step it feels like there's a balloon in the heel.
+
+DOCTOR X144
+Okay.
+
+PATIENT X144
+And it crushes.
+
+DOCTOR X144
+Alright so let me examine you.  You know what I'd like to do is send you to see Podiatry to see if there is something.
+
+PATIENT X144
+I already have an appointment August 2nd.
+
+DOCTOR X144
+Alright so they may be the ones to kind of help do the best and they might be able to give you a special shoe and also get x-rays and discussions and things and they'll go over all this stuff with you too.  Otherwise, it looks like you've never really been here in the system.
+
+PATIENT X144
+No.
+
+DOCTOR X144
+Okay.  So I do have a few questions just to kind of go over and make sure we cover everything else.  We're going to repeat your blood pressure too; it was almost a little high.
+
+PATIENT X144
+Okay.
+
+DOCTOR X144
+Um do you have any past medical history that you know of or that a doctor has ever told you about or anything like that?
+
+PATIENT X144
+No I've had the first right rib taken out.
+
+DOCTOR X144
+Okay.  Um and then are you a drinker or smoker?
+
+PATIENT X144
+No.
+
+DOCTOR X144
+Have you ever been in the past?
+
+PATIENT X144
+Um when I was 7, 8 years old I was smoking.
+
+DOCTOR X144
+So when did you quit?
+
+PATIENT X144
+When I was like eight years old.
+
+DOCTOR X144
+How much did you smoke?
+
+PATIENT X144
+Probably 2-3 cigarettes a day at that time.
+
+DOCTOR X144
+The reason why I ask is we need to see if we need to run some tests to see @@@ arteries.  How long did you smoke, a year, two years?
+
+PATIENT X144
+Yeah probably a year.  It was the excitement stealing them from my brothers and sisters and I never really had any alcohol issue.
+
+DOCTOR X144
+Any street drugs?
+
+PATIENT X144
+No.
+
+DOCTOR X144
+Have you ever used @@@?
+
+PATIENT X144
+No.
+
+DOCTOR X144
+@@@.
+
+PATIENT X144
+Uh my mom and dad are both deceased.  Um.
+
+DOCTOR X144
+@@@.
+
+PATIENT X144
+Uh my father just got old and his body gave out on him.  My mother uh, that cause they don't know.  I know she fell and hurt her knee.
+
+DOCTOR X144
+Uh-huh.
+
+PATIENT X144
+And I took it as an embolism cause when I got back the doctor said he was talking to her, he turned to write on her chart and when he turned back she was dead.
+
+DOCTOR X144
+No problem.  Have you ever had a colonoscopy?
+
+PATIENT X144
+No.
+
+DOCTOR X144
+No.
+
+PATIENT X144
+No.
+
+DOCTOR X144
+I highly recommend it.  You don't have do it but it's one of those things I @@@.  So they give you a bunch of labs to order for that okay.  And that skin medicine that she's given you.  
+
+PATIENT X144
+@@@.  They said it was inflammatory.
+
+DOCTOR X144
+I disagree with that one.  I think there's a better one I'd like you to try.
+
+PATIENT X144
+As long as it's not narcotic.  
+
+DOCTOR X144
+It's not.
+
+PATIENT X144
+Okay.
+
+DOCTOR X144
+I see @@@.  @@@ I just give you the one that I would give you and recommend it okay.
+
+PATIENT X144
+Uh.  The reason I said about the medicine I'm going through @@@ xxx xxx xxx.
+
+DOCTOR X144
+Uh-huh.
+
+PATIENT X144
+And I have to report all the medicines and they're kind of iffy on some medications so.
+
+DOCTOR X144
+Well I don't think @@@.  Um I want to @@@ blood pressure, go ahead and have a seat.  Have you been enjoying the weather?
+
+PATIENT X144
+I try.  Well I try and get out and ride the bike.
+
+DOCTOR X144
+@@@.  So of course @@@.
+
+PATIENT X144
+Uh-huh.
+
+DOCTOR X144
+Gained some weight @@@.
+
+PATIENT X144
+@@@.
+
+DOCTOR X144
+Right.  But unless you're competing on your bike.  
+
+PATIENT X144
+Actually @@@.
+
+DOCTOR X144
+That's definitely something.  Another thing is diet.  The VA has a program called the MOVE Program and they'll help you work with, if it's something you're interested in.
+
+PATIENT X144
+Oh it's just something I'd be interested in but where I'm going, I have no control over the diet.
+
+DOCTOR X144
+Right.
+
+PATIENT X144
+Like whatever they have.
+
+DOCTOR X144
+Yeah.  
+
+PATIENT X144
+@@@.
+
+DOCTOR X144
+@@@ Social Work and everything.
+
+PATIENT X144
+Yeah I just got into the @@@ Program last month so.  I'm trying to do everything they ask me to do.
+
+DOCTOR X144
+So would be willing to have the colonoscopy?
+
+PATIENT X144
+I don't even know what it is.
+
+DOCTOR X144
+What a colonoscopy is is they place @@@ into your @@@.  The reason why @@@.
+
+PATIENT X144
+@@@.
+
+DOCTOR X144
+Ah I forgot @@@.
+
+PATIENT X144
+@@@.
+
+DOCTOR X144
+So basically what it is um @@@ uh the process @@@ they sedate you, you'll be lightly sedated but you'll still be able to feel some @@@.  They go from behind and um they look to see if there are any lesions in your colon.
+
+PATIENT X144
+Oh okay.  
+
+DOCTOR X144
+Um the reason why is to make sure you don't have any.  Now if @@@.  You probably get @@@.  Now if we find something.
+
+PATIENT X144
+They can treat it.
+
+DOCTOR X144
+If we don't find something you don't have to go through it for another ten years.  I will warn you though it is a painful process because of the preparation.  Unfortunately in our bowel you have a lot of stool and that stool blocks their view @@@.
+
+PATIENT X144
+Blocks the view.
+
+DOCTOR X144
+Of what we're looking at.  So we have to cleanse all of the bowel and make it @@@.  Okay.  And that is @@@ worried about.  So basically the night before you're going to be sitting on your toilet all night long.
+
+PATIENT X144
+Alright.  @@@.
+
+DOCTOR X144
+Okay.  I'm just saying I still think it's something to do.  But I mean, you wouldn't have to be on the toilet all night long, @@@ bathroom.  @@@.  Does this hurt?
+
+PATIENT X144
+Yeah a lot there. 
+
+DOCTOR X144
+You need to you take your shoe off okay?  Where's the pain?
+
+PATIENT X144
+Right there.
+
+DOCTOR X144
+How about here?
+
+PATIENT X144
+No there's nothing @@@.
+
+DOCTOR X144
+In the heel?  Does this hurt?
+
+PATIENT X144
+No.
+
+DOCTOR X144
+How about this?  
+
+PATIENT X144
+No.
+
+DOCTOR X144
+Does it get better through the course of the day or does it kind of get worse?
+
+PATIENT X144
+Well it's one of those things that in the morning it's just stiff.
+
+DOCTOR X144
+Alright hold on, in the morning.
+
+PATIENT X144
+Yeah and then @@@ it continually gets worse.
+
+DOCTOR X144
+And then it gets better through the night?
+
+PATIENT X144
+Yeah.
+
+DOCTOR X144
+When you're not using it?
+
+PATIENT X144
+Right.
+
+DOCTOR X144
+Right.  So that unfortunately sounds like.  I actually have this myself, @@@.  But there are some stretches that you can @@@.
+
+PATIENT X144
+Well.
+
+DOCTOR X144
+It's painful so @@@ basically it's doing this, @@@ okay.  And that's to work the entire muscle down below.  I would do it as tolerated okay.
+
+PATIENT X144
+Okay.
+
+DOCTOR X144
+I try to do it, when I'm having a flare I'll do it, you know I try to do it like ten times an hour.
+
+PATIENT X144
+Yeah.
+
+DOCTOR X144
+@@@.  Okay.
+
+PATIENT X144
+Where does this come from?  Is it just.
+
+DOCTOR X144
+Unfortunately some people over use, there's a muscle tendon there @@@ and @@@ in theory could be @@@.  You just take it once a day, that's why I @@@ ibuprofen, you can take it up to three times a day.  @@@. But you know sometimes it’s worse.  Yeah probably in the morning when you're not walking on it.
+
+PATIENT X144
+Yeah every once in a while I land on something with the heel.  I try and walk so everything is in line but @@@.
+
+DOCTOR X144
+That would be my advice okay.  Um you can hop up there.  Alright.
+
+PATIENT X144
+Something's not right, that's just rubs me all the time.  That's the one I was more worried about.  
+
+DOCTOR X144
+Um, @@@.  Do you want to pick up your medicines down in the Pharmacy?
+
+PATIENT X144
+Yes.
+
+DOCTOR X144
+Give me a second, I need to @@@ okay.  @@@.  Alrighty, I'll be back in a few.
+
+PATIENT X144
+Okay.
+
+(DOCTOR OUT:  82:49  DOCTOR IN:  89:01)
+
+DOCTOR X144
+Well alrighty.  I'll give you a call @@@.
+
+PATIENT X144
+Okay.
+
+DOCTOR X144
+@@@ okay.
+
+PATIENT X144
+Okay.
+
+DOCTOR X144
+@@@.  He wants to follow up @@@.  And if you're @@@ not getting any better I want you to call me.
+
+PATIENT X144
+Okay.
+
+DOCTOR X144
+Here you are.  @@@ talking about @@@.  So basically uh what @@@.  If you come to the hospital and need to see the doctor, I'll advise who I think is right so you don't have to @@@.  Another thing, there are two things a Living Will and a Durable Power of Attorney.  What that means is if something happens to you and you're not able to talk, say you got in a car accident and @@@ and you're not able to communicate, we will know what your wishes are.  The Living Will will say that.  Now basically what that means is if something happens @@@ and things like that.  Another thing is uh Durable Power of Attorney.  That means that if you're not able to talk to us, that would be a friend or family member who will speak for you on medical issues.  And @@@ tell them what you want.  Anything can happen.  Of @@@ but it's just a precaution kind of thing okay.  Um @@@ what I need here is I'll have you sign this and have you ever thought, like would you want to do that?
+
+PATIENT X144
+It would probably good; I mean I don't have anyone to speak for me so.
+
+DOCTOR X144
+So with um, here you go, so what I would do here is uh if you want to make a Living Will uh, there @@@ form @@@ okay and then @@@.  I'll have you sign right here.  Anytime you want to make a change or anything to modify anything, @@@ come by.  Now I'll mention to you one more time @@@.  You might get a different doctor okay.
+
+PATIENT X144
+Okay that's fine.
+
+DOCTOR X144
+Alright.  @@@.
+
+PATIENT X144
+Well.
+
+DOCTOR X144
+Try to stay warm and dry it's supposed to rain tonight.  Are you ready to go?
+
+PATIENT X144
+I @@@.
+
+DOCTOR X144
+Alright actually I'll have you do a bunch of lab.  @@@.  They'll call you @@@.  Take a right and that'll be where you check out okay.
+
+PATIENT LEAVES:  93:20
+
+
+
+

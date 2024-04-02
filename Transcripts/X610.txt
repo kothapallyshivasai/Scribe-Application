@@ -1,0 +1,1382 @@
+
+DOCTOR X610 
+How are you today?
+ 
+PATIENT X610
+Oh you're the doc, okay.
+
+DOCTOR X610
+Hi DOCTOR.
+
+PATIENT X610
+Okay.
+
+DOCTOR X610
+Nice to meet you.
+
+PATIENT X610
+Alright thank you, alrighty.
+
+DOCTOR X610
+How you doing today?
+
+PATIENT X610
+I'm doing pretty hi, okay doctor.
+
+DOCTOR X610
+Right in here.
+
+PATIENT X610
+Right in here.
+
+DOCTOR X610
+@@@ blood pressure.
+
+PATIENT X610
+Uh yes.
+
+DOCTOR X610
+Let me pull up your chart here.
+
+PATIENT X610
+Okay.
+
+DOCTOR X610
+Order @@@ sent to you?
+
+PATIENT X610
+Yes uh-huh.
+
+DOCTOR X610
+Okay you can stop by there.
+
+PATIENT X610
+Okay.
+
+DOCTOR X610
+Um we used to be able to send it to your house but now they're requiring that you go pick it up so they can show you how to use it.
+
+PATIENT X610
+Okay.  Okay.
+
+DOCTOR X610
+So I guess a lot of them were being sent out and then they think that people either don't know how to use it or don't use it.
+
+PATIENT X610
+Uh-huh.  Or don't use it right.
+
+DOCTOR X610
+To make sure you know how to use it and you actually want to use it.
+
+PATIENT X610
+Yeah and if you know how to use it then you most likely will use it.
+
+DOCTOR X610
+Yeah.
+
+PATIENT X610
+Right.
+
+DOCTOR X610
+Yeah hopefully so.
+
+PATIENT X610
+Okay right uh-huh.
+
+DOCTOR X610
+Any problems right now?
+
+PATIENT X610
+No but I got @@@ in xxx xxx.
+
+DOCTOR X610
+Uh-huh.
+
+PATIENT X610
+I'm taking medicine for it and I have a necrotic heart valve.
+
+DOCTOR X610
+Uh-huh.
+
+PATIENT X610
+And um I'm finding out that if I take the medicines the way I supposed to.
+
+DOCTOR X610
+Uh-huh.
+
+PATIENT X610
+You have to take it twice a day, take it twice a day.
+
+DOCTOR X610
+@@@.
+
+PATIENT X610
+Whether you need it.  Whether you're having heart pain or not.
+
+DOCTOR X610
+Yeah.  That's right.
+
+PATIENT X610
+And DOCTOR, @@@ every day.
+
+DOCTOR X610
+Good.
+
+PATIENT X610
+She said no matter how good you feel.
+
+DOCTOR X610
+Uh-huh.
+
+PATIENT X610
+Even if you haven't eaten anything.
+
+DOCTOR X610
+Uh-huh.
+
+PATIENT X610
+@@@ take it anyway.
+
+DOCTOR X610
+Yeah, yeah.  So it is keeping it under control.
+
+PATIENT X610
+A lot better.
+
+DOCTOR X610
+Good and @@@ too?
+
+PATIENT X610
+The @@@ is a lot better also.
+
+DOCTOR X610
+Okay, that's good.
+
+PATIENT X610
+Now they put me on a medicine called ondansetron.
+
+DOCTOR X610
+Ondansetron.
+
+PATIENT X610
+Ondansetron.
+
+DOCTOR X610
+Zofran is the kind @@@ they said.
+
+PATIENT X610
+Right.
+
+DOCTOR X610
+They gave you.
+
+PATIENT X610
+And then the one uh, one more cause I might have a prescription on it but that worked pretty good too.
+
+DOCTOR X610
+Oh it's something you might need a refill on.
+
+PATIENT X610
+Yes.
+
+DOCTOR X610
+Let's see.  You got it from here?
+
+PATIENT X610
+Yes uh-huh.
+
+DOCTOR X610
+Um let's see.  So the ondansetron or Zofran, that's for your nausea.
+
+PATIENT X610
+That's what he was saying.
+
+DOCTOR X610
+How often are you using that?
+
+PATIENT X610
+I try not to use it unless I really need it.
+
+DOCTOR X610
+Okay.
+
+PATIENT X610
+Like I suppose, I might take one like every three or four days or whenever I need it.
+
+DOCTOR X610
+Okay, okay.
+
+PATIENT X610
+Alright.
+
+DOCTOR X610
+Um and then the other medicine, what was @@@ you said?
+
+PATIENT X610
+Uh just for the nauseated.  Because I have a lot of drainage you know.  You know cause my sinuses.
+
+DOCTOR X610
+Yeah, yeah.
+
+PATIENT X610
+With drainage and I take, they gave me, that makes me sick.
+
+DOCTOR X610
+From all the drainage?
+
+PATIENT X610
+Right.
+
+DOCTOR X610
+Okay.
+
+PATIENT X610
+Right and it won't make me feel sick.  
+
+DOCTOR X610
+Let's see.  Let's go through your medicine list.
+
+PATIENT X610
+Okay.
+
+DOCTOR X610
+So amlodipine?  @@@.
+
+PATIENT X610
+Yeah I take that.
+
+DOCTOR X610
+So you're taking that okay.
+
+PATIENT X610
+Okay.
+
+DOCTOR X610
+Some eye drops are you still using that?
+
+PATIENT X610
+Uh for the yes, right yes I use those.
+
+DOCTOR X610
+You use those okay.  Um a baby aspirin 81 mg.
+
+PATIENT X610
+81 right uh-huh.
+
+DOCTOR X610
+Okay.  Do you take cetirizine every day?   That's for the allergies, it's a pill.
+
+PATIENT X610
+Uh that one really wasn't working.
+
+DOCTOR X610
+It wasn't working alright.
+
+PATIENT X610
+Alright yeah.
+
+DOCTOR X610
+You had to be off the medicine.
+
+PATIENT X610
+Right.
+
+DOCTOR X610
+And you're not using it at all.
+
+PATIENT X610
+Uh-huh.
+
+DOCTOR X610
+Um doxazosin for your prostate.
+
+PATIENT X610
+Uh the prostate I take that every night yeah.
+
+DOCTOR X610
+Are you using any of those um nasal sprays anymore?
+
+PATIENT X610
+Yes, yes.
+
+DOCTOR X610
+Are you using both of them cause I think you have a couple of them.  You have flunisolide you have, you have some saline ones and you have um pseudoephedrine.  But no the pseudoephedrine is a tablet, excuse me.
+
+PATIENT X610
+Yeah right okay.
+
+DOCTOR X610
+You have two nasal sprays, are you using both of them?
+
+PATIENT X610
+I'm using one of them.
+
+DOCTOR X610
+Do you know which one you're using?  Are you using flunisolide or the sodium chloride?
+
+PATIENT X610
+The sodium chloride.
+
+DOCTOR X610
+You're using it okay so I can take that one off then.
+
+PATIENT X610
+Right, right.
+
+DOCTOR X610
+Okay.
+
+PATIENT X610
+Yeah the sodium chloride.
+
+DOCTOR X610
+Um are you using guaifenesin anymore?  That's like a kind uh, kind of like Robitussin, like a liquid form for your cough.
+
+PATIENT X610
+Yes I want this but I came out here and I didn't have a prescription of it.
+
+DOCTOR X610
+Okay, so that one you wanted a refill for?
+
+PATIENT X610
+Yes, yes, right yes uh-huh.
+
+DOCTOR X610
+So we'll do that.
+
+PATIENT X610
+And uh.
+
+DOCTOR X610
+Do you usually like to pick up your medicines or do you want it mailed to you?
+
+PATIENT X610
+I usually wait on it, I wait on it.  Now I'm out of potassium, I think I have two pills left.
+
+DOCTOR X610
+Okay.
+
+PATIENT X610
+Okay.
+
+DOCTOR X610
+Okay.  Potassium you're running out of.
+
+PATIENT X610
+Right.  You know I get a lot of like pain in the night in my back area.
+
+DOCTOR X610
+Uh-huh.
+
+PATIENT X610
+And so they have @@@ you know the only thing that will really help me would be uh not Tylenol but the other pill.
+
+DOCTOR X610
+Um.
+
+PATIENT X610
+Ibuprofen.
+
+DOCTOR X610
+Ibuprofen.
+
+PATIENT X610
+Ibuprofen would be the only thing and they told me that, it's what he told me years ago, that I had something that they called @@@ arthritis.
+
+DOCTOR X610
+Osteoarthritis?
+
+PATIENT X610
+Well I used skeletonarion, skeletary arthritis.
+
+DOCTOR X610
+Okay.
+
+PATIENT X610
+And he told me, a couple of doctors said that and I do have a hernia on this side.
+
+DOCTOR X610
+Okay.
+
+PATIENT X610
+That they used to tape.
+
+DOCTOR X610
+Do you need more ibuprofen?
+
+PATIENT X610
+Yes, right, yes, uh-huh.  Cause Tylenol really don't work too much.
+
+DOCTOR X610
+Sure.  Let's see what else is in the notes.  Um the lansoprazole?  That's @@@.
+
+PATIENT X610
+Uh yes, that's one I take for the heart valve right.
+
+DOCTOR X610
+Uh loratadine, are you using that?
+
+PATIENT X610
+Yes I use that too.
+
+DOCTOR X610
+Oh you use it okay.
+
+PATIENT X610
+I just take one @@@ at the a time.
+
+DOCTOR X610
+Um the ondansetron, you're using that every now and then.
+
+PATIENT X610
+Yes uh-huh.
+
+DOCTOR X610
+How many times a day would you say you're using it?
+
+PATIENT X610
+@@@ twice a day.
+
+DOCTOR X610
+Twice a day.
+
+PATIENT X610
+And if I'm feeling I'll take it in the morning and at times I have to take it maybe about 11 o'clock if I feel sort of nauseated.
+
+DOCTOR X610
+Okay.
+
+PATIENT X610
+Then I'll take it and that's in the morning.  I never take it at night.
+
+DOCTOR X610
+Okay.
+
+PATIENT X610
+Uh-huh.
+
+DOCTOR X610
+Uh potassium you're taking @@@ in water.
+
+PATIENT X610
+Okay.
+
+DOCTOR X610
+Pseudoephedrine, do you take that every day?
+
+PATIENT X610
+Pseudo?
+
+DOCTOR X610
+It's kind of for congestion.  Usually I don't suggest people take that for long.
+
+PATIENT X610
+No @@@.
+
+DOCTOR X610
+@@@.
+
+PATIENT X610
+I don't take that no.
+
+DOCTOR X610
+Okay.  Now you take the ranitidine as well?
+
+PATIENT X610
+Ranitidine, is that one also for.
+
+DOCTOR X610
+Yeah.
+
+PATIENT X610
+For the heart damage?
+
+DOCTOR X610
+For the heart damage.
+
+PATIENT X610
+Okay what they told me is that they wanted me to take the, the @@@.
+
+DOCTOR X610
+Uh-huh.
+
+PATIENT X610
+Twice a day.
+
+DOCTOR X610
+Uh-huh.
+
+PATIENT X610
+And then they said at night you can also take that @@@.
+
+DOCTOR X610
+So leave that in case you need additional coverage.
+
+PATIENT X610
+Right, right.
+
+DOCTOR X610
+Okay.  This is a @@@.
+
+PATIENT X610
+Right yeah, yeah, yeah.
+
+DOCTOR X610
+Okay, okay, alright so I'll that one on there.  Um sertraline are you taking that?
+
+PATIENT X610
+Sertraline I'm not taking that.
+
+DOCTOR X610
+You're not taking that anymore?
+
+PATIENT X610
+I'm not.
+
+DOCTOR X610
+Why'd you stop that?
+
+PATIENT X610
+Well you know something I think, this is the one I take for high @@@.
+
+DOCTOR X610
+Yeah.
+
+PATIENT X610
+They gave me.  
+
+DOCTOR X610
+Uh-huh.
+
+PATIENT X610
+And I said I got to tell her, it's just that I'm taking so much other medication.
+
+DOCTOR X610
+Yeah, yeah.
+
+PATIENT X610
+I got to tell her, is there @@@ and uh do other things without that medication.
+
+DOCTOR X610
+Uh-huh.
+
+PATIENT X610
+That makes, I used to have anxiety.
+
+DOCTOR X610
+Yeah.
+
+PATIENT X610
+Attacks all the time.
+
+DOCTOR X610
+Yeah.
+
+PATIENT X610
+Well I found out that if I relax.
+
+DOCTOR X610
+Yeah.
+
+PATIENT X610
+If I relax.
+
+DOCTOR X610
+Uh-huh.
+
+PATIENT X610
+That anxiety, my thoughts and as quick as it came.
+
+DOCTOR X610
+Yeah.
+
+PATIENT X610
+It's.
+
+DOCTOR X610
+You can relax.
+
+PATIENT X610
+It's only because I wouldn't think that I'm gonna die.
+
+DOCTOR X610
+Sure.
+
+PATIENT X610
+Or I couldn't breathe.
+
+DOCTOR X610
+Sure.
+
+PATIENT X610
+But now, a paramedic came to the house.
+
+DOCTOR X610
+Uh-huh.
+
+PATIENT X610
+And I told him then I said sir I need some oxygen, I can't breathe, I feel like I'm dying.
+
+DOCTOR X610
+Uh-huh.
+
+PATIENT X610
+He said well I got oxygen right here.  He says it's so easy to give it to you.
+
+DOCTOR X610
+Yeah.
+
+PATIENT X610
+He said but if I give it to you I be doing you more harm.
+
+DOCTOR X610
+Right yeah.
+
+PATIENT X610
+He said you don't need the oxygen but I'm looking at you and you're not getting ready to die.
+
+DOCTOR X610
+Yeah.
+
+PATIENT X610
+The only reason why your blood pressure is maybe up some is because you're letting it.
+
+DOCTOR X610
+Sure.
+
+PATIENT X610
+You know, cause all that he did was sit there and he said I'm there with you, calm down.
+
+DOCTOR X610
+Uh-huh.
+
+PATIENT X610
+And I promise you more than anything.
+
+DOCTOR X610
+Uh-huh.
+
+PATIENT X610
+If you think it's gonna happen, it’s not gonna happen.
+
+DOCTOR X610
+Good.
+
+PATIENT X610
+And I couldn't believe it that only took me a few minutes.
+
+DOCTOR X610
+Yeah.
+
+PATIENT X610
+I can't believe I was the same person.
+
+DOCTOR X610
+Yeah those, I mean anxiety has @@@ weird that you know we don't think @@@ problem but.
+
+PATIENT X610
+I can't.
+
+DOCTOR X610
+Then it just kind of passes over.
+
+PATIENT X610
+They can tell you.
+
+DOCTOR X610
+Yeah.
+
+PATIENT X610
+And I haven't had, in my mind, I haven't had one now in a year and a half.
+
+DOCTOR X610
+Good, good.
+
+PATIENT X610
+Uh-huh.
+
+DOCTOR X610
+Okay.  So you were on the medicine just for anxiety not for like depression or anything else.
+
+PATIENT X610
+Depression was there but the depression, because I kind have @@@.
+
+DOCTOR X610
+Sure okay.
+
+PATIENT X610
+Realize what I'm depressed doesn't make sense.
+
+DOCTOR X610
+Good, awesome.
+
+PATIENT X610
+Alright.
+
+DOCTOR X610
+I'm glad to hear that then.
+
+PATIENT X610
+Okay.
+
+DOCTOR X610
+Um okay, what else, the simvastatin for the cholesterol?
+
+PATIENT X610
+I take that uh-huh.
+
+DOCTOR X610
+Okay.  The @@@ you said you were taking.
+
+PATIENT X610
+@@@.
+
+DOCTOR X610
+Are you taking the trazodone for sleep?
+
+PATIENT X610
+For the first time last night uh I used one.
+
+DOCTOR X610
+Okay.
+
+PATIENT X610
+I haven't used one, used it in like.
+
+DOCTOR X610
+Okay.
+
+PATIENT X610
+Yeah.
+
+DOCTOR X610
+So barely but still sometimes.
+
+PATIENT X610
+Right, right, I was getting 30s and I had plenty left.
+
+DOCTOR X610
+Okay.
+
+PATIENT X610
+So I took it.  You know I'm okay with that.
+
+DOCTOR X610
+Alright.  Um stool softeners are you taking the @@@.
+
+PATIENT X610
+Every once in a while I'm gonna take them.
+
+DOCTOR X610
+Okay.
+
+PATIENT X610
+@@@.
+
+DOCTOR X610
+Um I'll refill some of those you need refills on.  Um now you told me the anxiety attacks are over so you're not using the @@@ anymore then right?
+
+PATIENT X610
+No, no, no, no, right.
+
+DOCTOR X610
+Um Naproxen are you using that?
+
+PATIENT X610
+Naproxen that's the pain pill?
+
+DOCTOR X610
+Uh-huh.
+
+PATIENT X610
+Okay uh not using it that much.
+
+DOCTOR X610
+Okay but every now and then?
+
+PATIENT X610
+Every now and then right.
+
+DOCTOR X610
+And so this pain medication.
+
+PATIENT X610
+Right, yeah, yeah.
+
+DOCTOR X610
+Okay, okay.  Alright good.
+
+PATIENT X610
+Uh-huh.
+
+DOCTOR X610
+So.
+
+PATIENT X610
+But the x-ray they did not too long ago.
+
+DOCTOR X610
+Uh-huh.
+
+PATIENT X610
+And it shows, that the letter that I received stated that they didn't see anything else abnormal.
+
+DOCTOR X610
+Okay.
+
+PATIENT X610
+With it.
+
+DOCTOR X610
+Sure.  Alright um.  Oh you know @@@.
+
+PATIENT X610
+Uh I can't @@@.
+
+DOCTOR X610
+@@@.
+
+PATIENT X610
+@@@.  Yeah.
+
+DOCTOR X610
+That's good.  Let me @@@.  So the ones you're picking up today is the guaifenesin is for the cough.
+
+PATIENT X610
+Yes uh-huh.
+
+DOCTOR X610
+The potassium and the ibuprofen.
+
+PATIENT X610
+And ibuprofen right.
+
+DOCTOR X610
+Anything that you need today?
+
+PATIENT X610
+No I think that's it.  Yeah, uh-huh.
+
+DOCTOR X610
+I think we need to get some lab work on you since it's been quite some time.
+
+PATIENT X610
+Hmm.
+
+DOCTOR X610
+Um let's see @@@ so your cholesterol is going to be @@@ tested.
+
+PATIENT X610
+Okay.
+
+DOCTOR X610
+Uh your prostate, your PSA.
+
+PATIENT X610
+Okay.
+
+DOCTOR X610
+Now that's kind of up to you cause.
+
+PATIENT X610
+Uh-huh.
+
+DOCTOR X610
+So now @@@ offer it but not to require it.
+
+PATIENT X610
+Alright.
+
+DOCTOR X610
+So it's up to you as a patient whether you want us to check it or not.
+
+PATIENT X610
+What's the prostate?
+
+DOCTOR X610
+The prostate, basically it's a blood test.
+
+PATIENT X610
+Right.  Uh-huh.
+
+DOCTOR X610
+And we monitor @@@.
+
+PATIENT X610
+Right, right.
+
+DOCTOR X610
+So it's kind of up to you whether or not you want me to check it.
+
+PATIENT X610
+Yeah, yeah.  @@@ I think I've had one.  Cause I'm still going to the bathroom a lot so.
+
+DOCTOR X610
+Oh are you?
+
+PATIENT X610
+Yeah, yeah.  Still going to the bathroom a lot.
+
+DOCTOR X610
+How many times a night?
+
+PATIENT X610
+Maybe, maybe like maybe four or five times now and I've been taking that pill.
+
+DOCTOR X610
+In the night?
+
+PATIENT X610
+At night right.
+
+DOCTOR X610
+Okay.  Do you want.  We can, why don't we increase the doxazosin dose then?
+
+PATIENT X610
+Uh if I'm taking it, I'm going to the bathroom a lot.
+
+DOCTOR X610
+Right, why don't you.
+
+PATIENT X610
+I don't have no problem using the bathroom or nothing like that.
+
+DOCTOR X610
+Sure.  You're just going.
+
+PATIENT X610
+I'm just going right.
+
+DOCTOR X610
+Do you um, do you feel that you're really thirsty or really hungry all the time or not?
+
+PATIENT X610
+No, no.
+
+DOCTOR X610
+You @@@ lot at night.
+
+PATIENT X610
+Right, right.
+
+DOCTOR X610
+What about during the day?
+
+PATIENT X610
+I also go during the day @@@.
+
+DOCTOR X610
+Okay.
+
+PATIENT X610
+But I drink a lot of water now.  I used to drink a lot of water but I drink a lot of water and I'm drinking during the day and I do drink my share of beer.
+
+DOCTOR X610
+Okay.
+
+PATIENT X610
+Not a lot of beer but a little bit more than I should.
+
+DOCTOR X610
+Okay.
+
+PATIENT X610
+But nothing else, no drugs, no cigarettes, no nothing like that uh-huh.
+
+DOCTOR X610
+Well let's increase the dose then.
+
+PATIENT X610
+Okay and I think that's the reason why yeah, yeah.  Cause I was gonna mention that if we could increase @@@.  @@@.
+
+DOCTOR X610
+Okay, you still have a bunch of them left.
+
+PATIENT X610
+Which one are those?
+
+DOCTOR X610
+Of the doxazosin.
+
+PATIENT X610
+Uh yes uh-huh.
+
+DOCTOR X610
+So essentially what I'm doing is doubling the dose.
+
+PATIENT X610
+Okay.
+
+DOCTOR X610
+So um right now you're taking half a tablet.
+
+PATIENT X610
+Taking half right.
+
+DOCTOR X610
+Okay why don't you start taking a full tablet?
+
+PATIENT X610
+Okay.
+
+DOCTOR X610
+Okay.  I went ahead and put a new order in here though cause that means you'll run out of it before your refill is due.
+
+PATIENT X610
+Okay, right.
+
+DOCTOR X610
+So I went ahead and changed the order in the computer okay.
+
+PATIENT X610
+Okay, okay.
+
+DOCTOR X610
+So let's see if that helps a little bit.
+
+PATIENT X610
+Okay, alrighty.
+
+DOCTOR X610
+Are you seen in the GU Clinic here?  It doesn't look like you are.  Well why don't we try that change.
+
+PATIENT X610
+Okay.
+
+DOCTOR X610
+If that change doesn't work then we'll send you to the urinary doctors.
+
+PATIENT X610
+Oh okay.
+
+DOCTOR X610
+They're the specialists.
+
+PATIENT X610
+Okay.
+
+DOCTOR X610
+Cause they have access to more medicines and they can order more stuff than us.
+
+PATIENT X610
+Okay, so instead of just taking a half at night.
+
+DOCTOR X610
+Take a whole tablet.
+
+PATIENT X610
+I take a full tablet okay.
+
+DOCTOR X610
+Yeah, yeah and then when your, when you run out then the next prescription will reflect the whole tablet.
+
+PATIENT X610
+Oh okay, alrighty.
+
+DOCTOR X610
+Um let's see what else.  I think that's everything for you.  So you had a colonoscopy in 2002 so we'll need to repeat that next year.
+
+PATIENT X610
+Okay, alright, okay.
+
+DOCTOR X610
+Um and you say you're not using, you're not taking the ibuprofen you have?
+
+PATIENT X610
+@@@.
+
+DOCTOR X610
+Oh that's good, okay.  I think that's everything unless there's anything you need.
+
+PATIENT X610
+No you've really explained everything quite well for me and I appreciate it.
+
+DOCTOR X610
+No, right, good and your sinuses are good and everything?
+
+PATIENT X610
+They're @@@.
+
+DOCTOR X610
+Okay good, alright.  Let me go run this by my attending okay.
+
+PATIENT X610
+Okay, alright, okay, thank you.
+
+DOCTOR X610
+Alright, no problem.
+
+(DOCTOR OUT:  43:17  DOCTOR IN:  54:38)
+
+DOCTOR X610
+Alright.
+
+PATIENT X610
+Okay.
+
+DOCTOR X610
+Just one little thing um.
+
+PATIENT X610
+Okay.
+
+DOCTOR X610
+So for the nausea that you're having.
+
+PATIENT X610
+Right.
+
+DOCTOR X610
+You're telling me you are having it every morning right?
+
+PATIENT X610
+Yes uh-huh.
+
+DOCTOR X610
+And you're taking the @@@ in the morning.
+
+PATIENT X610
+Right uh-huh.
+
+DOCTOR X610
+And it usually goes away.
+
+PATIENT X610
+Right uh-huh.
+
+DOCTOR X610
+So since it's only in the morning or you notice it in the morning when you wake up.
+
+PATIENT X610
+Uh-huh.
+
+DOCTOR X610
+It might be @@@ cause it's gone down @@@.
+
+PATIENT X610
+Oh okay.
+
+DOCTOR X610
+Up a little bit.
+
+PATIENT X610
+Uh-huh.
+
+DOCTOR X610
+So I know you're taking the lansoprazole twice a day already.
+
+PATIENT X610
+Right, right.
+
+DOCTOR X610
+And I know they told you to do ranitidine only if you need it.
+
+PATIENT X610
+Right.
+
+DOCTOR X610
+But perhaps you should try, keep taking the lansoprazole twice a day.
+
+PATIENT X610
+Right okay.
+
+DOCTOR X610
+And take the ranitidine right before you go to bed every night.
+
+PATIENT X610
+Okay.
+
+DOCTOR X610
+Regardless of whether or not you feel the reflux cause sometimes you don't feel the reflux pain but you actually do have reflux so.
+
+PATIENT X610
+Oh.
+
+DOCTOR X610
+It may be the reason you have nausea in the morning, who knows.
+
+PATIENT X610
+Oh okay right, okay.
+
+DOCTOR X610
+We'll see if that works.
+
+PATIENT X610
+Uh-huh.
+
+DOCTOR X610
+Um if you, you know if you keep having symptoms and the reflux doesn't get better there's always a surgical option.  I don't know if anyone's talked to you about that or maybe you just didn't want it or anything cause you've got that hernia.
+
+PATIENT X610
+Right, right.
+
+DOCTOR X610
+Cause you do have the reflux because of the hernia.
+
+PATIENT X610
+Okay.
+
+DOCTOR X610
+Some people have reflux just because they do and we don't know why.
+
+PATIENT X610
+Right.
+
+DOCTOR X610
+You actually have a reason to have reflux.
+
+PATIENT X610
+Right okay.
+
+DOCTOR X610
+So we'll try that.  Try doing it at night, the ranitidine.  Take it at night even if you don't think you do.
+
+PATIENT X610
+Even okay.
+
+DOCTOR X610
+Okay.
+
+PATIENT X610
+Okay.
+
+DOCTOR X610
+And then um.
+
+PATIENT X610
+Uh-huh.
+
+DOCTOR X610
+And then we'll see how it goes and we can follow up with the stomach doctors, the GI doctors.
+
+PATIENT X610
+Right okay.
+
+DOCTOR X610
+In a couple months.
+
+PATIENT X610
+Uh-huh.
+
+DOCTOR X610
+Then you can let them know how you're doing and.
+
+PATIENT X610
+Okay.
+
+DOCTOR X610
+Cause they would be the ones who say you know you should do the surgery, now they won't do the surgery.
+
+PATIENT X610
+Right.
+
+DOCTOR X610
+But they can make a suggestion as to whether you need it.
+
+PATIENT X610
+Okay right.
+
+DOCTOR X610
+Okay.
+
+PATIENT X610
+So the lansoprazole take two in the morning, two in the evening and also, whether I think I need it or not, to take the ranitidine.
+
+DOCTOR X610
+Yes.
+
+PATIENT X610
+I will do that.
+
+DOCTOR X610
+Start doing that.  Okay.
+
+PATIENT X610
+Right, I will do that.
+
+DOCTOR X610
+Alright.  
+
+PATIENT X610
+Uh-huh.
+
+DOCTOR X610
+So the medicines will be in the Pharmacy.
+
+PATIENT X610
+Pharmacy.
+
+DOCTOR X610
+And then in Prosthetics.
+
+PATIENT X610
+Right.
+
+DOCTOR X610
+You can pick up your blood pressure cuff.
+
+PATIENT X610
+Well thank you.  You have been great.
+
+DOCTOR X610
+Okay.
+
+PATIENT X610
+You have relaxed me.  You have explained everything so perfectly to me and I really appreciate it.
+
+DOCTOR X610
+Alright, alright.  We'll send you a letter when you need to come back to me.
+
+PATIENT X610
+Okay.
+
+DOCTOR X610
+Okay alright.
+
+PATIENT X610
+Alright, okay and thank you again now.
+
+DOCTOR X610
+Have a good night.
+
+PATIENT X610
+Alrighty.
+
+DOCTOR X610
+Alright.
+
+PATIENT X610
+Oh right here.
+
+DOCTOR X610
+Oh yeah.
+
+PATIENT X610
+You're not from Japan are you?
+
+DOCTOR X610
+No uh uh.
+
+PATIENT X610
+Okay I was gonna say cause I wasn't actually @@@.
+
+DOCTOR X610
+Oh gotcha yeah no, no.
+
+PATIENT X610
+Okay alright.  Okay have a good day.
+
+DOCTOR X610
+Sure, no problem.
+
+PATIENT X610
+Alright bye bye.
+
+DOCTOR X610
+Bye.
+
+PATIENT LEAVES:  57:12
+
+
+
+

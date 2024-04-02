@@ -1,0 +1,665 @@
+
+DOCTOR X546
+PATIENT?  How you doing today?  How's life been?
+
+PATIENT X546
+Oh pretty good.
+
+DOCTOR X546
+You look pretty good.
+
+PATIENT X546
+Since the last time I see you, been a while.
+
+DOCTOR X546
+Yeah.
+
+PATIENT X546
+This time I brought all my medicines.
+
+DOCTOR X546
+Good.
+
+PATIENT X546
+Some of them are out and some of them aren't.
+
+DOCTOR X546
+Okay, so you need a couple refills?
+
+PATIENT X546
+Yes.
+
+DOCTOR X546
+Your blood pressure's a little bit high.
+
+PATIENT X546
+That's because some of them are out.  Some of my blood pressure medicines.
+
+DOCTOR X546
+Which ones are they?
+
+PATIENT X546
+I don't know that's, I don't know the names of them that's why I just brought them.
+
+DOCTOR X546
+Okay.  Okay.  Sounds good, let's see.  How are your sugars doing?
+
+PATIENT X546
+Here you go.  I haven't been poking my fingers cause I get.  I know I'm feeling pretty good cause my vision's not blurry and I don't have any headaches.
+
+DOCTOR X546
+How long, often you checking your blood sugar?
+
+PATIENT X546
+My blood sugar?
+
+DOCTOR X546
+Uh-huh.
+
+PATIENT X546
+Probably once a week.
+
+DOCTOR X546
+Okay and the last time you checked what was it?
+
+PATIENT X546
+130.
+
+DOCTOR X546
+Okay.  Uh morning when you woke up or during the day?
+
+PATIENT X546
+That was during the day.
+
+DOCTOR X546
+Okay.
+
+PATIENT X546
+When I'm sitting in the easy chair and I look at this thing laying over on the stand I said well hell if I check it.
+
+DOCTOR X546
+Fever, chills, cough, chest pain, difficulty breathing?
+
+PATIENT X546
+None of that.
+
+DOCTOR X546
+Swelling anywhere?
+
+PATIENT X546
+No.
+
+DOCTOR X546
+No vomiting.
+
+PATIENT X546
+No.
+
+DOCTOR X546
+Blood in the stool, blood in urine.
+
+PATIENT X546
+No.
+
+DOCTOR X546
+Pain when you urinate?
+
+PATIENT X546
+No.
+
+DOCTOR X546
+Okay, so that's good.  You had an @@@ infection in June?
+
+PATIENT X546
+In June?
+
+DOCTOR X546
+No.
+
+PATIENT X546
+Oh they gave me medicine and we cleared all that up.
+
+DOCTOR X546
+Okay.  So you had an infection though.
+
+PATIENT X546
+Yeah, yeah.
+
+DOCTOR X546
+You were treated for it okay.  Um let's see.  Were you in the hospital or this was all from the clinic?
+
+PATIENT X546
+It's been a while since I've been in the hospital.  I was in the hospital here but that was.
+
+DOCTOR X546
+Over here?
+
+PATIENT X546
+That was man, been about that long.  With hotter weather outside uh it's not quite a year.  No yeah, it's been over a year.  I was in the hospital when I bought, bought that new car.  I did.  I bought a new car and the next day I'm in the hospital.
+
+DOCTOR X546
+So, so no problem like urinating too much or drinking too much water or anything like that?  You drinking seems okay.
+
+PATIENT X546
+Uh-huh.
+
+DOCTOR X546
+Have you been on iron supplements?
+
+PATIENT X546
+Yeah.
+
+DOCTOR X546
+Okay.  How's your diet?
+
+PATIENT X546
+Great.  I eat three times a day.
+
+DOCTOR X546
+Fatty foods under control?
+
+PATIENT X546
+I eat a lot of vegetables, fruits.
+
+DOCTOR X546
+Good.
+
+PATIENT X546
+Of course I'm like everybody else, I eat fast food too.
+
+DOCTOR X546
+Do you smoke?
+
+PATIENT X546
+No.
+
+DOCTOR X546
+Did you ever smoke?
+
+PATIENT X546
+Uh back when I was working for Phillip Morris.
+
+DOCTOR X546
+How long have you quit?
+
+PATIENT X546
+That was back uh, I went to work at Phillip Morris in 1972 and I worked for them until 1979.
+
+DOCTOR X546
+So about like 30 years?
+
+PATIENT X546
+Then I went to work for Budweiser selling beer so I must have stopped smoking probably about 1988 I stopped smoking.
+
+DOCTOR X546
+88, so about 20 years.  So you know what I'm gonna talk to you about right?
+
+PATIENT X546
+Hmm?
+
+DOCTOR X546
+Colonoscopy.
+
+PATIENT X546
+Oh what do you to?
+
+DOCTOR X546
+I know but I have to talk to you about it though.
+
+PATIENT X546
+Someday I got to go through this.
+
+DOCTOR X546
+You can do it either way for the sigmoid or the colon.  If you do a colonoscopy and its fine then you're clear for 10 years.  With the sigmoid if you do that one, it's shorter but if they @@@ to do inspections.
+
+PATIENT X546
+I think it still sounds bad.
+
+DOCTOR X546
+Instead of 10 years?
+
+PATIENT X546
+When am I gonna be scheduled to do it?
+
+DOCTOR X546
+And you know I'll put in a consult and they'll let you know.  It's kind of like stand-by @@@.
+
+PATIENT X546
+Okay, alright.
+
+DOCTOR X546
+You're probably not gonna get it tomorrow.
+
+PATIENT X546
+Alright okay, okay, okay.
+
+DOCTOR X546
+Ideally @@@.
+
+PATIENT X546
+Okay, okay.
+
+DOCTOR X546
+Okay and then how's your reflux doing?
+
+PATIENT X546
+I'm out of that.
+
+DOCTOR X546
+Okay.  So.
+
+PATIENT X546
+That's the heartburn medicine.
+
+DOCTOR X546
+Um.
+
+PATIENT X546
+That's what I call it.
+
+DOCTOR X546
+@@@
+
+PATIENT X546
+I just left them yesterday.
+
+DOCTOR X546
+Okay and they did the dilating?
+
+PATIENT X546
+No I drove down there by myself so they couldn't dilate me cause I couldn't get back home.
+
+DOCTOR X546
+Well they're.
+
+PATIENT X546
+They're gonna dilate me uh I think its December 13th.
+
+DOCTOR X546
+Okay, okay.  Um podiatrist, did you see a podiatrist?
+
+PATIENT X546
+Podiatrist, that's the foot doctor?
+
+DOCTOR X546
+Yes.
+
+PATIENT X546
+I had a corn on my toe and I bought that medicine and it took it off.
+
+DOCTOR X546
+So you haven't seen them?
+
+PATIENT X546
+No.
+
+DOCTOR X546
+Okay.  The last time in December.  Okay.  How long have you been taking the vitamin D?  Did you come check the level or no?
+
+PATIENT X546
+I'm a little bit rattled and almost Indian.
+
+DOCTOR X546
+Cause it looks like I don't see you're running low for your medication though so, why was your blood pressure high?
+
+PATIENT X546
+I don't know.  I'll be honest, I won't lie, I been taking my medicine, the blood pressure probably every other night.
+
+DOCTOR X546
+Why?
+
+PATIENT X546
+Because some nights I just forget.
+
+DOCTOR X546
+You forget?
+
+PATIENT X546
+Yeah and I like taking it at night rather than getting up and taking it in the morning, you know since I @@@ well I got to take my medicines at night and then you fall asleep and don't take it.
+
+DOCTOR X546
+But like this one, do you take the one for your stomach in the morning?
+
+PATIENT X546
+For my stomach, let's see.  I have so many pills.
+
+DOCTOR X546
+The omeprazole the one for your reflux.
+
+PATIENT X546
+Is that a little white pill?
+
+DOCTOR X546
+Uh-huh.
+
+PATIENT X546
+I take it at night.
+
+DOCTOR X546
+What are you doing taking it at night cause you're not eating it isn't doing any good?  It works better to take them during the day.
+
+PATIENT X546
+I could switch it around and take them all in the day.  I want to be able to take them all at the same time.
+
+DOCTOR X546
+Um let's see.  I guess the only one, I mean you just want it so you don't forget and your blood pressure right now, I don't know if it's because you're not taking it or if it's not working.
+
+PATIENT X546
+No it's working cause the last.
+
+DOCTOR X546
+That's not what it said though.
+
+PATIENT X546
+Right, the last time I been here they said it was super good.
+
+DOCTOR X546
+That it was good.
+
+PATIENT X546
+Right.
+
+DOCTOR X546
+Okay.
+
+PATIENT X546
+It's working, it's just I got to get back on my, get on my horse and my schedule to take it.
+
+DOCTOR X546
+Okay.
+
+PATIENT X546
+I need some more of that heartburn medicine.
+
+DOCTOR X546
+Uh-huh I'll give you all of them.
+
+PATIENT X546
+Mail them cause I need to get to the cashier before 4 o'clock.
+
+DOCTOR X546
+Do you need insulin too?
+
+PATIENT X546
+Uh.
+
+DOCTOR X546
+Do you everything refilled?
+
+PATIENT X546
+I remember about them telling me about the insulin that I was warned that it could pull, I been taking it and it would be too much for me.  In other words insulin brings down your blood sugar correct?
+
+DOCTOR X546
+Uh-huh.
+
+PATIENT X546
+Okay.  They were concerned if I would be taking the insulin bringing it down too low.
+
+DOCTOR X546
+Um well the last time we did the hemoglobin test it was really good so it's more like it's maybe too good.
+
+PATIENT X546
+It's too good?  Alright I cut back on the insulin like every other day.
+
+DOCTOR X546
+What are you using right now?
+
+PATIENT X546
+30 units Humulin N.
+
+DOCTOR X546
+Oh and how long were you doing this?
+
+PATIENT X546
+If I go back to shooting myself every day I can order me another bottle because I went back to taking it every other day.
+
+DOCTOR X546
+So what are you doing right now?
+
+PATIENT X546
+Every other day.  I'm going to go back to taking it.
+
+DOCTOR X546
+Once a day?
+
+PATIENT X546
+Yeah.
+
+DOCTOR X546
+And that's it?
+
+PATIENT X546
+Right, that's what I'm going to go back to taking it once a day instead of every other day.
+
+DOCTOR X546
+How about this, give me your phone number, we'll check today to see what your sugar has been in the last three months.  If it's a lot worse then we'll go back to every day okay.  So keep doing what you're doing now.
+
+PATIENT X546
+Uh-huh.
+
+DOCTOR X546
+And then I'll call you and let you know what to do.
+
+PATIENT X546
+Okay you have my phone number don't you?
+
+DOCTOR X546
+Is it the same one?
+
+PATIENT X546
+Yeah it hasn't changed.
+
+DOCTOR X546
+Uh NUMBER.
+
+PATIENT X546
+No.
+
+DOCTOR X546
+NUMBER.
+
+PATIENT X546
+That's it, that's it.
+
+DOCTOR X546
+So this one and this one.  If you get this bottle of insulin though @@@  make sure you check your sugars every other day.  You can refill them @@@ in the future.
+
+PATIENT X546
+Yeah okay.
+
+DOCTOR X546
+Cause once it's low.
+
+PATIENT X546
+Okay, okay.
+
+DOCTOR X546
+You can go in and get a full bottle.
+
+PATIENT X546
+Yeah but you know when it goes low you, I mean you'll know it.  You know you'll feel weak, tired.
+
+DOCTOR X546
+Yeah but.
+
+PATIENT X546
+For you I will take it every other day.
+
+DOCTOR X546
+Are you going to pick them up?
+
+PATIENT X546
+No mail everything.  I got to get to the cashier before 4 o'clock so I have child expenses to pay back home.
+
+DOCTOR X546
+Okay.
+
+PATIENT X546
+Cause they don't stay open when you got 3 o'clock appointments, they close at 4 sharp.  Is it normal for me to be tired when I wake up in the morning cause by 11 o'clock then I'm ready to go?  You know I have energy.
+
+DOCTOR X546
+Are you sleeping okay?
+
+PATIENT X546
+Uh I usually have to get up twice during the night to go to the washroom.
+
+DOCTOR X546
+Hmm.  Are you more constipated than usual?
+
+PATIENT X546
+No.
+
+DOCTOR X546
+Hair loss?
+
+PATIENT X546
+Uh.
+
+DOCTOR X546
+Feeling more full @@@.
+
+PATIENT X546
+No.
+
+DOCTOR X546
+Gaining weight even though you're not eating that much?
+
+PATIENT X546
+I eating a lot and I ain't gaining a lot of weight.  I was gaining weight cause I was weighing 183, 84, now I'm down to 176.
+
+DOCTOR X546
+Do you take aspirin?
+
+PATIENT X546
+I have been taking them but last night when I ran out I stopped taking them.
+
+DOCTOR X546
+Okay.  
+
+PATIENT X546
+That's for the heart.  I never thought I had any heart problems.
+
+DOCTOR X546
+And your diabetic so it's kind of like having heart problems even though you don't.
+
+PATIENT X546
+Oh right, I'll go back to taking the aspirin.
+
+DOCTOR X546
+Do you want to get it here; do you want me to order it?
+
+PATIENT X546
+Uh yeah you can put it on there, they can mail it.  That'll save me from going to the drug store.
+
+DOCTOR X546
+Um did you have your tetanus shot?
+
+PATIENT X546
+Which one?
+
+DOCTOR X546
+Tetanus.
+
+PATIENT X546
+Tetanus.  I don't know I think I had the flu shot.  Does it say when I got that flu shot thing?  I don't know, if it's not on the record I don't know.  Maybe I haven't had it I don't know.
+
+DOCTOR X546
+Let's check.  05 um.  Be right back okay.
+
+PATIENT X546
+You gotta go find DOCTOR?
+
+DOCTOR X546
+Yep.
+
+PATIENT X546
+I can't keep track.
+
+DOCTOR X546
+@@@.
+
+PATIENT X546
+I think he's walking around.
+
+(DOCTOR OUT:  42:03  DOCTOR IN:  44:27)
+
+DOCTOR X546
+Okay.  So we'll do that.  Well let me put this in.  Um you don't have today um if you promise to come back this week and get your lab done.
+
+PATIENT X546
+Yeah.
+
+DOCTOR X546
+First thing we'll do @@@.
+
+PATIENT X546
+Okay um, today is what Wednesday?
+
+DOCTOR X546
+Wednesday.
+
+PATIENT X546
+Um.
+
+DOCTOR X546
+When can you come in then?
+
+PATIENT X546
+Tomorrow.  But I can come any time right?
+
+DOCTOR X546
+Any time.
+
+PATIENT X546
+Morning or evening okay.  Tomorrow.
+
+DOCTOR X546
+But come when the Lab is open.
+
+PATIENT X546
+Okay.
+
+DOCTOR X546
+Um, I want to check your vitamin B level cause I know it was low in the past and we'll what.
+
+PATIENT X546
+See what it is now since I took the vitamin B pills.
+
+DOCTOR X546
+Yeah and then if it's still low then we'll give you some more.  Um.  Questions?
+
+PATIENT X546
+Is that it?
+
+DOCTOR X546
+That's it.  And I'll see you in three months.
+
+PATIENT X546
+I'll be here tomorrow and when are you going to see me again?
+
+DOCTOR X546
+In three months.
+
+PATIENT X546
+Okay send me a notice.
+
+DOCTOR X546
+They will.  Questions?  So I refilled everything.  Actually how much of the, just a second, I wanted to see if I refilled the aspirin.  Okay.
+
+PATIENT X546
+Okay.
+
+DOCTOR X546
+That's it.
+
+PATIENT X546
+Alright thank you.
+
+DOCTOR X546
+Take care.
+
+PATIENT LEAVES:  47:07.
+
+
+
+

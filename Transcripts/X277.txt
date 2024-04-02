@@ -1,0 +1,962 @@
+
+DOCTOR X277
+PATIENT I did see you before.
+
+PATIENT X277
+Yes you did.
+
+DOCTOR X277
+You usually see DOCTOR right?
+
+PATIENT X277
+Yes and I saw you and I tried to change doctors and they wouldn't let me.  To you.
+
+DOCTOR X277
+Uh-huh.
+
+PATIENT X277
+Yeah.
+
+DOCTOR X277
+Oh you can't change now cause he's leaving.
+
+PATIENT X277
+Yeah that doesn't count.  So here's my question how long you gonna be around?  I hear you supposed to graduate.
+
+DOCTOR X277
+One year.
+
+PATIENT X277
+So after you graduated you gonna be around?
+
+DOCTOR X277
+Um I was thinking about working here permanently but my family's in California and we're having a baby so.
+
+PATIENT X277
+Congratulations.
+
+DOCTOR X277
+Thank you, thank you.  So.
+
+PATIENT X277
+So I'm gonna have to find you in California.
+
+DOCTOR X277
+You know you're more than welcome too.
+
+PATIENT X277
+You don't know me; I really will come to California okay.
+
+DOCTOR X277
+Let me finish filling out a couple of things here from my last patient and then we'll get talking.
+
+PATIENT X277
+Okay.
+
+DOCTOR X277
+There are a couple of things that um we ordered for you so.
+
+PATIENT X277
+Yeah I haven't seen him for six months.
+
+DOCTOR X277
+Yeah he hadn't seen you in a while and now he's moving on I guess so okay, he's actually moving to St. xxx.
+
+PATIENT X277
+Hmm.
+
+DOCTOR X277
+I know I, okay.  I'm sorry I didn't recognize you initially.
+
+PATIENT X277
+Okay.  Its okay, hey I know you go through a lot of people.  Now there's another doctor here.  His name is oh God what did they say his name was DOCTOR something.
+
+DOCTOR X277
+DOCTOR?
+
+PATIENT X277
+DOCTOR right okay.  If you drop me, would you make sure I get him?
+
+DOCTOR X277
+Okay you probably won't.  Well he's my boss in this clinic.
+
+PATIENT X277
+Fantastic.  Try to go on to this you know.
+
+DOCTOR X277
+I guess it's finally making me do this, okay so what can I help you with today?
+
+PATIENT X277
+Okay.  I just came from Urology okay.
+
+DOCTOR X277
+Yeah.
+
+PATIENT X277
+She said that I need to talk to you.
+
+DOCTOR X277
+About?
+
+PATIENT X277
+I still have this congestion going on here.  Now I think I indicated to you the last time that I hadn't had this congestion until the pulled all my teeth out and one was really rough pulling that tooth out.  Uh did not give me the proper injection cause I felt it, I mean I was really in pain and I told them about that.  So now I have this constant drain.  I told you about that last time and you gave me something for it.
+
+DOCTOR X277
+Yeah, let's see what I gave you um.  What did I just give you; oh you were on Zyrtec before right, that's not new.
+
+PATIENT X277
+What's the Zyrtec for?
+
+DOCTOR X277
+Allergies and postnasal drip.
+
+PATIENT X277
+Oh okay, I think that's one of the ones I got mixed up, so start taking the Zyrtec.
+
+DOCTOR X277
+The Zyrtec.  Well I increased your blood pressure medicine last time.
+
+PATIENT X277
+Right.
+
+DOCTOR X277
+Remember you have high blood pressure.
+
+PATIENT X277
+That one too.
+
+DOCTOR X277
+Okay.
+
+PATIENT X277
+And I'd like to get that blood pressure without adding another.
+
+DOCTOR X277
+Okay, eventually.
+
+PATIENT X277
+Okay.
+
+DOCTOR X277
+Do you have a low salt diet?
+
+PATIENT X277
+Oh, I'll go to the low salt diet, whatever you tell me to do, I'm gonna do.
+
+DOCTOR X277
+Low salt diet.
+
+PATIENT X277
+Okay.  Cause I'm mainly in the 160 okay.  I got a 12-year-old so I want another few years.
+
+DOCTOR X277
+You don't look 61 okay.
+
+PATIENT X277
+Okay.
+
+DOCTOR X277
+You can very well live longer.
+
+PATIENT X277
+Okay.
+
+DOCTOR X277
+Um the one thing though, you brought it up, I'm glad I see this now is um, oh okay I'll talk about that in a second.  Low salt diet.
+
+PATIENT X277
+You got it.
+
+DOCTOR X277
+Okay and no fried foods, once a week great you know.  
+
+PATIENT X277
+Okay.
+
+DOCTOR X277
+Anything more than that, probably not a good idea.
+
+PATIENT X277
+Okay.
+
+DOCTOR X277
+That's the best thing to do okay.  Okay so that's that.  Um you have high calcium okay.
+
+PATIENT X277
+Right.
+
+DOCTOR X277
+And people wonder what does that mean, well it can make you feel, it can sometimes prevent some of the symptoms of fatigue, feeling.
+
+PATIENT X277
+Uh-huh.
+
+DOCTOR X277
+Kind of blah.
+
+PATIENT X277
+Okay.
+
+DOCTOR X277
+They call it moans, stones and groans I think are the three things that's kind of alarming.
+
+PATIENT X277
+Hmm.
+
+DOCTOR X277
+Because you've got muscle aches and pains.
+
+PATIENT X277
+Uh-huh.
+
+DOCTOR X277
+Cramps.
+
+PATIENT X277
+Uh-huh.
+
+DOCTOR X277
+Fatigue and then kidney stones.
+
+PATIENT X277
+I had them oh how, oh God that was horrible.
+
+DOCTOR X277
+So then you ask why do you have high calcium levels.
+
+PATIENT X277
+Uh-huh.
+
+DOCTOR X277
+Well it very well could be parathyroid.
+
+PATIENT X277
+Parathyroid, that's what they told me when they last seen me okay.
+
+DOCTOR X277
+So we need to check the um.
+
+PATIENT X277
+Calcium?
+
+DOCTOR X277
+Well we need to check the calcium and the urine.
+
+PATIENT X277
+Okay.
+
+DOCTOR X277
+And I think he ordered that, did he or did you want me to order it.
+
+PATIENT X277
+He said that he was gonna order it, I went down and never received the bottle cause he wanted me to urinate in the bottle for 24 hours and then send it to the lab.
+
+DOCTOR X277
+Unfortunately that's the process.
+
+PATIENT X277
+Okay.  If you put in the consult I'll come back out on Monday and pick the bottle up. 
+
+DOCTOR X277
+I already ordered that so that's done okay.  Um and I think we need to take a look at this too.
+
+PATIENT X277
+Okay.
+
+DOCTOR X277
+Um, it would probably be better to get the labs first and then we can maybe take a look at this stuff.  Um so there's a couple, here's the thing.  So what you do about that oral surgery, if this is significant.  If these labs are concerning enough.
+
+PATIENT X277
+Uh-huh.
+
+DOCTOR X277
+And you are sent to Advocate Conflict.
+
+PATIENT X277
+Uh-huh.
+
+DOCTOR X277
+So I think this would qualify for surgery but I want to see the labs first.
+
+PATIENT X277
+Okay.  My understanding was they were going to try me on medicine first.
+
+DOCTOR X277
+We could try the medicine first.
+
+PATIENT X277
+Okay.
+
+DOCTOR X277
+But let me see what the labs look like.
+
+PATIENT X277
+Okay.
+
+DOCTOR X277
+Because if it's really from the parathyroid you could do medicine but the gold standards of care is to remove them.
+
+PATIENT X277
+I don't like removing stuff.  I want to leave out of here with everything I came in with.
+
+DOCTOR X277
+Well let me see.
+
+PATIENT X277
+If we can get around it that's cool, if we can't then that could be a problem.
+
+DOCTOR X277
+Now how's your breathing?
+
+PATIENT X277
+That's what I have a problem with, especially during intercourse.  I mean I get shortness of breath.
+
+DOCTOR X277
+During intercourse you say?
+
+PATIENT X277
+Yes.
+
+DOCTOR X277
+Okay.
+
+PATIENT X277
+Or anytime I stress myself.  I used to walk quite a bit, I can't do that anymore.  I used to be able to run; I can't do that at all.
+
+DOCTOR X277
+And we never got a stress test on you did we?
+
+PATIENT X277
+A long time ago.  It's just like I inhale and it's like its tight right in here.  Feels like it's congestion up in here uh when I'm exerting myself even modestly okay and that's what concerned me so is it from the nasal drip, is it from my smoking from 30 years, I mean what kind of.  And they took x-rays, did that help them?
+
+DOCTOR X277
+Not really.  So, not very long.
+
+PATIENT X277
+So they took, checked an x-ray but they took it times four and they said it was all in my heart, they didn't get a good shot at so they wanted to give me.
+
+DOCTOR X277
+Yeah which is very possible so.
+
+PATIENT X277
+Okay.
+
+DOCTOR X277
+I'm going to take a quick listen @@@.
+
+PATIENT X277
+It could be the what?
+
+DOCTOR X277
+It could be @@@.
+
+PATIENT X277
+Alright.
+
+DOCTOR X277
+So it's hard to say um.  He wants a repeat chest x-ray.
+
+PATIENT X277
+How often can I get these things?
+
+DOCTOR X277
+Well okay, you're just starting.  I mean we want to see your lungs okay.  I know you smoked for a while.
+
+PATIENT X277
+Uh-huh.  I haven't smoked in over 11-12 years.
+
+DOCTOR X277
+Okay but how many years did you smoke for?
+
+PATIENT X277
+Well probably a good part of 30, 25-30.
+
+DOCTOR X277
+That's a long time.
+
+PATIENT X277
+Uh-huh.
+
+DOCTOR X277
+Even if you quit um.  There was no obvious thing on the x-ray that was concerning okay.
+
+PATIENT X277
+Okay.
+
+DOCTOR X277
+Um and you had a normal lung function tests.
+
+PATIENT X277
+Okay.
+
+DOCTOR X277
+Recently.
+
+PATIENT X277
+So have not found any ill-effect from the smoking?
+
+DOCTOR X277
+No there's no emphysema.
+
+PATIENT X277
+Okay, whew.
+
+DOCTOR X277
+No it was completely normal, that's 2010 a year ago.
+
+PATIENT X277
+Okay, so whatever this congestion is something else.
+
+DOCTOR X277
+It's something else. Um is it the heart, maybe okay.  Your echo that I ordered for you before is completely normal.
+
+PATIENT X277
+Okay.
+
+DOCTOR X277
+Okay.  Um they're a little bit limited because I think the person who performed the test was not very skilled.
+
+PATIENT X277
+Okay.
+
+DOCTOR X277
+So cause you know you deal with very obese people, it's hard to see the heart and you're right now very obese.
+
+PATIENT X277
+Uh-huh.
+
+DOCTOR X277
+So I might recommend a stress test actually.
+
+PATIENT X277
+Let's do it.
+
+DOCTOR X277
+Okay.
+
+PATIENT X277
+Here's another thing, it may be a minor concern or not.
+
+DOCTOR X277
+Oh actually you had it in July actually oh a year ago, it was normal.  Cause I thought you had one.  Did you have one?
+
+PATIENT X277
+Yeah, describe what a stress test is?
+
+DOCTOR X277
+You can do it any yeah, either they inject something into and you feel sick or they put you on a treadmill and make you walk.
+
+PATIENT X277
+That is the one I did.  Here's the thing I worked out and went a long time on the treadmill.  I remember that.
+
+DOCTOR X277
+Okay.
+
+PATIENT X277
+Uh I couldn't do even a third of that now, that's what I'm saying it's different.  Uh and my legs, my legs are weak, okay I'm stumbling and tripping a whole lot.  I almost, in fact this morning, I'm walking up the stairs, six flights of stairs and it's like my knee gave out.  It's like my muscles could not, actually going on.
+
+DOCTOR X277
+Did you have any knee arthritis?
+
+PATIENT X277
+No.
+
+DOCTOR X277
+You're on medicine for it though.
+
+PATIENT X277
+Arthritis?
+
+DOCTOR X277
+Yeah meloxicam, arthritis medicine.
+
+PATIENT X277
+Meloxicam, I remember the meloxicam but I thought that was something else.  You know at some point I'm going to need somebody to write down all the medicines I got and what they for.
+
+DOCTOR X277
+Okay.  Why don’t I, I will work on that okay.
+
+PATIENT X277
+Okay.
+
+DOCTOR X277
+I'm extremely.
+
+PATIENT X277
+I know.
+
+DOCTOR X277
+I'm taking care of 12 people upstairs right now, opening the new hospital so, what I can do and I'll remind myself is to send you a letter with all the medicines down and what they're used for okay.
+
+PATIENT X277
+Alright.
+
+DOCTOR X277
+And then we'll decide which ones you really use and which ones you really want.
+
+PATIENT X277
+Uh-huh.
+
+DOCTOR X277
+And which ones are worthless.
+
+PATIENT X277
+Okay cause.
+
+DOCTOR X277
+Cause trying @@@.
+
+PATIENT X277
+Exactly.  I never liked taking medicines.
+
+DOCTOR X277
+@@@.  It's nothing new.  Your blood pressure cuff.
+
+PATIENT X277
+Yeah.
+
+DOCTOR X277
+That's necessary and let's no more salt and you lose a little weight okay.
+
+PATIENT X277
+I'm working on it.  As a matter of fact, that's what I was going to say that uh.
+
+DOCTOR X277
+Yeah.
+
+PATIENT X277
+My weight came down; it's down to 114 so I lost four pounds since I last came here.
+
+DOCTOR X277
+Actually were you using the program, the Telephone Program or no or am I thinking of somebody else?
+
+PATIENT X277
+What telephone, no, no, no.
+
+DOCTOR X277
+There's a telephone, okay that's something else.  I still hear that murmur.  They didn't detect it on that echo.
+
+PATIENT X277
+That's what it is about you.  You detected that murmur.
+
+DOCTOR X277
+I still hear it.
+
+PATIENT X277
+Nobody else has detected that.
+
+DOCTOR X277
+And with that echo no showing it, maybe I'm crazy but I swear there's a.
+
+PATIENT X277
+Well let's check into it, crazy or not.
+
+DOCTOR X277
+Yeah.  Deep breath in.
+
+PATIENT X277
+(Coughs)
+
+DOCTOR X277
+Oh, okay one more time, okay.
+
+PATIENT X277
+See I been doing that.
+
+DOCTOR X277
+Deep breath.  How long has this been going on?
+
+PATIENT X277
+Been going on a while.  Once I came here I started telling him I says.
+
+DOCTOR X277
+You don't have a blood clot history in your family do you?
+
+PATIENT X277
+Hmm, you know what yes.  My mother died a year or so ago from blood clots.
+
+DOCTOR X277
+Blood clots okay.
+
+PATIENT X277
+Yeah.
+
+DOCTOR X277
+Okay where were the blood clots?
+
+PATIENT X277
+Oh God, it went from her chest to her brain or something like that.
+
+DOCTOR X277
+Okay, let me see your chart for a second, have a seat and I want to talk to DOCTOR.  I know @@@.
+
+PATIENT X277
+No I mean really, I like you.  You're going somewhere I really want to.
+
+DOCTOR X277
+Okay.
+
+PATIENT X277
+Again.
+
+DOCTOR X277
+Hang on to that.
+
+PATIENT X277
+They have so many doctors and nurses here that.
+
+DOCTOR X277
+Alright.
+
+PATIENT X277
+That are not too friendly.
+
+DOCTOR X277
+Oh.  I @@@.
+
+PATIENT X277
+I know.
+
+DOCTOR X277
+Have a seat.
+
+(DOCTOR OUT:  20:10  DOCTOR IN:  32:50)
+
+DOCTOR X277
+Alright.  Here's what we're gonna do.  I was talking with the other doctors okay.
+
+PATIENT X277
+Uh-huh.
+
+DOCTOR X277
+About how much to get excited about this cause you've had it, actually we were looking, you've had a very extensive work-up.
+
+PATIENT X277
+Uh-huh.
+
+DOCTOR X277
+Heart, lungs, let's work on @@@.
+
+PATIENT X277
+Okay.
+
+DOCTOR X277
+Okay and the parathyroid and see if that helps.
+
+PATIENT X277
+Okay.
+
+DOCTOR X277
+Okay and then um we'll go from there okay.  I want you to use just the Claritin.  You're telling me it felt like a congestion type of thing.
+
+PATIENT X277
+Uh-huh.  Do that para thing?
+
+DOCTOR X277
+Yeah do you have @@@ symptoms too?
+
+PATIENT X277
+Yeah.
+
+DOCTOR X277
+Use this occasionally, we want to something for the nose also.
+
+PATIENT X277
+Okay.
+
+DOCTOR X277
+Okay.  Let's try that.  So make sure you, I want to make sure you have renewals on that too.
+
+PATIENT X277
+Uh what I'm most concerned about is the breathing and the other item is the loss of muscle mass.  I mean I'm really losing muscle mass. 
+
+DOCTOR X277
+How are you @@@?  Are you lifting weights?
+
+PATIENT X277
+No I'm not doing anything.  I mean was really active about five years ago and.
+
+DOCTOR X277
+Oh okay.
+
+PATIENT X277
+And now @@@ so I'm not quite as active.
+
+DOCTOR X277
+@@@ okay, so it is a medical reason that you brought it up.
+
+PATIENT X277
+Well.
+
+DOCTOR X277
+So part of this, because you're not such a cardiac and there's that murmur.
+
+PATIENT X277
+Uh-huh.
+
+DOCTOR X277
+Okay.  This may not um, let's see okay.
+
+PATIENT X277
+But yeah, try to make a change on that as they're sending it to Apartment 1A and it should be 11A, A11.
+
+DOCTOR X277
+Uh you know.
+
+PATIENT X277
+I understand.  You're busy; yeah I'll have them do it out there.
+
+DOCTOR X277
+I don't know how to do that.  So let's do that.
+
+PATIENT X277
+Okay.
+
+DOCTOR X277
+And we'll do all the calcium stuff too, now DOCTOR ordered that okay.  Um I'm going to; those orders are still being assessed.
+
+PATIENT X277
+Okay.
+
+DOCTOR X277
+Uh let me if the orders are in.  And then I want to make sure you come see me okay.
+
+PATIENT X277
+And the muscle pain you were saying what?
+
+DOCTOR X277
+You're deconditioned.
+
+PATIENT X277
+Okay.
+
+DOCTOR X277
+You need to be doing like actually sit-ups.
+
+PATIENT X277
+Okay.
+
+DOCTOR X277
+It was interesting.  I thought it was very interesting, you know how it is interesting that this is very noticeable during intercourse.
+
+PATIENT X277
+Uh-huh.
+
+DOCTOR X277
+During intercourse you're using your core muscles.
+
+PATIENT X277
+Uh-huh.  So I need to work on my core.
+
+DOCTOR X277
+You've got to work on your core.
+
+PATIENT X277
+Is there someplace here I can do that?
+
+DOCTOR X277
+There is.  Have you been to the MOVE Program before?
+
+PATIENT X277
+No.
+
+DOCTOR X277
+You know it's an exercise program.
+
+PATIENT X277
+Works for me.
+
+DOCTOR X277
+Okay let's send you there okay.  You'll be happy with it okay.  And then this is the thing, this is why cause the other guy was supposed to come at 4:00 p.m., they overbooked me, he didn't show up.
+
+PATIENT X277
+Oh.
+
+DOCTOR X277
+He's in that program and apparently you have a work-out buddy and stuff and you keep track of your progress.
+
+PATIENT X277
+Uh-huh.
+
+DOCTOR X277
+And it's through the telephone.
+
+PATIENT X277
+Uh-huh.
+
+DOCTOR X277
+And it's sent through the VA and shows how you're doing.
+
+PATIENT X277
+Okay.
+
+DOCTOR X277
+Let's do that okay.  Um.
+
+PATIENT X277
+MOVE Program.
+
+DOCTOR X277
+Let's send you over there uh.  And we need to watch that murmur okay.
+
+PATIENT X277
+Okay.
+
+DOCTOR X277
+I swear I hear something there.  If you do all these things.
+
+PATIENT X277
+Uh-huh.
+
+DOCTOR X277
+And you come back to me in a couple months.
+
+PATIENT X277
+Uh-huh.
+
+DOCTOR X277
+Then we know that may have caused that.  We're going to get the echo done again.
+
+PATIENT X277
+Uh-huh.
+
+DOCTOR X277
+And I'll send you to Cardiology and they might do a cardiac test okay.
+
+PATIENT X277
+Okay.
+
+DOCTOR X277
+@@@.
+
+PATIENT X277
+Not a problem.
+
+DOCTOR X277
+Okay.
+
+PATIENT X277
+So when is the baby due?
+
+DOCTOR X277
+Uh she's 39 weeks as of today.
+
+PATIENT X277
+Uh-huh.
+
+DOCTOR X277
+So it's due anytime.
+
+PATIENT X277
+What are you getting boy or girl?
+
+DOCTOR X277
+Boy.
+
+PATIENT X277
+Boy congratulations.
+
+DOCTOR X277
+First baby.
+
+PATIENT X277
+You're gonna have to get another one, you know that right.
+
+DOCTOR X277
+Oh yeah.
+
+PATIENT X277
+You gotta get a girl for you.  The boys are gonna go to the mother. You need to; I'm telling I've got five girls.
+
+DOCTOR X277
+Oh boy.
+
+PATIENT X277
+Four boys, 21 grandkids.
+
+DOCTOR X277
+Oh my goodness.  Well this could be it.  @@@ I've always wondered if you get 15 @@@.
+
+PATIENT X277
+It's bizarre.  The never grow up, they never go away.
+
+DOCTOR X277
+You know that's nice, but I want to get the beginning done so.
+
+PATIENT X277
+That's fantastic.
+
+DOCTOR X277
+I mean I think it's great.
+
+PATIENT X277
+Uh Thanksgiving, holidays are really, really special.
+
+DOCTOR X277
+If you want to get this stuff done today go ahead okay.
+
+PATIENT X277
+Let's do it Monday.
+
+DOCTOR X277
+Okay.
+
+PATIENT X277
+Cause I've got somebody that's driving me and I need to go since it's close to noon.  So Monday is @@@.
+
+DOCTOR X277
+And let's put in for; see you in three months okay.
+
+PATIENT X277
+For what?
+
+DOCTOR X277
+We'll have you come back @@@.
+
+PATIENT X277
+Okay.
+
+DOCTOR X277
+Okay just call.  
+
+PATIENT X277
+Uh-huh.
+
+
+DOCTOR X277
+Um our schedules are a little bit better now.
+
+PATIENT X277
+Uh-huh.
+
+DOCTOR X277
+So hopefully um, let's me just find it, down here.   Okay.  I'm going to work on this, it'll be a project but I think we'll get through it.
+
+PATIENT X277
+Alrighty.
+
+DOCTOR X277
+Nice to see you again and thank you.
+
+PATIENT X277
+That's alright, it's alright.
+
+DOCTOR X277
+Okay, take care and tell them about the address okay.
+
+PATIENT X277
+Alright doc.
+
+DOCTOR X277
+Oh he's actually going to be checking out.
+
+PATIENT X277
+Okay.
+
+PATIENT LEAVES:  39:59
+
+Time is 4:45.
+
+
+
+

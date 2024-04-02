@@ -1,0 +1,1580 @@
+
+
+DOCTOR X731
+PATIENT Its been a while.
+
+PATIENT X731
+Oh yeah.
+
+DOCTOR X731
+How you doing?
+
+PATIENT X731
+Fine.
+
+DOCTOR X731
+Come on back.  You've got a new resident.  I checked security before @@@.
+
+PATIENT X731
+Oh right.
+
+DOCTOR X731
+The second door here on the right.  Oh here we go.
+
+PATIENT X731
+@@@ new right.  Alright.  How are you?
+
+DOCTOR X731
+I'm DOCTOR, how you been PATIENT?
+
+PATIENT X731
+Uh so, so.  I got a pain in my knee.
+
+DOCTOR X731
+Tell me about it.
+
+PATIENT X731
+And my chest pain still hurts.
+
+DOCTOR X731
+Yeah.
+
+PATIENT X731
+That's from my aorta he said, I don't know @@@.  The knee pain it hurts like 1, 3, 7 right here.
+
+DOCTOR X731
+Okay.  Let's talk about the knee first.
+
+PATIENT X731
+Okay.
+
+DOCTOR X731
+Knee first.  When did this start?
+
+PATIENT X731
+Oh it started, well I've always had bad knees.  It always comes and goes you know.
+
+DOCTOR X731
+Uh-huh.
+
+PATIENT X731
+It swells up sometimes cause I tore the ligaments and stuff in it.  @@@.  It was never @@@ or nothing.
+
+DOCTOR X731
+Yep and when did this start getting worse?
+
+PATIENT X731
+Uh about a month and a half ago, something like that.  About a month ago, that's when I seen you, a month ago.  Anyway.
+
+DOCTOR X731
+Oh no you saw me back in August.
+
+PATIENT X731
+Okay uh August?
+
+DOCTOR X731
+Yeah you saw me in August.  But you've seen other people since then.
+
+PATIENT X731
+Oh okay.
+
+DOCTOR X731
+Yeah um and you actually were seen by some cardiologist.
+
+PATIENT X731
+Oh yeah.
+
+DOCTOR X731
+In December and they were very happy with how your heart was doing.
+
+PATIENT X731
+Oh yeah.
+
+DOCTOR X731
+So what when we get to the chest uh we'll look at the medical record but no it's.
+
+PATIENT X731
+Okay, okay.
+
+DOCTOR X731
+Been a few months since you've seen me.
+
+PATIENT X731
+Alright.
+
+DOCTOR X731
+You've been seen by a lot of the psychiatrists.
+
+PATIENT X731
+Right.
+
+DOCTOR X731
+Um sometimes you're missing appointments but um.
+
+PATIENT X731
+I missed one appointment cause I didn't get @@@, just one.
+
+DOCTOR X731
+Okay, okay.  So did you injure the knee?
+
+PATIENT X731
+This knee always hurts.
+
+DOCTOR X731
+Always hurts.
+
+PATIENT X731
+Always hurts.
+
+DOCTOR X731
+For a long time.
+
+PATIENT X731
+Right, right.
+
+DOCTOR X731
+When did it get worse?
+
+PATIENT X731
+Last yeah really well it hurts you know what I mean.
+
+DOCTOR X731
+Okay it just hurts.  What are you taking for pain?
+
+PATIENT X731
+I take aspirin or Excedrin.
+
+DOCTOR X731
+You take aspirin or Excedrin?
+
+PATIENT X731
+Yeah, yeah.
+
+DOCTOR X731
+And how much does that help?
+
+PATIENT X731
+It numbs it a little bit but it don't last that long.
+
+DOCTOR X731
+Doesn't last long enough?
+
+PATIENT X731
+No, no.
+
+DOCTOR X731
+Okay uh.
+
+PATIENT X731
+Sometime I.
+
+DOCTOR X731
+Walking make it worse?
+
+PATIENT X731
+No I guess I walk too much or something like that.  I don't walk that much cause I can't walk that much with my breathing so I was working too much.  I know some time that pain came out of the blue you know.
+
+DOCTOR X731
+Okay.  Show me how well you can move it.  Can you kick your leg out straight?
+
+PATIENT X731
+What's that @@@.
+
+DOCTOR X731
+Where does it hurt, point.
+
+PATIENT X731
+Right here.
+
+DOCTOR X731
+Hurts all around.
+
+PATIENT X731
+Yeah.
+
+DOCTOR X731
+Okay um okay.  Now with a little bit of resistance I want you to do that same thing.  Okay I'm just gonna just resist you a little bit.
+
+PATIENT X731
+Uh-huh.
+
+DOCTOR X731
+Does that cause the pain to be worse?
+
+PATIENT X731
+Yeah it when you do it uh-huh.
+
+DOCTOR X731
+That makes it worse?
+
+PATIENT X731
+Yeah.
+
+DOCTOR X731
+And where is it the worst?  It is.
+
+PATIENT X731
+Right at the joint you know what I mean.
+
+DOCTOR X731
+Okay.  Can I roll up your pants?
+
+PATIENT X731
+Yeah I tried to roll them up myself but.
+
+DOCTOR X731
+We can get it.
+
+PATIENT X731
+There it's out of the way.  Sometimes it swells in there doc.
+
+DOCTOR X731
+Okay.  Sometimes it swells.
+
+PATIENT X731
+Yeah.
+
+DOCTOR X731
+And you think this has been going on for years?
+
+PATIENT X731
+Years since I was in the service it's been like that.
+
+DOCTOR X731
+Okay.
+
+PATIENT X731
+Yeah.
+
+DOCTOR X731
+Um what about if I move your leg like this?
+
+PATIENT X731
+No. @@@.
+
+DOCTOR X731
+Oh okay.  Now what if I do it this way?
+
+PATIENT X731
+There a little pain.
+
+DOCTOR X731
+Little bit.  Does it hurt on this side?
+
+PATIENT X731
+Yeah.
+
+DOCTOR X731
+When I do this?
+
+PATIENT X731
+Yeah a little bit.
+
+DOCTOR X731
+Okay.  I'm not trying to torture you.
+
+PATIENT X731
+Uh-huh.
+
+DOCTOR X731
+Um okay.  Well you know what this most likely is, it's just osteoarthritis okay which is when, in between all of our joint we have.
+
+PATIENT X731
+Can I put it down?
+
+DOCTOR X731
+Yeah you can put that down now.
+
+PATIENT X731
+Okay.
+
+DOCTOR X731
+There's no swelling in there.  I don't think it's infected.  I don't think there's.
+
+PATIENT X731
+No.  There's no actual swelling in there.
+
+DOCTOR X731
+No.
+
+PATIENT X731
+But it swells up and goes down you know.
+
+DOCTOR X731
+Okay.  When that happens, if it does swell up you can always put ice on it.
+
+PATIENT X731
+Right.
+
+DOCTOR X731
+Okay.  You can always put a bag of ice or a bag of cold peas or whatever.
+
+PATIENT X731
+Oh yes.
+
+DOCTOR X731
+Something like that.  Um but what I'm gonna do is maybe get an x-ray of this.
+
+PATIENT X731
+Oh wow.
+
+DOCTOR X731
+Okay because I want to see if you have osteoarthritis.
+
+PATIENT X731
+Okay.
+
+DOCTOR X731
+Okay.  Osteoarthritis is when the space in between two bones shrinks.
+
+PATIENT X731
+Right.
+
+DOCTOR X731
+When you get bone on bone.
+
+PATIENT X731
+Uh-huh.
+
+DOCTOR X731
+Okay.  That's very painful to people okay.  Um and it's painful kind of all the time, anytime you move.
+
+PATIENT X731
+Right @@@.
+
+DOCTOR X731
+Yeah I mean it doesn't seem like there is one particular thing that makes this a lot worse uh it just kind of bothers you.
+
+PATIENT X731
+Okay yeah.
+
+DOCTOR X731
+Okay.  Um it's a tough thing to treat, I'll just tell you.  It's a tough thing to treat because there isn't a good surgery for this.
+
+PATIENT X731
+No.
+
+DOCTOR X731
+Uh you know so the thing that I need to make sure is that your bones, the health of your bones overall.
+
+PATIENT X731
+Right.
+
+DOCTOR X731
+Is okay.
+
+PATIENT X731
+Okay.
+
+DOCTOR X731
+Uh let me just look at your last set of labs that we got for you okay.
+
+PATIENT X731
+Okay.
+
+DOCTOR X731
+Yeah so your kidney function is perfect.
+
+PATIENT X731
+Hmm.
+
+DOCTOR X731
+Um which is very good.  
+
+PATIENT X731
+Must have got lucky with that, I'm gonna get to live so.
+
+DOCTOR X731
+Yeah.
+
+PATIENT X731
+Yeah.
+
+DOCTOR X731
+So that's good.
+
+PATIENT X731
+(Coughs) Excuse me.
+
+DOCTOR X731
+Alright.  How's your appetite doing?
+
+PATIENT X731
+I stay hungry doc.
+
+DOCTOR X731
+Good.  No changes, no weight loss?
+
+PATIENT X731
+No.  I need some vitamins doc.
+
+DOCTOR X731
+What kind of vitamins?
+
+PATIENT X731
+Some vitamins the nurse wanted me to get, like @@@ some kind of vitamin I need so.
+
+DOCTOR X731
+Okay.
+
+PATIENT X731
+Alright.
+
+DOCTOR X731
+I'm okay with that.
+
+PATIENT X731
+Okay.
+
+DOCTOR X731
+Um you know you can get that anywhere but I can, I mean I can do that too through the VA.
+
+PATIENT X731
+Okay.
+
+DOCTOR X731
+No PATIENT let's talk about the chest pain.
+
+PATIENT X731
+Okay good.
+
+DOCTOR X731
+Okay because the chest pain is not from your heart.
+
+PATIENT X731
+Just from my old appointment you said.
+
+DOCTOR X731
+Well you've got an aneurysm but that that doesn't cause chest pain.
+
+PATIENT X731
+Okay.
+
+DOCTOR X731
+Okay.  We're gonna continue to monitor that.
+
+PATIENT X731
+Okay.
+
+DOCTOR X731
+Okay probably with you know maybe we'll get a picture about every year.
+
+PATIENT X731
+Okay.
+
+DOCTOR X731
+And follow you for that.
+
+PATIENT X731
+Okay.
+
+DOCTOR X731
+Okay.
+
+PATIENT X731
+Okay.
+
+DOCTOR X731
+Um but there's nothing new.
+
+PATIENT X731
+Right.
+
+DOCTOR X731
+And that's not the cause of this pain.
+
+PATIENT X731
+Okay.
+
+DOCTOR X731
+So but you're still having pain.  I believe you.
+
+PATIENT X731
+Uh-huh.
+
+DOCTOR X731
+So we've got to figure out what.
+
+PATIENT X731
+What do we do?
+
+DOCTOR X731
+Uh what is that pain and what can we do about it.
+
+PATIENT X731
+Okay.
+
+DOCTOR X731
+Now I need you to think really hard.  Does the pain that you get in the chest is it ever related to food ever?
+
+PATIENT X731
+No.
+
+DOCTOR X731
+Never.
+
+PATIENT X731
+No.
+
+DOCTOR X731
+And when I mean that, I mean.
+
+PATIENT X731
+Primary pain.
+
+DOCTOR X731
+Is there pain with particular kinds of food?
+
+PATIENT X731
+No.
+
+DOCTOR X731
+Okay.  Are there, is there any relation like you eat a meal and between 30 minutes or an hour later you have pain.
+
+PATIENT X731
+You mean do I get gas or something like that?
+
+DOCTOR X731
+Yeah.
+
+PATIENT X731
+No I don't get gas.
+
+DOCTOR X731
+Well it's not just gas.  There's something called acid reflux.
+
+PATIENT X731
+Let me tell you what it is.  Sharp pain.
+
+DOCTOR X731
+It's sharp pain.
+
+PATIENT X731
+Right in here.
+
+DOCTOR X731
+And how long does it last?
+
+PATIENT X731
+Well sometimes it lasts four, five hours.  Sometimes it can come @@@ it will cause me to take aspirin every once in a while.  I took them up but it still hurts.  The aspirin don't do anything you know, like when I'm just about really go do it, @@@ you know what I'm saying.
+
+DOCTOR X731
+You don't okay.  Um not, no spicy foods, it makes this worse?
+
+PATIENT X731
+No, no.
+
+DOCTOR X731
+Okay.  Coffee even.
+
+PATIENT X731
+Well I drink a lot of coffee.  I don't know what's been making it going on.
+
+DOCTOR X731
+How much coffee do you drink?
+
+PATIENT X731
+About two cups a day.
+
+DOCTOR X731
+Oh that's not too bad.
+
+PATIENT X731
+Hmm.
+
+DOCTOR X731
+I thought you were gonna say like ten.
+
+PATIENT X731
+No. No.
+
+DOCTOR X731
+Okay so two cups of coffee is okay.
+
+PATIENT X731
+Maybe two big cups, you know I only take it to try to get up in the morning you know.
+
+DOCTOR X731
+Yeah okay.  Um and you smoke.
+
+PATIENT X731
+Right, right.
+
+DOCTOR X731
+Okay um.
+
+PATIENT X731
+About ten cigarettes a day.  Uh 10-12 cigarettes a day that's about it.
+
+DOCTOR X731
+Okay.
+
+PATIENT X731
+Or those I don't give away.
+
+DOCTOR X731
+What's that?
+
+PATIENT X731
+I would say how many I give away.  My son's always asking me for a cigarette cause he don't buy some.
+
+DOCTOR X731
+Well any chance you're gonna quit?
+
+PATIENT X731
+No, no.
+
+DOCTOR X731
+Okay.  Are you drinking at all?
+
+PATIENT X731
+Huh?
+
+DOCTOR X731
+Do you drink alcohol?
+
+PATIENT X731
+No.
+
+DOCTOR X731
+Ever?
+
+PATIENT X731
+Now I had a beer about two, three days ago yeah.
+
+DOCTOR X731
+Okay so just rarely?
+
+PATIENT X731
+Rarely, very rarely cause I don't want to drink nothing I my son and his wife and there's gonna be a birth of a baby coming up.  I could give you one thing and that's what I'm saying.
+
+DOCTOR X731
+Uh cocaine, marijuana anything @@@.
+
+PATIENT X731
+No, that stuff will kill me.  No.
+
+DOCTOR X731
+No, no.
+
+PATIENT X731
+When I was a kid I used to have marijuana you know.
+
+DOCTOR X731
+Okay.
+
+PATIENT X731
+Ever since I was over 21, @@@ I'm not like that no more.
+
+DOCTOR X731
+Okay and uh how's life at home?  How you doing?
+
+PATIENT X731
+Well right now I'm trying just to keep moving, @@@ making doctor's appointments uh @@@ going to the doctor when I can't pay them right away but uh.
+
+DOCTOR X731
+Where are you moving to?  Why are you moving?
+
+PATIENT X731
+Why am I moving?  The house was, the place I was living ADDRESS, man the roaches and little bitty mices running all over the place you know man.
+
+DOCTOR X731
+Got get out of there.
+
+PATIENT X731
+I'm tired of that you know.
+
+DOCTOR X731
+Yeah.
+
+PATIENT X731
+Then I laid down in the bed and Lord one time @@@.
+
+DOCTOR X731
+Okay that sounds like it's a good idea for you to get out of there.
+
+PATIENT X731
+Yeah.
+
+DOCTOR X731
+Okay um let me see.  Does it hurt when I press?
+
+PATIENT X731
+No it hurts when you press it here.
+
+DOCTOR X731
+It does hurt there.
+
+PATIENT X731
+Right there yeah.
+
+DOCTOR X731
+Okay.  I want you to move your shoulder.
+
+PATIENT X731
+Oh man.
+
+DOCTOR X731
+And I'll have you move your shoulder; I want you to go out like this.  Go up and as far as you can go.  Does that cause pain?
+
+PATIENT X731
+Yeah and it's got me coughing too.
+
+DOCTOR X731
+That causes pain right there?
+
+PATIENT X731
+A sharp pain right over here.
+
+DOCTOR X731
+Okay.  Now I want you to go forward, I want you to go up.
+
+PATIENT X731
+Going up.
+
+DOCTOR X731
+Does that cause the pain?
+
+PATIENT X731
+A little pain, but not much.
+
+DOCTOR X731
+Okay.  Well.
+
+PATIENT X731
+It sure is not gas was it.
+
+DOCTOR X731
+No I think it's a muscle.
+
+PATIENT X731
+Hmm.
+
+DOCTOR X731
+That, just doing that much and it causes pain.
+
+PATIENT X731
+No not this one over here does.
+
+DOCTOR X731
+That one over there?
+
+PATIENT X731
+Yeah.
+
+DOCTOR X731
+Okay.  Okay.  Um what do you do with that arm?
+
+PATIENT X731
+What do I do with that arm?
+
+DOCTOR X731
+Yeah.
+
+PATIENT X731
+Sleep on it.
+
+DOCTOR X731
+Okay.
+
+PATIENT X731
+@@@ I'll catch it @@@.
+
+DOCTOR X731
+You do, do you do you know kind of activities like lifting a lot with that arm?
+
+PATIENT X731
+Yeah at work.
+
+DOCTOR X731
+You.
+
+PATIENT X731
+@@@.
+
+DOCTOR X731
+Okay like do you like, do you have you know small children or anything you have to pick up?
+
+PATIENT X731
+Oh yeah, yeah, my grandson's he's at least six months so I tell her I can't hold him too long, you know what I mean.
+
+DOCTOR X731
+Yeah.
+
+PATIENT X731
+That's why, he weighs about 20 pounds, 25 pounds, something like that.
+
+DOCTOR X731
+Okay.  My friend, I think that this is a muscle pain.
+
+PATIENT X731
+Okay.
+
+DOCTOR X731
+So what I want you to do is rest and ice it.
+
+PATIENT X731
+Hmm.
+
+DOCTOR X731
+I want you to keep something cold on there.
+
+PATIENT X731
+Okay.
+
+DOCTOR X731
+20 minutes at night.
+
+PATIENT X731
+Uh-huh.
+
+DOCTOR X731
+Okay.
+
+PATIENT X731
+Hmm.
+
+DOCTOR X731
+This is gonna get better.
+
+PATIENT X731
+Uh-huh.
+
+DOCTOR X731
+Okay.  If it persists then maybe it is something like gas.
+
+PATIENT X731
+Uh-huh.
+
+DOCTOR X731
+But I'm not gonna give you another medicine right now cause I'm not suspicious that this is gas.
+
+PATIENT X731
+Uh-huh.
+
+DOCTOR X731
+I'm more suspicious that this is a muscle.
+
+PATIENT X731
+Okay.
+
+DOCTOR X731
+Okay.
+
+PATIENT X731
+Okay.
+
+DOCTOR X731
+I do think it might be worth getting a picture of the knee just to see that there isn't anything that is really abnormal and to see if this could be osteoarthritis.
+
+PATIENT X731
+Okay.
+
+DOCTOR X731
+Okay.  Um and again this has been a long term pain issue for you.
+
+PATIENT X731
+Right this has been long term.
+
+DOCTOR X731
+I mean has it gotten very worse?
+
+PATIENT X731
+No not worse it's just the pain is still kind swelling.  It's a @@@.  But I'm trying not to walk too far every day but I still have @@@ you know stuff like that.
+
+DOCTOR X731
+Okay.  I think that you moving is a great idea because being around lots of cockroaches and mice.
+
+PATIENT X731
+Yeah, yeah, yeah.
+
+DOCTOR X731
+Might affect how long you can breathe.
+
+PATIENT X731
+Yes @@@ down there.
+
+DOCTOR X731
+Okay.  So um we will do those things.  Anything else that you want to talk about?
+
+PATIENT X731
+Yes a headaches, what do we do about that?
+
+DOCTOR X731
+How often do you get headaches?
+
+PATIENT X731
+I get migraine headaches and I get pain from here all the way back, you know what I mean.  Migraines.
+
+DOCTOR X731
+Do you ever get nauseous or vomit with the headaches?
+
+PATIENT X731
+Yeah I get nauseous, you understand me, you know.  Yeah I get nauseous and I passed out a couple of times, cause sometimes I'm walking, you know stop, looks like my head is a post, you know a couple times when I walk and stop I pass out and I feel like I'm going down you know what I mean.
+
+DOCTOR X731
+Yeah.  I mean is it on both sides of your head that you have the pain?
+
+PATIENT X731
+Yes, @@@ right here.
+
+DOCTOR X731
+Okay.  The pain does it feel like it pulses or is it just constant?
+
+PATIENT X731
+It's a pulsating thing.
+
+DOCTOR X731
+Okay and you do sometimes get nauseous?
+
+PATIENT X731
+Yeah.
+
+DOCTOR X731
+Okay.  Do you notice any improvement in the headache if you take a medicine like acetaminophen or Tylenol?
+
+PATIENT X731
+Did it improve it?
+
+DOCTOR X731
+Yeah.
+
+PATIENT X731
+No way @@@.
+
+DOCTOR X731
+It doesn't.
+
+PATIENT X731
+No.  I feel like sometimes I have to go to sleep you know cause it's @@@.
+
+DOCTOR X731
+Okay and does that help?
+
+PATIENT X731
+Yeah you know seem like at 9 o'clock in the morning, going back to sleep come on, like I got to sleep good at night but I don't think @@@ wake up at 3 o'clock in the morning and go back to sleep at 9 you know.
+
+DOCTOR X731
+Uh-huh.
+
+PATIENT X731
+@@@ mostly the problem.  What do you think @@@.
+
+DOCTOR X731
+Well it could be migraine.
+
+PATIENT X731
+Okay.
+
+DOCTOR X731
+How often do you get this?
+
+PATIENT X731
+@@@.
+
+DOCTOR X731
+Over a month, how many times?
+
+PATIENT X731
+Oh I keep having it, man I keep having it.  Like I @@@ to work, sometimes it get better, sometime it get worse.  Right now I got one of those headaches now but it hurts me right here see.
+
+DOCTOR X731
+Uh-huh.
+
+PATIENT X731
+That's what it is, not all over.
+
+DOCTOR X731
+Okay well it could be a headache.  But I mean it could be migraines.
+
+PATIENT X731
+Hmm.
+
+DOCTOR X731
+Um there are medicines that are available that you can take once the headache starts.
+
+PATIENT X731
+Okay.
+
+DOCTOR X731
+Um I haven't prescribed it to people here at the VA cause I haven't had too many folks that have true migraines.
+
+PATIENT X731
+Yeah.
+
+DOCTOR X731
+This could be true migraines um, let me see if they have them.  
+
+PATIENT X731
+And I hate to tell you this but before you gave me some Viagra.
+
+DOCTOR X731
+Yeah.
+
+PATIENT X731
+One pill cause that what worked, come on I had the only one pill, one pill?
+
+DOCTOR X731
+I didn't give you just one.  Now listen the VA restricts me.
+
+PATIENT X731
+Uh-huh.
+
+DOCTOR X731
+Okay.  I'm only allowed to give you two pills a month.  If it was only one that was a mistake.  It was meant to be two.
+
+PATIENT X731
+Okay.
+
+DOCTOR X731
+Um but the issue, here I'm changing this right now.
+
+PATIENT X731
+Okay.
+
+DOCTOR X731
+Um I don't know why the VA does this.  You know you were in the Army you know or some service and now they want to control every part of your life.  I don't know what the story is behind that but they only let me prescribe two pills a month.
+
+PATIENT X731
+I only got one.  Now you see what I'm saying, one pill.
+
+DOCTOR X731
+Yeah.
+
+PATIENT X731
+One pill, one pill you know get your girlfriend or something, you know what I mean and she want to do some more.
+
+DOCTOR X731
+Yeah.  Okay my friend.  Um when I look at this uh the medicine that I was thinking I wanted to give you.
+
+PATIENT X731
+Uh-huh.
+
+DOCTOR X731
+It turns out I can only give to you if I'm a neurologist.
+
+PATIENT X731
+Uh-huh.  Well is the fact that @@@ well you the doctor, @@@ what do you think about that?
+
+DOCTOR X731
+We talked about that.  They want to monitor that in a year.
+
+PATIENT X731
+Okay.
+
+DOCTOR X731
+There's nothing to do.  There's no problem related to your heart.
+
+PATIENT X731
+Right.
+
+DOCTOR X731
+You're heart's healthy but you do have a little bit of dilation of the aorta.
+
+PATIENT X731
+Right.
+
+DOCTOR X731
+And there's nothing to do about it.  We're just gonna monitor it.
+
+PATIENT X731
+Oh okay.
+
+DOCTOR X731
+To make sure that it doesn't, if it gets bigger, eventually you might have to have a surgery.
+
+PATIENT X731
+Uh-huh.
+
+DOCTOR X731
+But right now there isn't any indication to have to do that okay.
+
+PATIENT X731
+Okay.
+
+DOCTOR X731
+I can uh you know, I can refer you to the neurologist.
+
+PATIENT X731
+No, no.
+
+DOCTOR X731
+For the headache and they can prescribe you the medicine for, specific for migraines.  From the sound of it, it could be migraines.
+
+PATIENT X731
+Hmm.  Let's hope it is cause I don't want to take @@@.  I can't come over here, I got to stay all the way.
+
+DOCTOR X731
+Right, right, right @@@.
+
+PATIENT X731
+Hospital @@@.
+
+DOCTOR X731
+You're not taking the right medicine for migraine.
+
+PATIENT X731
+Okay.
+
+DOCTOR X731
+I want to give you something but the VA is limiting me.  I can't give you this medicine unless I'm a neurologist so I can send you to the neurologist and they can assess your headaches.
+
+PATIENT X731
+Okay.
+
+DOCTOR X731
+And see if they will do it.
+
+PATIENT X731
+Alright, alright, alright, alright.  I was telling you that.
+
+DOCTOR X731
+Okay.  So that's what we'll do.
+
+PATIENT X731
+Okay.
+
+DOCTOR X731
+Let me uh just go run this past DOCTOR okay.
+
+PATIENT X731
+Yeah.
+
+DOCTOR X731
+And I'll be back in a moment.
+
+PATIENT X731
+Take your time.
+
+DOCTOR X731
+Okay.  Okay good to see you.
+
+PATIENT X731
+Okay.
+
+(DOCTOR OUT:  41:59  DOCTOR IN:  48:28)
+
+DOCTOR X731
+Okay you ready.  You know I got to say that I think quitting smoking; I @@@ to figure out how I can get you this medicine for headaches.
+
+PATIENT X731
+Uh-huh.
+
+DOCTOR X731
+Okay.  So when you start to get a headache okay.
+
+PATIENT X731
+Uh-huh.
+
+DOCTOR X731
+I want you to take this medicine.  I'm giving you uh 30 days’ worth.
+
+PATIENT X731
+Okay.
+
+DOCTOR X731
+With a couple of refills.
+
+PATIENT X731
+Okay.
+
+DOCTOR X731
+Do you want to pick this up at the window or?
+
+PATIENT X731
+Yes.
+
+DOCTOR X731
+Okay.
+
+PATIENT X731
+Could you get it sent in to Walgreens?
+
+DOCTOR X731
+Yeah, you could, yeah.
+
+PATIENT X731
+Uh give it to me at Walgreens.
+
+DOCTOR X731
+You could go up there today actually.  Um I'll send you to Prosthetics.
+
+PATIENT X731
+Where's that?
+
+DOCTOR X731
+Do you know where that is?
+
+PATIENT X731
+No @@@.
+
+DOCTOR X731
+Um it is uh I believe you go to the xxx Center and it's in the xxx Center but I would have you, what I'd have you do is ask the folks at the desk and they'll be able to tell you exactly where it is.
+
+PATIENT X731
+Okay.
+
+DOCTOR X731
+I'm pretty sure that's where it is.
+
+PATIENT X731
+Okay.
+
+DOCTOR X731
+Okay.  Yeah I'm glad that you asked that.  Like @@@ to say that.  Okay.
+
+PATIENT X731
+I would probably do that for the others ones cause I had one once before you know and after I was done I just didn't get another one, you know what I mean.  You want me to get a flu shot while I'm here too?
+
+DOCTOR X731
+Yeah well it's kind of you're getting to the end of the flu season but do you need a flu shot?
+
+PATIENT X731
+Oh is it the end of the flu season oh okay.
+
+DOCTOR X731
+@@@.  Okay.  Got that and then um yeah we're kind of getting to the end of the flu shot season.  I want to get this x-ray okay.
+
+PATIENT X731
+The what?
+
+DOCTOR X731
+Of the knee yeah.  We can get it today.
+
+PATIENT X731
+Okay.
+
+DOCTOR X731
+Okay.  So um do you know where that is?
+
+PATIENT X731
+No just tell me what you want, it's one of those things I just walk around here you know what I'm saying.
+
+DOCTOR X731
+Okay we're just gonna get it of the right knee.
+
+PATIENT X731
+Alright.
+
+DOCTOR X731
+Okay um let's see.  They're on the first floor.  This one I do know where it is okay.  You go down as though you're walking all the way over to the xxx Center.
+
+PATIENT X731
+Uh-huh.
+
+DOCTOR X731
+Uh the xxx Pavilion, whatever it's called.
+
+PATIENT X731
+Hmm.
+
+DOCTOR X731
+And then when you @@@ into that wall, kind of where the wall comes @@@ you take a left.
+
+PATIENT X731
+Okay.
+
+DOCTOR X731
+Okay.
+
+PATIENT X731
+I'll find it.
+
+DOCTOR X731
+Yeah.  Um do this today.
+
+PATIENT X731
+Right.
+
+DOCTOR X731
+Okay.
+
+PATIENT X731
+That's for the right knee right?
+
+DOCTOR X731
+Right knee.
+
+PATIENT X731
+Right.
+
+DOCTOR X731
+Okay.  You're gonna go to Prosthetics.
+
+PATIENT X731
+What's at Prosthetics.
+
+DOCTOR X731
+That's where you're going now.
+
+PATIENT X731
+Okay.
+
+DOCTOR X731
+And you're gonna ask them where Prosthetics is.
+
+PATIENT X731
+Okay.
+
+DOCTOR X731
+Okay.
+
+PATIENT X731
+Better get me to write it down so they can have it on the computer.
+
+DOCTOR X731
+Okay I will.  I'm gonna write it down right now.
+
+PATIENT X731
+Okay.
+
+DOCTOR X731
+Okay.  This is your sheet that says number Prosthetics.
+
+PATIENT X731
+Uh-huh.
+
+DOCTOR X731
+Number two X-Ray and number three meds.  You're gonna pick up your medicines.  Your medicines you're gonna pick up are this medicine for headaches.
+
+PATIENT X731
+Okay.
+
+DOCTOR X731
+Called sumatriptan.
+
+PATIENT X731
+Hmm.
+
+DOCTOR X731
+Remember triptan.
+
+PATIENT X731
+Uh-huh.
+
+DOCTOR X731
+Okay and you're gonna take this at the start of your headache.
+
+PATIENT X731
+Okay.
+
+DOCTOR X731
+Okay when you start to feel it come on, that's when you take it.
+
+PATIENT X731
+Okay.
+
+DOCTOR X731
+Okay.  Um for the leg I want you to not take aspirin for pain.
+
+PATIENT X731
+Okay.
+
+DOCTOR X731
+I want you to take a different medicine that I'm gonna prescribe for you and pick it up at the window and it is called acetaminophen.
+
+PATIENT X731
+Okay.
+
+DOCTOR X731
+Or Tylenol.
+
+PATIENT X731
+So.
+
+DOCTOR X731
+Okay.
+
+PATIENT X731
+I want some more of that @@@.
+
+DOCTOR X731
+You want a little more?
+
+PATIENT X731
+Not Tylenol, no what's wrong with Tylenol @@@.
+
+DOCTOR X731
+Well I mean I can give you a different type of medicine.  I can give you a medicine called Naproxen.
+
+PATIENT X731
+Okay and would it stop the pain or something?
+
+DOCTOR X731
+Yeah it's a good medicine for osteoarthritis.
+
+PATIENT X731
+Okay.
+
+DOCTOR X731
+Okay but I only want you to take it when it's bothering you.
+
+PATIENT X731
+Okay.
+
+DOCTOR X731
+Okay.  Um don't take uh, don't take it all the time okay, like around-the-clock kind of thing.
+
+PATIENT X731
+Oh don't take it like three or four times a day you know.
+
+DOCTOR X731
+No.
+
+PATIENT X731
+Okay.
+
+DOCTOR X731
+I think you should just take it you know twice a day at the most.
+
+PATIENT X731
+Okay.
+
+DOCTOR X731
+Okay.
+
+PATIENT X731
+That's the same as @@@ what is it?
+
+DOCTOR X731
+Naproxen.
+
+PATIENT X731
+Naproxen okay.
+
+DOCTOR X731
+Naproxen.
+
+PATIENT X731
+Okay.
+
+DOCTOR X731
+Okay.
+
+PATIENT X731
+That's good for headaches too?
+
+DOCTOR X731
+Not as good as the triptan.
+
+PATIENT X731
+Okay.
+
+DOCTOR X731
+Okay.  It can work on headaches but not as good as the triptan.
+
+PATIENT X731
+Okay.
+
+DOCTOR X731
+So I'm giving you two medicines today, one for headaches.
+
+PATIENT X731
+Uh-huh.
+
+DOCTOR X731
+And one for the knees.
+
+PATIENT X731
+Right.
+
+DOCTOR X731
+And when we'll get the x-ray and we'll get the cane.
+
+PATIENT X731
+Okay.
+
+DOCTOR X731
+Okay.  Sound good?
+
+PATIENT X731
+Yeah.  Oh I forgot to tell you, I got a little rising right here, a little knot you know what I mean and I had one on this side but it got kind of big but it burst on its own so what do I do about that?  Cause it's really not that, you know it got about that big around and then uh I had one on this side that big and @@@.
+
+DOCTOR X731
+Did it go away?
+
+PATIENT X731
+It busted.
+
+DOCTOR X731
+Okay.
+
+PATIENT X731
+It busted.
+
+DOCTOR X731
+I mean is it a boil?
+
+PATIENT X731
+Yeah it was a rubbing boil.
+
+DOCTOR X731
+It might go away so use a warm compress.  Don't try to stick it with a needle or something cause you could get a bad infection.
+
+PATIENT X731
+Okay I know what to do.
+
+DOCTOR X731
+You know and that's a sensitive area to get a bad infection.
+
+PATIENT X731
+Yeah.
+
+DOCTOR X731
+Okay.
+
+PATIENT X731
+Yeah.
+
+DOCTOR X731
+Alright.  Good to see you again and just use warm compresses.
+
+PATIENT X731
+Okay.
+
+DOCTOR X731
+Okay and it'll burst on its own.
+
+PATIENT X731
+Okay, alright.
+
+DOCTOR X731
+Be well.
+
+PATIENT X731
+Oh what did you say for the dizziness?  @@@.
+
+DOCTOR X731
+I can't just give you something for dizziness, @@@.
+
+PATIENT X731
+No what I'm saying, never mind I'll survive.  I'll see you next time.
+
+DOCTOR X731
+Okay we will see each other again, let's look, when do I need to see you, let me see when your last labs were.  Um let's see each other in the fall.
+
+PATIENT X731
+Okay.
+
+DOCTOR X731
+Okay.  I'll put in a follow-up appointment for you for the fall.
+
+PATIENT X731
+Alright.
+
+DOCTOR X731
+Okay you'll get a letter.
+
+PATIENT X731
+Okay thank you.
+
+DOCTOR X731
+Take care.
+
+PATIENT X731
+Uh-huh.
+
+PATIENT LEAVES:  55:24
+
+
+

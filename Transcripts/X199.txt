@@ -1,0 +1,496 @@
+
+DOCTOR X199
+PATIENT?
+
+PATIENT X199
+Yes sir.  Little aches and pains.
+
+DOCTOR X199
+Yeah.  @@@ behind you.
+
+PATIENT X199
+Alright.
+
+DOCTOR X199
+Have a seat.
+
+PATIENT X199
+Alright.
+
+DOCTOR X199
+@@@.
+
+PATIENT X199
+Uh not too bad.  Where can I put my jacket, over there, okay?
+
+DOCTOR X199
+Okay.  So what is new?  It's been what since October?
+
+PATIENT X199
+Yeah, we had an appointment, they made an earlier appointment but uh somehow it got crossed up or something cause when I came in for the blood tests I asked them about the appointment and they go no, something got criss-crossed so they made me another appointment for now.
+
+DOCTOR X199
+Okay.
+
+PATIENT X199
+Which is alright.
+
+DOCTOR X199
+How you been doing?
+
+PATIENT X199
+Alright.  Last couple days I got a little bit of the chills.  I don't know what the, picked something up.  Well and I'm outside you know, when I'm inside I tend to feel alright.  Usually I'm working outside when I, I drop stuff off at constructions sites, you know materials and stuff like that for the.
+
+DOCTOR X199
+Okay, okay.  Yeah what kind of work do you do?
+
+PATIENT X199
+I drive a delivery truck and mostly right now I'm driving for an electrical company so I'm you know delivering electrical conduit, wiring and stuff like that.
+
+DOCTOR X199
+Alright.  How's your diabetes been doing?
+
+PATIENT X199
+Uh.
+
+DOCTOR X199
+Do you check your blood sugar ever?
+
+PATIENT X199
+No I usually don't do, I usually don't check it myself.  I was in for the blood test last week.  I don't know if the results came back.
+
+DOCTOR X199
+They did.  Yeah I'll go through that with you.  You've been feeling well though as far as not having any trouble with nausea, vomiting?
+
+PATIENT X199
+Uh, I did about a month ago.  I had it for like, I think I must have picked up some kind of a, ate something bad or something cause it was like a 24 hour thing.  But normally I've been doing pretty good and feeling pretty good.  Appetite's good.
+
+DOCTOR X199
+Good.  How's your weight?
+
+PATIENT X199
+Uh it's pretty steady.
+
+DOCTOR X199
+Wow.
+
+PATIENT X199
+Stays pretty much at the.
+
+DOCTOR X199
+That's right, exactly the same.
+
+PATIENT X199
+Yeah, for a long time.
+
+DOCTOR X199
+Good.  I mean I'd like you to lose 10 pounds but as long as you're not going up.
+
+PATIENT X199
+Yeah I should probably lose 20 at least.
+
+DOCTOR X199
+Alright, what medicines are you taking, anything?
+
+PATIENT X199
+Uh yeah I brought some of the stuff uh; well we're taking the metformin.
+
+DOCTOR X199
+Yeah.
+
+PATIENT X199
+They tell me to take two, usually I just take one.  Usually I've been averaging probably one a day.
+
+DOCTOR X199
+So this one you take it twice a day so once in the morning and once at night.
+
+PATIENT X199
+Yeah.
+
+DOCTOR X199
+Alright.  Omeprazole, simvastatin.
+
+PATIENT X199
+Yeah a doctor gave me something.  He said my cholesterol was a little high so he gave me something for the, for the cholesterol I guess.
+
+DOCTOR X199
+Okay.  Do you still take an aspirin every day?
+
+PATIENT X199
+Uh probably every other day.
+
+DOCTOR X199
+Yeah.
+
+PATIENT X199
+You know the low dose one I just take it like uh.
+
+DOCTOR X199
+Any numbness or tingling in your hands or feet?
+
+PATIENT X199
+No, no they're pretty good.
+
+DOCTOR X199
+Okay.
+
+PATIENT X199
+I always make toast in the morning and it always comes, you know it always comes out hot, I pull it out.
+
+DOCTOR X199
+@@@.  Well, here's your blood tests, we can go through it.
+
+PATIENT X199
+Okay.
+
+DOCTOR X199
+Prostate test was normal.
+
+PATIENT X199
+Really.
+
+DOCTOR X199
+Yep.  We'll do a.
+
+PATIENT X199
+Terrific.
+
+DOCTOR X199
+Which helps to identify problems with the prostate.
+
+PATIENT X199
+Wow.
+
+DOCTOR X199
+Um kidney function is normal.  Your glucose was right at the borderline so what we could consider diabetes and we already know that @@@ fine.  Liver function is good.  This was back in a little bit, even further back like in October so you've had some urine tested for, showed some reflection of diabetes and then the cholesterol which was a little bit high back then.  So the things that we want to do now.  Now do you get your blood checked with that outside doctor?
+
+PATIENT X199
+Uh, when I go to the office I think the last time I was probably there about a month and a half ago or so.
+
+DOCTOR X199
+Okay.
+
+PATIENT X199
+They did a blood test and it was like, I think he said it was like 130 or something like that.  Like my blood count.
+
+DOCTOR X199
+Yeah.  Well, I want to avoid having too many cooks in the kitchen.
+
+PATIENT X199
+Yeah.
+
+DOCTOR X199
+But there's information that we need to share that that doctor and myself or.
+
+PATIENT X199
+Yeah.
+
+DOCTOR X199
+Or we'll have to have you repeat some of the blood tests here.
+
+PATIENT X199
+Okay.
+
+DOCTOR X199
+So if you have any blood work there, bring it into me.
+
+PATIENT X199
+Okay.
+
+DOCTOR X199
+Uh if you're willing though I'll get some blood tests here.
+
+PATIENT X199
+Sure.
+
+DOCTOR X199
+Okay.
+
+PATIENT X199
+Well how did the blood test last week show up for the fasting?
+
+DOCTOR X199
+Yeah that was good.
+
+PATIENT X199
+It did.
+
+DOCTOR X199
+Yeah now they didn't do um a cholesterol.
+
+PATIENT X199
+Oh okay but they did the uh.
+
+DOCTOR X199
+They did the prostate, the kidney and liver and um electrolytes.
+
+PATIENT X199
+Hmm.
+
+DOCTOR X199
+But no cholesterol and @@@ since you started on that medication @@@.
+
+PATIENT X199
+Yeah he said it wasn't, I think he said it was around 202 or maybe it was 220, maybe it was 220.
+
+DOCTOR X199
+It was 208 here.
+
+PATIENT X199
+Oh okay.
+
+DOCTOR X199
+But for you we want it significantly lower than that, particularly the LDL which is the bad cholesterol.
+
+PATIENT X199
+Okay.
+
+DOCTOR X199
+Come on up here, I'll take a listen to you.
+
+PATIENT X199
+Okay.  I got the results of the CAT scan; I had the CAT scan done.
+
+DOCTOR X199
+What for?
+
+PATIENT X199
+Cause when I was here uh, doing an evaluation for the Agent Orange, they wanted me to take a chest x-ray and something showed up on the chest x-ray.
+
+DOCTOR X199
+Oh yeah.
+
+PATIENT X199
+So uh this is like the third CAT scan I've had and they've been pretty much unchanged I guess since the first one.
+
+DOCTOR X199
+Can I make a copy of this?
+
+PATIENT X199
+You can keep that.
+
+DOCTOR X199
+Okay thanks.
+
+PATIENT X199
+Yeah I had them make a copy so I could bring one here.
+
+DOCTOR X199
+Okay.
+
+PATIENT X199
+The other thing the doctor said that I had gallstones.
+
+DOCTOR X199
+Yes you do.  A lot of people do.
+
+PATIENT X199
+So it's you know and they says you know you got gallstones.  I'm like really.  I says you know.
+
+DOCTOR X199
+A lot of people have them and they never have symptoms.
+
+PATIENT X199
+Yeah.
+
+DOCTOR X199
+They never cause problems and so we don't mess with them.  That's the problem you go looking for stuff and find stuff.
+
+PATIENT X199
+Uh-huh.
+
+DOCTOR X199
+Would you be able to roll this up for me?
+
+PATIENT X199
+Sure.  I don't know if I can get it high enough or not.  I could take it off if you want.
+
+DOCTOR X199
+@@@.  
+
+PATIENT X199
+NAME gave me something for a research thing when I saw him today.  You know what I'm going to take this off.
+
+DOCTOR X199
+@@@.
+
+PATIENT X199
+I've heard @@@.  Something about the @@@ monitor that.
+
+DOCTOR X199
+Yeah.  Often when you have an infection in your lungs, you know you'll have a pneumonia or something in your life.
+
+PATIENT X199
+Oh.
+
+DOCTOR X199
+Or you might get some scar tissue in there and it builds up.  It looks fine on the x-ray.  At least the copy I pulled up, I don't know that that is, so we'll do a chest, usually it's nothing.
+
+PATIENT X199
+DOCTOR was good at that stuff.  It's like you know, sometimes I get that a urinating during a lot of the, @@@.
+
+DOCTOR X199
+So you're telling me you have some urine symptoms?
+
+PATIENT X199
+Yeah like uh, well over the last couple of days I kind of had the chills and stuff a little bit and I've been going to the washroom quite a bit in the last couple days and I got uh.
+
+DOCTOR X199
+Is it burning?
+
+PATIENT X199
+No.
+
+DOCTOR X199
+No blood in your urine?
+
+PATIENT X199
+No I don't notice any blood.
+
+DOCTOR X199
+Okay.  We'll do a urine test today.  Deep breath. @@@.  
+
+PATIENT X199
+Yeah that is a little elevated.  I figured 96.8 but its 98.6 isn't it?
+
+DOCTOR X199
+Yeah.
+
+PATIENT X199
+There you go, that's why I'm not a doctor.  @@@.
+
+DOCTOR X199
+Uh-huh.  Alright well your blood tests were very good.  I think @@@ I'll have you come in, the same thing like you did this time, maybe a week before you come in.
+
+PATIENT X199
+Okay.
+
+DOCTOR X199
+And we'll plan on doing that four months from now.
+
+PATIENT X199
+But continue on the metformin right?
+
+DOCTOR X199
+Uh-huh, yeah.
+
+PATIENT X199
+Like I said I been taking it, generally I'm taking like one a day.
+
+DOCTOR X199
+I think you can stay on it.
+
+PATIENT X199
+Is it working out that way though, doing the one?
+
+DOCTOR X199
+We'll just do one blood test today and then I'll call you if there are any changes.  Do you want to do it on your way out?
+
+PATIENT X199
+Sure.  Cause I remember at one time I think I was taking two of the metformin, I was taking some other medicine, it wasn't metformin it was something else and I was really getting like the sweats and constant urinating and stuff and they told me to stop taking the medicine.
+
+DOCTOR X199
+Okay.  Well, that could be probably because the blood sugar was too high or too low with the sugar.
+
+PATIENT X199
+Uh-huh.
+
+DOCTOR X199
+I'm not quite sure though.   This test that we're going to do today will help us get a sense about that.
+
+PATIENT X199
+Okay.
+
+DOCTOR X199
+Have you seen an eye doctor in the last year?
+
+PATIENT X199
+Yeah as a matter of fact I had the test here.
+
+DOCTOR X199
+Well there you go.
+
+PATIENT X199
+Yeah they said it was, they said it looked pretty good.  That's what she told me, I don't know.
+
+DOCTOR X199
+Yeah it looks likes everything was okay too.
+
+PATIENT X199
+She said, I told her I just use the readers you know for like reading the newspaper or something, small print stuff and she said that's fine.
+
+DOCTOR X199
+Alright I'll be right back.
+
+PATIENT X199
+Alright.
+
+(DOCTOR OUT:  69:02  DOCTOR IN:  82:13)
+
+DOCTOR X199
+Alright sir.  I'm going to get those blood tests today.
+
+PATIENT X199
+Alright.
+
+DOCTOR X199
+And then um four months is when you're going to come see me.  I want you to get a fasting blood test about a week before.
+
+PATIENT X199
+Okay.  I work for T. H. xxx's Trucking.
+
+DOCTOR X199
+Oh yeah.
+
+PATIENT X199
+You're not related to them are you?
+
+DOCTOR X199
+@@@.
+
+PATIENT X199
+Lot of xxxs.
+
+DOCTOR X199
+Yeah this city's full of them.  So full of xxxs.
+
+PATIENT X199
+Okay so just head down to the Lab?  Okay.
+
+DOCTOR X199
+Check out in front first.
+
+PATIENT X199
+Okay for the appointment?
+
+DOCTOR X199
+They'll help you set that up and then you go down to the Lab and get the blood.
+
+PATIENT X199
+Alright.
+
+DOCTOR X199
+Happy New Year.
+
+PATIENT X199
+Lab and the uh urine too?
+
+DOCTOR X199
+Yeah.
+
+PATIENT X199
+Okay, alright.
+
+DOCTOR X199
+Take care.
+
+PATIENT X199
+See ya now.
+
+PATIENT LEAVES:  83:23
+
+Time is 5:20.
+
+
+
+

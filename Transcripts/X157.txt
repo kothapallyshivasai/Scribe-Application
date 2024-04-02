@@ -1,0 +1,845 @@
+
+DOCTOR X157
+PATIENT?
+ 
+PATIENT X157
+How you doing doc?
+
+DOCTOR X157
+How you doing?
+
+PATIENT X157
+Good.
+
+DOCTOR X157
+@@@.
+
+PATIENT X157
+@@@.
+
+DOCTOR X157
+Having a nice day?
+
+PATIENT X157
+Yeah.
+
+DOCTOR X157
+@@@.
+
+PATIENT X157
+Yep.  Oh okay.
+
+DOCTOR X157
+@@@.  Alright.  Clean water I promise.  Any problems?
+
+PATIENT X157
+Yes.
+
+DOCTOR X157
+Yes?  Oh no.  Oh yes I've read about this, a tick bite?
+
+PATIENT X157
+Yeah.  It looks like it's going away though.
+
+DOCTOR X157
+Did it ever look like a target?  Like where it had central clearing?
+
+PATIENT X157
+Yes.
+
+DOCTOR X157
+Oh no.
+
+PATIENT X157
+Uh they took blood work.
+
+DOCTOR X157
+Okay.  Yeah.
+
+PATIENT X157
+For you know.
+
+DOCTOR X157
+Yeah everything is good.  Yeah let me pull it up for you.
+
+PATIENT X157
+Okay.
+
+DOCTOR X157
+Now I remember I looked at everyone this morning and I remember you were in the Emergency Room on Friday.
+
+PATIENT X157
+Right.
+
+DOCTOR X157
+Right okay.  So the Lyme disease serology, that's what they, that takes a long time to come back so that's still pending.
+
+PATIENT X157
+Okay.
+
+DOCTOR X157
+Um and then it looks like your white blood cell count was normal and that number sometimes is high if there's an infection but with Lyme disease I don't know if it's always high, I can go look that up.  Uh your hemoglobin was fine too, it looked fine.  Everything else looked okay.  Um and then your other tests that they took um looking at basic chemistries that all looks okay too except your sugar was a bit high.  Everything was okay.
+
+PATIENT X157
+Yeah that's something uh, I don't know what it is but it just won't go down below 240 or 220.
+
+DOCTOR X157
+Yeah.
+
+PATIENT X157
+So I don't know how many different medications for that.
+
+DOCTOR X157
+Maybe yeah.  And right now we have you on metformin and that's all right?
+
+PATIENT X157
+Uh, I don't know the names of them.
+
+DOCTOR X157
+Okay so you take all, everything on this list you're taking?
+
+PATIENT X157
+Uh unless um which one for quit smoking?
+
+DOCTOR X157
+Chantix.
+
+PATIENT X157
+Yeah they uh said they were going to give me another month's supply of that and.
+
+DOCTOR X157
+You didn't get it.
+
+PATIENT X157
+They didn't order it.
+
+DOCTOR X157
+Okay.
+
+PATIENT X157
+So I've been off of it for probably about a week.
+
+DOCTOR X157
+Okay, how's your smoking coming?
+
+PATIENT X157
+Oh about seven or eight cigarettes a day.
+
+DOCTOR X157
+Better.
+
+PATIENT X157
+Uh-huh.
+
+DOCTOR X157
+Okay, well I'll reorder that for you.  And you have the tick bite and um diabetes are probably the main issues right now then.
+
+PATIENT X157
+Yes.
+
+DOCTOR X157
+Okay.
+
+PATIENT X157
+Well I still have the pain in the neck that I will need a second shot for that.  @@@.
+
+DOCTOR X157
+I saw that you were being, they were looking, there's Anesthesia Notes and stuff so.
+
+PATIENT X157
+Yeah.
+
+DOCTOR X157
+That's perfect.
+
+PATIENT X157
+And it helps a lot, the other shot helped quite a bit.
+
+DOCTOR X157
+Good.  And how is the weight loss program?  Not good?
+
+PATIENT X157
+No.
+
+DOCTOR X157
+You did well initially.  You were excited about it initially.
+
+PATIENT X157
+Yeah I, well I've been going to it and uh lost uh about 23 pounds but I've gained about five of it back.
+
+DOCTOR X157
+Okay.
+
+PATIENT X157
+So.
+
+DOCTOR X157
+Well.
+
+PATIENT X157
+And that's just been in the last month.
+
+DOCTOR X157
+Okay.  Well keep going.
+
+PATIENT X157
+Yeah.
+
+DOCTOR X157
+It can't be easy.
+
+PATIENT X157
+No it's not.
+
+DOCTOR X157
+You know, if it was easy everyone would be you know a normal size but it's not easy so.
+
+PATIENT X157
+Yeah.
+
+DOCTOR X157
+Keep trying um.  I'm wondering if we should increase your metformin.  Right now you're on half a tablet twice a day, maybe we should go to a whole tablet twice a day.
+
+PATIENT X157
+I'm trying to think which one it is.  What color it is?
+
+DOCTOR X157
+@@@.
+
+PATIENT X157
+Is this the white one?
+
+DOCTOR X157
+I don't know, here let's Google one.  I wish that in my book it gave us what it looked like.  Well I opened it three times.  And these look like.  Any of these look familiar?
+
+PATIENT X157
+Yeah the one in the middle on the right inside, down the middle yeah.
+
+DOCTOR X157
+And you break them in half right now, so we would go from taking one pill to taking the whole pill.
+
+PATIENT X157
+Twice a day.
+
+DOCTOR X157
+Twice a day and then I think we're kind of maxed out on it.  Let me check the list though.  I think as you lose more weight it should be, we should be able to get, you won't have to take as much of this medicine hopefully.
+
+PATIENT X157
+Yeah @@@.
+
+DOCTOR X157
+I know, it's hard you know.
+
+PATIENT X157
+Hmm.
+
+DOCTOR X157
+Okay the max dose is like 2500 a day so if you go up to 1000 a day or 2000 a day, um we're getting there and if you need something other than that, we'll probably have to go to a second drug but for right now I think it's easier to keep people on just one drug at a time.
+
+PATIENT X157
+Okay.  I'll give it a try.
+
+DOCTOR X157
+Yeah.
+
+PATIENT X157
+What was the name of it again?
+
+DOCTOR X157
+The metformin, so this one.  Um we're going to change to one pill twice daily and I'll reorder it so that you have the correct amount ordered.  
+
+PATIENT X157
+@@@.
+
+DOCTOR X157
+Or actually you can go at 850, why don't we do that.  Sorry I didn't realize that it came in this other dose and we'll do the 850 mg twice a day instead um, do you want them in the mail?
+
+PATIENT X157
+Yeah.
+
+DOCTOR X157
+You can just wait till you get them in the mail.
+
+PATIENT X157
+Okay.
+
+DOCTOR X157
+And then so we're going to change this to 850 mg twice a day.  You'll get a new prescription in the mail.  
+
+PATIENT X157
+Okay.
+
+DOCTOR X157
+But keep doing what you're doing for now.
+
+PATIENT X157
+And what do I do with the extras of this?
+
+DOCTOR X157
+Do you have a lot?
+
+PATIENT X157
+Yeah.
+
+DOCTOR X157
+Keep them because if you end up needing a higher dose you can go back to taking one whole dose.
+
+PATIENT X157
+Okay.
+
+DOCTOR X157
+Okay.  They already filled more.
+
+PATIENT X157
+Okay.
+
+DOCTOR X157
+Just keep track of what's what, put them in a drawer or something.
+
+PATIENT X157
+Yeah.
+
+DOCTOR X157
+Um okay so let's talk a little bit here.  So you were just in the Emergency Room and you said the tick bite looks like a target?
+
+PATIENT X157
+Yeah it was like red on the outside and white in the middle.
+
+DOCTOR X157
+And they started you on the doxycycline?
+
+PATIENT X157
+Uh-huh.
+
+DOCTOR X157
+How many days did they give you?
+
+PATIENT X157
+Seven.
+
+DOCTOR X157
+Okay.  How's the pain?
+
+PATIENT X157
+Uh there never was any pain.
+
+DOCTOR X157
+Okay.
+
+PATIENT X157
+I just, when I was taking a shower Friday I just happened to glance down and happened to see it.
+
+DOCTOR X157
+Well how big was it?
+
+PATIENT X157
+It was about the size of a quarter.
+
+DOCTOR X157
+Okay but you noticed the center was light.
+
+PATIENT X157
+Right.
+
+DOCTOR X157
+And the outside was dark.
+
+PATIENT X157
+Yeah.
+
+DOCTOR X157
+Okay.  Just come over here and make sure @@@ if we have to recheck it um.  Any fever, chills?
+
+PATIENT X157
+No, no.
+
+DOCTOR X157
+No like fatigue, malaise, chest pain, trouble breathing?  You're feeling fine you just have the tick bite?
+
+PATIENT X157
+Yeah.
+
+DOCTOR X157
+Okay.
+
+PATIENT X157
+I mean the only reason I came in was because I saw it you know, other than that.
+
+DOCTOR X157
+Yeah.
+
+PATIENT X157
+I had no.
+
+DOCTOR X157
+And really with Lyme disease you don't want to wait, it should be treated.  Some people feel fine but if you don't treat it, it can cause problems down the road so.  And no joint pains and aches anywhere aside from your usual the neck pain and everything?
+
+PATIENT X157
+Correct.
+
+DOCTOR X157
+I think Lyme disease, from what I'm remembering, it causes an arthritis that migrates so you'll have a very severe like elbow pain or knee pain and the next day it will be in different joints um and then it can cause like heart problems too but that's only if you don't treat it so you should be okay.  I think my dog had it and we noticed that she's limping so we were like oh man what happened to her and they checked it and found it so.
+
+PATIENT X157
+Yeah.
+
+DOCTOR X157
+But it should be, I'm here to make sure that we're not, make sure that we follow up on the way to check this.  And how high did you say your sugars are in the morning?
+
+PATIENT X157
+240, 220.
+
+DOCTOR X157
+This is high.
+
+PATIENT X157
+Yeah.  Twice what they should be.  Um when does that class meet for, um diabetes so you know what, you know they show you what, teach you what to eat?
+
+DOCTOR X157
+Yeah.
+
+PATIENT X157
+And what not to eat.
+
+DOCTOR X157
+You've seen them before haven't you?
+
+PATIENT X157
+Yeah but this, like that was the first day.
+
+DOCTOR X157
+Oh okay so you want to redo the full.
+
+PATIENT X157
+Right.
+
+DOCTOR X157
+You want to just go again?
+
+PATIENT X157
+Yeah.
+
+DOCTOR X157
+Okay.  I know that they may reject our consult so we'll.
+
+PATIENT X157
+@@@.
+
+DOCTOR X157
+I would think you could go back, I don't think it's a, I'll just write in our consult that you're inadequately controlled and you requested it.  
+
+PATIENT X157
+@@@ been probably six or seven weeks since I went to see them for @@@ and the doctor called me but I needed @@@ and I never heard anything back.  So I called him back and um the person told me that it's more of an elective surgery and that they would fit me in when things aren't so bad you know, didn't get any polyps removed you know different stuff like that.
+
+DOCTOR X157
+Okay.  So that's in the works?
+
+PATIENT X157
+Yeah.  But it's probably another couple of months.
+
+DOCTOR X157
+Oh geez.  So do you have to keep checking back with them or will they contact you?
+
+PATIENT X157
+They're supposed to contact me.
+
+DOCTOR X157
+Okay.
+
+PATIENT X157
+Yeah I was just, I didn't know until I called them and I think it was Friday or Thursday last week.
+
+DOCTOR X157
+I would keep on them you know.  If you don't hear from them in a month I would call back.  I don't know how that works but they should be able to schedule you I mean, you can't predict emergencies and they're going to have emergencies and have to bump people eventually or you know sometimes.  They should be able to schedule you so, keep on them.
+
+PATIENT X157
+Okay.
+
+DOCTOR X157
+Cause if you, I feel like at all hospitals you have to be your advocate if you can be because things get dropped.
+
+PATIENT X157
+Yeah.
+
+DOCTOR X157
+Especially with residents, who like me, that come and go and you only come like once every two weeks and I would definitely call again, you never know so.  And nobody means to do that but I think it does happen.
+
+PATIENT X157
+Yeah.
+
+DOCTOR X157
+Um, I need to see when it's going to be.
+
+PATIENT X157
+The only other problem I have is the um, the oxygen concentrate um my electric bill was like $70.
+
+DOCTOR X157
+Okay.
+
+PATIENT X157
+For like three months in a row and then when I got that it went up to like $220.
+
+DOCTOR X157
+Ah.
+
+PATIENT X157
+And uh my next bill was like $180 and they came and checked it last week and I asked about it, did this machine take a lot of electricity and he says oh yeah a lot so I'd have to agree with him.
+
+DOCTOR X157
+The CPAP you mean?
+
+PATIENT X157
+No the CPAP I'm using, it's just the oxygen concentrator.
+
+DOCTOR X157
+That goes through the CPAP?
+
+PATIENT X157
+Yeah.
+
+DOCTOR X157
+Okay.
+
+PATIENT X157
+And I just, you know I can't afford a $200 bill.
+
+DOCTOR X157
+I know, I mean oh my God I couldn't afford that either.  That's like a car payment.
+
+PATIENT X157
+Yeah.
+
+DOCTOR X157
+Okay, okay.  You know this article shows you should be on the doxycycline for 21 days so three weeks, how many did you get of these?
+
+PATIENT X157
+Uh for the bite oh okay yeah.
+
+DOCTOR X157
+I'm glad we looked it up.  So let me see if there's anything else in here that we would need to know.
+
+PATIENT X157
+And you're supposed to stay out of direct sunlight with that right.
+
+DOCTOR X157
+Yes.  You can get a burn, you'll be photo sensitive.
+
+PATIENT X157
+Okay.
+
+DOCTOR X157
+So let's see okay, so this trial, it looks like it's kind of either 21 days or 14; so because you have no symptoms I think you could get away with two weeks instead of three.
+
+PATIENT X157
+Okay.
+
+DOCTOR X157
+If you develop any of those symptoms like the arthralgias or rashes or anything like that then you know go ahead and give me a call.
+
+PATIENT X157
+Okay.
+
+DOCTOR X157
+And we'll extend it um or we'll have you come back in.  And then I think you should be fine.  So it looks like that's all we have to do.
+
+PATIENT X157
+Okay.
+
+DOCTOR X157
+So let me change that to the lower while I think about it.
+
+PATIENT X157
+So you think I should @@@.
+
+DOCTOR X157
+Oh let me give you 14 days, okay.  You mean the oxygen concentrator?
+
+PATIENT X157
+Yeah.  I mean I know I need it but.
+
+DOCTOR X157
+Yeah but if you're not going to use it.
+
+PATIENT X157
+Right.
+
+DOCTOR X157
+I don't disagree with you, that's crazy.
+
+PATIENT X157
+Yeah.
+
+DOCTOR X157
+And no one ever told me that before.  They're probably just paying it and they don't even realize.
+
+PATIENT X157
+Yeah.
+
+DOCTOR X157
+How well.
+
+PATIENT X157
+Well they get me, like I said last month was $220 and I called them up and I said there's got to be a problem here somewhere.
+
+DOCTOR X157
+Yeah.
+
+PATIENT X157
+You know cause my last three months didn't even equal $220 and um so they checked it again and it was right.  So you know like I said uh the guy told me it takes a lot of electricity so I quit using it.
+
+DOCTOR X157
+Do you still feel better using just the CPAP alone without the oxygen?
+
+PATIENT X157
+Yeah I feel fine I mean.
+
+DOCTOR X157
+Probably.
+
+PATIENT X157
+I sleep pretty good.
+
+DOCTOR X157
+It's still helping you?
+
+PATIENT X157
+Oh yeah.
+
+DOCTOR X157
+Okay.  Um I think that that's fine.  You can probably just get rid of it.
+
+PATIENT X157
+Okay.
+
+DOCTOR X157
+Um but, let me go ask my boss and see what he thinks.
+
+PATIENT X157
+Okay.
+
+DOCTOR X157
+Any other issues today?
+
+PATIENT X157
+Nope.
+
+DOCTOR X157
+Let me make sure there's nothing else, I always write myself a note um so I make sure I'm treating everything.
+
+PATIENT X157
+@@@.  High blood pressure medication, like 114/71.
+
+DOCTOR X157
+That's good.  And we have you on; it looks like Lasix 20, nothing else?  Well, so you check your pressure at home?
+
+PATIENT X157
+No.
+
+DOCTOR X157
+No.
+
+PATIENT X157
+I'd say the last, I think the last seven times that I've been here they check my blood pressure and it's always been, the last seven times it's been that low.
+
+DOCTOR X157
+You have metoprolol too it looks like.  I think you can probably stop the Lasix, the water pill if you want.
+
+PATIENT X157
+That's the little white.
+
+DOCTOR X157
+Yeah.
+
+PATIENT X157
+Just mark it on here with an X and I'll figure it out when I get home.
+
+DOCTOR X157
+Yeah.  Why don't you keep it so you can stop this one and then just keep it though cause if you start accumulating fluid, like let's say your legs start getting puffy, that sort of thing then you can restart it.
+
+PATIENT X157
+Okay.
+
+DOCTOR X157
+So it can be an as needed thing and then I would keep the metoprolol that's this one um just because that's cardio protective, it'll protect your heart okay.  The rest of the meds we'll keep the way they are.
+
+PATIENT X157
+Okay.
+
+DOCTOR X157
+Until you get better readings.  I think we just checked your cholesterol initially and it was good, that was back, that was just recently and it was very good so we'll continue with our therapy.  It looks like @@@ high in the past.
+
+PATIENT X157
+How high were they?
+
+DOCTOR X157
+They were @@@.
+
+PATIENT X157
+Wow.
+
+DOCTOR X157
+And are you taking the gemfibrozil at this time?
+
+PATIENT X157
+Yes.
+
+DOCTOR X157
+@@@ everything is normal.
+
+PATIENT X157
+Yes.
+
+DOCTOR X157
+@@@.
+
+PATIENT X157
+The last time you told me to um take fish oil too.
+
+DOCTOR X157
+And you've been doing that?
+
+PATIENT X157
+Yes.  I've been.
+
+DOCTOR X157
+@@@.
+
+PATIENT X157
+For some reason they keep fluctuating like that.  I mean it's ridiculous.  Cause the one time I had it checked it was like 210 and then the doctor put me on you know no red meat and all that kind of stuff.
+
+DOCTOR X157
+Yeah.
+
+PATIENT X157
+And I did that for like three months, went back and had it checked again and it was 2100.
+
+DOCTOR X157
+Not in anything I've seen.
+
+PATIENT X157
+So I don't know.  I was hoping that that would be done with the fish oil.
+
+DOCTOR X157
+Yeah I thought that would help too.  I know that helped my mom.  It helps a lot of people @@@.  Well right now we have you on the gemfibrozil one tablet once a day.  You can take that twice a day and that just replaces @@@.
+
+PATIENT X157
+Okay.
+
+DOCTOR X157
+So why don’t we try that and then we'll repeat the cholesterol next time you come see me; so I'll write it on there.  
+
+PATIENT X157
+Oh.
+
+DOCTOR X157
+So two.
+
+PATIENT X157
+And two would be one in the morning and one at night or two at the same time?
+
+DOCTOR X157
+Yeah, no one in the morning and one at night.
+
+PATIENT X157
+Okay.
+
+DOCTOR X157
+So when you take your metformin do the same thing.  It helps to take them at the same time and then we'll change that one too.  It's still 230 @@@ we need to get that down.
+
+PATIENT X157
+Yeah, well the last time it was checked um of course I didn't bring the paperwork with me, it was down.  I couldn't remember what the number was.
+
+DOCTOR X157
+Yeah it did come down initially to 1200 which is still high.
+
+PATIENT X157
+Yeah.
+
+DOCTOR X157
+But it was down from where it was before, I think the first time I saw you it was 1500 and it was whoa you know but you told me it has always been like that before.
+
+PATIENT X157
+Yeah.
+
+DOCTOR X157
+Um let's just repeat some of your labs next time so @@@.  So we will repeat the cholesterol, and your diabetes tests and @@@.
+
+PATIENT X157
+@@@ does that go along with the cholesterol?
+
+DOCTOR X157
+It's a panel @@@.  Let me take a listen to you and then we can @@@.  We're running late, probably a really hard @@@.  I am sure we have people waiting out there.
+
+PATIENT X157
+I remember the last time I was here I was almost done at 4 o'clock and that's when my appointment was.
+
+DOCTOR X157
+Oh I got you in here.
+
+PATIENT X157
+Yeah.
+
+DOCTOR X157
+@@@ sure he has too you know.
+
+PATIENT X157
+Yeah and especially on a Friday I think.
+
+DOCTOR X157
+Yeah, take a deep breath.  We like patients like you.  You do everything we say and you remember everything.
+
+PATIENT X157
+Well I have to, if I don't you know.
+
+DOCTOR X157
+Yeah.  You've made progress too.
+
+PATIENT X157
+Yeah.
+
+DOCTOR X157
+Just keep moving.  Take some deep breaths.  Good.  This is my last year here and you'll get somebody new.  Once I @@@.  
+
+PATIENT X157
+@@@.
+
+DOCTOR X157
+Uh, I want you to come back and see me in three months, is that okay?
+
+PATIENT X157
+Sure.
+
+DOCTOR X157
+And we'll do your labs before that and they're all renewed okay.  You’re good.  Everything that we talked about that we changed.  I'm going to leave this, the one we cancelled in there just in case you need it.
+
+PATIENT X157
+Okay.
+
+DOCTOR X157
+You know the @@@.
+
+PATIENT X157
+Alright.
+
+DOCTOR X157
+Good to see you.
+
+PATIENT X157
+Thank you.
+
+DOCTOR X157
+Enjoy the rest of your summer.
+
+PATIENT X157
+Thank you.
+
+DOCTOR X157
+Uh-huh.
+
+PATIENT LEAVES:  66:30
+
+Time is 3:50.
+
+
+
+

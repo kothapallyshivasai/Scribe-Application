@@ -1,0 +1,819 @@
+AUDIO NAME:	X304
+
+
+DOCTOR X304:	All right.  Anything going on or is this just a follow up with you.
+
+PATIENT X304:	@@@.
+
+DOCTOR X304:	All right.
+
+PATIENT X304:	About 6 weeks ago I was in the Emergency Room for my shoulders.
+
+DOCTOR X304:	Yeah, I saw about that.
+
+PATIENT X304:  My diaphragm @@@ arthritis in my spine.  It is not down the middle of my back.  Starts here.
+
+DOCTOR X304:	Yeah.
+
+PATIENT X304:	My muscles in my shoulder here.
+
+DOCTOR X304:	Um Hum.
+
+PATIENT X304:	And up my back and neck.
+
+DOCTOR X304:	Okay.
+
+PATIENT X304:  @@@.  The Emergency Room doctor prescribed 2 pills.  One of whom he gave me 9 of them, to take 3 for 3 days.
+
+DOCTOR X304:	Yeah.
+
+PATIENT X304:	And the other one I think it was "restatome" or something like that.  It's for more severe pain, but don't take too much of it because you damage your liver or something.
+
+DOCTOR X304:	@@@.
+
+PATIENT X304:	"Hydroxatone or Drexatrome" or something like that.
+
+DOCTOR X304:	Okay.
+
+PATIENT X304:	So I did take it, but it says take 1 to 2 tablets every 4 hours or as needed.
+
+DOCTOR X304:  	Was it here?
+
+PATIENT X304:	No it was at @@@ Hospital.
+
+DOCTOR X304: 	Oh, okay. 
+
+PATIENT X304:	I still got some of those severe pain pills left, but you know. I don't take them every 4 hours.
+
+DOCTOR X304:	I wouldn’t take them.
+
+PATIENT X304:	I don't want to screw up my liver.  
+
+DOCTOR X304:  You got to be careful.
+
+PATIENT X304:  But I gotta get something for this.  I don't know, it's been bothering me quite a bit.
+
+DOCTOR X304:	Where is it?  
+
+PATIENT X304:	Well, it is the muscles.
+
+DOCTOR X304:	Where?
+
+PATIENT X304:	Um hum.
+
+DOCTOR X304:	All across the back?
+
+PATIENT X304:	On both sides and sometimes it goes right down to this @@@ with some muscles in the arm hurt.  Then it hurts when you are bending your head, ya know.
+
+DOCTOR X304:	Okay.
+
+PATIENT X304:	Around the shoulders @@@.
+
+DOCTOR X304:	@@@ rotator cuff, @@@ because I am worried about your rotator cuff.
+
+PATIENT X304:	He told me, well he says "it is because you have arthritis there or it could be a pinched nerve".
+
+DOCTOR X304:	A couple of things it could be.  I want to make sure we found the right thing.
+
+PATIENT X304:	Yeah.
+
+DOCTOR X304:	We will do a couple of tests today.  We will do an MRI today of the right shoulder.
+
+PATIENT X304:	I don't know what a MRI would show.  If it is a pinched nerve?   But, I don't think it is a pinched nerve.  It would be more severe if it was a pinched nerve, wouldn't it?  I mean…
+
+DOCTOR X304:	Sometimes, there would be some pain.
+
+PATIENT X304:	Oh it is painful, boy.  I get a catch in here sometimes.
+
+DOCTOR X304:	It is in your neck?  Or in your shoulders?
+
+PATIENT X304:	Well it starts in the neck here, but it goes down both sides in here, but mostly on the right side.  It goes down the right side, across this shoulder, down to this rotary cuff on the left.
+
+DOCTOR X304:	Have you ever had shingles?
+
+PATIENT X304:	No pills helped as long as it was a severe pain the pill helped, but again after that wears off it comes back, so I don't know.
+
+DOCTOR X304:	Okay.
+
+PATIENT X304:	I didn't think it would flare up this soon but it could.  I think he diagnosed that in 2005, at the @@@, no it was lumbar @@@.  I seen this chiropractor and I went up there and he took all kinds of x-rays of my spine.  Then I went through some therapy which helped a little bit.
+
+DOCTOR X304:	Did you have home nursing?
+
+PATIENT X304:	Um?
+
+DOCTOR X304:	Did you have home nursing see you?
+
+PATIENT X304:	Ah, yeah, those we talked about that before.
+
+DOCTOR X304:	What was that for?
+
+PATIENT X304:	Well she just comes in and checks my vitals.  It is a @@@.  Her name is NAME.  
+
+DOCTOR X304: 	Yeah.
+
+PATIENT X304:	She comes in and she checks my blood pressure, weighs me, checks my blood sugar.
+
+DOCTOR X304:	You need it?
+
+PATIENT X304:	Well, if she is not there I do it myself.  But it is good to have her show up and she'll check me out.  She makes her notes.  Medicare pays for it.  
+
+DOCTOR X304:	You don't pay for it?
+
+PATIENT X304:	No, I don't pay for it.
+
+DOCTOR X304:	Okay.
+
+PATIENT X304:	Yeah.
+
+DOCTOR X304:	As long as you aren't paying for it I don't care, as long as you don't pay for it.
+
+PATIENT X304:	(laughs).  Yeah.  I think the Medicare takes care of that.  I have been doing it since, well, how long has it been, since I was living in the @@@ Apartments out there.  It is good that she comes in and does that, you know she comes in and checks me over.
+
+DOCTOR X304:	How often does she come?
+
+PATIENT X304:	Ah, I think it is twice a month I think.  I don't know.
+
+DOCTOR X304:	Oh. Okay.
+
+PATIENT X304:	@@@ huh?
+
+DOCTOR X304:	Just twice a month.
+
+PATIENT X304:	Yeah.
+
+DOCTOR X304:	Okay.
+
+PATIENT X304:	I finally transferred because I prefer to have Omega come back.  I don't know how Sunrise got my name, but I would rather have NAME come out.  She is pretty good.
+
+DOCTOR X304:	Omega?
+
+PATIENT X304:	Yeah.
+
+DOCTOR X304: 	@@@.
+
+PATIENT X304:	She is up from @@@.
+
+DOCTOR X304:	Um hum.  
+
+PATIENT X304:	Yeah, I almost forgot about that, because they told me that I had to see you and you would wonder why?  You know? And all that.  It is nothing major, it just comes and it is just something. You know? Because I do have a medical staff in the building over there, but, they never see me.  I don't know.
+
+DOCTOR X304:	Oh, they don't?
+
+PATIENT X304:	No, and they got all my records.  So I don't know what.  I need to get this arthritis checked out.
+
+DOCTOR X304:	Yeah.  It is probably arthritis.
+
+PATIENT X304:	And the weather don't help either.
+
+DOCTOR X304:	It’s probably, I don’t know @@@ am not going to be able, based on clinical findings, @@@.
+
+PATIENT X304:	Well, I don't know what is included.  All she does is check my vitals, takes my pulse, checks my blood pressure and I give her my records on all my blood tests, that sort of thing.  Blood sugar checking device.  I weigh myself.  Those sort of things.
+
+DOCTOR X304:	The things you need.
+
+PATIENT X304:	The basic stuff.
+
+DOCTOR X304:	@@@, wheelchair?
+
+PATIENT X304:	I don’t need it.  I can get around.  So they don’t @@@.
+
+DOCTOR X304:	Yeah.
+
+PATIENT X304:	I got those orthopedic shoes from here I think it was, the diabetic shoes that I wear to support the sole inside.  I wore these today.  That should come back to Omega. Right?
+
+DOCTOR X304:	Yeah.
+
+DOCTOR X304:	It says you are homebound.  Are you homebound?
+
+PATIENT X304:	No I'm not homebound at all.
+
+DOCTOR X304:	I'm not going to be able to fill this out then.
+
+PATIENT	Well no, I, you know.  I can go and come.  I got my own wheels and that sort of thing.
+
+DOCTOR X304:	Okay.  
+
+PATIENT X304:	And for me, I wouldn't be able to get her to come out.
+
+DOCTOR X304:	I don't know. You might want to talk with her.
+
+PATIENT X304:	Um hum.
+
+DOCTOR X304:	You might want to talk to her about that, because basically what this says.  It says you are supposed to be homebound.
+
+PATIENT X304:	No. No. That's doesn't pertain to me.
+
+DOCTOR X304:	Oh, huh.
+
+PATIENT X304:	@@@.  She comes out there for me.  @@@.  I have my own apartment up here and @@@.
+
+DOCTOR X304:	You might just want to talk with her again first.
+
+PATIENT X304:	xxx?
+
+DOCTOR X304:	Yeah, to make sure of this.
+
+PATIENT X304:	Alright.
+
+DOCTOR X304:	Because I was just reading through this form and that is what it requires that I can’t fill it out.  But if that is not what it requires then I do have problems filling it out for you.
+
+PATIENT X304:	Well no.  She didn't require it before.  She'd come out.  I had my own wheels, my own apartment.
+
+DOCTOR X304:	Did you ask her about it?
+
+PATIENT X304:	Yeah, it is all cut and dry.  You know.
+
+DOCTOR X304:	I would give her a call @@@.
+
+PATIENT X304:	Yeah.
+
+DOCTOR X304:	Yeah, just trying to figure it out.
+
+PATIENT X304:	I've got the phone number in my @@@.  I had the Omega number.
+
+DOCTOR X304:	It's @@@.
+
+PATIENT X304:	Do you want to talk to the nurse yourself?  Or?
+
+DOCTOR X304: 	Yeah, go do it now. Give me the number though if you have it.  
+
+PATIENT X304:	It is ….
+
+DOCTOR X304:	All your labs look good.
+
+PATIENT X304:	Okay.
+
+DOCTOR X304:	We will check one lab today.  PHONE NUMBER.  Okay I will give her a call now.  You have 1 lab today, your BMP.  
+
+PATIENT X304:	@@@.  One of those crappy @@@.
+
+DOCTOR X304:	You always have @@@.
+
+PATIENT X304:	Considerable @@@.
+
+DOCTOR X304:	We noted that last time.  Let's go do that.
+
+PATIENT X304:	@@@.  I am going in for a biopsy on my prostate exam.  
+
+DOCTOR X304:	Okay.
+
+PATIENT X304:	I am going to go to Dermatology and have this thing taken off over here.  The mole.  I need to get that out.
+
+(PATIENT answers phone from 26:33-26:54)
+
+PATIENT X304:	My daughter.
+
+DOCTOR X304: 	Okay. 
+
+DOCTOR/PATIENT X304:  (Laugh)
+
+PATIENT X304:	My pain in the neck, I should say or something like that.  Okay, @@@.
+
+DOCTOR X304: 	Okay.
+
+PATIENT X304:	@@@.  All right.
+
+DOCTOR X304:	Arms up.  Over your head.  Okay. Right down here.  It stays swollen here.
+
+PATIENT X304:	Alright.
+
+DOCTOR X304:	Let's do this slowly.  Arms up.  Over your head. Here.  @@@.  Do you have any pain in here?
+
+PATIENT X304:	I've got pain it right now.  Yeah.
+
+DOCTOR X304:	Where at?
+
+PATIENT X304:	In the muscles themselves, across here.
+
+DOCTOR X304: 	All right.  The neck like that.  
+
+PATIENT X304:	That hurts. 
+
+DOCTOR X304:	Where?  Is it a severe pain or what does it feel like?
+
+PATIENT X304:	@@@.  I feel a little pain, just a little bit.
+
+DOCTOR X304:	Okay.
+
+PATIENT X304:	@@@.  I don't know what's up.  Pain in that area.  Gotta be a muscles.  It is all basically at the muscles itself.  
+
+DOCTOR X304: 	Here?
+
+PATIENT X304:	Yeah, right at the area in there.
+
+DOCTOR X304:	Okay.  In your muscles.  
+
+PATIENT X304:	It is all vaguely at the muscle itself.  
+
+DOCTOR X304:	Here, at the @@@.
+
+PATIENT X304:	Right.  Okay.  Yeah, in the muscles.  It is an awful pain.  
+
+DOCTOR X304:	Would you want any physical therapy.
+
+PATIENT X304:	What do you mean?  @@@ Physical therapy ain't going to take the pain away.  
+
+DOCTOR X304:	I think it will.  @@@ it'll take the pain way.  We got to get you on a good medicine.  Hum.
+
+PATIENT X304:	Yeah.  I want to get something that is not damaging to my vital organs or intermix with the medications I am taking now. You know?
+
+DOCTOR X304:	@@@.
+
+PATIENT X304:	You know I am taking all the pills for @@@, heart pills, cortisone.
+
+DOCTOR X304:	Are you taking anything for depression?
+
+PATIENT X304:	I am taking @@@.    
+
+DOCTOR X304:	@@@.  
+
+PATIENT X304:	I am taking a half a pill.
+
+DOCTOR X304:	Have you taken tramadol before?
+
+PATIENT X304:	Who?
+
+DOCTOR X304:	Tramadol.
+
+PATIENT X304:	What's tramadol?   Oh, what is that?   Oh is that like it was "thiapram"?   Yeah, but I don't take that no more.
+
+DOCTOR X304:	Why not?
+
+PATIENT X304:  You pronounce it different. @@@ What do you call that?  Etodolac.  You got my records.
+
+DOCTOR X304:	Yeah, you took that.
+
+PATIENT X304:	What you call that, @@@ and I think it was tramadol I took for that.
+
+DOCTOR X304:	You were on that a long time ago you think?
+
+PATIENT X304:	Not for a long time, now.  @@@ I don't know, so he just put me on @@@.  You know.
+
+DOCTOR X304:	That is for @@@.
+
+PATIENT X304:	Yeah. 
+
+DOCTOR X304: 	@@@.
+
+PATIENT X304:	I don't know what he called it, @@@. I call it @@@, I don't know what you guys use, what terminology for it.  That is the one I am taking now.
+
+DOCTOR X304: 	Yeah.
+
+PATIENT X304:	@@@ to take.  Just like you were telling me about, you know.
+
+DOCTOR X304:	Why don’t we try tramadol?
+
+PATIENT X304:	Is that a nerve, ah?  
+
+DOCTOR X304:	No it's a pain medication.
+
+PATIENT X304:	Oh, okay.  So that wouldn't intermix with the other medication I am taking?
+
+DOCTOR X304:	No, No, @@@ has a little interaction but I don't think it would be a problem.
+
+PATIENT X304:	No.
+
+DOCTOR X304:	There is always a @@@.
+
+PATIENT X304:	Well the strong pill.  I have a few of those pills left.  I usually take 2 and it works.  You know?  But, I don't want to take too much of it.  It says it can cause drowsiness, dizziness and a couple of other things on there.  Yeah, @@@ is what I call it.  Okay.
+
+DOCTOR X304: 	Alright.
+
+PATIENT X304:	@@@ for pain.
+
+DOCTOR X304:	I will give you one.  Trazodone definitely.
+
+PATIENT X304:	Oh, Okay.  It could be a different.  Like I said @@@.
+
+PATIENT/DOCTOR X304: Laugh.
+
+PATIENT X304:	@@@ too much.  Take 2 aspirin and call me in the morning.  
+
+DOCTOR X304:	Laughs.
+
+PATIENT X304:	@@@ you know.
+
+DOCTOR X304:	Laughs.  They did that didn't they?  Ah Ha Ha.  I think that is all what I am going to give to you right now. @@@.
+
+PATIENT X304:	Vaguely, I did want to followup. @@@.
+
+DOCTOR X304:	Yeah.
+
+PATIENT X304:	It is mainly right in the muscles themselves.  It is not a bone. You can get arthritis in the bones too, basically this is all muscle.
+
+DOCTOR X304:	Do you want see physical therapy too?  Because they help with that.
+
+PATIENT X304:	Well, I can do that.
+
+DOCTOR X304:	If it doesn't work, it doesn't work, but they will strengthen @@@.
+
+PATIENT X304:	Yeah. Yeah.  Come back at a later date maybe.  I don't know.
+
+DOCTOR X304:	On your basis.  You schedule when you want.
+
+PATIENT X304:	Okay.
+
+DOCTOR X304:	I will put it in.  They will call you and you can tell them when you can do it.
+
+PATIENT X304:	I do have a weight at the house that I lift.  I work on my upper body stuff and I get 10 pounds in each hand and I do like this.  I go up here and I go like that.
+
+DOCTOR X304:	Okay.
+
+PATIENT X304:	On both sides.  That is how I gained a little muscles in my forearm.
+
+DOCTOR X304:	It does the same thing for your neck.
+
+PATIENT X304:	Oh it does.
+
+DOCTOR X304:	They will give you exercises to do.
+
+PATIENT X304:	I usually do 10 reps with, you, know. But I just want to get this pain to calm down, but I can't even move in bed for crying out loud, sometimes.  I've been laying on a heating pad.  Okay.  That has helped a little bit.  Okay.
+
+DOCTOR X304:	Okay.
+
+PATIENT X304:	Okay, then I do it across, you know, back here.
+
+DOCTOR X304:	Do you want a cream to put on it too?
+
+PATIENT X304:	You know I've been using xxx-Gay but it doesn't seem to help that much.
+
+DOCTOR X304:	There is a stronger one called Capzasin, it is a @@@ cream.
+
+PATIENT X304:	Huh?
+
+DOCTOR X304:	Just don't put on your eyes and wash your hands.
+
+PATIENT X304:	Oh, no, no, no, no.  That is taboo.  
+
+DOCTOR X304:	You know what?
+
+PATIENT X304:	What's that.
+
+DOCTOR X304:	Capzasin?
+
+PATIENT X304:	Is this better than xxxgay?
+
+DOCTOR X304:	Yeah.
+
+PATIENT X304:	Well, let me try that.  For how long?
+
+DOCTOR X304: 	Three times a day with meals.
+
+PATIENT X304:	Three times a day if I need it.
+
+DOCTOR X304:	After a meal.  I do it all the time.
+
+PATIENT X304:	Yeah, it says.  It gives me hell.  It may be on the right side sometimes.  They have medical care over there, but hum.  I can't recall.  Like I said I think the damn cold weather.   The weather must have been, now that it is warming up a little bit it isn't too bad.  But I still have pain there today.  I hadn't taken anything.  You know.
+
+DOCTOR X304:	Hum hum.
+
+PATIENT X304:	I may go back and take 2 of those pills.  I think that the way they got it prescribed on the bottle, this guy at Good Sam's, he says take 1 or 2 pills every 4 hours.  That might be too much for the kidneys, but I can take every 4 hours take 2 of them.
+
+DOCTOR X304:	Oh yeah.
+
+PATIENT X304:	I don't want to mess up this.
+
+DOCTOR X304:	I'd be careful.
+
+PATIENT X304:	But it does work though, but you gotta be careful with it.
+
+DOCTOR X304:	Yeah, you got to be very careful and tramadol wouldn't mess with your kidneys really.
+
+PATIENT X304:	All it says is "as needed".
+
+DOCTOR X304:	Yeah.  That is kind of how it works.
+
+PATIENT X304:	I think it is something like 3 mg, 3.5 mg.  It wouldn't be strong though.
+
+DOCTOR X304:	You'll get help from that.
+
+PATIENT X304:	Yeah, okay.
+
+DOCTOR X304:	I am going to have you come back in 6 weeks.
+
+PATIENT X304:	I had that on my list here.
+
+DOCTOR X304:	Let me take a look?
+
+PATIENT X304:	Alright, I've got @@@, propranolol.  You know they don't have it on here.  I think when they took me off of it they didn't put it back on there.  This pill was prescribed by DOCTOR  He is a ….   Hum.  I am surprised that that.  Hum.  Have this renewed okay?
+
+DOCTOR X304:	Do you check your sugars at all?  
+
+PATIENT X304:	Yeah, I'll check it out this morning.  This morning it was 180.
+
+DOCTOR X304:	How about later on in the day.
+
+PATIENT X304:	Well…
+
+DOCTOR X304:	How often do you check it?
+
+PATIENT X304:	Well I check it 3 times a day, once before breakfast, once before lunch.
+
+DOCTOR X304:	What are they usually in the morning, breakfast or lunch?  What are they usually?  
+
+PATIENT X304:	Usually I will check it before I go to bed.
+
+DOCTOR X304: 	Well, what are the numbers?
+
+PATIENT X304:	The last week it was high.  This week it has been 140, 180, 121.  I had some lows, 58, you know.
+
+DOCTOR X304:	What was the last?  Are they all breakfast ones? Do you know the lunch one?  
+
+PATIENT X304:	The last one, kinda high 200s.  A couple of times it was 140, 121 in the morning, 140, 150.
+
+DOCTOR X304:	What about dinner?
+
+PATIENT X304:	Yeah, dinner usually runs about 163, sometimes 167.
+
+DOCTOR X304:	How many lows in the past month?
+
+PATIENT X304:	About 4 or 5, I had 47, 58, 53.
+
+DOCTOR X304:	What were you doing when those happened?
+
+PATIENT X304:	Well, well, I take sugar.  I got some stuff, like @@@.
+
+DOCTOR X304:	Were you not eating a lot?
+
+PATIENT X304:	No, not bad.  May be I took too much insulin that brought it down too much.  Okay.
+
+DOCTOR X304:	More than you normally give yourself.
+
+PATIENT X304:	I am taking 22, DOCTOR has my slow-acting to 22 and then I am taking 8, 8 and 8.  Sometimes if I eat a lot then I will increase that 8 to may be 9 or 10, you know.  I am trying to get a pattern.  I am trying to get a set pattern of those.
+
+DOCTOR X304:	When did you quit smoking?
+
+PATIENT X304:	I quit smoking when I come back from Nam in November of 1965.
+
+DOCTOR X304:	Okay.
+
+PATIENT X304:	And here just in the last 4 years I stopped cigars and pipes.  I got one of those things you use.  What did they call that?  A water…  
+
+DOCTOR X304:	@@@.
+
+PATIENT X304:	@@@ Yeah. You know I don't have the withdrawal symptoms but I just put it on anyway, either that I will get popsicle sticks to stick in my mouth.
+
+DOCTOR X304:	Well, your blood sugars are still way too high.
+
+PATIENT X304:	Yeah.
+
+DOCTOR X304:	I see that you use glargine.  Your morning glucose was how much you said?
+
+PATIENT X304:	Eggs.
+
+DOCTOR X304:	No, what is the number in the morning when you wake up?  What is your blood sugar when you wake up?  
+
+PATIENT X304:	Oh I take it about 7:30.
+
+DOCTOR X304:	No, what are your sugar numbers in the morning?  
+
+PATIENT X304:	Oh in the morning.  Sometimes they run high, but here recently they have been running, well this morning was 180, last week I was about 140, 141, 121 like that.
+
+DOCTOR X304:	Are you getting any lows in the morning?
+
+PATIENT X304:	Not too awful much.  No.  Usually sometimes it will kick to 200 if I don't take.  I don't take the slow-acting at nighttime, just once in the morning.
+
+DOCTOR X304:	You take it in the morning.
+
+PATIENT X304:	I take in the morning with my NovoLog.  
+
+DOCTOR X304:	You take them together?
+
+PATIENT X304:	Yeah.  @@@ if I go over there.  If I hadn't been going here, what she says is just kind of a fatty tissue - so he just wrenched out and @@@.
+
+DOCTOR X304:	Right.
+
+PATIENT X304:	What I've been doing.  I went to a couple of classes to get versed on that.  If I take 10 or 11 it might be a little too much.  But it depends on what I eat.  If I eat too much then I have to compensate for that.  I get it tested now, I drink able juice or orange juice.  I got orange juice in the icebox and I always take it if the blood sugar goes down to say 72 or 62 or @@@, then I got a take it and drink a couple of glasses of orange juice to bring it up, you know.
+
+DOCTOR X304:	Okay.
+
+PATIENT X304:	I try to keep right on top of this, because I don't want to get.  Since my @@@ lately I think I had bottomed out twice and I don't want to do that.  That is just because that is a weird feeling.
+
+DOCTOR X304: 	Feels weird?
+
+PATIENT X304:	I break out in a cold sweat, when they bring me too I feel as cold as hell.  Then I sweat.  It happened to me at @@@ over there @@@.
+
+DOCTOR X304:	Uh.
+
+PATIENT X304:	Yeah, I went over take @@@ I am a collector.  I went over to pick up one of those xxxville Slugger Bats, you know?  It was a blonde bat but it didn't have that indentation in the end of them.  I took a black bat that they did have left, the new model.  So, just have it as a keepsake.
+
+DOCTOR X304:	They are pretty cool.
+
+PATIENT X304:	Yeah, and I bottomed out I think.  My sugar went down and told the girls.  They finally got me a couple of xxx bars, but that didn't work.  I passed out in the store.
+
+DOCTOR X304:	Oh, really?
+
+PATIENT X304:	Yeah and when I come too I was inside the Paramedics Truck.  My daughter come over.  I had gotten one of those clingy shirts and this one was soaked.  I was freezing a bit.  Holy shit!
+
+DOCTOR X304:	You really need to monitor your diet.
+
+PATIENT X304:	Hum.
+
+DOCTOR X304:	You need to monitor your diet very closely.
+
+PATIENT X304:	I have been talking to the nutritionist downstairs too.  You know, my diet is basically - in the morning time I will cook up breakfast.  It is either pancakes or waffles, scrambled eggs, hash browns.  What did I say - he says you can eat hash browns if you can.  Coffee, raisin toast or wheat toast.  That is breakfast basically.  Then I have one grapefruit which is cut in half.
+
+DOCTOR X304:	Yeah.
+
+PATIENT X304:	Now lunch time varies.  It could eat hot dogs, it could be pasta, it could be rice and what they call pureed chicken with rice and all that.  Meatloaf, Hungarian meatloaf and then at night time they will have that Hungarian goulash, BLT, stuffed peppers and let's see, what else, meat things.  I said meatloaf, potatoes and gravy.  They usually serve broccoli sometimes, that is pretty good, carrots.  That is basically the nutrition over there.  Breakfast was like I said either pancakes or waffles, scrambled eggs and sausage, sausage patty.  I have either raisin toast or wheat toast.  That is basically breakfast.
+
+DOCTOR X304:	That is not too bad.  @@@.
+
+PATIENT X304:	My doctor advised "Well don't eat it all, you know just eat, you know in moderation".  I think I said I am trying to do that and get a set pattern when I take my sugar, at the same time trying not to rise.  I am trying to get that down.
+
+DOCTOR X304:	You really need to take everything at the same time.
+
+PATIENT X304:	Oh yeah.
+
+DOCTOR X304:	You eat at the same time and check everything out, because your sugars are still way too high.
+
+PATIENT X304:	Yeah.  I know.  One thing today when I come in here I was fasting so it should have been 180 or less.  What was it today when they draw blood I wonder?  
+
+DOCTOR X304:	Did they draw your blood earlier today?
+
+PATIENT X304:	Yeah, they took blood.  Now when I come here it was 180 and I didn't eat anything.
+
+DOCTOR X304:	Well they didn’t do it?
+
+PATIENT X304:	Huh?
+
+DOCTOR X304:	They didn't do that as fasting.  
+
+PATIENT X304:	Oh they didn't.  Oh shoot.  Well I think it was probably high now because I just ate.
+
+DOCTOR X304:	That's fine.
+
+PATIENT X304:	Because I can check.  I got the thing in my pocket.  I know what the results it will be @@@.
+
+DOCTOR X304:	Well don't worry about it.  It does not matter what it is right now.
+
+PATIENT X304:	Yeah.  I am due to take my insulin.  I have got my insulin with me.  I need to do the day shot.  Well wait a minute I did do that this morning.  I took, at breakfast time when I had breakfast out in the chairs, I took 22 units slow and I took 7 units of fast.  I didn't want it to go down to quick when I come to see you, but they I ate a bowl of chili at lunch time.  So I don't know the variation between that.
+
+DOCTOR X304:	You got to make sure you are taking it all at the same time.
+
+PATIENT X304:	Oh absolutely.
+
+DOCTOR X304: 	@@@.
+
+PATIENT X304:	Right now it is going to be high I think.
+
+DOCTOR X304:	We will work on that.  We will have you come back a little sooner.
+
+PATIENT X304:	Hmm.
+
+DOCTOR X304:	We will try and see.  I want you to have a log of your sugars.
+
+PATIENT X304:	I got a log. I keep a log.  
+
+DOCTOR X304: 	Did you bring it today?
+
+PATIENT X304:	I didn't bring this, @@@. 
+
+DOCTOR X304:	Bring it next time.
+
+PATIENT X304:	It will be another 6 weeks before I see you.  You come in and you work 5 days and then you are off for @@@. I can't read your schedule.  What do you work?  He work 5 days a week, and then you are gone for 5 weeks.
+
+DOCTOR X304:	Laughs.
+
+PATIENT X304:	Do you go on vacation?  Or?
+
+DOCTOR X304:	I don’t go on vacation.
+
+PATIENT X304:	Laughs.
+
+DOCTOR X304:	There is no vacation.
+
+PATIENT X304:	@@@.
+
+DOCTOR X304:	Unfortunately there is no vacation from the Army.
+
+PATIENT X304:	Laughs. Do you go off post and check back in there?
+
+DOCTOR X304:	I wish I could.
+
+PATIENT X304:	You wish you could.  Yeah.
+
+DOCTOR/PATIENT X304:  Laugh.
+
+PATIENT X304:	You know I would do that this year if I can.
+
+DOCTOR X304:	That would be nice if you could.  I @@@.  Get down there, get out and do what I can do and it is nice time now.
+
+PATIENT X304:	Chasing this little ball around a cow pasture.
+
+DOCTOR X304:	Laughs.
+
+PATIENT X304:	That is what they call golf.
+
+DOCTOR X304:	That's my bad deal.
+
+PATIENT X304:	Yeah.
+
+DOCTOR X304:	You have one last draw today.
+
+PATIENT X304:	Okay.  
+
+DOCTOR X304:	And.
+
+PATIENT X304:	I got the labs I done this morning.
+
+DOCTOR X304:	There is one more I want to get done.
+
+PATIENT X304:	You need this today?  
+
+DOCTOR X304:	You don't have to do it today.
+
+PATIENT X304:	Um.
+
+DOCTOR X304:	When did you have it done recently?
+
+PATIENT X304:	You know.  I think they only took 2 test tubes I think it was.  Yeah.
+
+DOCTOR X304:	Let's see what was drawn.  You don't need it drawn.
+
+PATIENT X304:	May be @@@.
+
+DOCTOR X304:	No, no, no, nevermind, everything is fine.  You don't need to get anything drawn.
+
+PATIENT X304:	Oh well.  I had some drawn last week out of this arm and I had another draw today, see I got a little black and blue mark coming up.
+
+DOCTOR X304:	Then you are good.  Come back in 2 months.  Have your sugars in that new log with you.
+
+PATIENT X304:	Okay, I will do that.
+
+DOCTOR X304:	Alright.
+
+PATIENT X304:	Um hum.
+
+DOCTOR X304:	Any other questions?
+
+PATIENT X304:	No.  That is about it.
+
+DOCTOR X304:	Alright, @@@.
+
+PATIENT X304:	Do you get both copies of this?  Or?
+
+DOCTOR X304:	I got everything yeah.  That is signed.
+
+@@@
+
+PATIENT X304:	They normally give you one.
+
+DOCTOR X304:	Yeah, you can take one.
+
+PATIENT X304:	You are prescribing…  You know I am getting a little low on this stuff, on these things here.  
+
+DOCTOR X304:	@@@.
+
+PATIENT X304:	On this one.
+
+DOCTOR X304:	Yeah, I'll send them in.
+
+PATIENT X304:	Oh, okay.  Hum.  All right.  I will do that.  I have all that stuff together.  I have had it in a folder.  I don't know why I didn’t pick it up when I left.  
+
+DOCTOR X304:	It's all right.
+
+PATIENT X304:  @@@ sure.  You use a @@@ for this.
+
+DOCTOR X304:	Yeah, @@@.
+
+PATIENT X304:	@@@.
+
+@@@.
+
+PATIENT X304:	The nurse was in and she says @@@ once.  This is terrible and you were probably out on the golf course having a beer and sitting with a girl @@@.
+
+DOCTOR X304:	Laughs.  
+
+PATIENT X304:	I am just kidding with you.  @@@.
+
+DOCTOR X304:	@@@ laughs.
+
+PATIENT X304:	Laughs.  I was one too.
+
+DOCTOR X304:	@@@.  There's a girl alright.
+
+PATIENT X304:	Oh yeah.
+
+DOCTOR X304:	@@@.
+
+PATIENT X304:	Yeah, you too.  You have a nice day. @@@.
+
+DOCTOR X304:	I will see you in 2 months okay?
+
+PATIENT X304:	Yeah, two months.
+
+DOCTOR X304:	I'll be here then. @@@.
+
+PATIENT X304:	@@@.
+
+DOCTOR X304:	See ya.
+
+PATIENT X304:	Yeah, take care.  
+
+
+
+
+
+
+

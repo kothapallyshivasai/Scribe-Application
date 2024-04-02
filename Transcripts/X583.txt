@@ -1,0 +1,922 @@
+
+DOCTOR X583 
+PATIENT?
+
+PATIENT X583
+Right here.
+
+DOCTOR X583
+I'm so sorry they put you back in that um close quarters.
+
+PATIENT X583
+@@@.  
+
+DOCTOR X583
+It doesn't matter.
+
+PATIENT X583
+Thank you.
+
+DOCTOR X583
+Yeah what brings you here today?
+
+PATIENT X583
+Uh.  I don't know I was given something for ED.
+
+DOCTOR X583
+Okay, for how long?
+
+PATIENT X583
+I don't know it's just a month or @@@.  Says I only got six months left.
+
+DOCTOR X583
+Okay.  Um let's see.  You were recently here with a headache right?
+
+PATIENT X583
+Yeah.
+
+DOCTOR X583
+And um did they do anything for you or did they give you some medications?
+
+PATIENT X583
+Yeah I have @@@.
+
+DOCTOR X583
+You had like six @@@ of your heart.
+
+PATIENT X583
+I do.
+
+DOCTOR X583
+Which is really bad.
+
+PATIENT X583
+It is.
+
+DOCTOR X583
+Yeah, totally unnecessary.
+
+PATIENT X583
+Really.
+
+DOCTOR X583
+Totally.  It's not gonna, there's no reason to have that much radiation to your heart.
+
+PATIENT X583
+Okay.
+
+DOCTOR X583
+No reason at all.  Even in patients who have like @@@ transfers.
+
+PATIENT X583
+Uh-huh.
+
+DOCTOR X583
+They would never @@@, never.
+
+PATIENT X583
+In a month?
+
+DOCTOR X583
+That's what the notes say, let me just check it.
+
+PATIENT X583
+I mean I don't want to @@@.
+
+DOCTOR X583
+No I mean it's not, it's not a problem, it's totally unnecessary.  There's no point in it.
+
+PATIENT X583
+Uh-huh.
+
+DOCTOR X583
+Um so um who is your regular doctor here that you follow with?  Is there anybody that you?
+
+PATIENT X583
+I don't have any regular doctor.  I just go to the clinic.
+
+DOCTOR X583
+Okay.
+
+PATIENT X583
+I don't have a regular doctor that I know of.  I always just go to the Urgent Care.
+
+DOCTOR X583
+Okay.  So it looks like you've never had a colonoscopy right?
+
+PATIENT X583
+No.
+
+DOCTOR X583
+Alright so you're due for that cause you're 50 now.
+
+PATIENT X583
+Now.
+
+DOCTOR X583
+So you're gonna get one of those.
+
+PATIENT X583
+Uh-huh.
+
+DOCTOR X583
+Okay.  Um and then do you smoke?
+
+PATIENT X583
+Occasionally.
+
+DOCTOR X583
+How often?
+
+PATIENT X583
+Maybe once a day.
+
+DOCTOR X583
+Okay.  Are you interested in quitting?
+
+PATIENT X583
+Yeah I'm gonna do that.  I plan on doing it, next Monday or Tuesday, @@@ give it up, @@@.  I don't have to smoke.
+
+DOCTOR X583
+Okay.  Okay um now what about um, did you get a flu shot this year?
+
+PATIENT X583
+Yes.
+
+DOCTOR X583
+You did.
+
+PATIENT X583
+Uh-huh.
+
+DOCTOR X583
+Okay.  Um @@@?
+
+PATIENT X583
+I'm not sure.  I was in the hospital last week, I got a flu shot, I'm not completely sure.
+
+DOCTOR X583
+Okay.  Um well it looks like all your labs are um good.  What were you in the hospital for?
+
+PATIENT X583
+You'll see it.
+
+DOCTOR X583
+What happened?  I know back in August, but recently, were you in the hospital recently or just that?
+
+PATIENT X583
+I had a suicide attempt.
+
+DOCTOR X583
+That was in August or was there another one?
+
+PATIENT X583
+Uh-huh.
+
+DOCTOR X583
+There was?
+
+PATIENT X583
+@@@.
+
+DOCTOR X583
+Okay.  Oh you weren't hospitalized here?
+
+PATIENT X583
+I was hospitalized here, I don't know but they don't, uh the VA @@@.
+
+DOCTOR X583
+Okay.  Okay.  Um how are you dealing with stuff now?
+
+PATIENT X583
+Okay.
+
+DOCTOR X583
+Do you mind if I ask how you tried?  Was it your wrist again or was it something else?
+
+PATIENT X583
+Um I was talking about doing it you know basically um, taking all my medicines @@@.  But I brought myself in here @@@.
+
+DOCTOR X583
+Okay good, good.  Well do you know when about that was?
+
+PATIENT X583
+It was because I missed my court date and I'm going to court for SSI disability.
+
+DOCTOR X583
+Okay.
+
+PATIENT X583
+And I was in the hospital at the time that I was supposed to go and they wouldn't let me out to go to my, to go before the @@@ and I @@@ about having a lawyer.
+
+DOCTOR X583
+Okay.  Do you still feel like hurting yourself?
+
+PATIENT X583
+No ma'am.
+
+DOCTOR X583
+Okay, okay.  Um are you drinking at all?
+
+PATIENT X583
+No.
+
+DOCTOR X583
+Um and any drugs?
+
+PATIENT X583
+No.
+
+DOCTOR X583
+Okay.  Have you been @@@?
+
+PATIENT X583
+Uh uh.  
+
+DOCTOR X583
+Um.
+
+PATIENT X583
+No I can't do anything.
+
+DOCTOR X583
+Okay no sweating at night?
+
+PATIENT X583
+No.
+
+DOCTOR X583
+Okay um fevers, chills, anything like that?
+
+PATIENT X583
+No.
+
+DOCTOR X583
+Okay.  Uh are you @@@ here?
+
+PATIENT X583
+No.
+
+DOCTOR X583
+Okay.  Um sore throat, cough, chest pain, shortness of breath?
+
+PATIENT X583
+All that's gone now.
+
+DOCTOR X583
+You don't feel like your heart is racing or anything?
+
+PATIENT X583
+Uh uh, no.
+
+DOCTOR X583
+Any belly pain, throwing up, diarrhea, constipation?
+
+PATIENT X583
+No.
+
+DOCTOR X583
+Uh do you have heartburn?
+
+PATIENT X583
+No.
+
+DOCTOR X583
+Problems peeing, blood in your pee?
+
+PATIENT X583
+Uh uh, no.
+
+DOCTOR X583
+Any changes in your skin, any rashes, lesions, bruising?
+
+PATIENT X583
+No.
+
+DOCTOR X583
+Okay.  Uh no swelling in your legs or anything?
+
+PATIENT X583
+No.
+
+DOCTOR X583
+Okay.  @@@ depression, anxiety?  How is everything going?
+
+PATIENT X583
+Yeah but the medication helps.
+
+DOCTOR X583
+Okay.  What are you taking currently?
+
+PATIENT X583
+I take Prozac and mirtazapine and that's it.
+
+DOCTOR X583
+Okay.  Uh you don't have like any no @@@ pain, headaches, no vision changes or anything like that?
+
+PATIENT X583
+No, not at all.   I was taking vardenafil.  Something like that.
+
+DOCTOR X583
+Vardenafil yeah.
+
+PATIENT X583
+They gave it to me but it wasn't working at all.
+
+DOCTOR X583
+That's what we give here.
+
+PATIENT X583
+Okay.
+
+DOCTOR X583
+That's actually what um, that's the only medications that we would give for that.
+
+PATIENT X583
+Uh-huh.  Maybe they could change it.
+
+DOCTOR X583
+Huh well we can try again.
+
+PATIENT X583
+Okay.
+
+DOCTOR X583
+And see you know.
+
+PATIENT X583
+First it was it was @@@ everything, @@@ everything @@@.  They give me once a month.  Is that the way it supposed to work once a month?
+
+DOCTOR X583
+You get two pills a month.
+
+PATIENT X583
+Oh two pills a month.
+
+DOCTOR X583
+Cause they're not like totally without side effects, you know um.
+
+PATIENT X583
+Uh-huh.
+
+DOCTOR X583
+I mean it can change your blood pressure.
+
+PATIENT X583
+Okay.
+
+DOCTOR X583
+And all kinds of things and it's not something that you can just take like all the time or whenever @@@.
+
+PATIENT X583
+Uh-huh.
+
+DOCTOR X583
+Sometimes you can only take for a little bit just to make sure that @@@ doing.  Hmm, so you may need to have your cholesterol checked on you sometime so we need to check that.  I don't see that so we'll need to check that on you.  Okay.  Um @@@ basically you know it's the smoking and the colonoscopy.  That's the only thing you need.
+
+PATIENT X583
+Okay.  Well I can stop smoking, that's okay.
+
+DOCTOR X583
+Are you sure?
+
+PATIENT X583
+Yeah I'm positive you now.
+
+DOCTOR X583
+Do you want any help with that?
+
+PATIENT X583
+No I could stop that and I told them I'd do it the first thing.
+
+DOCTOR X583
+Are you okay with getting a colonoscopy?  Do you know what it is?
+
+PATIENT X583
+Yeah I heard about it.
+
+DOCTOR X583
+Basically they give the stuff, you drink it and then you poop out everything.
+
+PATIENT X583
+Uh-huh.
+
+DOCTOR X583
+So your bowel is totally clean.
+
+PATIENT X583
+Yeah I need to get that.
+
+DOCTOR X583
+They take a little camera and try to look.
+
+PATIENT X583
+My father, my father passed from uh.
+
+DOCTOR X583
+Colon cancer?
+
+PATIENT X583
+Colon cancer yes.
+
+DOCTOR X583
+Then you should actually have been screened like a long time ago.
+
+PATIENT X583
+Yeah.
+
+DOCTOR X583
+Yeah.
+
+PATIENT X583
+Uh the doctor did the finger part but I mean, but I never got it.
+
+DOCTOR X583
+Yeah we're gonna set you up right now.
+
+PATIENT X583
+Okay.  Not today though right?
+
+DOCTOR X583
+No.
+
+PATIENT X583
+Oh okay.
+
+DOCTOR X583
+Not today.  
+
+PATIENT X583
+Anytime we can get the procedure I be here for it.  
+
+DOCTOR X583
+And the only @@@ is your mental health check.
+
+PATIENT X583
+Right.  That's the only thing I have.
+
+DOCTOR X583
+And you don't have any kind of a heart valve or anything like that.
+
+PATIENT X583
+No, no.
+
+DOCTOR X583
+Alright.
+
+PATIENT X583
+No.
+
+DOCTOR X583
+And you haven't had any surgeries in your stomach at right?
+
+PATIENT X583
+No.
+
+DOCTOR X583
+Have been on anesthesia?
+
+PATIENT X583
+Anesthesia what's that?
+
+DOCTOR X583
+You know they kind of make you kind of.
+
+PATIENT X583
+Oh I had a hernia operation, I don't think they did anesthesia.
+
+DOCTOR X583
+Okay.
+
+PATIENT X583
+The only operation I had was I had the hernia.
+
+DOCTOR X583
+Okay, let me see.  I think everything looks okay.
+
+PATIENT X583
+Uh-huh.
+
+DOCTOR X583
+Let me take a look at you, can you sit up here for a second.  
+
+PATIENT X583
+Do you need my shirt off or anything?
+
+DOCTOR X583
+Nope.  It's good.  Go ahead and breathe normally.  Deep breath, okay.
+
+PATIENT X583
+Excuse me.
+
+DOCTOR X583
+That's okay.
+
+PATIENT X583
+I took too deep of breath.
+
+DOCTOR X583
+@@@.  
+
+PATIENT X583
+Okay.
+
+DOCTOR X583
+Okay.  @@@.
+
+PATIENT X583
+No I can.
+
+DOCTOR X583
+No, no, no, you don't move it I'll hit it.
+
+PATIENT X583
+Okay.
+
+DOCTOR X583
+You don't move it I'll hit it.  There you go.  @@@ that's before I even did anything.
+
+PATIENT X583
+@@@.
+
+DOCTOR X583
+Go ahead and open your mouth, say ah, @@@.
+
+PATIENT X583
+Ah.
+
+DOCTOR X583
+Good.  @@@.  Alright, everything looks good um.  I think we can get you set up for your medicine and all that okay.
+
+PATIENT X583
+Okay.
+
+DOCTOR X583
+You can have a seat back there I'll be right back, just have to talk to my doctor.
+
+PATIENT X583
+Okay.
+
+(DOCTOR OUT:  22:37  DOCTOR IN:  39:49)
+
+DOCTOR X583
+Alright sir, sorry about that.
+
+PATIENT X583
+Uh-huh.
+
+DOCTOR X583
+I know you've been waiting.  He caught me one doctor @@@.  So you can pick up the meds.
+
+PATIENT X583
+Okay.
+
+DOCTOR X583
+We'll see you back in four months.
+
+PATIENT X583
+Okay.
+
+DOCTOR X583
+Um and uh as far as your blood tests.
+
+PATIENT X583
+Uh-huh.
+
+DOCTOR X583
+With your platelets are @@@.
+
+PATIENT X583
+Uh-huh.
+
+DOCTOR X583
+Well it's kind of really low.
+
+PATIENT X583
+Okay.
+
+DOCTOR X583
+Um and so we want to recheck it.
+
+PATIENT X583
+Okay.
+
+DOCTOR X583
+So we'll send you to the Lab today to get some blood drawn.
+
+PATIENT X583
+Okay.
+
+DOCTOR X583
+Um.  Do you want to pick up your medicines or do you want it mailed to you?
+
+PATIENT X583
+I can pick it up today?
+
+DOCTOR X583
+Yes.
+
+PATIENT X583
+Yes.
+
+DOCTOR X583
+Okay fine.  So it's two tablets per month and then we'll give you three refills and then by then you'll have a return appointment and you'll come back here.
+
+PATIENT X583
+Okay.
+
+DOCTOR X583
+You know what I'm saying.
+
+PATIENT X583
+Okay.
+
+DOCTOR X583
+Then we'll keep refilling it.
+
+PATIENT X583
+Okay.
+
+DOCTOR X583
+And everything else, I know that you see the Mental Health people.
+
+PATIENT X583
+Uh-huh.
+
+DOCTOR X583
+But I'm just a little worried because you don't know that @@@.
+
+PATIENT X583
+Uh-huh.
+
+DOCTOR X583
+And um you know if you can attempt to just, when the bad stuff is going on.
+
+PATIENT X583
+Uh-huh.
+
+DOCTOR X583
+And you get stress you know.
+
+PATIENT X583
+Uh-huh.
+
+DOCTOR X583
+Um so I think you should go to the PAC
+
+PATIENT X583
+Uh-huh.
+
+DOCTOR X583
+And they'll have @@@ it's kind of just a walk-in thing.
+
+PATIENT X583
+@@@.
+
+DOCTOR X583
+Yeah you know and it's okay.  I mean you know I've been there.
+
+PATIENT X583
+Uh-huh.
+
+DOCTOR X583
+I don't want you to do anything you don't want to do.
+
+PATIENT X583
+Right, right.
+
+DOCTOR X583
+It's just; you know it's okay if you want to talk about it with me that's fine.
+
+PATIENT X583
+Uh-huh.
+
+DOCTOR X583
+@@@.  I'm @@@.
+
+PATIENT X583
+Right.
+
+DOCTOR X583
+You know um and then I just, I don't know, I think you should go.
+
+PATIENT X583
+Check this out.
+
+DOCTOR X583
+I would.
+
+PATIENT X583
+Uh-huh.
+
+DOCTOR X583
+Cause it's not like you have anything to lose from here.
+
+PATIENT X583
+Hmm I used to go to PAC but they uh @@@ my doctor that I used totally see all the time and I haven't gotten assigned to a new doctor so I don't go there anymore.  Now heck, @@@ California I was there for so long but I haven't got a new doctor so, I don't go there anymore.
+
+DOCTOR X583
+You don't.
+
+PATIENT X583
+No I got @@@.
+
+DOCTOR X583
+Okay so you don't even see like here.  
+
+PATIENT X583
+No.
+
+DOCTOR X583
+What's your phone number?
+
+PATIENT X583
+NUMBER.
+
+DOCTOR X583
+Oh okay, I just needed to get something to write on.  Uh-huh.
+
+PATIENT X583
+NUMBER.
+
+DOCTOR X583
+Okay.  @@@.
+
+PATIENT X583
+Uh-huh and that's cellular because I have a son that stays there @@@ so if you call me I could make sure.
+
+DOCTOR X583
+No sure, sure.  I would just, you know I'll walk over with you.
+
+PATIENT X583
+Uh-huh.  I'm fine, I know where PAC is.
+
+DOCTOR X583
+You know where it is.
+
+PATIENT X583
+Yeah I've been going there for years.
+
+DOCTOR X583
+So you're probably gonna go.
+
+PATIENT X583
+I'm gonna stop by there and I'm gonna stop by Transportation and it's right across.
+
+DOCTOR X583
+I've got your paperwork and everything.
+
+PATIENT X583
+Uh-huh.
+
+DOCTOR X583
+So if you're ready to go sooner.
+
+PATIENT X583
+Uh I have to stop over here first anyway; I need to get my blood drawn right.
+
+DOCTOR X583
+Uh-huh.
+
+PATIENT X583
+Okay.
+
+DOCTOR X583
+You know I can be your regular doctor.
+
+PATIENT X583
+Okay.
+
+DOCTOR X583
+Cause I saw you once.
+
+PATIENT X583
+Uh-huh.
+
+DOCTOR X583
+So I'll set you up, I'll follow your labs.
+
+PATIENT X583
+Okay.
+
+DOCTOR X583
+We'll do all of that um.
+
+PATIENT X583
+Yeah I don't have a regular doctor that I know of.
+
+DOCTOR X583
+Yeah no I will be yours, I can be your regular doctor.
+
+PATIENT X583
+Primary okay.
+
+DOCTOR X583
+Yeah and if you need to be seen you know, go through the all.
+
+PATIENT X583
+Okay.
+
+DOCTOR X583
+And @@@.
+
+PATIENT X583
+Alright.
+
+DOCTOR X583
+And they'll get you scheduled, you get your medicine and then you come here.
+
+PATIENT X583
+Okay.
+
+DOCTOR X583
+Okay.
+
+PATIENT X583
+Good.
+
+DOCTOR X583
+So @@@, PAC.
+
+PATIENT X583
+Okay.
+
+DOCTOR X583
+And Pharmacy to pick up your flu shot and we'll see you back in four months.
+
+PATIENT X583
+Alright.
+
+DOCTOR X583
+And then they will mail you a statement for the colonoscopy.
+
+PATIENT X583
+The what?
+
+DOCTOR X583
+Oh they'll call you.
+
+PATIENT X583
+Okay call me to set up an appointment.  You say like that be four months.
+
+DOCTOR X583
+It’ll probably be sooner than that.
+
+PATIENT X583
+Oh okay.
+
+DOCTOR X583
+You'll see me in four months.
+
+PATIENT X583
+Oh okay.
+
+DOCTOR X583
+But they, I mean I don't do that; it would be up to them actually.
+
+PATIENT X583
+Right I understand.
+
+DOCTOR X583
+That's why they'll take care of it.
+
+PATIENT X583
+Okay.
+
+DOCTOR X583
+Okay.
+
+PATIENT X583
+Okay.
+
+DOCTOR X583
+Alright.
+
+PATIENT X583
+Alright.
+
+DOCTOR X583
+@@@.
+
+PATIENT X583
+Yeah I'll stop back here.
+
+DOCTOR X583
+Okay.
+
+PATIENT X583
+Alright.
+
+DOCTOR X583
+Alright take care.
+
+PATIENT X583
+Alright thank you.
+
+DOCTOR X583
+Sure.
+
+PATIENT LEAVES:  46:16
+
+
+

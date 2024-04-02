@@ -1,0 +1,804 @@
+
+DOCTOR X46
+PATIENT?
+
+PATIENT X46
+How are you today?
+
+DOCTOR X46
+@@@.
+
+PATIENT X46
+Just let me know where I can set my stuff.  @@@.
+
+DOCTOR X46
+I saw that.
+
+PATIENT X46
+I'm 74.
+
+DOCTOR X46
+I saw that.
+
+PATIENT X46
+@@@.
+
+DOCTOR X46
+@@@.
+
+PATIENT X46
+@@@.
+
+DOCTOR X46
+@@@.  
+
+PATIENT X46
+Yeah.  @@@ many years ago.
+
+DOCTOR X46
+@@@.
+
+PATIENT X46
+@@@.
+
+DOCTOR X46
+@@@.
+
+PATIENT X46
+@@@.
+
+DOCTOR X46
+Yeah I saw @@@.  Does the tramadol help?  @@@ help?
+
+PATIENT X46
+I've got to pick it up.  I wasn't able to @@@.
+
+DOCTOR X46
+Oh I see.
+
+PATIENT X46
+@@@.
+
+DOCTOR X46
+Okay.
+
+PATIENT X46
+Cause it's only @@@.
+
+DOCTOR X46
+Okay, so you want to pick it up now.
+
+PATIENT X46
+@@@ discuss @@@.
+
+DOCTOR X46
+Okay.
+
+PATIENT X46
+@@@.
+
+DOCTOR X46
+Woo, @@@.
+
+PATIENT X46
+Okay.  @@@ so I made an appointment to come see you or DOCTOR.
+
+DOCTOR X46
+Okay.
+
+PATIENT X46
+I tried @@@, I called for an appointment they said I hadn't been here in over two years so.
+
+DOCTOR X46
+Okay.
+
+PATIENT X46
+They told me @@@.
+
+DOCTOR X46
+I will do that @@@.
+
+PATIENT X46
+Okay.  @@@.
+
+DOCTOR X46
+What else?
+
+PATIENT X46
+And uh I've been noticing my pulse rate.
+
+DOCTOR X46
+Yes.  Okay.
+
+PATIENT X46
+You had the last two weeks.
+
+DOCTOR X46
+How @@@ okay.
+
+PATIENT X46
+It's been causing some @@@.
+
+DOCTOR X46
+Right I see that.  The high, the 100s, what was going on when they're in the 100s.
+
+PATIENT X46
+It doesn't really matter.
+
+DOCTOR X46
+Nothing @@@.
+
+PATIENT X46
+@@@.
+
+DOCTOR X46
+Okay.
+
+PATIENT X46
+Sometimes they're up and sometimes they're down.
+
+DOCTOR X46
+Okay.  Um well you've been taking the Digoxin, correct?
+
+PATIENT X46
+Uh.
+
+DOCTOR X46
+Excuse me, you stopped @@@ and the atenolol.
+
+PATIENT X46
+@@@.
+
+DOCTOR X46
+The atenolol.
+
+PATIENT X46
+@@@.
+
+DOCTOR X46
+Are at 650?
+
+PATIENT X46
+No.
+
+DOCTOR X46
+No.
+
+PATIENT X46
+I don't have any pills.
+
+DOCTOR X46
+Okay @@@ your blood pressure is 120/74 okay.  Um, @@@ think about it because again, @@@.
+
+PATIENT X46
+Uh-huh.
+
+DOCTOR X46
+Okay.  Um and so the question is do we go up on the atenolol a little more, @@@ 37.5.
+
+PATIENT X46
+Uh-huh.
+
+DOCTOR X46
+And just monitor your blood pressure.  Have you been feeling dizzy at all?
+
+PATIENT X46
+Yes.
+
+DOCTOR X46
+Um because if you were feeling dizzy then I'd be hesitant to raise the dose but if you're not then let's go up on the @@@.
+
+PATIENT X46
+Uh-huh.
+
+DOCTOR X46
+Okay so instead of doubling the dose we'll go up @@@.
+
+PATIENT X46
+Okay @@@.
+
+DOCTOR X46
+Okay, alright sounds good.  Um and the appointment for Audiology is @@@.
+
+PATIENT X46
+For the hearing aid.
+
+DOCTOR X46
+For your hearing aids.
+
+PATIENT X46
+I've been missing things you know.  I @@@ hearing aids, my own @@@.  I just need to invest @@@.
+
+DOCTOR X46
+Okay.  Could you go today?
+
+PATIENT X46
+No.  Wish I could but I can't.
+
+DOCTOR X46
+Okay.  How long have you been wearing the hearing aids?
+
+PATIENT X46
+A couple of years.  @@@.
+
+DOCTOR X46
+Okay.
+
+PATIENT X46
+@@@.
+
+DOCTOR X46
+No problem.  Okay.  Besides the pulse, we're gonna go up on the atenolol, the hearing I'm gonna make sure that you get to see Audiology, I'm putting in a consult right now.
+
+PATIENT X46
+Uh-huh.
+
+DOCTOR X46
+Anything else you want to discuss today?
+
+PATIENT X46
+No I just, @@@.
+
+DOCTOR X46
+Yeah.  @@@.
+
+PATIENT X46
+I @@@.  My wife @@@.
+
+DOCTOR X46
+@@@.
+
+PATIENT X46
+You know @@@.
+
+DOCTOR X46
+@@@.  Are you sure that's not for um, have you ever had @@@ before?
+
+PATIENT X46
+@@@.
+
+DOCTOR X46
+Hmm.
+
+PATIENT X46
+@@@.
+
+DOCTOR X46
+@@@.  Just keep talking and I'll look it up.
+
+PATIENT X46
+Okay.  Uh.  @@@ and that helps.
+
+DOCTOR X46
+Okay.
+
+PATIENT X46
+And I probably get some @@@ that and that's probably contributing @@@.
+
+DOCTOR X46
+Hmm, yeah.
+
+PATIENT X46
+@@@ recommend it @@@.
+
+DOCTOR X46
+@@@.
+
+PATIENT X46
+I feel good for about five minutes after.
+
+DOCTOR X46
+Uh-huh.
+
+PATIENT X46
+And then @@@ all day.
+
+DOCTOR X46
+Right.  So why did @@@ if you feel like this, okay.
+
+PATIENT X46
+Okay.
+
+DOCTOR X46
+Okay.  Um have you tried or are you out of xxx Gay?
+
+PATIENT X46
+Uh I used to use many years ago.  @@@.
+
+DOCTOR X46
+I would recommend @@@.
+
+PATIENT X46
+@@@.
+
+DOCTOR X46
+Yeah.  That can help the muscular pain, if you get that.
+
+PATIENT X46
+@@@ yeah.
+
+DOCTOR X46
+Just use that on your back.  As far as other pain medications, anything @@@.  You know something that, I would try, I would try with sticking with ibuprofen um, Advil and @@@.
+
+PATIENT X46
+Oh ibuprofen @@@ anyway.
+
+DOCTOR X46
+Right.
+
+PATIENT X46
+Because of all the medications.
+
+DOCTOR X46
+Because of the Coumadin that you're on.
+
+PATIENT X46
+Right.
+
+DOCTOR X46
+The Tylenol @@@.  The tramadol that they gave you, you can take that as you need it and @@@, something right now while you're so sore.
+
+PATIENT X46
+Uh-huh.
+
+DOCTOR X46
+@@@ heating pad or Icy Hot.
+
+PATIENT X46
+Okay, @@@ without any problem.
+
+DOCTOR X46
+Okay great.
+
+PATIENT X46
+@@@.  
+
+DOCTOR X46
+@@@.
+
+PATIENT X46
+Oh my blood pressure and it's going down.
+
+DOCTOR X46
+It is good.
+
+PATIENT X46
+@@@.
+
+DOCTOR X46
+I'm glad to see that.  I'm glad to see that.  @@@.  How come you still have your?
+
+PATIENT X46
+Cause I check my pulse every now and then and checking that too.
+
+DOCTOR X46
+Absolutely, no it looks good.  I'm happy to see that.  Why don't you have a seat here.
+
+PATIENT X46
+Okay.  @@@.
+
+DOCTOR X46
+@@@.  I'll examine @@@.  Did you have a good holiday?
+
+PATIENT X46
+Yeah it was quiet but good.
+
+DOCTOR X46
+Well quiet @@@ good.
+
+PATIENT X46
+@@@ easy.  @@@.
+
+DOCTOR X46
+Well good.
+
+PATIENT X46
+And we had a very good dinner and.
+
+DOCTOR X46
+Good.  The company @@@.
+
+PATIENT X46
+My daughter @@@.
+
+DOCTOR X46
+@@@.
+
+PATIENT X46
+She @@@.
+
+DOCTOR X46
+Oh my goodness.
+
+PATIENT X46
+@@@.
+
+DOCTOR X46
+Uh-huh.  I can only imagine.  @@@.  Deep breath.  How about you, @@@.
+
+PATIENT X46
+@@@.  I live with my daughter.
+
+DOCTOR X46
+Right.  Let me look at the other one.
+
+PATIENT X46
+12-year-old granddaughter @@@.
+
+DOCTOR X46
+You can put your glasses back on.
+
+PATIENT X46
+Okay.
+
+DOCTOR X46
+Um @@@, push out against me, good.  Face me and we're going to @@@.  Good now on this side good.  Now kick out against me, @@@.  Good, good, good.  Okay can you go up anymore, yeah, okay.  Can you lie back sir?
+
+PATIENT X46
+Oh sure.
+
+DOCTOR X46
+Okay.  Go ahead and @@@.
+
+PATIENT X46
+It hurts to do that.
+
+DOCTOR X46
+It hurts you to lay okay.  Lift this leg up straight, can you do that?  The right leg lift it like this?  @@@.
+
+PATIENT X46
+It hurts a lot.
+
+DOCTOR X46
+Okay.  Can you lift this one?
+
+PATIENT X46
+Yeah it really hurts a lot.
+
+DOCTOR X46
+Okay well I'm going to raise it okay.
+
+PATIENT X46
+Okay.
+
+DOCTOR X46
+So you won't do anything.
+
+PATIENT X46
+@@@.
+
+DOCTOR X46
+Just let me do this okay.  There, is that good.
+
+PATIENT X46
+Uh-huh.  Oh.
+
+DOCTOR X46
+That's fine um.  Did they get x-rays of your @@@.
+
+PATIENT X46
+Yeah they took a bunch.
+
+DOCTOR X46
+Okay.  I'm gonna have you sit up and so, so did you go here @@@.
+
+PATIENT X46
+@@@.
+
+DOCTOR X46
+You had them done here.
+
+PATIENT X46
+@@@.
+
+DOCTOR X46
+@@@ today?
+
+PATIENT X46
+Uh @@@.
+
+DOCTOR X46
+Okay.  I want to see your feet.
+
+PATIENT X46
+Okay.  @@@ but not like this.
+
+DOCTOR X46
+Uh you do have swelling a little bit.  @@@ here?
+
+PATIENT X46
+No @@@.
+
+DOCTOR X46
+Here?
+
+PATIENT X46
+I felt a little.
+
+DOCTOR X46
+Here?
+
+PATIENT X46
+Not really.  @@@.
+
+DOCTOR X46
+Here?
+
+PATIENT X46
+@@@.
+
+DOCTOR X46
+Here?
+
+PATIENT X46
+Okay now.
+
+DOCTOR X46
+But mostly here.
+
+PATIENT X46
+@@@.
+
+DOCTOR X46
+Do you feel anything here?
+
+PATIENT X46
+@@@ all kinds of things.
+
+DOCTOR X46
+Okay.  @@@.
+
+PATIENT X46
+Huh?
+
+DOCTOR X46
+@@@.
+
+PATIENT X46
+@@@.  Trying to keep myself informed.  @@@.
+
+DOCTOR X46
+Oh.  Well you need to come to the doctor.
+
+PATIENT X46
+@@@.
+
+DOCTOR X46
+Well, so remind me gout wise, when was the last time you had a gout flare?
+
+PATIENT X46
+Oh years.  Uh @@@ I used to take a medicine for gout @@@ nonsteroidals.
+
+DOCTOR X46
+Right.
+
+PATIENT X46
+So I don't have to take any medicine for gout anymore.
+
+DOCTOR X46
+I see okay.
+
+PATIENT X46
+And I haven't had a flare-up since.
+
+DOCTOR X46
+Uh-huh.  So you're due for some shots, do you know that.
+
+PATIENT X46
+What?
+
+DOCTOR X46
+You're due for some immunizations.
+
+PATIENT X46
+Oh this year yeah.
+
+DOCTOR X46
+Did you get the flu shot?
+
+PATIENT X46
+Oh yes. @@@.  I get them.
+
+DOCTOR X46
+@@@ beautiful.  And your atenolol, can you cut those pills in half?
+
+PATIENT X46
+Sure.
+
+DOCTOR X46
+Okay.
+
+PATIENT X46
+@@@.
+
+DOCTOR X46
+Alright and so the only @@@.
+
+PATIENT X46
+And my eye drops.
+
+DOCTOR X46
+@@@.  I got the Coumadin, @@@ vitamin.
+
+PATIENT X46
+@@@ the vitamin.
+
+DOCTOR X46
+Okay, so for your back pain I would recommend tramadol, the Icy Hot and @@@ gonna help.
+
+PATIENT X46
+Uh-huh.
+
+DOCTOR X46
+And if it doesn't, @@@ call me.
+
+PATIENT X46
+Okay.
+
+DOCTOR X46
+Let me know and then we'll order an MRI of the back.  @@@ looks good.
+
+PATIENT X46
+Uh-huh.  Cause they must have taken at least 16 I'd say.
+
+DOCTOR X46
+Yeah @@@.
+
+PATIENT X46
+@@@.
+
+DOCTOR X46
+Yeah.  For your heart rate for your a. fib.  You have the Coumadin and I see that you follow in the Coumadin Clinic and your INRs @@@ and the @@@.  If you feel lightheaded go back down to 25 mg and give me call @@@.
+
+PATIENT X46
+Okay.
+
+DOCTOR X46
+Okay.
+
+PATIENT X46
+@@@.
+
+DOCTOR X46
+And um Audiology.  They should be calling you for an appointment.
+
+PATIENT X46
+Yeah usually they send a letter.
+
+DOCTOR X46
+Or send a letter.
+
+PATIENT X46
+Yeah.
+
+DOCTOR X46
+And.
+
+PATIENT X46
+@@@.
+
+DOCTOR X46
+Okay, sounds good.
+
+PATIENT X46
+Okay.
+
+DOCTOR X46
+Alright then, let me step out and I'll be right back okay.
+
+PATIENT X46
+Okay.
+
+DOCTOR X46
+Alright.
+
+(DOCTOR OUT:  25:41  DOCTOR IN:  29:52)
+
+DOCTOR X46
+Alright sir.  So all set.
+
+PATIENT X46
+Okay.  @@@.
+
+DOCTOR X46
+Absolutely.
+
+PATIENT X46
+@@@.
+
+DOCTOR X46
+Oh sure in the Atenolol yeah, 37.5.
+
+PATIENT X46
+Pardon?
+
+DOCTOR X46
+The Atenolol yeah.  So in the computer I have that you're taking 50 mg, but you're definitely taking the 25.  Is that correct?
+
+PATIENT X46
+Uh-huh.
+
+DOCTOR X46
+Okay.
+
+PATIENT X46
+I was just taking the @@@.
+
+DOCTOR X46
+The pill is.
+
+PATIENT X46
+@@@.
+
+DOCTOR X46
+25, not 50.  It's not a 50 pill okay.
+
+PATIENT X46
+Cause I was taking a half pill before, @@@.
+
+DOCTOR X46
+Okay.  
+
+PATIENT X46
+@@@.
+
+DOCTOR X46
+Yes I did.  @@@.
+
+PATIENT X46
+@@@.
+
+DOCTOR X46
+Uh-huh.
+
+PATIENT X46
+I know I was parked and then I put it into the car and @@@.
+
+DOCTOR X46
+@@@.
+
+PATIENT X46
+@@@.
+
+DOCTOR X46
+@@@.
+
+PATIENT X46
+@@@ paper.
+
+DOCTOR X46
+Have a great one too.
+
+PATIENT X46
+@@@.
+
+DOCTOR X46
+Oh you need to.  @@@.
+
+PATIENT X46
+@@@ blood work though.
+
+DOCTOR X46
+No problem.  @@@ okay.
+
+PATIENT X46
+@@@.
+
+DOCTOR X46
+Alright sir @@@.
+
+PATIENT X46
+Okay.
+
+DOCTOR X46
+Okay.
+
+PATIENT X46
+Take care now.
+
+Patient leaves at 31:59
+
+
+
+
+

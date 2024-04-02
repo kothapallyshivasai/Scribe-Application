@@ -1,0 +1,1326 @@
+
+DOCTOR X544
+PATIENT?
+
+PATIENT X544
+How you doing?
+
+DOCTOR X544
+Good.  How are you?
+
+PATIENT X544
+Okay.
+
+DOCTOR X544
+How you doing?
+
+PATIENT X544
+Okay, been a little bit.  Sit over here?
+
+DOCTOR X544
+Go ahead have a seat right there.  Either this is the first time I've seen you or I haven't seen you in a while.
+
+PATIENT X544
+First time I've seen you.
+
+DOCTOR X544
+Alright, alright.  We're uh, @@@ visit.
+
+PATIENT X544
+Uh @@@.
+
+DOCTOR X544
+Okay well that's good.  Well how can we help you today?
+
+PATIENT X544
+Well.
+
+DOCTOR X544
+Since you're coming in for a visit, is there any problem or is it just for a follow-up?
+
+PATIENT X544
+Follow-up and then uh I got some, well I spoke to DOCTOR.
+
+DOCTOR X544
+Okay.
+
+PATIENT X544
+For @@@ uh @@@ and some wheezing.
+
+DOCTOR X544
+Okay.
+
+PATIENT X544
+So he had, you know, he did the tests.
+
+DOCTOR X544
+Okay.
+
+PATIENT X544
+He said to uh have a test.
+
+DOCTOR X544
+So that's the pulmonary function tests?
+
+PATIENT X544
+Yes.
+
+DOCTOR X544
+Yes.
+
+PATIENT X544
+And the results coming back.
+
+DOCTOR X544
+Oh.
+
+PATIENT X544
+He said he wanted this one first cause he's been following me, prescribing different things and he wanted to give me the right stuff.
+
+DOCTOR X544
+Alright.
+
+PATIENT X544
+But he wanted to listen to my lungs first.
+
+DOCTOR X544
+Let me check his last note alright.
+
+PATIENT X544
+Hey uh do you guys actually um, do you write prescriptions or do you have the uh the VA process?
+
+DOCTOR X544
+Well we write prescriptions through the um.
+
+PATIENT X544
+Do that through the computer right?
+
+DOCTOR X544
+Yes sir.
+
+PATIENT X544
+But you can't write, hand write?
+
+DOCTOR X544
+No huh uh, why do you ask?
+
+PATIENT X544
+They get expensive, the co-payments that's why.
+
+DOCTOR X544
+Through the VA?
+
+PATIENT X544
+Yeah.
+
+DOCTOR X544
+Okay.
+
+PATIENT X544
+Cause the medicines I can get a lot cheaper so that's why I was asking you that you know.
+
+DOCTOR X544
+Well I mean, I'll have to ask.
+
+PATIENT X544
+You have to ask DOCTOR?
+
+DOCTOR X544
+Yeah or DOCTOR.
+
+PATIENT X544
+Okay.  I wrote down the prescriptions that I want, written down on a list.
+
+DOCTOR X544
+So let's look, so to get through here expensive for you?
+
+PATIENT X544
+Yeah the co-payments.
+
+DOCTOR X544
+Let me see @@@ what you're taking first of all.
+
+PATIENT X544
+I can tell you which ones I'm talking about that work right here.  I been taking that @@@.
+
+DOCTOR X544
+@@@.  For the most part your lungs are pretty good.
+
+PATIENT X544
+Yeah @@@.
+
+DOCTOR X544
+Because there may have been a little spot, what we call a mild obstructive defect okay.
+
+PATIENT X544
+Okay.
+
+DOCTOR X544
+Um so obstructive defect, are you a smoker or were you ever a smoker?  Okay, there's no history of asthma or any history of asthma?  Do you have a history of reflux or GERD what we call like a burning over the chest after you eat like at night, stuff like that?
+
+PATIENT X544
+Yeah so I have to see if we're making some improvements.
+
+DOCTOR X544
+Okay you do.
+
+PATIENT X544
+Yeah.
+
+DOCTOR X544
+You're taking medication for that?  No okay.
+
+PATIENT X544
+No.
+
+DOCTOR X544
+Um.
+
+PATIENT X544
+It's just like you know sometimes uh it's kind of like @@@ or uh wheezing when I lay down.
+
+DOCTOR X544
+Okay.  When was the last time you saw DOCTOR?
+
+PATIENT X544
+Uh about a month ago, the last time I was here.
+
+DOCTOR X544
+Cause I just, its last year in May you saw DOCTOR.
+
+PATIENT X544
+Uh it was I saw DOCTOR and let's see DOCTOR in July.
+
+DOCTOR X544
+In July.
+
+PATIENT X544
+Yeah.
+
+DOCTOR X544
+July what?
+
+PATIENT X544
+I guess sometime around this time.
+
+DOCTOR X544
+Okay.
+
+PATIENT X544
+Mid July.
+
+DOCTOR X544
+I have the nurse; I don't see the note from DOCTOR.  I see the PFT Report and that was in July, the function tests.
+
+PATIENT X544
+Okay.  They didn't add anything.
+
+DOCTOR X544
+Okay.
+
+PATIENT X544
+Cause uh there wasn't really nothing for them to do.
+
+DOCTOR X544
+Okay.  Okay I see.
+
+PATIENT X544
+You see it?
+
+DOCTOR X544
+Yep.
+
+PATIENT X544
+Okay.
+
+DOCTOR X544
+Okay I see it.  Okay so you have a couple issues.  It looks like the diabetes is also a major issue correct?  Okay.  Let me just @@@.
+
+PATIENT X544
+So far it's been pretty good.
+
+DOCTOR X544
+Okay.
+
+PATIENT X544
+I been testing myself.
+
+DOCTOR X544
+Now what are you on for your diabetes?
+
+PATIENT X544
+Um I @@@, glypid, glyper, G I don't know how to pronounce it.
+
+DOCTOR X544
+Glipizide?
+
+PATIENT X544
+Glipizide and um, oh the metformin yeah.
+
+DOCTOR X544
+You're on metformin.  Good and there was a reason DOCTOR said you were having some trouble with the metformin?
+
+PATIENT X544
+Yeah I was.
+
+DOCTOR X544
+But.
+
+PATIENT X544
+But it went away.  I was experiencing headaches with it.
+
+DOCTOR X544
+Okay.
+
+PATIENT X544
+But as it got into my system I wasn't experiencing any more headaches and I been testing myself and uh been pretty good.
+
+DOCTOR X544
+Okay.
+
+PATIENT X544
+Like when I get up in the morning I test myself and sometimes it's like 95, 115.
+
+DOCTOR X544
+Okay.
+
+PATIENT X544
+Yeah.
+
+DOCTOR X544
+Good.
+
+PATIENT X544
+And I you know I been testing myself like a few hours after I eat.
+
+DOCTOR X544
+Okay.
+
+PATIENT X544
+It's like 140.
+
+DOCTOR X544
+Really?
+
+PATIENT X544
+Yeah.
+
+DOCTOR X544
+That's not bad.
+
+PATIENT X544
+Yeah I know so.  It's been @@@ cause I was going on my meds.  He had told me to take uh, he told me to take a half a pill, half of it, so I took half.
+
+DOCTOR X544
+So you're taking half of.
+
+PATIENT X544
+No I take a whole one now.
+
+DOCTOR X544
+So you take okay.
+
+PATIENT X544
+I take a whole one.  Well that glipizide I was wondering is that necessary to take along with that metformin?
+
+DOCTOR X544
+It should be and I think the reason they did that was because your sugar wasn't very well controlled.
+
+PATIENT X544
+Yeah.
+
+DOCTOR X544
+Uh and that's why so last time.
+
+PATIENT X544
+But he no this I was taking the glipizide and he said because my sugar was uncontrolled he added the metformin.
+
+DOCTOR X544
+Yeah.  So you're taking metformin, you're taking glipizide, you're taking 20 twice a day right?  20 mg?
+
+PATIENT X544
+Well actually I'm taking only 10.
+
+DOCTOR X544
+Okay 10 okay.
+
+PATIENT X544
+I'm taking 10.
+
+DOCTOR X544
+Okay.
+
+PATIENT X544
+Along with the metformin.
+
+DOCTOR X544
+Okay and uh metformin what 500 twice a day okay.
+
+PATIENT X544
+Right, right.
+
+DOCTOR X544
+And then and you're taking that every day?
+
+PATIENT X544
+Yes.
+
+DOCTOR X544
+Okay.
+
+PATIENT X544
+Yeah.
+
+DOCTOR X544
+Every, every day without fail and your blood sugars when you wake up in the morning are around?
+
+PATIENT X544
+They tend to.
+
+DOCTOR X544
+What number?
+
+PATIENT X544
+Fluctuate maybe 95, 115 or so I guess.
+
+DOCTOR X544
+So that's very good.  Is that better than it has been in the past?  A lot better cause it.
+
+PATIENT X544
+Cause when I was waking it was like 150.
+
+DOCTOR X544
+Okay, okay.  Now you said two hours after you eat it's how much?
+
+PATIENT X544
+It's um, it's about 140.
+
+DOCTOR X544
+140 okay.
+
+PATIENT X544
+Yeah.
+
+DOCTOR X544
+Um that's fine uh any problems with low, low blood sugar?
+
+PATIENT X544
+The lowest I ever went was, I tested myself one time and it was like uh 85.
+
+DOCTOR X544
+Okay.
+
+PATIENT X544
+That's not, that's not that low is it?
+
+DOCTOR X544
+85 is not that low.
+
+PATIENT X544
+But when I get below 70.
+
+DOCTOR X544
+Then you start feeling it?
+
+PATIENT X544
+Well I haven't got below 70 yet.
+
+DOCTOR X544
+Okay, alright well that's good.  So then you're not going too low.  Um when was your last eye appointment?
+
+PATIENT X544
+I have one coming up.
+
+DOCTOR X544
+You do okay.
+
+PATIENT X544
+Yeah it's September 23rd.
+
+DOCTOR X544
+How about your foot, any foot appointments?
+
+PATIENT X544
+I have to make one but I been taking care of my feet.
+
+DOCTOR X544
+You haven't?
+
+PATIENT X544
+I have.
+
+DOCTOR X544
+Okay good, that's good.  And you do any exercise?
+
+PATIENT X544
+Yes.
+
+DOCTOR X544
+And your dieting?
+
+PATIENT X544
+Yeah I uh eat no white food at all.
+
+DOCTOR X544
+Okay.
+
+PATIENT X544
+No white you know only whole wheat or whole grain and I exercise too.
+
+DOCTOR X544
+Alright.  Now your last cholesterol was in May as well.  You're good cholesterol was 124 or sorry your bad cholesterol was 124; your good cholesterol was 40.  Now DOCTOR I think changed your cholesterol medication at that time too right?
+
+PATIENT X544
+Uh yeah he did.  He changed it.  Yes.
+
+DOCTOR X544
+Now there are a couple, there are a couple of notes here okay.  First of all the @@@ problems, okay.  Now DOCTOR had increased your glipizide from 10 to 20.  Did that ever happen?  The glipizide to twice a day to 10 mg?
+
+PATIENT X544
+Yeah that's before the uh metformin.
+
+DOCTOR X544
+Okay.  But then you start the metformin and then you just kept on the 10 is that correct?
+
+PATIENT X544
+Uh I started doing 20.  I mean I was going 20 and then I got on the metformin okay and then I found out that I went back down to 10 of the glipizide and did the metformin and my sugar got better.
+
+DOCTOR X544
+Okay.  Alright, alright so what we need to do at this point so and you've been taking your cholesterol medication regularly correct?
+
+PATIENT X544
+Right.
+
+DOCTOR X544
+Okay um and it looks like your cholesterol medication was actually changed at one point.
+
+PATIENT X544
+Well they started what simvastatin, yes simvastatin.
+
+DOCTOR X544
+Yeah so when was that changed?
+
+PATIENT X544
+Oh that was changed when I first, let's see when was it changed; let me think back, it was changed about three or four months ago.
+
+DOCTOR X544
+Okay.  Well if it was changed three or four months ago.
+
+PATIENT X544
+It should be in my chart somewhere.
+
+DOCTOR X544
+Well we need to repeat it okay.  Now this says on 06/10 so it says, this note said you're on simvastatin 20 mg okay.  It says they wanted to increase but they were going to re-discuss it on your visit to the uh pharmacist.
+
+PATIENT X544
+Yeah we were supposed to do some more tests on it.
+
+DOCTOR X544
+Okay.
+
+PATIENT X544
+I believe before we increased it to see how my, see how my cholesterol is.
+
+DOCTOR X544
+Okay.
+
+PATIENT X544
+Since I been on the uh the simvastatin.
+
+DOCTOR X544
+You haven't been taking that regularly, were you having trouble not taking that regularly?
+
+PATIENT X544
+I took I uh actually take half of it.
+
+DOCTOR X544
+Okay.  Okay but you're doing that every day?
+
+PATIENT X544
+Yeah I have it every day.
+
+DOCTOR X544
+And but before your cholesterol was last checked in May.  Were you taking it kind of sporadically then like every once in a while or were you taking it consistently?
+
+PATIENT X544
+I take my medicine consistently.
+
+DOCTOR X544
+Okay it's all good.  Well I mean maybe something we do need to increase is.
+
+PATIENT X544
+What?
+
+DOCTOR X544
+The simvastatin.
+
+PATIENT X544
+Why?
+
+DOCTOR X544
+Well because your cholesterol wasn't goal, so a lot of people with diabetes.  Diabetes have certain goals okay and they're with regard to sugar control okay because we know that blood sugar can affect vessel disease, especially small vessel disease and then we also aim to control a lot of other stuff like blood pressure, cholesterol, smoking okay.
+
+PATIENT X544
+Uh-huh.
+
+DOCTOR X544
+Cause you know that can affect heart disease and it turns out diabetics can have hosts of heart disease, vascular disease so anything we can do to limit that is good.  Now all these studies of people that live over the years tend to show that we're
+being good doctors if we meet these goals and we decrease the risks of this happening if we meet these goals.  So that's kind of why we have you on it is because we know that if we get your cholesterol to a certain goal, being a diabetic, that will help you live longer.
+
+PATIENT X544
+Okay.
+
+DOCTOR X544
+So that's why we, that's why we kind of encourage that, we kind of push you to do that stuff.  Um and that's why DOCTOR wanted to increase your simvastatin alright from 20 to 40 cause he wanted to see your bad cholesterol, the LDL, should be around 100.
+
+PATIENT X544
+But should we uh do a test to make sure?
+
+DOCTOR X544
+Well it's bad so the last time we checked was in May right?
+
+PATIENT X544
+I believe so, I can't remember.
+
+DOCTOR X544
+Yeah.
+
+PATIENT X544
+To be honest with you.  You see the lab?
+
+DOCTOR X544
+Yeah.  So the last time we checked your cholesterol was in May.
+
+PATIENT X544
+Right well that's when I did the blood tests right.
+
+DOCTOR X544
+Yeah.
+
+PATIENT X544
+Okay yeah.
+
+DOCTOR X544
+And it was okay but it wasn't quite, it was 124, it should be around 100.
+
+PATIENT X544
+Okay.
+
+DOCTOR X544
+Okay and that's kind of the same for your A1c wasn't at goal either and that's why we added your metformin so okay.  So.
+
+PATIENT X544
+So that A1c is a actual test, a test over a period of time right?
+
+DOCTOR X544
+Yes.
+
+PATIENT X544
+Okay.
+
+DOCTOR X544
+Yes.  Um yeah and it checks to make sure how well your sugar's controlled.  It should be checked every three months.
+
+PATIENT X544
+Okay so @@@.
+
+DOCTOR X544
+Yeah.  So how about this?
+
+PATIENT X544
+Okay.
+
+DOCTOR X544
+Cause why don't we check your cholesterol.
+
+PATIENT X544
+Uh-huh.
+
+DOCTOR X544
+Okay, alright.  If your cholesterol is still elevated let's go increase your medication.
+
+PATIENT X544
+Well okay.
+
+DOCTOR X544
+Alright.
+
+PATIENT X544
+Because I think it's what it is, 25 mg.
+
+DOCTOR X544
+You're at 20 mg.
+
+PATIENT X544
+And I'm doing 10.
+
+DOCTOR X544
+You are doing, at least by this; you're doing 20 mg so you get a 40 mg tablet.
+
+PATIENT X544
+Oh yeah.
+
+DOCTOR X544
+And you're cutting them in half.
+
+PATIENT X544
+Okay.
+
+DOCTOR X544
+Okay.  So by this you're taking 20 mg so we would increase to the 40 mg alright.
+
+PATIENT X544
+That's a whole pill.
+
+DOCTOR X544
+Yeah.
+
+PATIENT X544
+But you're gonna do the test right correct?
+
+DOCTOR X544
+Yeah.  If that's what it takes to get you to increase yeah I'll do that.
+
+PATIENT X544
+Yeah because I want to make sure.
+
+DOCTOR X544
+Alright.  Have you been eating today, you been fasting?
+
+PATIENT X544
+Uh, I had one of those bars, one of those Nature Valley Bars.
+
+DOCTOR X544
+Okay.
+
+PATIENT X544
+Cause I forgot.
+
+DOCTOR X544
+Oh okay.  Deep breaths, again, deep breath.  Your pulse is a little bit fast today.  Is it always a little quick?
+
+PATIENT X544
+Well I'd had been in the gym for about an hour.
+
+DOCTOR X544
+Oh you were in the gym?
+
+PATIENT X544
+Yeah.
+
+DOCTOR X544
+You were working out okay.
+
+PATIENT X544
+Yeah.
+
+DOCTOR X544
+I was gonna say.
+
+PATIENT X544
+@@@ yeah.
+
+DOCTOR X544
+Hey that's wild.
+
+PATIENT X544
+My blood pressure was kind of high cause I had just got done at the gym.
+
+DOCTOR X544
+Okay, alright.
+
+PATIENT X544
+I'd been at the gym about maybe.
+
+DOCTOR X544
+Before you came up here?  Yeah.  And you're gonna set up an eye appointment when you go up front?
+
+PATIENT X544
+Oh yes.
+
+DOCTOR X544
+Okay so I think that's what we're gonna do alright.  We'll repeat your cholesterol but you need to be fasting so you have to come back and do it okay.
+
+PATIENT X544
+Okay.  Have to come back?
+
+DOCTOR X544
+Yeah you can do it, I don't know do you come to the gym here or?
+
+PATIENT X544
+No I go to @@@.
+
+DOCTOR X544
+Okay close by?
+
+PATIENT X544
+Huh?
+
+DOCTOR X544
+Is it close by?
+
+PATIENT X544
+Close by my home.
+
+DOCTOR X544
+Okay.  How often to get up here?
+
+PATIENT X544
+Oh off and on.
+
+DOCTOR X544
+Okay.  We'll repeat your cholesterol.  The next time you can come back and I'll put it in for like in the next week.
+
+PATIENT X544
+Uh-huh.
+
+DOCTOR X544
+For you to come back in okay.
+
+PATIENT X544
+Okay.
+
+DOCTOR X544
+Any time between now and next week should be good.  Uh I'll put it in for tomorrow morning and you can just get it in the morning.
+
+PATIENT X544
+Well what's you gonna do about this wheeze?
+
+DOCTOR X544
+Well right now your lungs sound pretty clear okay.
+
+PATIENT X544
+Cause I think it's in here cause I have to uh any time I have to use that albuterol.
+
+DOCTOR X544
+You use the albuterol inhaler?  You really have to avoid certain foods that gives you um.
+
+PATIENT X544
+Well like uh, like if I eat something like pasta with tomato sauce.
+
+DOCTOR X544
+Yeah.
+
+PATIENT X544
+@@@.
+
+DOCTOR X544
+Yes.
+
+PATIENT X544
+Then I get it, I can't help it.
+
+DOCTOR X544
+Right.
+
+PATIENT X544
+I like real starchy foods.
+
+DOCTOR X544
+Do you have coffee?
+
+PATIENT X544
+Yeah sometimes in the morning.
+
+DOCTOR X544
+Okay does that set you off?
+
+PATIENT X544
+Yeah.
+
+DOCTOR X544
+Um sometimes people that have, acutely due to reflux or an inflammation in the esophagus from like the stomach acid.
+
+PATIENT X544
+Uh-huh.
+
+DOCTOR X544
+What we can do is you're taking the albuterol; you get what wheezing mostly at night right?
+
+PATIENT X544
+Yeah when I lay down.
+
+DOCTOR X544
+Yeah.
+
+PATIENT X544
+Uh I have shortness of breath.  Now when I get on the treadmill uh you know I have like shortness of breath.
+
+DOCTOR X544
+You do have shortness of breath?
+
+PATIENT X544
+Yeah.
+
+DOCTOR X544
+Okay.  Any swelling now?
+
+PATIENT X544
+Any swelling?
+
+DOCTOR X544
+Yeah in your legs or anything like that?
+
+PATIENT X544
+Uh uh.
+
+DOCTOR X544
+Um how about when you walk regularly?  No?
+
+PATIENT X544
+No.
+
+DOCTOR X544
+Chest pain?
+
+PATIENT X544
+No.
+
+DOCTOR X544
+Alright um.
+
+PATIENT X544
+You got, can't you give me something for this wheezing though?
+
+DOCTOR X544
+What's that?
+
+PATIENT X544
+Well can't you give me something for this wheezing?
+
+DOCTOR X544
+Depending on what's causing the wheezing.  You know if you're telling me when you're on the treadmill and your short of breath do you mean you're not able to exercise as much as you can or?  How many flights of stairs can you go up before you get short of breath?  Or is that a problem for you or not a problem at all?
+
+PATIENT X544
+It depends.
+
+DOCTOR X544
+Do you wheeze when you get on the treadmill?  No.  Do you get short of breath still?
+
+PATIENT X544
+The only time I wheeze is when I'm laying down.
+
+DOCTOR X544
+Okay.  And what's this with the treadmill thing?
+
+PATIENT X544
+Well when I get off the treadmill sometimes I got to like kind of catch my breath and I don't hear the wheezing.  Like my wife says sometimes when I be talking to her she'd say I hear you wheezing.
+
+DOCTOR X544
+Okay.  It may be that sometimes if it's worse at night, you know this wheezing it could be just the reflux that's maybe causing this uh your.
+
+PATIENT X544
+The wheezing?
+
+DOCTOR X544
+Yeah I mean it could be.  So maybe suppress some of the stomach acid a little bit, that might help it too and we could try it.
+
+PATIENT X544
+Put this on hold again.
+
+DOCTOR X544
+Well obviously I can give you something for it.  I can give you something for it, what do you think?
+
+PATIENT X544
+You say you didn't see any problems with my lungs or anything?
+
+DOCTOR X544
+Your PFT showed you may have a mild obstructive defect okay.  Now the albuterol should help that.  Does your albuterol help the wheezing that you have at night?  Have you tried it at night the albuterol?
+
+PATIENT X544
+Yeah sometimes I can try it.
+
+DOCTOR X544
+Sometimes, does it help?
+
+PATIENT X544
+Uh yeah it does.  But you know I spoke to DOCTOR and he said that the albuterol is not doing any good and that's what he told me.
+
+DOCTOR X544
+Okay.
+
+PATIENT X544
+Um he tried to tell me there's no problems with the lungs.  
+
+DOCTOR X544
+Yeah well right now it doesn't look like there is okay.  What I'm saying is that sometimes if your stomach acid at night, you lay back and that irritates your lungs cause it can.  It can cause a little constriction and can cause that wheezing.  Your lungs sound clear on exam right now, so there's no problem.
+
+PATIENT X544
+Okay.
+
+DOCTOR X544
+So what if we try and just suppress the stomach acid alright.  You should take the pills, take twice a day, we'll check it, we'll try it for a month, four to eight weeks, see if that helps at all alright.
+
+PATIENT X544
+Okay.
+
+DOCTOR X544
+Especially at night and then if it does we have our answer.
+
+PATIENT X544
+Okay.
+
+DOCTOR X544
+Alright.  I'll be right back.
+
+PATIENT X544
+Can you uh, give me something to enhance my sexual performance?
+
+DOCTOR X544
+(Laughter) You just add it on right at the end don't you?
+
+PATIENT X544
+(Laughter).
+
+DOCTOR X544
+Um man you did good, this is why, no I'm just kidding.  Um yeah we can talk about that too I mean.  I think getting your blood sugars under control that story is fine.  Can we talk about that when you come in more?
+
+PATIENT X544
+I was hoping that you'd give me some today.
+
+DOCTOR X544
+Alright well I'll see what I can do.
+
+PATIENT X544
+(Laughter).
+
+DOCTOR X544
+In the meantime, there's another thing, you need a new appointment.
+
+PATIENT X544
+Well I want to get the important stuff out first.
+
+DOCTOR X544
+Alright, alright, alright.
+
+(DOCTOR OUT:  35:00  DOCTOR IN:  41:10)
+
+DOCTOR X544
+Alright.  So you're able to actually get an erection?
+
+PATIENT X544
+Uh yes, a little.
+
+DOCTOR X544
+What's the problem?  Is it I mean.
+
+PATIENT X544
+I want it better.
+
+DOCTOR X544
+Okay.  So what do you mean better?  You mean you want harder?
+
+PATIENT X544
+Yes.
+
+DOCTOR X544
+You want it to last longer?
+
+PATIENT X544
+Yeah I want it to last longer and I want it better.
+
+DOCTOR X544
+Okay.  Now are you able to ejaculate?
+
+PATIENT X544
+Yes.
+
+DOCTOR X544
+Okay.  Is it, do you ejaculate too quick?
+
+PATIENT X544
+Sometimes.
+
+DOCTOR X544
+That's a different story okay.  But you are able to achieve an erection?
+
+PATIENT X544
+Yeah but it's not hard enough.
+
+DOCTOR X544
+Okay.
+
+PATIENT X544
+My wife want it harder.
+
+DOCTOR X544
+Okay.
+
+PATIENT X544
+@@@.
+
+DOCTOR X544
+How's the, how's stuff with your wife, is it alright?
+
+PATIENT X544
+What?
+
+DOCTOR X544
+Here's what I'm saying okay is it, yes Viagra could help you.
+
+PATIENT X544
+But that's kind of dangerous isn't it?  What about Cialis?
+
+DOCTOR X544
+Oh Cialis, Viagra kind of work in the same way okay.  Now both are dangerous if you're on medications that can lower your blood that like a nitrite or salt that lowers your blood pressure if you have heart disease right.
+
+PATIENT X544
+Yeah.
+
+DOCTOR X544
+And I don't think that you have, you don't have any indication of heart disease right now.  You're not getting chest pains; you're not on any medications like the nitrates okay.  Those are contraindications.  There are a couple of things that are worrisome right that they can cause you know this you know your erections not being so great okay.  So one is vascular disease with someone who has uncontrolled diabetes.  We always worry about the vessels down there being a factor alright.  So that's one thing that's the reason you need to control your diabetes right.  The other thing to worry about is just psychological stuff.  Like sex is psychological as we know.
+
+PATIENT X544
+Yeah it is.
+
+DOCTOR X544
+Yeah and if you're not as attracted or you've been married a long time, things maybe aren't going as well.
+
+PATIENT X544
+(Laughter) There's could be a reason huh?
+
+DOCTOR X544
+Well it could be, I mean you tell me.  I mean do you think is this kind of a tough time right now in the relationship or?
+
+PATIENT X544
+Uh uh.
+
+DOCTOR X544
+Okay.
+
+PATIENT X544
+No.
+
+DOCTOR X544
+You think there's a psychological component to it?
+
+PATIENT X544
+It's part of the psychological I mean that's part of the physical as well.
+
+DOCTOR X544
+Okay, alright.
+
+PATIENT X544
+So what you're saying that I shouldn't take it so?
+
+DOCTOR X544
+What I'm saying is if you want to, I don't know if I can give it to you without, I mean you need to take all the steps first.  The VA wants to get like a urine test, get a blood test right, check into your prostate and make sure that's okay, alright.
+
+PATIENT X544
+Oh okay.
+
+DOCTOR X544
+If all that's okay we could probably give it a try alright.
+
+PATIENT X544
+Okay.
+
+DOCTOR X544
+Um.
+
+PATIENT X544
+I need to have my prostate checked anyway.
+
+DOCTOR X544
+Okay then we'll do it alright.  I'm going to put, why don't we do labs that's today okay.
+
+PATIENT X544
+Oh today cause I don't know if I have the time.
+
+DOCTOR X544
+Well when you come back to get your cholesterol checked alright.
+
+PATIENT X544
+How long this gonna be a month from now?
+
+DOCTOR X544
+I can put the cholesterol, when do you want to come back to get your um.
+
+PATIENT X544
+Oh do these tests?
+
+DOCTOR X544
+Yeah.
+
+PATIENT X544
+I can come back tomorrow.
+
+DOCTOR X544
+Okay so come back in the morning.
+
+PATIENT X544
+Oh okay.
+
+DOCTOR X544
+Can you do that?
+
+PATIENT X544
+Yeah.
+
+DOCTOR X544
+Alright then we'll put it in for tomorrow morning at 8 o'clock let's say.
+
+PATIENT X544
+Um put down 9 o'clock.
+
+DOCTOR X544
+9 o'clock is fine alright.
+
+PATIENT X544
+Uh you know that's gonna be good too because you can do all those other tests as well can't you?
+
+DOCTOR X544
+Yep that's what I was, that's what we'll do.  So we'll check your A1c, we'll check your cholesterol okay.
+
+PATIENT X544
+Okay that's fine.
+
+DOCTOR X544
+And we're gonna check your prostate and we'll repeat your urine tests okay.
+
+PATIENT X544
+Okay.
+
+DOCTOR X544
+And then when you come back, do you want to come back and see me in a couple of months?
+
+PATIENT X544
+Uh.
+
+DOCTOR X544
+You want to come see me in a month?
+
+PATIENT X544
+Well I want to come see you so I can get those pills.
+
+DOCTOR X544
+Alright, so I got to see you in a month then.
+
+PATIENT X544
+Okay.
+
+DOCTOR X544
+Okay.
+
+PATIENT X544
+Do you work nights?
+
+DOCTOR X544
+No I work Monday afternoon.
+
+PATIENT X544
+Let's see, a month from now, a month I'll make sure I schedule it, okay.
+
+DOCTOR X544
+Alright.
+
+PATIENT X544
+Yeah that's fine.
+
+DOCTOR X544
+Oh they might actually let me give you the Levitra.
+
+PATIENT X544
+What's.
+
+DOCTOR X544
+Yep, they'll let me give it to you okay.  So I'll give you, let's get the PSA checked so, get all the labs checked tomorrow like we talked about.
+
+PATIENT X544
+Right.
+
+DOCTOR X544
+And then you can actually go pick up this.  It's only for twice a month okay.  So I can give you two pills and I can give you a refill.  I'll give you two refills.
+
+PATIENT X544
+So it's like one @@@.
+
+DOCTOR X544
+You take it before sexual activity but we can only give you two pills okay with refills.
+
+PATIENT X544
+Oh you have to keep coming back.
+
+DOCTOR X544
+Yes.  Right.
+
+PATIENT X544
+Can you, do you have to take the whole pill or could you uh.
+
+DOCTOR X544
+Take the whole pill.
+
+PATIENT X544
+Oh.  So what does that do, what that do uh enhance your uh?
+
+DOCTOR X544
+It allows blood to flow more freely okay.
+
+PATIENT X544
+Do you get a better erection?
+
+DOCTOR X544
+You got it.  Alright.  Okay uh I guess that's it.
+
+PATIENT X544
+Oh give me uh, I need uh atenolol.  I guess you can't write a prescription, I just got to take the medicine here.
+
+DOCTOR X544
+Right exactly.  What do you need a prescription for?
+
+PATIENT X544
+Atenolol, atenolol.
+
+DOCTOR X544
+I don't see you on atenolol.  You're on the metformin, the nifedipine, the glipizide, the aspirin, simvastatin, hydrochlorothiazide.  I don't see they have you on atenolol, oh here we go okay.  That ones expired.  How long you been taking it?
+
+PATIENT X544
+Uh I been taking long, long, for a long time.  Do I have to take it?
+
+DOCTOR X544
+Yes you should take it.
+
+PATIENT X544
+What is that for exactly?
+
+DOCTOR X544
+It's for your blood pressure.
+
+PATIENT X544
+Okay.
+
+DOCTOR X544
+Okay.  Now I'm just trying to see here.  Okay, alright.  I'm going to refill your atenolol.
+
+PATIENT X544
+Okay.  So I do the tests tomorrow, I have the tests.
+
+DOCTOR X544
+Yep.
+
+PATIENT X544
+And then I see you a month from now.
+
+DOCTOR X544
+You got it.
+
+PATIENT X544
+Then.
+
+DOCTOR X544
+Same bad time.
+
+PATIENT X544
+Okay.
+
+DOCTOR X544
+Alright.  We'll see @@@ alright.
+
+PATIENT X544
+Okay, yeah.
+
+PATIENT LEAVES:  48:08.
+
+
+
+

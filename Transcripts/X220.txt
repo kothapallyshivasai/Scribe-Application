@@ -1,0 +1,571 @@
+
+DOCTOR X220
+PATIENT?
+
+PATIENT X220
+Yes.  How are you today?
+
+DOCTOR X220
+I'm DOCTOR.
+
+PATIENT X220
+Just a jacket.
+
+DOCTOR X220
+Come on in.  
+
+PATIENT X220
+So how you doing?
+
+DOCTOR X220
+Fine.  How you doing?
+
+PATIENT X220
+Fine.  What's happening or you know.
+
+DOCTOR X220
+Yeah well um, this is the first time @@@ for a while and yeah.
+
+PATIENT X220
+Oh yeah you're new.  I need a regular check-up.
+
+DOCTOR X220
+Okay great.  Any problems or concerns today?
+
+PATIENT X220
+Eye medicine.
+
+DOCTOR X220
+Eye medicine.
+
+PATIENT X220
+Yeah they put less in the bottle now so it doesn't last the full three months duration.
+
+DOCTOR X220
+Okay.
+
+PATIENT X220
+Can I get four instead of three?
+
+DOCTOR X220
+Okay.  Let me just take a look here.  Which one are you talking about?  @@@.
+
+PATIENT X220
+No, no uh.
+
+DOCTOR X220
+@@@.
+
+PATIENT X220
+Uh I think it's kind of a, let me check my, what'd I do with it.  The one I put in once, I only put it once a day.
+
+DOCTOR X220
+Okay um.
+
+PATIENT X220
+So you can get three bottles, but they put less in the bottles now.
+
+DOCTOR X220
+Okay.  Well what I can do is I can give you 12 refills um.
+
+PATIENT X220
+Yeah but last time @@@ said they only give it to me every three months, it's supposed to last three months when it doesn't last three months.
+
+DOCTOR X220
+Let me try, let me see here.  @@@
+
+PATIENT X220
+It's less in the bottles now.
+
+DOCTOR X220
+@@@ Pharmacy @@@.  
+
+PATIENT X220
+Yes.
+
+DOCTOR X220
+We'll see if this works.  I increased the amount they put in the bottle.
+
+PATIENT X220
+Uh-huh.
+
+DOCTOR X220
+I hope that works.  Otherwise @@@.
+
+PATIENT X220
+Okay @@@.  And uh I put in for a prescription, could I pick it up today?
+
+DOCTOR X220
+What's that?
+
+PATIENT X220
+My eye medicine.
+
+DOCTOR X220
+Uh did you call and they said they'd mail it?
+
+PATIENT X220
+Yeah.
+
+DOCTOR X220
+Um, you might be able to go down there and get it but they probably have already mailed it.
+
+PATIENT X220
+Right.  Okay.  Because I don't have anymore.  I'll see my eye doctor this afternoon, maybe he can give me.
+
+DOCTOR X220
+Yeah.
+
+PATIENT X220
+Yeah.  Cause I ran out the first of last week, towards the end of the month so.
+
+DOCTOR X220
+And what eye problems do you have?
+
+PATIENT X220
+Uh glaucoma in both eyes.  Can't see in the right, just peripheral vision.
+
+DOCTOR X220
+Any other medical problems?
+
+PATIENT X220
+Uh let's see no.  No.
+
+DOCTOR X220
+Now I understand you've been off the Coumadin correct?
+
+PATIENT X220
+I've been off that for a long time.
+
+DOCTOR X220
+Any problems since that?
+
+PATIENT X220
+Nope.  I've been off Coumadin since February.
+
+DOCTOR X220
+Uh-huh.  Okay good.  Um do you smoke?
+
+PATIENT X220
+Yep.
+
+DOCTOR X220
+How much do you smoke?
+
+PATIENT X220
+Maybe six to eight cigarettes a day.
+
+DOCTOR X220
+Okay.
+
+PATIENT X220
+But I quit.
+
+DOCTOR X220
+You quit?
+
+PATIENT X220
+Yeah.  I'm quitting.
+
+DOCTOR X220
+Okay.  Any alcohol use?
+
+PATIENT X220
+Nope.
+
+DOCTOR X220
+Never, rarely, occasionally?
+
+PATIENT X220
+Occasionally.
+
+DOCTOR X220
+Any illicit drugs?
+
+PATIENT X220
+No.
+
+DOCTOR X220
+Who do you live with?
+
+PATIENT X220
+Huh, me and my wife.
+
+SECOND PERSON X220
+@@@ doctor.
+
+DOCTOR X220
+Um family history, mom and dad, any medical problems that you know of?
+
+PATIENT X220
+Uh my father's deceased.  My mother's 88.  She uh, not really medical problems.
+
+DOCTOR X220
+Okay.
+
+PATIENT X220
+Normal for somebody in.
+
+DOCTOR X220
+Any heart disease?
+
+PATIENT X220
+No.
+
+DOCTOR X220
+High blood pressure or anything like that?
+
+PATIENT X220
+Uh maybe high blood pressure.
+
+DOCTOR X220
+And your dad what did he pass from?
+
+PATIENT X220
+I forgot.
+
+DOCTOR X220
+Okay.  Did he have any heart problems or diabetes that you know of?
+
+PATIENT X220
+No.  He's dead so he's not in the system anymore right?
+
+DOCTOR X220
+Um I wouldn't be allowed to look him up anyway.
+
+PATIENT X220
+Oh.
+
+DOCTOR X220
+Okay.  Any fevers, chills, changes in your weight?  Uh do you exercise on a regular basis?
+
+PATIENT X220
+Oh yes.
+
+DOCTOR X220
+Okay good.  What kind of exercise do you do?
+
+PATIENT X220
+Well I go to the gym.  I'm not running because my knees have arthritis.
+
+DOCTOR X220
+Oh okay.
+
+PATIENT X220
+You can't cure my arthritis.
+
+DOCTOR X220
+Well, the only way to really cure it is what you're doing @@@.
+
+PATIENT X220
+Okay.
+
+DOCTOR X220
+What do you take for the pain when you get it?
+
+PATIENT X220
+I don't actually.  Well, I don't have much pain.
+
+DOCTOR X220
+Okay good.
+
+PATIENT X220
+The other doctor told me I had arthritis.
+
+DOCTOR X220
+Okay.
+
+PATIENT X220
+So I just stopped running because of that.
+
+DOCTOR X220
+Okay.  Well you can always do like some.
+
+PATIENT X220
+Yeah I workout at the gym you know, upper body.
+
+DOCTOR X220
+@@@. 
+
+PATIENT X220
+Yeah.  I do a lot of walking.
+
+DOCTOR X220
+Good.  Let me just pull up allof my little reminders here and we'll go through these real quick and then.
+
+PATIENT X220
+I have to go give blood?
+
+DOCTOR X220
+@@@.  Um is there anything @@@.  
+
+PATIENT X220
+No.
+
+DOCTOR X220
+Have you eaten today?
+
+PATIENT X220
+No.
+
+DOCTOR X220
+Drink anything?  Coffee, orange juice?
+
+PATIENT X220
+Juice.
+
+DOCTOR X220
+So I'd like to get a fasting cholesterol level for you.
+
+PATIENT X220
+Uh-huh.
+
+DOCTOR X220
+But you have to be like literally fasting so I can order it and if you don't mind coming back for it.  Are you coming back anytime soon?
+
+PATIENT X220
+Wasn't planning on it.
+
+DOCTOR X220
+Okay.
+
+PATIENT X220
+What do you consider soon, couple days?
+
+DOCTOR X220
+Well within the next month or two, @@@.
+
+PATIENT X220
+Fasting, so how long would I have to fast?
+
+DOCTOR X220
+Um well like the night before when you go to bed.
+
+PATIENT X220
+Yeah.
+
+DOCTOR X220
+Like 10 or 11 o'clock.
+
+PATIENT X220
+Yeah.
+
+DOCTOR X220
+Then that whole morning until you get there and get your labs drawn, only water.  You can take your medicines with the water, that's fine and then you come in first thing in the morning um and then we draw them.
+
+PATIENT X220
+Do you want me to do that?
+
+DOCTOR X220
+If you could that'd be wonderful.
+
+PATIENT X220
+So when would you like me to do it, tomorrow?
+
+DOCTOR X220
+Tomorrow @@@.  Like I said I can just put in the order and then you can come back and get it whenever it's convenient.
+
+PATIENT X220
+Oh, okay, okay, so.  I'll try and do that this week.  So I just need to fast from midnight till whenever I come here.  No problem, just snap the whip on me for sure, if you push the button I come a strutting.
+
+DOCTOR X220
+Alright.  And then I would like to get some other basic labs along with the.
+
+PATIENT X220
+Uh @@@.  Cause I been in @@@ and I had a @@@.
+
+DOCTOR X220
+Okay.  So you don't need to give any blood today, we might as well just do all of that when you come in, okay.
+
+PATIENT X220
+Okay.
+
+DOCTOR X220
+So it'll all be in here.
+
+PATIENT X220
+But I could do it today though?
+
+DOCTOR X220
+Um, no you have to be fasting.
+
+PATIENT X220
+Oh okay.  For all the tests I need to fast?
+
+DOCTOR X220
+Not all the tests but they're not going to have the difference on the labs.
+
+PATIENT X220
+Okay.
+
+DOCTOR X220
+So they're probably draw all the tests @@@.
+
+PATIENT X220
+Okay.  I'll fast and plan on coming in tomorrow.
+
+DOCTOR X220
+That's fine.  Have a seat up here.
+
+PATIENT X220
+She wants you.
+
+SECOND PERSON X220
+No.
+
+PATIENT X220
+Hold this.
+
+SECOND PERSON X220
+Today I heard you coughing @@@.
+
+DOCTOR X220
+Alright open up for me ah.  Any cough, nausea?
+
+PATIENT X220
+No, just a little cough from a cold that's it.
+
+DOCTOR X220
+Okay.  Any chest pains?
+
+PATIENT X220
+No.
+
+DOCTOR X220
+Big deep breath in and out.  Good.  Just breathe normal.  Any swelling in your legs?
+
+PATIENT X220
+No.
+
+DOCTOR X220
+Alright.  Lay on your back for me.  Any pain where I push?
+
+PATIENT X220
+No.
+
+DOCTOR X220
+Good.  Alright you can sit up.  Alright everything looks good.
+
+PATIENT X220
+Fantastic.
+
+DOCTOR X220
+No your lungs sound good.  Your heart sounds good and everything else looks okay.  Your blood pressure looks great.
+
+SECOND PERSON X220
+Oh really.
+
+DOCTOR X220
+Um any questions for me?
+
+PATIENT X220
+No.
+
+DOCTOR X220
+Hopefully @@@ but we'll see.
+
+PATIENT X220
+Yeah.
+
+DOCTOR X220
+Alright give me five minutes; I just have to run everything by my boss.
+
+PATIENT X220
+Okay.
+
+DOCTOR X220
+And then we'll get done okay.
+
+PATIENT X220
+Sure, alright.  @@@.  
+
+(DOCTOR OUT:  58:44  DOCTOR IN:  63:33)
+
+DOCTOR X220
+Alright.  So the only other thing to do, you said you'd traveled to China?
+
+PATIENT X220
+Yes.
+
+DOCTOR X220
+@@@.
+
+PATIENT X220
+Yeah what.
+
+DOCTOR X220
+Well I was just curious because we'd like you to do @@@.  Have you ever had a @@@.
+
+PATIENT X220
+Yes @@@.
+
+DOCTOR X220
+So I'll just double check your blood work.
+
+PATIENT X220
+Yeah and uh I have @@@ for every year there too.
+
+DOCTOR X220
+Alright great.
+
+PATIENT X220
+Yeah the first year I took, I was inoculated.
+
+DOCTOR X220
+Okay.  
+
+PATIENT X220
+@@@.
+
+DOCTOR X220
+Oh okay.  Alright and I'll go ahead and set that up for you at the Lab.
+
+PATIENT X220
+And I'll get it tomorrow.
+
+DOCTOR X220
+Okay.  And then I probably don't need to see you for another six months or so unless something comes up okay?
+
+PATIENT X220
+Yep okay.  It's been fun.
+
+DOCTOR X220
+So I'll let you know if anything on your labs comes up.
+
+PATIENT X220
+Yeah.  Good seeing you @@@.
+
+DOCTOR X220
+Oh yeah.  You don't like doctors?
+
+PATIENT X220
+You like doctors NAME?
+
+SECOND PERSON X220
+I like doctors, I like her.
+
+DOCTOR X220
+Something @@@.
+
+PATIENT X220
+Are you still drinking that?  Drinking it for hours now @@@.  So do I give this to the check out?
+
+DOCTOR X220
+Yeah.
+
+PATIENT X220
+Thank you.
+
+DOCTOR X220
+You're welcome, take care.
+
+PATIENT X220
+Alright.  @@@.
+
+PATIENT LEAVES:  66:14
+
+Time is 9:35.
+
+
+
+

@@ -1,0 +1,414 @@
+
+DOCTOR X405
+I'm DOCTOR.
+
+PATIENT X405
+How are you?
+
+DOCTOR X405
+I'm good how are you?
+
+PATIENT X405
+Fine thank you.
+
+DOCTOR X405
+So are you needing a follow-up right?
+
+PATIENT X405
+Yes.
+
+DOCTOR X405
+How are you doing today?
+
+PATIENT X405
+I'm fine thank you doctor.  But I have the same issues though.
+
+DOCTOR X405
+Oh.
+
+PATIENT X405
+My hands are locking up.
+
+DOCTOR X405
+@@@.
+
+PATIENT X405
+I need the pain pills.  @@@.
+
+DOCTOR X405
+Okay.  But the pain is getting worse?
+
+PATIENT X405
+It's getting worse yes.  In the wintertime it gets worse @@@.
+
+DOCTOR X405
+Cause you are on, neuropathic pain uh neuropathic pain medication @@@.  So you are on, let's see and you're taking this.  So how long have you been on that medication, the gabapentin?
+
+PATIENT X405
+What is it?
+
+DOCTOR X405
+It's uh it's kind of like uh, the gabapentin.
+
+PATIENT X405
+I've been on that for four months.
+
+DOCTOR X405
+Is it helping?
+
+PATIENT X405
+Yes it is.
+
+DOCTOR X405
+So that's supposed to not only help you @@@.
+
+PATIENT X405
+Okay well.
+
+DOCTOR X405
+Yeah, so it is helping then?
+
+PATIENT X405
+Yeah it's helping.
+
+DOCTOR X405
+Okay and then um so where do you get the pain?
+
+PATIENT X405
+It's in the hand.  When my hands, sometimes during the day my hands lock up and I can't open them and so I'll @@@ or something.  But when it gets real cold outside I'm having @@@ or even when it's real hot they'll lock up.  I've had all of the tests done and they don't know what it is.
+
+DOCTOR X405
+Hmm.
+
+PATIENT X405
+And I'm having another test done in three months, which is a little more than three months.
+
+DOCTOR X405
+Hmm.  But what uh.
+
+PATIENT X405
+The V.
+
+DOCTOR X405
+The ECG @@@ the EMG.
+
+PATIENT X405
+EMG yes.
+
+DOCTOR X405
+Okay a nerve conduction test.
+
+PATIENT X405
+Yeah.
+
+DOCTOR X405
+Okay.
+
+PATIENT X405
+I'm gonna have my surgery, I don't know what that means @@@ but at night my @@@.
+
+DOCTOR X405
+Uh-huh.  So we can do the test okay.
+
+PATIENT X405
+Okay.
+
+DOCTOR X405
+So um @@@ your glycosylated hemoglobin A1c it shows you know your blood sugar for the last three months and this was done in September, it looks good, it's really good okay.  So we can um @@@ for the next one, we can you know we can do it now and see what it is and you can do this @@@.
+
+PATIENT X405
+My monitor.
+
+DOCTOR X405
+Yeah.
+
+PATIENT X405
+At night it's higher than usual, it's actually a little higher.  Higher than it usually is.
+
+DOCTOR X405
+Okay.
+
+PATIENT X405
+It usually runs about 125 and now it's in the 150s sometimes in the evening.  I'm not sure but the whole day @@@.
+
+DOCTOR X405
+I think that's @@@ you're eating usual things?
+
+PATIENT X405
+Yes, yes.  @@@.
+
+DOCTOR X405
+Uh-huh.  
+
+PATIENT X405
+Except maybe @@@.
+
+DOCTOR X405
+@@@.  So @@@ so that's probably something we'll be doing.
+
+PATIENT X405
+Okay.
+
+DOCTOR X405
+So you won't be @@@ okay and um so um I want to talk to you about @@@.  Have you @@@ something called gabapentin.
+
+PATIENT X405
+No I haven't.
+
+DOCTOR X405
+@@@ okay.  So it happens, what time does it happen.  Is it @@@ something or?
+
+PATIENT X405
+Sometimes it just happens.  But when it gets real cold outside it happens a lot.  And I wear gloves and I wear you know.
+
+DOCTOR X405
+@@@.  And is this like every day or?
+
+PATIENT X405
+No it's not happening every day.
+
+DOCTOR X405
+It doesn't happen every day okay so I will talk to you about this @@@ okay.  If you don't mind to hop up here and I'll take a listen okay.  Take a deep breath.  Your lungs and heart sound okay.  It's only in the hand that happens or does that happen.
+
+PATIENT X405
+The same in the feet.
+
+DOCTOR X405
+Okay you do have a little bit of swelling.  And um open your mouth and say ah.
+
+PATIENT X405
+Ah.  Ah.
+
+DOCTOR X405
+You got your flu vaccine right?
+
+PATIENT X405
+Yes oh yes.
+
+DOCTOR X405
+@@@ take off your jacket and just lay back.  So what's wrong with your eyes?
+
+PATIENT X405
+I got a cataract and I'm having surgery.  I had a cornea transplant.
+
+DOCTOR X405
+Oh you've had the cornea transplant?
+
+PATIENT X405
+I've had it.
+
+DOCTOR X405
+You have had it.
+
+PATIENT X405
+Yeah.
+
+DOCTOR X405
+What was the reason?
+
+PATIENT X405
+It had an ulcer on the cornea about five years ago.
+
+DOCTOR X405
+What was, why?
+
+PATIENT X405
+I don't know why.
+
+DOCTOR X405
+Did you get it because of infection?
+
+PATIENT X405
+Yeah it was a bacterial infection.
+
+DOCTOR X405
+Okay, okay, okay.  So um just relax.
+
+PATIENT X405
+Okay.
+
+DOCTOR X405
+And tell me if you feel my hand.  Can you feel that?
+
+PATIENT X405
+Yes.
+
+DOCTOR X405
+Now?
+
+PATIENT X405
+Yes.
+
+DOCTOR X405
+Now?
+
+PATIENT X405
+Yes.
+
+DOCTOR X405
+Now?
+
+PATIENT X405
+Yes.
+
+DOCTOR X405
+Now?
+
+PATIENT X405
+Yes.
+
+DOCTOR X405
+Now?
+
+PATIENT X405
+Yes.
+
+DOCTOR X405
+Now?
+
+PATIENT X405
+Yes.
+
+DOCTOR X405
+Now?
+
+PATIENT X405
+Yes.
+
+DOCTOR X405
+Now?
+
+PATIENT X405
+Yes.
+
+DOCTOR X405
+Okay.  That's fine.  I think that it's @@@.  Uh so I'll go talk to DOCTOR.
+
+PATIENT X405
+Okay.
+
+DOCTOR X405
+See you know if you can have the gabapentin.
+
+PATIENT X405
+Okay.
+
+DOCTOR X405
+It might help you.
+
+PATIENT X405
+Okay.
+(DOCTOR OUT:  27:27  DOCTOR IN:  36:18)
+
+DOCTOR X405
+Okay.  So we'll start you on a small dose of gabapentin.
+
+PATIENT X405
+Okay.
+
+DOCTOR X405
+At a dosage and then uh we'll get an MRA of your neck okay.
+
+PATIENT X405
+Alright.
+
+DOCTOR X405
+@@@ problems and then we'll do the um, we'll do some labs, how about that @@@.
+
+PATIENT X405
+Yeah.
+
+DOCTOR X405
+Okay.  You can do it today right?
+
+PATIENT X405
+Yes.
+
+DOCTOR X405
+So any recent fevers, chills, shortness of breath, chest pain, palpitations?
+
+PATIENT X405
+Uh just chills but I think it's because of the temperature of the house.
+
+DOCTOR X405
+Oh really.
+
+PATIENT X405
+Yeah.
+
+DOCTOR X405
+Well why, you don't have enough temperature?
+
+PATIENT X405
+No well the heat goes down at night and I just have to put on extra blankets.
+
+DOCTOR X405
+Oh.
+
+PATIENT X405
+So I @@@ so.
+
+DOCTOR X405
+Oh okay yeah.  When can you go for the MRA?
+
+PATIENT X405
+Whenever.
+
+DOCTOR X405
+Can you go like tomorrow or something?
+
+PATIENT X405
+Yeah, yes I can go tomorrow.
+
+DOCTOR X405
+Okay, I can put it like 10 o'clock in the morning okay.
+
+PATIENT X405
+Okay.
+
+DOCTOR X405
+@@@ today.
+
+PATIENT X405
+Yes.
+
+DOCTOR X405
+100 mg um three times a day.
+
+PATIENT X405
+Okay.
+
+DOCTOR X405
+Okay.  Done okay.
+
+PATIENT X405
+Alright.
+
+DOCTOR X405
+So here we are, you come back in four months okay.
+
+PATIENT X405
+Four months?
+
+DOCTOR X405
+Yeah.
+
+PATIENT X405
+@@@
+
+DOCTOR X405
+@@@.  You want to @@@ here?
+
+PATIENT X405
+No that's fine, thank you.
+
+DOCTOR X405
+Okay.
+
+PATIENT LEAVES:  44:30.
+
+2:50.
+
+
+
+

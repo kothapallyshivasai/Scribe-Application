@@ -1,0 +1,878 @@
+
+DOCTOR X685
+PATIENT?
+
+PATIENT X685
+Yes ma'am. 
+
+DOCTOR X685
+Sorry about the wait, follow me.
+
+PATIENT X685
+Okay.  Are you done today?
+
+DOCTOR X685
+Oh no I @@@.
+
+PATIENT X685
+Okay.  Missed several appointments here for various reasons.
+
+DOCTOR X685
+That's okay, okay.
+
+PATIENT X685
+Okay.
+
+DOCTOR X685
+How are you doing today?
+
+PATIENT X685
+I'm pretty good today.
+
+DOCTOR X685
+Alright.  I saw that you were recently hospitalized.
+
+PATIENT X685
+Several times.
+
+DOCTOR X685
+Yeah so how have you been doing since then?
+
+PATIENT X685
+Well I'm in the, I'm in the, let's see what they call it, APT upstairs.
+
+DOCTOR X685
+Okay.
+
+PATIENT X685
+Uh 35 Day Inpatient Program.
+
+DOCTOR X685
+Okay how's it going?
+
+PATIENT X685
+Just fine, fine.
+
+DOCTOR X685
+Going well?
+
+PATIENT X685
+Yeah.
+
+DOCTOR X685
+And when was your last drink?
+
+PATIENT X685
+Oh um well I had a very tiny bit on a field trip during the program.
+
+DOCTOR X685
+When was that?
+
+PATIENT X685
+Uh let's see that was around the 10th I believe.
+
+DOCTOR X685
+Tell me how that happened.
+
+PATIENT X685
+Uh it was a crazy field trip.  It was what they call um uh, what do they call that thing; it was a National Guard thing.
+
+DOCTOR X685
+Okay.
+
+PATIENT X685
+Um @@@ down.
+
+DOCTOR X685
+Okay.
+
+PATIENT X685
+And a lot of homeless veterans show up in that and it's kind of a party atmosphere and in line I drank a bit.
+
+DOCTOR X685
+Okay.
+
+PATIENT X685
+And uh they were going to throw me out of the program.
+
+DOCTOR X685
+Yeah.
+
+PATIENT X685
+They put me in the nut ward on 7 for seven days and let me back in the program.
+
+DOCTOR X685
+Okay.  And you stopped the drinking, I mean how do you feel about @@@ are you committed since then?
+
+PATIENT X685
+Yeah I'm trying to, I mean I don't think the, I think the program's flawed because they had four @@@ just in the first 21 days I was there.
+
+DOCTOR X685
+Okay.
+
+PATIENT X685
+In the first 21 days, four @@@ failed inpatient, to me that didn't seem like a normal inpatient program.
+
+DOCTOR X685
+I'd much rather @@@ deal with it @@@.
+
+PATIENT X685
+Okay but from what I understand most programs, at least 21 days before you can see the outside walls but anyway um I am committed.
+
+DOCTOR X685
+Okay.
+
+PATIENT X685
+But I was standing in line for five hours with a bunch of homeless drunks and so on with bottles in their pockets and that's pretty tempting you know.
+
+DOCTOR X685
+I know that's tempting.
+
+PATIENT X685
+I'm not justifying it but.
+
+DOCTOR X685
+Alright.
+
+PATIENT X685
+I did it.
+
+DOCTOR X685
+You did it.
+
+PATIENT X685
+And I spent seven days on the nut ward for it.
+
+DOCTOR X685
+Okay.  Otherwise any shakes, any tremors?
+
+PATIENT X685
+Oh no, no, I had no DTs or anything.
+
+DOCTOR X685
+Any hallucinations?
+
+PATIENT X685
+No, no.  No I did my uh I did my detox before I went into the program.
+
+DOCTOR X685
+Yeah you did.  Headaches, visions changes?
+
+PATIENT X685
+No.
+
+DOCTOR X685
+Good.  Are you sweating a lot?
+
+PATIENT X685
+No.
+
+DOCTOR X685
+Good, so you're done with all that.
+
+PATIENT X685
+Yeah I'm done with all that.  See I really get insomnia still but it.
+
+DOCTOR X685
+Okay.
+
+PATIENT X685
+Seems to be getting better.  I'm gonna take my jacket off.  
+
+DOCTOR X685
+Huh.
+
+PATIENT X685
+It took so long to actually see the doctor cause I missed another appointment.
+
+DOCTOR X685
+Well I looked over your labs uh from last month.  Everything looked pretty good.  The only thing we haven't had from you in a while is a cholesterol panel.
+
+PATIENT X685
+Okay.
+
+DOCTOR X685
+You haven't had it for about a year so I need you to go and get that to make sure everything is good.
+
+PATIENT X685
+Is that all you do today?
+
+DOCTOR X685
+I mean, um this is a fasting blood test, did you have lunch today?  Well we can get it some other time, at your convenience.
+
+PATIENT X685
+I've never had high cholesterol.
+
+DOCTOR X685
+You haven't uh.
+
+PATIENT X685
+I doubt that's an issue.
+
+DOCTOR X685
+But we need to get it at least one a year @@@.
+
+PATIENT X685
+Okay.   Well I.
+
+DOCTOR X685
+Otherwise your chemistry panel, your kidneys, your blood counts, your liver, so far look good.
+
+PATIENT X685
+Okay.
+
+DOCTOR X685
+And those @@@.
+
+(Someone knocks on the door)  Doctor talks to person.
+
+PATIENT X685
+During my last @@@ um you know they do the nostril check with a giant swab.
+
+DOCTOR X685
+Uh-huh.
+
+PATIENT X685
+Um they said that I had MRSA.
+
+DOCTOR X685
+Yeah that can happen if you're in the hospital a lot you get it.
+
+PATIENT X685
+But I had cystic issues for years.
+
+DOCTOR X685
+Uh-huh.
+
+PATIENT X685
+And nothing severe, severe just acne.
+
+DOCTOR X685
+But it's a combination of fluid and active infection going on.
+
+PATIENT X685
+Okay well I'm seeing Dermatology on the 5th.
+
+DOCTOR X685
+Okay.
+
+PATIENT X685
+Um.
+
+DOCTOR X685
+Sounds good.
+
+PATIENT X685
+And um uh and I told you I've got a little bit of insomnia um.  I had um, it seems to be getting better but occasionally, for a while I was getting like a sharp stinging thing in the knee.
+
+DOCTOR X685
+Okay.
+
+PATIENT X685
+But um in my right knee and it shoots just like in a straight line like this.
+
+DOCTOR X685
+Okay.
+
+PATIENT X685
+And I don't know what is generally be but it's not.
+
+DOCTOR X685
+When do you get it?
+
+PATIENT X685
+Well I used to get when climbing in and out of bed.  I don't know it.
+
+DOCTOR X685
+Every day?
+
+PATIENT X685
+Yeah. But uh it's not very often anymore but it's the same feeling.  I don't know what that would be but.
+
+DOCTOR X685
+Is it always on that one side?
+
+PATIENT X685
+Right here, it's a shooting pain that way.
+
+DOCTOR X685
+And it's only on the right side?
+
+PATIENT X685
+It's only on the right side on the outside in the front by the knee right here.
+
+DOCTOR X685
+I'm not quite sure.
+
+PATIENT X685
+I mean.
+
+DOCTOR X685
+Any numbness or tingling?
+
+PATIENT X685
+No.
+
+DOCTOR X685
+No.
+
+PATIENT X685
+It's just, it's a burning.
+
+DOCTOR X685
+When you get it how long does it last for?  Any rash?
+
+PATIENT X685
+No, no, no, no, no, no.  It's @@@.
+
+DOCTOR X685
+Okay.
+
+PATIENT X685
+It's just something right in through here.
+
+DOCTOR X685
+Do you still smoke?
+
+PATIENT X685
+Oh yeah.
+
+DOCTOR X685
+You do.
+
+PATIENT X685
+But if you want to um prescribe me some um, I'm suppose to ask you to prescribe me Nicorette.
+
+DOCTOR X685
+Okay.
+
+PATIENT X685
+But not the weak 2 mg stuff cause that doesn't do anything.
+
+DOCTOR X685
+How much do you smoke?
+
+PATIENT X685
+I smoke a pack a day but I do smoke a cigar occasionally.
+
+DOCTOR X685
+Okay @@@.
+
+PATIENT X685
+I mean so that's @@@ typical @@@.
+
+DOCTOR X685
+So last time you were here a year ago you we got the other hepatitis tests done and they were negative.
+
+PATIENT X685
+Uh-huh.
+
+DOCTOR X685
+You had an EKG test that was negative but I just wanted to make sure that you know the results of all those.
+
+PATIENT X685
+That was all negative.
+
+DOCTOR X685
+That was negative.
+
+PATIENT X685
+Okay.
+
+DOCTOR X685
+They were both negative.  That's not @@@.
+
+PATIENT X685
+Now the hepatitis, they just tested for hepatitis C too right?
+
+DOCTOR X685
+That was negative too.
+
+PATIENT X685
+Good.
+
+DOCTOR X685
+Hep B, hep C antibody negative.
+
+PATIENT X685
+Okay.
+
+DOCTOR X685
+Which is good.
+
+PATIENT X685
+Uh-huh.
+
+DOCTOR X685
+Especially with alcohol use affecting the liver, we wanted to make sure.
+
+PATIENT X685
+Absolutely.
+
+DOCTOR X685
+Uh when was the last time you saw the eye doctor?
+
+PATIENT X685
+Um I'm supposed to see the eye doctor on January the 12th.
+
+DOCTOR X685
+Okay.
+
+PATIENT X685
+And they're making me new eyeglasses right now.
+
+DOCTOR X685
+Perfect.  Okay.
+
+PATIENT X685
+I'm having those done.
+
+DOCTOR X685
+So we're on our way there.  Problem solved.  Have you had any trouble swallowing?
+
+PATIENT X685
+That went away.
+
+DOCTOR X685
+Good.
+
+PATIENT X685
+And I don't know what was causing that but.
+
+DOCTOR X685
+Good.
+
+PATIENT X685
+I couldn't even get pills down, they used to gag me.
+
+DOCTOR X685
+Good.
+
+PATIENT X685
+And now I take a whole fistful of them every morning cause they got me on a million vitamins.
+
+DOCTOR X685
+Great yeah and you need those vitamins.
+
+PATIENT X685
+Yeah I understand.  They just said that I was, oh what's the stuff that's in bananas uh.
+
+DOCTOR X685
+Potassium.
+
+PATIENT X685
+They said I was high on potassium.
+
+DOCTOR X685
+And that's because of the dehydration.
+
+PATIENT X685
+Okay so that's okay now or?
+
+DOCTOR X685
+Uh so you were at primary borderline back on November 16th so that's okay.
+
+PATIENT X685
+Okay.
+
+DOCTOR X685
+Any usually you know that level's okay.
+
+PATIENT X685
+Okay.
+
+DOCTOR X685
+No problem.  So let me @@@.  Did you have your flu shot this year?
+
+PATIENT X685
+Yeah somebody gave me one.  Finally someone gave me one @@@.
+
+DOCTOR X685
+@@@.  
+
+PATIENT X685
+Is it something I got to lay back on or?
+
+DOCTOR X685
+No you're fine, you're fine.
+
+PATIENT X685
+I did get some uh, something for my back, I think it's muscular.
+
+DOCTOR X685
+Okay.
+
+PATIENT X685
+@@@.
+
+DOCTOR X685
+Yeah.
+
+PATIENT X685
+@@@.
+
+DOCTOR X685
+Any burning when you urinate?
+
+PATIENT X685
+No.
+
+DOCTOR X685
+Take some deep breaths.  Alright.  Any pain when I press down here?
+
+PATIENT X685
+No.
+DOCTOR X685
+Okay you can sit up, good.  Deep breath.  Any swelling in your legs?
+
+PATIENT X685
+No.
+
+DOCTOR X685
+Good.  Everything sounds good.  And no belly pain, nausea, vomiting, constipation?
+
+PATIENT X685
+No I mean I get a little bit of that pain like when I had the pancreatitis but, very minor and only if I eat very heavy.
+
+DOCTOR X685
+Okay.  @@@ right.
+
+PATIENT X685
+I think it's just like @@@ is an issue.
+
+DOCTOR X685
+Oh that too.
+
+PATIENT X685
+I've got an aunt you know I an enormous amount of weight last year okay.
+
+DOCTOR X685
+Yeah.
+
+PATIENT X685
+I got down to 129 pounds.
+
+DOCTOR X685
+@@@.
+
+PATIENT X685
+So now I'm back to close to my original weight.
+
+DOCTOR X685
+Good.
+
+PATIENT X685
+So I've been eating heavy to, cause I was weak.
+
+DOCTOR X685
+Oh I bet.
+
+PATIENT X685
+And I was skinny.
+
+DOCTOR X685
+Yeah I bet.  Probably had some malnutrition.
+
+PATIENT X685
+So I've been putting the weight back on but I can't go overboard if I do it, it does cause me some problems.
+
+DOCTOR X685
+Do you need any refills on any of the migraine medicine or anything?
+
+PATIENT X685
+I think I'm in good shape. The nurses said to get the Nicorette and I need um and I should get a stronger dose, that's what the doctor up on 9 said cause it.
+
+DOCTOR X685
+What are the doses you have left?
+
+PATIENT X685
+They gave me 2 and that's nothing, like chewing air.
+
+DOCTOR X685
+Do you want the patch or do you want the gum?
+
+PATIENT X685
+Gum.
+
+DOCTOR X685
+We’ll give you one piece of the highest dose we have.
+
+PATIENT X685
+1 piece?
+
+DOCTOR X685
+That's.
+
+PATIENT X685
+You mean one box.
+
+DOCTOR X685
+Yeah, yeah.
+
+PATIENT X685
+Okay.
+
+DOCTOR X685
+But each time you take one piece.
+
+PATIENT X685
+Yeah.
+
+DOCTOR X685
+Yeah, yeah.
+
+PATIENT X685
+Cause I started taking the others.
+
+DOCTOR X685
+Okay.  Perfect.  You want to pick it up here?
+
+PATIENT X685
+I pick it up right here right?
+
+DOCTOR X685
+Yeah.
+
+PATIENT X685
+Yeah I'll pick it up and take it up to 9.
+
+DOCTOR X685
+Let me talk with my attending and I'll be right back.  It seems like you're doing better.  I'm glad that you're in this program.
+
+PATIENT X685
+Uh-huh.
+
+DOCTOR X685
+Um.
+
+PATIENT X685
+I think I'm doing better.
+
+DOCTOR X685
+Right.
+
+PATIENT X685
+I'm getting really sick of this cystic acne.  It was getting a lot better because I was on the intravenous IVs for the pancreatitis.
+
+DOCTOR X685
+Uh-huh.
+
+PATIENT X685
+I was getting um, oh what do you call it, the Vioxx.
+
+DOCTOR X685
+Right.
+
+PATIENT X685
+I cleared up pretty good and now the cystic acne back.
+
+DOCTOR X685
+Uh-huh.
+
+PATIENT X685
+And I don't know if it’s from the detoxing or what but it's hard, it's painful, they are deep under the skin, it's not surface.
+
+DOCTOR X685
+So yeah we'll talk with them and see what they say.
+
+PATIENT X685
+That's what I'll talk with them.  I'm serious.
+
+DOCTOR X685
+I'm glad you have an appointment and everything.  I'll be back in just a few minutes alright.
+
+(DOCTOR OUT:  68:26  DOCTOR IN:  72:50)
+
+DOCTOR X685
+Alright sir.  So we're not going to change anything.  Your blood pressure looks pretty good now.
+
+PATIENT X685
+Uh-huh.
+
+DOCTOR X685
+Uh so we're not gonna make any changes right now.
+
+PATIENT X685
+Good.
+
+DOCTOR X685
+Um otherwise the soonest you need to come back, probably a couple months after the program's done here to check up on you to make sure.
+
+PATIENT X685
+How will I know, will they give me a call or something?
+
+DOCTOR X685
+Yes they'll give you a call.
+
+PATIENT X685
+Okay.  Is there, because I'm waking up in the middle of the night several times.
+
+DOCTOR X685
+Uh-huh.
+
+PATIENT X685
+Um I am able to get back to sleep.
+
+DOCTOR X685
+Okay.
+
+PATIENT X685
+But um is there any kind of a sleeping pill that would.
+
+DOCTOR X685
+If you're able to get back to sleep the sleeping pills aren't really the ones that we would use for that situation.
+
+PATIENT X685
+Oh okay, alright.  I @@@.
+
+DOCTOR X685
+Are you having like nightmares?
+
+PATIENT X685
+I don't know, I don't know.
+
+DOCTOR X685
+Bring it up to the Psychiatry people up there too since to see if there's anything special but if you're able to go back to sleep and you're able to actually fall asleep I don't recommend any further sedating medicine.
+
+PATIENT X685
+Well I.
+
+DOCTOR X685
+@@@.
+
+PATIENT X685
+Oh I know that.
+
+DOCTOR X685
+That's why I don't want to give you medication for that right now.
+
+PATIENT X685
+Alright.  I've had insomnia my entire life.  That's a lot of the reason why I drank so much.
+
+DOCTOR X685
+But I think once you stop drinking then we'll see how the insomnia goes.
+
+PATIENT X685
+Alright.  Uh I think that's it, alright.
+
+DOCTOR X685
+Alright sir.  @@@.
+
+PATIENT X685
+No, no.
+
+DOCTOR X685
+@@@.
+
+PATIENT X685
+Oh I have kind of heavy white nasal discharge early in the morning.
+
+DOCTOR X685
+That's a postnasal drip situation, @@@ laying down a lot and when you wake up @@@.
+
+PATIENT X685
+It comes out but it's ridiculously thick and it's white.
+
+DOCTOR X685
+I can give you a nasal spray to help.
+
+PATIENT X685
+What's that?
+
+DOCTOR X685
+A nasal spray to help clear it up.
+
+PATIENT X685
+Is it something I should use?
+
+DOCTOR X685
+I don't, you can try it temporarily just to see if it helps clear it up.
+
+PATIENT X685
+Okay.
+
+DOCTOR X685
+Yeah I can put that in for you.
+
+PATIENT X685
+Okay.  And I should be able to pick up the uh Nicorette, nasal sprays.
+
+DOCTOR X685
+It should all be there.
+
+PATIENT X685
+How long do you think I should give the Pharmacy?
+
+DOCTOR X685
+I think like when you get a number and you wait it'll probably be ready and @@@.
+
+PATIENT X685
+Oh I should get a number first and.
+
+DOCTOR X685
+Yeah, yeah you should get a number.
+
+PATIENT X685
+Okay.
+
+DOCTOR X685
+You're good to go.
+
+PATIENT X685
+Alright cause otherwise the nurses are gonna cut me off on the Nicorette because even though I still have some in my box up there, they're gonna say I don't have a prescription so I can't have any more.
+
+DOCTOR X685
+Yep it's in there.
+
+PATIENT X685
+Alright cool.
+
+DOCTOR X685
+Take care @@@.
+
+PATIENT X685
+Thank you very much.  Um is this just something that every time I come here, it could be you or it could be DOCTOR, it could be either or?
+
+DOCTOR X685
+It @@@ so just hopefully you'll @@@.
+
+PATIENT X685
+Okay.
+
+DOCTOR X685
+But it all just depends what day it is and whoever is in the clinic.
+
+PATIENT X685
+Okay.
+
+DOCTOR X685
+@@@ but we all take turns.
+
+PATIENT X685
+And everything that we did here they know about on 9.
+
+DOCTOR X685
+Yeah I'll put it in the computer.
+
+PATIENT X685
+Everybody @@@.  Okay thank you.
+
+DOCTOR X685
+Thank you, oh @@@.
+
+PATIENT X685
+Yeah thank you.  Which way I go this way?
+
+DOCTOR X685
+To the left.
+
+PATIENT X685
+Left okay.
+
+PATIENT LEAVES:  75:46.
+
+Time is 3:55.
+
+
+
+

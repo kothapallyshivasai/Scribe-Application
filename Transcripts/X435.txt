@@ -1,0 +1,846 @@
+
+
+DOCTOR X435
+PATIENT?
+
+PATIENT X435
+Yeah.
+
+DOCTOR X435
+How you doing?
+
+PATIENT X435
+Alright.
+
+DOCTOR X435
+We have to go to the elevator up to the Pharmacy.  Okay.  Brought all your meds with you?
+
+PATIENT X435
+They're all due on the next time @@@.
+
+DOCTOR X435
+xxx xxx?
+
+PATIENT X435
+Right.  So we're running out uh.  These are all the pills on the list.
+
+DOCTOR X435
+How long have you been out of your Lasix?
+
+PATIENT X435
+A while.
+
+DOCTOR X435
+Getting half a tab.
+
+PATIENT X435
+One and a half pills.
+
+DOCTOR X435
+Oh one and half pills.
+
+PATIENT X435
+@@@.
+
+DOCTOR X435
+Okay.  You were due on the 6th.
+
+PATIENT X435
+Right.
+
+DOCTOR X435
+Did we give you any then?
+
+PATIENT X435
+Yeah I been approved for another bottle.
+
+DOCTOR X435
+But you said you've been taking them since it's on the list?
+
+PATIENT X435
+Uh-huh.  And that NAME she cuts them in half.  I got a pill box I put them in for every day.
+
+DOCTOR X435
+So have you been out of them for a while?
+
+PATIENT X435
+No I don't know what I got, what I got, if I got none, I ain't got none.
+
+DOCTOR X435
+Okay.  You live in a nursing home?
+
+PATIENT X435
+No.  I got my own home.
+
+DOCTOR X435
+So your medicines are usually mailed to you?
+
+PATIENT X435
+Yes this one here is.
+
+DOCTOR X435
+How have you been feeling since the last time I saw you?  @@@?
+
+PATIENT X435
+@@@ as far as my right side it hurting right here.  When I get up in the morning.
+
+DOCTOR X435
+When you get up in the morning?  
+
+PATIENT X435
+Yeah for the next day and then I'll get.
+
+DOCTOR X435
+Is it getting better when you move around a little bit?
+
+PATIENT X435
+Not really.  I @@@ let me see the nurse.  Where your @@@ located at?
+
+DOCTOR X435
+They're in back.
+
+PATIENT X435
+Oh okay.
+
+DOCTOR X435
+Have you been having to urinate more or less?
+
+PATIENT X435
+I'm leaking urine all the time @@@.
+
+DOCTOR X435
+Okay.
+
+PATIENT X435
+One thing or other if you @@@.
+
+DOCTOR X435
+Yeah so you are going @@@.
+
+PATIENT X435
+Yeah @@@ for the 16th @@@.
+
+DOCTOR X435
+@@@.
+
+PATIENT X435
+Yeah.
+
+DOCTOR X435
+What's that?  That's when you take your Lasix?
+
+PATIENT X435
+Uh I take one blood pressure pill in the morning.
+
+DOCTOR X435
+Okay.
+
+PATIENT X435
+@@@ and I take another one at 2 o'clock.
+
+DOCTOR X435
+Uh-huh.  Your blood pressure's too high today.  
+
+PATIENT X435
+What was it?
+
+DOCTOR X435
+141/93.  But do you, you took your medicine right?
+
+PATIENT X435
+Uh-huh.
+
+DOCTOR X435
+Okay, good.  
+
+PATIENT X435
+Cause it's too far for me to walk for me @@@.  Cause my doctor 
+@@@ my blood pressure goes up so they were going to take me off of blood pressure and put me on a taper, @@@ or something.
+
+DOCTOR X435
+Is @@@?
+
+PATIENT X435
+I be exercising at home cause I been walking for years.  But @@@ down here I @@@.
+
+DOCTOR X435
+Okay.
+
+PATIENT X435
+But I @@@.
+
+DOCTOR X435
+And you just pick them up, pick-up refills from here is alright.
+
+PATIENT X435
+Right.
+
+DOCTOR X435
+Do you still take the diltiazem?
+
+PATIENT X435
+I always take them @@@.  It's a blue pill.  But I'm running out of them two.
+
+DOCTOR X435
+Alright.
+
+PATIENT X435
+That's why I see the Pharmacy today too.  @@@.
+
+DOCTOR X435
+Yeah okay.  So this is today, which doctor was this with us or was it a scheduled one for follow-up?
+
+PATIENT X435
+That was for the follow-up and @@@.  I got @@@.
+
+DOCTOR X435
+But you saw somebody thought right?  You saw somebody on the 5th after you got out of the hospital right?
+
+PATIENT X435
+Of course.  I came here to see you cause I had a @@@ study here but I was in xxx xxx so I couldn't make it.
+
+DOCTOR X435
+Oh I see.
+
+PATIENT X435
+So I had to come out here to see if my colon was alright @@@.
+
+DOCTOR X435
+Right it was right @@@.
+
+PATIENT X435
+That's a good thing.
+
+DOCTOR X435
+Let me check on one thing.  
+
+PATIENT X435
+I ran out of cholesterol, cause @@@.  
+
+DOCTOR X435
+Do you have a home list?
+
+PATIENT X435
+Uh-huh.  Then she had me come back to the doctors.
+
+DOCTOR X435
+So they put Lasix in there.  You're still not on it though.
+
+PATIENT X435
+Yeah.
+
+DOCTOR X435
+Alright well we'll have you go to the Pharmacy today.  Can you go down to the Pharmacy and pick up some today?
+
+PATIENT X435
+Yeah.
+
+DOCTOR X435
+And then the rest of it you can have it mailed but if that's the way you want to do it.
+
+PATIENT X435
+I the cholesterol is elevated, the cholesterol.
+
+DOCTOR X435
+Yeah that's right.  It's really up.
+
+PATIENT X435
+The doctor gave me that one pill and told me to cut it in half, that's @@@ little pill and cut a little pill.
+
+DOCTOR X435
+Just one.
+
+PATIENT X435
+@@@.
+
+DOCTOR X435
+Uh-huh I can see that you get a blood draw.
+
+PATIENT X435
+Yeah.
+
+DOCTOR X435
+Yeah I can see that they do that for you.
+
+PATIENT X435
+If I'm gonna cut it in half.  That thing won't cut right.  And the Lasix @@@.
+
+DOCTOR X435
+So when was the last time you took Lasix, this morning?
+
+PATIENT X435
+Uh-huh.
+
+DOCTOR X435
+Oh so you just ran out.
+
+PATIENT X435
+Yeah.
+
+DOCTOR X435
+Oh that's good time then alright.  We'll get you a refill.  And then as far as the blood pressure goes we'll have to increase your pill called Losartan.
+
+PATIENT X435
+Uh-huh.
+
+DOCTOR X435
+We need to go up on that okay.
+
+PATIENT X435
+Uh-huh.
+
+DOCTOR X435
+How long were in you xxx xxx?
+
+PATIENT X435
+A week.
+
+DOCTOR X435
+A week.
+
+PATIENT X435
+We got here on Monday.
+
+DOCTOR X435
+Feeling better so far?
+
+PATIENT X435
+No really.  Slowly @@@ tired.
+
+DOCTOR X435
+@@@.  
+
+PATIENT X435
+I got to lose some weight.  I have to lose weight @@@ before I.
+
+DOCTOR X435
+We have a program here.
+
+PATIENT X435
+I got to be 195 @@@.
+
+DOCTOR X435
+And I think that's probably why you're getting back pain.  @@@ the joints in your back and your knees and muscles you put a lot of strain on them with the weight.  There's a program to help you.  It's called the MOVE Program, you heard of it?
+
+PATIENT X435
+Uh uh.
+
+DOCTOR X435
+It's basically to help you with nutrition, helps you with exercise.  We have a gym here and we have some like recreation stuff you can use.
+
+PATIENT X435
+@@@.
+
+DOCTOR X435
+How'd get rid of that?
+
+PATIENT X435
+@@@ get paid for something.
+
+DOCTOR X435
+Okay.  Um it should right, if they arrange for that or not but I think it'd be a good thing for you.  You know this weight is only going to make the heart failure worse too so.  It's gonna be difficult to keep that blood pressure under control and when the blood pressure gets out of control then the heart has more strain.  I think dealing with the weight is gonna be just as important as dealing with all these other little personal things you deal with.
+
+PATIENT X435
+Yeah.
+
+DOCTOR X435
+So you have an appointment with the pharmacist today um.
+
+PATIENT X435
+Well I'll be meeting @@@.
+
+DOCTOR X435
+And it says here you have it from 1-2 o'clock.  This afternoon I'll have you go to the Pharmacy and pick up your Lasix and your simvastatin okay and we'll have you pick up some more of the Losartan for your high blood pressure.  Do you have a heating pack at home for that back?
+
+PATIENT X435
+Uh uh.
+
+DOCTOR X435
+No.  See it works really well for those types of muscle things.  Um I don't want to give you any ibuprofen.
+
+PATIENT X435
+I generally take Aleve.
+
+DOCTOR X435
+Yeah.  Uh you've some Tylenol @@@ that you can try.
+
+PATIENT X435
+And can you get that for me?  I got upset when I couldn't button these pants.  @@@.
+
+DOCTOR X435
+Why do you think you gained weight?
+
+PATIENT X435
+Cause usually I don't do much.  I got to start walking soon.  So any it's getting hard to fluctuate @@@ move.  I @@@ lay in the bed.
+
+DOCTOR X435
+Uh-huh.  Well I'm going to okay it on here.  I think you should have this.
+
+PATIENT X435
+Uh-huh.
+
+DOCTOR X435
+@@@ too much fluid.  Have you had your @@@ at night, to be able to breathe?
+
+PATIENT X435
+I sleep @@@ every night.
+
+DOCTOR X435
+@@@ okay, those large tablets.  Are you coughing anything up still?
+
+PATIENT X435
+Uh uh.
+
+DOCTOR X435
+No okay.  Any fevers or chills recently?
+
+PATIENT X435
+Uh uh.
+
+DOCTOR X435
+Okay um.  Let me talks to DOCTOR about getting you transportation to the MOVE Program.  We'll get your prescriptions and uh and then you know I would try a heat pack at night.  At Walgreens they have ones that you can plug in.  They have ones that you put in the microwave.  They've got a whole bunch of different kinds that you can try on that area.  Where is it again?
+
+PATIENT X435
+Right here.
+
+DOCTOR X435
+What I would do is if you can, when you're lying in bed either every morning or if you're sitting in the chair later in the evening, throw a heat pack onto there.
+
+PATIENT X435
+Uh-huh.
+
+DOCTOR X435
+Okay.  Um and the heat will help kind of penetrate the muscle.
+
+PATIENT X435
+@@@ last week.  She said my bones didn't get enough heat.
+
+DOCTOR X435
+Okay.
+
+PATIENT X435
+I @@@.
+
+DOCTOR X435
+You are okay.  Okay um I don't think we have anything in our Pharmacy like that.  Do you have a defibrillator in place?
+
+PATIENT X435
+A who?
+
+DOCTOR X435
+A defibrillator?  The box, the shock box?
+
+PATIENT X435
+No.
+
+DOCTOR X435
+No.
+
+PATIENT X435
+They said it was gonna help.
+
+DOCTOR X435
+Oh I see yeah.
+
+PATIENT X435
+So @@@.
+
+DOCTOR X435
+Oh I gotcha, I see okay.
+
+PATIENT X435
+There's a hole there.
+
+DOCTOR X435
+Yeah.
+
+PATIENT X435
+Been there but they got @@@.
+
+DOCTOR X435
+And you were getting infections.
+
+PATIENT X435
+Yeah and I had to go to the nursing home @@@.
+
+DOCTOR X435
+Yeah.
+
+PATIENT X435
+@@@.
+
+DOCTOR X435
+Do you smoke?
+
+PATIENT X435
+Not any more.  I ain't smoked in a while.
+
+DOCTOR X435
+Good.  Okay.  I'll be right back okay.  How much Coumadin are you taking now, 7.5?
+
+PATIENT X435
+I use one pill.  @@@.
+
+DOCTOR X435
+Okay.
+
+PATIENT X435
+It should be @@@.
+
+DOCTOR X435
+Yeah, maybe we @@@.
+
+PATIENT X435
+What is it 2.5?
+
+DOCTOR X435
+Or whatever you're taking.
+
+PATIENT X435
+@@@ 2.5 or 2.8.
+
+DOCTOR X435
+Oh it's 2.6.
+
+PATIENT X435
+Yeah.  Then I have my pills around, I take all my medicines every Monday through Friday morning and at night.
+
+DOCTOR X435
+Uh-huh.
+
+PATIENT X435
+She got it separated what I take in one drawer in the morning.
+
+DOCTOR X435
+Okay.
+
+PATIENT X435
+And the noon one I take a stool softener.  I take the Lasix and then I got to take the Coumadin, cholesterol pill and @@@.
+
+DOCTOR X435
+Who did you say @@@ about this, your regular doctor?
+
+PATIENT X435
+DOCTOR.
+
+DOCTOR X435
+DOCTOR okay.
+
+PATIENT X435
+@@@ about six years.
+
+DOCTOR X435
+Okay.  
+
+(DOCTOR OUT:  61:01  DOCTOR IN:  65:44)
+
+SECOND DOCTOR X435
+Hi PATIENT.
+
+PATIENT X435
+Hello.
+
+SECOND DOCTOR X435
+You've gained a lot of weight.
+
+PATIENT X435
+That's me, I don't know how.
+
+SECOND DOCTOR X435
+You don't know how.
+
+PATIENT X435
+Yeah.
+
+SECOND DOCTOR X435
+Your bowels good?
+
+PATIENT X435
+Not really.
+
+SECOND DOCTOR X435
+How is your breathing?  So it's alright?
+
+FIRST DOCTOR X435
+@@@.
+
+SECOND DOCTOR X435
+Okay.
+
+PATIENT X435
+I been chewing gum to try and keep from drinking water.  @@@.
+
+SECOND DOCTOR X435
+Are you taking all of your medicines?
+
+PATIENT X435
+Yeah.
+
+SECOND DOCTOR X435
+All of them right?
+
+PATIENT X435
+Right.  I get more and more pills @@@ pick up.  My nurse at home she put them in the.
+
+SECOND DOCTOR X435
+Are you taking hydralazine?
+
+PATIENT X435
+What's hydralazine?
+
+SECOND DOCTOR X435
+It's listed on your medication list that is in the computer.  You were taking it before, three times a day.
+
+PATIENT X435
+I don't know if I can take it.
+
+FIRST DOCTOR X435
+What do you have now?
+
+Doctors discuss patient between them.
+
+SECOND DOCTOR X435
+You're breathing okay?
+
+PATIENT X435
+Uh-huh.
+
+SECOND DOCTOR X435
+You're fine?
+
+PATIENT X435
+Uh-huh.
+
+SECOND DOCTOR X435
+Okay.  So we won't go up on the water pill.  We're gonna add another medication called hydralazine.
+
+PATIENT X435
+Uh-huh.
+
+SECOND DOCTOR X435
+Okay.  And the two things we're doing today and let's see how long before we see you again.  You know you got lots of @@@ right?
+
+PATIENT X435
+I do.
+
+SECOND DOCTOR X435
+Did @@@.
+
+FIRST DOCTOR X435
+Uh your appointment is at 2 today right?  Did you already go to the lab?
+
+PATIENT X435
+I went to the Lab the other day.
+
+FIRST DOCTOR X435
+Oh you already got it okay.
+
+SECOND DOCTOR X435
+You know what, we can talk on it.
+
+FIRST DOCTOR X435
+He's @@@.
+
+SECOND DOCTOR X435
+An appointment okay yeah.  We want you to come back again in a couple of weeks.  @@@.
+
+FIRST DOCTOR X435
+He's on @@@.
+
+SECOND DOCTOR X435
+Let's see in two weeks with the nurse @@@ and that day they have to do lab tests to see how your kidneys are doing okay.  Are you taking potassium tablets?
+
+PATIENT X435
+Yeah.  I got a whole big jar of potassium.
+
+SECOND DOCTOR X435
+Good.  @@@.  
+
+PATIENT X435
+@@@.
+
+SECOND DOCTOR X435
+Okay.  Please take them only as they said on the bottle.
+
+PATIENT X435
+I try to.
+
+SECOND DOCTOR X435
+Right.  Take it only as it says on the bottle okay.  
+
+PATIENT X435
+@@@.
+
+SECOND DOCTOR X435
+Yeah, exactly whatever it said on the bottle.
+
+PATIENT X435
+Two tablets by mouth every day.
+
+SECOND DOCTOR X435
+Yeah, don't take more than that.
+
+FIRST DOCTOR X435
+Okay.  Okay.  So and I think you just go to the Pharmacy, they'll have @@@ okay and we're gonna increase.
+
+PATIENT X435
+Give a copy of this so I can give it to my nurse.  She keeping a log.
+
+FIRST DOCTOR X435
+Yeah that's a good idea.
+
+PATIENT X435
+And she's going to put my pills in here.
+
+FIRST DOCTOR X435
+Yeah that's a good idea.  So I'll put the changes on here so everything here, that's fine, this is all fine.  So.
+
+PATIENT X435
+That's @@@.
+
+DOCTOR X435
+Yeah @@@.
+
+PATIENT X435
+That's gonna be 15 then.
+
+FIRST DOCTOR X435
+Yeah a little bit more.
+
+PATIENT X435
+Well I'll be at home.
+
+FIRST DOCTOR X435
+It's not a lot more.  I mean we're not going up that much.  It's just to take some more fluid off because we're concerned that some of this weight that you're gaining is water.
+
+PATIENT X435
+Oh it is.  I @@@ too much water @@@.
+
+FIRST DOCTOR X435
+Yeah you should try to limit yourself probably to about a liter a day if you can.
+
+PATIENT X435
+That's what I was trying to do.
+
+FIRST DOCTOR X435
+Alright that's fine, that's fine.  I'm gonna put that they'll deliver them downstairs.
+
+PATIENT X435
+Is it Losartan?
+
+FIRST DOCTOR X435
+Hydralazine.
+
+PATIENT X435
+What's that?
+
+FIRST DOCTOR X435
+To get that blood pressure down.  It's a three time a day blood pressure medicine.  It works well in people with weak hearts.  It's a 10 mg pill, small pill and you take it three times a day.  Your blood pressure is too high for the way your heart works. We need to get it down closer to like 100 over 67 is better.
+
+PATIENT X435
+Okay.
+
+FIRST DOCTOR X435
+Alright.  So why don't you swing by the Pharmacy and then uh.
+
+PATIENT X435
+Yeah she said that.
+
+FIRST DOCTOR X435
+And then you have your appointment.
+
+PATIENT X435
+@@@.
+
+FIRST DOCTOR X435
+No actually I put it on here @@@.  So everything that's listed here is correct.
+
+PATIENT X435
+@@@ pill @@@.
+
+FIRST DOCTOR X435
+And then this is the increase we made.
+
+PATIENT X435
+@@@.
+
+FIRST DOCTOR X435
+Yep we'll give you that.
+
+PATIENT X435
+For 30 days?
+
+FIRST DOCTOR X435
+Uh-huh and then uh we'll get you an appointment okay.
+
+PATIENT X435
+Okay.
+
+FIRST DOCTOR X435
+So you give that to your nurse and let her change your pill boxes around.
+
+PATIENT X435
+Alright.
+
+FIRST DOCTOR X435
+Okay.
+
+PATIENT X435
+Yeah.  I've been trying to take all this stuff @@@.  I feel good.
+
+FIRST DOCTOR X435
+Well if you came tomorrow and we'll see @@@.  The next time uh, the next time you come back let's talk about transportation and getting you into the MOVE Program.
+
+PATIENT X435
+Alright.
+
+FIRST DOCTOR X435
+See what you can do in the meantime okay.
+
+PATIENT X435
+Okay.
+
+FIRST DOCTOR X435
+@@@.
+
+PATIENT X435
+Well sitting at home all the time gain weight @@@.
+
+FIRST DOCTOR X435
+@@@.
+
+PATIENT X435
+Now I stop at the desk right?
+
+FIRST DOCTOR X435
+Uh actually yeah let me @@@.  So we'll have you come back.
+
+PATIENT X435
+@@@ have me come back.
+
+FIRST DOCTOR X435
+Two weeks for recheck.
+
+PATIENT X435
+You say you gave me one tablet for cholesterol right?
+
+FIRST DOCTOR X435
+Yeah, yeah.
+
+PATIENT X435
+I don't want to cut no pills in half.
+
+FIRST DOCTOR X435
+I'm gonna put it in that way.  If the Pharmacy doesn't do it let me know and uh talk to the Pharmacy they have it there but I'll put in the order now okay.
+
+PATIENT X435
+Alright.  My other appointment at 2 o'clock right?
+
+FIRST DOCTOR X435
+Yeah.
+
+PATIENT LEAVES:  72:04
+
+
+
+

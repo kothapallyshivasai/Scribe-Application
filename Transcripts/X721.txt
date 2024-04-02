@@ -1,0 +1,554 @@
+
+DOCTOR X721
+Alright, I think you usually see DOCTOR is that right?
+
+PATIENT X721
+Right.
+
+DOCTOR X721
+Well she is out today so I'm covering for her.  How you doing?
+
+PATIENT X721
+Alright.  No I'm not, I'm not feeling well.
+
+DOCTOR X721
+Okay what's going on?
+ 
+PATIENT X721
+Well the reason I got a sinus cold and when I cough I'm coughing up mucous and I get lightheaded.
+
+DOCTOR X721
+Okay how long has this been going on for?
+
+PATIENT X721
+Since last week.
+
+DOCTOR X721
+So @@@ last week you say?
+
+PATIENT X721
+Yeah.
+
+DOCTOR X721
+@@@.
+
+PATIENT X721
+Yep.
+
+DOCTOR X721
+Okay and you're, what are you coughing up?
+
+PATIENT X721
+Blood.  Blood and yellow mucous.
+
+DOCTOR X721
+How much blood?
+
+PATIENT X721
+Spots.
+
+DOCTOR X721
+Spots of blood in the mucous?
+
+PATIENT X721
+Yeah.
+
+DOCTOR X721
+Are you coughing pretty hard like are you coughing?
+
+PATIENT X721
+Yeah.
+
+DOCTOR X721
+Yeah.  Okay just yellow mucous, nothing green or brown?
+
+PATIENT X721
+Yeah it's green, green and yellow.
+
+DOCTOR X721
+Okay.  What else?
+
+PATIENT X721
+No that's it.
+
+DOCTOR X721
+Any fevers at all?
+
+PATIENT X721
+No @@@ but I was.
+
+DOCTOR X721
+Were you having fevers before?
+
+PATIENT X721
+Yeah first two days.
+
+DOCTOR X721
+Did you measure it; was your temperature actually high?
+
+PATIENT X721
+It wasn't high but it was at just borderline.
+
+DOCTOR X721
+What was it?
+
+PATIENT X721
+It was uh 100 or something.
+
+DOCTOR X721
+Your blood pressure or your temperature?
+
+PATIENT X721
+You said my temperature right?
+
+DOCTOR X721
+Yeah 100 over something?
+
+PATIENT X721
+No, no, that was my blood pressure.  I forgot what my temperature was.
+
+DOCTOR X721
+Okay but no fevers or chills right now um any shortness of breath?
+
+PATIENT X721
+No.
+
+DOCTOR X721
+No you just said when you cough you get a little dizzy.
+
+PATIENT X721
+Yeah.
+
+DOCTOR X721
+Does that go away after you stop coughing?
+
+PATIENT X721
+Yeah.
+
+DOCTOR X721
+Okay.
+
+PATIENT X721
+It hurts when I cough too.  My head hurts.
+
+DOCTOR X721
+Yeah.  Is anyone at home sick?
+
+PATIENT X721
+No I'm the only person staying in my place.
+
+DOCTOR X721
+Okay.  Does this feel like its getting better or it's been about the same?
+
+PATIENT X721
+I think it's getting a little better.  It's better than the first two days you know, I was taking Alka-Seltzer Plus.
+
+DOCTOR X721
+Uh-huh.
+
+PATIENT X721
+And I had some cough syrup that I had from the last visit.
+
+DOCTOR X721
+Yeah did that help?
+
+PATIENT X721
+Yeah it helped.
+
+DOCTOR X721
+So it's mostly the cough and then when you cough you're getting a little bit of a headache.
+
+PATIENT X721
+Uh-huh.
+
+DOCTOR X721
+Um going on for like seven days.  No fevers at all, no chest pain, no shortness of breath, nothing like that.
+
+PATIENT X721
+No, chest pains yes.
+
+DOCTOR X721
+With the cough?
+
+PATIENT X721
+Yeah with the cough but before I got sick this whole left side from the arm got real stiff and this sharp pain went all the way up to the shoulder where I couldn't even lift my shoulder.
+
+DOCTOR X721
+Okay are you still having that?
+
+PATIENT X721
+Yeah in both shoulders now.
+
+DOCTOR X721
+Just shoulder pain?
+
+PATIENT X721
+Yeah.
+
+DOCTOR X721
+Okay so where, it's just pain it's just right here?
+
+PATIENT X721
+Yeah.
+
+DOCTOR X721
+Okay.  Let me see something.  How bad is the shoulder pain on a scale from 1-10?
+
+PATIENT X721
+7.
+
+DOCTOR X721
+But it's in both shoulders?
+
+PATIENT X721
+Yeah.  And at times both my hands stiffen up a lot.
+
+DOCTOR X721
+Uh-huh.  Did you hurt your shoulders at all?  Have you been doing any heavy lifting at all?  What do you do for work?  Do you work?
+
+PATIENT X721
+No I was in a car accident in 2006 that left me in a coma.
+
+DOCTOR X721
+Okay.
+
+PATIENT X721
+And then I got screws and @@@ in both of my ankles.
+
+DOCTOR X721
+Uh-huh.
+
+PATIENT X721
+And uh @@@.
+
+DOCTOR X721
+Okay.  But with the shoulders, were those hurt in the accident too?
+
+PATIENT X721
+Yeah.
+
+DOCTOR X721
+Have those hurt ever since the accident?
+
+PATIENT X721
+Yeah.
+
+DOCTOR X721
+Is this different?  And how long has it been worse for?
+
+PATIENT X721
+It comes and goes.
+
+DOCTOR X721
+Okay.  But no new injury or anything?
+
+PATIENT X721
+No.
+
+DOCTOR X721
+Okay.
+
+PATIENT X721
+I notice I can't even do an arm curl with the curl bar because right along there it's like it hurts real bad so can't do that and even when I, when I start and I cut down on a lot of the heavy weights, I'm not doing heavy lifting but when I try to do push-ups it hurts.
+
+DOCTOR X721
+In your shoulder or it hurts right here?
+
+PATIENT X721
+It hurts in the shoulders.
+
+DOCTOR X721
+Okay.  Well I mean maybe you've got some arthritis in the shoulder or maybe there's something else.  We could probably just; we could try imaging you know we could get some x-rays to see if there's anything going on in there um let me see.  Otherwise so you are 53.  Are you a smoker?
+
+PATIENT X721
+No.
+
+DOCTOR X721
+Okay.  Have you ever been?
+
+PATIENT X721
+Nope.
+
+DOCTOR X721
+Excellent.  Um did you get your flu shot this year?  Do you want to get it today?
+
+PATIENT X721
+Uh uh.
+
+DOCTOR X721
+Okay any reason?
+
+PATIENT X721
+No I'm not taking shots.
+
+DOCTOR X721
+Okay.
+
+PATIENT X721
+Really I don't like needles.
+
+DOCTOR X721
+Okay.
+
+PATIENT X721
+I keep forgetting to bring my medical records here from Rush, that's where I was going when I was in a car accident.
+
+DOCTOR X721
+Uh-huh.
+
+PATIENT X721
+And then I was in the hospital for at least two months.
+
+DOCTOR X721
+Yeah, that'd be useful to have here um, let me see, otherwise you're 53.  Have you ever had a colonoscopy?
+
+PATIENT X721
+What is that?
+
+DOCTOR X721
+They put a camera up your bottom.
+
+PATIENT X721
+Yeah they did that um about two years ago.
+
+DOCTOR X721
+Okay I'll go take a look, 2010.  Okay it looks like you need another one next year.
+
+PATIENT X721
+Oh okay.
+
+DOCTOR X721
+Okay.  Okay and they saw the last time DOCTOR referred you to our MOVE Program for some weight loss, did you ever see them?  What do you think?
+
+PATIENT X721
+It was great.
+
+DOCTOR X721
+Okay.  Are you still going there?
+
+PATIENT X721
+No that was, that was for about a couple of weeks so I finished that program.
+
+DOCTOR X721
+Okay.  They gave some good pointers and things.
+
+PATIENT X721
+Yeah cause I lost a lot of weight.
+
+DOCTOR X721
+Oh good.  How much weight have you lost, let's take a look.
+
+PATIENT X721
+I was 316 when I entered the program, right now I'm 288.
+
+DOCTOR X721
+Awesome.  Okay.  You want to sit up here for me?  Now when you cough and you get this mucous up does it feel better when you get it up?
+
+PATIENT X721
+Yeah.  I been swallowing much better once it comes up.
+
+DOCTOR X721
+Okay.  But did they recently give you like a cough syrup or something that'll help break that stuff up.
+
+PATIENT X721
+Oh okay.
+
+DOCTOR X721
+A lot of times when people have symptoms like this it's just a viral kind of infection where antibiotics don't really work.  You know viral infections, usually there's a lot of those going around right now, you know the weather the way it is.
+
+PATIENT X721
+Yes.
+
+DOCTOR X721
+Um they usually will last like 10 to 14 days and you kind of just let it run its course I mean it's not anything to treat really.  We can get you some cough syrup and things like that to kind of help with the symptoms.
+
+PATIENT X721
+Uh-huh.
+
+DOCTOR X721
+There's nothing we can really, you know we don't really need to treat anything so it'll go away on its own.  Um.
+
+PATIENT X721
+I got another question.
+
+DOCTOR X721
+Yeah.
+
+PATIENT X721
+I think I know how I caught it.  I have family members that smoke and when I go over to their house it's like damn.
+
+DOCTOR X721
+Okay.
+
+PATIENT X721
+Like I be sneezing you know man, all the smoking and mixing.
+
+DOCTOR X721
+Yeah.
+
+PATIENT X721
+My throat gets all scratchy.
+
+DOCTOR X721
+Yeah that's from the smoking.
+
+PATIENT X721
+Yeah cause every time I get sick the next day I know.
+
+DOCTOR X721
+Yeah I mean a lot of people will kind of get like a small bronchitis you know cause smoke irritates your lungs.
+
+PATIENT X721
+It do, it really irritates me so I'm gonna stay from over there.
+
+DOCTOR X721
+Yeah.  Stick your tongue out for me.  Say ah.
+
+PATIENT X721
+Ah.
+
+DOCTOR X721
+Okay good.  Yeah that @@@ at home.
+
+PATIENT X721
+@@@ right here it @@@.
+
+DOCTOR X721
+Your ear how long has that been going on for?
+
+PATIENT X721
+For a couple of months.
+
+DOCTOR X721
+Couple of months okay.  Did you ever have your hearing checked?
+
+PATIENT X721
+No.
+
+DOCTOR X721
+Okay, alright let me take a listen here.  Just breathe normally.  Okay deep breaths in and out through your mouth.  Okay great let me just listen.  Okay any pain down here anywhere?
+
+PATIENT X721
+No.
+
+DOCTOR X721
+Okay any swelling in your legs?
+
+PATIENT X721
+Just the ankles.
+
+DOCTOR X721
+Okay.  Is that normal for you?
+
+PATIENT X721
+Because the shoes @@@.
+
+DOCTOR X721
+Right, right, okay.  Let me take a look at this one here.  Okay now the shoulders, put your arms up like this for me, keep them up, keep them up, keep them up, does that hurt?
+
+PATIENT X721
+Yeah.
+
+DOCTOR X721
+Okay put them out in front of you.  Okay, put them out to the side, up above your head, okay.  So I mean that's, the fact is you've got a pretty good range of motion of the shoulders is a good sign.  I don't think there's any kind of serious injury or anything.  Um I think we could just get some x-rays.
+
+PATIENT X721
+Oh okay.
+
+DOCTOR X721
+Just to see.  There might be some arthritis or something there um.  It doesn't seem like that bothers you too much with the moving around right?  It looked like you were doing okay with that.
+
+PATIENT X721
+Right.
+
+DOCTOR X721
+Um so maybe we'll do some x-rays and we'll see how those look okay.
+
+PATIENT X721
+Okay.
+
+DOCTOR X721
+Alright I'm gonna go talk to DOCTOR so I'll be back okay.
+
+PATIENT X721
+Okay.
+
+(DOCTOR OUT:  41:28  DOCTOR IN:  47:17)
+
+DOCTOR X721
+Okay so a couple of things.  So I talked to DOCTOR and we were talking about the shoulders.  We don't think it's anything serious.  I think we could probably go without the x-ray; I want to talk to you about this and see what you think.  So I think that any time you get any kind of x-ray or CT scan you're getting radiation right.  Based on your exam, it's nothing serious.
+
+PATIENT X721
+Oh okay.
+
+DOCTOR X721
+And that, at the worst, maybe there's some arthritis but just based on the ability, your strength and your range of motion it's nothing serious.  I think we could go without the x-rays just to spare you the radiation cause you know how @@@ down the line.  In terms of the cough, I'm gonna give you something called guaifenesin, kind of like Mucinex; it helps you bring up this gunk.  I don't think we need to, I think it should get better over the next couple of days.  It sounds like it already is getting better.  The smoke, being around the smokers is probably you know, as you've noticed, is probably contributing to the @@@.
+
+PATIENT X721
+Oh okay.
+
+DOCTOR X721
+So I would try to stay out of that as much as you can.  I'll write you a prescription unless do you have the cough syrup at home still?
+
+PATIENT X721
+No I ran out.
+
+DOCTOR X721
+So we'll get you some here.  Do you want to pick it up at the window?
+
+PATIENT X721
+Yeah.
+
+DOCTOR X721
+Okay and then um other than that I mean your labs were last checked just in November so I don't think you need to come back and so, unless something comes up, until November.
+
+PATIENT X721
+Okay when is my next appointment?  My next appointment is in March right?
+
+DOCTOR X721
+Well we got to make it for you but your next one; you have an Endocrinology appointment in March.
+
+PATIENT X721
+Oh okay.
+
+DOCTOR X721
+March 1st.  That was the one you follow up for the, you know for the testosterone and things like that.
+
+PATIENT X721
+Oh okay. 
+
+DOCTOR X721
+So that is on March 1st at 10:00 a.m. but to see us I think November is probably okay unless of course something comes up and you need to be seen sooner, we can see you sooner.
+
+PATIENT X721
+Oh okay.
+
+DOCTOR X721
+Okay.  Alright, so just stop by the Pharmacy on the way out and then return back to the clinic in nine months.  There you go.
+
+PATIENT X721
+Okay.
+
+DOCTOR X721
+Alright have a good day alright.
+
+PATIENT X721
+So give the paperwork to the people out front right?
+
+DOCTOR X721
+Yeah.  Perfect.
+
+PATIENT X721
+Thank you.
+
+DOCTOR X721
+Have a good day.
+
+PATIENT X721
+You too.
+
+PATIENT LEAVES:  49:53
+
+
+
+

@@ -1,0 +1,1254 @@
+
+DOCTOR X612
+PATIENT.
+
+PATIENT X612 
+Right back here.
+
+DOCTOR X612
+@@@ right now.
+
+PATIENT X612
+Now before @@@ start, you're being recorded.
+
+DOCTOR X612
+Say again.
+
+PATIENT X612
+You're being recorded.
+
+DOCTOR X612
+Oh alright.
+
+PATIENT X612
+They said you agreed to it.
+
+DOCTOR X612
+Yeah, yeah, that's actually they're doing research stuff.
+
+PATIENT X612
+Okay.  I don't want to do anything illegal.
+
+DOCTOR X612
+Oh no, no, that's fine.  Alright, yeah the server takes forever.  Yeah.
+
+PATIENT X612
+It's in my jacket here, that's the device yeah. 
+
+DOCTOR X612
+Okay, alright.  So let's see.  It's been a little while since I've seen you here at the VA.  I'm looking to see and I think I see the last time was that must be way back the end of October, November, something like that.
+
+PATIENT X612
+Been that long ago?
+
+DOCTOR X612
+I don't know, it's been a little while.  Okay, so why don't we go through some things.  You have got a few things that I know we need to talk about right away and go through, make sure everything sounds right.  Symptoms of and you're having your medications and make sure they're working and then we can go through other things as well.
+
+PATIENT X612
+Okay.
+
+DOCTOR X612
+Um.  Are there any medications you're out of right now?
+
+PATIENT X612
+Uh yes there are, let's see.  I tried to get the VA refills, all the refills by the doctor for the prescription, crap, oh so I'm just about out of everything, especially the water pills.
+
+DOCTOR X612
+Okay.  
+
+PATIENT X612
+One doctor will tell me to take two pills and then another doctor will tell me to take four pills and you give me a 90 day supply.
+
+DOCTOR X612
+Got it.  What are you actually on right now?
+
+PATIENT X612
+@@@.
+
+DOCTOR X612
+How much?
+
+PATIENT X612
+20 mg.
+
+DOCTOR X612
+Just on the 20 mg once or twice a day?
+
+PATIENT X612
+Uh well at this present time it's twice a day.  I don't know what they're going to do, get the renal to change it in there.
+
+DOCTOR X612
+Okay.  We got to list, read that out for me.
+
+PATIENT X612
+Uh I'm out of losartan, that's one tablet per night.
+
+DOCTOR X612
+Let me um, as you're saying it cause I'm gonna just make sure that we have this taken care of.
+
+PATIENT X612
+Okay.
+
+DOCTOR X612
+Actually you need.
+
+PATIENT X612
+Basically I need everything.
+
+DOCTOR X612
+Okay.  Let's make sure you're doing, actually, you're taking the 2 mg but you're actually taking this twice a day right?
+
+PATIENT X612
+What's that?
+
+DOCTOR X612
+The Bumex.
+
+PATIENT X612
+Bumex yes.
+
+DOCTOR X612
+Alright, let's make sure that uh.  Okay you're out; you want to get it at the Pharmacy today?
+
+PATIENT X612
+Oh yes please.
+
+DOCTOR X612
+Let's do that.
+
+PATIENT X612
+@@@.
+
+DOCTOR X612
+Keep going you said that, the losartan.
+
+PATIENT X612
+The losartan I'm out of totally.
+
+DOCTOR X612
+Okay let's renew that one.
+
+PATIENT X612
+I put in for that and they said this was, two weeks ago they said it would be delivered in five to seven days and I still haven't gotten it.
+
+DOCTOR X612
+Just get it at the window for you.  Okay keep going.
+
+PATIENT X612
+Um metoprolol the prescription had to be renewed by the doctor.
+
+DOCTOR X612
+@@@ give me a second; have to get a new list.  Okay keep going.
+
+PATIENT X612
+Uh allopurinol, the doctor needs to renew the prescription on that.
+
+DOCTOR X612
+Taking that every day so.
+
+PATIENT X612
+Yeah.
+
+DOCTOR X612
+Okay so we'll check that.  Okay keep going.
+
+PATIENT X612
+Omeprazole I need to get refilled.
+
+DOCTOR X612
+Omeprazole sure.
+
+PATIENT X612
+I take 20 mg, the prescriptions gone.
+
+DOCTOR X612
+Yeah we'll refill that as well, make sure that's taken care of.  Keep going.
+
+PATIENT X612
+Uh calcitriol.
+
+DOCTOR X612
+Now I would imagine that's prescribed by the kidney doctors.  Actually it looks like you've got plenty of refills on that one.
+
+PATIENT X612
+Uh-huh.  Well okay, yeah they @@@ seven days.
+
+DOCTOR X612
+Okay.
+
+PATIENT X612
+So that's not needed.  The fish oil they said needs to be renewed by the doctor.
+
+DOCTOR X612
+I'm looking for it on your list, just a second.
+
+PATIENT X612
+Tastes like crap.
+
+DOCTOR X612
+Okay got that.
+
+PATIENT X612
+Okay that's renewed by the doctor.
+
+DOCTOR X612
+Uh-huh.
+
+PATIENT X612
+Uh Docusate.
+
+DOCTOR X612
+Yeah Docusate.
+
+PATIENT X612
+Docusate.
+
+DOCTOR X612
+Alright so that's taken care of.  Having any problems with constipation at all?
+
+PATIENT X612
+No.
+
+DOCTOR X612
+Taking it okay, that's fine, renew it all.
+
+PATIENT X612
+Uh-huh glucose strips.  Hydralazine.
+
+DOCTOR X612
+You know I'm actually gonna start going through things and will be refilling lots of other things as well.
+
+PATIENT X612
+Oh okay.
+
+DOCTOR X612
+You know I'm changing them as we go alright.  We'll get you more alcohol swabs.
+
+PATIENT X612
+Yeah.
+
+DOCTOR X612
+Let's see, that's good, hydralazine, make sure you're good to go with that.  Okay good.
+
+PATIENT X612
+Multivitamin.  I think that's just about everything.
+
+DOCTOR X612
+How you doing on your insulin?
+
+PATIENT X612
+Uh the insulin I have is just fine.
+
+DOCTOR X612
+How much insulin are you actually taking now?  Uh Glargine the long-acting 70 units at night.
+
+PATIENT X612
+I cut back on that.
+
+DOCTOR X612
+Okay.
+
+PATIENT X612
+We're down to 55 on that now.
+
+DOCTOR X612
+Okay and then.
+
+PATIENT X612
+Cause my sugar was dropping in the middle of the night so we cut back to 55.  On the Aspart.
+
+DOCTOR X612
+Uh-huh.
+
+PATIENT X612
+The human insulin cut back to 14 units.
+
+DOCTOR X612
+With each meal.
+
+PATIENT X612
+Uh morning, one in the morning and one at night.
+
+DOCTOR X612
+Okay.  How have your blood sugar levels been looking?
+
+PATIENT X612
+They been looking, I'm pretty good but like I said.
+
+DOCTOR X612
+When you wake up in the morning what is it?
+
+PATIENT X612
+Oh.
+
+DOCTOR X612
+Oh you have a log okay.  Let's see, yeah I'll take a look at it.
+
+PATIENT X612
+Okay @@@, uh this is this week.
+
+DOCTOR X612
+Let's see, I see, so this is the time and that's the level?
+
+PATIENT X612
+Right.
+
+DOCTOR X612
+Okay.  In the 150s and 170s and 115 okay.  And you check it, is this before you take your, is this before you take your evening?
+
+PATIENT X612
+Yeah.
+
+DOCTOR X612
+Okay.
+
+PATIENT X612
+Yeah just before I take my Glargine, take the insulin.
+
+DOCTOR X612
+Okay.  Any times where you've gone you know like below 70?
+
+PATIENT X612
+Oh yes.
+
+DOCTOR X612
+Yes, no, I see a 57 one night there.  What's that?
+
+PATIENT X612
+No 41.
+
+DOCTOR X612
+Before or after you started cutting back a little bit okay.  Alright.  I see some ones in here that but you started cutting back I see okay, yeah alright.  Did anyone tell you to cut back?
+
+PATIENT X612
+Oh they told me before when they first put me on it that if it should start dropping.
+
+DOCTOR X612
+Good.  I actually think that's appropriate.  Cause I don't want you, you know when you're 60, 70, that's a little too low.
+
+PATIENT X612
+Uh-huh.
+
+DOCTOR X612
+That's worrisome.  Were you shaking and feeling dizzy or?
+
+PATIENT X612
+Uh well it starts in the leg area.
+
+DOCTOR X612
+Okay.
+
+PATIENT X612
+And they start tingling and then it goes up into the lips and then once it gets in there, then my eyes just seem to blur up the left eye and when that happens.
+
+DOCTOR X612
+Yeah.
+
+PATIENT X612
+I know what's happening, something's going wrong.
+
+DOCTOR X612
+Over the past week how have things been?
+
+PATIENT X612
+Uh, this past uh.
+
+DOCTOR X612
+Any day.  It doesn't look like you've been low.
+
+PATIENT X612
+Sunday I didn't mark it down but Sunday morning it dropped down to 42 at about 3 o'clock in the morning I woke up, used the washroom and I was feeling kind of funny so I decided to take it.  You know when I took it, it was 42.
+
+DOCTOR X612
+Alright.
+
+PATIENT X612
+It was 42 and uh I took some orange juice, drank some orange juice which was Sunny D and brought it back up.
+
+DOCTOR X612
+Is that the only time it's happened like that or is it?
+
+PATIENT X612
+Uh this week yeah.
+
+DOCTOR X612
+Is it, if you find yourself with blood sugar levels that low, that's pretty concerning.
+
+PATIENT X612
+Uh-huh.
+
+DOCTOR X612
+Um we might need to even go down a little bit more.  Most of your other levels though seems like they're, like 150s, 170s and 110s, that makes it just a one isolated event.
+
+PATIENT X612
+Yeah well these uh perhaps when I had a light beer.
+
+DOCTOR X612
+Okay.
+
+PATIENT X612
+And uh just what I did, I had just @@@ with the family.
+
+DOCTOR X612
+Alright well in those situations you might need to you know cut back a little.
+
+PATIENT X612
+Yeah.
+
+DOCTOR X612
+Cause what you're doing is essentially covering yourself with insulin.
+
+PATIENT X612
+Right.
+
+DOCTOR X612
+Sugar but if you suddenly don't have enough sugar, uh as much sugar as you normally have then you're giving yourself too much insulin.
+
+PATIENT X612
+Uh-huh.
+
+DOCTOR X612
+But if you think you're gonna you know not eat very much, cut back a little bit.
+
+PATIENT X612
+Yeah.
+
+DOCTOR X612
+Uh but otherwise I mean on the whole these look pretty good uh.  Yeah and you know do you know what your goals are for the morning?
+
+PATIENT X612
+Uh off hand @@@.
+
+DOCTOR X612
+Okay.
+
+PATIENT X612
+It's fluctuating so much.
+
+DOCTOR X612
+I mean ideally you know below 130, 120 in the morning.
+
+PATIENT X612
+Oh okay.
+
+DOCTOR X612
+But and so you can, every few days you can go up about 2 units to try to get your, with the long-acting.
+
+PATIENT X612
+Uh-huh.
+
+DOCTOR X612
+To get yourself below that, with the caveat that if you're getting those low levels, those 60s, you know below 70s, even in the 60s or lower, something like that, then you've got to be more liberal and you have to give yourself a much bigger range, let yourself go higher.  Cause the going too low, that's more worrisome than having higher, slightly higher okay.
+
+PATIENT X612
+Yeah.  So I think uh I think that I'm actually gonna need a new, actually get myself a new meter, this one is not very accurate.  I don't know I tried calibrating it and everything but it still goes up and down so I don't get very good readings.
+
+DOCTOR X612
+Oh well let's try to get you a new.  It's the glucometer reading.
+
+PATIENT X612
+Right yeah.
+
+DOCTOR X612
+Yeah I can certainly do that for you cause, we definitely need to have good readings.
+
+PATIENT X612
+Uh-huh.  What should be an ideal blood pressure?
+
+DOCTOR X612
+For you, under, below 130/80.
+
+PATIENT X612
+So 130 over 80.
+
+DOCTOR X612
+Uh-huh.
+
+PATIENT X612
+Okay.  I was under the impression it should be in the low 139 and 80.
+
+DOCTOR X612
+Well not quite.
+
+PATIENT X612
+I was walking from the parking lot.
+
+DOCTOR X612
+Yeah.
+
+PATIENT X612
+I had @@@.
+
+DOCTOR X612
+Okay.
+
+PATIENT X612
+Tell me my reading should be.
+
+DOCTOR X612
+Well 130/80, that's what you want.
+
+PATIENT X612
+130 over 80.  @@@.  And what is it?
+
+DOCTOR X612
+Uh between 60 and 90.  Between 60 and 100.  You doing your long-acting in the morning or at night?
+
+PATIENT X612
+Uh in the morning.
+
+DOCTOR X612
+Good okay.
+
+PATIENT X612
+Yeah.
+
+DOCTOR X612
+Have you always done it in the morning?
+
+PATIENT X612
+Right.
+
+DOCTOR X612
+Alright yeah.
+
+PATIENT X612
+Uh-huh.
+
+DOCTOR X612
+That's probably best for you so that you don't bottom out at night.
+
+PATIENT X612
+Right.
+
+DOCTOR X612
+Alright, I definitely agree with that.
+
+PATIENT X612
+Yeah DOCTOR started me on that one a long time ago.
+
+DOCTOR X612
+That's fine, so that's good.
+
+PATIENT X612
+That's taking more away from, if it's gonna spike, it's gonna spike during the daytime when I'm awake.
+
+DOCTOR X612
+Exactly yeah.
+
+PATIENT X612
+That's why I started taking it at night but I know what that was from.
+
+DOCTOR X612
+Alright, I think I've got most of your medicines up-to-date now.
+
+PATIENT X612
+Yeah.
+
+DOCTOR X612
+So we're getting them in there.  Okay, okay, okay.  You're still taking nifedipine right?
+
+PATIENT X612
+Yeah I needed that.
+
+DOCTOR X612
+Okay just wanted to make sure.
+
+PATIENT X612
+It's the one thing I do is taking the nifedipine.
+
+DOCTOR X612
+Do you have enough of those lancets?
+
+PATIENT X612
+Uh yeah.
+
+DOCTOR X612
+Alright.  Yeah actually let me put in an order right now to get the glucometer.  
+
+PATIENT X612
+And some rubber gloves, latex gloves.
+
+DOCTOR X612
+Sure, sure.  Good, alright.  So let's go through some other things here.  So it looks like diabetes I think we've tackled that pretty well.
+
+PATIENT X612
+Uh-huh.
+
+DOCTOR X612
+Uh got the things you need.  The supplies are gonna be for you at the Pharmacy.
+
+PATIENT X612
+Okay I'll, did you redo the prostate medicine tamsulosin?
+
+DOCTOR X612
+Uh-huh, uh-huh.
+
+PATIENT X612
+Tamsulosin.
+
+DOCTOR X612
+Yep I went through the whole kind of list here.  I just, one by one make sure that we have refills uh-huh.
+
+PATIENT X612
+Okay the @@@ medicine?
+
+DOCTOR X612
+Yep, you're good to go on that too.
+
+PATIENT X612
+Okay great.  Yeah.
+
+DOCTOR X612
+So, let's see here.  What I see, so we talked about diabetes.  Your kidney disease uh, you have a fistula in place is that right?
+
+PATIENT X612
+It's not working.
+
+DOCTOR X612
+Not working now.  
+
+PATIENT X612
+Never been used, stopped working.
+
+DOCTOR X612
+Okay.
+
+PATIENT X612
+Uh I'm up for a kidney transplant.
+
+DOCTOR X612
+Okay.
+
+PATIENT X612
+Have to use @@@.
+
+DOCTOR X612
+Okay.
+
+PATIENT X612
+I have a donor or a potential donor put it that way.
+
+DOCTOR X612
+Okay.
+
+PATIENT X612
+Uh scheduled for a meeting on the 5th with the kidney transplant doctor over at @@@.
+
+DOCTOR X612
+DOCTOR?
+
+PATIENT X612
+Uh DOCTOR and who else did he say?   He gave me a list yesterday.
+
+DOCTOR X612
+Okay good.
+
+PATIENT X612
+It's the actual transplant surgeon.
+
+DOCTOR X612
+Sure.
+
+PATIENT X612
+Would be the actual, I got to talk to him alone with the donor.
+
+DOCTOR X612
+Okay.
+
+PATIENT X612
+Because we need to talk about it.
+
+DOCTOR X612
+Alright.
+
+PATIENT X612
+And oh what else basically.
+
+DOCTOR X612
+Wait and see.
+
+PATIENT X612
+Wait and see whether or not we're compatible.
+
+DOCTOR X612
+Okay.
+
+PATIENT X612
+And I've got four others that are waiting in the wings.  One thing I'm not clear of with this transplant.
+
+DOCTOR X612
+Uh-huh.
+
+PATIENT X612
+Once you've had a transplant.
+
+DOCTOR X612
+Uh-huh.
+
+PATIENT X612
+The diabetes is the cause of the kidney going bad in the first place.
+
+DOCTOR X612
+Sure.
+
+PATIENT X612
+What's gonna prevent this from.
+
+DOCTOR X612
+Happening again.
+
+PATIENT X612
+Doing the same with the transplant.
+
+DOCTOR X612
+Controlling your diabetes.
+
+PATIENT X612
+Controlling it.
+
+DOCTOR X612
+Uh-huh.  That's why we'll have you keep your diabetes under control uh-huh.
+
+PATIENT X612
+Things like diet and losing weight and all of that.
+
+DOCTOR X612
+Exactly.
+
+PATIENT X612
+Okay.
+
+DOCTOR X612
+You answered your own question.
+
+PATIENT X612
+I mean I wasn't sure about that.  You know they say you get a new kidney and a new person.
+
+DOCTOR X612
+Uh-huh.
+
+PATIENT X612
+That doesn't seem to be with the, that's the first thing, that's the thing that caused it in the first place.
+
+DOCTOR X612
+Right.
+
+PATIENT X612
+Now I understand, now I know.
+
+DOCTOR X612
+Good.  Your blood pressures, you been checking that at home?
+
+PATIENT X612
+Yeah.
+
+DOCTOR X612
+What have they been looking like?
+
+PATIENT X612
+Let's see, 118/78.
+
+DOCTOR X612
+That's good, that's right at goal for you and even the ones we have for you right now great, you're doing very well.
+
+PATIENT X612
+They, it got up a little high this morning; well actually it was 142 over at home.
+
+DOCTOR X612
+Okay.
+
+PATIENT X612
+50.
+
+DOCTOR X612
+Had you taken your meds yet?
+
+PATIENT X612
+Uh no.
+
+DOCTOR X612
+Isn't it surprising what your medicines will do for you and here now it looks great.
+
+PATIENT X612
+Yeah it was 169/80 this morning.
+
+DOCTOR X612
+Okay.
+
+PATIENT X612
+With a 69 heart rate.
+
+DOCTOR X612
+Okay, better once you take the medicines okay.
+
+PATIENT X612
+Yeah.
+
+DOCTOR X612
+Alright.  And it looks like your, I'm pleased with that.
+
+PATIENT X612
+@@@.
+
+DOCTOR X612
+With regards to your cholesterol.
+
+PATIENT X612
+@@@.
+
+DOCTOR X612
+I want to take a look at your most recent levels.  Let's see what we've got.  Official in October 2010, which was okay about six months ago and you are, you're cholesterol levels are looking good, they're at goal okay. Uh let's see, now you've had some heart problems before.
+
+PATIENT X612
+That's what they tell me huh.
+
+DOCTOR X612
+Yeah.  Any problems with chest pain at all?
+
+PATIENT X612
+I get a tightness in the chest every so often uh.
+
+DOCTOR X612
+When?
+
+PATIENT X612
+Uh after walking a distance or.
+
+DOCTOR X612
+How far?
+
+PATIENT X612
+Hmm well it's gotten to the point now where I can walk maybe a block at certain times and then I'll just get tired or I can be coming out of the basement up the stairs, if I go down and put some clothes in the washer or something and if I'm coming up the stairs I'll get out of breath and have to kind of cool myself.
+
+DOCTOR X612
+Okay so you're feeling like you're not getting enough air right?
+
+PATIENT X612
+Right uh-huh.
+
+DOCTOR X612
+Is it that you feel a pain here or just not enough air?
+
+PATIENT X612
+Just no it seems like a tightness.  It's not enough air.
+
+DOCTOR X612
+Okay.
+
+PATIENT X612
+Cause I'm gasping for breath.
+
+DOCTOR X612
+Okay.
+
+PATIENT X612
+And uh.
+
+
+DOCTOR X612
+Sit down and you feel better?
+
+PATIENT X612
+Sit down and feel better after a while, uh the @@@ dry out and um.
+
+DOCTOR X612
+Ever when you're sitting down, like you are right now that you have pain here?
+
+PATIENT X612
+Uh, nothing more than acid reflux.
+
+DOCTOR X612
+So is it like pressure or?
+
+PATIENT X612
+It's, I just describe it like shortness of breath.
+
+DOCTOR X612
+Okay.
+
+PATIENT X612
+And uh yeah you could say its pressure yeah.
+
+DOCTOR X612
+Okay, alright.
+
+PATIENT X612
+Yeah.
+
+DOCTOR X612
+Any swelling in your legs?
+
+PATIENT X612
+Uh not at the present time but they do swell yeah.
+
+DOCTOR X612
+Okay.  Now you're taking this twice a day?
+
+PATIENT X612
+Uh-huh.
+
+DOCTOR X612
+Your next visit, you have a little bit down here.  Let me see your legs for a minute.  Okay, alright.  Any problems lying flat and getting enough air?
+
+PATIENT X612
+No.
+
+DOCTOR X612
+Okay.  Waking up in the middle of the night?
+
+PATIENT X612
+Uh only to go to the bathroom, I have to wake up to pee.
+
+DOCTOR X612
+Okay, alright.  Does your heart go bump, bump, bump, beating through your chest?
+
+PATIENT X612
+@@@ beat.
+
+DOCTOR X612
+You know the terminology.
+
+PATIENT X612
+No.
+
+DOCTOR X612
+Okay.  Okay.  Do you feel like it's, the distance you've been able to walk has gotten any worse recently?
+
+PATIENT X612
+Yeah.
+
+DOCTOR X612
+Over what period of time?
+
+PATIENT X612
+Uh back a couple of months say from Christmas time to now it's gotten on a scale of 1-10, I'd say it's gotten about 3% worse.
+
+DOCTOR X612
+Okay.  How far could you walk at Christmas?
+
+PATIENT X612
+Oh I could do three, four blocks before I'd start getting tired.  And I see I've lost about four pounds so at least I'm on the right track.
+
+DOCTOR X612
+Okay.  Okay.  The kidney doctor saw you in February.
+
+PATIENT X612
+Uh-huh.
+
+DOCTOR X612
+Okay.  Did they do anything different?
+
+PATIENT X612
+No they left it status quo.
+
+DOCTOR X612
+Okay.  In their note they say you're taking the Bumex daily.
+
+PATIENT X612
+Uh-huh.
+
+DOCTOR X612
+You're taking it twice a day though?
+
+PATIENT X612
+Twice a day.  I guess they.
+
+DOCTOR X612
+Maybe they just didn't know.
+
+PATIENT X612
+Uh-huh.
+
+DOCTOR X612
+Okay.
+
+PATIENT X612
+You know they put me on it once a day then the legs have a tendency to start.
+
+DOCTOR X612
+Swelling.
+
+PATIENT X612
+Getting like swelling around the ankles.
+
+DOCTOR X612
+Okay.
+
+PATIENT X612
+So they told me the last time to go to twice a day.
+
+DOCTOR X612
+And you had a stress test in January.
+
+PATIENT X612
+A nuclear stress test.
+
+DOCTOR X612
+Yeah, okay yeah let me look through that.
+
+PATIENT X612
+I don't know what the results of it were.
+
+DOCTOR X612
+Let me take a look at it here.  I'm trying to find your stress test here.
+
+PATIENT X612
+Hmm.  @@@.
+
+DOCTOR X612
+I don't see it either.
+
+PATIENT X612
+I do know I had it.
+
+DOCTOR X612
+Oh no, I believe you.
+
+PATIENT X612
+Echocardiogram.
+
+DOCTOR X612
+I see it's been done but I can't see it here.
+
+PATIENT X612
+Ultrasounds.
+
+DOCTOR X612
+I see that it's been done but I don't see the report.
+
+PATIENT X612
+Okay.
+
+DOCTOR X612
+Uh January 06, 2011.
+
+PATIENT X612
+@@@.
+
+DOCTOR X612
+Alright.  
+
+PATIENT X612
+Is DOCTOR a surgeon?
+
+DOCTOR X612
+Uh he is a transplant kidney physician.  He doesn't actually do the surgery.
+
+PATIENT X612
+Hmm.  But he's in the room.
+
+DOCTOR X612
+Uh he actually probably won't even be in the room.
+
+PATIENT X612
+Hmm.
+
+DOCTOR X612
+He will take care of you before and after but not as much during the actual surgery.  That's for the surgeons to take care of that, that's fine.  Okay, okay put that order in right now.  Okay.  Do you normally follow with the heart doctors?
+
+PATIENT X612
+Sorry?
+
+DOCTOR X612
+With the heart doctors.
+
+PATIENT X612
+Do I have what?
+
+DOCTOR X612
+Do you check with the cardiologists, the heart doctors?
+
+PATIENT X612
+Well I didn't understand the question at all.
+
+DOCTOR X612
+Have you seen them in the clinic lately?
+
+PATIENT X612
+Um.
+
+DOCTOR X612
+You've had the echocardiogram, you had the ultrasound, you just haven't seen them after that's what I was asking.
+
+PATIENT X612
+Uh no I don't think so.
+
+DOCTOR X612
+Okay.  I think they might need to have you see them.
+
+PATIENT X612
+I don't recall ever seeing them.
+
+DOCTOR X612
+I'm gonna have you hop up on the chair, I want to do a few more things.
+
+PATIENT X612
+Okay.
+
+DOCTOR X612
+Are following with the eye doctors as well?
+
+PATIENT X612
+Yeah.
+
+DOCTOR X612
+Okay.  Things going okay from that standpoint?
+
+PATIENT X612
+Oh they're doing okay.
+
+DOCTOR X612
+Uh-huh.
+
+PATIENT X612
+The glaucoma is good.
+
+DOCTOR X612
+Okay.
+
+PATIENT X612
+And cataracts.
+
+DOCTOR X612
+What do they intend on doing?
+
+PATIENT X612
+They got me on two different types of eye drops.
+
+DOCTOR X612
+Right.
+
+PATIENT X612
+And a follow-up visit in a month.
+
+DOCTOR X612
+Just take some deep breaths, in and out, good.  Deep breath, keep going.  Very clear, good.  Okay breathe normally.  Do you feel any nausea, vomiting?
+
+PATIENT X612
+No.
+
+DOCTOR X612
+Not feeling dizzy.
+
+PATIENT X612
+Only when I wake up.
+
+DOCTOR X612
+Go away?
+
+PATIENT X612
+Yeah.
+
+DOCTOR X612
+Any bloody stool or anything like that?
+
+PATIENT X612
+No, no.
+
+DOCTOR X612
+Go ahead and lay back here.  Follow with the foot doctors as well?
+
+PATIENT X612
+Yeah.  I had an appointment with them in April.
+
+DOCTOR X612
+Alright.  Give me a couple of seconds, I need to step out for a moment, take care of some things for you.  
+
+PATIENT X612
+Alright.
+
+DOCTOR X612
+Alright, back in a second.
+
+PATIENT X612
+Thank you.
+
+(DOCTOR OUT:  69:43  DOCTOR IN:  77:00)
+
+SECOND DOCTOR X612
+Nice to see you.  Did they get all the information in the past, ultrasound, colonoscopy; they asked me to fax it over.
+
+PATIENT X612
+I don't know if they got curious enough, I got copies from upstairs.
+
+SECOND DOCTOR X612
+You got a copy okay, alright.  And I did fax it to them yeah.
+
+PATIENT X612
+They said thank you very much for the whole thing.
+
+FIRST DOCTOR X612
+Are you being followed with cardiologists here or at the xxx @@@?
+
+PATIENT X612
+Uh probably here.
+
+FIRST DOCTOR X612
+Okay but I want you to at least have a follow-up appointment with Cardiology.
+
+PATIENT X612
+Hmm.
+
+FIRST DOCTOR X612
+The problem is the actual report was hidden of your stress test.
+
+PATIENT X612
+@@@.
+
+FIRST DOCTOR X612
+So more than likely you know you're heart's having you know like problems getting enough you know like oxygen, even you know you're exercise tolerance is a little bit down but it uh you're not having like a heart attack.
+
+PATIENT X612
+That's good okay.
+
+FIRST DOCTOR X612
+Uh so that's it.  We'll make it; we'll make an appointment with Cardiology, all your stuff will be waiting for you at the Pharmacy.
+
+PATIENT X612
+Okay.
+
+FIRST DOCTOR X612
+And then we'll go from there.
+
+PATIENT X612
+Okay.
+
+FIRST DOCTOR X612
+I'll see you back in about three months.
+
+PATIENT X612
+Sounds good to me.
+
+FIRST DOCTOR X612
+Alright.
+
+PATIENT X612
+Okie dokie.
+
+FIRST DOCTOR X612
+Alright sir.
+
+PATIENT X612
+Really good, that'll be able to see her.
+
+FIRST DOCTOR X612
+Alright.  Alright.  We'll have you take this and you can make the follow-up appointment.
+
+PATIENT X612
+Okay.  Yeah thank you very much.
+
+FIRST DOCTOR X612
+Alright you're welcome, take care.
+
+PATIENT X612
+You have a blessed day.
+
+FIRST DOCTOR X612
+Alright.
+
+PATIENT LEAVES:  78:33
+
+
+
+

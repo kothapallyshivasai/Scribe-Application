@@ -1,0 +1,938 @@
+
+DOCTOR X467
+PATIENT?
+
+PATIENT X467
+Hi.  
+
+DOCTOR X467
+@@@ before, but good to see you again.
+
+PATIENT X467
+Good to see you.
+
+DOCTOR X467
+How you doing?
+
+PATIENT X467
+Oh pretty good I think, I guess.
+
+DOCTOR X467
+@@@ yeah @@@.  How's your energy level?
+
+PATIENT X467
+Well I guess its, it might be pretty good most of the time.
+
+DOCTOR X467
+Yeah.  Are you feeling.
+
+PATIENT X467
+Except being out of breath @@@ just.
+
+DOCTOR X467
+Oh, yeah you have the emphysema right?
+
+PATIENT X467
+Yeah.
+
+DOCTOR X467
+Okay are you taking all of your inhalers?
+
+PATIENT X467
+Yeah.
+
+DOCTOR X467
+Yeah so you taking the Solu Medrol, the mometasone?
+
+PATIENT X467
+Yeah uh another one uh DOCTOR gave me another one to put over your nose.
+
+DOCTOR X467
+Okay, @@@.
+
+PATIENT X467
+Yeah.
+
+DOCTOR X467
+Okay good.  You have to put it in a machine or you hook it up to.
+
+PATIENT X467
+Yeah, yeah.
+
+DOCTOR X467
+Alright.  Do you have any cough?
+
+PATIENT X467
+Uh not really.  I have some you know every now and then I have some @@@.  But you got to cough sometime.  Yes.
+
+DOCTOR X467
+What's that like?
+
+PATIENT X467
+Um I been coughing most of it up.  @@@.
+
+DOCTOR X467
+Okay.  Any fevers?
+
+PATIENT X467
+Huh?
+
+DOCTOR X467
+Any fevers?
+
+PATIENT X467
+No.
+
+DOCTOR X467
+Well let me through your chart for one minute and see what's been going on since the last time we met okay.
+
+PATIENT X467
+Okay.
+
+DOCTOR X467
+And let me just see.  Today for your labs, you said you got them today?
+
+PATIENT X467
+No I didn't do no lab today.
+
+DOCTOR X467
+Oh yesterday you got it.
+
+PATIENT X467
+Yeah.
+
+DOCTOR X467
+Yesterday.  They look pretty good.  @@@ fantastic cause your blood counts and all that are really @@@.
+
+PATIENT X467
+Yeah.
+
+DOCTOR X467
+The @@@ and besides that you know everything else looks better too.  There is no infection.
+
+PATIENT X467
+Yeah my nose, if I hold my head down it breathes, it @@@ a lot.
+
+DOCTOR X467
+You want to use like the nasal spray for like to keep your membranes moistened then.
+
+PATIENT X467
+Yeah I use that and that has stopped the bleeding.
+
+DOCTOR X467
+You have blood in your nose?
+
+PATIENT X467
+No.
+
+DOCTOR X467
+You use it twice a day every day?  No.  Do you forget your medicines or anything like that?
+
+PATIENT X467
+Huh?
+
+DOCTOR X467
+Do you forget your medicines or anything like that?
+
+PATIENT X467
+Uh uh.
+
+DOCTOR X467
+@@@.
+
+PATIENT X467
+Yeah @@@ blow it, @@@ and when I bleed, I bleed so I bleed.
+
+DOCTOR X467
+Yeah.
+
+PATIENT X467
+And uh then it quits.
+
+DOCTOR X467
+Yeah you @@@, it's like something you put in your nose @@@.
+
+PATIENT X467
+Yeah I got two things to put in my nose.
+
+DOCTOR X467
+You have two things.  Okay @@@.
+
+PATIENT X467
+There ain't nothing out.
+
+DOCTOR X467
+In your nose.
+
+PATIENT X467
+Uh-huh.
+
+DOCTOR X467
+@@@ just a nasal spray.
+
+PATIENT X467
+Yeah.
+
+DOCTOR X467
+@@@.  Did they tell you the results of the heart test you had in October?
+
+PATIENT X467
+The heart test?
+
+DOCTOR X467
+Yeah.
+
+PATIENT X467
+Uh yeah I think, I think DOCTOR told me I think about a week ago.
+
+DOCTOR X467
+Oh I see yeah he did.  
+
+PATIENT X467
+Is there anything they can do to stop my nose from bleeding so much?
+
+DOCTOR X467
+Um you could try some Vaseline but.
+
+PATIENT X467
+I put some of that in there.
+
+DOCTOR X467
+You put some in there.
+
+PATIENT X467
+Well uh not lately but I have put it in there.
+
+DOCTOR X467
+Yeah.  You're heart looks pretty good except for the, your @@@.  I'm just seeing if they @@@.  When they gave you the lung tests did they have you breathe into the machine or did they just @@@.
+
+PATIENT X467
+Yeah well I had to walk @@@.  They just @@@ that.
+
+DOCTOR X467
+Yeah.
+
+PATIENT X467
+@@@.  See I had to go to the, they gave me @@@ I think it was 5 mg @@@.
+
+DOCTOR X467
+Uh-huh.
+
+PATIENT X467
+But did have to go to the bathroom twice.
+
+DOCTOR X467
+When you did.
+
+PATIENT X467
+I been there two hours.
+
+DOCTOR X467
+I understand.  When did you start taking this?
+
+PATIENT X467
+Huh?
+
+DOCTOR X467
+When did you start taking the oxygen?
+
+PATIENT X467
+Oh it was, oh I'd say it might have been a year.
+
+DOCTOR X467
+Oh a year and it's still not really helping you at all.
+
+PATIENT X467
+I'm still uh.
+
+DOCTOR X467
+@@@.  Do you have the dosage with you?
+
+PATIENT X467
+Uh yeah I'm taking one.
+
+DOCTOR X467
+Yeah that's @@@.  Um are you drinking a lot of water before you go to bed or?
+
+PATIENT X467
+Um no not really.
+
+DOCTOR X467
+Not really.
+
+PATIENT X467
+No.
+
+DOCTOR X467
+Do you have an appointment with the urology doctor any time, let me see @@@.  Cause there's a note in here thinking we could add to it, so you take the prostate medicine and then we would add another prostate medicine.  The only thing with doing that is that your blood pressure is kind of low, so @@@ whole lot @@@.
+
+PATIENT X467
+@@@.
+
+DOCTOR X467
+Your waking up every two hours?
+
+PATIENT X467
+Uh well yeah I about got used to it but yeah you know, I have to get up.
+
+DOCTOR X467
+Have you tried just having a urinal at the bedside?
+
+PATIENT X467
+Yeah I got one of them there.
+
+DOCTOR X467
+Yeah.  
+
+PATIENT X467
+I still got to get up.
+
+DOCTOR X467
+@@@.
+
+PATIENT X467
+When I uh, and I still have to get up.
+
+DOCTOR X467
+Still have to get up.
+
+PATIENT X467
+And sometimes you know it really.
+
+DOCTOR X467
+Yeah.
+
+PATIENT X467
+It don't come out like it should.
+
+DOCTOR X467
+Right.  Well I may, I know you got your blood work checked yesterday, would you mind getting just one more blood test today?  I want to check your prostate level.
+
+PATIENT X467
+@@@.
+
+DOCTOR X467
+Cause the last time it was checked was two years ago but I want to see if it got a lot higher um.  Especially if you're having any troubles I think maybe I'm going to talk to DOCTOR but maybe we could start the other medicine and if your blood pressure goes really low or like if you get dizzy or something, you just don't take it.
+
+PATIENT X467
+Yeah.
+
+DOCTOR X467
+Okay.  I'm going to talk to him about that.
+
+PATIENT X467
+Yeah is @@@.
+
+DOCTOR X467
+It'd be for having, for the trouble with peeing.
+
+PATIENT X467
+But it's @@@ or nothing.
+
+DOCTOR X467
+No like it's hard @@@ out you're saying.
+
+PATIENT X467
+No it's not hard it's just uh, @@@ you don't have a good stream.
+
+DOCTOR X467
+Uh-huh, yeah it's for that like it helps the urine get out easier.
+
+PATIENT X467
+Yeah.
+
+DOCTOR X467
+Yeah so I'll talk to him about it and we'll see what he says.
+
+PATIENT X467
+Okay.
+
+DOCTOR X467
+Are you having a lot of @@@.
+
+PATIENT X467
+Hmm well when I first start out.
+
+DOCTOR X467
+No a little bit but not too bad though.
+
+PATIENT X467
+No but.
+
+DOCTOR X467
+Okay.  Let me uh @@@.
+
+PATIENT X467
+No @@@.
+
+DOCTOR X467
+@@@.
+
+PATIENT X467
+Yes.
+
+DOCTOR X467
+So you live with your kids or your wife or?
+
+PATIENT X467
+Yeah.
+
+DOCTOR X467
+Can I take a look @@@.  Deep breath good.  I'm going to set you back okay.
+
+PATIENT X467
+Okay.
+
+DOCTOR X467
+Deep breath.  @@@.  @@@ are you short of breath right now?
+
+PATIENT X467
+No.
+
+DOCTOR X467
+No okay.  Do you feel.
+
+PATIENT X467
+@@@ lungs when I'm sitting down like this.
+
+DOCTOR X467
+Uh-huh.
+
+PATIENT X467
+I could be driving and @@@ or anything like that @@@.
+
+DOCTOR X467
+Okay.
+
+PATIENT X467
+Is the reason why I get up and go @@@.
+
+DOCTOR X467
+Uh-huh.
+
+PATIENT X467
+@@@.  Sometime uh @@@ and I lost a lot of blood, I don't know whether it's cause the nose bleeds a lot.
+
+DOCTOR X467
+Right.
+
+PATIENT X467
+And I don't know if that has anything to do with this thing or not.
+
+DOCTOR X467
+Well and your blood count being low will definitely make you more tired and short of breath.
+
+PATIENT X467
+@@@.
+
+DOCTOR X467
+Yeah.  Uh let me see how low your blood count was 3.6 and before it was 8.9 so it has dropped @@@.  Um you know what we could do about the nosebleeds so you are using the nasal spray right?
+
+PATIENT X467
+Yeah I started it again something like @@@ and it bleeds a whole lot.
+
+DOCTOR X467
+Do you take your medicine for sleep?
+
+PATIENT X467
+Yeah.
+
+DOCTOR X467
+Yeah.  I'm gonna order you, just cause I don't see it in the computer anymore, I think it's something you were taking that's not in the computer I want you to try @@@ probably the same thing you were taking @@@ it's kind of like an oil except it's more like water and you put it in your nose and it kind of protects it from bleeding.  The same thing you're taking but it's not in the computer so I'm not sure.  That's what you're taking?
+
+PATIENT X467
+Yeah it's not on there, not on that?
+
+DOCTOR X467
+No it's not on here.  So that's why I'm not sure what uh what exactly they gave you.  This one is probably what you're taking about but this is like a cream type of thing.  Yeah so the one I want to give you is like a, oh here it is.
+
+PATIENT X467
+So I got two of them I'm not crazy.
+
+DOCTOR X467
+Yeah, you're right, you're actually right, it's in here, you're right.  
+
+PATIENT X467
+Hmm.
+
+DOCTOR X467
+So never mind.  @@@ okay.  You're using it four times a day; you want to use it four times a day?
+
+PATIENT X467
+No I usually use when I'm driving the car and sometimes I use it then when I got a wheeze, that kind of thing.
+
+DOCTOR X467
+Yeah.
+
+PATIENT X467
+See I got a sleeping @@@ that I'll put on, @@@.
+
+DOCTOR X467
+Are you using @@@.
+
+PATIENT X467
+Sometimes my nose will start bleeding when I'm asleep and um, it's lucky that when it starts coming down.
+
+DOCTOR X467
+@@@.
+
+PATIENT X467
+I @@@ help.
+
+DOCTOR X467
+@@@.  Yeah so you need the Coumadin cause we don't want you to get a stroke so, it's kind of a @@@ benefit kind of thing.  If we stop the Coumadin the nosebleeds would stop but then you don't have @@@.
+
+PATIENT X467
+Uh-huh.
+
+DOCTOR X467
+@@@.
+
+PATIENT X467
+And the first time I have a light headache and then I'm just tired you know.
+
+DOCTOR X467
+Uh-huh.
+
+PATIENT X467
+I don't know whether that has anything to do with it or not.
+
+DOCTOR X467
+It's probably everybody over the age of like 10 starts headaches around that age but um are you still using your CPAP?
+
+PATIENT X467
+Huh?
+
+DOCTOR X467
+CPAP machine?  Are you still using it at night?  Oh they just did it yesterday, your sleep study.
+
+PATIENT X467
+Yeah I had that.
+
+DOCTOR X467
+Did they tell you that you needed a machine?
+
+PATIENT X467
+That I need what?
+
+DOCTOR X467
+Like a CPAP machine, like the machine when you sleep?
+
+PATIENT X467
+Uh oh they told me uh yeah that's what I got.
+
+DOCTOR X467
+You got one of those?
+
+PATIENT X467
+Yeah.
+
+DOCTOR X467
+Okay good and you started using it?
+
+PATIENT X467
+Yeah I had the thing that go up in your nose.
+
+DOCTOR X467
+Uh-huh.
+
+PATIENT X467
+But uh for the last week I went up there and they gave me uh the one you know it don't go in your nose, it goes over your nose.
+
+DOCTOR X467
+Right, right.
+
+PATIENT X467
+So I got that one.
+
+DOCTOR X467
+You've been using that?
+
+PATIENT X467
+Yeah but I use it three or four, two or three days.
+
+DOCTOR X467
+Uh-huh.
+
+PATIENT X467
+Until I get the nosebleeds.
+
+DOCTOR X467
+Oh yeah.  So let me talk to my boss to see if he might have any ideas okay.  See if we can do anything about it.
+
+PATIENT X467
+Alright.
+
+DOCTOR X467
+Alright, I'll be right back.
+
+(DOCTOR OUT:  126:10  DOCTOR IN:  133:31)
+
+DOCTOR X467
+Alright so, for the nosebleeds, he didn't have any ideas either.  The only thing we could think of is that maybe, have you ever been to a nose doctor, like an ENT doctor where they take a camera and go up in your nose and see?
+
+PATIENT X467
+No, no more than the doctors here looked at me.
+
+DOCTOR X467
+Alright so we'll uh, do you want to go see him and I could put it in right now with the sprays and in the meantime we want to get you to see the ENT doctor, the Ear, Nose and Throat doctors and they can just see if there's anything we can cause they're the experts of the nose and they can just take a really good look inside and see if there's anything that's bleeding or some medicines for it okay.
+
+PATIENT X467
+Okay.
+
+DOCTOR X467
+And then I'm going to put that here for you know in one week or in one to two weeks.
+
+PATIENT X467
+Okay.
+
+DOCTOR X467
+They'll schedule it for you right out front there and I'll put it in the computer too.  And then for the um, you know the urinary symptoms you're having, we can actually go up on the tamsulosin that you're taking the 5 mg pills.
+
+PATIENT X467
+What.
+
+DOCTOR X467
+You could go up to 10 so you'd take two pills instead of just one and I'll change it in the computer um it's this medicine right here.
+
+PATIENT X467
+Okay.
+
+DOCTOR X467
+The tamsulosin.
+
+PATIENT X467
+Alright.
+
+DOCTOR X467
+Instead of taking 5 mg take the 10 mg.
+
+PATIENT X467
+Okay take two.
+
+DOCTOR X467
+Take two.
+
+PATIENT X467
+Okay.
+
+DOCTOR X467
+Yeah.  When you get this one it's the @@@ medicine okay.
+
+PATIENT X467
+Right.
+
+DOCTOR X467
+Do you get your medicines mailed to you or do you pick them up here?
+
+PATIENT X467
+Uh I get it mailed to me.
+
+DOCTOR X467
+Mailed to you.
+
+PATIENT X467
+Some of it I pick up at the Pharmacy.  If I need to pick it up, I pick it up but if not they mail it.
+
+DOCTOR X467
+Okay.  So like I said if you have some of these left over you can just take two today and I'll get them mailed to you and then you'll take the 10 mg.
+
+PATIENT X467
+Oh okay.
+
+DOCTOR X467
+Or if you want to just pick it up you can.
+
+PATIENT X467
+Okay.  Do which one you want.
+
+DOCTOR X467
+Well which do you want?
+
+PATIENT X467
+A you can have them mail it.
+
+DOCTOR X467
+Okay.  So remember to take two of them tonight.
+
+PATIENT X467
+You @@@.  Is it a week to two weeks?
+
+DOCTOR X467
+Hopefully you'll get the ENT appointment and they'll schedule the appointment.
+
+PATIENT X467
+Hmm.
+
+DOCTOR X467
+Then you can come see me in three months.  But @@@ if you want to see me earlier like one month?
+
+PATIENT X467
+Yeah one month that way uh.
+
+DOCTOR X467
+Yeah you could do that, we could do one month and then see the nose doctors and we'll go over your next @@@.
+
+PATIENT X467
+Okay.
+
+DOCTOR X467
+Okay.
+
+PATIENT X467
+They're going to be giving me the phone number for that right?
+
+DOCTOR X467
+Yeah, they sure do.  When you go out front ask them, give them this piece of paper.
+
+PATIENT X467
+Okay.
+
+DOCTOR X467
+And then uh just make sure tell them I need to see the nose doctor for the nosebleeds @@@.
+
+PATIENT X467
+Say can I get, can I get a urine test?
+
+DOCTOR X467
+Yeah let me get a urine test.
+
+PATIENT X467
+You know what I, you know what I got put the, you know burning in my prostate @@@.  And uh after so long of a day, you know if it's in there, I don't know if that's how long, could they like @@@.
+
+DOCTOR X467
+@@@.
+
+PATIENT X467
+So @@@ you.
+
+DOCTOR X467
+Yeah.
+
+PATIENT X467
+Uh Tuesday they got me this @@@ and when I try to take it, I take 80 of Excedrin a day.
+
+DOCTOR X467
+That could do it.
+
+PATIENT X467
+Yeah I just wanted to know what, you know if there's anything that @@@.
+
+DOCTOR X467
+We could do a urine test yeah.
+
+PATIENT X467
+If it don't rise or nothing, I ain't, you know I ain't you don't have to.  I was just telling you you know.
+
+DOCTOR X467
+Yeah we can get it looked at and make sure there's not any infection or anything like that.  I don't think there's @@@.
+
+PATIENT X467
+Alright.
+
+DOCTOR X467
+Do you mind stopping by the Lab today?
+
+PATIENT X467
+Okay.
+
+DOCTOR X467
+And then we'll get your blood drawn too.
+
+PATIENT X467
+Okay.
+
+DOCTOR X467
+Okay.
+
+PATIENT X467
+Alright.
+
+DOCTOR X467
+Alright.  I think that's it.  Let me just put this in the computer so it's in there for the doctor's appointment when you get out of here.  
+
+PATIENT X467
+Yeah @@@ in the morning @@@.
+
+DOCTOR X467
+That can cause, you know cause it's like extra stuff in your urine that kind of calcifies and @@@.  You know @@@.
+
+PATIENT X467
+Well I mean you always know what it is and know it's no harm, you don't have to fool with that.
+
+DOCTOR X467
+Okay.
+
+PATIENT X467
+As long as you know what it's going to be.  You know but I wanted you to know.
+
+DOCTOR X467
+No it's alright.
+
+PATIENT X467
+What was happening.  So I'll just get the blood drawn.
+
+DOCTOR X467
+Yeah and another appointment.  Alright, @@@ right.  So then one other thing, @@@.  Okay.  
+
+PATIENT X467
+Alright.  
+
+DOCTOR X467
+I'm getting this @@@ alright so you're all set then okay.
+
+PATIENT X467
+Okay.
+
+DOCTOR X467
+You're @@@ today and we're gonna see you in a month and then they'll get you scheduled with the @@@.
+
+PATIENT X467
+Okay.
+
+DOCTOR X467
+@@@.
+
+PATIENT X467
+All I got to do is @@@ soon right.
+
+DOCTOR X467
+Yeah just do that @@@ and you'll be good okay.
+
+PATIENT X467
+Okay.
+
+DOCTOR X467
+It was nice seeing you again.
+
+PATIENT X467
+Alright.
+
+DOCTOR X467
+@@@.
+
+PATIENT X467
+Okay.
+
+DOCTOR X467
+Alright.
+
+PATIENT X467
+And thank you.
+
+DOCTOR X467
+Oh no, that's fine, @@@.  Do you need any help?
+
+PATIENT X467
+No I'll make it.
+
+DOCTOR X467
+Alright then.
+
+PATIENT LEAVES:  141.10
+
+PATIENT X467
+
+
+DOCTOR X467
+
+
+PATIENT X467
+
+
+DOCTOR X467
+
+
+PATIENT X467
+
+
+DOCTOR X467
+
+
+PATIENT X467
+
+
+DOCTOR X467
+
+
+PATIENT X467
+
+
+DOCTOR X467
+
+
+PATIENT X467
+
+
+DOCTOR X467
+
+
+PATIENT X467
+
+
+DOCTOR X467
+
+
+PATIENT X467
+
+
+DOCTOR X467
+
+
+PATIENT X467
+
+
+DOCTOR X467
+
+
+PATIENT X467
+
+
+DOCTOR X467
+
+
+PATIENT X467
+
+
+DOCTOR X467
+
+
+PATIENT X467
+
+
+DOCTOR X467
+
+
+PATIENT X467
+
+
+DOCTOR X467
+
+
+PATIENT X467
+
+
+DOCTOR X467
+
+
+PATIENT X467
+
+
+DOCTOR X467
+
+
+PATIENT X467
+
+
+DOCTOR X467
+
+
+PATIENT X467
+
+
+
+
+
+
+
+

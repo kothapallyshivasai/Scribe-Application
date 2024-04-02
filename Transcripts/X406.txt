@@ -1,0 +1,581 @@
+
+DOCTOR X406
+PATIENT?  How are you PATIENT?
+
+PATIENT X406
+Fine thank you.
+
+DOCTOR X406
+Good.  Come back with me @@@.
+
+PATIENT X406
+Okay.  @@@.
+
+DOCTOR X406
+Good morning.
+
+SECOND PERSON X406
+Okay if I come on back huh?
+
+DOCTOR X406
+How you doing?  How's your foot doing?
+
+PATIENT X406
+Alright.
+
+DOCTOR X406
+@@@.  Yes.  @@@ just to see how you've been you know.
+
+SECOND PERSON X406
+Yeah.
+
+PATIENT X406
+Yeah.
+
+DOCTOR X406
+And they have you in that special boot or have you been wearing that?  I know you were having some.
+
+PATIENT X406
+No I'm not wearing the boot.
+
+DOCTOR X406
+Okay.  Was it hard to walk in or?
+
+PATIENT X406
+It's hard to put on.
+
+DOCTOR X406
+It's hard to put on okay.  Okay.
+
+PATIENT X406
+It takes at least two people to put it on.
+
+DOCTOR X406
+Oh.  Is there somebody else to help you put it on at least for a little bit?
+
+PATIENT X406
+@@@ though.
+
+DOCTOR X406
+Oh okay.  Let me take a look at that foot then in a little bit.  When do you see them again?
+
+PATIENT X406
+Oh, they just told me to make an appointment.
+
+DOCTOR X406
+Okay.  So the good news is your blood pressure looks good.  The next thing you know your blood sugars, did you eat breakfast already today?
+
+PATIENT X406
+Yeah.
+
+DOCTOR X406
+Okay, that's pretty good too for that.  How you feeling?
+
+DOCTOR X406
+I know the foot's bothering you, anything else?  How's your eyesight cause I know the last time we were going to send you to the eye doctor.
+
+PATIENT X406
+Well it's just the same.
+
+DOCTOR X406
+Just the same.
+
+PATIENT X406
+Yeah.
+
+DOCTOR X406
+Okay.  I think, did they tell you that it looks like you might have glaucoma?  Where it affects the pressure in your eyes.
+
+PATIENT X406
+Yeah.
+
+DOCTOR X406
+Okay.  Did they give you anything for it?
+
+PATIENT X406
+Yeah the eye drops.
+
+DOCTOR X406
+Okay and are those helping at all?
+
+PATIENT X406
+No not really.
+
+DOCTOR X406
+Not really.  Any trouble, uh any fevers or trouble.
+
+PATIENT X406
+No.
+
+DOCTOR X406
+Chest pains, trouble breathing?  I know the foot makes it hard to get around but.
+
+PATIENT X406
+Well I can get around.
+
+DOCTOR X406
+No problems okay, okay.  So let me take a look at that foot bed okay.  So come have a seat.  And how have your sugars been?
+
+PATIENT X406
+Up and down.
+
+DOCTOR X406
+Up and down.  How down is down?
+
+PATIENT X406
+This is what I brought.
+
+DOCTOR X406
+Oh thank you.  I really appreciate that.  I really appreciate you bringing in the paperwork that helps us a lot.  And your @@@ meals right.
+
+PATIENT X406
+Yes.
+
+DOCTOR X406
+During the day, okay.  @@@.  This has been okay.
+
+PATIENT X406
+You know.
+
+DOCTOR X406
+Yes.
+
+PATIENT X406
+Even when it, it seems to fall around 80.
+
+DOCTOR X406
+Uh-huh.  Do you get real dizzy?
+
+PATIENT X406
+During that yeah.
+
+DOCTOR X406
+Okay.  You're lightheaded?
+
+PATIENT X406
+Yeah.
+
+DOCTOR X406
+@@@ you don't feel right yeah.  Make sure though at night, cause it does happen sometimes it looks like.  @@@ okay.  And then in the morning when that happens you know, orange juice or something.
+
+PATIENT X406
+Uh-huh.
+
+DOCTOR X406
+It looks like there's been a couple of times when it's low @@@.
+
+SECOND PERSON X406
+Yeah.
+
+DOCTOR X406
+Tuesday.  Looks like your midday sugars are pretty good though.  Except you know there are couple of times where they got real low.
+
+PATIENT X406
+Yeah.
+
+DOCTOR X406
+Yeah.  Have you passed out yet?
+
+PATIENT X406
+No.
+
+DOCTOR X406
+Okay.
+
+PATIENT X406
+I don't have any more of those.
+
+DOCTOR X406
+Okay good.
+
+PATIENT X406
+Yeah that helps.
+
+DOCTOR X406
+@@@.
+
+PATIENT X406
+Oh alright.
+
+DOCTOR X406
+Hmm.  @@@ that you're on @@@.
+
+PATIENT X406
+Uh-huh.
+
+DOCTOR X406
+Um I was thinking that you could go up higher @@@.
+
+PATIENT X406
+Yeah.
+
+DOCTOR X406
+Since you drop @@@ in the morning you know.  So.  No palpitations or sensations of your heart fluttering?
+
+PATIENT X406
+No.
+
+DOCTOR X406
+Kind of stroke symptoms you know like times when you couldn't move or couldn't talk or something like that?
+
+PATIENT X406
+No.
+
+DOCTOR X406
+Okay good.  Anything like that you call the ambulance okay.
+
+PATIENT X406
+Hmm.
+
+DOCTOR X406
+I don't want you to wait.  They did replace the pads in your shoes right?
+
+PATIENT X406
+Yeah.
+
+DOCTOR X406
+@@@ down there?
+
+PATIENT X406
+Yes.
+
+DOCTOR X406
+@@@ when you're walking?
+
+PATIENT X406
+No.
+
+DOCTOR X406
+It looks pretty good actually um but I think the foot doctor said they wanted to see you at some point so we'll go ahead and have them schedule you an appointment on your way out okay, can you do that?  Just to make sure.  I do want to talk to them and see if there are any other options okay.
+
+PATIENT X406
+Uh-huh.
+
+DOCTOR X406
+Cause I know they want you on the boot but it's too hard to put on like you say you're not going to use it okay.
+
+PATIENT X406
+Yeah well the boot, I can't put it on by myself.
+
+DOCTOR X406
+Exactly, exactly so you know if you're not gonna do that what are the other options okay.  @@@ need to look at @@@ shoes or we'll see what else we have okay.  Did they say if there was anything else when you saw them at that time?
+
+PATIENT X406
+No.
+
+DOCTOR X406
+Cause I think you told them that you couldn't put it on @@@ right?
+
+PATIENT X406
+Right.
+
+DOCTOR X406
+Right okay.  
+
+PATIENT X406
+@@@ when they made those boots.
+
+DOCTOR X406
+Yeah right.  It should be something that makes it easier for you to put on and what not.  Let me take a listen to you.  Any cough or fevers, nothing like that right?
+
+PATIENT X406
+No.
+
+DOCTOR X406
+Okay.  Nice deep breath for me, in and out.  Good.  Breathe normal.  @@@.  The swelling is a little better than the last time when I saw you.
+
+PATIENT X406
+Huh?
+
+DOCTOR X406
+The swelling in your legs looks a little better than last time you were in the office.  Okay.  Um do you need refills on your medications at all?
+
+PATIENT X406
+Yeah the fast-acting.
+
+DOCTOR X406
+The fast-acting insulin.
+
+PATIENT X406
+Yeah.
+
+DOCTOR X406
+Okay.
+
+PATIENT X406
+I don't know, before I was getting two pills.
+
+DOCTOR X406
+Uh-huh.
+
+PATIENT X406
+Now it's just one and that one is.
+
+DOCTOR X406
+Is not as fast.
+
+PATIENT X406
+No.
+
+DOCTOR X406
+Okay and you were taking how many units of insulin?  You're taking 6 units?
+
+PATIENT X406
+7.
+
+DOCTOR X406
+7 okay.  I'll change that okay and then it looks like you're running low on the long-acting too right?  @@@.
+
+PATIENT X406
+Yes.
+
+DOCTOR X406
+And your on the 60 units right?
+
+PATIENT X406
+Right.
+
+DOCTOR X406
+With everything else, you still have some refills but I'll update those.  Did you @@@.  So your blood pressure looks good, we'll keep you on everything else @@@.
+
+PATIENT X406
+Alright.
+
+DOCTOR X406
+The only thing is I think you are due for lab work, some blood testing.  Okay.
+
+PATIENT X406
+Okay.
+
+DOCTOR X406
+So a couple things we're gonna be checking um we'll have, did you get the vitamin D before?
+
+PATIENT X406
+Yes.
+
+DOCTOR X406
+Um we need to kind of make sure the levels goes back up to where they should be okay.
+
+PATIENT X406
+Alright.
+
+DOCTOR X406
+To let you know if you need to take any more of those okay and then um we'll check to see how your @@@ have been doing as well and how your kidneys are doing as well.
+
+PATIENT X406
+Alright.
+
+DOCTOR X406
+And I think that um @@@.  Yeah and uh make sure your liver tests are okay.  Okay that's it.  @@@.
+
+PATIENT X406
+Alright.
+
+DOCTOR X406
+Uh do you have any questions for me?
+
+PATIENT X406
+No.
+
+DOCTOR X406
+Do you @@@ or anything like that as well?
+
+PATIENT X406
+@@@.
+
+DOCTOR X406
+DOCTOR.  @@@.  
+
+PATIENT X406
+And how is the refill on the @@@?
+
+DOCTOR X406
+Um, let's see I'm looking at @@@.
+
+PATIENT X406
+Yeah @@@.
+
+DOCTOR X406
+You've got three, three refills left.
+
+PATIENT X406
+On that.
+
+DOCTOR X406
+Uh-huh.  @@@.  That's okay.
+
+PATIENT X406
+Yeah.
+
+DOCTOR X406
+Do you want to pick them up today or do you want them mailed to you?
+
+PATIENT X406
+They can be mailed.
+
+DOCTOR X406
+Okay.  So the insulin, it does say 7 units before breakfast, lunch and dinner but you have to take it as before you eat okay.
+
+PATIENT X406
+Uh-huh.
+
+DOCTOR X406
+Cause I know you normally eat two meals a day @@@.
+
+PATIENT X406
+Alright.
+
+DOCTOR X406
+So do it like that okay.  I'll just change it here.  So everything is going to be mailed to you.  Good.  Well @@@ okay.  You got your flu shots this year?
+
+PATIENT X406
+Yeah.
+
+DOCTOR X406
+Okay.  Both of them?
+
+PATIENT X406
+Probably just one.
+
+DOCTOR X406
+The @@@ one?  With uh, everybody under 65, which you are, um we recommend it getting because of your diabetes and stuff, you'd be at a high risk, you know if you do get it.  
+
+PATIENT X406
+Yeah.
+
+DOCTOR X406
+@@@.
+
+PATIENT X406
+They give me the swine flu.
+
+DOCTOR X406
+Yeah they'll give you the swine flu shot okay.
+
+PATIENT X406
+Okay.
+
+DOCTOR X406
+Um so reactions, people @@@ have the flu shot @@@ so the only reason @@@ something like that.  If you're able to @@@ I don't know if you'll have any reactions @@@.
+
+PATIENT X406
+Okay.
+
+DOCTOR X406
+Okay.
+
+PATIENT X406
+Alright.
+
+DOCTOR X406
+Alright.  Give me one second I'll be right back.
+
+PATIENT X406
+Uh-huh.
+
+(DOCTOR OUT:  50:02  DOCTOR IN:  53:24)
+
+DOCTOR X406
+Alright.  So let's look at @@@ what other options there are if it's not the boot.
+
+PATIENT X406
+Uh-huh.
+
+DOCTOR X406
+They said sometimes it can have like with a cast or something similar to that, where it would keep the weight off the foot and the ulcer @@@ because we don't want it turning into something else okay.  And the problem with having that kind of you know ulcer on the foot @@@.
+
+PATIENT X406
+Yeah.
+
+DOCTOR X406
+@@@ worry about it healing and the @@@ and things like that and um you know those things if that is a bit hard for @@@ things like that @@@ and so um what I'd like to do is you know have you go back to the clinic and we'll see what else they can do for you okay.  Cause we've got to keep the weight off.  I don't want it coming to you know @@@ you know that requires potentially @@@ okay.
+
+PATIENT X406
+Yeah.
+
+DOCTOR X406
+Alright so we'll send you back to them and I'll see you again in three weeks okay.
+
+PATIENT X406
+Alright.
+
+DOCTOR X406
+They can actually @@@.  And I just want to make sure that this is the correct number to reach you at NUMBER?
+
+PATIENT X406
+Yeah.
+
+DOCTOR X406
+Um if @@@ or something like that.  @@@ get the lab if you wanted @@@ or we need to make adjustments to anything I'll give you a call; otherwise you know @@@ have you come back if you don't hear from me then everything is good.
+
+PATIENT X406
+Yeah.
+
+DOCTOR X406
+Does that sound okay?
+
+PATIENT X406
+Yeah.
+
+DOCTOR X406
+Then let's do this.  I'll remember @@@ and order the lab and that's it unless you have any other questions.
+
+PATIENT X406
+No.
+
+DOCTOR X406
+Oh.  And @@@.
+
+PATIENT X406
+You want me to come in for the uh.
+
+DOCTOR X406
+The labs.
+
+PATIENT X406
+Labs.
+
+DOCTOR X406
+Yes and I'll put this in the computer to make sure they know what you need.  Okay.
+
+PATIENT X406
+Okay.
+
+DOCTOR X406
+This is for you, it's a list of all your meds and this is for um the window up front for scheduling.
+
+PATIENT X406
+Okay.
+
+DOCTOR X406
+Okay.
+
+PATIENT X406
+Uh-huh.
+
+DOCTOR X406
+@@@ and I'll let you know if anything you know @@@.  I will see you in three months @@@ okay.
+
+PATIENT X406
+Okay.
+
+DOCTOR X406
+Alrighty.  So they can scheduled you for the foot doctor.
+
+PATIENT X406
+Alright thank you.
+
+DOCTOR X406
+Take care now.
+
+PATIENT X406
+Uh-huh.
+
+PATIENT LEAVES:  56:55
+
+10:10
+
+
+
+
+

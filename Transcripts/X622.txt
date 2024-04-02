@@ -1,0 +1,942 @@
+
+DOCTOR X622
+PATIENT.
+ 
+PATIENT X622
+Okay.  How you doing?
+
+DOCTOR X622
+Good how are you?
+
+PATIENT X622
+Oh I'm doing good.
+
+DOCTOR X622
+Oh good.
+
+PATIENT X622
+I came over here to get uh, to get something stronger for my pain.
+
+DOCTOR X622
+Where is your pain?
+
+PATIENT X622
+The pain is @@@ on the chest.
+
+DOCTOR X622
+You have chest pain?
+
+PATIENT X622
+Yes.
+
+DOCTOR X622
+On the left side.
+
+PATIENT X622
+And I got uh, there's not no heart attack or anything.  I just come from the shingles.
+
+DOCTOR X622
+You have shingles?
+
+PATIENT X622
+Yeah I have shingles; I have shingles two months ago.
+
+DOCTOR X622
+Where were you?  Who diagnosed you with shingles?
+
+PATIENT X622
+Over here DOCTOR from DOCTOR.
+
+DOCTOR X622
+Can I see it?
+
+PATIENT X622
+Yeah you can see it.  You can see the shingles.  Okay you ready?
+
+DOCTOR X622
+Uh-huh.  Where is it?
+
+PATIENT X622
+It's right here.
+
+DOCTOR X622
+Oh right along here?
+
+PATIENT X622
+Yeah.  The pain is still in the center.
+
+DOCTOR X622
+Yeah.
+
+PATIENT X622
+The pain is still in the center right here.
+
+DOCTOR X622
+Right here?
+
+PATIENT X622
+No no, the pain is still in the center of where there's no, no @@@ remains.
+
+DOCTOR X622
+Okay, can you point to where the pain is?
+
+PATIENT X622
+No I can't, I can't reach it.
+
+DOCTOR X622
+Okay, it's back here?
+
+PATIENT X622
+Right, yes.
+
+DOCTOR X622
+Back here?
+
+PATIENT X622
+Yes.
+
+DOCTOR X622
+Okay.  Okay that's fine, that's fine.
+
+PATIENT X622
+Right.
+
+DOCTOR X622
+Okay.
+
+PATIENT X622
+About @@@.
+
+DOCTOR X622
+Okay.
+
+PATIENT X622
+Okay.  And then the pain, the pain stays there.
+
+DOCTOR X622
+Okay.
+
+PATIENT X622
+And it comes out way over here.  Right here and right here.
+
+DOCTOR X622
+Okay.  @@@ it always feel like, cause you came here in March for pain.  Does it all feel like the same pain?
+
+PATIENT X622
+The same pain.
+
+DOCTOR X622
+It's the same pain.
+
+PATIENT X622
+The same pain.
+
+DOCTOR X622
+Okay, what does it feel like?
+
+PATIENT X622
+It feels sharp pain.
+
+DOCTOR X622
+Sharp?
+
+PATIENT X622
+Both sides yes.
+
+DOCTOR X622
+Okay, like someone's stinging you?
+
+PATIENT X622
+It's stinging me sometime and it's steady.
+
+DOCTOR X622
+Steady?
+
+PATIENT X622
+Steady pain.
+
+DOCTOR X622
+Okay.  Do you have trouble breathing?
+
+PATIENT X622
+No.
+
+DOCTOR X622
+No okay.  So it's not like, you don't feel like someone's sitting on your chest or anything.
+
+PATIENT X622
+No.
+
+DOCTOR X622
+No.  Okay.
+
+PATIENT X622
+No.
+
+DOCTOR X622
+Okay and the Vicodin isn't strong enough?
+
+PATIENT X622
+Uh the Vicodin and the other one.
+
+
+DOCTOR X622
+Gabapentin.
+
+PATIENT X622
+Gabapentin and the Vicodin and the @@@.
+
+DOCTOR X622
+Yeah.
+
+PATIENT X622
+None of it does anything.
+
+DOCTOR X622
+Alright.  Let me see what else we can give you.
+
+PATIENT X622
+Uh the doctor, I saw the doctor outside.  I got the nurse and a doctor coming over to the house.
+
+DOCTOR X622
+Uh-huh.
+
+PATIENT X622
+And they gave me some tramadol.
+
+DOCTOR X622
+Okay.
+
+PATIENT X622
+Tramadol.
+
+DOCTOR X622
+Yeah did that work?
+
+PATIENT X622
+No I don't know, I haven't got it yet.
+
+DOCTOR X622
+You haven't gotten it yet?
+
+PATIENT X622
+At least that's what he prescribed.
+
+DOCTOR X622
+Okay.
+
+PATIENT X622
+He prescribed me two medicines.  I want to see if I could get them over here.
+
+DOCTOR X622
+Okay.
+
+PATIENT X622
+There are two medicines.
+
+DOCTOR X622
+Okay yeah we can get them for you.
+
+PATIENT X622
+I could want to know how come I got the shingles for the longest.
+
+DOCTOR X622
+How, why you have shingles?  You can have the shingles, yeah I understand.
+
+PATIENT X622
+Yeah I want to know.
+
+DOCTOR X622
+There's no reason, people just get it.
+
+PATIENT X622
+Huh?
+
+DOCTOR X622
+People just get it.  If you had um, people just get it.  There's no reason people get it.
+
+PATIENT X622
+Yeah but why do I have the pain so long?
+
+DOCTOR X622
+That's, it lasts a long time.
+
+PATIENT X622
+Oh yeah.
+
+DOCTOR X622
+Yeah.
+
+PATIENT X622
+Even when I get medicine from the doctor, @@@.
+
+DOCTOR X622
+These are just pain medications to kind of help but it doesn't, it's not curing anything.
+
+PATIENT X622
+Oh no.
+
+DOCTOR X622
+No, we don't really have a medication to cure it.  You just have to wait for it to get better.
+
+PATIENT X622
+Oh yeah.
+
+DOCTOR X622
+Yeah.
+
+PATIENT X622
+The @@@ two more years and that's good for me?
+
+DOCTOR X622
+Uh-huh.
+
+PATIENT X622
+@@@.
+
+DOCTOR X622
+Uh-huh.
+
+PATIENT X622
+And he said that @@@ he got this when he was 20.
+
+DOCTOR X622
+Hmm.
+
+PATIENT X622
+Why do he have it when he was 20?
+
+DOCTOR X622
+I don't know him.  I don't know why he had it when he was 20.
+
+PATIENT X622
+I talked to him and he said that he got a cream, he said a xxxadryl cream.
+
+DOCTOR X622
+xxxadryl cream.
+
+PATIENT X622
+The doctor gave him the xxxadryl cream and he had it about a month and that was it.
+
+DOCTOR X622
+Yeah.  I don't know what xxxadryl cream is.  I don't know what he had.
+
+PATIENT X622
+Yeah he got the shingles.
+
+DOCTOR X622
+Yeah.
+
+PATIENT X622
+When he was 20.
+
+DOCTOR X622
+That's odd to get it in your 20s.
+
+PATIENT X622
+Yeah I talked to another guy and he said that he had it when he was 40.  So why did I wait until I'm 74 and then I get it?
+
+DOCTOR X622
+Some people, people get it at different times.  It's hard to say.  Not everybody gets it you know 20 or 40 or 50 and some people don't ever get it.
+
+PATIENT X622
+Oh yeah.
+
+DOCTOR X622
+Yeah.
+
+PATIENT X622
+But he got it when he was 20.
+
+DOCTOR X622
+Yeah.
+
+PATIENT X622
+@@@ now.  Okay well then uh.
+
+DOCTOR X622
+Do you check your blood sugars at home?
+
+PATIENT X622
+Yeah.
+
+DOCTOR X622
+What do they run?
+
+PATIENT X622
+Oh man they run high.
+
+DOCTOR X622
+And you take the medication right?
+
+PATIENT X622
+Yes.
+
+DOCTOR X622
+Well how much are you taking of the metformin?
+
+PATIENT X622
+Metformin I'm taking 1000.
+
+DOCTOR X622
+You're taking 1000 okay.
+
+PATIENT X622
+I'm taking 1000 in the morning and 1000 in the evening.
+
+DOCTOR X622
+Okay.
+
+PATIENT X622
+It was 252 now.
+
+DOCTOR X622
+Your blood sugars?
+
+PATIENT X622
+Yes.
+
+DOCTOR X622
+Okay.
+
+PATIENT X622
+It went to 254, now yesterday was 179.
+
+DOCTOR X622
+Uh-huh.
+
+PATIENT X622
+So the metformin stuff is good.
+
+DOCTOR X622
+Yeah but that's not enough.
+
+PATIENT X622
+Well @@@ blood sugar supposed to be the way they checking it here 200s.
+
+DOCTOR X622
+Yeah we're gonna have to add another medication, is that okay?
+
+PATIENT X622
+No.
+
+DOCTOR X622
+Why not?
+
+PATIENT X622
+What other medication, I'm taking enough.
+
+DOCTOR X622
+Well probably either glyburide or it’s another pill.
+
+PATIENT X622
+Uh let me think it over on this one and then I give you the ideas.
+
+DOCTOR X622
+But your blood sugars are too high.
+
+PATIENT X622
+Not too high because the 170s, probably if they go over 400s and 300s.
+
+DOCTOR X622
+Yeah but 200 is still high.
+
+PATIENT X622
+And they came down to 200 and they came down to 170s.
+
+DOCTOR X622
+That's still too high.  We want it below 1, you know around 120.
+
+PATIENT X622
+Uh give me the time on the time out, @@@.
+
+DOCTOR X622
+You started.
+
+PATIENT X622
+Started in March.
+
+DOCTOR X622
+In the beginning of March.
+
+PATIENT X622
+Yes that started, that's what it takes but I didn't know.
+
+DOCTOR X622
+But that's long enough.
+
+PATIENT X622
+I think that's what it takes.  Let me continue with this and @@@.
+
+DOCTOR X622
+Okay.  You know it puts you at higher risk of having a heart attack right.
+
+PATIENT X622
+Ah.
+
+DOCTOR X622
+And it's probably why your shingles isn't healing.
+
+PATIENT X622
+What about that cause the shingle now, let me continue with it 200 and try not to help it.
+
+DOCTOR X622
+Okay.
+
+PATIENT X622
+@@@.
+
+DOCTOR X622
+Alright.  Your blood pressure's too high too.
+
+PATIENT X622
+Yeah but I check it sometimes its high, sometimes it’s okay.
+
+DOCTOR X622
+But you're taking the medications?
+
+PATIENT X622
+Yes.
+
+DOCTOR X622
+Oh you are on glipizide.
+
+PATIENT X622
+Yes I say I'm on the glipizide.
+
+DOCTOR X622
+You are.  How much are you taking?
+
+PATIENT X622
+Taking, I don't know, I don't remember @@@.  Glipizide.  
+
+DOCTOR X622
+You're taking 10 maybe.
+
+PATIENT X622
+Yes 10 mg glipizide.
+
+DOCTOR X622
+10 okay.
+
+PATIENT X622
+Amlodipine I'm taking it @@@.
+
+DOCTOR X622
+If we can increase the glipizide, we can always do that but would you be okay with that?
+
+PATIENT X622
+With what?
+
+DOCTOR X622
+With increasing the glipizide?
+
+PATIENT X622
+No.  Because I'm taking glipizide and I'm taking metformin.
+
+DOCTOR X622
+I know but your blood sugar is too high.  Are you, did you take the enalapril today?
+
+PATIENT X622
+Yeah.
+
+DOCTOR X622
+You did?
+
+PATIENT X622
+Yes.
+
+DOCTOR X622
+Would you be okay with adding another medication for your blood pressure?
+
+PATIENT X622
+No.
+
+DOCTOR X622
+@@@.
+
+PATIENT X622
+They changed it from what it is.
+
+DOCTOR X622
+Are you taking amlodipine, you said you're taking amlodipine too.
+
+PATIENT X622
+That's another well see I'm taking @@@.  I'm taking gabapentin, taking @@@.
+
+DOCTOR X622
+Uh-huh.
+
+PATIENT X622
+I'm taking metformin.
+
+DOCTOR X622
+Uh-huh.
+
+PATIENT X622
+Taking pantoprazole and taking enalapril.
+
+DOCTOR X622
+Uh-huh.
+
+PATIENT X622
+That's enough pills for one person.
+
+DOCTOR X622
+Are you taking amlodipine or not?
+
+PATIENT X622
+I am taking amlodipine.  That's too many pills for one person.
+
+DOCTOR X622
+Uh the problem is your, okay you know the risks though.  Your blood pressure's too high, you can have a stroke.
+
+PATIENT X622
+If the blood pressure's too high and the blood pressures go down, blood pressures go down, blood pressure was 252 and it went down right now to 179, 160, 149.
+
+DOCTOR X622
+Yeah but that's still too high.
+
+PATIENT X622
+139, you want it 120 right?
+
+DOCTOR X622
+Yeah I do.
+
+PATIENT X622
+Yep, 120.
+
+DOCTOR X622
+Alright work on your diabetes first, that's the main thing.
+
+PATIENT X622
+Sometimes it goes down; blood pressure goes down, goes up and goes down.
+
+DOCTOR X622
+Alright, we're gonna see you back in a month.  If your blood sugar is still too high.
+
+PATIENT X622
+Yeah.
+
+DOCTOR X622
+We're gonna have to add something or go up on one of your medications.
+
+PATIENT X622
+Yeah.
+
+DOCTOR X622
+Okay.
+
+PATIENT X622
+Yeah.
+
+DOCTOR X622
+Is that okay.
+
+PATIENT X622
+Yeah one month, yeah.
+
+DOCTOR X622
+In one month and it may have to be insulin.
+
+PATIENT X622
+No, I don't want to do it.
+
+DOCTOR X622
+Even if it means you could die?
+
+PATIENT X622
+Exactly.  I don't want no insulin.
+
+DOCTOR X622
+Okay well I want you to think about it.
+
+PATIENT X622
+@@@.  Sometimes it coming up and @@@.  What I want to do is get rid of this pain.
+
+DOCTOR X622
+We'll work on the pain okay.  But that's also not going to get better if your blood sugar is too high, your body can't fight infections.
+
+PATIENT X622
+That so.
+
+DOCTOR X622
+And that's what's happening.  So shingles is an infection.
+
+PATIENT X622
+They say that shingles come from a virus.
+
+DOCTOR X622
+Yeah it is a virus and that's an infection and your body can't fight it if your blood sugar is too high.
+
+PATIENT X622
+Oh yeah.
+
+DOCTOR X622
+Yeah.
+
+PATIENT X622
+Hmm, what can they do for the blood sugars?
+
+DOCTOR X622
+That's what I'm saying.  We could either increase, I don't know I have to check if I can increase your glipizide but I think you might be on the maximum dose and then we would have to add insulin.
+
+PATIENT X622
+@@@.
+
+DOCTOR X622
+The glipizide, the 10 mg.
+
+PATIENT X622
+@@@ diabetes, I be taking the glipizide, I'm taking enough glipizide.
+
+DOCTOR X622
+Well for some people that's enough but for you it’s not.  Your diabetes is more severe.
+
+PATIENT X622
+@@@.  Uh-huh.  Okay give me a month then @@@.
+
+DOCTOR X622
+Okay, alright let me talk to DOCTOR okay.
+
+PATIENT X622
+DOCTOR still here?
+
+DOCTOR X622
+Yep.
+
+PATIENT X622
+Oh, @@@ six months or seven months.
+
+DOCTOR X622
+Okay let me talk to her and I'll be back.
+
+PATIENT X622
+Okay.
+
+(DOCTOR OUT: 34:03  DOCTOR IN:  41:30)
+
+PATIENT X622
+I got another appointment for 3 o'clock now.
+
+DOCTOR X622
+At 3, well okay. @@@.
+
+PATIENT X622
+@@@ in the computer.
+
+DOCTOR X622
+Yeah.  But you came late.
+
+PATIENT X622
+@@@ I don't know is I got to go to the drug store and I got to go, you get the medicine right there, you put it in the computer right.
+
+DOCTOR X622
+I'm putting them in.  Okay.  That's fine.  I can put in the medications um.  Do you want to go to the Pain Clinic to see if they can do something else for your pain?
+
+PATIENT X622
+The Pain Clinic, what is the Pain Clinic for you?
+
+DOCTOR X622
+It's here.  It's in the hospital.  They may be able to do something else for your pain.
+
+PATIENT X622
+Uh-huh.
+
+DOCTOR X622
+But it's up to you.  Do you want to go?
+
+PATIENT X622
+Yeah.  But I want to go to the other place before they close, the first I had an appointment.
+
+DOCTOR X622
+Okay.  Let me.
+
+PATIENT X622
+When I got the appointment nothing but a half an hour and they told me to come for this appointment.
+
+DOCTOR X622
+Yeah.
+
+PATIENT X622
+How much is the Pain appointment?
+
+DOCTOR X622
+How much?
+
+PATIENT X622
+Yeah how long is the appointment to take.
+
+DOCTOR X622
+They're not gonna do it today, they'll call you with it.
+
+PATIENT X622
+Oh yeah.
+
+DOCTOR X622
+Yeah.
+
+PATIENT X622
+Oh okay then they could call me anytime and then make the appointment cause I want to go to this other place.
+
+DOCTOR X622
+Yeah.
+
+PATIENT X622
+This other place wanted to see me @@@.
+
+DOCTOR X622
+Okay how about you go to the, your other appointment.  I'll put in these meds, the two meds that the doctor said.
+
+PATIENT X622
+Yeah.
+
+DOCTOR X622
+In the computer and then you can go pick it up from the Pharmacy.
+
+PATIENT X622
+Yes.
+
+DOCTOR X622
+And they'll send you a letter in the mail regarding the Pain appointment.
+
+PATIENT X622
+Okay.
+
+DOCTOR X622
+Okay.
+
+PATIENT X622
+An appointment.
+
+DOCTOR X622
+Okay.
+
+PATIENT X622
+Okay.
+
+DOCTOR X622
+How's that?
+
+PATIENT X622
+Okay and I come back in a month I definitely will need a paper to get to, I got to put in @@@.
+
+DOCTOR X622
+Alright.  When are you checking your blood sugars?
+
+PATIENT X622
+Huh?
+
+DOCTOR X622
+When are you checking your blood sugars?  Are you checking them after you eat?  Before you eat?
+
+PATIENT X622
+Before I eat.
+
+DOCTOR X622
+Okay keep doing that.
+
+PATIENT X622
+Okay before I eat.
+
+DOCTOR X622
+Yes and can you bring in your meter next time?
+
+PATIENT X622
+Yeah but I mean before I eat, that means before I eat, I eat.
+
+DOCTOR X622
+No check your blood sugars.
+
+PATIENT X622
+Before I eat.
+
+DOCTOR X622
+Before you eat.
+
+PATIENT X622
+I can't do that.
+
+DOCTOR X622
+Why not?
+
+PATIENT X622
+Because you're supposed to take nothing today, my pills before you eat, you empty stomach.
+
+DOCTOR X622
+I'm not telling you to take your pills then; just I just want to know what the blood sugar is.
+
+PATIENT X622
+The blood sugar you're telling me to take it before I eat.
+
+DOCTOR X622
+Yes.
+
+PATIENT X622
+But I can't do that.
+
+DOCTOR X622
+Why not?
+
+PATIENT X622
+Because you're not supposed to take no pills before you eat.
+
+DOCTOR X622
+I'm not saying take your, not to take your pills, check you know how you poke your finger and take your blood.
+
+PATIENT X622
+Yeah and then.
+
+DOCTOR X622
+Do that before you eat.
+
+PATIENT X622
+And then yeah, I do that before I eat.
+
+DOCTOR X622
+Oh okay well that's it.
+
+PATIENT X622
+And then uh before I eat and then I take the pills after I eat.
+
+DOCTOR X622
+Okay that's fine.
+
+PATIENT X622
+Okay.  And this I give to the people @@@.
+
+DOCTOR X622
+Up front.
+
+PATIENT X622
+And you want to put in the computer.
+
+DOCTOR X622
+I'm going to put the medicines in the computer.
+
+PATIENT X622
+Okay, don't forget now.
+
+DOCTOR X622
+Okay.  I'm not; I'm doing it right now.
+
+PATIENT X622
+Oh then what you set-up to come back in a month?
+
+DOCTOR X622
+Yeah.
+
+PATIENT X622
+You put it in over here.
+
+DOCTOR X622
+That's what that paper is.
+
+PATIENT X622
+Okay.
+
+PATIENT LEAVES:  45:24
+
+
+
+

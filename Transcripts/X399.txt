@@ -1,0 +1,566 @@
+
+DOCTOR X399
+PATIENT.  How are you doing?
+
+SECOND PERSON X399
+Uh pretty good.
+
+DOCTOR X399
+I am @@@ to you today.
+
+PATIENT X399
+Glad to meet you doctor.
+
+DOCTOR X399
+So @@@ right?
+
+PATIENT X399
+Yes.
+
+DOCTOR X399
+Okay.  Any problems today?
+
+SECOND PERSON X399
+Not really.
+
+PATIENT X399
+Not really no.
+
+DOCTOR X399
+Okay.  Your blood pressure is doing well.
+
+PATIENT X399
+Yeah.
+
+DOCTOR X399
+And uh @@@.
+
+PATIENT X399
+Okay.
+
+DOCTOR X399
+And uh um so how was your @@@?
+
+SECOND PERSON X399
+It's under control.
+
+DOCTOR X399
+@@@.
+
+PATIENT X399
+Yeah I had a full work-up.
+
+DOCTOR X399
+Oh good okay.  So what are you doing?  You're basically uh, are you taking medication for it?
+
+PATIENT X399
+Oh I take uh one tablet a day.
+
+DOCTOR X399
+@@@.
+
+PATIENT X399
+Yes, yes, uh-huh.
+
+DOCTOR X399
+Okay and COPD?  Have you @@@?
+
+PATIENT X399
+Sometimes.
+
+DOCTOR X399
+Okay, okay.  Did you stop taking them @@@ or what because you have to be careful with that pill because if you take too much then it @@@ other infections.
+
+PATIENT X399
+Yeah.  Well I always take the one I you know like, when I been breathing bad.
+
+DOCTOR X399
+Uh-huh.
+
+PATIENT X399
+And wheezing, you know when I come to @@@.  I want to say like about four or five days.
+
+DOCTOR X399
+Okay @@@.
+
+PATIENT X399
+@@@.
+
+DOCTOR X399
+How about um smoking, do you still smoke?
+
+PATIENT X399
+Yeah I'm smoking a little.
+
+DOCTOR X399
+Okay.  Are you on oxygen at home?
+
+PATIENT X399
+Uh no but I got a you know I got uh oxygen tank you know.
+
+DOCTOR X399
+Yeah.  So you just use it @@@.
+
+PATIENT X399
+Yeah, yeah.
+
+DOCTOR X399
+And um have you been using the CPAP or anything at night?
+
+PATIENT X399
+No the only thing that I use, I got a machine where I you know.
+
+DOCTOR X399
+@@@.
+
+PATIENT X399
+@@@ I use that.
+
+SECOND PERSON X399
+He uses that.
+
+DOCTOR X399
+Okay and um how is your arthritis?
+
+PATIENT X399
+Well arthritis, you know how that is, sometimes its.
+
+DOCTOR X399
+Okay.
+
+PATIENT X399
+Sometimes it @@@.  When you @@@ you have @@@ you know.  @@@ you know.
+
+DOCTOR X399
+Okay, okay, okay.  Then what about like uh the um prostate hyperplasia?  Do you get bladder @@@ or you know are you having any symptoms like uh you know not emptying your bladder, particular problems starting the stream or?
+
+PATIENT X399
+I don't think I do that but I still you know use the bathroom at night.
+
+DOCTOR X399
+You get up at night.
+
+PATIENT X399
+Yeah, yeah.
+
+DOCTOR X399
+How often do you get up?
+
+PATIENT X399
+@@@ you know about three, three times, about three times a night.
+
+DOCTOR X399
+Okay, okay.
+
+PATIENT X399
+Yeah.
+
+DOCTOR X399
+@@@.
+
+PATIENT X399
+Yeah.
+
+DOCTOR X399
+Okay and then uh okay.  So everything is fine and you don't need any, you don't have any problems @@@.
+
+PATIENT X399
+You know, I just, well I got refills I'm just going to go pick up the medication you know.
+
+DOCTOR X399
+Do you need any refills from me today?
+
+PATIENT X399
+No uh uh.
+
+DOCTOR X399
+Okay.
+
+PATIENT X399
+@@@ got all the refills that I need.
+
+DOCTOR X399
+Okay.
+
+PATIENT X399
+Yeah.
+
+DOCTOR X399
+Okay so um do you walk or do exercise?
+
+PATIENT X399
+I probably walk; I was walking every day you know.  That's the most that I can do is do a little bit of walking you know.  I was walking every day.
+
+DOCTOR X399
+Okay.  So do you smoke more than a pack?
+
+PATIENT X399
+It's been a long time though.
+
+DOCTOR X399
+@@@.
+
+PATIENT X399
+It's been about 89 or 90, it's been a while.
+
+DOCTOR X399
+Okay and um how often do you use the inhaler?  Um the albuterol?
+
+PATIENT X399
+Well okay, my inhalers I use, I got the one I use twice a day.
+
+DOCTOR X399
+Uh-huh.
+
+PATIENT X399
+I use one once a day.
+
+DOCTOR X399
+Okay.
+
+PATIENT X399
+I use like one if I wheeze, that's the quick one but the other one @@@.  This here.
+
+DOCTOR X399
+@@@ okay.
+
+PATIENT X399
+Yes I do.  I take this pill.
+
+DOCTOR X399
+@@@.
+
+PATIENT X399
+But that's just for the wheezing you know.
+
+DOCTOR X399
+@@@.
+
+PATIENT X399
+Okay.  @@@.
+
+DOCTOR X399
+Cause you don't @@@.
+
+PATIENT X399
+@@@ yeah.
+
+DOCTOR X399
+@@@ okay.
+
+PATIENT X399
+Yeah.
+
+DOCTOR X399
+Okay so you've got @@@ refills okay.  Okay.
+
+PATIENT X399
+@@@.
+
+DOCTOR X399
+Yeah I'm sorry.
+
+PATIENT X399
+I don't want that.
+
+DOCTOR X399
+Just sit here okay.
+
+PATIENT X399
+Okay.
+
+DOCTOR X399
+Okay.  @@@ is good.  You said that you have some um back pain, with right wrist and left knee?
+
+PATIENT X399
+Yeah @@@ you know, you know what it is getting old.  I don't expect that any doctor.
+
+DOCTOR X399
+@@@ with um two things possibly one it is @@@ arthritis there is nothing that @@@ it.
+
+PATIENT X399
+Yeah.
+
+DOCTOR X399
+But @@@ more, @@@.
+
+PATIENT X399
+Yeah.  I got to lose @@@.  That's most of my problem.  I need to lose the weight.
+
+DOCTOR X399
+@@@ that's probably @@@ because you know everybody gets @@@ at a certain age.
+
+PATIENT X399
+Yeah.
+
+DOCTOR X399
+@@@.  But it has to be @@@.
+
+PATIENT X399
+Yeah.
+
+DOCTOR X399
+You know what I'm saying.  @@@.
+
+PATIENT X399
+Yeah.
+
+DOCTOR X399
+@@@ so um yeah.  I mean you know, since you know what to do and you just you know, be active, try to lose weight and um, but uh eating well you @@@ that.
+
+PATIENT X399
+Yeah.
+
+DOCTOR X399
+@@@.
+
+PATIENT X399
+Yeah.  Well I've had that you know that problem with the @@@ you know.
+
+DOCTOR X399
+Okay.  If you can just hop up here I'll take a look at you.  Do you measure your blood pressure at home?
+
+PATIENT X399
+Huh?
+
+DOCTOR X399
+Do you measure your blood pressure at home?
+
+PATIENT X399
+Well uh not really, not really.
+
+DOCTOR X399
+Okay.
+
+SECOND PERSON X399
+Breathe deep now.
+
+DOCTOR X399
+Take a deep breath, breathe out.  Let me look at your teeth.  @@@.
+
+PATIENT X399
+Not really, @@@.
+
+DOCTOR X399
+@@@ doing well but then you know you cut down on @@@ do you know?
+
+PATIENT X399
+Uh.
+
+DOCTOR X399
+@@@ you know.  Take a deep breath.  Any fevers, uh chills?
+
+PATIENT X399
+No.
+
+DOCTOR X399
+Uh shortness of breath, chest pain?
+
+PATIENT X399
+Sometimes shortness of breath.
+
+DOCTOR X399
+Because he has COPD.
+
+PATIENT X399
+Yeah.
+
+DOCTOR X399
+But @@@.
+
+PATIENT X399
+Right, right, right.
+
+DOCTOR X399
+And then any chest pain?  Any palpitations, you know like rapid heartbeat or anything like that?
+
+PATIENT X399
+No.
+
+DOCTOR X399
+Any nausea, vomiting?
+
+PATIENT X399
+No.
+
+DOCTOR X399
+Any recent weight loss?
+
+PATIENT X399
+No.
+
+DOCTOR X399
+Any blood in your sputum?
+
+PATIENT X399
+No.
+
+DOCTOR X399
+And uh any um uh other problems like lightheadedness, any blood in stools?
+
+PATIENT X399
+No.
+
+DOCTOR X399
+Any um uh problems with anything like @@@ or blood in urine?
+
+PATIENT X399
+No.
+
+DOCTOR X399
+Anything at all like that, okay.
+
+PATIENT X399
+No.
+
+DOCTOR X399
+Open your mouth for me, stick your tongue out and say ah.
+
+PATIENT X399
+Ah.
+
+DOCTOR X399
+Okay.  Did you have your flu shot?
+
+PATIENT X399
+Uh I @@@ had it once but I haven't had @@@.
+
+DOCTOR X399
+@@@.  Okay @@@ give you.  @@@.
+
+PATIENT X399
+Okay.
+
+DOCTOR X399
+Okay @@@ once again I'd do that okay.
+
+PATIENT X399
+Okay.
+
+SECOND PERSON X399
+Alright.  I think I might have to go somewhere else and take that flu shot though.
+
+DOCTOR X399
+No I think they probably have it here.  Um @@@.
+
+PATIENT X399
+Yeah I think @@@.  That's the difference @@@.  I had one flu shot.
+
+DOCTOR X399
+Okay.
+
+PATIENT X399
+With DOCTOR.
+
+DOCTOR X399
+Okay.  I'll be right back.
+
+(DOCTOR OUT:  76:19  DOCTOR IN:  86:26)
+
+DOCTOR X399
+So @@@ here you can go to see them and they tell you where to go.
+
+PATIENT X399
+Okay.
+
+DOCTOR X399
+@@@.
+
+PATIENT X399
+I get to see uh the uh all the other @@@ albuterol solution that I put into the machine.  @@@ that.
+
+DOCTOR X399
+So the albuterol.
+
+PATIENT X399
+I know I got @@@ and uh.  @@@ send me that.
+
+DOCTOR X399
+@@@.
+
+PATIENT X399
+That's the one more thing @@@.
+
+DOCTOR X399
+Yeah.  @@@ today.
+
+PATIENT X399
+Yeah.
+
+DOCTOR X399
+@@@.
+
+PATIENT X399
+No @@@ I can get it down there.
+
+DOCTOR X399
+@@@.
+
+PATIENT X399
+@@@.
+
+DOCTOR X399
+@@@.
+
+PATIENT X399
+I know @@@.
+
+DOCTOR X399
+@@@.
+
+PATIENT X399
+Okay.  When I call it they send it to me @@@.  
+
+DOCTOR X399
+Okay so you call them.  They have only one @@@ here @@@.
+
+PATIENT X399
+Yeah, that's good, that's good.
+
+DOCTOR X399
+@@@.  So you can go?
+
+PATIENT X399
+Yeah.
+
+DOCTOR X399
+@@@ okay.
+
+PATIENT X399
+Okay.
+
+DOCTOR X399
+So I'll see you back in, you want to come back in four months?
+
+PATIENT X399
+Okay, alright.
+
+DOCTOR X399
+Okay.
+
+PATIENT X399
+Okay.  Alright you have a really nice Thanksgiving.
+
+DOCTOR X399
+Thank you, you too okay.
+
+PATIENT X399
+@@@.
+
+DOCTOR X399
+@@@.
+
+PATIENT X399
+Oh okay, sure, sure.  Have a good holiday.
+
+DOCTOR X399
+You too, have a very nice holiday.
+
+PATIENT X399
+@@@.
+
+PATIENT LEAVES:  88:19.
+
+
+
+

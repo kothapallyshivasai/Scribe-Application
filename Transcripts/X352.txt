@@ -1,0 +1,1318 @@
+
+DOCTOR X352
+PATIENT?
+
+PATIENT X352
+Hello doctor.
+
+DOCTOR X352
+Hi.
+
+PATIENT X352
+How are you?
+
+DOCTOR X352
+Good.  How you feeling, you okay?
+
+PATIENT X352
+Good.  Good to see you.
+
+DOCTOR X352
+Good to see you.  Everything you need.
+
+PATIENT X352
+Finally after all of another year is gone.
+
+DOCTOR X352
+Remind me how to say your last name?
+
+PATIENT X352
+PATIENT.
+
+DOCTOR X352
+PATIENT.  Alright.  Come on back and have a seat.
+
+PATIENT X352
+Sure.
+
+DOCTOR X352
+I can take your jacket if you like.
+
+PATIENT X352
+Oh I'll just leave it here on the chair.
+
+DOCTOR X352
+Okay.
+
+PATIENT X352
+Because I got my cell phone in there and it falls out sometimes.
+
+DOCTOR X352
+Yeah.
+
+PATIENT X352
+Yeah.
+
+DOCTOR X352
+Well how have you been?
+
+PATIENT X352
+Uh not too bad, not too good.
+
+DOCTOR X352
+Okay.
+
+PATIENT X352
+One of the things that's really uh, a larger source of aggravation in the past.
+
+DOCTOR X352
+Uh-huh.
+
+PATIENT X352
+Is my arthritis.
+
+DOCTOR X352
+Okay.
+
+PATIENT X352
+I know that I was prescribed diclofenac I believe it is. 
+
+DOCTOR X352
+Uh-huh.
+
+PATIENT X352
+Uh the dosage is twice a day, I believe its 7.5 mg.
+
+DOCTOR X352
+Uh-huh.
+
+PATIENT X352
+I don't know if its enough and I don't if it's even the right drug.
+
+DOCTOR X352
+Right.
+
+PATIENT X352
+By the way I've run out of it, two days ago and they won't refill it downstairs because there's not a standing prescription.
+
+DOCTOR X352
+Hmm, yeah it's expired that's right.  So why do you think you don't know if it's the right drug.  Has it been helping enough with your pain?
+
+PATIENT X352
+It didn't.
+
+DOCTOR X352
+Okay.
+
+PATIENT X352
+In fact I was in Emergency here about a month and a half ago.
+
+DOCTOR X352
+Uh-huh.
+
+PATIENT X352
+With severe pain.
+
+DOCTOR X352
+Uh-huh.
+
+PATIENT X352
+And basically the doctor who attended to me at the time just said hey you know there's nothing more I can do.  He says you know, he was a sufferer as well.
+
+DOCTOR X352
+Uh-huh.
+
+PATIENT X352
+With that and.
+
+DOCTOR X352
+Uh-huh.
+
+PATIENT X352
+He says you know there's nothing that even I can take for myself otherwise I'd give it to you but I think its two different conditions.  Ones arthritis, is there something else?
+
+DOCTOR X352
+Okay.
+
+PATIENT X352
+But you know, all the same uh basically I walked away with nothing.
+
+DOCTOR X352
+Okay and your pain is mostly in your back?
+
+PATIENT X352
+It's right above my right hip.
+
+DOCTOR X352
+Okay.
+
+PATIENT X352
+And then it radiates all the way down, all the way down my thigh, all the way down the outer thigh.
+
+DOCTOR X352
+Uh-huh.
+
+PATIENT X352
+Okay all the way down into my calf, up through my neck right to the base of the skull.
+
+DOCTOR X352
+Okay.
+
+PATIENT X352
+It's like a ribbon.  I mean it literally feels like it's a hot ribbon.
+
+DOCTOR X352
+Okay.
+
+PATIENT X352
+In my body.
+
+DOCTOR X352
+So you're having the pain, also it shoots all the way up your back to your neck or just near your neck?
+
+PATIENT X352
+It goes all the way up through my neck right to the base of the skull.
+
+DOCTOR X352
+Okay.
+
+PATIENT X352
+Okay.  It's a very narrow.
+
+DOCTOR X352
+Uh-huh.
+
+PATIENT X352
+Type feeling.  I don't know, it feels like somebody.  I don't know how else to describe it other than like it's a ribbon that's been heated up and just placed from my neck all the way down to my ankle.
+
+DOCTOR X352
+Okay and how long has it been getting worse for?
+
+PATIENT X352
+Uh probably a few months.  Ever since the episode with the TIA back in October.
+
+DOCTOR X352
+Okay.  Alright and anything make it better?
+
+PATIENT X352
+No nothing.  Is that um.
+
+DOCTOR X352
+Is the.
+
+PATIENT X352
+I'll use Tylenol sometimes at night.
+
+DOCTOR X352
+Uh-huh.
+
+PATIENT X352
+When it's worse.
+
+DOCTOR X352
+Okay.
+
+PATIENT X352
+And I only get about four hours of sleep till it wakes me up.
+
+DOCTOR X352
+Did the diclofenac.
+
+PATIENT X352
+Yeah.
+
+DOCTOR X352
+That's a mouthful, does that make it better?
+
+PATIENT X352
+Well that's what I was initially prescribed that medication after my TIA.
+
+DOCTOR X352
+Uh-huh.
+
+PATIENT X352
+By an outside physician.
+
+DOCTOR X352
+Uh-huh.
+
+PATIENT X352
+A physician that I had used for years.
+
+DOCTOR X352
+Okay.
+
+PATIENT X352
+Um.
+
+DOCTOR X352
+Are you still seeing that outside physician?
+
+PATIENT X352
+No.
+
+DOCTOR X352
+Okay.
+
+PATIENT X352
+No in fact I had to drop my Blue Cross/Blue Shield insurance.
+
+DOCTOR X352
+Hmm, sorry to hear that.
+
+PATIENT X352
+Yeah uh well that's just the financial fact.
+
+DOCTOR X352
+Yeah.
+
+PATIENT X352
+Especially for myself and my wife.
+
+DOCTOR X352
+Uh-huh.
+
+PATIENT X352
+I maintained hers.
+
+DOCTOR X352
+Uh-huh.
+
+PATIENT X352
+Because that's all I could afford.
+
+DOCTOR X352
+Okay so.
+
+PATIENT X352
+Uh but he switched me off the meloxicam.
+
+DOCTOR X352
+Uh-huh.
+
+PATIENT X352
+To go to that.
+
+DOCTOR X352
+Yeah.
+
+PATIENT X352
+I have been complaining of a lot more severe pain and he says okay, this is, you know this is a little more intense so maybe this will work.  Well it did work for a short period of time and now it's not working.
+
+DOCTOR X352
+Okay.  Alright.
+
+PATIENT X352
+But I need something.  I mean its gotten way out of hand.
+
+DOCTOR X352
+Anything make the pain worse?
+
+PATIENT X352
+Yeah too much activity, especially with the pets.  You know I've been doing some work in the yard.
+
+DOCTOR X352
+Uh-huh.
+
+PATIENT X352
+You know trimming hedges and things like that.
+
+DOCTOR X352
+Uh-huh.
+
+PATIENT X352
+There's a lot of bending and stooping.
+
+DOCTOR X352
+Uh-huh.
+
+PATIENT X352
+And that does aggravate it.
+
+DOCTOR X352
+Okay.
+
+PATIENT X352
+Very much so but I can't not do that.
+
+DOCTOR X352
+Right.
+
+PATIENT X352
+And @@@ I like it.
+
+DOCTOR X352
+Right.  Any other problems other than the pain that you've been having?
+
+PATIENT X352
+Uh no.  Uh I ran out of Plavix so I just went to baby aspirin.
+
+DOCTOR X352
+Okay.
+
+PATIENT X352
+Uh they won't renew that.  There's a lot of the drugs they just won't renew them for me.  I don't know why I mean.
+
+DOCTOR X352
+So I never got, they usually send me an alert that uh you're out of meds and will I renew them for you.  So you called the Pharmacy and they just wouldn't renew them?
+
+PATIENT X352
+No I called the Pharmacy and they said oh you gotta come in so I made a trip in.  I talked to the pharmacist.
+
+DOCTOR X352
+Uh-huh.
+
+PATIENT X352
+And he said oh there's not a prescription for it that's all, you got to get a prescription and so I made the appointment with you today because that's getting out of hand as well.
+
+DOCTOR X352
+Yeah I know.  I want you, but now I'll just @@@ you and so I want you on the Plavix so I'm renewing that right now.
+
+PATIENT X352
+And uh another question that I've had.
+
+DOCTOR X352
+Uh-huh.
+
+PATIENT X352
+And I meant to ask you the last time I was here, so actually two more questions uh.
+
+DOCTOR X352
+Do you want them to mail this or pick it up at the window?
+
+PATIENT X352
+I'm gonna pick it up at the window.
+
+DOCTOR X352
+Okay.
+
+PATIENT X352
+You know because I'm out of it.  I mean I've got nothing.
+
+DOCTOR X352
+Yeah.
+
+PATIENT X352
+You know.  The other medication that I'm taking for diabetes is pravastatin.  
+
+DOCTOR X352
+Uh-huh and that was actually for cholesterol.  Pravastatin?
+
+PATIENT X352
+Uh pravastatin is for cholesterol, correct I'm sorry.
+
+DOCTOR X352
+No that's alright.
+
+PATIENT X352
+Uh I read in uh, on a medical website.
+
+DOCTOR X352
+Uh-huh.
+
+PATIENT X352
+That's actually put up by one of the universities, xxx xxx puts it up.
+
+DOCTOR X352
+Uh-huh.
+
+PATIENT X352
+Um that that statin drug should be considered uh for switching off of it for a time period.  I've been on it for five or six years.
+
+DOCTOR X352
+Uh-huh.
+
+PATIENT X352
+And the article informed me to the point of saying that after about four years it's not a bad idea to talk to your physician and find out if you should be taken off of that and put on something else.
+
+DOCTOR X352
+Uh-huh.
+
+PATIENT X352
+So that's what I'm doing now.
+
+DOCTOR X352
+Okay.  Um are you, have you been taking them?  When was the last time you took the pravastatin?
+
+PATIENT X352
+Oh last night.
+
+DOCTOR X352
+So you still have some.
+
+PATIENT X352
+Oh yeah uh-huh.
+
+DOCTOR X352
+Let's look at your lipids now.
+
+PATIENT X352
+Yeah that was the other thing.  I never got results back from the two tests that they did the last time.  The urine and the uh blood draws.
+
+DOCTOR X352
+Well let's look at these first and then we'll look at that.  So.
+
+PATIENT X352
+I can't see that you know.
+
+DOCTOR X352
+Oh okay.  So your LDL cholesterol which is the bad cholesterol is 105.  For you, you have a lot of risk factors.  You've already had one stroke or TIA.
+
+PATIENT X352
+Uh-huh.
+
+DOCTOR X352
+So I think your goal should be more strict so less than 100 to even less than 70.
+
+PATIENT X352
+Uh-huh.
+
+DOCTOR X352
+So I would say that your cholesterol is not well controlled yet.  So I would be hesitant to let you have a break from the statin.
+
+PATIENT X352
+Okay.
+
+DOCTOR X352
+When we don't even have your cholesterol under great control.
+
+PATIENT X352
+I understand okay.
+
+DOCTOR X352
+I mean if the article is very reasonable and that sometimes we just keeping pressing renew, renew, renew and then people have more and more meds and sometimes they needed one but now they don't um but.
+
+PATIENT X352
+Well that's exactly why I'm speaking to you about it.
+
+DOCTOR X352
+Yeah, no I think its important cause to make sure you really need what you're taking.
+
+PATIENT X352
+Right.
+
+DOCTOR X352
+Right.
+
+PATIENT X352
+Exactly.
+
+DOCTOR X352
+I think you do.
+
+PATIENT X352
+Okay.  No that's fine as long as your opinion of that, that's what we'll go with.  Um another thing that I wanted to bring up.
+
+DOCTOR X352
+Uh-huh.
+
+PATIENT X352
+Is while I was still on Blue Cross/Blue Shield, Blue Cross/Blue Shield paid their part of my hospital bill.
+
+DOCTOR X352
+Uh-huh.
+
+PATIENT X352
+Okay.  Now one of the reasons I wound up in the xxx xxx is because it was three minutes away from my home and I was having a stroke.
+
+DOCTOR X352
+Uh-huh.
+
+PATIENT X352
+I said I was a veteran and I had hospitalization here at the VA but they wouldn't drive me here.
+
+DOCTOR X352
+Uh-huh.
+
+PATIENT X352
+They just took me right there and started on me.
+
+DOCTOR X352
+Yep.
+
+PATIENT X352
+Um I spoke recently to a collection agency that I was turned over to because there was a nonpayment of $1500 on that bill.
+
+DOCTOR X352
+Uh-huh.
+
+PATIENT X352
+And I said well, you know I've heard that the VA may take up a percentage of that which would lessen my cost.  I says number one I didn't even know I still owed you money.
+
+DOCTOR X352
+Right.
+
+PATIENT X352
+And the guy was very polite and very genuine as a human being.  He said well I'm gonna get you a detail of what the $1500 is going for.
+
+DOCTOR X352
+Uh-huh.
+
+PATIENT X352
+I know I owed Anesthesiology, was it you know Emergency Room, whatever.
+
+DOCTOR X352
+Uh-huh.
+
+PATIENT X352
+And he said it could be just a bunch of combined things.
+
+DOCTOR X352
+Uh-huh.
+
+PATIENT X352
+Where you know they got 80% from the insurance company on everything and then they just sort of reassessed it and said you know okay this adds up to this.
+
+DOCTOR X352
+Right.
+
+PATIENT X352
+Uh do you know the route that I have to take to inquire with the VA if they would pick up some of that?
+
+DOCTOR X352
+I do not, but I think uh maybe a social worker would be the place to start.
+
+PATIENT X352
+Okay.
+
+DOCTOR X352
+Alright but let me talk with my attending and see if he has a different idea.  If not we'll set you up with the social worker and see if she can point you in the right direction.
+
+PATIENT X352
+Yeah.
+
+DOCTOR X352
+Okay.
+
+PATIENT X352
+That would be great.
+
+DOCTOR X352
+Alright.  I wanted to go over what meds you are still taking.  Like are you taking the Timolol for eye pressure?
+
+PATIENT X352
+I need that too.
+
+DOCTOR X352
+Okay.
+
+PATIENT X352
+Thanks for bringing that up because I would've walked out of here forgetting.  Yeah I've got three or four drops left in the bottle.
+
+DOCTOR X352
+Okay.
+
+PATIENT X352
+So about three or four days worth.
+
+DOCTOR X352
+And how about the metformin?
+
+PATIENT X352
+Metformin yes, I've been on that, that's my diabetes medicine. 
+
+DOCTOR X352
+Are you taking that currently?
+
+PATIENT X352
+I am.
+
+DOCTOR X352
+Okay.
+
+PATIENT X352
+Twice a day.  I believe the total dose is 500 mg or about 1000.
+
+DOCTOR X352
+Yeah twice a day of the 500 @@@.  Um what about the Wellbutrin or the bupropion?
+
+PATIENT X352
+I need that.
+
+DOCTOR X352
+You need that.
+
+PATIENT X352
+Yes if you could do that.
+
+DOCTOR X352
+How is the depression doing?
+
+PATIENT X352
+Actually it's a very, very strange type of @@@.  Uh there's some days that I find myself crying over joyful things.
+
+DOCTOR X352
+Uh-huh.
+
+PATIENT X352
+Uh but that's not depression.  I don't know what they call it.
+
+DOCTOR X352
+Okay.
+
+PATIENT X352
+You know I it's, it's so bizarre.
+
+DOCTOR X352
+Yeah.
+
+PATIENT X352
+You know if I see something that I'm really happy about I just start crying.
+
+DOCTOR X352
+So maybe some emotional uh labile emotions.
+
+PATIENT X352
+Oh that could be you know I mean.
+
+DOCTOR X352
+That can happen with depression.
+
+PATIENT X352
+Yeah I'm not saying that uh you know I've had a horrible load to haul.
+
+DOCTOR X352
+Uh-huh.
+
+PATIENT X352
+I've had a more difficult road to haul of late.
+
+DOCTOR X352
+Yeah.
+
+PATIENT X352
+You know losing my eyesight in 2009 and then you know my daughter's still a teenager, she's 19 and she moved to Florida.  Uh my wife's had two heart attacks.
+
+DOCTOR X352
+I know it's very tough.
+
+PATIENT X352
+And so you know I can see where I'd be a little pent up.
+
+DOCTOR X352
+Uh-huh.
+
+PATIENT X352
+Legitimately I mean without making it some grander problem but as I was going into therapy uh I had to leave for Florida because my daughter fell into some really bad times there in Florida.
+
+DOCTOR X352
+Uh-huh.
+
+PATIENT X352
+So I left for Florida and I missed that whole appointment and when I got back I just never bothered to reappoint because what was being accomplished was very little um.  I think the psychologist wanted to, let's say take it from the beginning.  You know he wanted to try and delve into my life as from what I remember.
+
+DOCTOR X352
+Uh-huh.
+
+PATIENT X352
+All the way up to the present and so he of course is looking for treasures that might be going on now that relate to something in the past but I'll be very honest with you and I was very honest with him I says you know what, other than being in the military I've never had a traumatic experience.
+
+DOCTOR X352
+Yeah.
+
+PATIENT X352
+You know.  My mom was a stay-at-home mom.  My dad worked, he'd come home, we'd all eat dinner together.  I'd go out and play you know.  I mean I had such a normal childhood that it's not even funny.  It's just plain simple normal.
+
+DOCTOR X352
+Yeah.
+
+PATIENT X352
+You know and we were uh, we weren't impoverished but we were definitely not middle class either you know we were just above impoverished.
+
+DOCTOR X352
+Yeah.
+
+PATIENT X352
+Okay.  Uh but that made no difference to me.  I mean I started working when I was 16 and anything that I wanted I bought.
+
+DOCTOR X352
+Yeah.
+
+PATIENT X352
+You know.  A couple times I know I had to sign; my dad had to sign for me like when I bought my first car.
+
+DOCTOR X352
+Uh-huh.
+
+PATIENT X352
+And even though I had the money you still needed a co-signer at that time because of my age.
+
+DOCTOR X352
+Yeah.
+
+PATIENT X352
+So that was done but you know before the military there was no traumatic experiences.  In the military there was traumatic experiences but they weren't the type that uh, I don't feel like I have that syndrome.
+
+DOCTOR X352
+PTSD?
+
+PATIENT X352
+Yeah I don't feel I have that.
+
+DOCTOR X352
+Okay.
+
+PATIENT X352
+I don't know.  I mean I think that's what this guy was trying to get after.
+
+DOCTOR X352
+Yeah.
+
+PATIENT X352
+And just maybe that was something going on to, I have no idea but I just sort of lost my interest.
+
+DOCTOR X352
+Alright well.
+
+PATIENT X352
+Seriously.
+
+DOCTOR X352
+You know I'd encourage you that uh you keep up with the Mental Health okay, if you need it um and maybe if there's someone else that you can see.  But definitely if you're getting crying more, losing interest in activities, lack of appetite, can't sleep, any of those symptoms, let us know okay.
+
+PATIENT X352
+Yeah.
+
+DOCTOR X352
+Okay.  I'm gonna take a look in your eyes.
+
+PATIENT X352
+@@@.
+
+DOCTOR X352
+They're good.
+
+PATIENT X352
+You're not going to very successful on it.
+
+DOCTOR X352
+Hmm, there's a little @@@ that's alright.  Um.
+
+PATIENT X352
+Most people can't see my pupils anyway that's why I.
+
+DOCTOR X352
+I know.
+
+PATIENT X352
+My eyes just sort of.
+
+DOCTOR X352
+Are you still smoking?
+
+PATIENT X352
+Yeah.
+
+DOCTOR X352
+Any interest in quitting?
+
+PATIENT X352
+There's always an interest in quitting.  It seems as though my interest wanes.  I had actually physically stopped for a week.
+
+DOCTOR X352
+That's good.
+
+PATIENT X352
+Um and that's exactly when I started the uh generic Wellbutrin.
+
+DOCTOR X352
+Uh-huh.
+
+PATIENT X352
+You know it helped a lot.
+
+DOCTOR X352
+Yeah.
+
+PATIENT X352
+Suppress the urge.
+
+DOCTOR X352
+It does uh-huh.
+
+PATIENT X352
+Uh but then all these things started to break lose of course.  You know this always happens.
+
+DOCTOR X352
+Yeah.
+
+PATIENT X352
+Um my daughter got all crazy in Florida and I went out there and she's a heavy smoker.
+
+DOCTOR X352
+Uh-huh.
+
+PATIENT X352
+And the first thing you know she's living with a heavy smoker so I just, go right back up.
+
+DOCTOR X352
+Yeah.
+
+PATIENT X352
+By the time I got home six weeks later I was smoking again.
+
+DOCTOR X352
+Well you know what my advice is gonna be right?
+
+PATIENT X352
+Well of course I do.
+
+DOCTOR X352
+Okay.  And what I'm saying alright.  Deep breath in, good again.  Alright excellent.
+
+PATIENT X352
+Yeah and it's really funny because I think the, probably the biggest psychological issue, quit smoking.
+
+DOCTOR X352
+Uh-huh.
+
+PATIENT X352
+And I have this every pattern of test that I've had one on since October 4th of last year.
+
+DOCTOR X352
+Uh-huh.
+
+PATIENT X352
+Certainly would've brought out even the slightest little defect in the lung capacity, in the heart, carotid artery.  I mean they did everything and it all came back great.  And it's that, my attending physician at the hospital said that he couldn't believe the condition I was in internally for what I'm doing to myself.
+
+DOCTOR X352
+Yeah.
+
+PATIENT X352
+So she says it's luck.
+
+DOCTOR X352
+Well I wouldn't take the risk.
+
+PATIENT X352
+I know there's also the risk factor that's gonna.
+
+DOCTOR X352
+Alright.
+
+PATIENT X352
+Jump up and grab you.
+
+DOCTOR X352
+Well I'd like to get some lab work on you.
+
+PATIENT X352
+@@@.
+
+DOCTOR X352
+At your convenience.  Did you get some today?
+
+PATIENT X352
+No not today.
+
+DOCTOR X352
+No.
+
+PATIENT X352
+But uh again the lab work that was performed the first time I though we were going to meet which was all the way back last year.
+
+DOCTOR X352
+Uh-huh.
+
+PATIENT X352
+Um you did say see you in three months or because I came in October so I scheduled an appointment and then I came in and I didn't have it so.
+
+DOCTOR X352
+No.
+
+PATIENT X352
+And so but I never got results over the phone either.  All of the lab that they did at that time was probably back in November.
+
+DOCTOR X352
+Uh-huh.
+
+PATIENT X352
+Maybe December.
+
+DOCTOR X352
+Okay.  Well I've looked over your labs.  It's hard for me to get back just because @@@.
+
+PATIENT X352
+Uh-huh.
+
+DOCTOR X352
+Um but I want to redo some lab tests again today.  It looks like liver function hasn't been done in almost a year.  Uh and you @@@ and your lipid profile your creatinine we'll pick up and look at, something like your electrolytes and kidney function.
+
+PATIENT X352
+Okay well now that the weather's broken up and what it is, I'm gonna start walking again.  I don't know if I told you but I was walking on an average of six miles a day.
+
+DOCTOR X352
+Uh-huh.
+
+PATIENT X352
+And I had actually taken down 15 pounds.
+
+DOCTOR X352
+That would be very good.
+
+PATIENT X352
+Yeah.  I just got to restart now cause everything's south.
+
+DOCTOR X352
+Yeah.  I know you can do it. @@@.
+
+PATIENT X352
+Yes I'm anxious sometime down the line.  Like that one stroke that was very light.  One reason why I want to lose weight.
+
+DOCTOR X352
+Uh-huh.
+
+PATIENT X352
+And I didn't have a girlfriend and gained weight.
+
+DOCTOR X352
+Not @@@.  Well let me go talk with my attending.
+
+PATIENT X352
+Alright.
+
+DOCTOR X352
+And we'll talk about what uh, what to do for this pain okay.
+
+PATIENT X352
+Sure.
+
+DOCTOR X352
+Alright.
+
+PATIENT X352
+Okay.
+
+DOCTOR X352
+See you back in just a few minutes.
+
+PATIENT X352
+Okay.  If he doesn't have any other suggestions you know the diclofenac would just have to be.
+
+DOCTOR X352
+Trust we've got a few more things we can try.
+
+PATIENT X352
+Good, as long they're not nonsteroidal.
+
+DOCTOR X352
+They are not too.
+
+PATIENT X352
+Okay.
+
+DOCTOR X352
+@@@.
+
+PATIENT X352
+Cool.
+
+(DOCTOR OUT:  35:19  DOCTOR IN:  39:33)
+
+DOCTOR X352
+Alright.  So we're gonna try a medicine called tramadol.
+
+PATIENT X352
+Okay.
+
+DOCTOR X352
+It's um a medicine that, it's a little bit stronger.
+
+PATIENT X352
+Uh-huh.
+
+DOCTOR X352
+But it's not a narcotic.
+
+PATIENT X352
+Good.
+
+DOCTOR X352
+And it's not an NSAID and it's not uh a steroid.  It's just kind of it's only little.
+
+PATIENT X352
+Only little creature.
+
+DOCTOR X352
+Own little niche.
+
+PATIENT X352
+Okay.  Well that's fine.  As long as it's not a steroid or a narcotic I'll take it.
+
+DOCTOR X352
+Okay.
+
+PATIENT X352
+I would have a debate with you otherwise.
+
+DOCTOR X352
+Sounds good.
+
+PATIENT X352
+So if I'm suffering from depression and you really think I need a narcotic in my body, no.
+
+DOCTOR X352
+Agreed and talking with my attending he would like to get you into the Eye Clinic since I can't monitor the pressures in your eyes.
+
+PATIENT X352
+Uh-huh.
+
+DOCTOR X352
+I'm not refilling the Timolol for you okay.
+
+PATIENT X352
+Uh-huh.
+
+DOCTOR X352
+So uh I'm gonna have, refer that to the ophthalmologist, that way they can monitor it okay.
+
+PATIENT X352
+Sure.
+
+DOCTOR X352
+And then I'm gonna put in a consult to the social worker.
+
+PATIENT X352
+Okay.
+
+DOCTOR X352
+And you should get a phone call about telling them, what you can talk to them about.
+
+PATIENT X352
+Okay is that.
+
+DOCTOR X352
+The medical bill.
+
+PATIENT X352
+That's good.  Because it just comes out to me, I don't know.
+
+DOCTOR X352
+Uh-huh.
+
+PATIENT X352
+Yeah again.  Had I been transported here.
+
+DOCTOR X352
+Yeah.
+
+PATIENT X352
+Uh, you know if it was something else.  Let's say I slipped and fell and broke my hip and they take me to the hospital well they would have brought me here but because of a stroke.  I guess they're directed to take you to the nearest facility.
+
+DOCTOR X352
+They are.
+
+PATIENT X352
+And since I live a mile exactly from @@@ Hospital.
+
+DOCTOR X352
+Alright.
+
+PATIENT X352
+Now these prescriptions now will be available downstairs?
+
+DOCTOR X352
+Yes.
+
+PATIENT X352
+And they're right?
+
+DOCTOR X352
+I hope.  We'll see you again in six months.
+
+PATIENT X352
+Are you gonna be here six months from now?
+
+DOCTOR X352
+Yep.
+
+PATIENT X352
+Okay.
+
+DOCTOR X352
+I'll be here for two more years.
+
+PATIENT X352
+Oh really.
+
+DOCTOR X352
+Yep.
+
+PATIENT X352
+Oh wow.  I must have been on the back end of the last doctor's.
+
+DOCTOR X352
+Yep.
+
+PATIENT X352
+Round.
+
+DOCTOR X352
+Then yeah.  Alright oh and then the other thing for the pain I think, would you be willing to do physical therapy?
+
+PATIENT X352
+I would be willing to.  I don't know if it's going to do anything but I'd be willing to sure.  
+
+DOCTOR X352
+Let's do a trial of that and see if that helps you.
+
+PATIENT X352
+Yeah, why not?  I mean anything that'll help is well worth it.
+
+DOCTOR X352
+I like the attitude.
+
+PATIENT X352
+Yeah physical therapy, well yeah you know the physical therapy I was basically doing my own all my life until I had a baby.  My wife slimmed down and I just kept picking up.
+
+DOCTOR X352
+Yeah.
+
+PATIENT X352
+Once the baby was born, that was it, I don't know.  Cause I was working 16 hours a day most of the time and.
+
+DOCTOR X352
+It's hard isn't it?
+
+PATIENT X352
+Oh yeah.  And I was in upper level management so you know I was sitting on my butt for 14-16 hours every day.
+
+DOCTOR X352
+Yeah.
+
+PATIENT X352
+And I was eating junk food like it was going out of style.
+
+DOCTOR X352
+That'll do it.
+
+PATIENT X352
+Yeah.
+
+DOCTOR X352
+Do it for you won't it.
+
+PATIENT X352
+Yeah cause I was a manager when the @@@ occurred.
+
+DOCTOR X352
+Oh yeah.
+
+PATIENT X352
+It was more of a hobby but still.  I was @@@.
+
+DOCTOR X352
+Right, they should be calling you with this physical therapy appointment.
+
+PATIENT X352
+Okay so I got two calls to look forward to.
+
+DOCTOR X352
+Yep.
+
+PATIENT X352
+Alrighty, that sounds good.
+
+DOCTOR X352
+And lab work to do at your convenience.
+
+PATIENT X352
+Okay.
+
+DOCTOR X352
+And we'll be sure to send you a letter for this.
+
+PATIENT X352
+Okay.  So I think what I'll do is when I get a phone call from either of those two entities and they establish an appointment with me I'll just do my labs on the day of the appointment with them.
+
+DOCTOR X352
+That sounds like a plan.
+
+PATIENT X352
+And eat at the Commissary and do that.
+
+DOCTOR X352
+That sounds good.
+
+PATIENT X352
+Yeah, that's how I'll work it.
+
+DOCTOR X352
+Great.
+
+PATIENT X352
+Alright doctor, well I thank you very much.
+
+DOCTOR X352
+Good to see you again.
+
+PATIENT X352
+Good to see you and you have a great day.
+
+DOCTOR X352
+Hope the pain improves.
+
+PATIENT X352
+Right.
+
+DOCTOR X352
+Let me know if it doesn't okay.
+
+PATIENT X352
+Yeah well that's really up to you right now you know that.
+
+DOCTOR X352
+It's up to me?
+
+PATIENT X352
+Yeah.
+
+DOCTOR X352
+And you.
+
+PATIENT X352
+Well.
+
+DOCTOR X352
+@@@.
+
+PATIENT X352
+And the attending.
+
+DOCTOR X352
+And the attending.
+
+PATIENT X352
+You know you @@@.
+
+DOCTOR X352
+Yep.
+
+PATIENT X352
+And he said okay.  I said I'll take that.
+
+DOCTOR X352
+Well alright.
+
+PATIENT X352
+@@@ do I need any of this?
+
+DOCTOR X352
+Nope you need to take this out front.
+
+PATIENT X352
+Okay.  Where's that the check-out?
+
+DOCTOR X352
+Yep.
+
+PATIENT X352
+Okay I can do that.  I got the technology on that side of it.
+
+PATIENT LEAVES:  45:05
+
+Time is 4:50.
+
+
+
+

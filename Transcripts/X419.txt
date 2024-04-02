@@ -1,0 +1,315 @@
+
+DOCTOR X419
+PATIENT?
+
+PATIENT X419
+Hi.  
+
+DOCTOR X419
+Good to see you.  
+
+PATIENT X419
+Good to see you doctor.
+
+DOCTOR X419
+Come on in.  Okay.  So how you doing?
+
+PATIENT X419
+Uh pretty good.  
+
+DOCTOR X419
+Uh-huh.
+
+PATIENT X419
+I think so yeah.
+
+DOCTOR X419
+Good.  @@@.
+
+PATIENT X419
+Uh-huh.
+
+DOCTOR X419
+Following the holidays always a good thing.
+
+PATIENT X419
+Oh yeah.
+
+DOCTOR X419
+Are you feeling better?
+
+PATIENT X419
+Yeah.
+
+DOCTOR X419
+Okay, um uh you know I haven't seen you in a while back.
+
+PATIENT X419
+Yeah.
+
+DOCTOR X419
+Um your blood pressure today is worse.
+
+PATIENT X419
+Yes it is.
+
+DOCTOR X419
+Yeah.  @@@.
+
+PATIENT X419
+Uh-huh.
+
+DOCTOR X419
+And you were given the medicine.  So great job with that.
+
+PATIENT X419
+Whoever gave me that last, I don't know if it was you.
+
+DOCTOR X419
+Let me take a look.
+
+PATIENT X419
+They gave me the last pill cause I was taking @@@.
+
+DOCTOR X419
+You're taking two times a day right?
+
+PATIENT X419
+Right and ever since I got that last one it's been great.  Looks like we finally got you know where it should be.
+
+DOCTOR X419
+Well that's good to hear.
+
+PATIENT X419
+Uh-huh.
+
+DOCTOR X419
+Um and then uh, let's see your cholesterol is also.  You don't have diabetes do you?
+
+PATIENT X419
+No, no I don't.
+
+DOCTOR X419
+Not @@@.  So um your pulse is doing well.
+
+PATIENT X419
+Well good.
+
+DOCTOR X419
+Yeah we're not going to @@@.  No history of heart attack or stroke?
+
+PATIENT X419
+No.
+
+DOCTOR X419
+Any chest pain?  
+
+PATIENT X419
+No.
+
+DOCTOR X419
+Okay. Um and you don't smoke anymore?
+
+PATIENT X419
+Uh I got to be honest with you.
+
+DOCTOR X419
+Okay.  You do smoke.
+
+PATIENT X419
+I do smoke yes.
+
+DOCTOR X419
+Alright.  You know the more times people try, the more likely they're going to be able to do it the next time they quit.
+
+PATIENT X419
+Okay.
+
+DOCTOR X419
+So um, it's very important to keep on trying to quit okay.
+
+PATIENT X419
+Oh absolutely.
+
+DOCTOR X419
+And whenever you want to we can refer you to the Smoking Cessation Clinic.  They can help you @@@.
+
+PATIENT X419
+Okay.
+
+DOCTOR X419
+Any other drugs?
+
+PATIENT X419
+No, oh no.
+
+DOCTOR X419
+So no cocaine or anything like that?
+
+PATIENT X419
+No.
+
+DOCTOR X419
+You told me that right.
+
+PATIENT X419
+Right.  That would be wrong.
+
+DOCTOR X419
+Um alright.  Uh so not a lot to do today uh; let's see I think you know about it.  @@@ turn me off.  Let me just go talk to, I need to go talk to DOCTOR.
+
+PATIENT X419
+Is DOCTOR?
+
+DOCTOR X419
+She is on vacation.
+
+PATIENT X419
+Well go check the next patient.
+
+DOCTOR X419
+You're the only one I have.
+
+PATIENT X419
+I'm glad she's taking a vacation.  I think she is the best doctor.  I love her.  Yeah she's.
+
+DOCTOR X419
+I hear that frequently.
+
+PATIENT X419
+She's a thorough doctor, I love her.  She does a great job.
+
+DOCTOR X419
+I hear that real often.
+
+PATIENT X419
+I'm so glad to have her as my primary physician.
+
+DOCTOR X419
+Glad to hear that.  So okay I'll to them and I'll be back.
+
+PATIENT X419
+Alright.
+
+(DOCTOR OUT:  6:37 DOCTOR IN: 10:18)
+
+DOCTOR X419
+Okay.  So uh a couple things uh.
+
+PATIENT X419
+Hmm.
+
+DOCTOR X419
+So @@@ um you really can't believe some @@@.
+
+PATIENT X419
+Oh I know.
+
+DOCTOR X419
+Yeah.  Are you interested in going to our MOVE Program?
+
+PATIENT X419
+Tell me what that is.
+
+DOCTOR X419
+You don't even know about it okay.  So it's like a weight loss program.  Where they help @@@ they'll give you @@@ and uh try to get you, give you a chart on losing weight.
+
+PATIENT X419
+@@@ do that.
+
+DOCTOR X419
+Okay.  Okay I'm going to have you see your @@@.
+
+PATIENT X419
+Okay.
+
+DOCTOR X419
+And uh everything else is doing well.  I saw that tomorrow's your birthday.
+
+PATIENT X419
+Yes it is.
+
+DOCTOR X419
+Happy birthday.
+
+PATIENT X419
+Thank you.
+
+DOCTOR X419
+And uh regard, we also have like a @@@ um.
+
+PATIENT X419
+@@@.
+
+DOCTOR X419
+@@@.
+
+PATIENT X419
+Oh okay.
+
+DOCTOR X419
+We recently started something @@@ pain with @@@ problems @@@ get out of hand or would you @@@ normal systems, mild anxiety, give function in all areas @@@ involving a wide @@@.
+
+PATIENT X419
+Yeah.
+
+DOCTOR X419
+There you go.  @@@ expectable reactions @@@.  No @@@.
+
+PATIENT X419
+Go back.
+
+DOCTOR X419
+Sounds good.  What's your pain score look like?
+
+PATIENT X419
+Uh about a 3.  Yeah.
+
+DOCTOR X419
+Yeah it used to be bad huh.
+
+PATIENT X419
+Yeah.
+
+DOCTOR X419
+Yeah, yeah I remember that.  Uh okay.  Let me go talk to MOVE Program and get you set up for that okay.
+
+PATIENT X419
+Okay @@@.
+
+DOCTOR X419
+Uh-huh.  Why don't you come on with me?
+
+PATIENT X419
+Okay.
+
+DOCTOR X419
+Okay.
+
+(Doctor takes patient to talk with the MOVE Program people)
+
+DOCTOR X419
+Okay.
+
+PATIENT X419
+Thank you.
+
+DOCTOR X419
+Take care.
+
+PATIENT X419
+Thank you.
+
+DOCTOR X419
+Okay have a Happy birthday.
+
+PATIENT X419
+Take care now, thank you.  Appreciate it, take care.
+
+Doctor leaves and patient talks with MOVE Program.
+
+It's noon.
+
+
+
+

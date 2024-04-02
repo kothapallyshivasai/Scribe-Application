@@ -1,0 +1,805 @@
+
+DOCTOR X159
+Come on back.
+
+PATIENT X159
+Okay.
+
+DOCTOR X159
+How you doing?  Good to see you.  What's new?  What's new?
+
+PATIENT X159
+What's new?  I got a sore throat.
+
+DOCTOR X159
+You got a sore throat huh?
+
+PATIENT X159
+Yeah overnight.  Something that and I got a back aches every morning.  I was here a month ago.
+
+DOCTOR X159
+Uh-huh.
+
+PATIENT X159
+And I had a different doctor, you weren't available I guess so.
+
+DOCTOR X159
+Okay.
+
+PATIENT X159
+Anyway uh, the hardest part is in the morning when I get up.
+
+DOCTOR X159
+Backache?
+
+PATIENT X159
+It's above the back and it goes from both sides.
+
+DOCTOR X159
+Okay.  What did they do when they saw you?
+
+PATIENT X159
+They took an x-ray.
+
+DOCTOR X159
+A what?
+
+PATIENT X159
+X-ray.
+
+DOCTOR X159
+Of what?
+
+PATIENT X159
+Of my hip and my back and uh at the time I told them I think that I had taken Advil but it was Aleve.
+
+DOCTOR X159
+Okay.
+
+PATIENT X159
+So he says to take one in the morning and one at night.  Well I stopped doing that after a while and the last three, four nights now I take one Aleve in the evening, you know at bedtime.
+
+DOCTOR X159
+Uh-huh.
+
+PATIENT X159
+Well.
+
+DOCTOR X159
+Does it help?
+
+PATIENT X159
+Uh well, it appears to be a little bit, but the hardest part.  During the day I can live with it.
+
+DOCTOR X159
+So a little huh.
+
+PATIENT X159
+It doesn't affect me during the day but the hardest part is getting up, when I get up in the morning, just out of bed.
+
+DOCTOR X159
+Um do you have any sort of aching, do you have aching in the morning?
+
+PATIENT X159
+It hurts.
+
+DOCTOR X159
+@@@.
+
+PATIENT X159
+It's the side and it's been on both sides.  It'll go from one side to the other.
+
+DOCTOR X159
+Now is this in the same place you have here because you had that surgery done about six years ago.
+
+PATIENT X159
+Yes.
+
+DOCTOR X159
+Is it in the same spot?
+
+PATIENT X159
+I don't think so, I thought that was on, this is more on like now, the last couple days it's on the right side and I did come in for the colonoscopy.
+
+DOCTOR X159
+Let's see we had little, well they checked your urine and that was fine.  You're having no problems urinating right?
+
+PATIENT X159
+Correct.
+
+DOCTOR X159
+And then no fever or chills?
+
+PATIENT X159
+Nope.
+
+DOCTOR X159
+Now, hold on one second.  So what you were just saying, you had your colonoscopy.
+
+PATIENT X159
+Yes I did.
+
+DOCTOR X159
+When was that done?
+
+PATIENT X159
+A month ago, well maybe a little more.  A month ago I was seen here for the back so, maybe two months.
+
+DOCTOR X159
+Two months.
+
+PATIENT X159
+I'm not positive but.
+
+DOCTOR X159
+Uh-huh. 
+
+PATIENT X159
+Shortly after you arranged for it.
+
+DOCTOR X159
+Now you said that the back issues, they started about a month ago?
+
+PATIENT X159
+It started in July really, 4th of July.
+
+DOCTOR X159
+So you get back pain on the side.  Talk to me, show me where it is.
+
+PATIENT X159
+It's right in here.
+
+DOCTOR X159
+Okay.
+
+PATIENT X159
+It's not directly in the back.
+
+DOCTOR X159
+Did you recently, were you lifting things, were you doing anything like that, nothing new?
+
+PATIENT X159
+Nothing out of the ordinary.
+
+DOCTOR X159
+Worse in the morning but it goes away by the end of the day?
+
+PATIENT X159
+During the day I'm fine, it doesn't affect me.
+
+DOCTOR X159
+So when you wake up how long does it last for?
+
+PATIENT X159
+Uh till I get in gear.  I sit.
+
+DOCTOR X159
+So about an hour, two hours, how long?
+
+PATIENT X159
+Oh ten minutes, maybe even less.  But it's the idea of getting up.
+
+DOCTOR X159
+Yeah.
+
+PATIENT X159
+Sitting up and then and trying to get up because it hurts just getting up into a sitting position.
+
+DOCTOR X159
+You have no problems specifically getting up?
+
+PATIENT X159
+No except for the pain of the back, inside the back or whatever you want to call it.  But it has seemed to alleviate a little bit.
+
+DOCTOR X159
+No numbness or tingling in your legs or your hands?
+
+PATIENT X159
+No.
+
+DOCTOR X159
+And then no loss of bowel or bladder?
+
+PATIENT X159
+Nope.
+
+DOCTOR X159
+No weight loss?
+
+PATIENT X159
+I don't believe so.  I may have lost two or three pounds.
+
+DOCTOR X159
+Nothing big.
+
+PATIENT X159
+Nothing.
+
+DOCTOR X159
+No night sweats?
+
+PATIENT X159
+No.
+
+DOCTOR X159
+You said no fever or chills.
+
+PATIENT X159
+Correct.
+
+DOCTOR X159
+No nausea, vomiting?
+
+PATIENT X159
+No sir.
+
+DOCTOR X159
+Okay and then um right now you would have no problems turning, walking?
+
+PATIENT X159
+No, no.  Uh the hips are beginning to have a little pain in them when I start walking, you know when I walk.  I mean I would walk without no problem and now my hips, both of them, are kind of sore.
+
+DOCTOR X159
+Um and then does the medication you're taking help?
+
+PATIENT X159
+It seems to have helped somewhat.  I was going to ask you, which would you recommend, Aleve, Advil, Tylenol or which?
+
+DOCTOR X159
+Now do you have any problems with your stomach?
+
+PATIENT X159
+No.
+
+DOCTOR X159
+Um typically if this is just for arthritis um, you know you have a history of lower back pain, osteoporosis, so this could just be degenerative.  But let me look at the films real quick.  If it's just that I would recommend probably anti-inflammatories like ibuprofen.  But you've never had any bleeds?
+
+PATIENT X159
+Bleeding?
+
+DOCTOR X159
+Uh-huh.
+
+PATIENT X159
+No.
+
+DOCTOR X159
+Um if you have then we can recommend another type.  But you've never had any stomach problems?
+
+PATIENT X159
+No.
+
+DOCTOR X159
+Or you don't have any heart problems or kidney problems right?
+
+PATIENT X159
+I hope not, not to my knowledge anyway.
+
+DOCTOR X159
+Yeah.  And you just have, you have hypertension and gout, uh high blood pressure.  Okay you don't seem to have any of the other ones.  You're just on the simvastatin, lisinopril, folic acid um vitamin B12, the alendronate and the aspirin and calcium right?
+
+PATIENT X159
+Uh-huh.
+
+DOCTOR X159
+Take a look at the x-ray, spine and lumbar.  Worsening compression deformity, extensive degenerative changes with a lot of osteophytes.  Okay.  Well basically what that means is you have quite a bit of um, quite a bit of degenerative changes.  My guess is those degenerative changes, in which case the anti-inflammatory should work the best, so ibuprofen.  How much ibuprofen have you been taking?
+
+PATIENT X159
+I haven't.  This Aleve.
+
+DOCTOR X159
+Why not?  Oh you're taking Aleve?
+
+PATIENT X159
+Well I've taken it the last three to four days.  I've taken Aleve one at night.
+
+DOCTOR X159
+That's it?  Oh you can take.
+
+PATIENT X159
+Well.
+
+DOCTOR X159
+Uh take it in the morning when you wake up.  Cause when you go to sleep it's just going to wear off in a few hours and when you wake up, let's say if you're having problems in the morning then um.
+
+PATIENT X159
+But then during the day I don't have any problems.
+
+DOCTOR X159
+Then don't take any during the day.  You only take them when you have problems.  So I would say only take them when you notice that you have some problems there okay.  Does that make sense?
+
+PATIENT X159
+So the only problem I have is when I get up, like I say.
+
+DOCTOR X159
+Right, yeah I think, so what I would say is when you get up, maybe take them when you get up and then if you don't have any symptoms during the day then great.
+
+PATIENT X159
+I don't have it without the pill in the morning.  
+
+DOCTOR X159
+Uh-huh.
+
+PATIENT X159
+I only take it at night thinking that in the morning it might be better.
+
+DOCTOR X159
+Sure.  Well yeah, exactly.  In the morning um, when you have the pain that's when you take the medicine.
+
+PATIENT X159
+Okay.
+
+DOCTOR X159
+In other words take the medicine when you have pain.
+
+PATIENT X159
+Alright.
+
+DOCTOR X159
+Does that make sense?
+
+PATIENT X159
+Sure.
+
+DOCTOR X159
+Okay, let's see here.  Let's see the last time, so I actually saw you in June.
+
+PATIENT X159
+Well you told me you wanted to see me in three months.
+
+DOCTOR X159
+Yeah no I was just trying to remember when the last time was that I saw you.
+
+PATIENT X159
+And since then I came in for the colonoscopy and then I came in for.
+
+DOCTOR X159
+Oh great.
+
+PATIENT X159
+Because of my back pain problem.
+
+DOCTOR X159
+And what else and you had just recently been diagnosed with diabetes?
+
+PATIENT X159
+I have?
+
+DOCTOR X159
+No back then.
+
+PATIENT X159
+If I have, I haven't been told.
+
+DOCTOR X159
+What's that?  Well no we told you that you had recently high blood sugars right?
+
+PATIENT X159
+Well the last time I came here you asked for a blood test and a urine test.
+
+DOCTOR X159
+Correct.
+
+PATIENT X159
+That was the last; I'm not taking anything for diabetes.
+
+DOCTOR X159
+Right.  Well this one the idea is in your hemoglobin A1c was how we measure your potential diabetes.  Your hemoglobin A1c was 5.9 which is really good.  Let me look at the old one because let me just take a quick look at.  I think one of your labs was off and then we rechecked it and your hemoglobin A1c was 5.9, that's really good.  You're spilling some protein in your urine which was um, let's go over this.  So that was fine.  Your kidney function is doing okay.
+
+PATIENT X159
+And you know you had me here taking the eye test, I did that two or three times when I came in to that and they told me to come back in a year.
+
+DOCTOR X159
+And we checked your, let's see we checked your cholesterol in November of 09.  Your total was 177, your HDL was 75 and your LDL, yeah so your cholesterol looks really good.  See the sugars that we took were high but your hemoglobin A1c was okay, so I think we won't, basically we're just not going to start you on anything but you're kind of on the borderline of diabetes.
+
+PATIENT X159
+Okay.
+
+DOCTOR X159
+Okay.  Okay, okay and then um we talked about the colonoscopy and you ended up getting it.
+
+PATIENT X159
+Correct.
+
+DOCTOR X159
+And the good news is you don't need to get any more.
+
+PATIENT X159
+Wonderful.
+
+DOCTOR X159
+What's that?
+
+PATIENT X159
+Wonderful.
+
+DOCTOR X159
+Was it uh.
+
+PATIENT X159
+No it wasn't bad.  I mean the worst part is before.
+
+DOCTOR X159
+You had a little external hemorrhoids, that's about it, so diverticulosis, okay.  And let's looks at your immunizations.  You should probably be up on your immunizations.
+
+PATIENT X159
+Is the flu shot in already?
+
+DOCTOR X159
+Not yet unfortunately.  For some reason we don't have the flu shot.  Now do you want the zoster vaccine, remember we talked about it last time?
+
+PATIENT X159
+What is that one for?
+
+DOCTOR X159
+For when, or if you were to get the shingles.
+
+PATIENT X159
+I took that, I had that, I did get that shot.
+
+DOCTOR X159
+Oh you did?
+
+PATIENT X159
+Oh yeah.
+
+DOCTOR X159
+Oh it was the Pneumovax right.
+
+PATIENT X159
+Yeah that I got.
+
+DOCTOR X159
+Okay, oh no you need the zoster and you just got the pneumonia one.  You need the zoster one for the shingles.
+
+PATIENT X159
+I thought it was for the shingles.
+
+DOCTOR X159
+When was that?
+
+PATIENT X159
+I don't know, at least a year ago if not longer.
+
+DOCTOR X159
+I really don't have it in here.
+
+PATIENT X159
+Because.
+
+DOCTOR X159
+Okay.
+
+PATIENT X159
+Because I think.
+
+DOCTOR X159
+At least you think you got it.
+
+PATIENT X159
+You told me that uh if you do get it, it shouldn't be as severe as.
+
+DOCTOR X159
+Exactly and you think you've gotten it.
+
+PATIENT X159
+I have gotten it.
+
+DOCTOR X159
+Huh.  I wonder why it doesn't show it.
+
+PATIENT X159
+I had one done.
+
+DOCTOR X159
+You said you've already had one okay.  Well did you have some back pain right there?
+
+PATIENT X159
+Not really, it's just, that's the way I get up now.
+
+DOCTOR X159
+Why is that?
+
+PATIENT X159
+Oh well, old age I call it, I don't know.  But there have, in the past, like when I came here a month ago to see the other docs, I mean I had a hard time getting up.  It was really painful.
+
+DOCTOR X159
+You hadn't, you did do, no lifting.
+
+PATIENT X159
+No.
+
+DOCTOR X159
+Or nothing like that.
+
+PATIENT X159
+And it's, now like I said it has subsided considerably.
+
+DOCTOR X159
+But no weight loss?
+
+PATIENT X159
+Not to speak of.
+
+DOCTOR X159
+Okay and no night sweats and you're eating well?
+
+PATIENT X159
+Yes.  Maybe too much.
+
+DOCTOR X159
+You're eating well.  What's that?
+
+PATIENT X159
+Maybe too much.
+
+DOCTOR X159
+Maybe too much?
+
+PATIENT X159
+Right.  
+
+DOCTOR X159
+Okay, I'll take a listen to you.
+
+PATIENT X159
+You want the shirt off or?
+
+DOCTOR X159
+Um, no I can do it.
+
+PATIENT X159
+Okay.
+
+DOCTOR X159
+What do you do for uh, what did you do for a living?
+
+PATIENT X159
+I worked at the lumber yard.
+
+DOCTOR X159
+Oh that's right.
+
+PATIENT X159
+For 32 years.
+
+DOCTOR X159
+Right.
+
+PATIENT X159
+And then I was the equipment man at the high school @@@.
+
+DOCTOR X159
+Oh I forgot about that.  Good.  Your blood pressure was a little better when I checked it than when the nurse checked it.
+
+PATIENT X159
+Good for you.  I think probably @@@.
+
+DOCTOR X159
+What's that?
+
+PATIENT X159
+Next time I @@@.
+
+DOCTOR X159
+Right.  Deep breaths.  In and out.  In and out.  In and out.  Good.  Where is the pain, point to me where the pain is?
+
+PATIENT X159
+It's right in here.
+
+DOCTOR X159
+If I push in does it hurt?
+
+PATIENT X159
+No.  It's more on the side, but it's above the belt line.
+
+DOCTOR X159
+Point to me where it is.
+
+PATIENT X159
+It's right in through here.
+
+DOCTOR X159
+Now does that hurt?
+
+PATIENT X159
+No.
+
+DOCTOR X159
+No.
+
+PATIENT X159
+No, like I said the only time it really hurts is.
+
+DOCTOR X159
+Give me your hand.
+
+PATIENT X159
+When I uh get up in the morning.
+
+DOCTOR X159
+You've never had any other signs of osteoarthritis?
+
+PATIENT X159
+Not that I'm aware of.
+
+DOCTOR X159
+Okay squeeze but not too hard, good.  Lift up, lift pull, good.  When was the last time you saw an eye doctor?
+
+PATIENT X159
+When I was here.
+
+DOCTOR X159
+How recently?
+
+PATIENT X159
+Uh it'd be four months ago now.
+
+DOCTOR X159
+Oh four months ago.  No ulcers on your feet?
+
+PATIENT X159
+No what?
+
+DOCTOR X159
+Ulcers on your feet?
+
+PATIENT X159
+No.
+
+DOCTOR X159
+Now did they do, they did something in 2002, but they did a colonoscopy in 2002?  Oh I see you had tubular adenoma that's why.  But did the colonoscopy in 2002 as well huh?
+
+PATIENT X159
+Yes.
+
+DOCTOR X159
+And 2010.
+
+PATIENT X159
+I had it three, this is the third time I had it done.
+
+DOCTOR X159
+Yeah did they not take any biopsies this time?
+
+PATIENT X159
+Uh evidently not.
+
+DOCTOR X159
+Okay.
+
+PATIENT X159
+If they did the, all I got is the letter stating that the colon is normal.
+
+DOCTOR X159
+Okay.
+
+PATIENT X159
+That's all I got and like you said the hemorrhoids were there.
+
+DOCTOR X159
+Yeah okay sir I'll be right back, give me a few minutes.
+
+PATIENT X159
+Can I put this back in?
+
+DOCTOR X159
+Yeah of course, yes.
+
+(DOCTOR OUT:  43:15  DOCTOR IN:  54:38)
+
+DOCTOR X159
+Alright.  Well the good news is you're doing great.
+
+PATIENT X159
+Thank you.
+
+DOCTOR X159
+Um I think really the only thing that we would need to do is obviously if you have worsening pain just let me know.  If you start having fevers, night sweats, chills, weight loss, worsening pain let me know.  I think this is all just degenerative changes in your spine.  You can take ibuprofen.
+
+PATIENT X159
+Any particular brand would be recommended?
+
+DOCTOR X159
+Aleve is fine.
+
+PATIENT X159
+Aleve instead of ibuprofen.
+
+DOCTOR X159
+You can take that too, that's not important.
+
+PATIENT X159
+That's better than Advil or Tylenol?
+
+DOCTOR X159
+Yeah.
+
+PATIENT X159
+Same thing?
+
+DOCTOR X159
+Well the Tylenol is not the same thing.
+
+PATIENT X159
+Oh.
+
+DOCTOR X159
+But uh ibuprofen are.
+
+PATIENT X159
+Well I, personally I don't like to take anything.
+
+DOCTOR X159
+Right, well if it doesn't bother you very much then you don't have to.
+
+PATIENT X159
+Like I say.
+
+DOCTOR X159
+But if you have problems well then take it.
+
+PATIENT X159
+Okay.
+
+DOCTOR X159
+Um obviously if you have any worsening symptoms let us know.  Uh all your labs are pretty much up-to-date.  We really don't need to do any labs until probably six, seven months from now.
+
+PATIENT X159
+Great.
+
+DOCTOR X159
+Flu shot, as soon as they come in they'll give you a mass mailing and you can come in to get it.
+
+PATIENT X159
+Okay.
+
+DOCTOR X159
+And then I don't think you need to see me for six months unless something pops up, in which case you just call up and let me know and we'll see you earlier.  How does that sound?
+
+PATIENT X159
+Thank you very much.
+
+DOCTOR X159
+You're welcome.  That was an easy, easy solution.  I hope so.
+
+PATIENT X159
+Yeah.
+
+DOCTOR X159
+Nice to see you.  
+
+PATIENT X159
+Alright.
+
+DOCTOR X159
+Have a good evening.
+
+PATIENT X159
+Doc.
+
+DOCTOR X159
+Did you bring anything?
+
+PATIENT X159
+I didn't bring anything.
+
+DOCTOR X159
+Okay.  (Doctor talking with someone else)
+
+PATIENT X159
+I should get that sent to the house correct?
+
+DOCTOR X159
+Yeah absolutely.
+
+PATIENT X159
+Thank you sir.
+
+PATIENT LEAVES:  56:38
+
+Time is 2:20
+
+
+
+

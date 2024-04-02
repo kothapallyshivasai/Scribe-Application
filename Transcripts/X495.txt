@@ -1,0 +1,468 @@
+
+DOCTOR X495
+How you doing?
+
+PATIENT X495
+Hey what's up.
+
+DOCTOR X495
+How you doing today?
+
+PATIENT X495
+I'm going okay.
+
+DOCTOR X495
+Good.  Uh anything I can do for you?
+
+PATIENT X495
+Well, I been coughing up a lot of mucous and it's been going on for quite a while now.
+
+DOCTOR X495
+Uh-huh.
+
+PATIENT X495
+Yeah and I'm just you know wondering what's going on with that.
+
+DOCTOR X495
+Okay.  How long you been coughing up the mucous?
+
+PATIENT X495
+It's been going on for seems like almost a year now.  I just went; you know I'm just really you know beginning to wonder about it you know.
+
+DOCTOR X495
+Uh-huh.  What color is it?
+
+PATIENT X495
+It's kind of greenish looking.
+
+DOCTOR X495
+Okay.  Sometimes white?
+
+PATIENT X495
+Uh-huh.
+
+DOCTOR X495
+Sometimes clear?
+
+PATIENT X495
+I'd say kind of a clear; mostly it's white and kind of greenish.
+
+DOCTOR X495
+Is it worse in the morning?
+
+PATIENT X495
+Well in the morning time when I do get up I do it and when I do it a little bit during the day, but I notice at nighttime I do a little bit but all during the day I notice some things.
+
+DOCTOR X495
+So at nighttime it's okay.
+
+PATIENT X495
+Uh-huh.
+
+DOCTOR X495
+Do you smoke?
+
+PATIENT X495
+No.  I quit two years ago, three years ago next month.
+
+DOCTOR X495
+Excellent.  No cigarettes, cigars, tobacco, pipe, nothing okay.
+
+PATIENT X495
+No.
+
+DOCTOR X495
+Um do you have any allergies that you know of?
+
+PATIENT X495
+Not that I know of.
+
+DOCTOR X495
+Okay.  That medicine lisinopril.
+
+PATIENT X495
+What is that?
+
+DOCTOR X495
+It's one of your blood pressure medicines.
+
+PATIENT X495
+Oh.
+
+DOCTOR X495
+The half tablet twice a day.
+
+PATIENT X495
+Okay, okay, yeah okay.
+
+DOCTOR X495
+You've been taking that for a long time right?
+
+PATIENT X495
+No I only been taking that about two, three months now.  @@@.
+
+DOCTOR X495
+Okay.  Well I thought you've been taking that longer.
+
+PATIENT X495
+Oh it may be six months maybe.
+
+DOCTOR X495
+Maybe the same time as this cough?
+
+PATIENT X495
+No the cough was going on before that.
+
+DOCTOR X495
+That medicine's new?
+
+PATIENT X495
+Well I been on it.
+
+DOCTOR X495
+Well actually it looks like it was started in February of 09.
+
+PATIENT X495
+Okay has it been that long?
+
+DOCTOR X495
+Yeah.  So it wouldn't been about a year ago, about the same time as the cough.
+
+PATIENT X495
+No I can't remember hmm.
+
+DOCTOR X495
+Yeah time flies when you're having fun.
+
+PATIENT X495
+Yeah.
+
+DOCTOR X495
+You been having fun?
+
+PATIENT X495
+No.
+
+DOCTOR X495
+A little bit of fun, not too much?
+
+PATIENT X495
+I haven't been too dull though.
+
+DOCTOR X495
+That's right.  Uh what about, did you ever notice any like sinus drainage or like in the back of your throat when you wake up in the morning, do you ever feel?
+
+PATIENT X495
+Uh uh.
+
+DOCTOR X495
+Anything like there's something back there you got to clear.
+
+PATIENT X495
+Uh uh.
+
+DOCTOR X495
+Nothing like that okay.
+
+PATIENT X495
+Well sometimes I do.
+
+DOCTOR X495
+Okay.
+
+PATIENT X495
+Yeah.
+
+DOCTOR X495
+Um what about do you ever get heartburn or reflux?
+
+PATIENT X495
+Not any more, now I was getting that, you know, I haven't gotten that now in a while, in years.
+
+DOCTOR X495
+Do you take medicine for it?
+
+PATIENT X495
+I was.  What was it, omeprazole.
+
+DOCTOR X495
+Omeprazole yeah.
+
+PATIENT X495
+Yeah as much as I had I was taking it.
+
+DOCTOR X495
+What pills are you taking, just those two for blood pressure?
+
+PATIENT X495
+I take the blood pressure pills.  I take stool softeners.
+
+DOCTOR X495
+Okay. 
+
+PATIENT X495
+I take metformin.
+
+DOCTOR X495
+Okay.
+
+PATIENT X495
+And I take that you know the prostate thing at night.
+
+DOCTOR X495
+Okay.  And that should be about it.
+
+PATIENT X495
+Yeah should be about it.  I came in here back in February.  I came to the Emergency Room.
+
+DOCTOR X495
+Uh-huh.
+
+PATIENT X495
+And they did some blood work on me for, for I think checking for something because of the prostate pill that I was taking.
+
+DOCTOR X495
+Uh-huh.
+
+PATIENT X495
+I been having the.
+
+DOCTOR X495
+In January?
+
+PATIENT X495
+Yeah I been doing.
+
+DOCTOR X495
+Your liver function tests were normal.  Yeah it looks like all they checked was your liver function.
+
+PATIENT X495
+I think so.  Yeah and I wanted to see about my blood count.  I haven't had nothing did on that in a while.
+
+DOCTOR X495
+Yeah we should check some labs today, check some urine today.
+
+PATIENT X495
+Uh-huh.
+
+DOCTOR X495
+Um and then the thing with the chronic cough like that.
+
+PATIENT X495
+Uh-huh.
+
+DOCTOR X495
+Um have you had a chest x-ray recently?
+
+PATIENT X495
+No, except when I had the surgery back in late August.
+
+DOCTOR X495
+Okay.
+
+PATIENT X495
+I think it was last August I had one.
+
+DOCTOR X495
+Um have you ever been exposed to TB, tuberculosis that you know of?  Worked in a hospital or been in jail?
+
+PATIENT X495
+Yeah, now a guy that I knew, sometime an old fellow I knew he had it.
+
+DOCTOR X495
+Okay.
+
+PATIENT X495
+But I came in.
+
+DOCTOR X495
+You didn't live with him or anything like that?
+
+PATIENT X495
+No, no.
+
+DOCTOR X495
+Alright, alright.
+
+PATIENT X495
+But I came here right after I'd heard and had a TB test about a year ago.
+
+DOCTOR X495
+Yeah I know it doesn't sound like TB.
+
+PATIENT X495
+Hmm.
+
+DOCTOR X495
+So with a chronic cough the three most common things are could be a little bit of heartburn or reflux can irritate your vocal cords and sometimes you don't even notice it.  You don't even get the heartburn but enough acid gets up there to irritate it.  Um another thing can be the postnasal drip like the back of your sinuses can drip down into the back of your throat.
+
+PATIENT X495
+Hmm.
+
+DOCTOR X495
+Irritate the vocal cords.  So it sounds like maybe a little bit of each of those could be contributing but also what might be most likely it's this medicine lisinopril.
+
+PATIENT X495
+Uh-huh.
+
+DOCTOR X495
+That's it's most common side effect is a cough and it sounds like the cough started around the same time you started that medication so I think it would be worthwhile to stop the lisinopril, see how you do um.  Your pressure today is pretty good.  Your pressure, you know we may not even need that lisinopril on there cause for the most part.  Like I don't think we need to replace lisinopril with another blood pressure medicine.  I think at this time we could just stop that and continue the water pill.
+
+PATIENT X495
+Uh-huh.
+
+DOCTOR X495
+And if your pressure gets too high then we'll add a blood pressure medicine next time.  Take your shirt off and I'll listen to your lungs.  And you haven't noticed like pain @@@ or weight loss or anything like that have you?
+
+PATIENT X495
+No.
+
+DOCTOR X495
+Could you take your other shirt off for me please?  Big deep breath.  Take a breath.  Open your mouth, say ah.
+
+PATIENT X495
+Ah.
+
+DOCTOR X495
+Stick your tongue out a little bit.
+
+PATIENT X495
+Ah.
+
+DOCTOR X495
+Real wide ah.  Okay relax and then open wide ah.
+
+PATIENT X495
+Ah.
+
+DOCTOR X495
+Again.  No pain here right?  Yeah I think we'll try first stopping that uh, stopping that medicine, the lisinopril.
+
+PATIENT X495
+Uh-huh.
+
+DOCTOR X495
+And that should take care of your cough.  If that doesn't work I think the next step would be maybe restarting that pill for your stomach because you could be having heartburn that is just enough to get up.  For instance since it's worse in the morning when you lay flat, the stomach contents can kind of travel up your esophagus and then irritate the vocal cords.  It might be enough for you to feel it, feel the burning but it may be enough to cause that cough.
+
+PATIENT X495
+Okay.
+
+DOCTOR X495
+Well start first with that lisinopril.
+
+PATIENT X495
+Okay.  And also I need my refills.
+
+DOCTOR X495
+Uh-huh.  I'll refill them.
+
+PATIENT X495
+Yeah cause the nurse was checking and she said something about some of them needed to be renewed.
+
+DOCTOR X495
+Sure.  I'll be right back.  I'll be right back.
+
+PATIENT X495
+Hmm.
+
+(DOCTOR OUT:  15:35  DOCTOR IN:  18:56)
+
+DOCTOR X495
+Alright so um, had a little bit different strategy.  It could be, it could definitely be the lisinopril but because it sounds like it's a little worse in the morning, that kind of leans more toward it being that reflux irritating it.  So I was going to talk it over with DOCTOR first we would try the omeprazole, that pill for your stomach, try it twice in the day and one in the night.  Um the best way to take that is on an empty stomach and then don't eat for about 30-60 minutes because that gives it time to absorb and it decreases the acid production.  Uh take that morning and night.  We're also gonna get a chest x-ray since it's been going on for a year.  Um and then we'll see you back here in about a month um, about four weeks, see if it's better.  If it's better than good, if not then we'll try stopping the lisinopril and switching that to a different medication.
+
+PATIENT X495
+Okay.
+
+DOCTOR X495
+Because of your diabetes you should be on the medicine either in the class of medicines like lisinopril is in or another class which is very similar, helps protect your kidneys, especially in diabetic patients.  So um sound like a plan?
+
+PATIENT X495
+Okay.
+
+DOCTOR X495
+Okay.  Uh and then have you get some blood work today too.
+
+PATIENT X495
+Okay.
+
+DOCTOR X495
+So you can head to the Pharmacy, Radiology and less than a month they'll schedule you your follow-up with me in four weeks.
+
+PATIENT X495
+Okay.
+
+DOCTOR X495
+Alright.
+
+PATIENT X495
+Alright.
+
+DOCTOR X495
+And then oh head to the Lab too, cause that's gonna check your diabetes measures and uh some other blood work as well too.
+
+PATIENT X495
+Okay.  So I go to the Lab.
+
+DOCTOR X495
+Lab, Pharmacy and Radiology.
+
+PATIENT X495
+Oh that on the third floor, this floor?
+
+DOCTOR X495
+Um actually Outpatient is on this floor, it's all on this floor.
+
+PATIENT X495
+The Radiology?
+
+DOCTOR X495
+Yeah.
+
+PATIENT X495
+Where's that?
+
+DOCTOR X495
+It's right next to the Lab.
+
+PATIENT X495
+Oh.
+
+DOCTOR X495
+You now what I mean, you're looking at the Lab its right there.
+
+PATIENT X495
+Oh okay.  Alright.
+
+DOCTOR X495
+Alright. 
+
+PATIENT X495
+Alright.
+
+DOCTOR X495
+I'll see you in about a month.
+
+PATIENT X495
+Okay.  So I go to the Pharmacy and then @@@.
+
+DOCTOR X495
+Uh-huh.
+
+PATIENT X495
+Oh okay.  And you renewed the other ones @@@.
+
+DOCTOR X495
+Uh-huh.
+
+PATIENT X495
+Alright thank you.
+
+DOCTOR X495
+Yep.
+
+PATIENT LEAVES:  21:51
+
+
+
+
+

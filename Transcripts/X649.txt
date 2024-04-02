@@ -1,0 +1,938 @@
+
+DOCTOR X649
+@@@.
+
+PATIENT X649
+Hey doc.
+
+DOCTOR X649
+How you doing today?  
+
+PATIENT X649
+Doing fine, fine.
+
+DOCTOR X649
+Very good, very good.  Welcome back.
+
+PATIENT X649
+Oh you know I just did lab work you know done.
+
+DOCTOR X649
+Yeah on the 21st yeah.
+
+PATIENT X649
+Yeah, yeah.  @@@ to get everything that I @@@.
+
+DOCTOR X649
+No perfect, things really looked good.
+
+PATIENT X649
+Okay.
+
+DOCTOR X649
+Um it looks like your @@@.  You have no problems right now.  @@@ um so far, anything new over the last three months?
+
+PATIENT X649
+No, no, no.  But you know he gave a phone call you know when the lab work came back and he was telling me that my potassium had been getting a little high and then all of a sudden you know I eat a lot of bananas and oranges, taking multivitamins you know he was just telling me well maybe I just need to delete the oranges and bananas you know.  I don't know.  I mean how high is it?  I mean it is.
+
+DOCTOR X649
+Uh right now uh, at least from the lab work that you did shows it was 4.9 which is on the upper end of normal.  So the high would be at 5 and above.
+
+PATIENT X649
+Okay.
+
+DOCTOR X649
+You know based on the lab testings here.  Um different lab tests have small differences in their.
+
+PATIENT X649
+Uh-huh.
+
+DOCTOR X649
+Findings but uh for here it shows borderline high.  Uh let's see here.
+
+PATIENT X649
+So what do you recommend, I just cut back on them or cut them off?
+
+DOCTOR X649
+Well yeah I would stay away, at least right now and you can do some dietary modification, maybe a low potassium diet um.
+
+PATIENT X649
+Yeah.
+
+DOCTOR X649
+I'm just checking but I think there's like a form that we can give you for that.  Um the other issue is the reason for it and it's likely just because of you know the kidney disease issues that we already know about.
+
+PATIENT X649
+Right.
+
+DOCTOR X649
+You know really your diabetes, the hypertension.
+
+PATIENT X649
+Yeah.
+
+DOCTOR X649
+Those sorts of things and its stable but you know sometimes what happens is when you can't clear the potassium as well as a young healthy kidney.
+
+PATIENT X649
+Yeah.  You know he said something about the lisinopril.  He said.
+
+DOCTOR X649
+And so that's the other issue but you know I mean you have diabetes; you have chronic kidney disease, blood pressure issues.  There's a lot of indications for that lisinopril to be there.
+
+PATIENT X649
+Yeah.
+
+DOCTOR X649
+And I hate to stop it.
+
+PATIENT X649
+Yeah.
+
+DOCTOR X649
+If it’s not I mean if your potassium was like 5.5, 6 like something that was above normal range.
+
+PATIENT X649
+Right.
+
+DOCTOR X649
+I would stop it.
+
+PATIENT X649
+Oh okay.
+
+DOCTOR X649
+Because it could lead to you know problems down the road.
+
+PATIENT X649
+Yeah.
+
+DOCTOR X649
+But right now it's just a high normal.  You know.
+
+PATIENT X649
+Okay.
+
+DOCTOR X649
+Its, it's still normal, it's just you know when you look at it, from a business standpoint like oh wow it's higher than what I normally see.
+
+PATIENT X649
+Hmm.
+
+DOCTOR X649
+To be honest most people have low potassium you know and so when we see a 4.9 we think it's high but it's actually normal.  But you know it definitely should be addressed.
+
+PATIENT X649
+Yeah.
+
+DOCTOR X649
+I mean dietary is a good first step.
+
+PATIENT X649
+Yeah.
+
+DOCTOR X649
+So I'm gonna, I think DOCTOR @@@ our pharmacist should have a form on a low potassium diet.  So I'll get that for you.
+
+PATIENT X649
+Yeah.
+
+DOCTOR X649
+Let me write this up.  It's not uncommon for patients on lisinopril and that have.
+
+PATIENT X649
+Right.
+
+DOCTOR X649
+Kidney disease to have potassium problems.  I think uh your blood pressure looks good.  Still taking the amlodipine, lisinopril and atenolol?
+
+PATIENT X649
+Right.
+
+DOCTOR X649
+Let's see here.  There continue to be issues; it looks like you saw the kidney doctor.
+
+PATIENT X649
+Right.
+
+DOCTOR X649
+Uh recently, the 29th.  DOCTOR did absolutely @@@ seeing you again, see you in four months.
+
+PATIENT X649
+Yep.
+
+DOCTOR X649
+Okay.  So obviously, uh you're not taking ibuprofen.
+
+PATIENT X649
+No.
+
+DOCTOR X649
+Indomethacin, nothing like the NSAID type medicines.
+
+PATIENT X649
+Right, right, right.  I think he said stay away from that.
+
+DOCTOR X649
+Yeah.  And definitely I know you have some of that colchicine left over there for the gout stuff but only take if you have a gout flare.
+
+PATIENT X649
+Right, right.  And you know I want to tell you something about that.
+
+DOCTOR X649
+Yeah okay.
+
+PATIENT X649
+You know like when I first had it, when it flared it up.
+
+DOCTOR X649
+Uh-huh.
+
+PATIENT X649
+I took it and it you know took it a day or two and it, you know I'm guessing the gout; the pain subsided with everything else.
+
+DOCTOR X649
+Well that's good, that's good.
+
+PATIENT X649
+Well you know it happened before and I took that medication and you take it until the pain subsided or you develop diarrhea.
+
+DOCTOR X649
+Oh.
+
+PATIENT X649
+I developed diarrhea but I still had the pain you know.
+
+DOCTOR X649
+Uh-huh.
+
+PATIENT X649
+And I don't know.  The tests you run on me it comes back negative.
+
+DOCTOR X649
+The uric acid level or?
+
+PATIENT X649
+Yeah.
+
+DOCTOR X649
+Yeah, that can happen.
+
+PATIENT X649
+Yeah and then you know I went up to the foot doctor and he said that I bet it's gout, I bet it's gout and I said well the tests say it's not gout.  He said well you know when it flares up again call me up and he'll get some fluid off.  It swelled up, this was a year or so ago.
+
+DOCTOR X649
+Uh-huh.
+
+PATIENT X649
+Swelled up, I comes out and I see the foot doctor and you got to make an appointment.  He told me to come in you know when it flares up right.
+
+DOCTOR X649
+Yeah.
+
+PATIENT X649
+And I just got frustrated and I just hobbled back to my car and went home you know.
+
+DOCTOR X649
+You know you could go to Urgent Care where that can be done.
+
+PATIENT X649
+Okay.
+
+DOCTOR X649
+But it's just if you get a flare-up again or whatever it was.
+
+PATIENT X649
+Well like you know, I'm gonna tell you, you know like I cut back on the green leafy vegetables like greens.
+
+DOCTOR X649
+Uh-huh.
+
+PATIENT X649
+And uh no problem.  I don't know if that was the cause.
+
+DOCTOR X649
+Oh for the gout?
+
+PATIENT X649
+Yeah.
+
+DOCTOR X649
+Oh that's odd.  I like your shoes by the way.
+
+PATIENT X649
+And they're really comfortable.
+
+DOCTOR X649
+@@@.  They're very, very comfortable um so for the gout issues uh, so @@@ leafy greens.  You know the main thing they do for gout is mostly like uh beer cause it has a lot of grains.
+
+PATIENT X649
+Uh I'm not drinking any more.  I wasn't drinking in 12 years.
+
+DOCTOR X649
+And then like uh and veggies.  Those are the two big things that are for the most.  Cause gout, back in the day, historically was probably @@@.
+
+PATIENT X649
+Yeah, rich man.
+
+DOCTOR X649
+Yeah like the rich man @@@.
+
+PATIENT X649
+Yeah, yeah.
+
+DOCTOR X649
+Cause it happened like you know sort of @@@ for the 1400's you know people who have like beef and chicken.
+
+PATIENT X649
+Yeah.
+
+DOCTOR X649
+These were normally the rich people.
+
+PATIENT X649
+Yeah.
+
+DOCTOR X649
+And so they were the ones who got gout and so that's kind of the things you would imagine the excesses of life, so a lot of red meat, beer, alcohol.
+
+PATIENT X649
+Yeah.
+
+DOCTOR X649
+Those are the things you'd want to cut back on.  @@@ anything that's going on.
+
+PATIENT X649
+Well what about that new medication they got now?
+
+DOCTOR X649
+@@@.
+
+PATIENT X649
+Yeah.
+
+DOCTOR X649
+So um it's a good medication.  It's ridiculously expensive and I'm not exactly sure where it fits in.  I mean, so actually with talking about it, the medication itself is actually an old medication um and but much like colchicine is another medication for gout and you were @@@.  A lot of these companies are trying to take these old medications and give them a new indication and then re-brand them so they can try them on other people.
+
+PATIENT X649
+Is that right?
+
+DOCTOR X649
+Yeah colchicine is like 60 or 70 years old so I guess.  Actually there's a company that bought the patent for it to create a new indication for it and now it's @@@.  I know isn't @@@.
+
+PATIENT X649
+Yeah.
+
+DOCTOR X649
+And so there's a dollar to be made you know.  Um so I think in terms of @@@ as a gout treatment, it's for people who have a refractory gout so.  I don't know if you're like on allopurinol if you're getting multiple gout flares per year and you take colchicine and it doesn't go away, you can eventually this is where you take prednisone, it kind of goes away but then comes back really quickly, that's one of the indications for it.  Is when you're failing standard normal therapy.
+
+PATIENT X649
+Right.
+
+DOCTOR X649
+Then you can start considering adding that in.
+
+PATIENT X649
+Oh okay.
+
+DOCTOR X649
+Um and so I think right we're doing okay, unless I missed my guess.
+
+PATIENT X649
+No, no I'm fine.  I haven't had a flare-up of that thing in a long time.
+
+DOCTOR X649
+I don't want you to.
+
+PATIENT X649
+No then I have something for it.
+
+DOCTOR X649
+Yeah sure, sure.
+
+PATIENT X649
+That glipizide, glyburide.
+
+DOCTOR X649
+Uh-huh, I think you're on glipizide.
+
+PATIENT X649
+Yeah.  Is that possible, can you take that twice a day?
+
+DOCTOR X649
+Yes did we not go up on that for you?
+
+PATIENT X649
+No.
+
+DOCTOR X649
+Okay.
+
+PATIENT X649
+I'm still taking one pill a day and see what it is, I used to take it before meals uh right now my first meal normally is about maybe 5 o'clock and it was basically fruit.
+
+DOCTOR X649
+Uh-huh.
+
+PATIENT X649
+Fruit you know maybe some vegetables and I eat late you know and I figured you know I don't know what the time set on that thing.
+
+DOCTOR X649
+Hmm.
+
+PATIENT X649
+And I took it this morning when I got up right.  Now I don't eat probably till 5 o'clock.
+
+DOCTOR X649
+Yeah.
+
+PATIENT X649
+Would it still like be in prospective?
+
+DOCTOR X649
+Um so it can be taken twice a day.  Okay it can be taken you know around meals um so that's also something we can do.  Uh what I'm trying to think of is like where we can pick up and that was the next thing and I'm glad you brought it up; we're eventually behind with the diabetes.
+
+PATIENT X649
+Yeah.
+
+DOCTOR X649
+And uh your A1c that you drew on the 27th of April @@@ uh so you know back in late 2010 it was 6.7 and it was well controlled.  Then it kind of spiked up in January to 8.6 um you know and generally for type 2 diabetes we want to get it around like 6.5 you know, for me that's a comfortable place for me @@@ blood sugar.  But 8.6 is high.  You've come down to 8.1 over the past couple of months but still above what I would like to see in terms of your average blood sugar.  The question is what do we add?  So your kidney function doesn't let us add metformin and in diabetics they need to be on the lower side a long time ago uh so it's not the first time that its.  The glyburide we could try twice a day but the way, I'm sorry glipizide.  You can try twice a day but the way it works is it makes your pancreas essentially just secrete more insulin that what it normally did.
+
+PATIENT X649
+Uh-huh.
+
+DOCTOR X649
+Um the thing about it is that and we can see what it does but the question is are we going to get enough out of going to twice a day to go from 8.1 to like 6.5?
+
+PATIENT X649
+Well you know now you know I'm gonna get back into my you know bike riding.
+
+DOCTOR X649
+Yeah.
+
+PATIENT X649
+You know and I, the first time you know when they put me on that pill.
+
+DOCTOR X649
+Uh-huh.
+
+PATIENT X649
+And uh I started to ride the bike and I noticed that I had I had a flat tire and repaired that and got back on it and had another flat and then I just started, you know and I didn't know exactly what to do so I called my office, whether you know he's a type 1 diabetic and he said check your blood sugar and I checked it and it was 33 you know and then uh he said well you've got to eat something.
+
+DOCTOR X649
+Now when was this?
+
+PATIENT X649
+This was when I first started taking that pill.
+
+DOCTOR X649
+Oh okay.
+
+PATIENT X649
+And then I came back to the VA the next day and I spoke to a doctor and he said stop taking it you know.
+
+DOCTOR X649
+Okay.
+
+PATIENT X649
+And so I didn't take it for a couple years.
+
+DOCTOR X649
+Yeah.
+
+PATIENT X649
+And then I just started back on that and I know once I start to work out riding the bike, cause I'll go 20-30 miles.
+
+DOCTOR X649
+Then it goes down.
+
+PATIENT X649
+And you know it would really drop it but I'm thinking you know if I increase those pills to twice a day you know I can take one when I eat my heavier meal you know and then it's not earlier so I may not have needed it.  If I have a prescription then I can pick that up and get it refilled and I'll have an ample supply.
+
+DOCTOR X649
+Exactly.  So you know um, you're checking your blood sugars again right?
+
+PATIENT X649
+You know what when I had to stop it.
+
+DOCTOR X649
+Yeah.
+
+PATIENT X649
+But I left the home you know and I think everything's pretty good you know for me, you know for me like it'll be 90 you know 110.  It never run above 160.
+
+DOCTOR X649
+Okay.
+
+PATIENT X649
+Never run above 160.  And that was basically after a couple hours after a meal you know but you know it just stayed that way you know but I was thinking and I had the pills you know I said when I get up in the morning I'll take, you know I'll the glipizide, glyburide, whatever it is and I take the blood pressure medication you know and then I say you know I'm taking those pills and I'm not eating you know and I can take it twice a day you know.  I think that would work a lot better.  I don't know.  
+
+DOCTOR X649
+Well you're not having any low blood sugars issues correct?  Like you haven't had hypoglycemia or anything lower than 60s?
+
+PATIENT X649
+No, no, no.
+
+DOCTOR X649
+Like you don't have any dizziness?
+
+PATIENT X649
+No.
+
+DOCTOR X649
+@@@ down.
+
+PATIENT X649
+No sweating, I get nervous.  But it seem like to me I just, you know I just, the numbers don't say it's low but like you said you know it might be how I just got to adjust it to you know high blood sugar levels.
+
+DOCTOR X649
+@@@.  Anyone in your family have diabetes?
+
+PATIENT X649
+No, not that I know of.
+
+DOCTOR X649
+@@@ so no one's ever uh like no, I mean something more like parents, grandparents, great grandparents, you know that sort of thing like.
+
+PATIENT X649
+Oh you know what, okay you know what my.
+
+DOCTOR X649
+Like something like sickle cell traits.
+
+PATIENT X649
+My son has sickle cell traits.
+
+DOCTOR X649
+Okay.  So does your wife have sickle cell traits?
+
+PATIENT X649
+No.
+
+DOCTOR X649
+Okay.
+
+PATIENT X649
+I don't know where that come from but he says he told me you know, they said he had sickle cell traits you know, back then you know, I don't know.  Then my kid brother, I think I talked to you him about him before, he @@@ prostate.
+
+DOCTOR X649
+Uh-huh.
+
+PATIENT X649
+And that went south.
+
+DOCTOR X649
+Yeah.
+
+PATIENT X649
+You know and uh I don't know what they're gonna do about that but anyway he took the CAT scan and you know like I talk about that, saying my mother passed from colon cancer and you were talking about referring me for the colon exam but I went up there and I checked and I'd had it like a little over a year ago.  But anyway he went in for a CAT scan and I guess they discovered something in the stomach but he took a colonoscopy and that was fine but then they went in the 19th of May and they removed a tumor in the stomach and my sister she's an RN and she works out at xxx, she @@@.
+
+DOCTOR X649
+Did she tell you what it was?
+
+PATIENT X649
+Yeah so I don't know, he knows, I don't know.  I got him to come in and get an AA card and he did a check-up and then you know the thinks I'm gonna tell him what I told you so I told you so, so you know like @@@ or whatever, but anyway he's up there.  They go in, they take this out and you know, you probably know they probably could tell by looking at it if it was benign I don't know.  Then the gallbladder.  You know he was complaining about his stomach.  They said when they went in they said he was full of gallstones and they took the gallbladder out you know.  He's probably still here, I don't know.  He's supposed to be, you know released but when they took the gallbladder out you know until he make a bowel movement they said he can't hold any food down you know.  But uh that's that thing that's why I try to stay on top of the PSA and my gut you know cause @@@.  That's everything about that.
+
+DOCTOR X649
+Your PSA was normal uh in January.  Uh your colonoscopy was in 2006 but uh they wanted a repeat in five years.  Where was it done, was it done here in 2006?
+
+PATIENT X649
+Right.  Well now it wasn't that long ago.
+
+DOCTOR X649
+But was it done here though?
+
+PATIENT X649
+Yeah.  It was done here.  I'd say what, 8; I think it's three of them I've had here.
+
+DOCTOR X649
+I'll take a look and just see, they said repeat it in five years.  I would suggest, I don't know if that's because of family history or did they tell you at that point that they found a polyp?
+
+PATIENT X649
+That's why; they said they found a polyp.
+
+DOCTOR X649
+Okay.
+
+PATIENT X649
+Well the first time they found one it was so small and then you know they said they took it out, they did a biopsy on it.
+
+DOCTOR X649
+Yeah and this last time, usually when they say five years it's because they found um like a tubular adenoma or something like that.
+
+PATIENT X649
+Yeah.  Yeah I think they found one the last time.  But it seem like I just had it like two years ago.
+
+DOCTOR X649
+Well uh December 06 was the last time here but you think you had one more recently?
+
+PATIENT X649
+I'm pretty sure I had one more recently than 06.
+
+DOCTOR X649
+I was just @@@.
+
+PATIENT X649
+You talking about five years.
+
+DOCTOR X649
+July 2010 okay.  Okay you never know.  Um let's see here, 6 mm polyp in the sigmoid, no other polyps in the colon.  Okay so that was July 10.
+
+PATIENT X649
+July of 2010?
+
+DOCTOR X649
+Uh-huh. 
+
+PATIENT X649
+Okay.
+
+DOCTOR X649
+Yeah you're okay then.
+
+PATIENT X649
+Yeah.
+
+DOCTOR X649
+So yeah they found both those it looks like back together so that, yeah tubular adenoma so repeat in five years so you don't need to come back until 2015.
+
+PATIENT X649
+Right.
+
+DOCTOR X649
+Good, okay.  @@@.  The only other thing is we just need a repeat of a liver ultrasound just for your yearly screening.
+
+PATIENT X649
+Okay.
+
+DOCTOR X649
+This is @@@.
+
+PATIENT X649
+Okay.  Now they'll send me a letter, they'll send me a letter for that right?
+
+DOCTOR X649
+Uh we can actually schedule it today if you want to.  It doesn't have to be done today but.
+
+PATIENT X649
+Oh yeah, I could go get them today.
+
+DOCTOR X649
+Yeah the last one was 05/20/10 so it's about time for that.
+
+PATIENT X649
+Okay.
+
+DOCTOR X649
+Other than that, give me a couple of minutes and I'll come back and you know otherwise I think we're looking good.  I'll talk to DOCTOR about going up on the glipizide.
+
+PATIENT X649
+Right.
+
+DOCTOR X649
+It could be you know and I don't know if we need to, so if you can't do the best one and glipizide you know you don't want to do multiple medications in the same class.  There's another medication called Actos, pioglitazone but it causes a little weight gain um.
+
+PATIENT X649
+I don't want to see that.
+
+DOCTOR X649
+Yeah I mean that's the biggest complaint.  People quit it because on average people gain like 5-10 pounds in like water weight.
+
+PATIENT X649
+I want to lost 15 pounds.
+
+DOCTOR X649
+Yeah exactly.  And people everywhere complain about it so beyond that then we start talking about @@@ medications um like Januvia and Byetta and some of the other kind of fancy medications and then after that its insulin.
+
+PATIENT X649
+Yeah.
+
+DOCTOR X649
+So let's try to see what we can do.
+
+PATIENT X649
+I think I'm probably up about 20-25 pounds.  I need to @@@.
+
+DOCTOR X649
+Weight loss, exercise, diet, those will help immensely.
+
+PATIENT X649
+Okay.  You got, you say @@@ you want to give me the script for the.
+
+DOCTOR X649
+Okay yeah I'll be right back and @@@.
+
+PATIENT X649
+Okay.  Alright.
+
+DOCTOR X649
+Give me a couple of minutes.
+
+PATIENT X649
+Okay.
+
+(DOCTOR OUT:  31:10  DOCTOR IN:  41:32)
+
+DOCTOR X649
+So @@@ talk about it.  You know I, we can't up on, we'll try to go with glyburide twice a day.
+
+PATIENT X649
+Okay.
+
+DOCTOR X649
+Um because of the issues of like the hypoglycemia in the past and you @@@ but let's spread the medication out a little bit so you're not taking it all at one time so I want you to ride your bike but you can't have your blood sugars @@@.
+
+PATIENT X649
+Yeah well you know I'm going to be keeping track of my blood sugar so uh you know I could just monitor the blood sugar when I'm checking it so.  When I ride you know I take about three candy bars with me anyway.
+
+DOCTOR X649
+Yeah.
+
+PATIENT X649
+You know cause I just @@@ you know.
+
+DOCTOR X649
+Now be sure to have with you, you know anyone with diabetes should have a little sugar thing on them but actually @@@.
+
+PATIENT X649
+Okay.
+
+DOCTOR X649
+This is kind of a list of things that have high potassium.
+
+PATIENT X649
+Oh okay.
+
+DOCTOR X649
+This is sort of the avoid list, but not 100%.  You don't have to avoid everything cause there's a lot of stuff on there that's good for you but the other thing is you know, like anything with like a really high number.  Like 400, so like you know bananas, kind of like dates, you know that sort of thing.  Like try to avoid the ones that have like the really high numbers, what's 65, beets, oh.  I don't even know @@@.
+
+PATIENT X649
+You know what I'm gonna tell you something.
+
+DOCTOR X649
+Yeah.
+
+PATIENT X649
+Bananas and I just devour two cantaloupes.
+
+DOCTOR X649
+Uh-huh.  Yeah.
+
+PATIENT X649
+I wonder if that brought it up cause I've been eating cantaloupe and the season goes quick.
+
+DOCTOR X649
+No you can eat it yeah.  I'm just saying you know its other things where you know.
+
+PATIENT X649
+Yeah.
+
+DOCTOR X649
+It's just good to maybe find something off of it by dietary means you know it's sort of like you know it's more like an informational type you know.
+
+PATIENT X649
+Yeah.
+
+DOCTOR X649
+We're talking.
+
+PATIENT X649
+Yeah.
+
+DOCTOR X649
+It's nothing that's 100%.
+
+PATIENT X649
+Right well if I eat the cantaloupe then I just lay off the bananas.
+
+DOCTOR X649
+Sounds good.
+
+PATIENT X649
+I can eat bananas anytime though.
+
+DOCTOR X649
+And that's gonna raise your level.  So I gave you the form.  So I'll change your medications in the computer too um so we'll do a three month follow-up with the pharmacist and we'll need to recheck the A1c and everything.
+
+PATIENT X649
+Okay.
+
+DOCTOR X649
+Okay.  
+
+PATIENT X649
+But can you give me a prescription for that?
+
+DOCTOR X649
+I'll get it for you.
+
+PATIENT X649
+I'll pick it up today @@@.
+
+DOCTOR X649
+VA appointment, you'll come back and see me in six months.
+
+PATIENT X649
+Great.
+
+DOCTOR X649
+Um and we'll go up on the glipizide.
+
+PATIENT X649
+You gonna send me for lab work?
+
+DOCTOR X649
+Uh yes.  We need to get it obviously and so right before you see the pharmacist.
+
+PATIENT X649
+Yeah.
+
+DOCTOR X649
+So I'll put it in the computer to be drawn like 2-2 1/2 months from now kind of whenever.
+
+PATIENT X649
+Yeah.
+
+DOCTOR X649
+So we can get your level like before that.
+
+PATIENT X649
+Okay.
+
+DOCTOR X649
+And so we'll recheck the A1c next time.  So I'll make sure you get your lab work.
+
+PATIENT X649
+Well you know I just as well, since I'm gonna pick them up I can come back and take the blood work you know maybe a couple of weeks before I see you.
+
+DOCTOR X649
+Well I would like for you to take it before you see the pharmacist cause they would actually try to make a change.
+
+PATIENT X649
+Okay.
+
+DOCTOR X649
+In any of your medications.
+
+PATIENT X649
+Oh you gonna send me to the pharmacist?
+
+DOCTOR X649
+Yeah in three months for the pharmacist.
+
+PATIENT X649
+Okay.
+
+DOCTOR X649
+And in six months to see me.
+
+PATIENT X649
+Okay.
+
+DOCTOR X649
+The pharmacist can access the A1c number otherwise if you want you can come back and see me sooner.
+
+PATIENT X649
+Okay.
+
+DOCTOR X649
+Uh let's see I want to make sure @@@ yeah so we've got.  I'll set that up before you see her.
+
+PATIENT X649
+Right @@@ mg @@@.
+
+DOCTOR X649
+Oh let's see @@@.  Prescription.  @@@.  I think every single time you come in I'll have you go check with her and see which one it is.
+
+PATIENT X649
+Okay.  I gotta tell you something, looking at this here I'm killing myself with potassium.  Sweet potatoes.
+
+DOCTOR X649
+Well sweet potatoes have potassium in them but they're sweet right.  
+
+PATIENT X649
+That's it, that's @@@.
+
+DOCTOR X649
+Do you get your prescriptions in like the 90 or 30 day rate?
+
+PATIENT X649
+90.
+
+DOCTOR X649
+Okay I'll put them in here for your refills.
+
+PATIENT X649
+No, if I pick them up I may run out.  For the, not blood pressure but for the.
+
+DOCTOR X649
+For the Pharmacy?
+
+PATIENT X649
+For the Pharmacy.
+
+DOCTOR X649
+I'll give it to you and you give it to @@@ or one of them up front.
+
+PATIENT X649
+Okay.
+
+DOCTOR X649
+And uh they'll make an appointment with NAME for about three months or so.
+
+PATIENT X649
+Okay.
+
+DOCTOR X649
+And I'll put it in the computer to follow up with me in six months.  So in about five months or so you'll get a letter saying to come back.
+
+PATIENT X649
+Okay.  Are you putting it in the computer before I go and get for the ultrasound?
+
+DOCTOR X649
+I'll put in the order for the ultrasound but you'll need to schedule the date and time.
+
+PATIENT X649
+Right.
+
+DOCTOR X649
+Or yeah you can still go there and do that and then the lab work I'll put in but you won't be able to take it until probably about two months or so.
+
+PATIENT X649
+Okay.
+
+DOCTOR X649
+I'll put like the start date cause the order will last 30 days and it's just, so maybe about a month before the Pharmacy appointment you can come in and have your labs.
+
+PATIENT X649
+Okay so when I come into the Pharmacy appointment well I just going to put on a Thursday to remind me to put the lab work in for my visit cause I'll be seeing you three months after that.
+
+DOCTOR X649
+Um I can put it in for myself also, that'll be fine.
+
+PATIENT X649
+Okay.
+
+DOCTOR X649
+Good.  Good seeing you @@@.
+
+PATIENT X649
+Thanks a lot doc.
+
+DOCTOR X649
+Good thing @@@ that one yeah.
+
+PATIENT X649
+Same here.  @@@.
+
+DOCTOR X649
+@@@.
+
+PATIENT X649
+That's right.
+
+PATIENT LEAVES:  51:49.
+
+
+
+

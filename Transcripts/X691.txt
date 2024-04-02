@@ -1,0 +1,704 @@
+
+DOCTOR X691
+PATIENT?  How you doing?
+ 
+PATIENT X691
+Okay, how are you?
+
+DOCTOR X691
+Good.  I'm DOCTOR.
+
+PATIENT X691
+You're what?
+
+DOCTOR X691
+DOCTOR.
+
+PATIENT X691
+Yeah.
+
+DOCTOR X691
+Nice to meet you.
+
+PATIENT X691
+Okay.  @@@.
+
+DOCTOR X691
+We'll go down here.  How are you doing today?
+
+PATIENT X691
+@@@.
+
+DOCTOR X691
+Oh I know it really nice.
+
+PATIENT X691
+Can I hang my coat up here?
+
+DOCTOR X691
+Absolutely yeah.
+
+PATIENT X691
+Now they gave me a microphone or something, we're supposed to record something.
+
+DOCTOR X691
+Oh okay.
+
+PATIENT X691
+Did you know about that?
+
+DOCTOR X691
+Uh yeah I know they're doing it occasionally with people so.
+
+PATIENT X691
+Yeah.
+
+DOCTOR X691
+Yeah.
+
+PATIENT X691
+I hope they're not gonna ask me to sing though.
+
+DOCTOR X691
+(Laughter)  I don't think so.
+
+PATIENT X691
+Okay.
+
+DOCTOR X691
+I'm just going to open up the computer here real quick okay.
+
+PATIENT X691
+Alright.
+
+DOCTOR X691
+Anything new you wanted to talk about?
+
+PATIENT X691
+Any new?
+
+DOCTOR X691
+Yeah.
+
+PATIENT X691
+No, I uh just got out of the hospital a couple, about a month ago.
+
+DOCTOR X691
+Oh okay.
+
+PATIENT X691
+My heart was missing beats and I had to wear a monitor for a month.
+
+DOCTOR X691
+Okay.
+
+PATIENT X691
+But uh all the time I had the monitor my heart was running right so I didn't.
+
+DOCTOR X691
+Huh.
+
+PATIENT X691
+Record anything and uh I feel okay.
+
+DOCTOR X691
+Have you had, when your heart misses a beat, do you.
+
+PATIENT X691
+Oh yeah I have a heart problem, I have a heart problem, I have to take a medication for that.
+
+DOCTOR X691
+Can you feel your heart missing and skipping beats?
+
+PATIENT X691
+Well at the time it happens I start getting nauseated and then I know that when cause the last time I had it was about a year ago and then I had it about a month ago and I can tell because then I feel my heart beat and I know @@@ and it stalls and then it goes again and then it stops so I think, I called my doctor and he told me to come into Emergency right away to check me out.  They held me for two days; they were checking me out and stuff like that.
+
+DOCTOR X691
+Okay.
+
+PATIENT X691
+But I.
+
+DOCTOR X691
+Do you see the cardiologists here also?  Do you get a cardiologist?
+
+PATIENT X691
+Yes I have a cardiologist.
+
+DOCTOR X691
+Oh you do, here at the VA?
+
+PATIENT X691
+No, no, no I have one on the outside.
+
+DOCTOR X691
+Oh okay.  Let me just open your chart real quick.
+
+PATIENT X691
+Uh-huh.
+
+DOCTOR X691
+So where is your cardiologist?
+
+PATIENT X691
+Who is he?
+
+DOCTOR X691
+Yeah where does he practice?
+
+PATIENT X691
+He's in uh, xxx.
+
+DOCTOR X691
+xxx okay.
+
+PATIENT X691
+Uh-huh.
+
+DOCTOR X691
+And that's where you got the Holter monitor?
+
+PATIENT X691
+Uh-huh yeah.
+
+DOCTOR X691
+Where they put the monitor.
+
+PATIENT X691
+Yeah, yeah.
+
+DOCTOR X691
+Okay.  And that's where you hospitalize there.
+
+PATIENT X691
+Uh-huh.
+
+DOCTOR X691
+Okay.  And that was one month ago.
+
+PATIENT X691
+Uh-huh.
+
+DOCTOR X691
+So right now they haven't really found anything?
+
+PATIENT X691
+Well they know that I had blockages.
+
+DOCTOR X691
+Okay.
+
+PATIENT X691
+I have some blockages and I've been medicating for over a year now.  I'm still taking medications.  They said that they couldn't give me a stent for some reason or the other and they couldn't put stents on me so they're just medicating.  But I actually feel alright you know except for that one time and that happened a month ago.
+
+DOCTOR X691
+And you felt a little nauseous then?
+
+PATIENT X691
+Yeah it starts out as a little bit nauseous.  Cause I had that same things about oh about a year ago.  I started feeling nauseated and I was missing beats and they rushed me to the hospital again.
+
+DOCTOR X691
+Let's see here so.  Do you check your blood pressures at home?
+
+PATIENT X691
+Yes.
+
+DOCTOR X691
+What do they usually range?
+
+PATIENT X691
+Uh anywhere from 90, from 87 to well it depends on if I cheat the day before then it goes up a little bit.
+
+DOCTOR X691
+Yeah sure.  @@@.
+
+PATIENT X691
+Uh like this morning it was about 147 but it's usually between 90, 107 and things like that if I behave.
+
+DOCTOR X691
+And do you smoke?
+
+PATIENT X691
+No.
+
+DOCTOR X691
+You quit like 45 years ago?
+
+PATIENT X691
+Yeah close to 50 now.
+
+DOCTOR X691
+Okay.  No other drugs or anything like that?
+
+PATIENT X691
+No.
+
+DOCTOR X691
+Have you seen the ophthalmologist, the eye doctor recently?
+
+PATIENT X691
+Yes I had uh, I had a cataract removed about two months ago in my right eye and uh I'm supposed to go back next month for the other eye.
+
+DOCTOR X691
+Where, who's your, where do you see the ophthalmologist?
+
+PATIENT X691
+In uh xxx.
+
+DOCTOR X691
+xxx xxx okay.
+
+PATIENT X691
+Uh-huh.
+
+DOCTOR X691
+And that was two months ago you had it?
+
+PATIENT X691
+It was about two months ago I had the right yeah. 
+
+DOCTOR X691
+Uh-huh.
+
+PATIENT X691
+That made a big difference.  I can drive without my glasses.  I can see TV without my glasses.  It made, I was surprised the difference it makes.
+
+DOCTOR X691
+Good, very good.  Let me see if you have any lab work here, let's see.  Do you see a kidney doctor also?
+
+PATIENT X691
+Uh yes.
+
+DOCTOR X691
+Okay and he's at xxx?
+
+PATIENT X691
+Uh-huh.
+
+DOCTOR X691
+Okay.  So you only have the primary care done here.
+
+PATIENT X691
+Just the primary.  I hadn't been here oh for a while and I needed strips to test my blood.
+
+DOCTOR X691
+Sure.
+
+PATIENT X691
+And DOCTOR says you know I should come in and get tested once in a while he said otherwise I can't get those strips so he sent me the strips anyway but he says I should come in and get a check-up or you know just a, so I can qualify for strips or whatever I need.  I don't know if you can order the test strips, they would the last time I was here.
+
+DOCTOR X691
+Yeah let's see, the last time you were here was June of this year to see the rheumatologist.
+
+PATIENT X691
+June of this year?
+
+DOCTOR X691
+Yeah so about six months ago.
+
+PATIENT X691
+Oh that's right yeah I seen doctor, oh I can't think of his name, yeah I seen him because uh every once in a while I get my finger sticks and I had to get a shot you know.  Those shots are painful in the hands.  I think it was a shot anyway.
+
+DOCTOR X691
+Yeah and the @@@.
+
+PATIENT X691
+Those I get @@@ yeah.
+
+DOCTOR X691
+Yeah yep they put a steroid in them.
+
+PATIENT X691
+Yeah, oh they're rough, they're rough.
+
+DOCTOR X691
+So which medications are you taking right now?
+
+PATIENT X691
+Oh I can give you a list I have.
+
+DOCTOR X691
+Yeah that'd be great.
+
+PATIENT X691
+Taking four medications.  I don't know wait a minute, that's not the.  Hmm there we go over here and some on the back.
+
+DOCTOR X691
+Okay.  Do you need any refills on anything?
+
+PATIENT X691
+No I was just wondering if I could get Ranexa out here cause it's so expensive that Ranexa.
+
+DOCTOR X691
+Oh I'll have to check to see if they carry that here, I don't think they do but I'll double check for you.
+
+PATIENT X691
+Yeah.  Everything else I get from Walgreens.
+
+DOCTOR X691
+And you have refills enough for it?
+
+PATIENT X691
+Yeah.
+
+DOCTOR X691
+And have you had the cholesterol checked recently?
+
+PATIENT X691
+The what?
+
+DOCTOR X691
+Your cholesterol?
+
+PATIENT X691
+Uh I don't know, I think I've had it checked but.
+
+DOCTOR X691
+Yeah I think we should go ahead and check it just today.
+
+PATIENT X691
+Yeah.
+
+DOCTOR X691
+Um actually did you eat yet today, you probably did right?
+
+PATIENT X691
+When this morning?
+
+DOCTOR X691
+Yeah.
+
+PATIENT X691
+Oh I had breakfast this morning.
+
+DOCTOR X691
+Yeah well unfortunately we have to check your cholesterol when you're fasting which means that you don't eat from midnight.
+
+PATIENT X691
+Uh-huh.  Well I.
+
+DOCTOR X691
+And then you get your lab work.
+
+PATIENT X691
+I can do that the next time I come.
+
+DOCTOR X691
+Yeah that'd be great if you could do that.
+
+PATIENT X691
+And then I just remembered, if I can get an early appointment cause I you know if I'm gonna fast, I want to come in after noon or something.
+
+DOCTOR X691
+Absolutely.  So I'm gonna refill those test strips for you.
+
+PATIENT X691
+I just got, I just got some.
+
+DOCTOR X691
+Oh.
+
+PATIENT X691
+I just got some about a week ago.
+
+DOCTOR X691
+Okay.  I'm gonna make sure you have enough refills.
+
+PATIENT X691
+Oh okay hon.
+
+DOCTOR X691
+So that way you don't have to worry about calling in for them.  So today I want to check your cholesterol and your hemoglobin A1c which checks your diabetes levels.
+
+PATIENT X691
+Uh-huh.
+
+DOCTOR X691
+And then um let's see.  Do you want the test strips mailed to you?
+
+PATIENT X691
+The what?
+
+DOCTOR X691
+The test strips do you want them mailed to you?
+
+PATIENT X691
+Yeah, yeah, mail them to me.
+
+DOCTOR X691
+Okay.  Uh did you get the flu shot this year?
+
+PATIENT X691
+I yes I had the flu shot.
+
+DOCTOR X691
+Okay.  For keeping that up thank you.
+
+PATIENT X691
+I guess this helps because I couldn't remember all this.
+
+DOCTOR X691
+Yes it helps having that around.
+
+PATIENT X691
+I always carry it with me.
+
+DOCTOR X691
+Good.  And you had a tetanus shot, is that right?
+
+PATIENT X691
+Yeah.
+
+DOCTOR X691
+Do you remember when approximately?
+
+PATIENT X691
+Uh I think, I think that was when I got my flu shot, that was about, about two months ago.
+
+DOCTOR X691
+Two months ago.
+
+PATIENT X691
+Yeah.
+
+DOCTOR X691
+Okay, did you have any other questions?
+
+PATIENT X691
+Uh no.
+
+DOCTOR X691
+So I'm just gonna order the lab work now and then whenever you come back in make sure you didn't eat the night before.
+
+PATIENT X691
+Yeah.
+
+DOCTOR X691
+Um.
+
+PATIENT X691
+The night before.
+
+DOCTOR X691
+Yeah starting at midnight the night before.
+
+PATIENT X691
+Uh-huh.
+
+DOCTOR X691
+You can't eat and then once you get the lab, like in the morning and then once you get the lab you can eat.
+
+PATIENT X691
+Okay.
+
+DOCTOR X691
+Yep.
+
+PATIENT X691
+And when do you want me to come back?
+
+DOCTOR X691
+Oh I want you to come back and see me in six months.
+
+PATIENT X691
+In six months.
+
+DOCTOR X691
+Yeah but you can get the lab work done whenever you're able to come back and get the lab work done and I'll look at it in the computer.
+
+PATIENT X691
+Oh I can come in just for the lab?
+
+DOCTOR X691
+Yeah, just for the lab work yeah.
+
+PATIENT X691
+Whenever I'm available.
+
+DOCTOR X691
+Uh-huh.
+
+PATIENT X691
+And how do I arrange that?
+
+DOCTOR X691
+You just go, I have the order in, so if you just go to the Lab.  Do you know where the Lab is?  It's just across the hall here.
+
+PATIENT X691
+You mean where they draw blood?
+
+DOCTOR X691
+Yes.
+
+PATIENT X691
+Yeah.
+
+DOCTOR X691
+Where they draw blood.  You just go there and say I need to get my blood drawn and they'll see the orders in the chart.
+
+PATIENT X691
+Oh okay.
+
+DOCTOR X691
+Yep.
+
+PATIENT X691
+Okay.  So I can come tomorrow or next week.
+
+DOCTOR X691
+Yeah.
+
+PATIENT X691
+Or whenever.
+
+DOCTOR X691
+Uh-huh.
+
+PATIENT X691
+Whenever and that.
+
+DOCTOR X691
+But within the next month.
+
+PATIENT X691
+Yeah and that's for the cholesterol.
+
+DOCTOR X691
+That's for the cholesterol and the blood sugars.
+
+PATIENT X691
+Yeah.  Well it'll probably be after the holidays.
+
+DOCTOR X691
+Yeah that's fine.
+
+PATIENT X691
+Cause I'm busy right now with the shopping and the.
+
+DOCTOR X691
+That's fine.  I'll give you @@@ for blood work.
+
+PATIENT X691
+Okay.
+
+DOCTOR X691
+I'll be right back okay.
+
+PATIENT X691
+Okay hon.
+
+(DOCTOR OUT:  28:08  DOCTOR IN:  34:04)
+
+DOCTOR X691
+Alright.  You have a little bit of a step down.
+
+PATIENT X691
+Yeah.
+
+DOCTOR X691
+So this is a piece of paper.  It's just to tell you that we need to do lab work.
+
+PATIENT X691
+Oh I have to bring this with me.
+
+DOCTOR X691
+No, no, you don't have to, that's for you to remember.
+
+PATIENT X691
+Oh okay.
+
+DOCTOR X691
+You can keep that with you.
+
+PATIENT X691
+Oh okay honey.
+
+DOCTOR X691
+And the Ranexa we don't have on formulary here so the only way we can try to get it non-formulary is if you want a cardiologist and they okay it.  Is that something you want to do?
+
+PATIENT X691
+No I'll just keep on getting it the way I am, you know.  Thank you anyway honey.
+
+DOCTOR X691
+Okay.  And then um you come back to see me in six months.
+
+PATIENT X691
+That's it?
+
+DOCTOR X691
+Yes that's it actually you need this to check out; you can keep it if you want to.  Your blood pressure is a little bit higher than what it really is.
+
+PATIENT X691
+Higher.
+
+DOCTOR X691
+Uh-huh.
+
+PATIENT X691
+What was my blood pressure?
+
+DOCTOR X691
+132/80.
+
+PATIENT X691
+That's high?
+
+DOCTOR X691
+Oh that's right around where you should be, it should be 120s, 130s.
+
+PATIENT X691
+Oh okay.  Take this with me?
+
+DOCTOR X691
+You can take it, you can keep it or you don't need it unless something's really.
+
+PATIENT X691
+Well I like to keep a record.
+
+DOCTOR X691
+Yeah, sure that sounds good.
+
+PATIENT X691
+Of the things that I do.  Okay now I'm supposed to turn this in.
+
+DOCTOR X691
+Yeah when you get out to the front.  Yeah.
+
+PATIENT X691
+I thought I was gonna have to sing a song or something.
+
+DOCTOR X691
+They might make you do that yet.
+
+PATIENT X691
+Yeah well, I don't care I like to sing.  I'm always singing by myself and my wife says, what are you singing for nobody's listening.
+
+DOCTOR X691
+Oh.  I'm sure you and everybody around happy.
+
+PATIENT X691
+Yeah.
+
+DOCTOR X691
+Can hear that. 
+
+PATIENT X691
+Okay then.
+
+DOCTOR X691
+And you have a good day okay.
+
+PATIENT X691
+You too.  Uh which way do I go?
+
+DOCTOR X691
+Just down here to that door on the left. 
+
+PATIENT X691
+Okay thank you bye, bye.
+
+Time is 1:25.
+
+
+
+

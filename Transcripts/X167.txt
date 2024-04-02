@@ -1,0 +1,807 @@
+
+DOCTOR X167
+PATIENT?
+
+PATIENT X167
+You're harder to get an appointment than the pope.
+
+DOCTOR X167
+What's that? 
+
+PATIENT X167
+You're harder to get an appointment than the pope.
+
+DOCTOR X167
+Oh really.  @@@.  How are you doing?
+
+PATIENT X167
+Uh not too good.
+
+DOCTOR X167
+What's going on?  I don't like to see @@@.
+
+PATIENT X167
+Let me get my @@@.
+
+DOCTOR X167
+Okay, headaches @@@.
+
+PATIENT X167
+I have an appointment Monday to have this wisdom tooth pulled out and I'm thinking the earache and the headache is from the wisdom tooth.
+
+DOCTOR X167
+Now is it a throbbing ache that you have in the tooth?
+
+PATIENT X167
+Yeah.
+
+DOCTOR X167
+Yeah.
+
+PATIENT X167
+They gave me ibuprofen but all that does it make me urinate a lot.
+DOCTOR X167
+Ibuprofen not good for this.
+
+PATIENT X167
+Oh she said I have to see my primary physician.
+
+DOCTOR X167
+Oh good.  Nobody wants to take responsibility.
+
+PATIENT X167
+Yeah.
+
+DOCTOR X167
+Alright um so @@@ let's see what it is today.
+
+PATIENT X167
+I need to see an oral surgeon.
+
+DOCTOR X167
+Well you have um.
+
+PATIENT X167
+Hmm.
+
+DOCTOR X167
+@@@.
+
+PATIENT X167
+Yeah.
+
+DOCTOR X167
+I'll get you scheduled.
+
+PATIENT X167
+Oh good.
+
+DOCTOR X167
+@@@.
+
+PATIENT X167
+That's what @@@ I can't see straight.
+
+DOCTOR X167
+@@@, it didn't say in the note.
+
+PATIENT X167
+I don't have cataracts.
+
+DOCTOR X167
+That's why there's nothing in there.
+
+PATIENT X167
+No.
+
+DOCTOR X167
+No.  Neuro.
+
+PATIENT X167
+I seen her.
+
+DOCTOR X167
+You saw Neuro.
+
+PATIENT X167
+I don't have to see her for eight months.
+
+DOCTOR X167
+Okay and amitriptyline, what are you taking amitriptyline for?
+
+PATIENT X167
+I don't know.
+
+DOCTOR X167
+Was it um, was it for depression or was it for um pain?
+
+PATIENT X167
+No I don't, well whatever it is.
+
+DOCTOR X167
+You want to stop it?
+
+PATIENT X167
+Yeah cause I was forgetting a lot.
+
+DOCTOR X167
+Alright.  Do you feel better after you stopped this?
+
+PATIENT X167
+Yeah.
+
+DOCTOR X167
+Let's see what's in their last note.  And Plavix you stopped as well?
+
+PATIENT X167
+Yes.
+
+DOCTOR X167
+That's fine because it's been at least a year.
+
+PATIENT X167
+Good, thank you, thank you.
+
+DOCTOR X167
+I mean sometimes we have to do two years but you're @@@ doctor's got you on @@@ like forever for some people.
+
+PATIENT X167
+Oh.
+
+DOCTOR X167
+But um, it's been at least a year now.
+
+PATIENT X167
+Cause my wife put an initial on my stomach with just her finger.  She was joking and says it'll be here tomorrow.  I woke up the next day, there it was so that's when I stopped it.
+
+DOCTOR X167
+Oh.  And the @@@ you were taking for @@@.
+
+PATIENT X167
+Yeah.
+
+DOCTOR X167
+So we'll get that refilled.  And the numbness is where?
+
+PATIENT X167
+Oh numbness, that was the amitriptyline.
+
+DOCTOR X167
+Oh.  Weight loss?
+
+PATIENT X167
+Yeah I do.
+
+DOCTOR X167
+How much have you lost?  
+
+PATIENT 270
+I'm down to, naked 150 pounds.  You've lost @@@.
+
+DOCTOR X167
+Since April.  Do you have, did you notice any blood in your stools?
+
+PATIENT X167
+No.
+
+DOCTOR X167
+Um blood stools, are you coughing more than usual?
+
+PATIENT X167
+Uh no I don't cough.
+
+DOCTOR X167
+So you don't cough.
+
+PATIENT X167
+Hmm.
+
+DOCTOR X167
+No blood anywhere?
+
+PATIENT X167
+No everything is okay yeah.
+
+DOCTOR X167
+And you're still smoking?
+
+PATIENT X167
+Yeah.
+
+DOCTOR X167
+Okay um, with the weight loss.  Let's do this, let's do a basic set of labs.
+
+PATIENT X167
+Yeah.
+
+DOCTOR X167
+We'll do the uh chest x-ray.
+
+PATIENT X167
+For that spot on my uh lung?
+
+DOCTOR X167
+Uh-huh.
+
+PATIENT X167
+Okay.
+
+DOCTOR X167
+Chest x-ray um.
+
+PATIENT X167
+@@@.
+
+DOCTOR X167
+And let's see, have you had a colonoscopy?
+
+PATIENT X167
+No, no, no, no.  I'm not going to go steady with nobody.
+
+DOCTOR X167
+But your weight loss, I mean it's really important to figure out why you're losing it and it's like one of the easiest things that we can do.
+
+PATIENT X167
+Let's check the other ones first.
+
+DOCTOR X167
+They might not be as telling as the colonoscopy.
+
+PATIENT X167
+What?
+
+DOCTOR X167
+They might not be as telling as colonoscopy.
+
+PATIENT X167
+Well.
+
+DOCTOR X167
+You had imaging at the end of May.  Let's see.  Maybe if they @@@ not just x-rays but @@@.
+
+PATIENT X167
+Okay, not today though right?
+
+DOCTOR X167
+No.
+
+PATIENT X167
+Okay.
+
+DOCTOR X167
+So how's the kidney function.
+
+PATIENT X167
+Kidney.
+
+DOCTOR X167
+@@@.  Need some pills for that?
+
+PATIENT X167
+@@@.  He's been like that for a long time, trying to wake him up.
+
+DOCTOR X167
+Okay gotcha.  @@@.
+
+PATIENT X167
+They all work.
+
+DOCTOR X167
+Which one the.
+
+PATIENT X167
+The Ambien.
+
+DOCTOR X167
+Ambien doesn't work?
+
+PATIENT X167
+No cause I used to take one a night that puts me to sleep for maybe about two hours.  Then I take another one, maybe another two hours.  I only get about maybe five hours sleep now.
+
+DOCTOR X167
+So the Chantix did not work for you?
+
+PATIENT X167
+No it didn't even slow me down.
+
+DOCTOR X167
+Okay.  @@@.
+
+PATIENT X167
+Yeah.
+
+DOCTOR X167
+Okay.  
+
+PATIENT X167
+These are the medications.  You can probably get it on the computer.  So you don't need this.
+
+DOCTOR X167
+You want to pick them up here?
+
+PATIENT X167
+Yeah.
+
+DOCTOR X167
+Today.
+
+PATIENT X167
+Yeah.
+
+DOCTOR X167
+Okay.  
+
+PATIENT X167
+Uh plus I've been under a lot of stress because of my mother.  I'm trying to get her into a home and she's giving me a hard time.  Maybe that's why my hair is falling out, I don't know.
+
+DOCTOR X167
+@@@.  We'll do this without contrast?
+
+PATIENT X167
+Okay.
+
+DOCTOR X167
+For the kidneys.
+
+PATIENT X167
+Okay yeah.
+
+DOCTOR X167
+Alright and see what they can see from it.
+
+PATIENT X167
+Okay and then I have to get something next month and they're going to see how bad the neuropathy is on my feet.  Stick needles in me.
+
+DOCTOR X167
+Neurology is going to do that?
+
+PATIENT X167
+Yeah I already got an appointment and everything for that.
+
+DOCTOR X167
+When do you want the @@@ I can't put the dates of but @@@.
+
+PATIENT X167
+Well when do I have the appointment with the, when are they going to do my feet?
+
+DOCTOR X167
+Oh that, I'd have to get out of the whole thing here I think.
+
+PATIENT X167
+Oh then don't worry about it.
+
+DOCTOR X167
+Let's do the labs, they probably won't be able to.
+
+PATIENT X167
+This week.
+
+DOCTOR X167
+This week, how about this week.
+
+PATIENT X167
+Yeah okay.
+
+DOCTOR X167
+I'll fill those dates, now we can't wait that long.
+
+PATIENT X167
+Okay.
+
+DOCTOR X167
+@@@.
+
+PATIENT X167
+Okay.
+
+DOCTOR X167
+Open.
+
+PATIENT X167
+Ah.
+
+DOCTOR X167
+@@@.
+
+PATIENT X167
+No @@@ this.
+
+DOCTOR X167
+Alright.
+
+PATIENT X167
+Okay, I got to be there by, when it is going to be?
+
+DOCTOR X167
+December 27th.
+
+PATIENT X167
+Yeah.
+
+DOCTOR X167
+December 27th, about a week.
+
+PATIENT X167
+Yeah.
+
+DOCTOR X167
+Okay I'll @@@ tomorrow.
+
+PATIENT X167
+Yeah I got to get my tooth pulled @@@ okay.  @@@.
+
+DOCTOR X167
+Take a deep breath.  Okay.  Um do you have any trouble swallowing?
+
+PATIENT X167
+No.
+
+DOCTOR X167
+No.  Okay just breathe normal.  Does it hurt there?
+
+PATIENT X167
+No.
+
+DOCTOR X167
+No.
+
+PATIENT X167
+Is that from that tooth too?
+
+DOCTOR X167
+It's like uh, @@@ little bit.  It could be if the tooth is infected.
+
+PATIENT X167
+Okay.
+
+DOCTOR X167
+But why don't we, since we're doing the CT anyway include your neck okay.
+
+PATIENT X167
+Okay.
+
+DOCTOR X167
+And make sure that, if it's just a reaction to @@@ you know once the tooth is pulled out its going to go away.
+
+PATIENT X167
+Okay.  @@@.  And when they pull this Monday can you give me something to put me into la la land before I get here?
+
+DOCTOR X167
+Um they'll give you something over there you know.
+
+PATIENT X167
+Are you sure?
+
+DOCTOR X167
+@@@ so I don't know how extensive they're going to do if like it's going to be something extensive they're going to give you something that day.
+
+PATIENT X167
+Oh.
+
+DOCTOR X167
+But um.
+
+PATIENT X167
+Give me what?  Cause that ibuprofen ain't doing the job for the pain.
+
+DOCTOR X167
+Do you have @@@ today no?
+
+PATIENT X167
+No.
+
+DOCTOR X167
+Okay, you'll just pick them up @@@.
+
+PATIENT X167
+Yes there's the address on here and everything.  Thank you.
+
+DOCTOR X167
+I have homework from everybody that's coming in.  Okay I'll be right back okay.
+
+PATIENT X167
+Okay.
+
+(DOCTOR OUT:  106:20  DOCTOR IN:  117:40)
+
+DOCTOR X167
+So we'll do the refills and that without contrast.
+
+PATIENT X167
+Okay.
+
+DOCTOR X167
+See what it is there.  It's something that we need to have a contrast we'll you know, we'll repeat it with the contrast cause we don't want to do the contrast if it's not needed.
+
+PATIENT X167
+Okay.
+
+DOCTOR X167
+Uh and we'll get some labs today.
+
+PATIENT X167
+@@@ okay.
+
+DOCTOR X167
+And um.
+
+PATIENT X167
+Chest x-ray?
+
+DOCTOR X167
+No we'll do the CT.
+
+PATIENT X167
+Oh okay that's good.
+
+DOCTOR X167
+So we'll get the CT.
+
+PATIENT X167
+Okay, okay fine.
+
+DOCTOR X167
+And we'll see what shows up.
+
+PATIENT X167
+Okay.
+
+DOCTOR X167
+Now um if anything on that, you know we can find anything on that that would explain your weight loss, but if we can't find any reason for weight loss there, you know what's coming; you know what I'm going to ask.
+
+PATIENT X167
+Oh, yeah, yeah, okay okay.
+
+DOCTOR X167
+Okay.
+
+PATIENT X167
+Let me think about that okay.
+
+DOCTOR X167
+Okay.  Alright so and you don't take any medicine for diabetes?
+
+PATIENT X167
+No, no.  I'm at 6.6 and I went to that class @@@.
+
+DOCTOR X167
+And because of your low um, you're potassium runs on the lower side um check.
+
+PATIENT X167
+I @@@.
+
+DOCTOR X167
+No I'm just going to take a couple of the labs and um.
+
+PATIENT X167
+Okay.
+
+DOCTOR X167
+I'll call you.  So we're going to do a bunch of labs.
+
+PATIENT X167
+Okay.
+
+DOCTOR X167
+Lab work on you.
+
+PATIENT X167
+Okay.
+
+DOCTOR X167
+And this system is weird.  It doesn't let me order CT without contrast.
+
+PATIENT X167
+Okay.
+
+DOCTOR X167
+So um make sure they don't give you contrast.  I put in a comment not to give you the contrast.
+
+PATIENT X167
+Okay.
+
+DOCTOR X167
+@@@.
+
+PATIENT X167
+Okay.
+
+DOCTOR X167
+Okay.
+
+PATIENT X167
+Okay when do I go for the CT?
+
+DOCTOR X167
+Well they'll give you an appointment.
+
+PATIENT X167
+Oh really.
+
+DOCTOR X167
+Probably, so I put it for a Wednesday, requested a Wednesday.
+
+PATIENT X167
+Okay.
+
+DOCTOR X167
+So they will probably call you @@@.
+
+PATIENT X167
+Okay.
+
+DOCTOR X167
+You will get @@@ pills.  
+
+PATIENT X167
+Oh okay.
+
+DOCTOR X167
+So if they only give you two pills, I always tell people to break them.
+
+PATIENT X167
+Okay.
+
+DOCTOR X167
+You know, @@@.
+
+PATIENT X167
+Yeah.
+
+DOCTOR X167
+@@@ and um I think we're going to give you @@@ to try um for two weeks.
+
+PATIENT X167
+Okay.  And @@@ headaches and toothache?
+
+DOCTOR X167
+Well um.  Okay uh for I'll give you a 15 day supply of these.
+
+PATIENT X167
+Okay.
+
+DOCTOR X167
+Um I'll @@@ okay.
+
+PATIENT X167
+Okay.
+
+DOCTOR X167
+Uh I really, don't take ibuprofen; I don't want you to take ibuprofen.
+
+PATIENT X167
+That one.
+
+DOCTOR X167
+Yeah because it's not the right thing for your teeth.
+
+PATIENT X167
+Alright 600 mg too.
+
+DOCTOR X167
+Yeah you @@@.
+
+PATIENT X167
+Okay fine with me.
+
+DOCTOR X167
+So um let's see, twice a day and we'll see how you do after @@@.
+
+PATIENT X167
+@@@.
+
+DOCTOR X167
+There are two refills on that, if you need more, tell them that they should be able to prescribe you Vicodin.
+
+PATIENT X167
+Okay.
+
+DOCTOR X167
+Sort of like a postop thing.
+
+PATIENT X167
+Okay.
+
+DOCTOR X167
+And um hopefully you won't need anything @@@.
+
+PATIENT X167
+Okay.
+
+DOCTOR X167
+Alright.  @@@.
+
+PATIENT X167
+Kind of full.
+
+DOCTOR X167
+So now um Pharmacy, Lab.
+
+PATIENT X167
+Yeah.
+
+DOCTOR X167
+Whatever you want to do and you can actually stop by Radiology and ask them about the CT scan when they can schedule you.  They won't do it right now but you can go and ask them.
+
+PATIENT X167
+No you already did it huh?
+
+DOCTOR X167
+No I put the order but you still can see.
+
+PATIENT X167
+Where do I go for that?
+
+DOCTOR X167
+Uh it's downstairs where the Lab is, the Radiology Department.  So ask them if they can schedule you for that.
+
+PATIENT X167
+What do you call that place?
+
+DOCTOR X167
+Radiology.
+
+PATIENT X167
+Ah Radiology huh.  Okay, see if I can get an appointment with them right.
+
+DOCTOR X167
+Uh-huh.
+
+PATIENT X167
+For Wednesday right?
+
+DOCTOR X167
+Yeah whatever, I put it for a Wednesday but they really need to do that.
+
+PATIENT X167
+And no.
+
+DOCTOR X167
+No contrast.  No IV contrast.  @@@.
+
+PATIENT X167
+Okay.
+
+DOCTOR X167
+Alright.
+
+PATIENT X167
+I'm done?
+
+DOCTOR X167
+You're done.
+
+PATIENT X167
+Alright.
+
+DOCTOR X167
+And um let's see I'm going to put six months follow-up but I'm going to call you with all this stuff anyway so you can come in earlier if you need to.
+
+PATIENT X167
+Okay, alright.
+
+DOCTOR X167
+Alright.
+
+PATIENT X167
+You ready?
+
+DOCTOR X167
+Give it to the uh folks up front at check out.
+
+PATIENT X167
+Alright, I got to get rid of this @@@.
+
+DOCTOR X167
+Alright.
+
+PATIENT X167
+See you in six months.
+
+PATIENT LEAVES:  124:0
+
+Time is 2:55
+
+
+
+

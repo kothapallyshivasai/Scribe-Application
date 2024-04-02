@@ -1,0 +1,2481 @@
+
+DOCTOR X348
+PATIENT?
+
+PATIENT X348
+Yes, yes.
+
+DOCTOR X348
+I thought I recognized you downstairs.  @@@.
+
+PATIENT X348
+Okay.
+
+DOCTOR X348
+Follow me this way.
+
+PATIENT X348
+Alright.
+
+DOCTOR X348
+We're going to slide your card on the way here just so.
+
+PATIENT X348
+Sure @@@.
+
+DOCTOR X348
+We're here to serve.  Alright I'll just have you stand here.
+
+PATIENT X348
+Okay, there's room.
+
+DOCTOR X348
+You want to go up in there in the Waiting Room.
+
+PATIENT X348
+Okay.  @@@ get through.
+
+DOCTOR X348
+Do you mind pushing the door closed for me, thank you?
+
+PATIENT X348
+It's been a while since I've seen you.
+
+DOCTOR X348
+I know, it's been a while.
+
+PATIENT X348
+Well I got my scooter.
+
+DOCTOR X348
+I noticed that, that's great.  So how do you like that?
+
+PATIENT X348
+Oh it's great.
+
+DOCTOR X348
+Great, good, good, good.
+
+PATIENT X348
+I don't have to try and push the wheelchair no more.
+
+DOCTOR X348
+Excellent.  I knew, I saw you downstairs.  I don't know if you saw, when I was coming in.
+
+PATIENT X348
+Right.
+
+DOCTOR X348
+And I saw you scoot by and I was thinking @@@ so.
+
+PATIENT X348
+I got my @@@.
+
+DOCTOR X348
+I have a name with a face, here we go.
+
+PATIENT X348
+I got uh my dentures too.
+
+DOCTOR X348
+Okay.
+
+PATIENT X348
+I got them just before Christmas.
+
+DOCTOR X348
+Great, alright.  So last time we talked about a lot of things.
+
+PATIENT X348
+Yeah.
+
+DOCTOR X348
+Um anything that you want to make sure that we talk about here today?  Your medicines.
+
+PATIENT X348
+You know a lot zeros.
+
+DOCTOR X348
+Lot of zeros.  So we'll get you your medication refills so that's the thing any issues or concerns? 
+
+PATIENT X348
+Uh.
+
+DOCTOR X348
+None really actually that we saw.
+
+PATIENT X348
+My back and my uh.
+
+DOCTOR X348
+It's hurting you?
+
+PATIENT X348
+Well my shoulder and my neck remember?
+
+DOCTOR X348
+Okay yeah.
+
+PATIENT X348
+Well I started out putting heat on it and DOCTOR, he's my neuro what you call right.
+
+DOCTOR X348
+Uh-huh.
+
+PATIENT X348
+Doctor and he said uh if I put some ice on.
+
+DOCTOR X348
+Okay.
+
+PATIENT X348
+You know, some packs of vegetables.
+
+DOCTOR X348
+Yeah.
+
+PATIENT X348
+Until it turns numb.
+
+DOCTOR X348
+Uh-huh.
+
+PATIENT X348
+And I used to do that too.
+
+DOCTOR X348
+Yeah did that help?
+
+PATIENT X348
+Yeah somewhat.
+
+DOCTOR X348
+Yeah okay.
+
+PATIENT X348
+Then I got Trianol I know.
+
+DOCTOR X348
+Tramadol or Tylenol?
+
+PATIENT X348
+Yeah.
+
+DOCTOR X348
+Oh tramadol okay.
+
+PATIENT X348
+Yeah from the hospital here.
+
+DOCTOR X348
+Okay, okay.
+
+PATIENT X348
+Now two tablets won't do it so I've increased sometimes to three and four.
+
+DOCTOR X348
+Uh-huh.
+
+PATIENT X348
+Now that'll do it.
+
+DOCTOR X348
+Okay.  So like what dose, let me see what dose you're getting.  I just, I'm trying to remember when the last time was that we saw each other.  It was a while; it was way back in August huh.
+
+PATIENT X348
+Yeah last year.
+
+DOCTOR X348
+Yeah last August. Um, service connection, had some chest pain, wanted the wheelchair.
+
+PATIENT X348
+Oh.
+
+DOCTOR X348
+@@@.
+
+PATIENT X348
+Oh since I've seen you yes I've had three more stents put in.  I got four stents total in my heart now.
+
+DOCTOR X348
+Four stents total now huh?
+
+PATIENT X348
+Yes, yes.
+
+DOCTOR X348
+Were those stents placed here?
+
+PATIENT X348
+Yes.
+
+DOCTOR X348
+They were okay.
+
+PATIENT X348
+Yes, it was.
+
+DOCTOR X348
+Okay.
+
+PATIENT X348
+And also they've confirmed that I do have Agent Orange.
+
+DOCTOR X348
+Okay.
+
+PATIENT X348
+Uh what's it called, some kind coronary disease in my heart.
+
+DOCTOR X348
+Uh-huh, okay.
+
+PATIENT X348
+Some oversight from Agent Orange from Vietnam.
+
+DOCTOR X348
+Oh okay.  So they @@@.
+
+PATIENT X348
+It's from that yes.
+
+DOCTOR X348
+That you are service-connected through that?
+
+PATIENT X348
+At 100%.
+
+DOCTOR X348
+At 100% okay.
+
+PATIENT X348
+Yeah.
+
+DOCTOR X348
+Good, well like I said it was good that they found out it was service connection and everything.
+
+PATIENT X348
+Yeah.
+
+DOCTOR X348
+Worked out.
+
+PATIENT X348
+Yeah, yeah.
+
+DOCTOR X348
+Okay so main issues today, medication refills, getting your meds taken care of.  We'll talk about your pain and see you know what else, if there's anything else we can do.  I want to look at your tramadol dose cause I want to make sure that.
+
+PATIENT X348
+I spoke to somebody one other time about it and we were halfway home and they even called on the cell phone and told me no I couldn't do the rest of the pills, I could only do two at one time.
+
+DOCTOR X348
+Yeah.
+
+PATIENT X348
+But she still won't do it at one time.
+
+DOCTOR X348
+Yeah.  Well let me look.  I'm going to look and see what the maximum dose of that is because.
+
+PATIENT X348
+Okay.
+
+DOCTOR X348
+What we all want is for you know.
+
+PATIENT X348
+Oh @@@.
+
+DOCTOR X348
+For the pain to go away but then have you know.
+
+PATIENT X348
+Right.
+
+DOCTOR X348
+Some other issues so, let me just see what the maximum dose for that is okay.
+
+PATIENT X348
+Alright.
+
+DOCTOR X348
+What would we do without, let's see so you're taking three or four.
+
+PATIENT X348
+Yes.
+
+DOCTOR X348
+Pills how many times a day?
+
+PATIENT X348
+Sometimes two and three times a day.
+
+DOCTOR X348
+Okay.
+
+PATIENT X348
+A lot of times it's up through the night.  I get up out of bed at night.  Now DOCTOR gave me some other pills now.
+
+DOCTOR X348
+Yeah.
+
+PATIENT X348
+Put me back on amitriptyline, I think that's what you call it.
+
+DOCTOR X348
+Uh-huh.
+
+PATIENT X348
+And uh started me on two of them every night now and then we were going increase to three and then we can increase it to four.
+
+DOCTOR X348
+The amitriptyline.
+
+PATIENT X348
+Yeah and he took away the Depakote.
+
+DOCTOR X348
+Yeah.
+
+PATIENT X348
+The Depakote.
+
+SECOND PERSON X348
+What was that actually for?
+
+DOCTOR X348
+Amitriptyline?
+
+SECOND PERSON X348
+Yeah.
+
+DOCTOR X348
+Amitriptyline is a, it's a type of antidepressant but it's one of those medicines that helps with pain as well so it's sort of a.
+
+PATIENT X348
+Helps you sleep.
+
+DOCTOR X348
+Sort of helps with sleep, it helps with pain.  It's general class is that it's a type of antidepressant.
+
+PATIENT X348
+Okay.
+
+DOCTOR X348
+Um but it helps with, helps with sleep and pain um which is what it seems like its being used for here.  So the issue is the maximum dose is not to exceed 400 mg of the tramadol per day and it sounds like you're exceeding that.  You're getting, you're getting probably at least 600 if not 800 it sounds like per day.  So, we gotta do something with your pain to try to adjust this okay.  So we'll talk about, we'll talk about that.
+
+PATIENT X348
+Okay.
+
+DOCTOR X348
+Um alright so you've got three additional stents place in the intervening time yeah huh?
+
+PATIENT X348
+Yeah.
+
+DOCTOR X348
+How are you doing, any chest pain, shortness of breath?
+
+PATIENT X348
+Well yes I have once in a while but they told me that's the best they can do is.
+
+DOCTOR X348
+Okay.
+
+PATIENT X348
+See I got my nitro in my pocket.
+
+DOCTOR X348
+Yeah.
+
+PATIENT X348
+I live with my nitro.
+
+DOCTOR X348
+Yeah.
+
+PATIENT X348
+So once in a while I've had to use it but not all the time.
+
+DOCTOR X348
+Cardiology basically said they can't stent anything else or @@@.
+
+PATIENT X348
+Right.  Well I got to see them the 31st again this month.
+
+DOCTOR X348
+Okay.  Okay good.
+
+PATIENT X348
+I was in here not too long ago and uh the wife brought me to the Emergency Room, well they made me stay overnight.
+
+DOCTOR X348
+Uh-huh.
+
+PATIENT X348
+They gave me a stress test the next day.
+
+DOCTOR X348
+Stress test.
+
+PATIENT X348
+And I went one through it with flying colors.
+
+DOCTOR X348
+You said you did well with the stress test good.
+
+PATIENT X348
+Yeah.
+
+DOCTOR X348
+Good okay.  And then we need to talk about your medications and.
+
+PATIENT X348
+Of course we got a lot of stress at home.  We got uh little ones.
+
+DOCTOR X348
+Uh-huh.
+
+PATIENT X348
+We got dogs.  We got a lot of stuff we shouldn't have but we have.
+
+DOCTOR X348
+Lots of uh stress at home.
+
+PATIENT X348
+Yeah our daughter's living with us.
+
+DOCTOR X348
+Okay.
+
+PATIENT X348
+And our granddaughter's living with us.
+
+DOCTOR X348
+Hmm.
+
+PATIENT X348
+And her son is living with us now.
+
+DOCTOR X348
+Okay.
+
+PATIENT X348
+And you know, I should call them all brats but their not.  The grandchildren, but geez you know.
+
+DOCTOR X348
+So a lot of stress at home huh.
+
+PATIENT X348
+And the house is a total mess all the time.
+
+DOCTOR X348
+Yeah.
+
+PATIENT X348
+The wife it gets her and when it gets her she gets on me.
+
+DOCTOR X348
+So your wife lives at home, wife, daughter, grandchildren, how many grandchildren?
+
+SECOND PERSON X348
+Two.
+
+PATIENT X348
+Two.  Cause.
+
+SECOND PERSON X348
+@@@.
+
+PATIENT X348
+It would be nice you know.  The wife and me we get along fine.
+
+DOCTOR X348
+Uh-huh.
+
+PATIENT X348
+But we've taken on, you know what are you gonna do you know, we can't kick them out on the street.
+
+DOCTOR X348
+Uh-huh.
+
+PATIENT X348
+I tried that Sunday but they wouldn't let me.
+
+DOCTOR X348
+Um, let me real quick just ask you a few questions just to make sure, um what did you do for work?  You were driving a truck right?
+
+PATIENT X348
+Yes.
+
+DOCTOR X348
+And some maintenance work in the past?
+
+PATIENT X348
+Yeah I been a mechanic and a truck driver.
+
+DOCTOR X348
+Okay.  Okay and uh you were in the Army is that right?
+
+PATIENT X348
+Yes.
+
+DOCTOR X348
+And you toured in Vietnam.
+
+PATIENT X348
+Yes.  I got 10 years, 7 months, 3 days in the Army.  Three hitches.
+
+DOCTOR X348
+What was your job in the Army, were you infantry?
+
+PATIENT X348
+Maintenance.
+
+DOCTOR X348
+Maintenance okay.
+
+PATIENT X348
+Maintenance in six different styled units.  Airborne mechanics.
+
+DOCTOR X348
+Wow.
+
+PATIENT X348
+Alpha 3 in xxx.
+
+DOCTOR X348
+@@@.
+
+PATIENT X348
+@@@ you know.
+
+SECOND PERSON X348
+@@@.
+
+PATIENT X348
+Oh yes.
+
+DOCTOR X348
+Lots of @@@.
+
+PATIENT X348
+Yes.
+
+DOCTOR X348
+And you had Agent Orange exposure we know that.
+
+PATIENT X348
+Yes.
+
+DOCTOR X348
+Uh any alcohol use?
+
+SECOND PERSON X348
+@@@.
+
+PATIENT X348
+Uh yes.
+
+DOCTOR X348
+Yeah about how much do you think you in a given week?
+
+PATIENT X348
+Oh I haven't drank, I haven't drank in like 20 years now.
+
+DOCTOR X348
+Okay.
+
+PATIENT X348
+But in Vietnam I didn't use drugs I used alcohol.
+
+DOCTOR X348
+Okay.  So you quit maybe let's see in the 90s, early 90s okay.
+
+PATIENT X348
+Yeah.
+
+DOCTOR X348
+Okay but prior to that.
+
+PATIENT X348
+Well Vietnam was the worst.  You pickle yourself see.
+
+DOCTOR X348
+Uh-huh.
+
+PATIENT X348
+That way you already, you got where or you do what you do in the hospital, they sterilized you, well you're already sterilized right now.
+
+SECOND PERSON X348
+@@@.
+
+DOCTOR X348
+Okay.  Alright and then tobacco use, so you're still smoking a few cigarettes a day?
+
+PATIENT X348
+Yes I am.
+
+DOCTOR X348
+Is it one to, the last time I wrote down 1-2 cigarettes per day.
+
+PATIENT X348
+Yes that's all, that's all.
+
+DOCTOR X348
+Alright.
+
+PATIENT X348
+Now the wife is going to try to get set up out there in xxx to try to take that smoking cessation class.  I would like myself; I would like me and my wife both to do it at the same time right there in xxx where we both go to the same class.
+
+DOCTOR X348
+Uh-huh.  Yeah.
+
+PATIENT X348
+Alright we'll get to quit.
+
+DOCTOR X348
+So I don't know anything about that program.  All the resources that I have would be for you.  There is a smoking cessation you know group here through the VA that I could set you up with but if you want to look into doing one in xxx together I would highly encourage it but I don't have any way to set you up with it.
+
+PATIENT X348
+Right.  Well see we got another problem too, our daughter, they repoed her car.
+
+DOCTOR X348
+Hmm.
+
+PATIENT X348
+And she's not living with her husband no more, they're kind of semi-separated.
+
+DOCTOR X348
+Okay.
+
+PATIENT X348
+Then she's using our Bravado all the time.
+
+DOCTOR X348
+Yeah.
+
+PATIENT X348
+She uses our truck.
+
+DOCTOR X348
+Your car okay.  So you have a transportation issue.
+
+SECOND PERSON X348
+Uh-huh.
+
+PATIENT X348
+Yes.
+
+SECOND PERSON X348
+That's what we have.
+
+DOCTOR X348
+Yeah.  Um hmm.
+
+PATIENT X348
+And we don't have enough money to buy a car for her.
+
+DOCTOR X348
+Yeah.  Tough situation it sounds like.  As far as other family history I have that you're estranged from your other family members.  Do you know much about family history from your mom and dad?
+
+PATIENT X348
+My mother died from hardening of the arteries.
+
+DOCTOR X348
+Okay.
+
+PATIENT X348
+My dad I don't know what he died from.
+
+DOCTOR X348
+Do you know how old she was?
+
+PATIENT X348
+Yes 92.
+
+DOCTOR X348
+Okay.
+
+SECOND PERSON X348
+I'm thinking that's wrong.
+
+PATIENT X348
+She was fairly young @@@.  No.
+
+DOCTOR X348
+So your father you're uncertain.
+
+PATIENT X348
+Yeah he died from, no dad was 72, 73.
+
+DOCTOR X348
+Okay.
+
+PATIENT X348
+I know he had half a stomach and he had some other stuff wrong. I mean he drank.  He was an alcoholic.  Cause he was married four or five times and we were worst so.
+
+DOCTOR X348
+Okay.
+
+PATIENT X348
+And he also ran a nightclub so I don't know.
+
+DOCTOR X348
+Okay.  Um alright.  So that's for your background stuff, now and your allergies.  I have you have an allergy to aspirin?
+
+PATIENT X348
+Yes, but they're overlooking it because I got to take an aspirin and Plavix every day.
+
+DOCTOR X348
+Every day you have.
+
+PATIENT X348
+Every morning.
+
+DOCTOR X348
+Yeah because of the stents yeah.
+
+PATIENT X348
+Yes.
+
+DOCTOR X348
+What was the allergy?
+
+PATIENT X348
+The aspirin, well I was on 325, well they took me off 325 and gave me 81.
+
+DOCTOR X348
+Okay.  Okay.
+
+PATIENT X348
+Which is lighter, saying that it'll work.
+
+DOCTOR X348
+And then alright so we have, let's see.  @@@.  Do you know month they were placed in?
+
+PATIENT X348
+Yes they were placed in let's see it was September we went to St. xxx and @@@ it was in October.
+
+DOCTOR X348
+October.
+
+PATIENT X348
+Yes.
+
+DOCTOR X348
+You alright.
+
+SECOND PERSON X348
+Yeah.
+
+PATIENT X348
+Uh that's her history.
+
+SECOND PERSON X348
+It's not serious.
+
+DOCTOR X348
+Okay.
+
+PATIENT X348
+And her doctor's mad at her too but she won't listen.
+
+DOCTOR X348
+Okay.  And you saw DOCTOR.
+
+PATIENT X348
+Yes.
+
+DOCTOR X348
+In the Hem/Onc Clinic.
+
+PATIENT X348
+Yes and I got something @@@ in my blood that they haven't figured out what it is and we don't know what to do, just leave it alone.
+
+DOCTOR X348
+Yeah kind of watchful waiting it sounds.  They're keeping an eye on things.
+
+PATIENT X348
+Yeah, yeah.
+
+DOCTOR X348
+And they're waiting.  They wanted some labs today.  Did you stop at the Lab yet?
+
+PATIENT X348
+I sure did this morning.  Early this morning 9 o'clock this morning.
+
+DOCTOR X348
+Okay great so I'll take a look at those too.
+
+PATIENT X348
+Okay.
+
+DOCTOR X348
+Things are looking pretty good from my standpoint.  I mean I know you've got the stents.  Your blood pressure looks great.  Your pulse is great so it's sort of your pain.
+
+PATIENT X348
+Yes.
+
+DOCTOR X348
+And getting your medications taken care of.
+
+PATIENT X348
+Yes, yes.
+
+DOCTOR X348
+Uh.
+
+SECOND PERSON X348
+Because of the nitro.
+
+DOCTOR X348
+The nitro.
+
+SECOND PERSON X348
+Well every pill.
+
+PATIENT X348
+She knows, she's got it on the computer.
+
+DOCTOR X348
+Yeah I'll take a look.  And this is kind of what your weight's been doing here in the last couple of years.
+
+PATIENT X348
+Yeah going way down.
+
+DOCTOR X348
+So it went down @@@.
+
+PATIENT X348
+Yes.
+
+DOCTOR X348
+And it looks like now you're back up to 225.
+
+PATIENT X348
+Yeah at the same time when I was at 200, I spent the same night here.  Now it was 200 on that one scale they gave me and upstairs it read 220 so.
+
+DOCTOR X348
+Yeah so that was probably the.
+
+PATIENT X348
+The scale was.
+
+DOCTOR X348
+The scales are notoriously bad.
+
+PATIENT X348
+Right.
+
+DOCTOR X348
+So um we, the weight loss is something that you can do to help with all of your joint pain, legs, back, shoulder.  All this stuff you can find a way to get rid of some weight that helps relieve a lot of your joint.
+
+PATIENT X348
+I eat a lot of salads.  I like a lot of salads.
+
+DOCTOR X348
+That's good okay.  And how much activity do you get?  I know you have scooter to help you get around.
+
+PATIENT X348
+Oh uh I uh we do different things.  I get out around as much as I can.
+
+DOCTOR X348
+Okay.
+
+PATIENT X348
+But I.
+
+SECOND PERSON X348
+@@@ is just like.
+
+PATIENT X348
+I sit in front of my computer a lot.
+
+DOCTOR X348
+Yeah.  Uh-huh.
+
+SECOND PERSON X348
+@@@.
+
+DOCTOR X348
+Okay.
+
+PATIENT X348
+I walk around the house.
+
+DOCTOR X348
+Let's take a look at your labs.  I can send you a letter.  These labs are the ones that the Hematology doctors uh ordered so I'm going to let them interpret those for you because they know what they're specifically looking for.
+
+PATIENT X348
+Alright.  Okay.
+
+DOCTOR X348
+They were checking some vitamin levels and those are looking normal.
+
+PATIENT X348
+Okay.
+
+DOCTOR X348
+So those are good and these are back in March.
+
+PATIENT X348
+Right.
+
+DOCTOR X348
+Alright let me see.
+
+PATIENT X348
+I'm also hooked up on My Healthy Vet.
+
+DOCTOR X348
+Your a healthy vet okay.
+
+PATIENT X348
+Yes and I'm upgraded.  I can go up there and see all the labs, all the stuff that you've got you know.
+
+DOCTOR X348
+Good okay.
+
+PATIENT X348
+Which is nice, so you can keep track of it.
+
+DOCTOR X348
+Yeah.  @@@.  I was just checking to see when you had your last tetanus.  Oh you just had them in March.  So you had a cholesterol panel in March.
+
+PATIENT X348
+And that's good right.
+
+DOCTOR X348
+Looks pretty good.
+
+PATIENT X348
+Okay.
+
+DOCTOR X348
+Looks pretty good.  Um and.
+
+PATIENT X348
+The diabetes is pretty well under control.
+
+DOCTOR X348
+Your diabetes yeah I'm still going to check where you're at with that.  Let's see where you're at there.  So it looks really good back in September.  We don't have a newer one since then.  Do you have, do you have to get labs drawn for any of your other appointments?
+
+PATIENT X348
+No.
+
+DOCTOR X348
+For DOCTOR.  Do you mind maybe next time you come to see DOCTOR at the end of May, the cardiologist, if we could get just to touch base with your diabetes.
+
+PATIENT X348
+Sure.
+
+DOCTOR X348
+Cause that lab didn't get checked today so.
+
+PATIENT X348
+Okay.
+
+DOCTOR X348
+Next time you come back, you don't have to get it today but I'll order some labs.
+
+PATIENT X348
+On the 31st?
+
+DOCTOR X348
+Yep on the 31st.
+
+PATIENT X348
+Okay, okay.
+
+DOCTOR X348
+You can just stop in sometime.
+
+PATIENT X348
+Alright.
+
+DOCTOR X348
+Okay.
+
+PATIENT X348
+Yes.
+
+DOCTOR X348
+But your cholesterol looks good.
+
+PATIENT X348
+Okay.
+
+DOCTOR X348
+So let's look at your medicines here.  Okay do you have your list?  I want to, I want to go through them with you and uh.
+
+PATIENT X348
+Yes.
+
+DOCTOR X348
+See where we're at yeah.
+
+SECOND PERSON X348
+Here you go.
+
+DOCTOR X348
+Okay.  So we have your inhaler, the albuterol, ipratropium inhaler.
+
+PATIENT X348
+Yeah.
+
+DOCTOR X348
+Uh we have your Maalox.
+
+PATIENT X348
+Yes.
+
+DOCTOR X348
+Okay.
+
+PATIENT X348
+And sometimes it seems like they change, they had a nice cherry flavor and now you get the white crap.
+
+DOCTOR X348
+Do you prefer, I can try and see if they can do the cherry?
+
+PATIENT X348
+Cherry right.
+
+DOCTOR X348
+Uh okay.
+
+PATIENT X348
+I been drinking a lot of milk lately too.
+
+DOCTOR X348
+Okay.  Well that's good for calcium, it's good for calcium.
+
+PATIENT X348
+Uh for my stomach.
+
+DOCTOR X348
+Okay.
+
+PATIENT X348
+You know I take the pills.
+
+DOCTOR X348
+Yeah, is that helping?
+
+PATIENT X348
+I drink milk.
+
+DOCTOR X348
+Okay good.
+
+PATIENT X348
+Tastes a lot better taking the Maalox with them.
+
+DOCTOR X348
+Yeah taking the Maalox with it.  Okay so then you had the amitriptyline which you take for the pain.  You have the baby aspirin, that one looks like it needs to be refilled.
+
+PATIENT X348
+I had zero.
+
+DOCTOR X348
+So the capsaicin cream, that's the cream you put on your joints.
+
+PATIENT X348
+Yes.
+
+DOCTOR X348
+When they're hurting you.
+
+PATIENT X348
+Yes.
+
+DOCTOR X348
+Okay.
+
+PATIENT X348
+That cream is a 0.
+
+DOCTOR X348
+Okay.  And now you have the eardrop solution, are you still using that?
+
+PATIENT X348
+No.
+
+DOCTOR X348
+No.  So I'm going to take that off your list.
+
+PATIENT X348
+Okay.  I got these zero, what is this?
+
+DOCTOR X348
+Bupropion that one is not on my list.  Let me get, yeah that one's at the bottom.
+
+PATIENT X348
+Okay.
+
+DOCTOR X348
+@@@ is at the bottom.
+
+PATIENT X348
+Okay sorry.
+
+DOCTOR X348
+Have you been, the clopidogrel and the Plavix you need so I'll refill that.
+
+PATIENT X348
+Yeah.
+
+DOCTOR X348
+Um you have another inhaler the formoterol.  I forget do you see one of the lung doctors, one of the pulmonologists?
+
+PATIENT X348
+Oh yes.
+
+DOCTOR X348
+Okay.  They usually prescribe the inhalers for you?
+
+PATIENT X348
+Yes but I haven't seen them for a while.  I mean they'll send me a thing when I gotta see them.
+
+DOCTOR X348
+When you've got to see them okay.  So I'm going to let them fill your inhalers but if there's a problem and you run out and they don't give them to you, let me know and I'll fill them for you.
+
+PATIENT X348
+Alright.
+
+DOCTOR X348
+Okay but I'll, just in case they want to adjust it after seeing you.
+
+PATIENT X348
+Okay.
+
+DOCTOR X348
+You still have at least one refill left on both of those so.
+
+PATIENT X348
+Right.
+
+DOCTOR X348
+You should be okay for a while yet.
+
+PATIENT X348
+Okay.
+
+DOCTOR X348
+Alright the furosemide is your water pill.
+
+PATIENT X348
+Yeah I need that.
+
+DOCTOR X348
+Yep you're out of that.  Your lancets or your testing strips are the things to test your blood sugars.
+
+PATIENT X348
+Yes.
+
+DOCTOR X348
+Do you need more of those?
+
+PATIENT X348
+Yes.
+
+DOCTOR X348
+The lisinopril 5 mg for your blood pressure.
+
+PATIENT X348
+Yep.
+
+DOCTOR X348
+The metoprolol you take half a tab twice a day.
+
+PATIENT X348
+Yes.
+
+DOCTOR X348
+Okay and then the niacin.
+
+PATIENT X348
+Yes.  Niacin, I ate had that in a week, two weeks.
+
+DOCTOR X348
+Okay.  Your nitro, you're nitroglycerin.
+
+PATIENT X348
+Yeah.
+
+DOCTOR X348
+So refill all that.  Your test strips you need.
+
+PATIENT X348
+Right.
+
+DOCTOR X348
+Ranitidine.
+
+PATIENT X348
+Yes.
+
+DOCTOR X348
+Okay.  Simvastatin that's for your cholesterol.
+
+PATIENT X348
+Yes.
+
+DOCTOR X348
+And your tramadol we talked about.
+
+PATIENT X348
+Yes and uh glipizide.  I always run short on that.
+
+DOCTOR X348
+So that one's at the bottom of my list here too so.
+
+PATIENT X348
+Okay.
+
+DOCTOR X348
+I don't know why those would show up at the bottom but.  Um the B vitamin.
+
+PATIENT X348
+Yes.
+
+DOCTOR X348
+We'll renew.
+
+PATIENT X348
+Yes.
+
+DOCTOR X348
+Now the bupropion you take.  The glipizide you take and the metformin.
+
+PATIENT X348
+Yes.
+
+DOCTOR X348
+Half a tablet three times a day.  Do you know you take that one three times a day?
+
+PATIENT X348
+Uh.
+
+DOCTOR X348
+You know did you ever try that one twice a day?
+
+PATIENT X348
+Which one?
+
+SECOND PERSON X348
+Metformin.
+
+DOCTOR X348
+The metformin.
+
+PATIENT X348
+Yeah but the metformin is for diabetes.
+
+DOCTOR X348
+Yes it's for diabetes.  Normally it's a twice a day medicine so I'm just trying to think of why.
+
+PATIENT X348
+Yeah but I think it's probably because they got me cutting them in half.
+
+DOCTOR X348
+You're cutting them in half okay.
+
+PATIENT X348
+So.
+
+DOCTOR X348
+Alright so let me get these ones taken care of for you.
+
+PATIENT X348
+Okay.
+
+DOCTOR X348
+Okay so we're going to give you the venlafaxine.  Uh-huh.  So all our refills are running low.
+
+PATIENT X348
+Okay.
+
+DOCTOR X348
+This one right here.  @@@.  The computer's running pretty slow today.
+
+PATIENT X348
+Yeah.
+
+DOCTOR X348
+Not that the computer is really hot.  Anything else going on that?
+
+PATIENT X348
+Oh I uh.
+
+DOCTOR X348
+You think I need to know about?
+
+PATIENT X348
+Now you already checked that, the x-rays of my foot?  My left foot?
+
+DOCTOR X348
+Yeah I'll take a look at them again but I think we looked at them.
+
+PATIENT X348
+I tripped on a gate, over a gate and I almost broke my foot.  It hurt all the way to my hip.
+
+DOCTOR X348
+Huh.
+
+PATIENT X348
+And when @@@ because of the gate it got locked from the dining room to the kitchen.
+
+DOCTOR X348
+Uh-huh.
+
+PATIENT X348
+Because their little, she's only 1-year-old now.
+
+DOCTOR X348
+Okay.
+
+PATIENT X348
+Cause she'll get in the dog water and the cat box.
+
+DOCTOR X348
+Uh-huh.
+
+PATIENT X348
+Everything she's not supposed to.
+
+DOCTOR X348
+Yeah.
+
+PATIENT X348
+So you got to put gates up.
+
+DOCTOR X348
+Yeah, when they're at that age when they get into everything.
+
+PATIENT X348
+And now she's starting to climb up the steps and she's already been up on the third one.  Going up stairs now, we got 16 steps so.
+
+DOCTOR X348
+Okay.
+
+PATIENT X348
+So that gives me exercise too, going up and down.
+
+DOCTOR X348
+Yeah, uh-huh.
+
+PATIENT X348
+Which is good.
+
+DOCTOR X348
+Alright, okay.
+
+PATIENT X348
+Alright.
+
+DOCTOR X348
+I just want to double check your creatinine.
+
+PATIENT X348
+Yeah.  And then if I can get your phone number just in case I need to call.
+
+DOCTOR X348
+Yeah, yeah.
+
+PATIENT X348
+Because otherwise you call the main hospital they send you through this way and that way and wait a minute I'll see if I can't and pretty soon your lost.
+
+DOCTOR X348
+Yeah.  You know let me check, I think I forgot them at home today.  I have the number, I have a card and then I left the box at home unfortunately.  So I don't have the cards today but I'll give you the number to call.
+
+PATIENT X348
+Okay.
+
+DOCTOR X348
+And we'll go from there okay.  I'll need to sign all these medicines to get them refilled for you.
+
+PATIENT X348
+Okay.
+
+DOCTOR X348
+So here are all the medicines.
+
+PATIENT X348
+Let @@@ portion and put the phone number on there.
+
+SECOND PERSON X348
+@@@.
+
+DOCTOR X348
+Okay so.
+
+PATIENT X348
+I didn't mean that turkey @@@.
+
+SECOND PERSON X348
+@@@.
+
+PATIENT X348
+I figure what the take, what kind of medicine we take for @@@ they make it out of turkeys.
+
+SECOND X348
+@@@.
+
+PATIENT X348
+No.
+
+DOCTOR X348
+Alright.
+
+THIRD PERSON X348
+@@@ a lot.
+
+DOCTOR X348
+Uh-huh.
+
+THIRD PERSON X348
+@@@.
+
+DOCTOR X348
+Alright.
+
+SECOND PERSON X348
+That's usually @@@.
+
+THIRD PERSON X348
+@@@.
+
+SECOND PERSON X348
+@@@.
+
+THIRD PERSON X348
+@@@.
+
+PATIENT X348
+This one is not for water, the xxxzide is right?
+
+DOCTOR X348
+Well the furosemide is the water pill.
+
+PATIENT X348
+Right.
+
+DOCTOR X348
+That makes you pee and the lisinopril is a blood pressure medicine and it helps protect your kidneys when you have diabetes and you have diabetes so it's good for that too.
+
+PATIENT X348
+Okay.
+
+THIRD PERSON X348
+All this medicine, @@@.
+
+DOCTOR X348
+Now that one make sure you're on the service connection things.
+
+PATIENT X348
+Yeah.
+
+DOCTOR X348
+Okay.  Alright so your medications are all done.
+
+PATIENT X348
+I ordered them on the internet too which is cool.
+
+DOCTOR X348
+Oh good yeah that's cool.  Now the last thing I wanted to figure out is what we're gonna do about your pain because it's just not good to take so much of that tramadol.
+
+PATIENT X348
+Okay.  Now the other thing I follow which is pretty @@@ I have diabetes.
+
+DOCTOR X348
+Uh-huh.
+
+PATIENT X348
+Uh man I was really runny low.  I was getting down on my blood sugar count was down in the 50s and 60s.
+
+DOCTOR X348
+Oh okay.
+
+PATIENT X348
+But the wife give me some hard candy to eat.
+
+DOCTOR X348
+Uh-huh.
+
+PATIENT X348
+These little sucker things.
+
+DOCTOR X348
+Okay.
+
+PATIENT X348
+They're all in a wrapper.
+
+DOCTOR X348
+Okay.
+
+PATIENT X348
+And you take and you, I got in the habit now of sticking about eight of them at a time.
+
+DOCTOR X348
+Uh-huh.
+
+PATIENT X348
+And then I feel really good and then I don't even take that pain medicine so much.  I don't know where it works together at.
+
+DOCTOR X348
+Hmm.
+
+PATIENT X348
+Because you know it don't make any sense right?
+
+DOCTOR X348
+Yeah.  Yeah how often are you having real lows with your sugars?
+
+PATIENT X348
+Oh not too often just very seldom.
+
+DOCTOR X348
+Very seldom okay.
+
+PATIENT X348
+Yeah when I run out of candy I suck a lot of that candy all the time.
+
+DOCTOR X348
+Okay, so you don't have, you don't take insulin do you?
+
+PATIENT X348
+No I just take the pills, the glipizide and the metformin.
+
+DOCTOR X348
+Okay.
+
+PATIENT X348
+That's what it's for right?
+
+DOCTOR X348
+Okay so yeah this is my thought then okay.  When we get your labs done, if your blood sugar is still as controlled as it has been in the past maybe we'll try to take the glipizide off and just do the metformin.
+
+PATIENT X348
+Okay.
+
+DOCTOR X348
+Because the metformin works in a little bit different way and doesn't cause any lows.
+
+PATIENT X348
+Oh okay.
+
+DOCTOR X348
+Glipizide can cause some lows.
+
+PATIENT X348
+Okay, okay.
+
+DOCTOR X348
+And if you're still well controlled like you have been in the past.
+
+PATIENT X348
+Right.
+
+DOCTOR X348
+Maybe we can stop the glipizide and then check you again.
+
+PATIENT X348
+Okay.
+
+DOCTOR X348
+You know in a little bit okay.
+
+PATIENT X348
+And that'll be another pill off the list right?
+
+DOCTOR X348
+Yeah and so then we just want to make sure though with the glipizide that you're eating on a regular basis.
+
+PATIENT X348
+Right, right.
+
+DOCTOR X348
+You know, eat regular meals.
+
+PATIENT X348
+Right, right.
+
+DOCTOR X348
+And things like that okay.
+
+PATIENT X348
+Right, right.  Okay.
+
+THIRD PERSON X348
+@@@.
+
+DOCTOR X348
+The physical therapist um.
+
+PATIENT X348
+Yeah that's how I got my.
+
+DOCTOR X348
+That's how you got your new scooter.
+
+PATIENT X348
+They were going to hook me up for an @@@ for that therapist had a thing for making me solar but I never heard anything back from him so.
+
+DOCTOR X348
+Let's, let me see cause I @@@.
+
+PATIENT X348
+Yeah it hurts like uh, it feels like a burning at times.  You know it'll hurt; that ache and pain, it feels like it's burning every once in a while, light burning so I don't know what that is.
+
+DOCTOR X348
+Yeah.
+
+PATIENT X348
+What it's got to do with that but I used to think it was my shirts once in a while but it's got to be the uh, I don't know of course then I got arthritis.
+
+DOCTOR X348
+Yeah.
+
+PATIENT X348
+What kind of arthritis I got, I got some other crap.
+
+DOCTOR X348
+So let's see what they thought they were gonna do.  Okay alright well maybe we'll talk about hooking you up with the physical therapist again to see if they can give you any exercises that help your pain because we're, you're not getting very good control here with the tramadol and you can't take as much of it regularly as you are.
+
+PATIENT X348
+Well the tramadol is not only for my neck and shoulders; it's for my back and my legs.
+
+DOCTOR X348
+Yeah, yeah.
+
+PATIENT X348
+Straighten the whole body out.
+
+DOCTOR X348
+Right.  So okay.  Can you take a seat up here so I can take a listen to you?
+
+PATIENT X348
+Absolutely.  Here baby.
+
+SECOND PERSON X348
+Alright.
+
+PATIENT X348
+You want me to take my jacket off?
+
+DOCTOR X348
+Uh yes please.
+
+PATIENT X348
+@@@.
+
+DOCTOR X348
+Okay.
+
+PATIENT X348
+Is this good?
+
+DOCTOR X348
+Yep you're good.  Actually can you swing around so your legs are down there?  And when was the last time you got your eyes checked?
+
+PATIENT X348
+My eyes?
+
+DOCTOR X348
+Uh-huh.
+
+PATIENT X348
+Uh I don't know they got to call me up again.
+
+DOCTOR X348
+Okay.  But you're once a year right.  You go once a year to get your eyes checked?
+
+PATIENT X348
+The main thing is for diabetes.
+
+DOCTOR X348
+Yep you want look for the diabetes.
+
+PATIENT X348
+But my eyes are so messed up.
+
+DOCTOR X348
+Uh-huh.
+
+PATIENT X348
+There's things that they should do but they're not going to do it, they're gonna leave me alone.
+
+DOCTOR X348
+Okay.
+
+SECOND PERSON X348
+If I'd brought my inhaler I wouldn't be in this predicament.
+
+DOCTOR X348
+Deep breaths in and out.  Can you lay back for me so I can take a look?  Your cough doesn't sound good.
+
+SECOND PERSON X348
+I know.
+
+PATIENT X348
+It's really bad and @@@.  He does that at night when we're sleeping.
+
+SECOND PERSON X348
+Oh be quiet.
+
+PATIENT X348
+It wakes me up when I'm asleep.
+
+SECOND PERSON X348
+Oh boo hoo.
+
+PATIENT X348
+It's like being in a combat zone.
+
+SECOND PERSON X348
+Boo hoo.
+
+DOCTOR X348
+Any belly pain?
+
+PATIENT X348
+Uh no not right now.  Oh yeah right there was one.
+
+DOCTOR X348
+Any @@@.
+
+PATIENT X348
+I think @@@ telling you what's wrong.  It feels like really weird here.
+
+DOCTOR X348
+Okay.
+
+PATIENT X348
+Of course I got a little pain down there where @@@ I think that's where they stent was when it went in.
+
+DOCTOR X348
+Okay.
+
+PATIENT X348
+And you know it's just.
+
+DOCTOR X348
+@@@ your stuff.
+
+PATIENT X348
+Yeah.
+
+DOCTOR X348
+Any swelling in your legs at all?
+
+PATIENT X348
+No.
+
+DOCTOR X348
+No.
+
+PATIENT X348
+Now this one I had a @@@ one and that's where I tripped, its turning purple, yellow.
+
+DOCTOR X348
+Is it getting better now?
+
+PATIENT X348
+Oh yes much better.  You can hardly see it now.
+
+DOCTOR X348
+Okay good.  Okay alright you can sit back up and I'm going to push that in.  Alright you can come on down here.
+
+PATIENT X348
+Okay.
+
+DOCTOR X348
+Hmm.  Alright so a few things @@@.  So screening things it looks like you would be due for an ultrasound of your abdomen.  Have you ever had one of those?
+
+PATIENT X348
+Uh maybe.  I don't know I've had different things done up here.  Some things multi-times but it's always good to have just in case.
+
+DOCTOR X348
+Yeah.  So we recommend that once you turn 65 years old, if you smoked more than a pack of cigarettes in your entire life you should get an ultrasound of your belly to look at your aorta down in your belly to make sure that it's not dilated at all.
+
+PATIENT X348
+Oh they've already run that thing down my throat to come to find out that I have a hiatal hernia.
+
+DOCTOR X348
+Hiatal hernia.
+
+PATIENT X348
+They gave me a purple pill one time and they took it away I don't know why.
+
+DOCTOR X348
+@@@ probably.
+
+PATIENT X348
+Yeah.
+
+DOCTOR X348
+So that will look into your stomach.
+
+PATIENT X348
+Okay.
+
+DOCTOR X348
+Um and this is a little bit different so I think if you don't have any objections I'll just order that study.
+
+PATIENT X348
+Oh that thing that they run around your stomach with uh.
+
+DOCTOR X348
+Yeah it's like an ultrasound like they're looking for a baby in.
+
+PATIENT X348
+Yeah they put this goop on your.
+
+DOCTOR X348
+Like the same as yeah.
+
+SECOND PERSON X348
+You've already had this?
+
+THIRD PERSON X348
+Yeah of the heart.
+
+DOCTOR X348
+Yeah so you've had an ultrasound of your kidneys before.
+
+PATIENT X348
+Yes.
+
+DOCTOR X348
+That's the same thing.
+
+PATIENT X348
+Not too long ago.
+
+DOCTOR X348
+The same they they just look at your aorta.
+
+PATIENT X348
+Okay.
+
+DOCTOR X348
+Okay um so we'll do, I'll put in the order for that.  They'll call you to set it up.
+
+PATIENT X348
+Okay.  Now instead of having that uh colonoscopy again.
+
+DOCTOR X348
+Uh-huh.
+
+PATIENT X348
+And they're supposed to.  They did it twice up here a while back.
+
+DOCTOR X348
+Uh-huh.
+
+PATIENT X348
+But instead of doing that isn't there something else they can do?
+
+DOCTOR X348
+Um.
+
+PATIENT X348
+That accomplishes the same deal?
+
+DOCTOR X348
+They can do um, we can do cards.  Let me see what your last colonoscopy showed and when you need to do it again.
+
+PATIENT X348
+Alright.
+
+DOCTOR X348
+Um do you remember ever having polyps?
+
+PATIENT X348
+Uh.
+
+DOCTOR X348
+Or when you had your colonoscopy did they take any samples out or tell you anything?
+
+PATIENT X348
+I'm not sure of any of that.  Yeah cause they must have because the first time they said some were tea leaves.
+
+DOCTOR X348
+Okay.  In 2006 it looks like.
+
+PATIENT X348
+Yeah see we cheated because it was a whole two days, that's tough before you did the thing and then they did it in a different way when you drink that junk.
+
+DOCTOR X348
+Okay.
+
+PATIENT X348
+And you didn't have to do the @@@ a big white bottle, they changed all that so you only did the white bottle.
+
+DOCTOR X348
+Okay.
+
+PATIENT X348
+And they come to find out I guess what in the first eight inches or something like this and ask her, they got to go over something.
+
+DOCTOR X348
+Uh-huh.
+
+PATIENT X348
+They could go on up, they had a problem.
+
+DOCTOR X348
+Yeah.
+
+PATIENT X348
+And it hurt like a sucker.
+
+DOCTOR X348
+So it looks like, from what I can tell uh they took some biopsies but there was nothing uh.
+
+PATIENT X348
+It was clean and green.  I understand that they said I didn't have any cancer.
+
+DOCTOR X348
+Yes.  Yep.
+
+PATIENT X348
+Cancer clean.
+
+DOCTOR X348
+Yep no cancers, no cancer.
+
+PATIENT X348
+Right.
+
+DOCTOR X348
+So um they're looking no polyps, nothing in the colon so they didn't even find any polyps.  They actually just took a few biopsies cause you had been having some abdominal pain or something.
+
+PATIENT X348
+Right.
+
+DOCTOR X348
+So you had a clean colonoscopy in 2006 which means you're not due again until 2016.
+
+PATIENT X348
+Alright.
+
+DOCTOR X348
+So you don't have to worry about that.
+
+PATIENT X348
+Thank you.
+
+DOCTOR X348
+Quite yet okay.
+
+PATIENT X348
+Yes.
+
+DOCTOR X348
+So that's good and then the final um.
+
+PATIENT X348
+Cause the worse thing about the colonoscopy is drinking the white crap.
+
+DOCTOR X348
+You have to drink the white stuff.
+
+PATIENT X348
+And @@@.
+
+DOCTOR X348
+Uh-huh.
+
+PATIENT X348
+And you know your tushy gets so sick after drinking that crap.
+
+DOCTOR X348
+Yeah.
+
+PATIENT X348
+You know toilet paper, I don't know if the toilet paper even works right but.
+
+DOCTOR X348
+Okay.  So we're almost done here.  Um the only other thing.  So there are two things left, one is that I have to tell you I recommend highly that you stop smoking and you stop smoking and if you stop smoking and no smoking in the house, that's just for your health and everything that we know.
+
+PATIENT X348
+Right.
+
+DOCTOR X348
+It's very important.
+
+PATIENT X348
+Right.
+
+DOCTOR X348
+So if there's anything that I can do to help you with that, including setting you up with the Smoking Cessation Clinic here for uh if you are interested in nicotine patches you know I can and will provide those to you.
+
+PATIENT X348
+Okay.
+
+DOCTOR X348
+Um so do you want me to set any of those up for you?
+
+PATIENT X348
+Nicotine patches?
+
+DOCTOR X348
+Nicotine patch. 
+
+PATIENT X348
+Can you do that yes.
+
+DOCTOR X348
+I can.  You smoke very few cigarettes.
+
+PATIENT X348
+Right.
+
+DOCTOR X348
+So you don't.
+
+PATIENT X348
+So yeah.
+
+DOCTOR X348
+I can set you up with the lowest.
+
+PATIENT X348
+Yes.
+
+DOCTOR X348
+Dose.
+
+PATIENT X348
+Okay.
+
+DOCTOR X348
+Of the nicotine patches.
+
+PATIENT X348
+Cause the last time I was here, the night they made me stay over.
+
+DOCTOR X348
+Uh-huh.
+
+PATIENT X348
+Yeah they put nicotine patches on me too.
+
+DOCTOR X348
+Okay.
+
+PATIENT X348
+I think they switched one, you know but I know that yeah they used them over here.
+
+DOCTOR X348
+Yeah okay.  So I'll do that for you.
+
+PATIENT X348
+Okay.
+
+DOCTOR X348
+Okay so that'll be good.
+
+PATIENT X348
+Now the wife may not actually quit but I have to.
+
+DOCTOR X348
+Yep.
+
+PATIENT X348
+I've had two strokes.
+
+DOCTOR X348
+Yep.
+
+PATIENT X348
+Two heart attacks.
+
+DOCTOR X348
+Yes.
+
+PATIENT X348
+I got four stents.
+
+DOCTOR X348
+Yep you got to quit smoking.
+
+PATIENT X348
+Okay.
+
+DOCTOR X348
+You gotta quit smoking.
+
+PATIENT X348
+Okay doc.
+
+DOCTOR X348
+Okay cause you've got a lot of issues that are related.  Especially with your Agent Orange history with both of those combined.
+
+PATIENT X348
+Yeah.
+
+DOCTOR X348
+You gotta quit smoking um and then the last uh screening thing is that the VA recommends that every veteran between the ages of 18 and 120 get screened at least one time for HIV so I can order that blood test for you for the next time you come in and get labs done.
+
+PATIENT X348
+Okay.
+
+DOCTOR X348
+If you don't mind.
+
+PATIENT X348
+Okay.
+
+DOCTOR X348
+Okay.
+
+PATIENT X348
+That'll be the 31st.
+
+DOCTOR X348
+That'll be the 31st and we'll get some labs done then.
+
+PATIENT X348
+Okay.
+
+DOCTOR X348
+And I think you're up-to-date, let me check your immunizations to make sure.  You had the flu shot, you got the pneumonia shot.  Um the only other thing is for your tetanus shot, you had the tetanus shot in 2010 and those last in and of themselves 10 years before you need another booster so technically you're not due for the tetanus part until 2020 but the new tetanus vaccinations also protect against whooping cough.
+
+PATIENT X348
+Okay I'll take it.
+
+DOCTOR X348
+So I'll get you that today before you leave okay.
+
+PATIENT X348
+Okay.  Okay.
+
+DOCTOR X348
+Alright so we'll do that.  Alright so I'm just gonna go talk to my supervisor quick but I think your blood pressure's well controlled.
+
+PATIENT X348
+Okay.
+
+DOCTOR X348
+Hopefully your diabetes is as well controlled as it was back the last time it was checked but we'll check it again at the end of the month.
+
+PATIENT X348
+Alright.
+
+DOCTOR X348
+If that's still okay we'll talk about going down on that glipizide.
+
+PATIENT X348
+Okay.
+
+DOCTOR X348
+To make sure you know stop you from having those lows.  Um we'll get you set up with the nicotine patches, with the tetanus shot and with the triple A screen and then we'll see you back sometime soon okay.
+
+PATIENT X348
+Alright.
+
+DOCTOR X348
+So let me just uh, let me just go talk to them and I'll be back okay.
+
+PATIENT X348
+Okay doc.
+
+DOCTOR X348
+I think I'm also going to try to get you hooked up with the physical therapist again cause I want to see what, if anything, they can do to help with your pain.
+
+PATIENT X348
+Alright.
+
+DOCTOR X348
+Okay.
+
+PATIENT X348
+Okay.
+
+DOCTOR X348
+Alright.  Any more questions right now?
+
+PATIENT X348
+No.
+
+DOCTOR X348
+Okay.  I'll be right back okay.
+
+PATIENT X348
+Okay doc.
+
+DOCTOR X348
+Alright.  @@@.
+
+PATIENT X348
+Yes.
+
+DOCTOR X348
+Do we need to talk about @@@.
+
+(DOCTOR OUT:  87:37  DOCTOR IN:  95:55)
+
+DOCTOR X348
+Okay so.  Alright just like I said we're gonna do what we talked about so I'm going to order you the ultrasound of your abdomen and they'll call you to set that up.
+
+PATIENT X348
+Okay.
+
+DOCTOR X348
+Okay.  They might be able to set it up for you before you leave so let me put the order in right now and see.
+
+PATIENT X348
+Okay.
+
+DOCTOR X348
+Um.
+
+SECOND PERSON X348
+Where does he get that shot at?
+
+DOCTOR X348
+He gets it right here before he leaves so I will put in the order okay.
+
+PATIENT X348
+Alright.
+
+DOCTOR X348
+Uh if you could do it on the 31st, would you want to do it all on one day and just have?
+
+PATIENT X348
+Yes.
+
+DOCTOR X348
+Everything, let's see if they can do that.
+
+PATIENT X348
+Sure would.
+
+DOCTOR X348
+Okay so we'll do that, let me do.
+
+PATIENT X348
+So I think my appointment is at 1:30 or 2 in the afternoon.
+
+DOCTOR X348
+Okay.
+
+PATIENT X348
+On the 31st.
+
+DOCTOR X348
+Okay we'll order your tetanus.  Okay and the nicotine patches.  Do you want to pick up the nicotine patches or do you want them mailed to you?
+
+PATIENT X348
+You can mail them to me.
+
+DOCTOR X348
+Mail them to you okay then I'll do that so you won't have to wait for that.  So we'll get some labs done at the end of the month when you come back.
+
+PATIENT X348
+Right.
+
+DOCTOR X348
+We'll get this triple A screen, we'll get you the tetanus shot and we'll get you the patches um and okay.
+
+PATIENT X348
+Yes.
+
+DOCTOR X348
+We refilled all of your medicines so you should be set there um how about now I'm trying to think when I want to see you back.  So how about in the next 3-4 months.
+
+PATIENT X348
+Okay that'd be fine.
+
+DOCTOR X348
+Okay.
+
+PATIENT X348
+That'll be fine yes.
+
+DOCTOR X348
+And then next time I'll have my card with me and I'll give you my card but I can give you the number if you want.
+
+PATIENT X348
+Okay.  Okay.
+
+DOCTOR X348
+Okay.  There's the phone number.
+
+PATIENT X348
+Excellent, alright.
+
+DOCTOR X348
+Alright and for your pain I'm going to set you up with PT again.
+
+PATIENT X348
+Alright.
+
+DOCTOR X348
+Okay the Physical Therapy.
+
+PATIENT X348
+Okay.
+
+DOCTOR X348
+And I want you to really try to take the tramadol as prescribed.
+
+PATIENT X348
+Alright.
+
+DOCTOR X348
+Okay.
+
+PATIENT X348
+Okay.
+
+DOCTOR X348
+I don't want to just throw medicine at you because medicines cause you know, they're not and they have other problems and so I don't want to keep just adding things to all of your pills.
+
+PATIENT X348
+Right.
+
+DOCTOR X348
+That you're already taking.
+
+PATIENT X348
+Right.
+
+DOCTOR X348
+So if you can do your best to take the tramadol as prescribed and I'll get the physical therapy set up and then maybe they'll have some recommendations for you know stretches or treatment or something.
+
+PATIENT X348
+They've already done that twice, they come out to the house.
+
+DOCTOR X348
+Yeah and it looks like from what I could see when they came out to the house it was mostly to kind of evaluate for the scooter and that type of thing.
+
+PATIENT X348
+No I was, I had a stroke and heart attacks that's why they did it.
+
+DOCTOR X348
+Okay so they came out for that.
+
+PATIENT X348
+Now they assessed for the scooter right downstairs here.
+
+DOCTOR X348
+Yeah okay, okay.
+
+PATIENT X348
+Cause we only wanted a simple wheelchair but they wouldn't give me one.
+
+DOCTOR X348
+They wouldn't give you one yeah.  I think they thought it would have been too hard with all your cardiac issues I think they said.
+
+PATIENT X348
+Okay.
+
+DOCTOR X348
+Um so we'll keep working on that okay.  
+
+PATIENT X348
+Right.
+
+DOCTOR X348
+We'll work on your pain.
+
+PATIENT X348
+Okay.
+
+DOCTOR X348
+And it'll kind of be what we talk about okay.
+
+PATIENT X348
+Alright.
+
+DOCTOR X348
+And see what else we can do.
+
+PATIENT X348
+Alright.
+
+DOCTOR X348
+Okay.
+
+PATIENT X348
+Okay now I will limit the use of them things.
+
+DOCTOR X348
+Okay and at the risk of making NAME and your wife mad at me, you should both really stop smoking okay.
+
+PATIENT X348
+I will, I'm going to.
+
+DOCTOR X348
+Okay and that's fantastic and it'll really help you but the secondhand smoke is still gonna be a problem to you as well.  If your wife can stop smoking too I know it's tough, it's a big commitment and it's really hard but it you can work on it that'll be @@@.
+
+PATIENT X348
+Well if she sees your doctor I think the doctor told them, they're gonna set her up for.
+
+SECOND PERSON X348
+@@@.
+
+DOCTOR X348
+Okay, great okay.
+
+PATIENT X348
+Okay doc.
+
+DOCTOR X348
+Nice to see you again.
+
+PATIENT X348
+Take care.
+
+SECOND PERSON X348
+Nice to see you take care.
+
+DOCTOR X348
+Same to you.  I hope your cough gets better.  I'll hand you this, you come right out here.
+
+PATIENT X348
+Oh they did that.
+
+SECOND PERSON X348
+@@@.
+
+DOCTOR X348
+Don't forget your scooter cause if it's still here I might use it at the end of the day.
+
+PATIENT X348
+Okay.
+
+DOCTOR X348
+I'll just fire it on the way home.
+
+PATIENT X348
+Okay.
+
+DOCTOR X348
+I almost forget in here okay.  They have a room for you right here.
+
+PATIENT X348
+Okay.
+
+DOCTOR X348
+Alright, follow her right around the corner okay.
+
+PATIENT X348
+Okay.
+
+DOCTOR X348
+Alright good to see you guys, take care.
+
+PATIENT X348
+Yeah thank you doc.
+
+Time is 2:35.
+
+

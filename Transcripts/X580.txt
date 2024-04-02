@@ -1,0 +1,630 @@
+ 
+DOCTOR X580
+PATIENT?
+
+PATIENT X580
+Right here.  How are you?
+
+DOCTOR X580
+@@@.  I don't think I've seen you for over a year.
+
+PATIENT X580
+Yeah it's been a while.
+
+DOCTOR X580
+Where have you been?
+
+PATIENT X580
+I got a lot of @@@.
+
+DOCTOR X580
+You got @@@.  
+
+PATIENT X580
+Yeah.
+
+DOCTOR X580
+Uh-huh.
+
+PATIENT X580
+So I definitely gonna be @@@.
+
+DOCTOR X580
+@@@.  So how long were you there?
+
+PATIENT X580
+Nine months.
+
+DOCTOR X580
+That's a long commute.
+
+PATIENT X580
+Yeah.  I need some pills for my back.  He gave me some ibuprofen 800.
+
+DOCTOR X580
+Uh-huh did it help?
+
+PATIENT X580
+Yeah that is the ibuprofen.  My ibuprofen, I have acid reflux now real bad.
+
+DOCTOR X580
+Okay.
+
+PATIENT X580
+I need something for that and the doctor he gave me some paperwork here for uh he wanted me to go to the Substance Abuse Clinic.
+
+DOCTOR X580
+Okay.
+
+PATIENT X580
+See and I want to get that started so I can get them out in the works, whatever it takes.  And then I also want you to make me an appointment to see the eye doctor and foot doctor.
+
+DOCTOR X580
+Alright let me make a note of this here, eye doctor, foot doctor, Substance Abuse Clinic, ibuprofen and acid reflux.  Alright.  I'll quickly put in the request for the eye doctor then and just go down everything one by one.  Tell me why you need to see the eye doctor.
+
+PATIENT X580
+I had glasses.
+
+DOCTOR X580
+Uh-huh.
+
+PATIENT X580
+And they got misplaced so that's one of the reasons I need to see the eye doctor to get some new glasses.
+
+DOCTOR X580
+Gotcha.
+
+PATIENT X580
+I need glasses.  
+
+DOCTOR X580
+And you saw them.
+
+PATIENT X580
+The foot doctor, I saw the foot doctor but the calluses have come back.
+
+DOCTOR X580
+Oh.  Calluses huh.
+
+PATIENT X580
+Yeah.  @@@ hepatitis C.
+
+DOCTOR X580
+Well uh do you have arthritis at all?
+
+PATIENT X580
+Well not, it don't bother me but I have it.
+
+DOCTOR X580
+Uh-huh.
+
+PATIENT X580
+And I need some pills for my sex drive.
+
+DOCTOR X580
+Okay.  Were on pills for that before?
+
+PATIENT X580
+No.  I @@@.
+
+DOCTOR X580
+You said you don't have interest or you have interest and it doesn't, you can't sustain erection?
+
+PATIENT X580
+No I can't sustain an erection.  I'm interested @@@.
+
+DOCTOR X580
+Okay.  Okay.  I can get you some of those pills.  The VA can only mail those out; you can't pick those up here.
+
+PATIENT X580
+Okay fine.
+
+DOCTOR X580
+And you're limited to two pills a month.
+
+PATIENT X580
+Okay.
+
+DOCTOR X580
+That's, for some reason that's come down from higher up that's all we can give.
+
+PATIENT X580
+That'd be fine.
+
+DOCTOR X580
+So we'll do that.  We'll also check some blood work cause sometimes if there's something you know wrong in the blood that might be a reason why too and we've got to figure that out.
+
+PATIENT X580
+@@@.  It still might be an idea @@@.
+
+DOCTOR X580
+Oh you got this done at UIC huh?
+
+PATIENT X580
+Yeah well I got it different guy, he did it.
+
+DOCTOR X580
+Oh I see.
+
+PATIENT X580
+Some doctor @@@.
+
+DOCTOR X580
+So are you still drinking?
+
+PATIENT X580
+No.
+
+DOCTOR X580
+When did you stop?
+
+PATIENT X580
+When I got locked up, it was a hot day.
+
+DOCTOR X580
+It looks like you're trying to stop.
+
+PATIENT X580
+Yeah no drinking or smoking.
+
+DOCTOR X580
+No drinking or smoking.
+
+PATIENT X580
+Yeah.  That's why I'm @@@ and wanted to show them to you.
+
+DOCTOR X580
+Alright.  Well we actually have a Liver Clinic here that can treat people who have hepatitis C.
+
+PATIENT X580
+Oh yeah.
+
+DOCTOR X580
+As long as they're still not smoking or drinking they'll consider you for treatment.
+
+PATIENT X580
+Okay.
+
+DOCTOR X580
+It'd be great if I could get them to see you.  You're okay with seeing them?
+
+PATIENT X580
+@@@.
+
+DOCTOR X580
+Alright well I'll ask them to make you an appointment too.
+
+PATIENT X580
+Can you make it?
+
+DOCTOR X580
+And what I'll do is we'll see if our clerk up front can and if they can't schedule you they'll send you something in the mail and you'll give them a call.
+
+PATIENT X580
+Okay.
+
+DOCTOR X580
+Whatever time that works well for both of you.
+
+PATIENT X580
+Well what about this?  This substance abuse?
+
+DOCTOR X580
+Yeah I'm making a referral for that one too.
+
+PATIENT X580
+Let me see @@@.  Yeah there @@@ to sign the contract and paperwork.
+
+DOCTOR X580
+I'm sure we can provide that for you.
+
+PATIENT X580
+I appreciate it.
+
+DOCTOR X580
+Yeah.  Okay.  And I'll make a note here um.  And is this still your phone number here, NUMBER?
+
+PATIENT X580
+That's it.
+
+DOCTOR X580
+Okay, @@@ and what medications were you on cause I think a lot of them expired off of it.
+
+PATIENT X580
+Oh before I went in?
+
+DOCTOR X580
+Yeah.
+
+PATIENT X580
+Ibuprofen, that's for my back.
+
+DOCTOR X580
+Okay.
+
+PATIENT X580
+They gave me ibuprofen and I take it.
+
+DOCTOR X580
+Were you taking anything for your blood pressure?
+
+PATIENT X580
+No.  Never have.
+
+DOCTOR X580
+You were on.
+
+PATIENT X580
+I wasn't @@@ it was @@@.  I wasn't even taking no aspirin, nothing but that ibuprofen before I went to jail.
+
+DOCTOR X580
+Nothing but the ibuprofen.
+
+PATIENT X580
+Yeah.
+
+DOCTOR X580
+Well your blood pressure looks like it's a little bit up today.
+
+PATIENT X580
+Yeah.
+
+DOCTOR X580
+And it was a little bit up the last time I saw you too.
+
+PATIENT X580
+It was.  But only one pill if I have to take it I take it.
+
+DOCTOR X580
+We'll get some medications for you today too.  And how about, you look like you're missing some teeth.
+
+PATIENT X580
+All of them.  I have seven.
+
+DOCTOR X580
+I see.  Can you eat with them?
+
+PATIENT X580
+Yeah been I been eating with them.
+
+DOCTOR X580
+Have you been eating okay with that?
+
+PATIENT X580
+Yeah so far.  I guess I'm trying to get in the clinic where I can get me some.
+
+DOCTOR X580
+Uh-huh.
+
+PATIENT X580
+You know so they can get me some made.
+
+DOCTOR X580
+Gotcha.  Do you see Dentistry in here or, some people some of our dentists outside of the VA?
+
+PATIENT X580
+Well I never saw no dentist @@@.  It hasn't been for I'd say 20 years or more.
+
+DOCTOR X580
+I see okay.  Let's see.
+
+PATIENT X580
+You can put up all those appointments.
+
+DOCTOR X580
+Dentists, we'll try to get this stuff set up first and then once this is getting better we'll talk about your teeth.
+
+PATIENT X580
+Okay.
+
+DOCTOR X580
+What I want you to do you know for the, they have some paperwork that they'll have you do at Admitting to see if you qualify for the dental services here.  I guess it has to do with how much service connected you are and how much they'll cover and stuff like that.
+
+PATIENT X580
+Okay.
+
+DOCTOR X580
+If you're covered by dental here we can have them see you but if you're not then they won't even, they'll only take emergencies.
+
+PATIENT X580
+Oh.
+
+DOCTOR X580
+It might not be worth it.
+
+PATIENT X580
+I mean I been waiting till I'm done.  I'm trying to get a claim for disability now.
+
+DOCTOR X580
+Yeah.
+
+PATIENT X580
+And once I get filed I'll get some teeth.
+
+DOCTOR X580
+Good.
+
+PATIENT X580
+@@@ teeth.
+
+DOCTOR X580
+Good, well alrighty.  Let's see.
+
+PATIENT X580
+I got to leave here and go upstairs and see my Psych Unit.  He @@@ on my paperwork.
+
+DOCTOR X580
+He probably said I haven't seen you in a long time. I want to know where you've been to.
+
+PATIENT X580
+Yeah.  The last time I saw him he and I got into it about my paperwork.  I gave him my paperwork for him to fill it out and he never returned it.
+
+DOCTOR X580
+Okay.  We'll get started with those things.  Let me take a listen to your heart and lungs here.  You can stay where you are.
+
+PATIENT X580
+Okay.
+
+DOCTOR X580
+@@@.  It's a bright light, look ahead for me, good.  Say ah.
+
+PATIENT X580
+Ah.
+
+DOCTOR X580
+Alright try to take good care of those seven teeth that you've got.
+
+PATIENT X580
+I been trying.
+
+DOCTOR X580
+So what happened here?
+
+PATIENT X580
+Uh @@@ I kind of got it remade it.
+
+DOCTOR X580
+Oh.
+
+PATIENT X580
+Only got @@@ like that.
+
+DOCTOR X580
+Does that bother you at all?
+
+PATIENT X580
+No.  Collarbone broke too.
+
+DOCTOR X580
+What troubles were you getting into stuff.
+
+PATIENT X580
+No @@@.
+
+DOCTOR X580
+I'm gonna lift up your shirt.
+
+PATIENT X580
+Go ahead.  
+
+DOCTOR X580
+Deep breath, good relax.  I'm gonna listen to your heart.  Do you feel like your belly is bigger?
+
+PATIENT X580
+It is much bigger.  They fed me that food and everything there.  @@@.
+
+DOCTOR X580
+Does it hurt at all with me pushing up here?
+
+PATIENT X580
+No it don't hurt or nothing.
+
+DOCTOR X580
+Do you have swelling in your legs?
+
+PATIENT X580
+No.
+
+DOCTOR X580
+I'll take a look.
+
+PATIENT X580
+No swelling at all.
+
+DOCTOR X580
+Good.
+
+PATIENT X580
+I'm just feeling tired.  I don't have no energy.
+
+DOCTOR X580
+You're feeling tired overall huh?
+
+PATIENT X580
+Yeah.
+
+DOCTOR X580
+Well it might have a little bit to do with the hepatitis as well.
+
+PATIENT X580
+Okay.
+
+DOCTOR X580
+So we'll kind of see what those doctors say but let me step out and talk to my attending.
+
+PATIENT X580
+Okay.
+
+DOCTOR X580
+And then I'll come back in and we'll go through everything that we're gonna get done okay.
+
+PATIENT X580
+Alright.
+
+DOCTOR X580
+I'll be right back.
+
+PATIENT X580
+Okay.
+
+(DOCTOR OUT:  24:03  DOCTOR IN:  38:18)
+
+DOCTOR X580
+Alright PATIENT.  Very good.  So we'll go through this list one by one with you.  So we'll have you pick up your medications today.
+
+PATIENT X580
+Okay.
+
+DOCTOR X580
+They'll be the ibuprofen um 800, pick it up from the window and we're gonna start you on a blood pressure medication.
+
+PATIENT X580
+Okay.  What about this acid reflux?
+
+DOCTOR X580
+I can get you something for that too, hold on a second.  Acid reflux uh, do you usually take medications?  Is it after every meal or is it worse when you lie down in bed?
+
+PATIENT X580
+It's worse when I lay down in bed.  I have to jump out of bed and run to the bathroom.
+
+DOCTOR X580
+Gotcha.  When you run to the bathroom what happens?
+
+PATIENT X580
+It just make me feel like I'm losing my stomach.
+
+DOCTOR X580
+Okay.  I'm gonna give you something, it says to take it at bedtime but I would probably take it like half an hour or an hour before you actually lie down to go to bed.
+
+PATIENT X580
+Okay.
+
+DOCTOR X580
+If it bothers you during the day as well you can take this medication up to twice a day so you could take it at morning and night.
+
+PATIENT X580
+And see this stuff here; it's been keeping it under control until at night.
+
+DOCTOR X580
+Gotcha.  You can keep taking it if you want.
+
+PATIENT X580
+Okay.
+
+DOCTOR X580
+Okay.  Like a multivitamin sort of thing you've got going on here.
+
+PATIENT X580
+Okay, so it won't hurt.
+
+DOCTOR X580
+For the eyes we will send you to uh, I'll ask them to schedule a follow-up for you in the Eye Clinic.  You saw them, if you see them within like a two year period they don't count you as a new patient, you're a follow-up one so if they can't schedule you you'll have to call and just say I want to make a follow-up appointment.
+
+PATIENT X580
+Okay.
+
+DOCTOR X580
+You'll be a new patient in the Nail Care Clinic; this is the Podiatry Clinic who takes care of the calluses.
+
+PATIENT X580
+Okay.
+
+DOCTOR X580
+Uh the Liver Clinic you're also gonna be a new patient in.
+
+PATIENT X580
+Okay.
+
+DOCTOR X580
+And the Addictions Clinic.  They should be able to direct you to the Addiction Central Intake.  They have their own office where they make their appointments.
+
+PATIENT X580
+Okay.
+
+DOCTOR X580
+So the front desk will tell you how to get there.
+
+PATIENT X580
+Okay.
+
+DOCTOR X580
+Uh Admitting will have some paperwork to see if you qualify for the dental stuff.
+
+PATIENT X580
+When I leave here.
+
+DOCTOR X580
+Yeah hopefully.
+
+PATIENT X580
+Okay.
+
+DOCTOR X580
+So the places that I want you to stop off at are the front desk, the Pharmacy and the Laboratory we're gonna get some blood work cause it's been about a year and a half now.
+
+PATIENT X580
+Okay.
+
+DOCTOR X580
+Okay.  I want to see you back in a month just to see how all of these things have kind of played out.
+
+PATIENT X580
+Okay.
+
+DOCTOR X580
+Maybe after the holidays, like the early January, you could come in; we could check your blood pressure again with just the nurse.
+
+PATIENT X580
+Okay.  Okay.
+
+DOCTOR X580
+And then if your blood pressure is still high we can change the medication a little bit.
+
+PATIENT X580
+Okay.
+
+DOCTOR X580
+Alright.  Then sorry that you were in jail but I'm glad that they took the opportunity to get you to stop drinking and stop smoking.
+
+PATIENT X580
+Yeah right.
+
+DOCTOR X580
+Kind of get everything back together.
+
+PATIENT X580
+I tell you, thank you.
+
+DOCTOR X580
+You're welcome.  Stay warm it's a.
+
+PATIENT X580
+And the pill that you say you gonna get for me for my sex drive.
+
+DOCTOR X580
+Yeah that will get mailed to you.  You can't pick that up here.
+
+PATIENT X580
+So when I'll be expecting it?  One week, two weeks?
+
+DOCTOR X580
+I would give it about a week because of Christmas, the mail is probably not gonna come on Friday.
+
+PATIENT X580
+Okay, alright thank you.
+
+DOCTOR X580
+You're welcome.
+
+PATIENT X580
+I'm gonna go to the nurses?
+
+DOCTOR X580
+@@@.
+
+PATIENT LEAVES:  42:41
+
+
+
+
+

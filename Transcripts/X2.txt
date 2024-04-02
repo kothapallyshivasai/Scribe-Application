@@ -1,0 +1,1674 @@
+
+DOCTOR X2
+Hi.
+
+
+PATIENT X2
+Yes ma'am.
+
+
+DOCTOR X2
+@@@
+
+
+PATIENT X2
+Okay.
+
+
+DOCTOR X2
+Okay.
+
+
+PATIENT X2
+Nope I've got it.
+
+
+DOCTOR X2
+Hello.
+
+
+PATIENT X2
+Hi.
+
+
+DOCTOR X2
+This is NURSE.
+
+
+PATIENT X2
+Hi NURSE.
+
+
+DOCTOR X2
+@@@.
+
+
+PATIENT X2
+Okay.
+
+
+DOCTOR X2
+I hope you don't mind.
+
+
+PATIENT X2
+I'm okay, no problem.
+
+
+DOCTOR X2
+No problem.  I haven't seen you in a while.
+
+
+PATIENT X2
+Well.
+
+ 
+DOCTOR X2
+You keep canceling your appointments with me.
+
+
+PATIENT X2
+Uh no one, no my scooter.
+
+
+DOCTOR X2
+What's the deal?
+
+
+PATIENT X2
+My scooter lift is broke.
+
+
+DOCTOR X2
+Oh no.  Are you trying to get that fixed?
+
+
+PATIENT X2
+Yeah they told @@@.  It has been three weeks now.  I guess he's trying to get as many people on the contract before we get it fixed.
+
+
+DOCTOR X2
+You know that's really um, talk to get these things fixed.
+
+
+PATIENT X2
+Yeah but the scooter @@@ and the lift is @@@ unique.
+
+
+DOCTOR X2
+Yeah, your INR is low today, you been taking your Coumadin?
+
+
+PATIENT X2
+No.  I have an endoscope scheduled for Monday.
+
+
+DOCTOR X2
+Yeah.
+
+
+PATIENT X2
+And so um, NURSE the Coumadin nurse instructed me not to take my dosage the third and the fourth and report to him today, you know to get the level done.
+
+
+DOCTOR X2
+Oh, okay, gotcha, oh gotcha, gotcha, yeah.  You're gonna get an endoscope?  Who got you and endoscope, yeah I didn't get you an endoscope.
+
+
+PATIENT X2
+The liver doctors @@@.
+
+
+DOCTOR X2
+Oh, okay.  So you are up for an, wait are you getting an endoscopy or colonoscopy?  Above or below?
+
+
+PATIENT X2
+Above.
+
+
+DOCTOR X2
+Above okay.
+
+
+PATIENT X2
+So.
+
+
+DOCTOR X2
+And um, let me see.
+
+
+PATIENT X2
+It's uh Monday the 9th at 7:30, 8:30 something like that.
+
+
+DOCTOR X2
+I hope it's not, I hope so cause it's not on here, let me see.
+
+
+PATIENT X2
+Well, I got the paperwork.
+
+
+DOCTOR X2
+Oh yeah, okay, well if they've got you set up I believe em, you know cause they know that.
+
+
+PATIENT X2
+Here is the form, for @@@.
+
+
+DOCTOR X2
+The liver doctor at xxx Brown, what did they say?  They said the . . .
+
+
+PATIENT X2
+They said my liver is @@@.
+
+
+DOCTOR X2
+Oh, they wanted to check to see if you had any of those blood vessels.
+
+
+PATIENT X2
+Yeah, right, which I do, but they want, this is the second one.
+
+
+DOCTOR X2
+Okay, gotcha.  We'll look at that, oh this is over; this is over at xxx Brown though huh.
+
+
+PATIENT X2
+Right.
+
+
+DOCTOR X2
+Not here.
+
+
+PATIENT X2
+No, no.
+
+
+DOCTOR X2
+Okay, gotcha, now it's clear.
+
+
+PATIENT X2
+Right.
+
+
+DOCTOR X2
+It is not going to show if it is at xxx Brown on my computer.
+
+PATIENT X2
+Oh, okay.  Well, you can't access those files.
+
+
+DOCTOR X2
+Yeah I can't.
+
+
+PATIENT X2
+You just said.
+
+
+DOCTOR X2
+It just doesn’t show here, I have to look at a special place.
+
+
+PATIENT X2
+Okay, okay.  I see, okay.
+
+DOCTOR X2
+Okay so they're looking for the vessels?
+
+
+PATIENT X2
+Right I guess.
+
+
+DOCTOR X2
+Making sure they're okay.  You've never had bleeding right?
+
+
+PATIENT X2
+No.
+
+
+DOCTOR X2
+Of the vessels?
+
+
+PATIENT X2
+No what they did it before.
+
+
+DOCTOR X2
+Yeah, okay.
+
+
+PATIENT X2
+Uh and they found out that I did have some varices in the, in the stomach.
+
+
+DOCTOR X2
+Are you taking your water pill?
+
+
+PATIENT X2
+Uh I am taking it occasionally, I'm taking it.
+
+
+DOCTOR X2
+You know might get into trouble when you don't take em right?
+
+
+PATIENT X2
+I know, I know.
+
+DOCTOR X2
+I know the liver doctor gets on ya, right?
+
+
+PATIENT X2
+Yes I do, I just you know.
+
+
+DOCTOR X2
+So you ran out, so I'm gonna renew okay.
+
+
+PATIENT X2
+Okay, you'll need to get through.
+
+
+DOCTOR X2
+You need that Lactulose.
+
+
+PATIENT X2
+Yeah right, right.
+
+
+DOCTOR X2
+Okay right.  So you have uh hepatitis cirrhosis and then he has varices and then he has occasional encephalopathy and the fluid is from @@@.
+
+
+PATIENT X2
+Okay so.
+
+
+DOCTOR X2
+I'm gonna renew these meds okay?
+
+
+PATIENT X2
+Okay.
+
+
+DOCTOR X2
+Cause you need them.
+
+
+PATIENT X2
+Can I pick em up this evening?
+
+
+DOCTOR X2
+Yeah, let's do that.
+
+
+PATIENT X2
+Okay.  I have a form from uh, uh Human, The Department of Human Services.
+
+
+DOCTOR X2
+Yeah, what is it for?
+
+
+PATIENT X2
+It's for they want to provide me service, home care service.
+
+
+DOCTOR X2
+Okay, I get the home care @@@.  Help you out with your medicines.
+
+
+PATIENT X2
+Yeah and you know.
+
+
+DOCTOR X2
+And your weight.
+
+
+PATIENT X2
+You know, work around the house like you know dishes and groceries and stuff.
+
+
+DOCTOR X2
+Oh, is it the Department of Aging?
+
+
+PATIENT X2
+No, Rehabilitative Service.
+
+
+DOCTOR X2
+Rehab.  I can probably talk to them.
+
+
+PATIENT X2
+Okay.
+
+
+DOCTOR X2
+Okay.  Um, you live by yourself right?
+
+
+PATIENT X2
+Yes, it's just me.
+
+
+DOCTOR X2
+Okay, well let's see last time you haven't seen me in so long, we should be seeing you every three months to be honest.
+
+
+PATIENT X2
+Doctor uh.
+
+
+DOCTOR X2
+I know, I know it's hard.
+
+
+PATIENT X2
+I supposed to have my eyes checked too but they haven't been times, you know they haven't even contacted me about that.
+
+
+DOCTOR X2
+So we can put that in for you.
+
+
+PATIENT X2
+Okay.
+
+
+DOCTOR X2
+An eye appointment.  Are you service-connected?
+
+
+PATIENT X2
+I'm 100% yes.
+
+
+DOCTOR X2
+100%.  So I could order anything for you that.
+
+
+PATIENT X2
+Right, right.  I see that you've already you @@@ picked out my appointments @@@.
+
+
+DOCTOR X2
+Let's see.  @@@ to me, oh Lord, @@@.
+
+
+PATIENT X2
+I know it is, you know I knew @@@ my eyes is nothing, my nerves @@@.
+
+
+DOCTOR X2
+Yeah it's because you're not taking your water pills.  You're full of fluid.
+
+
+PATIENT X2
+Okay.
+
+
+DOCTOR X2
+For you your fluid dependent okay.
+
+
+PATIENT X2
+Oh.
+
+
+DOCTOR X2
+The more fluid you have on you, the higher your blood pressure is.
+
+
+PATIENT X2
+Right.
+
+
+DOCTOR X2
+Okay, you need to be on the water pill.
+
+
+PATIENT X2
+Well but where the fluid, I urinate the fluid out?
+
+
+DOCTOR X2
+Oh yeah.
+
+
+PATIENT X2
+Well I'm doing that anyway.
+
+
+DOCTOR X2
+I know, that's because you have a lot on you.
+
+
+PATIENT X2
+Yeah okay.
+
+
+DOCTOR X2
+You gotta watch what you eat right?
+
+
+PATIENT X2
+Right.
+
+
+DOCTOR X2
+What you drinking.
+
+
+PATIENT X2
+Okay.
+
+
+DOCTOR X2
+If you're drinking too much, you've taken in too much salt, you're gonna retain all that fluid.
+
+
+PATIENT X2
+Okay.
+
+
+DOCTOR X2
+You have a tendency because your liver doesn't, isn't 100% you know.
+
+
+PATIENT X2
+Uh-huh.
+
+
+DOCTOR X2
+So you retain fluids, you have low protein probably, low albumin as they call it, low protein.  So you keep all that fluid in you.
+
+
+PATIENT X2
+Okay.
+
+
+DOCTOR X2
+So the water pill, you gotta be on it.
+
+
+PATIENT X2
+I know doctor, I keep.
+
+
+DOCTOR X2
+And I know you don't want to take it.
+
+
+PATIENT X2
+I keep saying, @@@.  But I've been so busy trying to like just get through the day, I tend of forget about it, just focus on the now with what I have to get done.  If I have to get a letter out, pay a bill or whatever.  The first of the month I go prepare things, go to the bank get the money, go to Cashay, get the money orders and then get around to pay the people.  Uh, so I'm just so focused doing that, if it's not an emergency I usually have a tendency not to put that high on the priority list.
+
+DOCTOR X2
+Let me see, okay here's your liver doctor.  I want to see what your liver doctor says.
+
+
+PATIENT X2
+He said he want to put me back on interferon.
+
+
+DOCTOR X2
+He said he wanted to?
+
+
+PATIENT X2
+He didn't and I was upset about that, somebody will kill me, I don't believe it.
+
+
+DOCTOR X2
+You're not a candidate um.
+
+
+PATIENT X2
+For a liver transplant.
+
+
+DOCTOR X2
+For a transplant because of the depression um.
+
+
+PATIENT X2
+So that you may @@@.
+
+
+DOCTOR X2
+No, no, no, not that um, cause you are not, you're intolerant to the interferon.
+
+
+PATIENT X2
+Right, right.
+
+
+DOCTOR X2
+So only on water pills and some Lactulose, he wanted to check your liver function twice a year.  He wanted to do an ultrasound.  He wants to do the endoscopy.
+
+
+PATIENT X2
+Okay, they did the ultrasound.
+
+
+DOCTOR X2
+Yeah and then he said um, go to us to follow your Coumadin, which we did.
+
+
+PATIENT X2
+Okay.
+
+
+DOCTOR X2
+Um okay and then okay.  @@@.  Alright, let's see from my standpoint, what have I got to do for you.  So any ulcers on your leg, are all those healed up?
+
+
+PATIENT X2
+No, they’re not.  It's just you know they getting in and takes a while doing the whatcha call it, the pressure and every once in a while like a blister get on em, fill the water.
+
+
+DOCTOR X2
+They're supposed to drain, remember the first time I met ya.
+
+
+PATIENT X2
+Yeah, I know.
+
+
+DOCTOR X2
+That was bad ulcers.
+
+
+PATIENT X2
+I know but they was, they gave, they gave me that, they gave me that pressurized thingy, I don't do it religiously.  The doctor told me, he said if you do that, it'll restore your leg, all we got almost 100%.
+
+DOCTOR X2
+All this is the fluid.
+
+
+PATIENT X2
+Right.
+
+
+DOCTOR X2
+All of this is water.  I remember when I first met you, I remember.  Okay, um, can you get up on the table for me?  Is it . . .
+
+PATIENT X2
+Yes.  Do you want me to take my jacket off?
+
+
+DOCTOR X2
+Yeah that would be great.
+
+
+PATIENT X2
+Okay.
+
+
+DOCTOR X2
+@@@.
+
+
+PATIENT X2
+I think I'm gonna back up here, so I was like over there, somebody'd come in and knock me off.
+
+DOCTOR X2
+No clearance.
+
+
+PATIENT X2
+I don't know, you don't know me and my wife.  Somebody will come in.
+
+
+DOCTOR X2
+@@@ uh, I'll hang your jacket up for you.
+
+
+PATIENT X2
+Oh.  That you can put it over there.  @@@.
+
+
+DOCTOR X2
+There we go.
+
+PATIENT X2
+See this.
+
+
+DOCTOR X2
+Did they weigh you @@@?
+
+
+PATIENT X2
+Yeah, on the scale I was on 64 inches and those scales, @@@ cause I haven't lost @@@.
+
+DOCTOR X2
+How many times a day do you take your Coumadin?
+
+
+PATIENT X2
+When I take it, I take it uh four times a week.  I take it, I take it every day.
+
+
+DOCTOR X2
+Uh-huh.
+
+
+PATIENT X2
+What I take on Wednesday and Fridays, so Wednesday and Fridays I take it right 10 mg.
+
+
+DOCTOR X2
+Uh-huh.
+
+
+PATIENT X2
+And on those other days I take two pills of 7 points.
+
+
+DOCTOR X2
+Okay, okay.  What time during the day do you take it?
+
+
+PATIENT X2
+I take it maybe 10 o'clock, same time.
+
+
+DOCTOR X2
+So 10 o'clock.
+
+
+PATIENT X2
+Yeah.
+
+
+DOCTOR X2
+Oh wow, look at all this.  How many times a day are you supposed to take your water pill?
+
+
+PATIENT X2
+I'm supposed to take it I think every day.
+
+
+DOCTOR X2
+Every day?
+
+
+PATIENT X2
+Yeah uh, well I can tell you something I don't take that much and when she ordered it @@@, I @@@.
+
+DOCTOR X2
+If you take two times each day, once in the morning when you wake up, that way you'll remember I need to take one pill when I wake up in the morning and then I need to take one pill when I go to sleep at night.
+
+PATIENT X2
+Right, yeah.  I'm not @@@, blowin up, that's why I needed to take it, @@@ office hours.
+
+
+DOCTOR X2
+Umm.
+
+
+PATIENT X2
+@@@ fluid.
+
+
+DOCTOR X2
+Umm.
+
+PATIENT X2
+@@@.
+
+
+DOCTOR X2
+Umm.
+
+
+PATIENT X2
+@@@ thought I got pneumonia @@@ or maybe just @@@.
+
+
+DOCTOR X2
+How long have you @@@?
+
+
+PATIENT X2
+Well he first started doing it in the last year.
+
+
+DOCTOR X2
+In the last year?
+
+
+PATIENT X2
+Yeah.
+
+
+DOCTOR X2
+Are there times when you wake up @@@ or has it gotten bigger or sometimes it's smaller.
+
+
+PATIENT X2
+@@@ growing yeah.  But now I can't even bend over.  It used to be, something like varicose, @@@ bigger.
+
+
+DOCTOR X2
+Uh-huh.
+
+
+PATIENT X2
+About half size.
+
+
+DOCTOR X2
+The ultrasound is of your liver, is that right?
+
+
+PATIENT X2
+They did the whole liver area.
+
+
+DOCTOR X2
+The whole side.
+
+
+PATIENT X2
+And the whole shoulder too, @@@.
+
+
+DOCTOR X2
+Well don't worry about it.  There's a lot here, I need some time to look.  Alright.
+
+
+PATIENT X2
+@@@.
+
+
+DOCTOR X2
+I'm on your side.  Open up your mouth.  @@@.  Alright just look at me straight on.  Open your eyes, close your mouth (laughter).  Um, what side was your stroke on?
+
+
+PATIENT X2
+The only one, this must be swelling side, @@@.
+
+
+DOCTOR X2
+Maybe it's because of the hat.  (laughter).  You had a hat on today.
+
+
+PATIENT X2
+I still don't @@@.
+
+
+DOCTOR X2
+Stick your tongue out.  Hmm.  Which side are you weak on?  Grab my fingers, both sides, I @@@.  This side, grab me as hard as you can on both sides.
+
+
+PATIENT X2
+Alright, I can't.
+
+
+DOCTOR X2
+I know, yes you can.  Okay good.  You have some function here.
+
+
+PATIENT X2
+Yeah @@@.  I can squeeze.
+
+
+DOCTOR X2
+Lift it up against me.
+
+
+PATIENT X2
+That's too far.
+
+
+DOCTOR X2
+Here, I'm gonna do the same thing, I'm gonna put one finger here and one finger there and can you squeeze, okay, great and then push up there and um push up there, great.  I'm going to call that @@@.
+
+
+PATIENT X2
+Yeah.
+
+
+DOCTOR X2
+2-3, cause he's able to @@@ but it feels like it's all coming from the shoulder.
+
+
+PATIENT X2
+Yeah because I got @@@.
+
+
+DOCTOR X2
+Put that on this side.
+
+
+PATIENT X2
+@@@.
+
+
+DOCTOR X2
+Okay.
+
+
+PATIENT X2
+That's why I @@@.
+
+
+DOCTOR X2
+I would say that's 3-4.  Will you come this way?  Deep breathe.  Deep breathe.  Deep breathe.  @@@.  You want to lie back for me?  @@@.  Can you bring chin away from me?  Now turn your chin towards me.  @@@.  So @@@.  Yes and so this @@@.  Turn it again, so the really bad @@@.  (DOCTOR speaking to other person in room, not PATIENT)  @@@ like you @@@ too much fluid all the way up to your heart, not good.  (DOCTOR speaking to other person in room, not PATIENT).  (Phone ringing 59:38, DOCTOR speaking on phone ends call 59:54, keeps speaking with other person in room)  Do you have hemorrhoids?
+
+
+PATIENT X2
+No.
+
+
+DOCTOR X2
+No.  (DOCTOR keeps speaking to other person in room)  Just talking.
+
+
+PATIENT X2
+@@@.
+
+
+DOCTOR X2
+@@@.
+
+
+PATIENT X2
+Yeah, well he sat down when I started talking.
+
+
+DOCTOR X2
+(DOCTOR speaking to other person in room 60:48 until 61:49)  Other person asks a question @@@.
+
+
+PATIENT X2
+No, no.
+
+DOCTOR X2
+@@@.
+
+
+PATIENT X2
+Just the hospital.
+
+
+DOCTOR X2
+Okay.  Alright sir, thanks for letting us examine ya.  
+
+
+PATIENT X2
+No that's fine right here, I just trying to get up and walk over there.
+
+
+DOCTOR X2
+Have you gotten your flu shot?
+
+
+PATIENT X2
+Yeah, yeah, she gave it to me a few months ago.  She don't have the H1N1.
+
+
+DOCTOR X2
+No, no.  @@@ right now.
+
+
+PATIENT X2
+When was that?
+
+
+DOCTOR X2
+There's uh, so I don't know, so I don't know if you’ve heard but there is actually @@@.  So right now the people that they're vaccinating are the pregnant women, okay.
+
+
+PATIENT X2
+I thought pregnant women weren't supposed to take it?
+
+
+DOCTOR X2
+No, they, they are because they've had a lot of problems with pregnant women with medical problems dying from it.
+
+
+PATIENT X2
+And when people 62, I'm 60 years old.
+
+
+DOCTOR X2
+Uh yeah so, with certain medical problems yes um and then they're distributing it to um young children as well.
+
+
+PATIENT X2
+Yeah okay.
+
+
+DOCTOR X2
+But um, once they get em here they'll give em to you okay?
+
+
+PATIENT X2
+Okay so I don't qualify.
+
+
+DOCTOR X2
+No you don't qualify yet, not yet.
+
+
+PATIENT X2
+Okay.
+
+
+DOCTOR X2
+@@@
+
+
+PATIENT X2
+Alright.
+
+
+DOCTOR X2
+Careful.
+
+
+PATIENT X2
+So now doctor how can I get that form?
+
+
+DOCTOR X2
+I'm doing it right now.
+
+
+PATIENT X2
+Oh okay.
+
+
+DOCTOR X2
+I mean so, you're @@@.  You need to get on the Coumadin Clinic.
+
+
+PATIENT X2
+This is my motor.
+
+
+DOCTOR X2
+So we're gonna get an appointment lined up for you.  Oh gotcha, gotcha, gotcha, gotcha.
+
+
+PATIENT X2
+That's my motor.
+
+
+DOCTOR X2
+Your walker sits too high.
+
+
+PATIENT X2
+Well you say you want me to use the water pills.
+
+
+DOCTOR X2
+Are you gonna take em?
+
+
+PATIENT X2
+Yeah I'm gonna take em.
+
+
+DOCTOR X2
+Promise?
+
+
+PATIENT X2
+You know I need to go see, and as I was thinking about it here, so I'll be motivated what she do with me and after a while I just kind of get lax on it.
+
+
+DOCTOR X2
+Well let me know uh, so next time you get your INR drawn.
+
+
+PATIENT X2
+Right.
+
+
+DOCTOR X2
+Can you get some cholesterol labs drawn?
+
+
+PATIENT X2
+Well yeah I can you know of the order is in.
+
+
+DOCTOR X2
+The nurse comes to your house to get it or do you get it here?
+
+
+PATIENT X2
+No, no, I come here and get my INR uh like two or three times, what twice, about once a month at least I get my INR done and they're getting ready to change me from like.
+
+
+DOCTOR X2
+When are they checking it again?
+
+
+PATIENT X2
+They did it today.
+
+
+DOCTOR X2
+Oh.
+
+
+PATIENT X2
+So whenever I go there they're gonna probably like tell me, give me the Lovenox so I can take the endoscope Monday and then when that's over they're gonna probably tell me to schedule me about, I don't know, maybe two weeks after that.  NURSE is the Coumadin Nurse for the local.
+
+
+DOCTOR X2
+So can you tell NURSE that I ordered some blood work and to check it.
+
+PATIENT X2
+And schedule that appointment at the same time.
+
+
+DOCTOR X2
+Yeah.
+
+
+PATIENT X2
+Okay, alright.  @@@.
+
+
+DOCTOR X2
+Get is all drawn together yeah.
+
+
+PATIENT X2
+Okay yeah because I see him right after I leave you.
+
+
+DOCTOR X2
+Okay.  Yeah tell NURSE.
+
+
+PATIENT X2
+Alright.
+
+
+DOCTOR X2
+(DOCTOR speaking to other person in room - And check his cholesterol.)  You're not on that cholesterol medicine anymore huh?
+
+
+PATIENT X2
+Well it probably ran out.  The prescription probably ran out, tell NURSE.
+
+DOCTOR X2
+Do you need to get back on it?  You need to get back on it.
+
+
+PATIENT X2
+It's Colestipol right, yeah.  I know NURSE you know.  If my cholesterol is still high, I know ...
+
+
+DOCTOR X2
+Last time you weren't taking it @@@.
+
+
+PATIENT X2
+Yeah, that always seems to be the issue.
+
+
+DOCTOR X2
+I know.  We're gonna get you on it.  Let's see, Colestipol, Colestipol.
+
+
+PATIENT X2
+Only medicine I take is the Coumadin.
+
+
+DOCTOR X2
+I know.  (Other person asks patient question)  Do you think that like that you came to see, you came more often to see the doctor that you like, want to see.
+
+
+PATIENT X2
+Yeah, yeah.  See I have a memory problem and a lot of things naturally I don't want to remember.  You know, like I I @@@ forget, like I got a lift, I can't move my left side, I don't use my left side, I don't even think about it.
+
+
+DOCTOR X2
+Hmm.
+
+
+PATIENT X2
+Now you know I put my hat at one side at my wife's funeral and then I went around where my hat at, it didn't dawn on me that it was on my left, of course I don't even think, there's a lot of things I be overlooked.  But if I keep it down front yeah I will do a better job with it.
+
+
+DOCTOR X2
+So you identified the problem.
+
+
+PATIENT X2
+Yeah I know.
+
+
+DOCTOR X2
+Right.
+
+
+PATIENT X2
+I know I'm just I haven't identified the solution yet.
+
+
+DOCTOR X2
+Write it on your frig.
+
+PATIENT X2
+What's the solution?
+
+
+DOCTOR X2
+Write a big note on your refrigerator.
+
+
+PATIENT X2
+Do what?
+
+
+DOCTOR X2
+And glue it onto your refrigerator and say take your water pill.
+
+
+PATIENT X2
+Take my meds okay.
+
+
+DOCTOR X2
+I'm gonna take my Coumadin in the evening and then see my doctor.
+
+PATIENT X2
+It probably what I do, @@@.
+
+
+DOCTOR X2
+Write it on your frig.
+
+
+PATIENT X2
+I'm gonna write it doc, I know I need to do something, you're right I do.
+
+
+DOCTOR X2
+Now let's get you some physical therapy, occupational therapy, get you some water pills.  Yeah I reordered your cholesterol pill.  Are you still on the spironolactone?
+
+
+PATIENT X2
+Well that's the water pill right?
+
+
+DOCTOR X2
+You have two, you have Lasix and you have spironolactone.
+
+
+PATIENT X2
+Uh I got like a little yellow pill and had the white pill, that's all I know.  I know.
+
+
+DOCTOR X2
+(OTHER PERSON and DOCTOR talking).  Okay, we're gonna, you haven't, you're out of your spironolactone too.
+
+
+PATIENT X2
+I roger that.  @@@ when I ask for them to update it for me, is the Colestipol, I only know that's probably expired also.
+
+
+DOCTOR X2
+So we're gonna put you, there's two water pills you're on.
+
+
+PATIENT X2
+Okay.  You know how that happened, last thing DOCTOR gave me some water pills too.
+
+
+DOCTOR X2
+Okay, well pick em up today okay?
+
+
+PATIENT X2
+Okay.
+
+
+DOCTOR X2
+You gotta get back on them for your blood pressure to get better and lose some more fluid and all that stuff okay.
+
+
+PATIENT X2
+Okay.
+
+
+DOCTOR X2
+And blood work was the next time that you see...
+
+
+PATIENT X2
+NURSE.
+
+
+DOCTOR X2
+NURSE.
+
+
+PATIENT X2
+Okay.
+
+DOCTOR X2
+(OTHER PERSON)  So when you go to the Pharmacy and you pick up your pills, they print out a nice thing for you, when to take them, so I want you to take a big piece of paper and tape it right on your refrigerator.
+
+
+PATIENT X2
+I will, I'm do it, I mean I'm gonna do it.  Like the @@@ I need to take them on a regular, you know I just don't drink up and when I take that I mean @@@ get up out of this chair to go to the bathroom, so.  I know I feel better when I take it too.
+
+
+DOCTOR X2
+Yeah you gotta make some time for yourself you know.  You're paying everyone else, you gotta pay yourself.
+
+
+PATIENT X2
+I know, I know man; you right doctor, I just, I don't know I just.  I'm not that motivated today.
+
+
+DOCTOR X2
+(OTHER PERSON)  Yeah there's good days and bad days right?
+
+
+PATIENT X2
+Yeah, some days are worse than other those.
+
+
+DOCTOR X2
+(OTHER PERSON)  You have good days, you have bad days but.
+
+
+PATIENT X2
+I mean, I'm just tired.  Feels like my liver, I'm very lazy and I live like I moved from xxx to xxx xxx and I got a bigger apartment but the problem is I almost a block from the elevator and I'm on the third floor so that just kill me just trying to get to the hospital.
+
+
+DOCTOR X2
+Alright I got it, I got it all well.
+
+
+PATIENT X2
+Okay.  You know she put your name on it cause you been my, are you gonna still be my physician or are you.
+
+
+DOCTOR X2
+If you, if you, continue to compliment me, sure.
+
+
+PATIENT X2
+Well I know there somewhere.
+
+
+DOCTOR X2
+I'm here for another eight months.
+
+
+PATIENT X2
+Okay cause they told me one time that I was gonna have another primary.
+
+
+DOCTOR X2
+Eight months.
+
+
+PATIENT X2
+Oh eight.
+
+
+DOCTOR X2
+If you don't come back in eight months then it won't be me.
+
+
+PATIENT X2
+Oh, okay.  Well I don't know, well whatever, nice knowing you doctor, you.
+
+
+DOCTOR X2
+We'll be back okay?  (OTHER PERSON)  We'll be back.
+
+
+PATIENT X2
+Alright.  Okay, so is it a pick-up on my meds at the Pharmacy?
+
+
+DOCTOR X2
+Uh-huh.  We'll be down, we're gonna check it.
+
+
+PATIENT X2
+Oh okay.  I was getting ready to follow you out...
+
+(DOCTOR OUT: 71:00)  (DOCTOR IN:  83:24)
+
+DOCTOR X2
+Hey we're gonna get a bone scan okay?  We're looking at some of the blood work.  We'll get you a bone scan.  Make sure all your bones are soft.
+
+
+PATIENT X2
+Okay, when you want me to do that?
+
+
+DOCTOR X2
+You can schedule it up front okay, say the doctor ordered a bone scan.
+
+
+PATIENT X2
+Oh okay.
+
+
+DOCTOR X2
+I want to see you again in three months.
+
+
+PATIENT X2
+Okay doc.
+
+
+DOCTOR X2
+Have you ever been checked for HIV?
+
+
+PATIENT X2
+Uh yeah right before my stroke, so back in 96, 96 maybe 96, cause I had the stroke in 97, February, so I know it wasn't that year.
+
+
+DOCTOR X2
+Okay.
+
+
+PATIENT X2
+So it was like the previous year.
+
+
+DOCTOR X2
+@@@ alright so, we're gonna restart the cholesterol medicine.
+
+
+PATIENT X2
+Okay.
+
+
+DOCTOR X2
+Alright sir.
+
+
+PATIENT X2
+Yeah, I have one more question doctor.
+
+
+DOCTOR X2
+Yeah.
+
+
+PATIENT X2
+I'm with this program, CWT Program here.
+
+
+DOCTOR X2
+Uh-huh.
+
+
+PATIENT X2
+And they are considering me working.
+
+
+DOCTOR X2
+Hmm, okay.
+
+
+PATIENT X2
+Is that, am I physically able to work?
+
+
+DOCTOR X2
+If you're getting Home Health, I don't know if that's a good idea, you know what I mean?
+
+
+PATIENT X2
+Right.
+
+
+DOCTOR X2
+If I fill out all these papers saying that you need.
+
+
+PATIENT X2
+Okay, okay.
+
+
+DOCTOR X2
+Uh disabled.
+
+
+PATIENT X2
+Okay ma'am, no problem.  I really want that.
+
+
+DOCTOR X2
+I'd get help when you need to.  Are you low on money?
+
+
+PATIENT X2
+No, no, it's just that I'm tired of just being in the house.
+
+
+DOCTOR X2
+Oh, okay.
+
+
+PATIENT X2
+All the time, was just for a while.
+
+
+DOCTOR X2
+Oh volunteering?
+
+
+PATIENT X2
+Well, well.
+
+
+DOCTOR X2
+What type of work are we talking about?
+
+
+PATIENT X2
+It's just standing.  DOCTOR @@@.
+
+
+DOCTOR X2
+Why don't you just go volunteer?
+
+
+PATIENT X2
+Well cause they're planning to do more voluntaring than I do there and when I get no salary.
+
+
+DOCTOR X2
+No that's weird.  The VA @@@ takes good care of you @@@.
+
+
+PATIENT X2
+Right, well I get a special compensation cause I got two, I got two 100s really for the stroke and for the PTSD but it's just that I just want to do something with my life.  I'm not doing nothing just sitting and looking at the TV all day.
+
+DOCTOR X2
+Do you think uh, do you think volunteering would be more fruitful for you cause, cause volunteerism is a little bit more like you know you're donating your time.
+
+
+PATIENT X2
+I know but, but from what I understand the job description, I'm not, I would probably be doing less than if I volunteered.
+
+
+DOCTOR X2
+And they need a note from me?
+
+
+PATIENT X2
+No, no I was just asking your professional opinion.
+
+
+DOCTOR X2
+Well the thing is if you, you know if you feel that physically you're able to do it, I encourage you, you know, to be more active in your life and happy if you want to do it.
+
+
+PATIENT X2
+Right, well uh.
+
+DOCTOR X2
+But, like I don't want you to go and then be limited to be there, you know kind of fall backwards.
+
+
+PATIENT X2
+Well they, first my psychiatrist referred me to the program.
+
+
+DOCTOR X2
+Oh good, okay.
+
+
+PATIENT X2
+And and so.
+
+
+DOCTOR X2
+Yeah.
+
+
+PATIENT X2
+Then he signed off on it.
+
+
+DOCTOR X2
+But again you know, if you're having a hard time taking care of yourself around the house, I, I wonder how um, well you'll do this job, you know what I mean?
+
+
+PATIENT X2
+Yeah, right.
+
+
+DOCTOR X2
+You could try it.
+
+
+PATIENT X2
+Well we'll see, all, all the state could do is actually like, if somebody come out there, they don't do no vital signs or anything.
+
+
+DOCTOR X2
+Okay.
+
+
+PATIENT X2
+Or anything medical, they just want us come there and.
+
+
+DOCTOR X2
+Help you around the house.
+
+
+PATIENT X2
+Yes, I mean like go to the store for me.
+
+
+DOCTOR X2
+Why don't you try it out and if you seem to struggle with it, you know, you know yourself.
+
+
+PATIENT X2
+Right, okay.  Right, yeah okay, I think I could do it.
+
+
+DOCTOR X2
+But to be honest with you, I'd rather you concentrate on your medicines.
+
+
+PATIENT X2
+Okay, you're right.
+
+
+DOCTOR X2
+Okay.
+
+
+PATIENT X2
+Alright doc.
+
+
+DOCTOR X2
+Let me put in the bone scan.  You can go ahead and, do you need help getting out?
+
+
+PATIENT X2
+No I'm okay.
+
+
+DOCTOR X2
+Okay.  I'm gonna put in the bone scan and then.
+
+
+PATIENT X2
+So I just tell them at the check-out?
+
+
+DOCTOR X2
+Yes, yep, exactly.
+
+
+PATIENT X2
+Do want to give this form, this paperwork you gave me?
+
+
+DOCTOR X2
+That's in the folder book.
+
+
+PATIENT X2
+And then I can go pick up my meds sometime today?
+
+
+DOCTOR X2
+Yep, that's right.  Thanks for remembering.
+
+
+PATIENT X2
+Okay doc, okay then I'll see you in three months.
+
+
+DOCTOR X2
+Okay, I'll see ya.
+
+
+PATIENT X2
+Alright, thanks a lot.
+
+(DOCTOR OUT: 87:33)
+
+
+
+

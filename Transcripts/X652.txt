@@ -1,0 +1,350 @@
+
+DOCTOR X652
+PATIENT.
+
+PATIENT X652
+Who?
+
+DOCTOR X652
+PATIENT.
+
+PATIENT X652
+Uh-huh.  Hi.
+
+DOCTOR X652
+How you doing?
+
+PATIENT X652
+Alright.
+
+DOCTOR X652
+Is it still raining pretty hard out there?
+
+PATIENT X652
+Huh?
+
+DOCTOR X652
+Is it still raining pretty hard?
+
+PATIENT X652
+Yeah.
+
+DOCTOR X652
+How's everything going?
+
+PATIENT X652
+Uh well I ran out of medicine.
+
+DOCTOR X652
+Oh my.
+
+PATIENT X652
+I ran out of gout medicine.
+
+DOCTOR X652
+Okay.
+
+PATIENT X652
+I can't order it.  I told you before to put that thing in and then the magnesium I ran out of it, couldn't order it.
+
+DOCTOR X652
+Hmm.  Well the gout medicine they only gave you nine pills.  They didn't give you any of the medicine when they gave it to you also for the gout.
+
+PATIENT X652
+They what?
+
+DOCTOR X652
+They only gave you a few pills of the gout medicine when they did give it to you right?
+
+PATIENT X652
+Uh-huh.
+
+DOCTOR X652
+They didn't give you enough to last a month okay.  Hmm.  How about your insulin?  Did you need it?
+
+PATIENT X652
+I've got insulin.
+
+DOCTOR X652
+Okay.  And are you taking the vitamin D, that big pill once a week?
+
+PATIENT X652
+Uh-huh.
+
+DOCTOR X652
+You've been taking it?
+
+PATIENT X652
+I got to chew it up.  I don't mind it.  There’s some in there.  I got about two left.
+
+DOCTOR X652
+Okay.
+
+PATIENT X652
+Yeah.
+
+DOCTOR X652
+Alright.  How's everything else going?  You're urinating okay?
+
+PATIENT X652
+Uh-huh.
+
+DOCTOR X652
+Are you having any gout attacks anywhere?
+
+PATIENT X652
+Yeah, I have had yeah.
+
+DOCTOR X652
+You have recently?
+
+PATIENT X652
+Yeah.
+
+DOCTOR X652
+Which joint do you have it in?
+
+PATIENT X652
+It'd be in both of them, both feet.
+
+DOCTOR X652
+In your feet.
+
+PATIENT X652
+And then sometime it be in the toes.
+
+DOCTOR X652
+Yeah.  Is it bad right now?
+
+PATIENT X652
+No.
+
+DOCTOR X652
+Okay.
+
+PATIENT X652
+I used the medicine today though.
+
+DOCTOR X652
+For your gout?
+
+PATIENT X652
+Yeah.
+
+DOCTOR X652
+Okay.  How often do you have to take that gout medicine?
+
+PATIENT X652
+Well I don't know maybe, I can't tell.
+
+DOCTOR X652
+Well I mean like in an average month, like last month how many times did you have to take it?
+
+PATIENT X652
+About twice.
+
+DOCTOR X652
+Okay.  Okay.  Okay.  Do you get any low sugars with this ever?
+
+PATIENT X652
+Lotion?
+
+DOCTOR X652
+Do you get any low sugars?  Does your sugar get low?
+
+PATIENT X652
+Not too low.  I got the book; you want to see the book?
+
+DOCTOR X652
+Sure.  And how much insulin do you use right now?
+
+PATIENT X652
+20 and 5.
+
+DOCTOR X652
+Okay.  Yeah this is looking good.  I think these are great.
+
+PATIENT X652
+Uh-huh.
+
+DOCTOR X652
+So as long as your sugar is not getting too low, we won't need to change anything then.
+
+PATIENT X652
+Okay.
+
+DOCTOR X652
+Okay.  Okay and you don't smoke right?
+
+PATIENT X652
+No.  You see, she's said I'm supposed to have a tetanus shot.
+
+DOCTOR X652
+Yeah I was just gonna ask you that.  Do you now when your last tetanus shot was?
+
+PATIENT X652
+I don't remember.
+
+DOCTOR X652
+Okay.  Was it, you think in the last ten years?
+
+PATIENT X652
+Yeah.
+
+DOCTOR X652
+It was in the last ten years?
+
+PATIENT X652
+Uh-huh.
+
+DOCTOR X652
+Yeah okay.  Okay.  Well give me a few minutes I'm gonna go talk to DOCTOR so I'll be right back.
+
+PATIENT X652
+Okay.
+
+(DOCTOR OUT:  11:54  DOCTOR IN:  22:09)
+
+DOCTOR X652
+So you're saying you take the gout pills twice a month and you just take one pill twice a month?
+
+PATIENT X652
+No.
+
+DOCTOR X652
+Then what?
+
+PATIENT X652
+They changed it back to three.
+
+DOCTOR X652
+Okay.
+
+PATIENT X652
+Three pills.
+
+DOCTOR X652
+And that takes care of it when you have a gout attack?
+
+PATIENT X652
+It supposed, come sometimes it cools it off.
+
+DOCTOR X652
+Uh-huh.
+
+PATIENT X652
+But it didn't stop it all the time.
+
+DOCTOR X652
+Okay.  And have you ever been on a medicine that you take every day to help prevent gout attacks?
+
+PATIENT X652
+No.
+
+DOCTOR X652
+Um because there's a medicine called allopurinol that you can take one pill every day and it's supposed to help decrease the amount of uric acid in your body and uric acid is what causes gout attacks.
+
+PATIENT X652
+Oh.
+
+DOCTOR X652
+Would you like to start that pill to take to help prevent the gout attacks?  It’s one pill once a day and it helps your kidneys get rid of some of that extra uric acid in the body and that uric acid is what gets in your joints and can cause the gout flares.
+
+PATIENT X652
+Yeah.
+
+DOCTOR X652
+But it is one more pill you'd have to take every day.  It's not just the pill that you take when you have the gout attack.
+
+PATIENT X652
+Uh-huh.
+
+DOCTOR X652
+It something you take every single day.
+
+PATIENT X652
+Okay, yeah.
+
+DOCTOR X652
+Okay and you want to pick it up today?
+
+PATIENT X652
+Yeah.
+
+DOCTOR X652
+Alright.
+
+PATIENT X652
+I want the magnesium.
+
+DOCTOR X652
+And the magnesium also.
+
+PATIENT X652
+Yeah.
+
+DOCTOR X652
+Okay.  Are those the only ones you're gonna pick up today?
+
+PATIENT X652
+Yeah.
+
+DOCTOR X652
+Okay.  So let me do that first.  Okay so those medicines will be at the Pharmacy today.
+
+PATIENT X652
+Okay.
+
+DOCTOR X652
+And let me go through all your other medicines and make sure you have enough refills left so you can call for it.  Okay.  Okay so it'll be at the Pharmacy.
+
+PATIENT X652
+Okay.
+
+DOCTOR X652
+And you don't need the shot.  You don't need a tetanus shot because you had one in 2003.
+
+PATIENT X652
+Okay oh.
+
+DOCTOR X652
+Okay so you got the tetanus shot, just eight years ago and you don't need a booster.
+
+PATIENT X652
+Okay, okay.
+
+DOCTOR X652
+So you're gonna continue all your medicines and start this new one.  It's called allopurinol.
+
+PATIENT X652
+Uh-huh.
+
+DOCTOR X652
+Just one pill once a day.
+
+PATIENT X652
+Alright, okay, yeah.
+
+DOCTOR X652
+Okay and then we're gonna have you come back and see the pharmacist in a couple of months.
+
+PATIENT X652
+Okay.
+
+DOCTOR X652
+@@@.
+
+PATIENT X652
+Okay, okay.
+
+DOCTOR X652
+Alright, take care.
+
+PATIENT X652
+Yeah alright, yeah.
+
+PATIENT LEAVES:  28:00
+
+
+
+

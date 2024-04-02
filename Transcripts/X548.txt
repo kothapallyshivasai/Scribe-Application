@@ -1,0 +1,460 @@
+
+DOCTOR X548 
+PATIENT?
+
+PATIENT X548
+Yeah.  What you having a party?
+
+DOCTOR X548
+I don't know I wasn't invited.  I'll take you back.
+
+PATIENT X548
+@@@ way back there.
+
+DOCTOR X548
+@@@.  Take a seat.  @@@.  Just a little bit more okay, enough to make the door shut okay.  @@@ way back here, I'm sorry.
+
+PATIENT X548
+Hmm.
+
+DOCTOR X548
+So I don't believe we've met, I'm DOCTOR.
+ 
+PATIENT X548
+DOCTOR, no I don't think we've met.
+
+DOCTOR X548
+Alright, how are you doing today?
+
+PATIENT X548
+I'm fine.  @@@ I'm living.
+
+DOCTOR X548
+Okay.  That's good.  I understand that you have kind of some chronic pain.
+
+PATIENT X548
+Yeah.
+
+DOCTOR X548
+Okay after a car accident?
+
+PATIENT X548
+You know I've been this way most of my life cause of the car accident and I started having these dreams and be suffering in my sleep and they're starting to get worse.
+
+DOCTOR X548
+And that was all after the car accident?
+
+PATIENT X548
+Yeah.
+
+DOCTOR X548
+Okay.
+
+PATIENT X548
+Well actually it was there before the car accident, started to get better and then they got worse.  So it's coming back again.
+
+DOCTOR X548
+Okay.
+
+PATIENT X548
+And I've had these probably since at least '81.
+
+DOCTOR X548
+Okay.  What kind of dreams do you have?
+
+PATIENT X548
+Fighting, I'm always fighting.
+
+DOCTOR X548
+Who are you fighting?
+
+PATIENT X548
+I don't know, I'm getting jumped by people @@@ you know.  Sometimes I remember them, sometimes I don't and it seems like @@@.  
+
+DOCTOR X548
+@@@.
+
+PATIENT X548
+I have an appointment with her so.
+
+DOCTOR X548
+@@@ that's okay.  Have you um @@@.
+
+PATIENT X548
+@@@.
+
+DOCTOR X548
+Okay, @@@.
+
+PATIENT X548
+Yes.
+
+DOCTOR X548
+Okay.  Any thoughts of suicide or anything?
+
+PATIENT X548
+No.  @@@ but.
+
+DOCTOR X548
+Um.
+
+PATIENT X548
+It's just sometimes you know just things I can't do anymore I just you know, @@@.  Time for me to give up.
+
+DOCTOR X548
+When did you start having these thoughts?
+
+PATIENT X548
+A while back.
+
+DOCTOR X548
+In the last couple of weeks or?
+
+PATIENT X548
+Maybe about a month ago.
+
+DOCTOR X548
+Okay.  What um, do you have a plan?
+
+PATIENT X548
+No, I don't have no plan.  I get to be in certain situations in certain areas then I think this would be a good way to go.
+
+DOCTOR X548
+Okay.  Do you plan on following through with that?
+
+PATIENT X548
+No.  After I think about it for a while, then I don't do it and time passes and I just forget about it.  Like a couple weeks ago I was stopped by a train, so I am just sitting there, I was the first car there you know I like to think about it, just going up there and falling in between the trains and it was like I mean it was the intention it was like you know I could do this you know but I don't know, the train passed, it was a long train so I sat there a while thinking about it and the train passed and I went on my way and then later on I didn't think about it no more.  Maybe it's just like they come in spurts you know.  It's just like there's times when I'll be sitting and I'm thinking and.
+
+DOCTOR X548
+Do you uh when they come in spurts, do you hear any voices or anything like that?
+
+PATIENT X548
+@@@ I don't know, it's like I'm not really there. I don't know how to explain.
+
+DOCTOR X548
+Yeah, yeah, it's kind of like.  No, no I hear you.  Is it kind of like an out of body thing?  Like it's more kind of primal, does that make sense?
+
+PATIENT X548
+Hmm.
+
+DOCTOR X548
+Or is that not the way to describe it?
+
+PATIENT X548
+I don't know.
+
+DOCTOR X548
+Different.
+
+PATIENT X548
+I don't know a cycle.  I'm dreaming that I'm awake and dreaming this and you know somehow this stuff happens.  I can see myself, let's just say I can see myself walking doing these things.
+
+DOCTOR X548
+What are some of the @@@?
+
+PATIENT X548
+I don't want to talk about @@@.  That's how you @@@.
+
+DOCTOR X548
+Well, let me tell you what, like I know, I know we don't know each other very well but um like I'm afraid that you might, you might walk out of here today and act on some of these.
+
+PATIENT X548
+Yeah, I haven't done anything yet.
+
+DOCTOR X548
+I know but I think that's the key thing.  I think these are some of the things I hear you're kind of reaching out to me and I want to.
+
+PATIENT X548
+No you're just making me think about them.
+
+DOCTOR X548
+No, no, no, no, but I'm not a bad guy alright by all means.  You know I don't but I think that these are some warning things that maybe we should um; you know maybe this could be a little bit more emergent than maybe both you and I kind of think you know.  Like I don't want tomorrow something to happen to you after I just talked to you today you know like this is my opportunity of being your doctor and you know and knowing you today to maybe step in and you know, maybe save your life you know.
+
+PATIENT X548
+Well I got an appointment with my doctor.
+
+DOCTOR X548
+I know but what if you don't make it that far?
+
+PATIENT X548
+Oh I'll make it.  I'll make it, I'm still, I'll go.
+
+DOCTOR X548
+I know but I'm a little worried so.  Have you um as far as some of the dreams have you been jumped before is this all from the war?
+
+PATIENT X548
+I was never in the war.  @@@ in the service.
+
+DOCTOR X548
+Okay.  Otherwise you've been jumped before?
+
+PATIENT X548
+No.
+
+DOCTOR X548
+By um, @@@ I understand it's kind of a traumatic experience.
+
+PATIENT X548
+Yeah well, have you ever been, going into a room with somebody that you supposedly know and then get your head beat up with a Billy club.
+
+DOCTOR X548
+Yeah that's kind of how it happened for me yeah.
+
+PATIENT X548
+But you were young huh?
+
+DOCTOR X548
+No, I was just in the wrong place at the wrong time so um so alright.  Do you take all of your medications on a regular basis?
+
+PATIENT X548
+Yes.
+
+DOCTOR X548
+@@@.  Anything else bothering you?
+
+PATIENT X548
+No.
+
+DOCTOR X548
+@@@.
+
+PATIENT X548
+No I don't know why they just gave me this appointment.
+
+DOCTOR X548
+Well maybe it was fate, maybe we were supposed to meet.  Do you mind if I examine you?
+
+PATIENT X548
+Go ahead if you'd like.
+
+DOCTOR X548
+Come on back.  I'll listen to your heart okay.
+
+PATIENT X548
+Uh-huh.
+
+DOCTOR X548
+Deep breath, deep breath.
+
+PATIENT X548
+@@@.
+
+DOCTOR X548
+Give me one more, deep breath, deep breath.  Any chest pain at all?
+
+PATIENT X548
+No.
+
+DOCTOR X548
+Any shortness of breath?
+
+PATIENT X548
+Oh I pretty much quite a bit.
+
+DOCTOR X548
+Okay.  When do you get short of breath?
+
+PATIENT X548
+Usually after having attacks.
+
+DOCTOR X548
+Okay anxiety attacks?
+
+PATIENT X548
+No back attacks.  My back pain goes @@@ and makes it hard for me to breathe.  I don't have anxiety attacks @@@.
+
+DOCTOR X548
+Okay.  Well your blood pressure is pretty well controlled.  When was your last episode of gout?
+
+PATIENT X548
+About two days ago.
+
+DOCTOR X548
+Do you have some gout pain?
+
+PATIENT X548
+Yes.
+
+DOCTOR X548
+Where was that?
+
+PATIENT X548
+In my knee.  I can't bend my knee.
+
+DOCTOR X548
+Have you told any of the other doctors about the suicide thinking?
+
+PATIENT X548
+DOCTOR.  I have two teenagers, they always bring me back.
+
+DOCTOR X548
+They what?
+
+PATIENT X548
+Always bring me back.
+
+DOCTOR X548
+Okay.
+
+PATIENT X548
+But they're about to leave home, they're gonna be 18.
+
+DOCTOR X548
+@@@.
+
+PATIENT X548
+My kids, @@@.  I got to @@@ much and I'm going to be okay.
+
+DOCTOR X548
+So you've got a lot to live for.  You've got to live for them.
+
+PATIENT X548
+You know when they're gone it's over.
+
+DOCTOR X548
+Okay.  @@@ move out I mean they're still your babies right?  You got to watch over your kids and that's all of our jobs uh you know.
+
+PATIENT X548
+Well I got six kids altogether, I've got one @@@, one he's living with his mother still, he is 25; I got a daughter she's doing okay.
+
+DOCTOR X548
+But they're all your blood right?
+
+PATIENT X548
+Yeah.
+
+DOCTOR X548
+You know.
+
+PATIENT X548
+And I screwed up with them.  I @@@, he was 22 when this happened.  
+
+DOCTOR X548
+Oh I'm sorry to hear that.
+
+PATIENT X548
+But anyway, so what do you.  Why did they give me an appointment for today?
+
+DOCTOR X548
+I don't know.
+
+PATIENT X548
+You know.
+
+DOCTOR X548
+So let me go talk to DOCTOR okay.  I just kind of want to talk with him um kind of like do a consultation okay.  I'll be back in just a little bit alright.  Just give me a minute alright.
+
+(DOCTOR OUT:  35:16  DOCTOR IN:  43:47)
+
+DOCTOR X548
+I'm back, how you doing?
+
+PATIENT X548
+I'm okay.
+
+DOCTOR X548
+So I'd like you to just sit and talk with the Psychiatry Assessment Clinic just for a bit okay.
+
+PATIENT X548
+@@@.
+
+DOCTOR X548
+Do you mind doing that?
+
+PATIENT X548
+Yes I do.
+
+DOCTOR X548
+Do you want to do that?
+
+PATIENT X548
+No.
+
+DOCTOR X548
+Are you sure?
+
+PATIENT X548
+Uh-huh.
+
+DOCTOR X548
+I think um, I think it may um, I mean it wouldn't take long.  You know they just sit and talk with you for a little bit okay and they're right across from the Emergency Room.
+
+PATIENT X548
+From @@@.
+
+DOCTOR X548
+Yeah.
+
+PATIENT X548
+It takes too long.
+
+DOCTOR X548
+I'll go over there with you okay.
+
+PATIENT X548
+@@@.
+
+DOCTOR X548
+And I'll even @@@ you there okay.  Let me just put something quick here alright.
+
+PATIENT X548
+Hmm.
+
+DOCTOR X548
+What's your current phone number?
+
+PATIENT X548
+NUMBER.
+
+DOCTOR X548
+Okay, I can walk you over there.  Let me get the door open and it'll be okay.  Can you get up?
+
+PATIENT X548
+Yeah.
+
+DOCTOR X548
+Okay.  I'll be back alright.
+
+PATIENT X548
+Uh-huh.
+
+DOCTOR X548
+You a big White Sox fan?
+
+PATIENT X548
+Not really I'm a Cubs fan @@@.
+
+DOCTOR X548
+Cubs fan huh.
+
+PATIENT X548
+Yeah.
+
+DOCTOR X548
+I see, you know game I was at the Cubs @@@ this season.
+
+PATIENT X548
+I haven't been to a Cubs game in about 30 years but I'm still a fan.
+
+DOCTOR X548
+I think um, let me get this, you know what @@@.  I got @@@ things come up in 30 years but they probably look the same.
+
+PATIENT X548
+@@@ like on the buildings over there.
+
+DOCTOR X548
+Yea the roof top @@@.
+
+PATIENT X548
+Yeah.
+
+DOCTOR X548
+Wouldn't it be nice to buy one of those?
+
+PATIENT X548
+Yeah it would.  I used to think about that years ago.  @@@.  Excuse me.  
+
+
+
+
+

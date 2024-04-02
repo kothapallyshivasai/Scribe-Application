@@ -1,0 +1,342 @@
+
+DOCTOR X484
+How you doing sir?
+
+PATIENT X484
+Uh pretty good.
+
+DOCTOR X484
+Any problems?
+
+PATIENT X484
+No.
+
+DOCTOR X484
+No.
+
+PATIENT X484
+Not that I'm aware of.
+
+DOCTOR X484
+No okay good.  How you doing?
+
+PATIENT X484
+Oh pretty good.
+
+DOCTOR X484
+Okay.  Anything you want to talk about today that's bothering you?
+
+PATIENT X484
+Oh nothing's bothering me.
+
+DOCTOR X484
+Okay.
+
+PATIENT X484
+I just got to get some refills.
+
+DOCTOR X484
+Okay.  No problem.  Going over your meds here.
+
+PATIENT X484
+Okay.
+
+DOCTOR X484
+And your last labs.  That's the stuff from December, looks pretty good.  Okay.  Um your blood pressure looks really good.
+
+PATIENT X484
+Uh-huh.
+
+DOCTOR X484
+Your cholesterol we checked a year ago it looked really good but you're probably due for a repeat checking.  
+
+PATIENT X484
+Oh.
+
+DOCTOR X484
+Uh you still seeing the urologist?
+
+PATIENT X484
+Hmm?
+
+DOCTOR X484
+You're still seeing the urologist for those injections for the prostate cancer?
+
+PATIENT X484
+Oh yeah.
+
+DOCTOR X484
+Yeah.  Are you still getting the shots of the vitamin D?
+
+PATIENT X484
+Yes uh-huh.
+
+DOCTOR X484
+Okay.  Oh your cholesterol looked good.  You using your aspirin?
+
+PATIENT X484
+Yes ma'am.
+
+DOCTOR X484
+Yeah okay.  And no more swelling in the legs?
+
+PATIENT X484
+They're swollen.
+
+DOCTOR X484
+But not more than usual?
+
+PATIENT X484
+No uh uh.
+
+DOCTOR X484
+Okay.  Alright.  Well we need to get you your meds right?  The medications.
+
+PATIENT X484
+Uh-huh.
+
+DOCTOR X484
+Alright let me just give you a quick listen.  How are you liking the hot day out here?
+
+PATIENT X484
+Oh I don't mind, paying it too much attention.
+
+DOCTOR X484
+@@@.  Deep breath, one more alright.  There you go.  Alright.  No shortness of breath or chest pain?
+
+PATIENT X484
+No chest pain.
+
+DOCTOR X484
+Yeah.  Eating okay, moving your bowels okay?
+
+PATIENT X484
+Oh yeah my bowels don't move that very good now.
+
+DOCTOR X484
+They do or don't?
+
+PATIENT X484
+They don't.
+
+DOCTOR X484
+They don't.
+
+PATIENT X484
+Uh uh.
+
+DOCTOR X484
+How often do you move your bowels?
+
+PATIENT X484
+I move them about every three or four days.
+
+DOCTOR X484
+Are you taking anything to soften your stools?
+
+PATIENT X484
+Yeah I take that every day.
+
+DOCTOR X484
+Let's see that's Docusate.
+
+PATIENT X484
+Hmm?
+
+DOCTOR X484
+We got some medicine here for you to move your bowels but, do you want some additional medicines to help out?
+
+PATIENT X484
+Yeah I think I need some.
+
+DOCTOR X484
+Yeah we'll get you a powder to put in the water to make your bowels move a little better okay.
+
+PATIENT X484
+Okay.
+
+DOCTOR X484
+Alright.  Okay sir I'll be back in a little bit alright.
+
+PATIENT X484
+Alright.
+
+DOCTOR X484
+Okay.  Let me just do a little talking here.  
+
+(DOCTOR OUT:  17:54  DOCTOR IN:  21:00)
+
+DOCTOR X484
+Alright.  There are the refills for the medicines and I'll give you like some powder to put in water for you to drink and it'll help your bowels move.
+
+PATIENT X484
+Okay.
+
+DOCTOR X484
+I think I did, didn't I.  Something in @@@.
+
+PATIENT X484
+Uh-huh.
+
+DOCTOR X484
+And it won't hurt you.  Okay, alright.  Do you still take your aspirin though?
+
+PATIENT X484
+Huh?
+
+DOCTOR X484
+Do you still take your aspirin?
+
+PATIENT X484
+Yes uh-huh.
+
+DOCTOR X484
+And do you take the prostate medicine the @@@.
+
+PATIENT X484
+Yeah uh-huh.
+
+DOCTOR X484
+Alright I just put all the stuff to get mailed to you okay.
+
+PATIENT X484
+Oh good.
+
+DOCTOR X484
+Unless you want to go pick it up today.
+
+PATIENT X484
+Okay.
+
+DOCTOR X484
+And alright and okay.  So I've renewed your medicines, all of them, including this one yeah and this one yeah.
+
+PATIENT X484
+This one too okay.
+
+DOCTOR X484
+Yeah both of them including all of your medicine.
+
+PATIENT X484
+Alright.
+
+DOCTOR X484
+Um could you get some blood drawn for us today?  You're due for a cholesterol check.
+
+PATIENT X484
+Oh okay.
+
+DOCTOR X484
+Okay and then do you remember the test you had um about a year ago for your bone strength, it was like an x-ray for your bones?
+
+PATIENT X484
+Hmm okay.
+
+DOCTOR X484
+I don't know if you remember but we checked how strong your bones are.
+
+PATIENT X484
+Uh-huh.
+
+DOCTOR X484
+Um and so I want to just repeat that cause it's been a year and previously it said that your bones were getting kind of weak okay.
+
+PATIENT X484
+Okay.
+
+DOCTOR X484
+So um you said uh okay so they'll give you a call to schedule your bone test okay.
+
+PATIENT X484
+Uh-huh.
+
+DOCTOR X484
+That number.
+
+PATIENT X484
+Oh.
+
+DOCTOR X484
+To schedule the bone test.
+
+PATIENT X484
+Oh okay.
+
+DOCTOR X484
+Okay.  They'll tell you when to do it okay.
+
+PATIENT X484
+Okay.
+
+DOCTOR X484
+And we'll see you back here in about six months.
+
+PATIENT X484
+Six months.
+
+DOCTOR X484
+Yeah.
+
+PATIENT X484
+Now I'll be back before then?
+
+DOCTOR X484
+No, I gave you enough medicines for six months.
+
+PATIENT X484
+Oh okay.
+
+DOCTOR X484
+Yeah.  So you can uh.
+
+PATIENT X484
+I have to come back in that's be June for @@@.
+
+DOCTOR X484
+It'll be more like October.
+
+PATIENT X484
+Uh-huh.
+
+DOCTOR X484
+Alright you're all set sir.
+
+PATIENT X484
+Okay.
+
+DOCTOR X484
+Alright.  Have a nice day.  You're all set.
+
+PATIENT X484
+Alright.
+
+DOCTOR X484
+I'll help you get out of here.
+
+PATIENT X484
+So when do I get the?
+
+DOCTOR X484
+Right now.
+
+PATIENT X484
+Right now?
+
+DOCTOR X484
+You can go right now, yeah.
+
+PATIENT X484
+Okay.
+
+DOCTOR X484
+There you go sir.
+
+PATIENT X484
+Alright.  Alright thank you.
+
+PATIENT LEAVES:  28:18
+
+
+
+
+

@@ -1,0 +1,417 @@
+
+DOCTOR X3
+Hi.  
+
+PATIENT X3
+Hi.
+
+DOCTOR X3
+Aw come on, you @@@ blood pressure.
+
+PATIENT X3
+Okay.
+
+DOCTOR X3
+Have you been taking your medicines?
+
+
+PATIENT X3
+Yeah.
+
+
+DOCTOR X3
+Did you take them today?
+
+
+PATIENT X3
+Yes.
+
+
+DOCTOR X3
+Oh.  You look like you've gained some weight.
+
+
+PATIENT X3
+Maybe just.
+
+
+DOCTOR X3
+You look fuller in the face.
+
+
+PATIENT X3
+Yeah?
+
+
+DOCTOR X3
+Yeah.  Let me look at your legs today.  Oh your legs they look good.  @@@.  Now you look okay.  Maybe it's just me @@@.  You're okay.  What's up, what's new?
+
+
+PATIENT X3
+Not much.
+
+
+DOCTOR X3
+Nothing?  So you're taking your medicines for sure?
+
+
+PATIENT X3
+Yes.
+
+
+DOCTOR X3
+Oh.  So your weight from the last year.  Yeah I know you were trying to get down to 120 pounds, so that's up good.  Let me recheck your blood pressure.  Can you take off your jacket for me?  Okay, crawl up here.  Anything new at home?
+
+PATIENT X3
+No.  I guess that's the main thing.
+
+
+DOCTOR X3
+Do you have family coming here?  How many pills do you take for your blood pressure a day?
+
+
+PATIENT X3
+One.
+
+
+DOCTOR X3
+Supposed to be taking two, maybe that's why.  Did you run out of one?  You're supposed to be on.
+
+
+PATIENT X3
+Lisinopril.
+
+
+DOCTOR X3
+I might just stopped one of your pills cause your blood pressure was it low enough?  No?  Now your blood pressure has been high.  I want to know what happened.  You're supposed to be on two of them.
+
+PATIENT X3
+The one I take is refillable.
+
+
+DOCTOR X3
+Okay.  That is not as bad.  Let me do it on the other arm.  Any headaches, weakness, vision changes or anything like that?
+
+PATIENT X3
+Nope.
+
+
+DOCTOR X3
+Okay.  So they used to have you on uh two pills.
+
+
+PATIENT X3
+Yeah.
+
+
+DOCTOR X3
+And then I guess they took one of them off probably because you were low and you were dizzy too.  But, if you're, if it's really this high again I might have to start a new one.  Just relax your arm, relax it.  Cause actually that hydrochlorothiazide they now have a combo pill so I can give you one now that has a combination of two so, maybe that's a good option.  Okay.  Not bad.  Not as bad as too low yeah, better than.  Have you been eating high salt food or anything?  @@@.  High salt foods or anything like that?
+
+PATIENT X3
+Not that I know of.
+
+
+DOCTOR X3
+Swelling in your legs or anything like that?
+
+
+PATIENT X3
+No.
+
+DOCTOR X3
+Heart sounds good.  Deep breath, now deep breaths.  Deep breath, deep breath.  Okay.  Not having any bad thoughts of wanting to hurt yourself or anything right?  Okay good.
+
+
+PATIENT X3
+I have to keep my @@@.
+
+
+DOCTOR X3
+It's cold out there huh.
+
+
+PATIENT X3
+Yes.
+
+
+DOCTOR X3
+There you go.  Yeah it's @@@ side.  Let's um, let's do that combo pill, what'd think?
+
+
+PATIENT X3
+Okay.
+
+
+DOCTOR X3
+Okay.  Is everything else okay?  Nothing else you want to talk about today?  Every thing is going well?
+
+
+PATIENT X3
+Yes.
+
+DOCTOR X3
+@@@ good for you.
+
+
+PATIENT X3
+Yeah.
+
+
+DOCTOR X3
+Always talk about that, @@@ right.
+
+
+PATIENT X3
+Yep.
+
+DOCTOR X3
+You're living with your son?
+
+
+PATIENT X3
+Yes.
+
+
+DOCTOR X3
+So I know @@@.
+
+
+PATIENT X3
+I had a visit from the county.
+
+
+DOCTOR X3
+Oh yeah.
+
+
+PATIENT X3
+Uh-huh.
+
+DOCTOR X3
+Um by who?
+
+
+PATIENT X3
+His name?
+
+
+DOCTOR X3
+Yeah like what do you mean the county?
+
+
+PATIENT X3
+Human Service.
+
+
+DOCTOR X3
+Okay, that's the Department of Aging?
+
+
+PATIENT X3
+Yes.
+
+
+DOCTOR X3
+Okay.  Did they come up with anything new?
+
+
+PATIENT X3
+No, just turned the situation over to another group.
+
+
+DOCTOR X3
+Yeah.
+
+
+PATIENT X3
+Who hasn't contacted me yet.
+
+
+DOCTOR X3
+Oh, okay.  Evaluating what's going on at home?
+
+
+PATIENT X3
+Yes.
+
+
+DOCTOR X3
+Um do you want to pick it up today or you want a mail it at home?
+
+
+PATIENT X3
+Whatever you want.
+
+
+DOCTOR X3
+You can, let's just mail it.  Just continue what you're taking now and then you can stop it and take the new one okay.  And I'll have come back in a month to get your blood pressure checked again.  Alrighty then.  Were you hiking up a storm coming up here?
+
+PATIENT X3
+No.
+
+
+DOCTOR X3
+No okay.  Yeah we'll mail it to your house and then when you come here in a month we'll get some blood work done okay?  So we'll do it all at once then.  Are you doing anything fun for the holidays?
+
+
+PATIENT X3
+No.
+
+
+DOCTOR X3
+Going anywhere?
+
+
+PATIENT X3
+Nope, nope.
+
+
+DOCTOR X3
+No.  Do you and your family celebrate Thanksgiving pretty good?
+
+
+PATIENT X3
+No.
+
+
+DOCTOR X3
+No, not really.  And you got your flu shot right?  Good.  And, you're taking your aspirin every day right?
+
+
+PATIENT X3
+Yes.
+
+
+DOCTOR X3
+Good.  And alright, I don't think there's anything new I want to add at this time um.
+
+
+PATIENT X3
+When this new one comes then I should discontinue the one that I'm.
+
+
+DOCTOR X3
+Yes, just stop it and um I'll get some uh cholesterol too in a month.
+
+
+PATIENT X3
+Okay.
+
+
+DOCTOR X3
+Okay and that way um, just make sure you fast the night before okay.  But don't do like that one time, remember.  Where you didn't eat for like two days.
+
+PATIENT X3
+(Laughs)
+
+DOCTOR X3
+I mean if you run off you drink water, I'm okay you know.  Don't dehydrate yourself.
+
+PATIENT X3
+Okay.
+
+DOCTOR X3
+But after you have dinner that night, just so you know, have some water and that's okay alright.  Don't, don't do that anymore.  Remember that was bad.
+
+PATIENT X3
+(Laughs)
+
+
+DOCTOR X3
+That was bad.  Okay, so I'll take this right before, good and then I'll probably do, you're doing really well so.  I'll see you again in six months, what'd think, yeah?  So you don't have to come back too much and we'll check your blood pressure in a month.
+
+PATIENT X3
+Okay.
+
+DOCTOR X3
+And that will be the last time you see me I think, let's see November, December, January, February, March, yeah.  That'll be the last time cause I'm done next year and you'll get another resident so.  Alright, I'll be right back okay PATIENT.
+
+PATIENT X3
+Yep.
+
+DOCTOR X3
+You're 77 huh?  You're doing good.
+
+
+PATIENT X3
+(Laughs)
+
+
+DOCTOR X3
+You're doing good.
+
+(DOCTOR OUT: 36:19  DOCTOR IN:  40:51)
+
+DOCTOR X3
+Hi PATIENT.  We're all done.  So I'll see again in six months okay?  No sooner again if I don't call you okay?  Cholesterol, you don't need a refill?
+
+
+PATIENT X3
+No, no.
+
+
+DOCTOR X3
+Cholesterol.
+
+
+PATIENT X3
+Yeah and that's not the one that you.
+
+
+DOCTOR X3
+No, so it's this one that you stopped here, yeah, your blood pressure medicine.  Stopped after new one arrives.
+
+
+PATIENT X3
+New one arrives.
+
+
+DOCTOR X3
+Alright?
+
+PATIENT X3
+Okay.
+
+
+DOCTOR X3
+Well so you take care.  You have a great holiday okay.
+
+
+PATIENT X3
+Okay.
+
+DOCTOR X3
+Alright, you take care.
+
+PATIENT X3
+Okay.
+
+
+(Laughter from both)
+
+DOCTOR X3
+@@@.  There you go.
+
+PATIENT X3
+Okay.
+
+DOCTOR X3
+I'll see you later okay, stay warm.
+
+PATIENT X3
+You too.
+
+
+DOCTOR X3
+@@@
+
+PATIENT X3
+Yeah.
+
+DOCTOR OUT:  42:15
+
+The time is 1 o'clock.
+
+
+
+

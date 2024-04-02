@@ -1,0 +1,634 @@
+
+DOCTOR X201 
+PATIENT?  How you doing today?
+
+PATIENT X201
+Okay.  
+
+DOCTOR X201
+Oh man its freezing.
+
+PATIENT X201
+It could get be worse.
+
+DOCTOR X201
+How much worse can it get?
+
+PATIENT X201
+That's true.
+
+DOCTOR X201
+No @@@.  So how have things been going with you sir?
+
+PATIENT X201
+Okay.  You know I got a question for you.
+
+DOCTOR X201
+You got a question @@@ what?
+
+PATIENT X201
+@@@.
+
+DOCTOR X201
+Okay.  The doctor before you.
+
+PATIENT X201
+I first started taking some of these pills, after a while your system, blood is, whatever he said you don't need to take the lipid stuff so I wasn't taking it.
+
+DOCTOR X201
+Lisinopril?
+
+PATIENT X201
+Yeah I wasn't taking it and all of sudden through the mail I got like two bottles, that's what I get cause I'm supposed to take it.
+
+DOCTOR X201
+Um.
+
+PATIENT X201
+@@@ I said something's got to be wrong, I said no, so I said so I started taking it again and I said the docs told me, I said what do I do with the pills that I got?
+
+DOCTOR X201
+Yeah.
+
+PATIENT X201
+@@@.
+
+DOCTOR X201
+Okay.  Let's see when you were last in.  You were on lisinopril; it was on your medication list way back in October of 09.
+
+PATIENT X201
+Yeah I believe that.
+
+DOCTOR X201
+You should be taking it.
+
+PATIENT X201
+Okay.
+
+DOCTOR X201
+Yeah.
+
+PATIENT X201
+Will you do me a favor?
+
+DOCTOR X201
+Yeah.
+
+PATIENT X201
+I called in for what I need refills on and I didn't put the lisinopril.
+
+DOCTOR X201
+The lisinopril?
+
+PATIENT X201
+Yeah could you put.
+
+DOCTOR X201
+I renewed all of your medications as of yesterday.
+
+PATIENT X201
+Oh good.
+
+DOCTOR X201
+Yeah so you should be getting them all in the mail and uh how have things been going for you?
+
+PATIENT X201
+Alright.
+
+DOCTOR X201
+You look thinner.  Do you think you're losing water weight or what?
+
+PATIENT X201
+Oh that and I work out.
+
+DOCTOR X201
+You started working out?
+
+PATIENT X201
+Yeah.  The only thing I got now, I got a damn head cold.  I got like an on/off sore throat.  My ears blocked up and maybe if they open up, you know.
+
+DOCTOR X201
+Yeah.  How long has that been going on for?
+
+PATIENT X201
+Oh about almost two weeks.  I'll pop a Hall's and it soothes the throat.
+
+DOCTOR X201
+Okay.  Any fevers or anything like that?
+
+PATIENT X201
+No.
+
+DOCTOR X201
+Okay.
+
+PATIENT X201
+You know whenever you @@@ and you're too lazy to go to the bedroom to get @@@ sticking out of the mail slot, and there's stuff on the floor @@@.  
+
+DOCTOR X201
+Yeah.  
+
+PATIENT X201
+Uh it pays to be an idiot.
+
+DOCTOR X201
+So let's go over all your problems step by step here.  The top issues anyway.  For your diabetes, um did you get labs done when you came in today, labs today or?
+
+PATIENT X201
+Yes.  Just had it.
+
+DOCTOR X201
+That was just your INR though, your Coumadin level right?
+
+PATIENT X201
+I guess yeah.
+
+DOCTOR X201
+Okay.  Um, back in November of last year, your diabetes was under pretty good control.
+
+PATIENT X201
+Well I monitor myself you know three times a week uh.
+
+DOCTOR X201
+How have your numbers been?
+
+PATIENT X201
+Like uh 100-120.
+
+DOCTOR X201
+Okay.  When do you take your medicine then?
+
+PATIENT X201
+Well it's supposed to be on a Monday before breakfast, I take it like 7 o'clock.
+
+DOCTOR X201
+And that's running like 100-120?
+
+PATIENT X201
+Yeah around there, about 120 and then on the Wednesday before lunch so that's usually like around 1 o'clock and that's low.  Sometimes it's even 105.
+
+DOCTOR X201
+Oh yeah.
+
+PATIENT X201
+And then on a Friday before supper, I've had it where it was down to 90.
+
+DOCTOR X201
+Okay.  Have you ever had any episodes of really low blood sugars, where you're kind of feeling shaky or lightheaded?
+
+PATIENT X201
+One time.
+
+DOCTOR X201
+Just one time, when was that?
+
+PATIENT X201
+Oh gosh that was during the summer.
+
+DOCTOR X201
+Okay.
+
+PATIENT X201
+It was one of those days when it was hot and I was doing something, oh I was playing with the dogs in the backyard and got all sweated up and then came in the house, that's when I started feeling that.
+
+DOCTOR X201
+Okay.  Alright.  When did you last see an eye doctor?
+
+PATIENT X201
+Uh last year.
+
+DOCTOR X201
+That was here?
+
+PATIENT X201
+No, my other glasses got broke and I had to go to my neighborhood, @@@ xxx xxx.
+
+DOCTOR X201
+Okay.
+
+PATIENT X201
+I went over there and I got a pair of glasses.
+
+DOCTOR X201
+Well we're going to have you see the eye doctors here.
+
+PATIENT X201
+Hey uh that's right I did the.
+
+DOCTOR X201
+The diabetes @@@?
+
+PATIENT X201
+Yeah that was three years?
+
+DOCTOR X201
+Wow, we need to get you in there.
+
+PATIENT X201
+About three years ago.
+
+DOCTOR X201
+Yeah, lets get you in there.  Um do take an aspirin?
+
+PATIENT X201
+Yeah in the evenings, a kiddie aspirin.
+
+DOCTOR X201
+Okay.
+
+PATIENT X201
+Children's aspirin, I call them kiddie.
+
+DOCTOR X201
+Yeah.  So we need to have you see and this is just a test for diabetes of the eyes, not for glasses.
+
+PATIENT X201
+Yeah.
+
+DOCTOR X201
+Or anything like that.  Alright so diabetes looks like pretty good. Um you know you're measuring blood sugars, you're just taking the one medication for that, the metformin.
+
+PATIENT X201
+Yeah half of it.
+
+DOCTOR X201
+Yeah half a tab so that looks pretty good.  Your cholesterol was pretty close to where we want it back in November.  Your bad cholesterol is 74; we want that around 70, certainly less than 100.  Um in regards to your a fib or atrial flutter, you're on the Coumadin for that.  You're following with the Coumadin Clinic right?
+
+PATIENT X201
+Yeah.
+
+DOCTOR X201
+And you're also on two medications, metoprolol.  What is the dose of your metoprolol?  Do you know?
+
+PATIENT X201
+No.
+
+DOCTOR X201
+Cause there was different, when I was reviewing your meds yesterday, it was different, this one says 100 mg but that's just over, I renewed it for, so you're going to be taking 75 mg.  How many pills are you taking of the metoprolol?  Do you know?  Are you taking one or one and a half?
+
+PATIENT X201
+Uh, the metoprolol, is it a little @@@?
+
+DOCTOR X201
+No that's for your blood pressure and heart.
+
+PATIENT X201
+Uh one.
+
+DOCTOR X201
+One twice a day?
+
+PATIENT X201
+Yeah.
+
+DOCTOR X201
+Okay.  I see here there are two orders in the system.  One was for 75 mg twice a day and one was for 100 mg twice a day and there's no.
+
+PATIENT X201
+Well one I take twice a day and the other one is once a day.
+
+DOCTOR X201
+Yeah.  Let's do the 100 mg, I think you've been taking the 100 mg that you've been taking.
+
+PATIENT X201
+That one I take once a day in the morning.
+
+DOCTOR X201
+Yeah.
+
+PATIENT X201
+I got that metoprolol tartrate.
+
+DOCTOR X201
+Yeah exactly.
+
+PATIENT X201
+And other metoprolol, that's like a green color, blue, that's the one I take twice a day.
+
+DOCTOR X201
+Sure.  Um, are you on any water pills?
+
+PATIENT X201
+Yeah the furosemide.
+
+DOCTOR X201
+Twice a day right?
+
+PATIENT X201
+Yes.
+
+DOCTOR X201
+And how's, have you been watching your weight?  Like uh daily or no?
+
+PATIENT X201
+You can't have everything.
+
+DOCTOR X201
+Have you been watching your salt intake?
+
+PATIENT X201
+I don't use any.
+
+DOCTOR X201
+Okay.  What about like eating salty foods, fried foods?
+
+PATIENT X201
+No I don't.  I've never, even when I was a kid.  My family are Lithuanian and most of the stuff you eat is boiled.  You know boiled chicken neck.  My great uncle lived to be 96.  You could give him $100 to eat something fried and he wouldn't touch it.
+
+DOCTOR X201
+Good.
+
+PATIENT X201
+But I don't even have mashed potatoes or French fries, I like bread.
+
+DOCTOR X201
+Okay, that's good.  And uh are you still smoking?
+
+PATIENT X201
+Sure.
+
+DOCTOR X201
+How much are you smoking?
+
+PATIENT X201
+Uh I smoke a pipe, maybe four or five times a day.
+
+DOCTOR X201
+Okay.
+
+PATIENT X201
+It's not no.
+
+DOCTOR X201
+Any interest in quitting?
+
+PATIENT X201
+No.  I like it.
+
+DOCTOR X201
+You understand the health risks though right?
+
+PATIENT X201
+Sure do.
+
+DOCTOR X201
+Okay so heart disease, stroke, lung disease.  You know we got those pulmonary function tests that were done.  That was a while ago but you do have what looks like um emphysema or bronchitis.  So you are having some lung damage and um that's probably why you've been short of breath too when you exert yourself.  Yesterday I just reviewed things and I could give you an inhaler called Combivent that you could use.  You use it every day twice a day okay and it might, this will help with your breathing when you exert yourself. Uh two puffs in the morning and two puffs in the evening and that way if you're like feeling like you could run a marathon you're breathing so good, don't do it okay.
+
+PATIENT X201
+Yeah.
+
+DOCTOR X201
+And it'll help your breathing out.  Uh and but the best thing that you're going to do for that is to quit smoking okay.  So.
+
+PATIENT X201
+So really cause I puff on the pipe it's almost like not smoking because I don't inhale it that much.
+
+DOCTOR X201
+Yeah and your lungs have already suffered quite a bit of damage.  Like your pulmonary function tests your lung reserve is pretty low right now.  So you're like, as people age, as they get older their lung volume goes down.
+
+PATIENT X201
+Yeah.
+
+DOCTOR X201
+And that's just normal aging.  Someone that smokes, their lung volume is going to go down really quickly okay.  If you were to stop smoking, you can't reverse the damage that's already occurred but you can go back on this normal slope so that the damage will occur less rapidly um so you know I'm afraid that if you continue to smoke, with your severe lung function uh it's gonna, you're going to end up being on oxygen and things like that, you're only 65, you need some more years you know.  Alright.  Do you drink alcohol?
+
+PATIENT X201
+No.
+
+DOCTOR X201
+Did you ever?
+
+PATIENT X201
+Oh yeah.
+
+DOCTOR X201
+Okay and one other test we need to do is that I would encourage you to do, we never got an ultrasound of your belly, looking for an aneurysm and any male over the age of 55 that's been smoking for five or more years, deserves a screening for this and that's the ballooning of the aorta in your belly.
+
+PATIENT X201
+Yeah.
+
+DOCTOR X201
+Um let's get that done okay; it's just a probe with some jelly on it, probably 20 minutes.
+
+PATIENT X201
+Will I have a foxy looking gal do it?
+
+DOCTOR X201
+Hopefully.  Not if you really want to get it at the VA though.
+
+PATIENT X201
+I don't care.
+
+DOCTOR X201
+I haven't seen too many foxy gals walking around with.
+
+PATIENT X201
+They used to have.
+
+DOCTOR X201
+Really?
+
+PATIENT X201
+Maybe guys like me chased them out.
+
+DOCTOR X201
+Are you getting any chest pain or pressure at all?
+
+PATIENT X201
+No.
+
+DOCTOR X201
+Do you when you exert yourself?
+
+PATIENT X201
+No.
+
+DOCTOR X201
+Uh have you gotten a flu shot this year?
+
+PATIENT X201
+No.  I don't need it.
+
+DOCTOR X201
+Even with your lung function?  How many people do you think die from the flu every year?  Throw a number out.
+
+PATIENT X201
+Oh a couple thousand.
+
+DOCTOR X201
+25,000 and that's just not worldwide, that's in the United States.
+
+PATIENT X201
+Yeah.
+
+DOCTOR X201
+That is a lot of people dying from the flu and uh and you have other medical conditions namely heart disease, diabetes and now lung disease so you're a high risk if you ever get the flu and it's still floating around.  We're actually seeing more flu cases now than we were a couple months ago.  You're the only person, really only person that that hasn't worked on.
+
+PATIENT X201
+(Laughter)  I don't care.
+
+DOCTOR X201
+I'm not kidding you.
+
+PATIENT X201
+I know.
+
+DOCTOR X201
+I've had the most pleasant patient @@@ today and I want you to have it.
+
+PATIENT X201
+Are you serious?
+
+DOCTOR X201
+I'm serious about it and it's safe.  What's the reservation about it?
+
+PATIENT X201
+I just don't want it.
+
+DOCTOR X201
+Okay, I mean are you concerned that you're going to get sick from it or?
+
+PATIENT X201
+No.
+
+DOCTOR X201
+What about the pneumonia shot?
+
+PATIENT X201
+Na.
+
+DOCTOR X201
+So if the flu shot and the pneumonia shot protects you from the main bacteria that causes pneumonia @@@.
+
+PATIENT X201
+No.
+
+DOCTOR X201
+Okay.  I don't want to push it anymore.  I'm going to write refused the flu and Pneumovax vaccine.  How's your shortness of breath?
+
+PATIENT X201
+Hmm.
+
+DOCTOR X201
+Been okay?
+
+PATIENT X201
+Yeah okay.  @@@.
+
+DOCTOR X201
+Yeah and have you thought any more about the cardiac catheterization?  Have you talked to your doctor DOCTOR about it?
+
+PATIENT X201
+Yeah, no.
+
+DOCTOR X201
+And you understand the risks of not going through that?
+
+PATIENT X201
+Yeah.
+
+DOCTOR X201
+Uh how's your swelling in your feet or your ankles?
+
+PATIENT X201
+None.
+
+DOCTOR X201
+You don't have any?
+
+PATIENT X201
+No.
+
+DOCTOR X201
+Still not a regular rhythm but it's low.  @@@.  Any uh, that's good.  We need to get some, I know you were just down in the Lab but @@@.  Would you mind getting one more blood test, @@@.  Um do you mind getting one more blood test today just check out your kidney function cause you're on a really high dose of the water pill.  I just want to make sure that your kidneys are still functioning normally and we're not causing any damage to them with the high dose of the water pill @@@ and we can also test your diabetes to make sure that's been controlled for the last three months.
+
+PATIENT X201
+You mean get that done now?
+
+DOCTOR X201
+Yeah I'll send you down as soon as we're done here.  Okay.  Did you used to smoke cigarettes too?
+
+PATIENT X201
+Yeah.
+
+DOCTOR X201
+When did you quit the cigarettes?
+
+PATIENT X201
+Oh, well actually it was when they raised the price and that was about four years ago.
+
+DOCTOR X201
+Okay.  Alright have a seat up here, take off your clothes for me.  @@@.  
+
+PATIENT X201
+No.
+
+DOCTOR X201
+Any sores on your feet at all?
+
+PATIENT X201
+No.
+
+DOCTOR X201
+And you're checking feet daily?
+
+PATIENT X201
+Yeah.
+
+DOCTOR X201
+Okay good.  Take some deep breaths in and out.  Again.  Just breathe normally now.  Let me check the lungs okay.  Look that way, @@@.  Okay.  Alright I really think you're gonna notice a difference with the inhaler.
+
+PATIENT X201
+@@@.
+
+DOCTOR X201
+@@@  yeah they definitely do help.  Okay let me just go talk to my supervisor about this stuff and I'll be right back.
+
+PATIENT X201
+Alright.  Are you going to fill out those forms?
+
+DOCTOR X201
+Yep it's filled out already.
+
+(DOCTOR OUT:  38:29  DOCTOR IN:  45:15)
+
+DOCTOR X201
+Alright sir.  There are a few uh, @@@ I talk to DOCTOR and she is in agreement with everything.  She said stop smoking, take your flu shot, get the Pneumovax.
+
+PATIENT X201
+(Laughter).
+
+DOCTOR X201
+Come back in six months and continue taking all your medications, including that lisinopril okay and go down to the Lab today to get your kidney function tests.
+
+PATIENT X201
+They know about the kidney function?
+
+DOCTOR X201
+Yeah I already wrote the order.  @@@.  
+
+PATIENT X201
+I'll be down there.
+
+DOCTOR X201
+So take this to the check-out desk with you.
+
+PATIENT X201
+Alright.
+
+DOCTOR X201
+Okay.
+
+PATIENT X201
+Take it easy.
+
+DOCTOR X201
+Thank you.
+
+PATIENT LEAVES:  45:52
+
+Time is 10:44 a.m.
+
+
+
+

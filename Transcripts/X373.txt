@@ -1,0 +1,1254 @@
+
+DOCTOR H481
+PATIENT. 
+
+PATIENT X373
+Hey doc, you ready for me now?
+
+DOCTOR H481
+@@@.
+
+PATIENT H481
+I'm still here.  What's up doc?
+
+DOCTOR H481
+Right.
+
+PATIENT H481
+You found the right Bugs Bunny hey.
+
+DOCTOR H481
+Someone in the line yeah.
+
+PATIENT H481
+So I've got this for you.  Should be in the computer, I'm not positive.
+
+DOCTOR H481
+@@@.
+
+PATIENT X373
+Yeah they said I had an infection.
+
+DOCTOR H481
+Drops @@@.
+
+PATIENT H481
+I may get either one.  The ones that I got, they were supposed to give me eye drops but I never got them.  Then they sent me something foam to clean my eyes.
+
+DOCTOR H481
+Artificial tears they're right here.
+
+PATIENT H481
+Could they deliver them?  Probably not.
+
+DOCTOR H481
+In January they delivered them.
+
+PATIENT H481
+I didn't get them.
+
+DOCTOR H481
+They mailed them.
+
+PATIENT X373
+Huh.  I got the, what do you call that stuff, that spray to clean my eyes.
+
+DOCTOR H481
+And then the artificial tears did you get those?
+
+PATIENT H481
+No I didn't get the tears but I got the.
+
+DOCTOR H481
+And what's your address?  Is it.
+
+PATIENT H481
+ADDRESS.
+
+DOCTOR H481
+Oh @@@ okay.
+
+PATIENT H481
+Oh no @@@.  It's ADDRESS in xxx.
+
+DOCTOR H481
+ADDRESS yeah I don't know man.
+
+PATIENT X373
+Why would anybody want to?
+
+DOCTOR H481
+Alright now when did you go to the ER, on the 13th of June?
+
+PATIENT H481
+Uh-huh.
+
+DOCTOR H481
+Oh I see it.
+
+PATIENT H481
+They said I had an infection.
+
+DOCTOR H481
+Periorbital cellulitis with sty consistent with one contrast @@@ something @@@.
+
+PATIENT H481
+Right.  Warm water.
+
+DOCTOR H481
+So he gave you dicloxacillin, an antibiotic.
+
+PATIENT X373
+Right.
+
+DOCTOR H481
+And used it for seven days?
+
+PATIENT H481
+Uh-huh.
+
+DOCTOR H481
+Okay.  And did you see the eye doctor at all?
+
+PATIENT H481
+No.
+
+DOCTOR H481
+I think you should see the eye doctor.
+
+PATIENT H481
+They're gonna give me an appointment, who knows when.
+
+DOCTOR H481
+Yeah but you need to see them though.  Did @@@.
+
+PATIENT X373
+I thought they did.
+
+DOCTOR H481
+Oh eyeglasses, so you've seen the eye doctors?
+
+PATIENT H481
+That was last year or.
+
+DOCTOR H481
+Yeah, so you're a patient of them.  If I was you I'd go down there because once you're a patient you have to call and make an appointment.
+
+PATIENT H481
+Yeah.
+
+DOCTOR H481
+So go down there, make an appointment, tell them my eyes have been bothering me.
+
+PATIENT H481
+Uh-huh.
+
+DOCTOR H481
+And then they should give you a sooner than later appointment.
+
+PATIENT X373
+Yeah cause they told me to wait until December or January, something like that.
+
+DOCTOR H481
+Okay.  Have you ever gotten shingles before?
+
+PATIENT H481
+No.
+
+DOCTOR H481
+Have you ever gotten the shingles vaccination?
+
+PATIENT H481
+Not that I know of.
+
+DOCTOR H481
+Have you refused it?
+
+PATIENT H481
+No, what it is?  What does it do?
+
+DOCTOR H481
+Well it's like chicken pox that old people get.
+
+PATIENT X373
+Yeah.
+
+DOCTOR H481
+And usually.
+
+PATIENT H481
+If they gave it to me I don't know.  They give me all kinds of shots.
+
+DOCTOR H481
+No it doesn't look like they gave it to you.
+
+PATIENT H481
+Yeah.
+
+DOCTOR H481
+Immunizations, nope.  So if you had chicken pox when you were a kid you can get chicken pox but it comes back like painful.
+
+PATIENT H481
+Okay.
+
+DOCTOR H481
+You know like you get a rash, you can get it anywhere in your body.
+
+PATIENT X373
+I don't even know if I had chicken pox.
+
+DOCTOR H481
+Oh you don't?
+
+PATIENT H481
+I know I had all my shots when I was growing up.
+
+DOCTOR H481
+Yeah but no one got chicken pox shots until my generation.
+
+PATIENT H481
+And then oh I might have when I went to the service though.
+
+DOCTOR H481
+No they.
+
+PATIENT H481
+They wouldn't give that @@@.
+
+DOCTOR H481
+They don't give it to you in the service yeah.
+
+PATIENT X373
+@@@ too bad.
+
+DOCTOR H481
+Um.
+
+PATIENT H481
+Well another thing is I got this letter from.
+
+DOCTOR H481
+So do you want the eye drops?
+
+PATIENT H481
+I got the stuff to clean my eyes.
+
+DOCTOR H481
+Okay.
+
+PATIENT H481
+But not.
+
+DOCTOR H481
+So you're talking about the antibiotic eye drops?
+
+PATIENT X373
+No I don't know.  But they were supposed to send me eye drops, I never got them.
+
+DOCTOR H481
+But didn't they, so you ordered, he ordered antibiotic eye drops.
+
+PATIENT H481
+No.
+
+DOCTOR H481
+And you never got them.
+
+PATIENT H481
+He gave me antibiotic pills.
+
+DOCTOR H481
+For seven days?
+
+PATIENT H481
+Right.
+
+DOCTOR H481
+But he didn't give you the eye drops at all.
+
+PATIENT X373
+I never got the eye drops.
+
+DOCTOR H481
+Let me see.  Did he even order it?  Take seven days, oh he never ordered the eye drops actually.
+
+PATIENT H481
+Okay that might explain it.
+
+DOCTOR H481
+He just gave you oral antibiotics.  Did he say he wanted you to get the eye drops that were antibiotics?
+
+PATIENT H481
+He said he was gonna do that and then to put the warm compresses on my eyes and all that.
+
+DOCTOR H481
+Has that been helping?
+
+PATIENT H481
+Hmm yeah I guess.  But still my eyes are still burning and stuff.
+
+DOCTOR H481
+But do you get the artificial tears at your house?
+
+PATIENT X373
+Yeah usually they deliver everything to the house.
+
+DOCTOR H481
+So you got the artificial tears?
+
+PATIENT H481
+No.  I got just the clean, to clean my eyes.
+
+DOCTOR H481
+Which ones, yeah let's go over your meds cause I think we're getting confused.  Are you taking this one?
+
+PATIENT H481
+Yeah that's my, whatever it's for.
+
+DOCTOR H481
+Yeah.
+
+PATIENT H481
+@@@.
+
+DOCTOR H481
+What is it for?
+
+PATIENT X373
+I don't know.
+
+DOCTOR H481
+So you're taking that?
+
+PATIENT H481
+Yeah.
+
+DOCTOR H481
+Okay are you taking these?
+
+PATIENT H481
+No.  Cause I didn't get them, that's the tears.
+
+DOCTOR H481
+Okay so you don't use anything okay this is your aspirin.
+
+PATIENT H481
+Uh-huh.
+
+DOCTOR H481
+And your Plavix.
+
+PATIENT X373
+Right.
+
+DOCTOR H481
+Fish oil.  Insulin.
+
+PATIENT H481
+Uh-huh.
+
+DOCTOR H481
+Insulin.
+
+PATIENT H481
+Uh-huh.
+
+DOCTOR H481
+Lisinopril for blood pressure.
+
+PATIENT H481
+Right.
+
+DOCTOR H481
+For blood pressure.  OCuSOFT lid scrub, that's the one you got.
+
+PATIENT X373
+That's the one I got right now, the new one.
+
+DOCTOR H481
+Alright.
+
+PATIENT H481
+But that, the lisinopril.  I stopped taking one of them.
+
+DOCTOR H481
+Why?
+
+PATIENT H481
+Cause they told me to.
+
+DOCTOR H481
+Who told you that?
+
+PATIENT H481
+You guys did.
+
+DOCTOR H481
+Let me see.
+
+PATIENT X373
+Should be on there.
+
+DOCTOR H481
+Let me see.
+
+PATIENT H481
+Cause they wanted to know why was I taking two, two blood pressure pills or something like that.
+
+DOCTOR H481
+Well no people can take two, three, four.
+
+PATIENT H481
+They told me no I shouldn't be taking them so they took them off.  I don't know if it was lisinopril or listopril or something like that.
+
+DOCTOR H481
+Let's see.  Pressure is not well controlled, so blood pressure was high.  Had to stop hydrochlorothiazide due to elevated creatinine.  So we stopped your hydrochlorothiazide.
+
+PATIENT H481
+Uh-huh.
+
+DOCTOR H481
+So we didn't stop the lisinopril but we stopped the hydrochlorothiazide.  Let me see if anybody else stopped it.  The Dietary didn't do anything.
+
+PATIENT X373
+It would be the diabetic doctors.
+
+DOCTOR H481
+Diabetes, previous Lantus, normotensive, on the ACE inhibitors which is lisinopril.  He didn't say to stop it.
+
+PATIENT H481
+Well somebody told me cause I know, cause I didn't even get it in the mail.  I know one of them I didn't get it no more.
+
+DOCTOR H481
+Yeah hydrochlorothiazide.
+
+PATIENT H481
+That's the only one okay.
+
+DOCTOR H481
+That's the one I stopped.  Let's see what the ER doctor did.
+
+PATIENT H481
+So what's the other name of it then, the hydro whatever.
+
+DOCTOR H481
+Hydrochlorothiazide, HCTZ.
+
+PATIENT X373
+What's that?
+
+DOCTOR H481
+Hydrochlorothiazide.  It's not on there cause I took it off.
+
+PATIENT H481
+But it's on here, oh no it's not.
+
+DOCTOR H481
+Yeah.
+
+PATIENT H481
+And then that's the one I don't take.  I know you guys took one off for me and I say okay.
+
+DOCTOR H481
+It wasn't the lisinopril then.
+
+PATIENT H481
+No.
+
+DOCTOR H481
+Okay.
+
+PATIENT X373
+Uh maybe they call it listopril?
+
+DOCTOR H481
+No, no, no, lisinopril.
+
+PATIENT H481
+Okay.
+
+DOCTOR H481
+Okay.  I knew no one else would have told you that.
+
+PATIENT H481
+Yeah I got the lid scrub.  One check, one more refill.
+
+DOCTOR H481
+Are you drinking water?
+
+PATIENT H481
+A lot of water.  Peeing every five minutes man.  Why is my water down?
+
+DOCTOR H481
+No your creatinine is still high.
+
+PATIENT X373
+What's that?
+
+DOCTOR H481
+That's for your kidneys.  And we already took and you weren't taking the hydrochlorothiazide anymore?
+
+PATIENT H481
+No.
+
+DOCTOR H481
+Cause you don't have any @@@ huh?
+
+PATIENT H481
+Nope.
+
+DOCTOR H481
+Can we ask your wife or your girlfriend?
+
+PATIENT H481
+Yeah.  It's right on there what I take on one of those pages.  Oh that's in March when they did the, put the drill bit and cleaned me out.  That's not in there; it's supposed to be in there.  
+
+DOCTOR H481
+But does she know which medicines you take other than @@@.
+
+PATIENT X373
+She should know.  She's the one that saves me all the time.
+
+DOCTOR H481
+Here we go.
+
+PATIENT H481
+So all of this is in there right?
+
+DOCTOR H481
+Huh?
+
+PATIENT H481
+All this is in there?
+
+DOCTOR H481
+Yeah.  But it's one thing to give you the medication and it’s one thing if you still had it at home and you've been taking it.  So you don't know which ones you're taking?
+
+PATIENT H481
+Not really.  I just take them cause there's some in the morning and there's some in the evening.
+
+DOCTOR H481
+Well your sugar is getting better.
+
+PATIENT X373
+Yeah just that when it drops, my reaction is eat a candy or something.
+
+DOCTOR H481
+Yeah.
+
+PATIENT H481
+Instead of, but then when I overeat it goes up, if it's regular food it doesn't matter.  The sugar's gonna go up.
+
+DOCTOR H481
+Pull up @@@.
+
+PATIENT H481
+Well what do I do then?
+
+DOCTOR H481
+@@@.
+
+PATIENT H481
+I should check with the diabetes doctor but they give me a pharmacist though.
+
+DOCTOR H481
+Yeah, yeah.  Let's see, did you do the Hemoccult, the poop?
+
+PATIENT H481
+Yeah.  I did two of them.
+
+DOCTOR H481
+Okay let's see.  Okay it was, they said they couldn't do it.  This was in December.  They said it wasn't a good sample.
+
+PATIENT H481
+Right so they told me to send another one.
+
+DOCTOR H481
+Did you send another one?
+
+PATIENT H481
+Yeah cause they gave me a paper to come out here and get it.  Somebody gave me the card with that.  He said it wouldn't work so I had to do it again.
+
+DOCTOR H481
+There's all these labs I wanted you to get and you didn't get them.
+
+PATIENT X373
+What's that?
+
+DOCTOR H481
+Back in May.  I don't see any of these tests.  Anyway let's see, creatinine, phosphorus, there's no stool order.  Alright I'll have to do another one.  Since you don't want to get the colonoscopy right?
+
+PATIENT H481
+Do this?
+
+DOCTOR H481
+Yeah I'll put it in.
+
+PATIENT H481
+Another one?
+
+DOCTOR H481
+Yeah it wasn't in there.
+
+PATIENT H481
+Hmm.
+
+DOCTOR H481
+Look I'm putting it in in the lab right.
+
+PATIENT X373
+Okay.  What else do I have to do?
+
+DOCTOR H481
+@@@.
+
+PATIENT H481
+Yeah.
+
+DOCTOR H481
+So do you drink alcohol?
+
+PATIENT H481
+No.  Coffee.
+
+DOCTOR H481
+You need blood pressure right.  Did they get another one?  It was 117/66.
+
+PATIENT H481
+Uh-huh this morning oh yeah.
+
+DOCTOR H481
+Why didn't they put it in?
+
+PATIENT X373
+Hmm.
+
+DOCTOR H481
+But this was the second time they took it, it was 117?
+
+PATIENT H481
+The first time was 147.
+
+DOCTOR H481
+Uh-huh.
+
+PATIENT H481
+They said the second one was real good, whatever.  
+
+DOCTOR H481
+Now I'll order the, the eye drops are already ordered so it's not like I could do anything.  I would call the Pharmacy and make sure they give you another one.
+
+PATIENT H481
+Uh-huh.
+
+DOCTOR H481
+And just let them know that you never got the one before that.
+
+PATIENT X373
+Yeah, it's weird that I didn't.  I got the, like I said I got the eye scrub but never got the drops cause they were supposed to come at the same time.
+
+DOCTOR H481
+Okay.  Call them you can renew it.
+
+PATIENT H481
+Yeah.
+
+DOCTOR H481
+It's there.  All you have to do is just call and have them send it to you okay.
+
+PATIENT H481
+Sounds like a plan.
+
+DOCTOR H481
+Alright so what are you gonna do?  You're gonna see the eye doctor right?
+
+PATIENT H481
+Yeah I guess I'll go down there and make an appointment.
+
+DOCTOR H481
+Go and make an appointment, call to get your eye drops cause they can send them out.  All you have to do is just call it.  So eye doctor, eye drops, do the stool cards and whenever you're able to come back you can just turn it in cause the lab is in there and what else?  Anything else going on?
+
+PATIENT X373
+Yeah how come I get headaches now?  My arm hurts and my neck hurts.  Just right here.
+
+DOCTOR H481
+When does it happen?
+
+PATIENT H481
+Every day, even now.
+
+DOCTOR H481
+Point to where your neck hurts.
+
+PATIENT H481
+Right in here.
+
+DOCTOR H481
+Does it hurt when you press on it?
+
+PATIENT H481
+No it's just like a steady pain.
+
+DOCTOR H481
+Do you sleep on your back or on your side or face down?
+
+PATIENT X373
+On my side.
+
+DOCTOR H481
+On your side.  Alright.  Have you tried sleeping with your face up?
+
+PATIENT H481
+Hmm not really.  I haven't done that in years.  @@@ as a matter of fact.
+
+DOCTOR H481
+Okay.  So it's every day your neck hurts, alright.  Did you do anything heavy recently?
+
+PATIENT H481
+Uh-huh yeah.
+
+DOCTOR H481
+Where's your hand hurt?
+
+PATIENT H481
+In my arm.
+
+DOCTOR H481
+Did you hurt yourself?
+
+PATIENT X373
+No, no.
+
+DOCTOR H481
+Point to where it hurts.
+
+PATIENT H481
+All the way to here.  Right there yeah.
+
+DOCTOR H481
+Did you hurt yourself?  Right there.  Alright squeeze my hand, squeeze, alright.  Now go like this like you're gonna lift up some weight.  Does it hurt?
+
+PATIENT H481
+Uh-huh.
+
+DOCTOR H481
+It hurts?
+
+PATIENT H481
+But I could still do it, yes that hurt.  But they sent me to therapy for this but it still.  It was okay and now it's starting to hurt again.
+
+DOCTOR H481
+Is it the same pain?
+
+PATIENT X373
+Yeah back here and over here.
+
+DOCTOR H481
+It was the same pain before?
+
+PATIENT H481
+Yeah.
+
+DOCTOR H481
+It was the same pain.
+
+PATIENT H481
+And then my leg hurt down here.
+
+DOCTOR H481
+Let's see Occupational Therapy.
+
+PATIENT H481
+And it worked, she did it once and I don't know what was wrong but she got it straightened out quick.  I think her name was NAME the therapist.
+
+DOCTOR H481
+Yeah NAME.
+
+PATIENT X373
+Uh-huh.
+
+DOCTOR H481
+Have you continued doing the therapy at home?
+
+PATIENT H481
+Yeah.  Well I do until it starts hurting then I stop.
+
+DOCTOR H481
+I think you need to start.
+
+PATIENT H481
+Same thing with walking.  I try to walk.
+
+DOCTOR H481
+This was just in June.
+
+PATIENT H481
+Right I try to walk and everything starts hurting again.  I'm hoping my legs.
+
+DOCTOR H481
+Are you doing, did you do the stretching today?
+
+PATIENT X373
+No.
+
+DOCTOR H481
+Did you do it in the last week?
+
+PATIENT H481
+Yeah.  I went, well I was gonna go Sunday but I couldn't because our basement was flooded in my house.
+
+DOCTOR H481
+Yeah.
+
+PATIENT H481
+Where I live so I had to go upstairs and we had a plumber.
+
+DOCTOR H481
+Were you doing stuff, moving around?
+
+PATIENT H481
+No.  They don't let me do anything.
+
+DOCTOR H481
+Okay.
+
+PATIENT X373
+Cause they got a treadmill so I get on that treadmill and I walk on the treadmill.
+
+DOCTOR H481
+And you started getting pain in your arm?
+
+PATIENT H481
+Mostly my legs.  My neck I don't know why it just started out of the blue it started hurting.  It's been like that for a couple weeks now.
+
+DOCTOR H481
+Have you taken a Tylenol or anything?
+
+PATIENT H481
+No cause I take the aspirin in the morning with my pills.
+
+DOCTOR H481
+Yeah but the aspirin is more for your diabetes.
+
+PATIENT H481
+Right.
+
+DOCTOR H481
+And then you should take a Tylenol.
+
+PATIENT X373
+Take a regular Tylenol?
+
+DOCTOR H481
+Yeah like 600 or 650, whatever the dose is.
+
+PATIENT H481
+Uh-huh.
+
+DOCTOR H481
+I think they sell them 325, just take two of those.
+
+PATIENT H481
+Yeah.
+
+DOCTOR H481
+And then see how you do when you're walking but I think you need to start stretching every day just like the physical therapist and if it doesn't help then you can call and let the nurse know that you want therapy or call the therapist.  Can you set up an appointment with the therapist?
+
+PATIENT H481
+I guess I could yeah.
+
+DOCTOR H481
+Yeah.
+
+PATIENT X373
+I got her thing at home.
+
+DOCTOR H481
+Yeah.  You could call her and ask her if she says that I have to order it again then call the nurse and let them know.
+
+PATIENT H481
+Well actually you didn't order it, it was the doctor DOCTOR.
+
+DOCTOR H481
+Oh the endocrinologist.
+
+PATIENT H481
+Right she's the one that ordered it.
+
+DOCTOR H481
+And then you felt better?
+
+PATIENT H481
+Yeah right away.  She was massaging and doing all kinds of crazy stuff and then right away it started working.
+
+DOCTOR H481
+But you've got to stretch every day then.
+
+PATIENT X373
+Uh-huh.
+
+DOCTOR H481
+Okay.  I think you've got to do everything they told you to do in therapy every day though.
+
+PATIENT H481
+Uh-huh.
+
+DOCTOR H481
+Okay and if it doesn't work then we might have to enroll you again for physical therapy. Alright so you're gonna stretch right?
+
+PATIENT H481
+Well yeah.
+
+DOCTOR H481
+And then try to take some Tylenol.
+
+PATIENT H481
+Right.
+
+DOCTOR H481
+And then if it doesn't work then you have to see therapy again.
+
+PATIENT X373
+Because I mean I'm walking even though it's killing me.  Like in my arm and my legs too, this leg.  And I walk cause they said you have to walk.  I says okay but shit I go a little bit then everything starts hurting.  And it's all on this side all the time the right side.
+
+DOCTOR H481
+Oh because you have peripheral vascular disease too.
+
+PATIENT H481
+Right.  What is that?  I got all kinds of good stuff.
+
+DOCTOR H481
+Did you get the CT run-off at all or no?
+
+PATIENT H481
+What's that?
+
+DOCTOR H481
+Because it looks like DOCTOR wanted you to have a run-off.
+
+PATIENT H481
+A run-off?
+
+DOCTOR H481
+Yeah basically a CT scan to look at your arteries.  They didn't do it right?
+
+PATIENT X373
+No.  They said because of the kidneys I wasn't drinking enough water or whatever.
+
+DOCTOR H481
+Yeah.
+
+PATIENT H481
+But I think I did it at Rush.
+
+DOCTOR H481
+They did the run-off?
+
+PATIENT H481
+Because they.
+
+DOCTOR H481
+Back in January of when did you go to Rush?
+
+PATIENT H481
+In March or whenever it was.
+
+DOCTOR H481
+March 26th.
+
+PATIENT X373
+Because they did a procedure on me.
+
+DOCTOR H481
+Yeah.  They did the run-off because.
+
+PATIENT H481
+And then they.
+
+DOCTOR H481
+When did you go to Rush?
+
+PATIENT H481
+What it's not in there and this is all @@@ I got to fill out for.
+
+DOCTOR H481
+No they did, they didn't put in another stent right?
+
+PATIENT H481
+No they just.
+
+DOCTOR H481
+They said you had mild, you didn't have like significant?
+
+PATIENT X373
+No they said, no in January or December they want me to go back and they want to check all my neck veins and everything.
+
+DOCTOR H481
+Well I could check them here.  Let's @@@.
+
+PATIENT H481
+I'd go with Medicare.
+
+DOCTOR H481
+Okay and they'll take care of the rest?
+
+PATIENT H481
+Yeah, Medicaid or whatever.
+
+DOCTOR H481
+Yes.
+
+PATIENT H481
+I could go to either one.  I can go here but they didn't want to do it last time so when I went to Rush and I told them that it was bothering me they just did it on this side first time and then when they put the stents they did it in my leg.
+
+DOCTOR H481
+Yeah.
+
+PATIENT X373
+On this side.
+
+DOCTOR H481
+Uh-huh.
+
+PATIENT H481
+Then when they put it on this side they what do you call that, whatever they do.
+
+DOCTOR H481
+You had a catheterization.
+
+PATIENT H481
+Right they did that again and they go it looks okay but we got to wait and see cause we're not sure.  I tell them whatever but this leg keeps hurting right along with my arm and everything.
+
+DOCTOR H481
+Yeah.
+
+PATIENT H481
+And then I took the neck pain and my headaches and I've never had headaches, only when I had hangovers but I don't drink no more.
+
+DOCTOR H481
+Yeah.  Well I can order the carotid Dopplers.  It might take a few days or maybe a week.  It's up to you if you want me to go ahead and order it.
+
+PATIENT X373
+Yeah I can come over here.
+
+DOCTOR H481
+What's closer to your house?
+
+PATIENT H481
+Here.
+
+DOCTOR H481
+Here.
+
+PATIENT H481
+I live right down on xxx, right off of xxx.  Yeah I mean I could do that.  He said, he mentioned something that I might have to get another stent in my leg or something but I told him whatever you are the doctors I don't know.  I already got three.  And besides DOCTOR the guy who wrote to you, he's retired.
+
+DOCTOR H481
+Hmm.
+
+PATIENT H481
+So my cardiologist, so I don't know.  And the one that did the surgery I need there so that's a procedure it's not a surgery.  He's still there but.
+
+DOCTOR H481
+Yeah @@@.  Let me listen to your neck.  And they've never done surgery right?
+
+PATIENT X373
+No.
+
+DOCTOR H481
+On your neck.
+
+PATIENT H481
+No just on the back.  They did my back surgery but that was like a million years.  They did surgery on L5.
+
+DOCTOR H481
+Okay so then hopefully they set up the appointment on, I would let the clerk know.
+
+PATIENT H481
+Uh-huh.
+
+DOCTOR H481
+Okay.  Would you be interested in, so you need to call about the drops.  And you wanted Dermatology?
+
+PATIENT H481
+Yeah they said they were gonna put me there for these stupid skin tags I got.  I got them all over the place, the neck and everything.
+
+DOCTOR H481
+Yeah I don't know if they'll take them off actually.
+
+PATIENT X373
+They said they would laser them or something.  I don't care I mean unless they got that tree oil stuff or whatever it's called.
+
+DOCTOR H481
+Probably be easy just to cut them off @@@.
+
+PATIENT H481
+Oh really?
+
+DOCTOR H481
+Yeah they just cut.
+
+PATIENT H481
+Whatever.  If they do it then, let's do the important things first.
+
+DOCTOR H481
+Okay you don't have to do that cause I'm ordering a lot already.
+
+PATIENT H481
+Yeah.
+
+DOCTOR H481
+So the carotid Dopplers um, vascular studies.
+
+PATIENT X373
+The skin tags I've had them, I don't know I just started getting that.
+
+DOCTOR H481
+Alright.  I'll have you come back in like three months.
+
+PATIENT H481
+Okay.
+
+DOCTOR H481
+Okay.  And then alright.  Do you want the, you don't know if you had chicken pox as a kid?
+
+PATIENT H481
+Yeah I don't know.
+
+DOCTOR H481
+Do you know if your brothers had it?
+
+PATIENT H481
+@@@.  I don't know.
+
+DOCTOR H481
+Remember when you were a kid.
+
+PATIENT X373
+No not that I know of.
+
+DOCTOR H481
+Hmm.  Okay, I'll be right back okay.
+
+PATIENT H481
+Okay.
+
+DOCTOR OUT:  147:40  DOCTOR IN:  159:01
+
+DOCTOR H481
+Alright.  I want to order some labs for you in three months.
+
+PATIENT H481
+Uh-huh.
+
+DOCTOR H481
+That way I get the labs that I want because I had all these labs ordered on May.
+
+PATIENT H481
+And they didn't do them.
+
+DOCTOR H481
+Well they didn't do them because it was so long ago May, June, July, August, that's why.
+
+PATIENT X373
+Oh.
+
+DOCTOR H481
+So.
+
+PATIENT H481
+Well we could do like I did today, come early.
+
+DOCTOR H481
+Yeah.  So what I'll do is I'll just order them for like in the future.
+
+PATIENT H481
+Uh-huh.
+
+DOCTOR H481
+Alright next time you're here, alright.  That way I'll get the.  How about you come back in three months okay?
+
+PATIENT H481
+Okie dokie.
+
+DOCTOR H481
+Alright.  You know what else I'm gonna order.
+
+PATIENT X373
+Hmm.
+
+DOCTOR H481
+I'm gonna order a neck x-ray for you.
+
+PATIENT H481
+Uh-huh.
+
+DOCTOR H481
+Okay.  So the x-ray you can get at any time, just show up to the x-ray area alright.  I don't know if you have time today.  You could come back tomorrow, you could come back next week but the order is in there okay.  So a neck x-ray.
+
+PATIENT H481
+That's downstairs by the Blood Bank right?
+
+DOCTOR H481
+Yeah, yeah.  So it depends on how much time you have okay.
+
+PATIENT H481
+Well I'll just see what they're doing down there.
+
+DOCTOR H481
+And I'll call you if your cholesterol is high.
+
+PATIENT X373
+Yeah.
+
+DOCTOR H481
+Alright.
+
+PATIENT H481
+Yeah they didn't do that one yet, right, that didn't come in.
+
+DOCTOR H481
+So, they're gonna do them we'll see what.  I'd call them right now to see if they could do it.  If they don't do it then we're gonna have to get it when you come back.
+
+PATIENT H481
+Yeah.
+
+DOCTOR H481
+Alright, alright.
+
+PATIENT H481
+Okay doc.
+
+DOCTOR H481
+Alright.  So who you gonna go talk to in a little while?
+
+PATIENT X373
+The eye doctor.
+
+DOCTOR H481
+Yes.  And who you gonna call about your medications?  Pharmacy.
+
+PATIENT H481
+Pharmacy.
+
+DOCTOR H481
+Alright.
+
+PATIENT H481
+Okay.
+
+DOCTOR H481
+Alright and then just.
+
+PATIENT H481
+And I'm gonna see if they're not busy at X-ray.
+
+DOCTOR H481
+Yep.  Alright there you go.
+
+PATIENT X373
+Alright so we'll see you, bye.
+
+
+
+

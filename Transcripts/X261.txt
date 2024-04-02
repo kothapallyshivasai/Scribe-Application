@@ -1,0 +1,808 @@
+
+DOCTOR X261  
+PATIENT?  How are you? 
+
+PATIENT X261
+Could be better, could be worse.  
+
+DOCTOR X261
+Right over here is okay.  You can have a seat there.  Here for your uh annual visit?
+
+PATIENT X261
+I guess that's what it is.
+
+DOCTOR X261
+Okay.  Any new, I haven't seen you in a year, any new problems or issues?
+
+PATIENT X261
+Yeah I got a pain in my back for the last three months or so, I don't know if it's a muscle pulled.  I don't know what the hell it is.
+
+DOCTOR X261
+Okay.
+
+PATIENT X261
+But I can't get rid of it.
+
+DOCTOR X261
+Okay.
+
+PATIENT X261
+But I got to keep on working and stuff like that on my basement @@@ so I don't know if it's physical or whatever.  Cause I had an endocrine doctor for my kidney, to protect the kidney @@@.
+
+DOCTOR X261
+Sure.
+
+PATIENT X261
+I guess it went too high or something.  But they checked it out and it was okay.  But then my endocrine doctor here, I did see him about a week or two ago.  That's the first time in a year.
+
+DOCTOR X261
+Uh-huh.
+
+PATIENT X261
+DOCTOR for hyperparathyroidism and the only reason I'm here cause I called cause I'm running out of medication refills.
+
+DOCTOR X261
+Yeah.
+
+PATIENT X261
+And so forth and they said well it said four months, suppose the nurse didn't do their Goddamn job so they never made an appointment for me and she decided to look at my back record.  It's not even on the screen so she couldn't even really diagnose the situation.
+
+DOCTOR X261
+Uh-huh.
+
+PATIENT X261
+But other than that, I'm still alive.
+
+DOCTOR X261
+So are you seeing a regular doctor as well on the outside?
+
+PATIENT X261
+No.  I did see an endocrine doctor.
+
+DOCTOR X261
+The endocrine okay.  Um alright so any injury to your back in the past?
+
+PATIENT X261
+Uh yeah years ago but that was, mainly it's just right here, it's like the muscle is @@@.
+
+DOCTOR X261
+Uh-huh.
+
+PATIENT X261
+But if I turn a certain way I have a hard time bending down and stuff like but you know I do it.  But I had, yeah nothing big you know they just told me, what do they call that, when you get older and stuff, lumbar spine.
+
+DOCTOR X261
+Uh-huh.
+
+PATIENT X261
+You know just like normal @@@.
+
+DOCTOR X261
+Any surgeries in the past for the back?
+
+PATIENT X261
+No.
+
+DOCTOR X261
+Does the pain go down the leg at all, radiate down the leg?
+
+PATIENT X261
+No.
+
+DOCTOR X261
+Okay and it just stays in that one spot?
+
+PATIENT X261
+Yeah.
+
+DOCTOR X261
+Um on a scale of 1-10, 10 being the worst pain in your life?
+
+PATIENT X261
+10 if I turn the right way or the wrong way or something like that but normally it just stays at a you know a three or four.  All depends on which way I move @@@.
+
+DOCTOR X261
+Are you taking anything for pain?
+
+PATIENT X261
+No.
+
+DOCTOR X261
+Um is it worse if you're um, do you ever think if you're hunched over that it provides you more relief versus laying back.
+
+PATIENT X261
+Uh you know I think yeah I tried it.  I don't know if it does any more relief.
+
+DOCTOR X261
+Okay.
+
+PATIENT X261
+I tried to like stretch it out.
+
+DOCTOR X261
+Yeah.
+
+PATIENT X261
+To me it feels, it seems like a muscle or something uh.
+
+DOCTOR X261
+Yeah.  It could be.  I mean I'll examine you still but the fact that there's nothing going down the leg or anything like that is reassuring.
+
+PATIENT X261
+Yeah, yeah.
+
+DOCTOR X261
+And probably just arthritis, muscular or a muscular pain.
+
+PATIENT X261
+Yeah cause the same thing with this here like uh, I'm getting a lot of pain here now uh if I use it, like if I squeeze it here.
+
+DOCTOR X261
+Yeah.
+
+PATIENT X261
+I never had that before and just in the last month or so I'm starting to get it, so I don't know if I sprained it or maybe it's arthritis or carpal tunnel or something like that which.
+
+DOCTOR X261
+Okay.
+
+PATIENT X261
+So I don't know what that is but I mean this hurts a lot when I, like I'm squeezing, I usually use this hand but I can't and I use this one and it's just too much power, you know too much pain in it.
+
+DOCTOR X261
+Okay.  Um I'll examine your hand too and then we'll look after.  Uh any chest pain, shortness of breath, palpitations?
+
+PATIENT X261
+No, none that is abnormal.
+
+DOCTOR X261
+And you're moving your bowels okay?
+
+PATIENT X261
+Yeah.
+
+DOCTOR X261
+Any blood in your stool, black stools?
+
+PATIENT X261
+No.  I only get blood, I use Metamucil but that's for the hemorrhoids.
+
+DOCTOR X261
+Okay and you had a colonoscopy in 2009 so you're set for that.  Um do you want something for pain?
+
+PATIENT X261
+Uh.
+
+DOCTOR X261
+I know @@@ foot.  If things are getting worse.
+
+PATIENT X261
+Yeah maybe, yeah just for like at night or something like that.  I don't know, it seems like a muscle.
+
+DOCTOR X261
+Yeah it's possible.  I mean did you notice that it came on all of a sudden a couple months ago or you just started noticing it gradually.
+
+PATIENT X261
+Yeah I think it just came on like all of a sudden.
+
+DOCTOR X261
+Okay.  Um and.
+
+PATIENT X261
+I'm not sure, cause I get it on a daily basis if I move, it feels like just like right now, if I'm moving I can feel it, it hurts.
+
+DOCTOR X261
+Yeah.
+
+PATIENT X261
+It's just like if I pull a muscle or something like that, that's what it feels like.
+
+DOCTOR X261
+That's what it feels like okay.  You're still smoke free right?
+
+PATIENT X261
+Yeah.
+
+DOCTOR X261
+Okay good.  How long has that been now?
+
+PATIENT X261
+I don't know, about a year or so.
+
+DOCTOR X261
+Okay good.  Um and any heartburn, reflux, any issues like that?
+
+PATIENT X261
+No, them pills they give me work.  I guess they work pretty good.  I guess when I use them I'll get @@@.
+
+DOCTOR X261
+Alright.  Um okay let me get you to slip up here and examine you okay.  Take off your coat.  
+
+PATIENT X261
+I got to watch how I get up, when I bend down and stuff like that; I try to go straight down.
+
+DOCTOR X261
+Yeah.
+
+PATIENT X261
+If I just go down to get something, it's not that great.
+
+DOCTOR X261
+Okay.  Let me see it's this thumb here you said.  Put your hands out like this.  And where does it hurt when it hurts?
+
+PATIENT X261
+Right in here.
+
+DOCTOR X261
+Right in there okay.  Any pain when I push in here?
+
+PATIENT X261
+No.
+
+DOCTOR X261
+Does this cause any pain?
+
+PATIENT X261
+No.
+
+DOCTOR X261
+So let's just put your hands kind of like you're praying and bring them straight, your arms straight, there you go, hold that for a moment.  Does that cause any pain anywhere?  Okay good.
+
+PATIENT X261
+Yeah maybe a little, but not.
+
+DOCTOR X261
+But no sharp pains.
+
+PATIENT X261
+No pain no.
+
+DOCTOR X261
+Okay good.  So those two tests are for carpal tunnel so if those are both negative then that's probably not it.  You might just have some arthritis in the joint.
+
+PATIENT X261
+Cause that's pain right now.
+
+DOCTOR X261
+Squeeze my fingers really hard.  Good strength okay.  It hurts in here huh.
+
+PATIENT X261
+Yeah and here.  @@@.
+
+DOCTOR X261
+Did you ever hurt this area, never when you were younger?
+
+PATIENT X261
+I don't think so.
+
+DOCTOR X261
+Okay cause it could just be and then if it's in here, you know it seems just more like an arthritis kind of picture.  
+
+PATIENT X261
+@@@ right here.
+
+DOCTOR X261
+Yeah.
+
+PATIENT X261
+It's the fingers in both hands right there.
+
+DOCTOR X261
+Okay.  Alright.  Let's listen to your lungs here.  Deep breaths.  How long has that thumb been bothering you?
+
+PATIENT X261
+Probably about a month or two something like that, that I notice it you know.  But now I notice @@@.
+
+DOCTOR X261
+And you're right-handed?
+
+PATIENT X261
+No I'm left-handed.
+
+DOCTOR X261
+Left-handed okay good.
+
+PATIENT X261
+I do everything right but I'm left-handed.
+
+DOCTOR X261
+Breathe normally.  Okay.  Now if I push along your spine does this hurt at all?
+
+PATIENT X261
+Oh.
+
+DOCTOR X261
+Right there very tender.
+
+PATIENT X261
+Yeah very tender.  I was fine when your thumb was over here you know, @@@.
+
+DOCTOR X261
+Okay what about down here?
+
+PATIENT X261
+Probably around here.
+
+DOCTOR X261
+Okay.
+
+PATIENT X261
+It's got to be in the right position.
+
+DOCTOR X261
+Alright stand up for me.
+
+PATIENT X261
+A little bit down here but mostly it was right here.
+
+DOCTOR X261
+Okay.  Then come forward a little bit.  So if I push here is there anything?
+
+PATIENT X261
+Yeah a little bit.
+
+DOCTOR X261
+On that side here, what if I go up to here?
+
+PATIENT X261
+Just a little bit you know.
+
+DOCTOR X261
+Okay.  Anything here if I push?
+
+PATIENT X261
+No.
+
+DOCTOR X261
+And any pain that radiates into the groin?
+
+PATIENT X261
+No.
+
+DOCTOR X261
+Okay then sit back down for me.  I'm going to have you lay back all the way.
+
+PATIENT X261
+@@@ my feet I clipped the toenail and it came off cancerous.
+
+DOCTOR X261
+Oh really okay.
+
+PATIENT X261
+Yeah.
+
+DOCTOR X261
+Let me see now I'm just going to keep your legs straight.  I'm going to bring you up, tell me if you feel any pain in your back.
+
+PATIENT X261
+A little bit now.
+
+DOCTOR X261
+Okay.  Now bend your knee or bring this ankle over to the other knee okay and then I'm gonna just bring your knee down.  Tell me if that hurts in your back.
+
+PATIENT X261
+No.
+
+DOCTOR X261
+No okay.  Same thing on this side, I'm going to raise this leg first.
+
+PATIENT X261
+I can feel it pulling on it.
+
+DOCTOR X261
+Okay.  Now bend your knee, bring this foot over to the side and bring your leg down.  Does that hurt at all?
+
+PATIENT X261
+No.
+
+DOCTOR X261
+Okay.  Can you come back up?  I'm going to have you stand up again.  I want you to twist, turn to the left, that's fine.  Does that hurt?
+
+PATIENT X261
+Yeah.
+
+DOCTOR X261
+Okay what about this way?
+
+PATIENT X261
+This way is not too bad.
+
+DOCTOR X261
+Okay.  And now.
+
+PATIENT X261
+Yeah if I turn that way it hurts more.
+
+DOCTOR X261
+And that hurts more than here.
+
+PATIENT X261
+It was right here.
+
+DOCTOR X261
+Okay.  Now I want you to like you're gonna touch your toes.  That's pretty good.
+
+PATIENT X261
+It feels a little @@@.
+
+DOCTOR X261
+Okay can you go back this way?
+
+PATIENT X261
+Yeah.
+
+DOCTOR X261
+Where did that hurt?
+
+PATIENT X261
+Same place.
+
+DOCTOR X261
+That hurts when you go back up okay.  Alright.  Have a seat back over here.  
+
+PATIENT X261
+Maybe it's from the hypoparathyroidism too you know @@@.
+
+DOCTOR X261
+Well but the thing is you've got a burning in a particular spot um that you know I was able to reproduce it.
+
+PATIENT X261
+Yeah, yeah it feels like somebody kicked me or @@@ or something like that.  I'm just curious why it lasts you know so long usually that'll wear off.
+
+DOCTOR X261
+Yeah.  I'm gonna talk to my boss.  I don't know if we need to get you an x-ray or not but we might, okay I can give you something to see if it helps relax that area okay.  Um I'm not going to get any blood work until you're due for your blood work with DOCTOR.
+
+PATIENT X261
+When am I due for that?
+
+DOCTOR X261
+Uh I guess in June.  I will let you know for sure.  He ordered this for June 30th so anytime after June 30th you can come in to get that done.
+
+PATIENT X261
+Okay now.
+
+DOCTOR X261
+And that'll be your cholesterol and your PSA.
+
+PATIENT X261
+Now did they say anything for like the kidneys on that?
+
+DOCTOR X261
+Um in June?
+
+PATIENT X261
+Yeah in June.
+
+DOCTOR X261
+Yeah she was gonna check the.
+
+PATIENT X261
+See that's what I understood @@@.
+
+DOCTOR X261
+Okay.  Let me talk to my boss and um and then I'll come back and we'll address this, you know look for any problem in the back.
+
+PATIENT X261
+And now what about the toenail @@@.
+
+DOCTOR X261
+Well let me take a look at it.
+
+PATIENT X261
+It just @@@ I didn't know it was coming off so it looks like its on half way.
+
+DOCTOR X261
+Which toe is it?
+
+PATIENT X261
+My big toe.  I have pain.
+
+DOCTOR X261
+Oh it's right in there?  Yeah there's no signs of infection or anything.  It should grow back.  Was it black?
+
+PATIENT X261
+Yeah.
+
+DOCTOR X261
+Did you um hit it somewhere?
+
+PATIENT X261
+Probably so.
+
+DOCTOR X261
+Yeah.
+
+PATIENT X261
+@@@ that toe.
+
+DOCTOR X261
+Yeah that's okay.
+
+PATIENT X261
+@@@.
+
+DOCTOR X261
+Yeah.
+
+PATIENT X261
+But @@@ grow back.
+
+DOCTOR X261
+Yeah it'll grow but it's gonna take some time but it'll grow back.
+
+PATIENT X261
+Yeah cause I think there's still some, a little loose on top of but that'll come off right?
+
+DOCTOR X261
+Yeah.  Well.
+
+PATIENT X261
+You got to let it fall off?
+
+DOCTOR X261
+Yeah I wouldn't do anything else to it.
+
+PATIENT X261
+Yeah I'm not going to.
+
+DOCTOR X261
+Let it be, let it be.  Um okay and let me look at that and I think we're up to speed.  So let me, now did you have chicken pox when you were younger?
+
+PATIENT X261
+Yeah I did.
+
+DOCTOR X261
+Have you had any um shingles?
+
+PATIENT X261
+No.
+
+DOCTOR X261
+Do you know what that is?
+
+PATIENT X261
+No I know my buddy had it.
+
+DOCTOR X261
+Yeah so but whenever you get chicken pox the virus that causes chicken pox when we were kids.
+
+PATIENT X261
+Yeah.
+
+DOCTOR X261
+It lies dormant in the spine and it can break up at any time wherever.  We don't know the trigger so it can occur at any time and it causes a very painful rash and the rash is something we don't care about cause the rash goes away but it's the pain associated with the rash that can linger for several years and that's because of nerve injury.  So uh they have a vaccine now.  It's called the shingles vaccine.  Anybody over the age of 60 is eligible for it.  Um it's something I would recommend.  Is that something that you're interested in?
+
+PATIENT X261
+Yeah, cause this poor guy has had it for months.
+
+DOCTOR X261
+No, it's I mean it's not.
+
+PATIENT X261
+He's in a tremendous amount of pain.
+
+DOCTOR X261
+Yeah it's uh, it's not.
+
+PATIENT X261
+And he still has it; he has to put stuff on his hands to cover it.
+
+DOCTOR X261
+Uh-huh.
+
+PATIENT X261
+Like psoriasis of a sorts.
+
+DOCTOR X261
+Uh-huh.
+
+PATIENT X261
+I got enough pain.  @@@ for that shot?
+
+DOCTOR X261
+It's just like any other shot, like anything else, like your flu shot or anything else.  
+
+PATIENT X261
+I'm gonna a flu shot; I just should get them both at the same time.
+
+DOCTOR X261
+Well they can't do the shingles today because it has to be like refrigerated and they got to do all this preparation for it, we'll schedule it.  They'll have to call you and set it up for you to come in to do it.  Okay, let me um talk to DOCTOR and I'll be back okay.
+
+PATIENT X261
+Uh-huh.
+
+(DOCTOR OUT:  59:29  DOCTOR IN:  65:29)
+
+DOCTOR X261
+Okay, she wants me to get some x-rays done of your back.
+
+PATIENT X261
+Yeah.
+
+DOCTOR X261
+Okay so um the x-ray is just to make sure that there's no fractures of the bone that work in the spine okay.  Um.
+
+PATIENT X261
+Way over here would that be affected.
+
+DOCTOR X261
+Essentially yes and sometimes @@@ can be very vague so that's why we want to make sure because it happened all of a sudden, to make sure there's no fracture anywhere okay.
+
+PATIENT X261
+What do I do when I got two sisters and brothers that died from cancer and that made me think about the back pain?
+
+DOCTOR X261
+Did they?
+
+PATIENT X261
+@@@ really I don't know.
+
+DOCTOR X261
+Yeah now @@@.  Um let me just order that and then.
+
+PATIENT X261
+@@@.
+
+DOCTOR X261
+Heard what?  
+
+PATIENT X261
+@@@.  
+
+DOCTOR X261
+No for ultrasounds.  So ultrasounds only good for looking like an abscess or something like that but it won't see it.  And then for the pain I'm going to recommend you can do Tylenol over-the-counter that'll help or ibuprofen, either of those will help with arthritic pain okay.  That sounds like its arthritic pain.  If you want we can always do an x-ray cause I think an x-ray shows arthritic changes @@@.
+
+PATIENT X261
+Yeah would this be coming out of just my back?
+
+DOCTOR X261
+Well we don't know @@@ just like that.  I mean I can check it and we can see um while we're doing the lab.
+
+PATIENT X261
+@@@ happen this week.
+
+DOCTOR X261
+Go like this too with your hands and does that cause any pain?
+
+PATIENT X261
+No.
+
+DOCTOR X261
+Okay.  We can just always x-ray your thumb too.  So Tylenol or ibuprofen and I'm also going to order, if you think that it's a muscle spasm that's going on in your back I'm gonna order a muscle relaxant it's called Flexeril.  You can technically take it up to three times a day as needed to see if that helps you okay.  Um and that'll give us a good starting point.  It feels like, now with Flexeril do you want me to have it sent to you or do you want to pick it up?
+
+PATIENT X261
+Just send it to me.
+
+DOCTOR X261
+Okay.  In the interim just take like Tylenol or ibuprofen and see if that helps you okay.  If that doesn't help and the Flexeril doesn't help call and if we get the results back and it shows, I can always give you something stronger and you can also actually do an investigation of this if we need to okay.  So this is just the starting point to see if these measures alone are consistently going to help you.  Okay so the toe is don't touch and let it be left alone.  That'll eventually come off on its own but toenails are the ones that take the longest to grow so it's going to be a long while alright.  Um the shingles vaccine, they will schedule you for you to come back to get that done.  Um the Flexeril for the muscle spasms will be mailed to you.  In the interim when you're done today you're going down to Radiology, they're going to take some x-rays of both your hand and your lower back okay.  If anything comes back worrisome of any sort apart from just arthritis I will give you a call and let you know okay.  Um and then the Flexeril will be mailed as I mentioned and in the interim you try Tylenol or ibuprofen or @@@ cream and if none of those measures work for you, including the Flexeril, you call me back and we'll re-evaluate okay.
+
+PATIENT X261
+Now they can mail that to me too, if they want cause I'm out of that too.
+
+DOCTOR X261
+Oh you want the Tylenol, okay sure.
+
+PATIENT X261
+Yeah I'd rather have Tylenol than ibuprofen.
+
+DOCTOR X261
+That's fine.
+
+PATIENT X261
+Ibuprofen don't seem to do anything for me.
+
+DOCTOR X261
+Okay.  No blood work today.  When you're due for it, you're going to come back in July you can get blood work with DOCTOR and you can do lab then too.  Now you don't want to take more than eight tablets of this Tylenol in a given day okay.  That's the max.
+
+PATIENT X261
+@@@ ibuprofen 600 mg, are you taking anything?  I said I'm not happy with any of it.  @@@.
+
+DOCTOR X261
+Yeah and actually with @@@ probably not gonna want you to take the ibuprofen.  The maximum is eight tablets a day.  Um you can take 1-2 tablets every 4-6 hours by mouth.  Okay and then now I'll send you your medications; you've got lots of refills.  The bupropion you don't have any refills on, do you need refills for that?
+
+PATIENT X261
+Yeah, bupropion.
+
+DOCTOR X261
+Yep that's for the smoking.
+
+PATIENT X261
+That's for my smoking yeah, seems that's the only thing that works.
+
+DOCTOR X261
+Now um the fatty acids are you still doing those or no?
+
+PATIENT X261
+Yeah.
+
+DOCTOR X261
+Okay.
+
+PATIENT X261
+@@@ before cholesterol.
+
+DOCTOR X261
+Yep, exactly.
+
+PATIENT X261
+The cholesterol @@@.
+
+DOCTOR X261
+Well we're going to check it in June.
+
+PATIENT X261
+Yeah.
+
+DOCTOR X261
+Okay.  
+
+PATIENT X261
+That's just @@@ right now.
+
+DOCTOR X261
+Yeah.
+
+PATIENT X261
+And I know I have to have this stuff @@@.
+
+DOCTOR X261
+Okay, so you're meds from me are now all updated now too so you have plenty of refills.  Okay.
+
+PATIENT X261
+Okay.
+
+DOCTOR X261
+Okay.  So I want you to come back in six months or sooner if you need it for a new issue alright.
+
+PATIENT X261
+Yeah.
+
+DOCTOR X261
+Um I am done at the end of June so you'll need to get @@@.  But I'm still here until June @@@.  So if anything comes up, if these measures don't work, call me and let us transfer you to someone else.
+
+PATIENT X261
+Right.  What's your extension?
+
+DOCTOR X261
+Um when you go to check out they can give you get a number for the general clinic cause I don't have a, I'm only in the clinic like once every two weeks.
+
+PATIENT X261
+Yeah, yeah.
+
+DOCTOR X261
+But I want you to call and you have to go through the Triage and then they'll get a hold of me and I'll call you back.
+
+PATIENT X261
+Okay.
+
+DOCTOR X261
+Okay and hopefully this will do the trick.
+
+PATIENT X261
+@@@.
+
+DOCTOR X261
+Yeah.
+
+PATIENT X261
+@@@.
+
+DOCTOR X261
+Yeah so just take it easy, I mean don't do too much.
+
+PATIENT X261
+Okie dokie.
+
+DOCTOR X261
+Alright.  Okay.  Take care.
+
+PATIENT X261
+@@@.
+
+PATIENT LEAVES:  74:50.
+
+Time is 11:17.
+
+
+
+

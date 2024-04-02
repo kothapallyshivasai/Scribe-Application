@@ -1,0 +1,710 @@
+
+DOCTOR X552 
+PATIENT?
+
+PATIENT X552
+Okay, here we go huh.  Alright come on NAME.
+
+DOCTOR X552
+So how are you?  I'm DOCTOR I'll be seeing you today.
+
+PATIENT X552
+Oh yeah.
+
+DOCTOR X552
+Um DOCTOR was seeing you in follow-up.
+
+PATIENT X552
+Yeah.
+
+DOCTOR X552
+So how have you doing?
+
+PATIENT X552
+I'm doing fine.
+
+DOCTOR X552
+Doing fine, any complaints today?
+
+PATIENT X552
+Uh my digestion's really been worse again.
+
+DOCTOR X552
+Oh what's wrong with your digestion?
+
+PATIENT X552
+The acid.
+
+DOCTOR X552
+You have acid reflux?
+
+PATIENT X552
+Yeah, yeah a lot of that.
+
+DOCTOR X552
+Are you on Prilosec medicine still?
+
+PATIENT X552
+Yes.
+
+DOCTOR X552
+Okay.  You're not taking anything for that right now are you?
+
+PATIENT X552
+No.
+
+DOCTOR X552
+Okay we can give you a medicine for that.
+
+PATIENT X552
+Thank you, thank you yes.
+
+DOCTOR X552
+Is it worse after certain meals like fatty meals?
+
+PATIENT X552
+Yes, yes.
+
+DOCTOR X552
+And spicy foods.
+
+PATIENT X552
+Fatty foods.
+
+DOCTOR X552
+Like spicy foods?
+
+PATIENT X552
+Really spicy.
+
+DOCTOR X552
+Okay we can give you something for that.
+
+PATIENT X552
+Yeah, yeah but.
+
+DOCTOR X552
+How long has this been going on for?
+
+PATIENT X552
+Probably a year.
+
+DOCTOR X552
+A year.
+
+PATIENT X552
+Yeah.  I take a lot of Pepto Bismol and all that but that ain't doing nothing at all.
+
+DOCTOR X552
+Does that not, yeah we can give you something that's a little stronger than that.
+
+PATIENT X552
+That's good.
+
+DOCTOR X552
+That will help with that.
+
+PATIENT X552
+Yeah.
+
+DOCTOR X552
+Anything else?
+
+PATIENT X552
+Yeah I need a prescription filled.
+
+DOCTOR X552
+For which medicine?
+
+PATIENT X552
+Uh for my skin, skin disorder uh.
+
+DOCTOR X552
+For the itching right?
+
+PATIENT X552
+Yeah the itching here, @@@.
+
+DOCTOR X552
+Is there another one?
+
+PATIENT X552
+Just the prostate.
+
+DOCTOR X552
+Yeah this isn't for that.
+
+PATIENT X552
+Well, is that the only one?
+
+DOCTOR X552
+@@@.
+
+PATIENT X552
+Oh is that the one, yeah I Docusate.
+
+DOCTOR X552
+We can refill this.
+
+PATIENT X552
+Okay thank you, that's what I need.
+
+DOCTOR X552
+Okay anything else or is that the big thing?
+
+PATIENT X552
+No that's about it.  That's about it I guess.
+
+DOCTOR X552
+Okay, okay and then I'm just gonna, cause this is the first time I'm seeing you just to go over your medical problems together.
+
+PATIENT X552
+Right.
+
+DOCTOR X552
+You have wait a sec; you have arthritis, high cholesterol.
+
+PATIENT X552
+Yeah.
+
+DOCTOR X552
+PTSD, septicemia, you have a history of drug abuse in your past.
+
+PATIENT X552
+Yeah.
+
+DOCTOR X552
+You had child abuse.
+
+PATIENT X552
+Yeah.
+
+DOCTOR X552
+You're a smoker.
+
+PATIENT X552
+Yeah.
+
+DOCTOR X552
+Um you had blood in your urine and decreased urine.
+
+PATIENT X552
+Yeah.
+
+DOCTOR X552
+So you had a work-up outside @@@ then.
+
+PATIENT X552
+Yeah, yeah.
+
+DOCTOR X552
+That was all negative.
+
+PATIENT X552
+Yeah.
+
+DOCTOR X552
+And then uh and these are your medicines, you're on the prazosin.
+
+PATIENT X552
+Yeah.
+
+DOCTOR X552
+The terazosin.
+
+PATIENT X552
+Right.
+
+DOCTOR X552
+The hydroxyzine.  
+
+PATIENT X552
+Yeah.
+
+DOCTOR X552
+Are you still, are you taking the simvastatin cause it looks like you haven't filled it in a year so.
+
+PATIENT X552
+Yeah.
+
+DOCTOR X552
+The cholesterol medicine?
+
+PATIENT X552
+No I haven't been taking it.
+
+DOCTOR X552
+You haven't been taking it.
+
+PATIENT X552
+No.
+
+DOCTOR X552
+Okay.  And is there a reason why you're not actually taking it?
+
+PATIENT X552
+It don't do nothing.
+
+DOCTOR X552
+Um yes, I know it doesn't see that it seems like it doesn't do anything cause you can't feel it but your cholesterol actually was really, really high in April when they measured it.
+
+PATIENT X552
+It was?
+
+DOCTOR X552
+Yeah so you know.
+
+PATIENT X552
+And now you want to put me back on it right?  Alright, okay.
+
+DOCTOR X552
+It's a problem because you know you @@@ point for heart disease.
+
+PATIENT X552
+Okay.
+
+DOCTOR X552
+Because the reason that sometimes people get heart attacks is because they blocked plaques that build up.
+
+PATIENT X552
+Yeah.
+
+DOCTOR X552
+In the cholesterol and it blocks flow to their heart, they're kind of what we want to prevent.  So document that, it's not a medicine that you see the affects right away.
+
+PATIENT X552
+Yeah.
+
+DOCTOR X552
+But it's more of a preventative medicine.
+
+PATIENT X552
+Oh okay.
+
+DOCTOR X552
+So it's really important that you take it.
+
+PATIENT X552
+Okay gotcha.
+
+DOCTOR X552
+Okay and then um do you smoke still?
+
+PATIENT X552
+Yep.
+
+DOCTOR X552
+How much?
+
+PATIENT X552
+A lot.
+
+DOCTOR X552
+How much is a lot?
+
+PATIENT X552
+Oh about a pack a day.
+
+DOCTOR X552
+A pack a day.  For how many years?
+
+PATIENT X552
+40, 45 years.
+
+DOCTOR X552
+45 years okay and alcohol abuse?
+
+PATIENT X552
+No.
+
+DOCTOR X552
+Ever alcohol abuse?
+
+PATIENT X552
+No, not really.
+
+DOCTOR X552
+Which illegal drugs have you used in the past?
+
+PATIENT X552
+Cocaine.
+
+DOCTOR X552
+And snort, uh do you snort?
+
+PATIENT X552
+Pardon?
+
+DOCTOR X552
+Do you, what form did you use?
+
+PATIENT X552
+I smoke it.
+
+DOCTOR X552
+But no IV use?
+
+PATIENT X552
+Hell no I did @@2.
+
+DOCTOR X552
+And then um when was the last time you used?
+
+PATIENT X552
+I don't know a couple months ago.
+
+DOCTOR X552
+A couple months ago okay.  Anything else?
+
+PATIENT X552
+No that's it.
+
+DOCTOR X552
+That's it and do you have any family history of any disease?
+
+PATIENT X552
+No.
+
+DOCTOR X552
+And then I'm gonna go through a bunch of symptoms.  If you're having any symptoms just stop me and let me know.
+
+PATIENT X552
+Yeah.
+
+DOCTOR X552
+Fever, chills, weight loss, weight gain.
+
+PATIENT X552
+Say what?
+
+DOCTOR X552
+Fever, chills, weight loss.
+
+PATIENT X552
+I've had uh chills.
+
+DOCTOR X552
+What are they chills of your body basically or chills where you feel cold?
+
+PATIENT X552
+Become sweaty.
+
+DOCTOR X552
+Okay sweaty um weight loss, weight gain, headaches, changes in your vision, changes in your hearing, runny nose, stuffy nose, sore throat, cough, coughing up blood, chest pain, shortness of breath, shortness of breath when walking.
+
+PATIENT X552
+@@@.
+
+DOCTOR X552
+Feeling your heart beating real fast.
+
+PATIENT X552
+Oh you know what; you were going kind of fast.  The only thing I've really had is the sweating.
+
+DOCTOR X552
+And the acid.
+
+PATIENT X552
+And the acid.
+
+DOCTOR X552
+And that's it.
+
+PATIENT X552
+Uh the sweaty, acid at night and then the PTSD.
+
+DOCTOR X552
+So do you.
+
+PATIENT X552
+Yeah, yeah.
+
+DOCTOR X552
+Do you get the sweating with the PTSD?
+
+PATIENT X552
+Yeah, yeah.
+
+DOCTOR X552
+And then uh any problems with your urination?
+
+PATIENT X552
+Yeah I still have the prostate, yeah still.
+
+DOCTOR X552
+Difficulty starting a stream.
+
+PATIENT X552
+I could take it yeah.  No I don't have difficulty starting its difficult while you're going yeah, yeah.
+
+DOCTOR X552
+Maintaining the stream?
+
+PATIENT X552
+Going ahead to completing what I started.
+
+DOCTOR X552
+Do you feel like there's still urine @@@.
+
+PATIENT X552
+No she told me down in @@@ when feel filled up when they know I'm going to be empty is like that little curve that fills up before you get gas so she explained that to me, my doctor.
+
+DOCTOR X552
+So now @@@ problem.
+
+PATIENT X552
+My doctor, my doctor yeah.
+
+DOCTOR X552
+@@@ okay.
+
+PATIENT X552
+She explained that to me.
+
+DOCTOR X552
+Okay can I examine you?
+
+PATIENT X552
+If you want to.
+
+DOCTOR X552
+I want to just check.
+
+PATIENT X552
+Okay.  Okay so we got the @@@, you got that ordered right?
+
+DOCTOR X552
+Oh yeah I'll put it in just a second.  Do you want them to mail it to you?
+
+PATIENT X552
+No, no I'll pick it up.
+
+DOCTOR X552
+Okay I'll do it in just a second.
+
+PATIENT X552
+Yeah.  Yeah so the other one, the @@@ I had refills on those so.
+
+DOCTOR X552
+Uh-huh.
+
+PATIENT X552
+Yeah I'm cool.  There's still the pain over there @@@.
+
+DOCTOR X552
+Got some acid?
+
+PATIENT X552
+Yeah.
+
+DOCTOR X552
+Can you lay down for me for a second?
+
+PATIENT X552
+I'm coughing.  When I cough right here hurts real bad, they say it's supposed to be umbilical thing.
+
+DOCTOR X552
+Oh hernia right.  Did you ever go to get them done?
+
+PATIENT X552
+No but I changed my mind because it's not there, it's over here that's hurting you know it be hurting when I cough but I did feel a little bit a couple days ago when I.
+
+DOCTOR X552
+You have the hernia but you didn't want the surgery?
+
+PATIENT X552
+No I felt it though so really for the first time I felt it hurt there.  I got to work up my nerves up to get that.
+
+DOCTOR X552
+Okay can I, I'm going to lift up your shirt.  Is it @@@ behind here?
+
+PATIENT X552
+Yeah.
+
+DOCTOR X552
+Oh.
+
+PATIENT X552
+Right yeah.
+
+DOCTOR X552
+So right there okay.
+
+PATIENT X552
+And it ain't any worse than that that's why I decided to do the pain @@@.
+
+DOCTOR X552
+Is it here at all?
+
+PATIENT X552
+Right here, the one right here.  Right where I'm talking about, yeah especially right here, right there.
+
+DOCTOR X552
+When you're coughing.
+
+PATIENT X552
+Yeah if I cough a lot yeah.
+
+DOCTOR X552
+Can you sit up for me? 
+
+PATIENT X552
+Yeah.
+
+DOCTOR X552
+Can you just breathe in and out; just breathe through your mouth.  Breathe in.  Can you take socks off @@@?  I want to check your feet.  I need you to open your mouth for me, open your mouth say ah.
+
+PATIENT X552
+Ah.
+
+DOCTOR X552
+That's good.  And any swelling in your legs?
+
+PATIENT X552
+No.
+
+DOCTOR X552
+Not really.
+
+PATIENT X552
+Now this is just the same, that's @@@.
+
+DOCTOR X552
+Did you ever get that ultrasound of your belly they wanted last time?
+
+PATIENT X552
+Yeah I did it.
+
+DOCTOR X552
+Okay cause I didn't see it in the chart.
+
+PATIENT X552
+Uh they took an x-ray or whatever, a scan, uh a CAT scan.
+
+DOCTOR X552
+No, no an ultrasound.
+
+PATIENT X552
+No @@@ put some jelly on me and rub it, yes they did that.
+
+DOCTOR X552
+Yeah you did, let me check again.
+
+PATIENT X552
+Okay.  
+
+DOCTOR X552
+I don't see the record for it.
+
+PATIENT X552
+Okay.
+
+DOCTOR X552
+Yeah they don't have it.
+
+PATIENT X552
+So what you got to order one?
+
+DOCTOR X552
+Yeah we'll order it.
+
+PATIENT X552
+Okay.
+
+DOCTOR X552
+I'll be back in a second.
+
+PATIENT X552
+Okay.  I can put my coat back on right?
+
+DOCTOR X552
+Yeah you can do that.
+
+PATIENT X552
+Ooh.
+
+(DOCTOR OUT:  33:02  DOCTOR IN:  42:26)
+
+DOCTOR X552
+Hi PATIENT.  So I'm looking at, I'm gonna give you a prescription uh for the hydroxyzine and then also this medicine called ranitidine that's going to help with the acid reflux and then I'll see you back in three months and we'll want to see how the ranitidine is helping @@@ and then um I'm going to refill the simvastatin as well and then we're gonna check your lipids when you get back and you said you want to pick it up here right?  Okay.
+
+PATIENT X552
+Yes.  You say you'll schedule for x-ray?
+
+DOCTOR X552
+No, no it's like the other image that you got.
+
+PATIENT X552
+Yeah.
+
+DOCTOR X552
+@@@.
+
+PATIENT X552
+Yeah I told you that.
+
+DOCTOR X552
+So you don't have to worry about that.
+
+PATIENT X552
+Right, right I told you that.
+
+DOCTOR X552
+Yeah.
+
+PATIENT X552
+They did so much there.
+
+DOCTOR X552
+Yeah and you're gonna start the simvastatin right?
+
+PATIENT X552
+Huh?
+
+DOCTOR X552
+You're gonna start the simvastatin.
+
+PATIENT X552
+Yeah.
+
+DOCTOR X552
+Okay.  Okay and then I'll see you back in three months.
+
+PATIENT X552
+Alright.
+
+DOCTOR X552
+And that should be all.  I put in those meds so make sure you pick them up at the Pharmacy.
+
+PATIENT X552
+Okay.
+
+DOCTOR X552
+Okay, it's nice seeing you.
+
+PATIENT X552
+Alright, nice meeting you too.  Alright what's your name?
+
+DOCTOR X552
+DOCTOR.
+
+PATIENT X552
+DOCTOR glad to meet you.  You nice okay.
+
+DOCTOR X552
+Well that's good.
+
+PATIENT X552
+Okay thank you.
+
+DOCTOR X552
+Bye.
+
+PATIENT X552
+Alright.
+
+PATIENT LEAVES:  44:47.
+
+
+
+

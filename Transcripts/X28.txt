@@ -1,0 +1,1069 @@
+
+PATIENT X28
+Hello DOCTOR.
+
+DOCTOR X28
+How are you?  You've had kind of an eventful @@@ since the last time I saw you.
+
+PATIENT X28
+Good.  So you read my records?
+
+DOCTOR X28
+Of course.  @@@.
+
+PATIENT X28
+That's good, good, I'm doing good.
+
+DOCTOR X28
+You had a little bit of a @@@, sorry that happened.
+
+PATIENT X28
+I'm alright.
+
+DOCTOR X28
+You were not on aspirin were you?
+
+PATIENT X28
+No.
+
+DOCTOR X28
+We do not have you on aspirin.  I wanted to make sure that we didn't.  Yeah, you weren't on the aspirin I think.  It was only like six days after I saw you.
+
+PATIENT X28
+Yeah.
+
+DOCTOR X28
+Did it just happen like that?
+
+PATIENT X28
+No actually had had happened was that.
+
+DOCTOR X28
+@@@.
+
+PATIENT X28
+I was uh playing with my grandson.
+
+DOCTOR X28
+Oh.
+
+PATIENT X28
+And I flipped backwards and I hit my head.
+
+DOCTOR X28
+Got it.
+
+PATIENT X28
+And uh.
+
+DOCTOR X28
+That makes more sense.
+
+PATIENT X28
+So I thought uh, well what the heck, you know I've hit my head many times so what's the difference.  So I went to a primary doctor outside and they gave me some painkillers and I was having some headaches on and off until one day I got out of bed and I couldn't even put my foot in my slipper.  I called here and I gave them all the information.  They tell me if that's the case come right up so when they opened my head, there was a preview.
+
+DOCTOR X28
+It was an old one.
+
+PATIENT X28
+Old one in there but uh it stopped the draining when I conked my head the headaches stopped.  @@@ drain here and a drain here and.
+
+DOCTOR X28
+What did they think the old one was from?
+
+PATIENT X28
+I have no idea, wouldn't know, you know.
+
+DOCTOR X28
+But they thought @@@.
+
+PATIENT X28
+I don't know, that's a lot of them.  @@@ it took about three or four days.  @@@.
+
+DOCTOR X28
+How are you feeling now?
+
+PATIENT X28
+I feel fine.  I feel fine.  I feel good.  Sometimes I, I don't know when I open my eyes wide open.
+
+DOCTOR X28
+Uh-huh.
+
+PATIENT X28
+I feel like I'm stretching but all in all I feel, I feel good.
+
+DOCTOR X28
+What meds are you on right now?
+
+PATIENT X28
+Medication?  Okay I have simvastatin.
+
+DOCTOR X28
+Okay.
+
+PATIENT X28
+Uh I take a vitamin.
+
+DOCTOR X28
+Vitamin D, I have you on vitamin D.
+
+PATIENT X28
+This one here was prescribed by the hospital here and I did manage to get an order for the north.
+
+DOCTOR X28
+Expired.
+
+PATIENT X28
+It expired.
+
+DOCTOR X28
+So are you taking it?
+
+PATIENT X28
+Well you have to decided uh based on my blood pressure.
+
+DOCTOR X28
+Right.  I read the note by the neurosurgeon.
+
+PATIENT X28
+Yeah.  A little bit hyper.
+
+DOCTOR X28
+Are you on it now?
+
+PATIENT X28
+No.  I haven't taken it for about maybe a couple of weeks.
+
+DOCTOR X28
+You've been out for two weeks?
+
+PATIENT X28
+Yeah I ran out.
+
+DOCTOR X28
+I see your blood pressure is not that bad.  139/73.
+
+PATIENT X28
+The nurse that comes to see me a couple of times a month.
+
+DOCTOR X28
+Yeah.
+
+PATIENT X28
+She says uh my blood pressure is perfect, 120, 123 but it's a little bit hyper sometimes, it depends on you know, I got to tell my wife not to put salt in the food.
+
+DOCTOR X28
+139/73, given your other medical problems, I'm not necessarily inclined to treat it, to be honest with you.
+
+PATIENT X28
+Okay.
+
+DOCTOR X28
+Um you have relatively normal kidney functions um, you're not a diabetic.  The last time you were here you were like 157/90.
+
+PATIENT X28
+That was before.
+
+DOCTOR X28
+Right and that is why I wanted to start it.
+
+PATIENT X28
+Everything, everything is sky-rocketing and everything.
+
+DOCTOR X28
+Probably there are probably a lot of reasons for that.
+
+PATIENT X28
+Correct, correct.
+
+DOCTOR X28
+Even if I were to start you on it, I'll do half that dose okay.  I would do the 12.5 not the 25.
+
+PATIENT X28
+Hmm.  I'm taking my blood pressure myself.
+
+DOCTOR X28
+When do you check it at home and what is it?  I'll check it again @@@.
+
+PATIENT X28
+Yeah, probably lower.  Uh sometimes like in hyper, you know 130, 120.
+
+DOCTOR X28
+130.
+
+PATIENT X28
+Yes, 130, 120, 124, sometimes lower.
+
+DOCTOR X28
+How high does it get?
+
+PATIENT X28
+Um.
+
+DOCTOR X28
+Does it ever hit the 140 range?
+
+PATIENT X28
+I think so, I think, not a lot though.
+
+DOCTOR X28
+Once, twice.
+
+PATIENT X28
+Once, twice.
+
+DOCTOR X28
+When?  After activity or?
+
+PATIENT X28
+After activity or after yelling at the kids.
+
+DOCTOR X28
+So pretty normal reasons.
+
+PATIENT X28
+Normal reasons.  But I'm pretty sure it's gonna be lower when you take it now.  I uh, I'll take the medication if I really have to but I'd rather not if I don't.
+
+DOCTOR X28
+Okay, alright.
+
+PATIENT X28
+Now the other one, the tamsulosin, I'm not taking that.
+
+DOCTOR X28
+You're not taking the tamsulosin?
+
+PATIENT X28
+No.
+
+DOCTOR X28
+You stopped taking the calcium and simvastatin?
+
+PATIENT X28
+Correct.
+
+DOCTOR X28
+Cause tamsulosin @@@ correct right?
+
+PATIENT X28
+Yeah I wasn't doing good.
+
+DOCTOR X28
+Okay.  And you've been off of that for how long?
+
+PATIENT X28
+I would say a couple of months.
+
+DOCTOR X28
+Are you still seeing @@@ for the prostate?
+
+PATIENT X28
+Yes.  They took the PSA test the other day; they gave me a blood test.
+
+DOCTOR X28
+0.35 is what it came back.
+
+PATIENT X28
+So that's good.
+
+DOCTOR X28
+Good. 
+
+PATIENT X28
+Uh.
+
+DOCTOR X28
+And you're not have, you're not having lower urinary tract symptoms?
+
+PATIENT X28
+No.
+
+DOCTOR X28
+Okay.
+
+PATIENT X28
+I do get up two, three times at night.  I hate that.
+
+DOCTOR X28
+Oh you do.
+
+PATIENT X28
+Who wouldn't?
+
+DOCTOR X28
+Who wouldn't I agree.  I didn't know you were getting up at night.
+
+PATIENT X28
+Yeah I did get up.  I feel the pressure you know and I don't have to urinate a lot but, the pressure is there.  It's hard to take a nap in the afternoon to relax.
+
+DOCTOR X28
+(Doctor working on computer)  Make sure your vaccinations are up-to-date but did you get a flu shot this year?
+
+PATIENT X28
+Uh no, I'm gonna wait on that.
+
+DOCTOR X28
+You don't want that then?
+
+PATIENT X28
+Uh no, no.
+
+DOCTOR X28
+Why not?
+
+PATIENT X28
+Well I have mixed reasons.  Every time I take one, I catch a cold.
+
+DOCTOR X28
+Okay.
+
+PATIENT X28
+And with my uh @@@ I like to know like, play it cool, or easy.  I don't want to, I know of course you know after these, is this gonna be normal for me, is something gonna change?
+
+DOCTOR X28
+What over @@@.
+
+PATIENT X28
+With the @@@.
+
+DOCTOR X28
+But that happened a while ago.
+
+PATIENT X28
+It's going on, over 3 1/2 months.
+
+DOCTOR X28
+@@@.
+
+PATIENT X28
+So it should be okay.
+
+DOCTOR X28
+It should start cooling down again.
+
+PATIENT X28
+Yeah.
+
+DOCTOR X28
+You don't have to sleeves then?
+
+PATIENT X28
+Sometimes I do.
+
+DOCTOR X28
+But you're not a smoker if I remember.
+
+PATIENT X28
+No, right, about 35 years ago.
+
+DOCTOR X28
+I'm just keeping track of some of this stuff I uh.  @@@.
+
+PATIENT X28
+I keep myself busy, I keep myself occupied.
+
+DOCTOR X28
+You've had a ton of lab work recently so.
+
+PATIENT X28
+Yeah.
+
+DOCTOR X28
+All in all you're looking a whole lot better than I expected.  After reading some of these notes, I was a little afraid you know.
+
+PATIENT X28
+Uh my kids uh were told that it was gonna be uh, not drive for about six months, I'm gonna have to use the walker.
+
+DOCTOR X28
+You're walking fine.  Any neurologic deficits at all?
+
+PATIENT X28
+No, no, not at all.  That's why I don't think I need the.
+
+DOCTOR X28
+Gotcha.
+
+PATIENT X28
+The nurse that comes in, takes my pressure every other week.  
+
+DOCTOR X28
+It's been a while, it sounds like last year.  When did you start taking the thiazide, back in August, the hydrochlorothiazide?
+
+PATIENT X28
+Maybe.
+
+DOCTOR X28
+In September.
+
+PATIENT X28
+You mean for the.
+
+DOCTOR X28
+Blood pressure.
+
+PATIENT X28
+Oh, that's uh that's here.
+
+DOCTOR X28
+Right but that was in September.
+
+PATIENT X28
+In late September.
+
+DOCTOR X28
+Yeah it dropped your sodium a little bit.
+
+PATIENT X28
+My potassium was off, the sodium was off.
+
+DOCTOR X28
+Yeah.
+
+PATIENT X28
+Blood pressure was.
+
+DOCTOR X28
+Let's not restart it unless we absolutely have to now.
+
+PATIENT X28
+Okay.
+
+DOCTOR X28
+@@@.
+
+PATIENT X28
+Alright.
+
+DOCTOR X28
+You know we should do another cholesterol, I mean you might be due.  So you've been out of the simvastatin for a long time?
+
+PATIENT X28
+Yes, yes.
+
+DOCTOR X28
+Have you been on the same dose?
+
+PATIENT X28
+Yes, yes sir.
+
+DOCTOR X28
+@@@.
+
+PATIENT X28
+I would say six months, not long.
+
+DOCTOR X28
+Have they ever increased it?
+
+PATIENT X28
+No.
+
+DOCTOR X28
+No.  I'm gonna put you on 40 today; just take the full 40 one today.
+
+PATIENT X28
+Okay.  The simvastatin?
+
+DOCTOR X28
+Yeah instead of half a tab, just take the one tab.
+
+PATIENT X28
+Take the one tab.
+
+DOCTOR X28
+Yeah, alright.  It probably needs to change, really not change much.
+
+PATIENT X28
+Without even checking my blood?
+
+DOCTOR X28
+Well they've looked at it back in August.
+
+PATIENT X28
+Oh I see, okay.  So you see in the past.
+
+DOCTOR X28
+It's a little higher than I probably want it.
+
+PATIENT X28
+But everything was off at that time, everything.
+
+DOCTOR X28
+Yeah but do you know the cholesterol, it's usually not gonna affect the cholesterol; however, having high cholesterol puts you at risk for strokes.
+
+PATIENT X28
+Uh-huh.
+
+DOCTOR X28
+It's a different type of stroke.  If you bothered to not do it, you can hold off and then recheck eventually, I'm okay with that.
+
+PATIENT X28
+Well it's up to you.
+
+DOCTOR X28
+No, we work together here, we're a team.
+
+PATIENT X28
+I can have another blood test done, either here or outside and uh we'll uh.
+
+DOCTOR X28
+Cause you know what, although we don't treat total, we generally treat the number called the LDL.
+
+PATIENT X28
+Uh-huh.
+
+DOCTOR X28
+You're total is, I'd like it under 200 and it's 205.  The LDL you know @@@ and you do have hypertension and you've had a history of stroke I would feel like it @@@ under 100.
+
+PATIENT X28
+Alright.
+
+DOCTOR X28
+Okay?
+
+PATIENT X28
+You the man, you're the doctor.
+
+DOCTOR X28
+Okay, so we will go, let's go up to 40.
+
+PATIENT X28
+Take the whole thing?
+
+DOCTOR X28
+Yes.
+
+PATIENT X28
+Okay.
+
+DOCTOR X28
+I think, it's not, you're not gonna feel any different.  It's not, if you're feeling, if we checked it and its a little lower, then I think we can just track that down.
+
+PATIENT X28
+Okay.
+
+DOCTOR X28
+But having a little bit too low of cholesterol @@@ is not a bad thing.
+
+PATIENT X28
+Okay.
+
+DOCTOR X28
+Okay?  
+
+PATIENT X28
+So, yeah I do have another bottle, full bottle at home.
+
+DOCTOR X28
+Okay, I'll change it, they might send you more but you can always tell them not to.
+
+PATIENT X28
+Well you know by taking in half, you know it lasts quite a long time.
+
+DOCTOR X28
+So we'll put that in for you today.  You never made it to Greece then.
+
+PATIENT X28
+No (laughter).
+
+DOCTOR X28
+I'm really sorry about that.  That's a shame.
+
+PATIENT X28
+Alright, there's no way.
+
+DOCTOR X28
+I was reading here in my notes.  I read it before I came in, return in a month after patient returns from Greece.
+
+PATIENT X28
+Greece yeah and in a way I'm glad I didn't because if I would, if I would of got on the airplane, I probably wouldn't died.
+
+DOCTOR X28
+You might have, I think so, you head your head though, would you have hit your head?
+
+PATIENT X28
+What do you mean?
+
+DOCTOR X28
+Well you said you hit your hit your head a couple of days before you had the symptoms.
+
+PATIENT X28
+No that was about maybe a couple of months.
+
+DOCTOR X28
+Oh months ago you hit your head.
+
+PATIENT X28
+A couple of months before I came here.
+
+DOCTOR X28
+Oh so slow.
+
+PATIENT X28
+@@@.  I heard the bump.
+
+DOCTOR X28
+@@@ like that.  @@@.
+
+PATIENT X28
+Yeah and sometimes at night when I'd be watching TV, I couldn't hold my head someplace normal.  I @@@.
+
+DOCTOR X28
+You never told me that at the visit that you were feeling dizzy.
+
+PATIENT X28
+Uh.
+
+DOCTOR X28
+Did you?
+
+PATIENT X28
+I think so.  I wasn't really feeling dizzy.  I was feeling uncomfortable.
+
+DOCTOR X28
+Okay.
+
+PATIENT X28
+Uncomfortable and I thought it was probably my neck.  I thought it was my neck and I would put heating pads on my neck and I would uh move my head this way and that away and go to bed early.  Like I said until one day I got up and I couldn't put my foot in the slipper.
+
+DOCTOR X28
+Wow.
+
+PATIENT X28
+Anyway.
+
+DOCTOR X28
+Good for you that everything.
+
+PATIENT X28
+It worked out okay.
+
+DOCTOR X28
+It worked out okay.
+
+PATIENT X28
+I uh, I'm thankful the people here, I'm glad I came here because I figured if I would've went outside, by the time those people find out how to get their money or who to contact for my records.
+
+DOCTOR X28
+I want keep a set of labs first, do you mind?
+
+PATIENT X28
+No.
+
+DOCTOR X28
+The hemoglobin was a little low and generally everything is coming back normal.  I'll recheck your cholesterol too.  You have to be fasting but that's okay.
+
+PATIENT X28
+That's okay.
+
+DOCTOR X28
+Its okay, it's not gonna give me the best information but it'll give me some information.
+
+PATIENT X28
+Alright.  So I should take the blood test then.
+
+DOCTOR X28
+Yeah we'll get some blood @@@.  Um, alright hop up over here.  Since we're done with the chatting, just the exam alright.
+
+PATIENT X28
+Okay, should I take anything off?
+
+DOCTOR X28
+Yeah, your jacket.
+
+PATIENT X28
+@@@.
+
+DOCTOR X28
+That's fine.  If you don't mind @@@.  Any rash or skin changes or anything like that that you've noticed?  Okay.  Alright, shoes.  Give me a deep breath.  Okay.  Good.  Deep breath and hold it, good.  Another deep breath and hold it.  Say ah.
+
+PATIENT X28
+Ah.
+
+DOCTOR X28
+Good.  Stick your tongue out for me, good.  @@@.  Are you eating good?  Okay.
+
+PATIENT X28
+Yes.
+
+DOCTOR X28
+No loss of appetite?
+
+PATIENT X28
+I don't think so, I eat good.
+
+DOCTOR X28
+@@@.
+
+PATIENT X28
+@@@.
+
+DOCTOR X28
+Huh?
+
+PATIENT X28
+I did have a doctor outside.
+
+DOCTOR X28
+Okay.
+
+PATIENT X28
+But if he won't accept @@@ made an appointment here.
+
+DOCTOR X28
+To see the eye doctor?
+
+PATIENT X28
+Yeah.
+
+DOCTOR X28
+Perfect.  Good luck with it.  Oh oops, I'm sorry, what's going on back there?
+
+PATIENT X28
+(Laughter).
+
+DOCTOR X28
+Shame on me.  @@@ anything.
+
+PATIENT X28
+(Laughter).
+
+DOCTOR X28
+Not the devices problem, it's my problem.  I don't like the automated machines they use out there.
+
+PATIENT X28
+Oh.
+
+DOCTOR X28
+Cause sometimes it doesn't give you accurate numbers.  A little bit higher.
+
+PATIENT X28
+What?  What'd you find?
+
+DOCTOR X28
+I got like 143/85.
+
+PATIENT X28
+Okay.
+
+DOCTOR X28
+So we might have to put you on the low dose of that medicine alright?  Um and then in two weeks what we'll do is we'll bring you back for another blood pressure and uh we will check a lab at that time and make sure your potassium and everything is not out of whack.
+
+PATIENT X28
+Okay.
+
+DOCTOR X28
+Okay, so we'll get, we should get a baseline @@@.  Okay?
+
+PATIENT X28
+I got to take a blood test today?
+DOCTOR X28
+You will cause I want to have something to compare.  Your last one was while you were in the hospital.  Some of the lab work was a little funky.  
+
+PATIENT X28
+Yeah.
+
+DOCTOR X28
+I want to make sure everything has kind of gotten better.
+
+PATIENT X28
+Okay.
+
+DOCTOR X28
+Okay.
+
+PATIENT X28
+And then uh, you're gonna mail these.
+
+DOCTOR X28
+Well if you want, you could pick it up today.
+
+PATIENT X28
+Uh-huh.
+
+DOCTOR X28
+Okay and for example if that blood pressure medication is doing weird things to your system, we have others okay.
+
+PATIENT X28
+It didn't do anything wrong.
+
+DOCTOR X28
+Okay.  Well no sometimes it can make the potassium go down, it can slow @@@.
+
+PATIENT X28
+Oh, oh I see.
+
+DOCTOR X28
+We don't want that to happen.
+
+PATIENT X28
+Okay.
+
+DOCTOR X28
+Okay.
+
+PATIENT X28
+So.
+
+DOCTOR X28
+Hang tight and I'll have you out of here in about three minutes.
+
+PATIENT X28
+Stay here?
+
+DOCTOR X28
+Yeah.
+
+PATIENT X28
+Okay.
+
+DOCTOR X28
+For now.
+
+(DOCTOR OUT:  61:29  DOCTOR IN:  67:36
+
+PATIENT X28
+So.
+
+DOCTOR X28
+So, I mean everything is set.
+
+PATIENT X28
+Okay.
+
+DOCTOR X28
+Um we're gonna put you on the hydrochlorothiazide, that pill that you were taking.
+
+PATIENT X28
+Uh-huh.
+
+DOCTOR X28
+12.5 mg okay.
+
+PATIENT X28
+Yeah.
+
+DOCTOR X28
+Half a pill.
+
+PATIENT X28
+Uh-huh.
+
+DOCTOR X28
+And then the cholesterol pill.
+
+PATIENT X28
+The whole.
+
+DOCTOR X28
+Whole 40 mg.
+
+PATIENT X28
+Okay.
+
+DOCTOR X28
+Um I'll either have this be mailed to you or you can pick it up today, what would you prefer?
+
+PATIENT X28
+You can mail it.
+
+DOCTOR X28
+I'll mail it.
+
+PATIENT X28
+Okay @@@.
+
+DOCTOR X28
+And then I'm gonna get you @@@.  How long does it take if I put in the medication today, how long does it take to get out to you?
+
+PATIENT X28
+Two days.
+
+DOCTOR X28
+Really?
+
+PATIENT X28
+Yeah.
+
+DOCTOR X28
+Like Wednesday through Thursday you'll have it?
+
+PATIENT X28
+Wednesday @@@.  
+DOCTOR X28
+Well I want you on the medication for at least a week before they check this stuff okay.
+
+PATIENT X28
+Yes she's gonna come in and check to make sure and.
+
+DOCTOR X28
+Draw labs uh-huh.  Does she draw labs?
+
+PATIENT X28
+She could.
+
+DOCTOR X28
+Is that from the VA?
+
+PATIENT X28
+I have no idea of where those people come from uh.
+
+DOCTOR X28
+Well if you can come here, why don't you come here.
+
+PATIENT X28
+You want me to come here?
+
+DOCTOR X28
+It would be preferred yeah.
+
+PATIENT X28
+I can come.
+
+DOCTOR X28
+It'd be better @@@ to have you come here.  Um otherwise they can set it up for you to get it at home.
+
+PATIENT X28
+@@@.
+
+DOCTOR X28
+The nurses.
+
+PATIENT X28
+The nurses can get a blood draw.  I can, I can come here early.  @@@ Monday, should I come in Monday?
+
+DOCTOR X28
+No we can give the blood today.
+
+PATIENT X28
+Today.
+
+DOCTOR X28
+But there's gonna be @@@ we need to recheck your blood pressure too.
+
+PATIENT X28
+Oh.
+
+DOCTOR X28
+To make sure, cause sometimes this medication can cause your sodium to drop.
+
+PATIENT X28
+Okay.
+
+DOCTOR X28
+And it can cause your potassium to drop.  There are side effects that we keep an eye on, especially given the recent head you know issues, I want to make sure that everything a) is back to normal now and b) it stays normal after we check it.
+
+PATIENT X28
+Okay.
+
+DOCTOR X28
+Okay?
+
+PATIENT X28
+Good.
+
+DOCTOR X28
+Three weeks and then three months with me.
+
+PATIENT X28
+Okay.  Uh, I'm gonna be notified.
+
+DOCTOR X28
+For sure.  Uh you want to go to the Lab today?
+
+PATIENT X28
+Today yeah.  Who gets this?
+
+DOCTOR X28
+That goes back to the front desk.
+
+PATIENT X28
+Okay.
+
+DOCTOR X28
+Alright?
+
+PATIENT X28
+That's all I need?
+
+DOCTOR X28
+Yeah, we're good.
+
+PATIENT X28
+@@@.
+
+DOCTOR X28
+@@@.  That sounds very nice.
+
+PATIENT X28
+Like a.
+
+DOCTOR X28
+I better remember that.  That sounds very @@@.
+
+PATIENT X28
+What that means.
+
+DOCTOR X28
+That was closer to what I @@@ when I first got to call you, I was going to say PATIENT
+
+PATIENT X28
+PATIENT.
+
+DOCTOR X28
+What does that mean?
+
+PATIENT X28
+It means when you're facing the sun.
+
+DOCTOR X28
+Okay.
+
+PATIENT X28
+You're PATIENT, in Greek you know the sun is called idios.
+
+DOCTOR X28
+Idios.
+
+PATIENT X28
+PATIENT, so if you are facing the sun, you are PATIENT, like sunny side.
+
+DOCTOR X28
+Sunny side up.
+
+PATIENT X28
+Okay, so that's what, but I think my uh you know people before me, were probably cold and they were waiting for the sun to come up so they warm themselves up so they were facing the sun.  But anyway.
+
+DOCTOR X28
+That's very interesting.  I never heard @@@.
+
+PATIENT X28
+But uh that's what it is, so I left it.  A lot of people asked me to change it but I wasn't going to change it.
+
+DOCTOR X28
+Okay, it's a beautiful name.
+
+PATIENT X28
+Leave it alone, thank you very much.
+
+DOCTOR X28
+Take care.
+
+PATIENT X28
+Okay doctor.
+
+DOCTOR X28
+@@@.
+
+PATIENT X28
+Alright.
+
+DOCTOR X28
+Okay.
+
+PATIENT LEAVES:  71:16
+
+Time is 3:40.
+
+
+

@@ -1,0 +1,605 @@
+
+DOCTOR X401
+PATIENT.  Hi nice to meet you.  How are you?
+
+PATIENT X401
+I'm pretty good.
+
+DOCTOR X401
+You got a note?
+
+PATIENT X401
+Yes.
+
+DOCTOR X401
+It's kind of wet, come on back.  @@@.  How are feeling today?
+
+PATIENT X401
+I am, I'm feeling good.
+
+DOCTOR X401
+Oh yeah.
+
+PATIENT X401
+Feeling good.
+
+DOCTOR X401
+Good, alright.  It's been a while since we've seen you by the way.
+
+PATIENT X401
+@@@ came in here not long ago I was having um breathing problems so that's why.
+
+DOCTOR X401
+That's right in late October right.
+
+PATIENT X401
+Right.
+
+DOCTOR X401
+Um how has that been for you?
+
+PATIENT X401
+It's been going really good.
+
+DOCTOR X401
+Okay.
+
+PATIENT X401
+I haven't had no problems.
+
+DOCTOR X401
+No more breathing problems now.
+
+PATIENT X401
+No.
+
+DOCTOR X401
+Okay, I'm going to pull up your chart for a moment.  Alright.  Okay when you were driving you become real lightheaded?
+
+PATIENT X401
+Right yes.
+
+DOCTOR X401
+So a couple of things um, looks like your pressure's a little bit high.
+
+PATIENT X401
+Yeah that might be from, you know I woke up this morning with the intentions of doing other things.
+
+DOCTOR X401
+Uh-huh.
+
+PATIENT X401
+And then it dawned on me that I had a doctor's appointment like around 7:30.
+
+DOCTOR X401
+Uh-huh okay.
+
+PATIENT X401
+Then I had to drop everything.
+
+DOCTOR X401
+Oh sure.
+
+PATIENT X401
+That I had planned to do this morning.
+
+DOCTOR X401
+Okay.
+
+PATIENT X401
+And try to come out here to you know be on time at 8:30.
+
+DOCTOR X401
+Uh-huh.
+
+PATIENT X401
+So I really have been rushing.
+
+DOCTOR X401
+Okay.
+
+PATIENT X401
+Since I got up this morning and that may have contributed to my, you know blood pressure being so high.
+
+DOCTOR X401
+Okay.
+
+PATIENT X401
+I think that's it.
+
+DOCTOR X401
+I want to see, I'm just trying to take a quick look and see how many @@@.  Um well um a couple of things um, did you get the flu shot yet this year, a regular flu shot?
+ 
+PATIENT X401
+No I didn't.
+
+DOCTOR X401
+Okay would you like one today?
+
+PATIENT X401
+Uh not today.
+
+DOCTOR X401
+Today okay.  Will you come back for one?
+
+PATIENT X401
+Yes.
+
+DOCTOR X401
+Okay.  It @@@ calcium the last couple of times.  We'll take a look at your @@@ okay.  Do you have any trouble.
+
+PATIENT X401
+Say um you know @@@ to get a chance to @@@ down myself.
+
+DOCTOR X401
+Oh yeah.
+
+PATIENT X401
+Okay.  DOCTOR.
+
+DOCTOR X401
+Cause it doesn't look like you've had high blood pressures since the last time you were here only a few months ago.
+
+PATIENT X401
+Okay.
+
+DOCTOR X401
+Um how and you need any assistance?
+
+PATIENT X401
+No, I'm feeling great.
+
+DOCTOR X401
+You're feeling good alright, alright.
+
+PATIENT X401
+Feeling great.
+
+DOCTOR X401
+Alright.
+
+PATIENT X401
+No I had a hip replacement and I think I got a follow-up on that on the 30th.
+
+DOCTOR X401
+Okay.
+
+PATIENT X401
+And uh like I was telling the receptionist out there I've got to, I got two appointments on the 30th but I need to cancel one of them out.
+
+DOCTOR X401
+Uh-huh.
+
+PATIENT X401
+So he can see my @@@ called in.
+
+DOCTOR X401
+Yeah.
+
+PATIENT X401
+I should have made the date for one of them.
+
+DOCTOR X401
+Hmm, let's see okay.  And @@@ I just want to make sure you have all your medicine, @@@.  It looks like your cholesterol is a little high.
+
+PATIENT X401
+Uh-huh.
+
+DOCTOR X401
+Back in July.
+
+PATIENT X401
+Right.
+
+DOCTOR X401
+Okay.  So are you on any medication for that or?
+
+PATIENT X401
+None at all, none at all.  @@@ people doing things.  Trying to keep from @@@ going on medications.
+
+DOCTOR X401
+Oh definitely, um I think the only thing that we need @@@.
+
+PATIENT X401
+Uh DOCTOR mentioned that.
+
+DOCTOR X401
+Uh-huh.
+
+PATIENT X401
+At one point uh it might be time for me to go get a colonoscopy again.
+
+DOCTOR X401
+Uh-huh.
+
+PATIENT X401
+But that was because I think what like three years ago I went through it and I had polyps then and I guess I kind of wasn't rushing to go through it again.
+
+DOCTOR X401
+I know.  It's not the most pleasant kind of thing to do.
+
+PATIENT X401
+@@@ um somewhere toward the you know first of next year.
+
+DOCTOR X401
+We can do that.
+
+PATIENT X401
+Okay.
+
+DOCTOR X401
+We can get that you know um started on you know.  I can go ahead and just put that in the computer.  They're not going to schedule you until after the first of the year.
+
+PATIENT X401
+Right.
+
+DOCTOR X401
+So what we can do is get it set up and get all the labs on that. I can get you into the class again, kind of um like back in @@@ when you had it and um @@@ have you get back again @@@.  So @@@.
+
+PATIENT X401
+Oh okay.
+
+DOCTOR X401
+Yeah.  So that's why we mention it to you know @@@ program.
+
+PATIENT X401
+Okay.
+
+DOCTOR X401
+How's this?
+
+PATIENT X401
+Yeah.
+
+DOCTOR X401
+Any chest pain, trouble getting around?
+
+PATIENT X401
+No.
+
+DOCTOR X401
+Okay.
+
+PATIENT X401
+No, no.
+
+DOCTOR X401
+Alright.  Hop on there, relax your arm and I'm going to take your blood pressure again.  Just give me your arm.
+
+PATIENT X401
+Okay.
+
+DOCTOR X401
+You guys talked about the MRI right?  Of your brain where they found old strokes?
+
+PATIENT X401
+Right, right.  DOCTOR mentioned that to me.
+
+DOCTOR X401
+Uh-huh.
+
+PATIENT X401
+When we went through it before and then he said something about how he was going to recheck and I was gonna get a phone call and then he recommended I go through a follow-up to make sure that everything's still.
+
+DOCTOR X401
+@@@ a couple of things that um can cause the stroke and things like that.  High blood pressure and high cholesterol um so @@@ your stroke @@@ blood pressure @@@ more than the cholesterol.  The location helps that, typically more @@@ with um high blood pressure.  So that's what we want to treat.  It's not as high as it was before.  @@@.  So it's coming down but it's still high um.  I'd like to check with DOCTOR cause one of the things is having @@@ MRI we've got you @@@.  Um some of the things that um can help in terms of uh you know things you can do now to keep your blood pressure under control is to make sure you limit the salt in your diet.  Unfortunately a lot of the canned food and um things that come in packages have a lot of salt um, things that people get a restaurant often have a lot of salt to make it taste good.
+
+PATIENT X401
+Right, right.
+
+DOCTOR X401
+You know um but if you're going to you know do the cooking in the house.
+
+PATIENT X401
+Um.
+
+DOCTOR X401
+Who does you?
+
+PATIENT X401
+Mostly.
+
+DOCTOR X401
+You mostly do it?
+
+PATIENT X401
+Yeah.
+
+DOCTOR X401
+So getting @@@ sodium content um.  Try to use a little bit less, you can still season, using the salt when you're cooking but @@@.  @@@ when you're doing that but it can definitely help in terms of um lowering your @@@.
+
+PATIENT X401
+Okay.
+
+DOCTOR X401
+Un give me some nice deep breaths.  Excellent.  @@@.
+
+PATIENT X401
+Oh @@@.
+
+DOCTOR X401
+@@@.  And you're walking around at home?
+
+PATIENT X401
+No.  I think one of the things that caused this sleeping problem the last time.
+
+DOCTOR X401
+Yeah.
+
+PATIENT X401
+I had taken a lot of vitamin pills cause I was coming down with a cold.
+
+DOCTOR X401
+Okay.
+
+PATIENT X401
+And @@@ take a vitamin, vitamin pills.
+
+DOCTOR X401
+Uh-huh.
+
+PATIENT X401
+The first time you take them you take four, the next time three, the next time you know two.
+
+DOCTOR X401
+Uh-huh.
+
+PATIENT X401
+And then you come down to taking one.
+
+DOCTOR X401
+That's interesting.  I don't know maybe.
+
+PATIENT X401
+If that you know.
+
+DOCTOR X401
+I actually haven't heard of that um but you know it's hard cause we don't really have a good idea of what with the cold and stuff like issue.  Um sometimes one of the things that some people that helps and has actually been studied and seen you know like a @@@ kind of thing.
+
+PATIENT X401
+Zinc.
+
+DOCTOR X401
+So uh-huh, so it's something people particularly believe in that, like when you first feel a sore throat coming on within 24 hours or something like that, sometimes it kind of shortens the duration of the cold.
+
+PATIENT X401
+Okay.
+
+DOCTOR X401
+That's the only thing that's been actually like scientifically studied to really really help.  Mostly other things in terms they just kind of help the symptoms, the runny noses you know and the cough syrup and things like that.
+
+PATIENT X401
+Yeah.
+
+DOCTOR X401
+Ultimately its hard to @@@.
+
+PATIENT X401
+It just has to wear itself off.
+
+DOCTOR X401
+Yeah, yeah.  But sometimes @@@ there is a study about the zinc you know like will shorten the duration if you get it early enough.
+
+PATIENT X401
+Okay.
+
+DOCTOR X401
+That's what they say.  That's the only thing I know.
+
+PATIENT X401
+Yeah.
+
+DOCTOR X401
+So um.
+
+PATIENT X401
+Okay, @@@ something.
+
+DOCTOR X401
+Oh okay well.
+
+PATIENT X401
+That's uh; don't have no kind of degree behind their name or anything like that.
+
+DOCTOR X401
+That's okay, it's you know.
+
+PATIENT X401
+You people seem to say different stuff like that.
+
+DOCTOR X401
+Whatever you know whatever works for you, I'm glad you're not coughing anymore.  Um yeah.  I think and you saw the eye doctors.  So if you know the concern that I have is you may and I know you don't want to take any medicines and you know you want to work on the blood pressure yourself.  Um I'd like to.
+
+PATIENT X401
+@@@ you know I have an idea why my blood pressure is high today.
+
+DOCTOR X401
+Uh-huh okay.
+
+PATIENT X401
+Because I got one of those @@@.
+
+DOCTOR X401
+Oh you do good.
+
+PATIENT X401
+Yeah so that's I take it from time to time and I just am, I haven't used it in the past.
+
+DOCTOR X401
+That okay.
+
+PATIENT X401
+About a week.
+
+DOCTOR X401
+Sure um why don't we do this, if you have a monitor at home which is like perfect, exactly kind of what I was going for, let's and you come back when again?
+
+PATIENT X401
+@@@.
+
+DOCTOR X401
+Just you have another appointment?
+
+PATIENT X401
+Probably about another week.
+
+DOCTOR X401
+Another week okay, let's do this, let me see if we can get you scheduled for a @@@ which is a little bit easier to get into to see them.  I want you to take your blood pressure and temp every day in the morning at the same time or whatever and @@@ and then you can make a log of what your blood pressure's have been doing and then if they're still running high then maybe consider starting a really low dose of something that could help okay.  But only if it's high but if your logs shows you know that everything's okay and you know its low and all that stuff then you won't need anything to help it.  Does that sound like a good plan?
+
+PATIENT X401
+Sounds good.
+
+DOCTOR X401
+Okay.
+
+PATIENT X401
+That's good.  That's good.  Um I'm going to schedule an appointment to see the orthopedist. 
+
+DOCTOR X401
+Okay.
+
+PATIENT X401
+I @@@ I have a @@@ on the 30ths as well.
+
+DOCTOR X401
+Okay.
+
+PATIENT X401
+Same time, 9:30.
+
+DOCTOR X401
+Okay.
+
+PATIENT X401
+And I'm going to call them up.
+
+DOCTOR X401
+Reschedule.
+
+PATIENT X401
+And reschedule to see them and if I could work it out where I could come out.
+
+DOCTOR X401
+The same day.
+
+PATIENT X401
+Yeah.
+
+DOCTOR X401
+@@@ yep that's fine.  We'll try to get that taken care of.  Give me one second.
+
+PATIENT X401
+Oh.
+
+DOCTOR X401
+Let me just talk to DOCTOR real quick.
+
+PATIENT X401
+Okay.
+
+DOCTOR X401
+Alright and I'll be right back.
+
+(DOCTOR OUT:  42:49  DOCTOR IN:  48:25)
+
+DOCTOR X401
+Okie doke.  Uh DOCTOR agreed we'll have you try the home monitoring for a little while and so you know bring in the machine that have you monitoring and at that time we can @@@.
+
+PATIENT X401
+Right.
+
+DOCTOR X401
+Yeah and the only reason we're doing that is because you have had a stroke before you know on the head scan and we just want to make sure and have @@@ okay.  So does that sound like a plan?
+
+PATIENT X401
+Yeah.
+
+DOCTOR X401
+Cause otherwise you know we'll just let it be but the problem with high blood pressure is @@@.  Okay.  That's it.  You can go give this to the receptionist.
+
+PATIENT X401
+Oh okay.  Okay.
+
+DOCTOR X401
+And so and then they'll mail you a letter about the colonoscopy screening and all of that, like they did last time.
+
+PATIENT X401
+Oh okay.  Okay.
+
+DOCTOR X401
+And I'm going to give you a form, let me see.
+
+PATIENT X401
+I just got to work on trying to quit salt to bring it down.
+
+DOCTOR X401
+Low salt.
+
+PATIENT X401
+Low salt.
+
+DOCTOR X401
+Low salt.
+
+PATIENT X401
+Okay.  Salt, that's a problem.
+
+DOCTOR X401
+Yep we don't want you to have a stroke cause that happened to one of my patients just two months ago and it was kind of sad because now he has to walk with a cane and I don't you know so.
+
+PATIENT X401
+@@@.
+
+DOCTOR X401
+Yeah exactly especially with your history of hip replacement and all those things you know.
+
+PATIENT X401
+Yeah.
+
+DOCTOR X401
+We can't replace some of those, @@@.
+
+PATIENT X401
+Definitely.  So I'll call up, I'm going to call the Ortho and reschedule.
+
+DOCTOR X401
+They may be able to actually do it right at the front.  You can have them see if there's another time @@@.
+
+PATIENT X401
+Uh-huh.
+
+DOCTOR X401
+@@@ and they'll change it for you okay.
+
+PATIENT X401
+Right @@@.
+
+DOCTOR X401
+Here's the form.  Okay and I'll see you in three to four months @@@.  Okay and then @@@.
+
+PATIENT X401
+Okay.
+
+DOCTOR X401
+Okay.
+
+PATIENT X401
+Okay thank you so much.
+
+DOCTOR X401
+Okay.  Take care PATIENT.
+
+PATIENT X401
+Okay.
+
+DOCTOR X401
+@@@.
+
+PATIENT X401
+Okay.
+
+PATIENT LEAVES:  51:11
+
+
+
+

@@ -1,0 +1,701 @@
+
+DOCTOR X709
+PATIENT.  How are you today sir?
+
+PATIENT X709
+I'm good.
+ 
+DOCTOR X709
+@@@.  Come on back.
+
+PATIENT X709
+Okay.
+
+DOCTOR X709
+How you doing?
+
+PATIENT X709
+I'm good.
+
+DOCTOR X709
+Good. Alright have a seat.  How you doing sir?
+
+PATIENT X709
+Oh not so bad I guess.
+
+DOCTOR X709
+Alright.  Let me bring you up here.  Uh when did I see you last here, August huh?  Over the summertime.
+
+PATIENT X709
+It was the last visit with you?
+
+DOCTOR X709
+Yeah.
+
+PATIENT X709
+Yes it was about that time.
+
+DOCTOR X709
+Around four or four and a half months maybe.  
+
+PATIENT X709
+Yeah.
+
+DOCTOR X709
+How have things been going at home?
+
+PATIENT X709
+Oh pretty well.
+
+DOCTOR X709
+Yeah.
+
+PATIENT X709
+I have some problems stemming from my childhood and I wanted, trauma from my childhood.
+
+DOCTOR X709
+Uh-huh.
+
+PATIENT X709
+And the service too.
+
+DOCTOR X709
+Uh-huh.  Is that what you're seeing Psychology for?
+
+PATIENT X709
+Yes.
+
+DOCTOR X709
+Okay.
+
+PATIENT X709
+I'm just following with @@@.
+
+DOCTOR X709
+Okay.
+
+PATIENT X709
+See if they can help me.
+
+DOCTOR X709
+Well let's see, how are your medicines doing?
+
+PATIENT X709
+Uh they seem to be working alright.  I take uh; I take this saw palmetto, saw palmetto.
+
+DOCTOR X709
+Yeah.  Uh-huh.
+
+PATIENT X709
+When I have trouble with my urinating and uh.
+
+DOCTOR X709
+Uh-huh.
+
+PATIENT X709
+I have that problem and it seems to help kind of.
+
+DOCTOR X709
+The saw palmetto okay.
+
+PATIENT X709
+Yeah.
+
+DOCTOR X709
+And uh your inhalers you're still taking?
+
+PATIENT X709
+Yes I, I take them as needed I guess.
+
+DOCTOR X709
+Well those we want you to be taking all the time.
+
+PATIENT X709
+Well the ones at home I uh, the I have two of them at home I take uh.
+
+DOCTOR X709
+Yeah.
+
+PATIENT X709
+Let's see there's just this uh machine.
+
+DOCTOR X709
+Uh-huh.
+
+PATIENT X709
+And then there's the one that uh I forget what it's called right now.
+
+DOCTOR X709
+Now there's Symbicort.
+
+PATIENT X709
+Symbicort.
+
+DOCTOR X709
+That's the one that you take twice a day and there's just one you take once a day.
+
+PATIENT X709
+Symbicort, the one that I take once a day seems to be more effective than the one I used to take twice a day.
+
+DOCTOR X709
+Yeah I mean they're all good combinations with each other though.
+
+PATIENT X709
+Uh-huh.
+
+DOCTOR X709
+So even though one may make you feel better right away, it's good in the long term to keep using them like that.
+
+PATIENT X709
+Uh-huh.
+
+DOCTOR X709
+They're different types of medicines.
+
+PATIENT X709
+Yes.
+
+DOCTOR X709
+But you're taking both of those every day?
+
+PATIENT X709
+Uh actually I'm only taking one now; I forget the name of it uh, uh right now let's see.  I should have written this down but.
+
+DOCTOR X709
+Uh-huh.  Yeah um I'd like for you to take all of them though um.  Is there a reason you're not taking the other one?
+
+PATIENT X709
+Well it just didn't seem to be very effective and uh so I finally gave it up completely.
+
+DOCTOR X709
+Okay.  I'd like you to take both though if you can.
+
+PATIENT X709
+Okay.  Okay.
+
+DOCTOR X709
+So I think it's the twice a day one you're probably not taking.
+
+PATIENT X709
+Yeah.
+
+DOCTOR X709
+You didn't bring your medicines with you you said?
+
+PATIENT X709
+No I didn't, I should've, I'm sorry.
+
+DOCTOR X709
+Okay, okay.  Well today do you need any medicines?  Do you need that inhaler we're talking about or any of your inhalers or your?
+
+PATIENT X709
+Well the pocket inhalers I'm pretty well.
+
+DOCTOR X709
+Yeah.
+
+PATIENT X709
+Wide with them and the ones at home I had the medication for those too.
+
+DOCTOR X709
+And you have the other inhaler, the one you're not using, you have that one still?
+
+PATIENT X709
+Yeah, I actually have that yeah.
+
+DOCTOR X709
+Okay and then the you know the albuterol one, that one probably you @@@.
+
+PATIENT X709
+I'm really not sure just how much of any of those I have left so I haven't used them for quite a while actually.
+
+DOCTOR X709
+Okay I'll make sure you have refills of everything.  Do you need anything mailed to you right now?
+
+PATIENT X709
+Uh.
+
+DOCTOR X709
+It looks like you ran out of your cholesterol pill and all this stuff you haven't been taking for a while.
+
+PATIENT X709
+Well the trouble is when they mail the.
+
+DOCTOR X709
+Yeah.
+
+PATIENT X709
+Medication if it won't fit in the mailbox I have to drive the ten miles round trip to pick it up at the post office.
+
+DOCTOR X709
+Oh.  Your cholesterol pill and your prostate pill, looks like you're not taking those anymore is that right or?
+
+PATIENT X709
+Cholesterol.
+
+DOCTOR X709
+Cholesterol pill yeah your simvastatin.  You haven't picked those up since June.
+
+PATIENT X709
+Simvastatin, yeah I take those on a regular basis I think yes.
+
+DOCTOR X709
+Yeah.  Okay.  Um okay so it looks like you need refills of that then um.  Let's see, otherwise your breathing's been okay?
+
+PATIENT X709
+Pardon?
+
+DOCTOR X709
+Your breathing's been okay?
+
+PATIENT X709
+Yeah breathing has been pretty good yeah.
+
+DOCTOR X709
+No cough, no chills.
+
+PATIENT X709
+No, no.
+
+DOCTOR X709
+Or sweats, nothing like that.  You know you had that lung infection before so I just wanted to see what's going on.
+
+PATIENT X709
+I cough once in a while but uh.
+
+DOCTOR X709
+Yeah.
+
+PATIENT X709
+Not very often.
+
+DOCTOR X709
+Are you still using that treadmill or anything like that?
+
+PATIENT X709
+No I've got to get back to that I think.  I need to get some, I need to exercise.
+
+DOCTOR X709
+Yeah.  And you told you used to use the treadmill but you got bored with it after a couple of minutes.
+
+PATIENT X709
+Yeah.  I had it rigged up to a TV I could watch but that doesn't work.  I just uh, this what is it, what is it, I was just trying to think of the name of this uh @@@ company.
+
+DOCTOR X709
+I'm just looking at your notes.  @@@.
+
+PATIENT X709
+I'm gonna change my, I'd better change my provider for my computer and TV.
+
+DOCTOR X709
+Okay, alright um alrighty and you still drinking a couple drinks a day?
+
+PATIENT X709
+I drink red wine, sweet red wine.
+
+DOCTOR X709
+Uh-huh.
+
+PATIENT X709
+Buy a gallon of it for about $10.
+
+DOCTOR X709
+Uh but how many drinks a day do you have?
+
+PATIENT X709
+Maybe one or two.
+
+DOCTOR X709
+Okay.
+
+PATIENT X709
+I don't have a great craving for alcohol.  Sometimes I these days I, some days I don't even take it to drink a drop.
+
+DOCTOR X709
+Yeah.
+
+PATIENT X709
+I have lots of alcoholic beverages at home.
+
+DOCTOR X709
+Uh-huh.  And how are you eating at home?
+
+PATIENT X709
+I need to improve on that.
+
+DOCTOR X709
+Yeah.  You used to get that Meals on Wheels right but you didn't feel like you needed it.
+
+PATIENT X709
+No that's, yeah I didn't think that worked that well.
+
+DOCTOR X709
+Okay.  Yeah your weight is up a little bit so that's good.  It's up about four pounds since I saw you last.
+
+PATIENT X709
+I got to get fit.  On here I need to lose that weight, that doesn't really do me any good.  I need to watch my diet.  I need to improve on my diet, eat more of that natural foods and.
+
+DOCTOR X709
+Okay.
+
+PATIENT X709
+And not so many processed foods.
+
+DOCTOR X709
+You're a couple meals a day though still?
+
+PATIENT X709
+Yes uh-huh.
+
+DOCTOR X709
+Okay.
+
+PATIENT X709
+At least two or three meals.
+
+DOCTOR X709
+Okay.  Okay.  Uh and you're still paying all your own bills, getting your own groceries, all that stuff?
+
+PATIENT X709
+Yes sir.
+
+DOCTOR X709
+Still driving?
+
+PATIENT X709
+Yes.
+
+DOCTOR X709
+Okay, alright um.  How has your urine been?
+
+PATIENT X709
+Uh if I don't take the, uh when I don't take these saw palmettos sometimes I have trouble urinating.
+
+DOCTOR X709
+Okay.
+
+PATIENT X709
+But that seemed to improve.
+
+DOCTOR X709
+Okay.
+
+PATIENT X709
+Help me improve but the uh the medications that they.
+
+DOCTOR X709
+Yeah.
+
+PATIENT X709
+Prescribed.
+
+DOCTOR X709
+Yeah.
+
+PATIENT X709
+That is not effective.
+
+DOCTOR X709
+Is not working hmm.  Uh we could maybe try a different medicine you know.  I mean it sounds like you have an enlarged prostate that's where your urine issues are coming from.
+
+PATIENT X709
+Yeah.
+
+DOCTOR X709
+Um we could try a different medicine if that one didn't work.
+
+PATIENT X709
+Maybe that would be, that might.
+
+DOCTOR X709
+And we can mail that to you and see if it'll help, what do you think?
+
+PATIENT X709
+Yeah, it might be a good idea yes.
+
+DOCTOR X709
+Yeah okay.  Let's see, but you stopped taking that prostate pill though right?
+
+PATIENT X709
+Beg pardon?
+
+DOCTOR X709
+Are you still taking the prostate pill or did you stop taking that?
+
+PATIENT X709
+Uh yeah I'm still taking the ones that are prescribed, all the medication that's been prescribed I take usually.
+
+DOCTOR X709
+Okay.  Uh let's see uh I'm just going through your labs here you had last time.  You still see the psychiatrist right?
+
+PATIENT X709
+I'm seeing a psychologist.
+
+DOCTOR X709
+Yeah.
+
+PATIENT X709
+Somewhat near where I live.
+
+DOCTOR X709
+Okay.
+
+PATIENT X709
+Psychologist, not a psychiatrist.
+
+DOCTOR X709
+Yeah.  Alright.
+
+PATIENT X709
+The psychiatrist is usually for a little more serious problems I guess aren't they?
+
+DOCTOR X709
+Uh-huh, yeah, more uh with medication and stuff like that.
+
+PATIENT X709
+Yeah.
+
+DOCTOR X709
+And you're not smoking anymore right?
+
+PATIENT X709
+No I quit smoking.
+
+DOCTOR X709
+Did you get the flu shot?
+
+PATIENT X709
+Yes I got the flu; I got the flu shot this morning yes.
+
+DOCTOR X709
+Oh good.  The nurse just gave it to you?  Alright and let me see what else today, yeah so a few of the things, one we'll try a different prostate pill and then I want you to take both of those inhalers.
+
+PATIENT X709
+Yes okay.
+
+DOCTOR X709
+Okay one is twice a day and one is once a day and the other one just when you need it that you carry around with you.
+
+PATIENT X709
+Yeah, yeah, yeah okay sir.
+
+DOCTOR X709
+I think even though you don't feel like it helps you I think it will in the long term help your lungs.  Um, alright your cholesterol you take them uh @@@ get it checked.
+
+PATIENT X709
+Sometimes I think quite often you hear it on the TV.
+
+DOCTOR X709
+Uh-huh.
+
+PATIENT X709
+If the medication makes them, causes them to think about suicide.
+
+DOCTOR X709
+Yeah.
+
+PATIENT X709
+Cause most people, I don't think, think of suicide they start taking some of this medications they prescribe and then it causes them to think about committing suicide for some reason.
+
+DOCTOR X709
+Yeah.
+
+PATIENT X709
+So with medication for psychology and psychiatric problems I don't believe in it anyways.
+
+DOCTOR X709
+Yeah.  Okay.  
+
+PATIENT X709
+Maybe if it's a real serious problem so they might believe that people might think of doing irrational things but maybe uh, maybe some of that medication will just kind of numb them so they won't think about it.
+
+DOCTOR X709
+Yeah.
+
+PATIENT X709
+It kind of shocked me the one right here if it causes you to think about suicide then they say call us without delay.
+
+DOCTOR X709
+Right.  Alright so then let me go talk with my attending doctor and I'll be back okay.
+
+PATIENT X709
+Pardon?
+
+DOCTOR X709
+Let me talk with the other doctor and I'll be back.
+
+PATIENT X709
+Yeah, yeah, okay fine.
+
+DOCTOR X709
+Other questions for me or no?
+
+PATIENT X709
+Pardon?
+
+DOCTOR X709
+Do you have any questions for me or no?
+
+PATIENT X709
+I'm sorry?
+
+DOCTOR X709
+Any questions for me or no?
+
+PATIENT X709
+No I guess not right now, that I can think of right now.
+
+DOCTOR X709
+Oh okay, alright, I'll be right back, stay here.
+
+PATIENT X709
+Okay, right here is okay.
+
+DOCTOR X709
+Alright.
+
+(DOCTOR OUT:  43:30  DOCTOR IN:  50:56)
+
+DOCTOR X709
+Okay um @@@ stuff here.  I'll renew all your medicines here.  Um simvastatin so just this all of this you can have.  Are you still taking like an aspirin or something?
+
+PATIENT X709
+Yeah I still take an aspirin every day yes one of those.  I make up these doses ahead of time so I make up my medication doses for about a month ahead of time.
+
+DOCTOR X709
+Okay.
+
+PATIENT X709
+So I @@@.
+
+DOCTOR X709
+Okay.
+
+PATIENT X709
+The pills when it's time to take it.
+
+DOCTOR X709
+Good yeah, so the main thing for today is I want you to just restart that other inhaler and then we'll give you the different prostate medicine okay.  Otherwise your blood pressure looks good; all your labs from back in August um look great.  Your blood levels, your iron levels, your kidney, your liver, your cholesterol, so we don't need to repeat any blood on you.
+
+PATIENT X709
+Okay.
+
+DOCTOR X709
+It's only been four months and everything looked great um so I renewed all your medicines and then let me.
+
+PATIENT X709
+I think I have most of the medication I.
+
+DOCTOR X709
+Yeah I just renewed them as far as if you need refills.
+
+PATIENT X709
+Okay good.
+
+DOCTOR X709
+To make sure they're up-to-date um and we'll send you the new prostate, called tamsulosin.  It's the same as the other one, Flomax is the other name for it.  Um sometimes it works better in people and you just take it once a day usually at bedtime.
+
+PATIENT X709
+This uh, these @@@ pills.
+
+DOCTOR X709
+Yeah.
+
+PATIENT X709
+I did take them; I discontinued them I don't think they're doing very much.
+
+DOCTOR X709
+Yeah.
+
+PATIENT X709
+Good.
+
+DOCTOR X709
+Alright.
+
+PATIENT X709
+They're kind of expensive for one thing.
+
+DOCTOR X709
+Exactly, @@@ covered.  Alright so you take those two inhalers right?
+
+PATIENT X709
+Pardon?
+
+DOCTOR X709
+You're gonna take those two other inhalers now.
+
+PATIENT X709
+Uh yes, I carry these with me and then the other two, the one is on the machine.
+
+DOCTOR X709
+Uh-huh.
+
+PATIENT X709
+I took those once every day.
+
+DOCTOR X709
+Okay.
+
+PATIENT X709
+These are just once a day.
+
+DOCTOR X709
+Okay.
+
+PATIENT X709
+And then this uh, this other one, I forget this medication but uh I thinks that's for, that's for breathing I think.
+
+DOCTOR X709
+Yeah.
+
+PATIENT X709
+Things to improve my breathing.
+
+DOCTOR X709
+Okay um alright, very good.  Uh anything else?
+
+PATIENT X709
+No I think that's about it.
+
+DOCTOR X709
+Very good.  We'll see you in a couple of months.
+
+PATIENT X709
+Okay.
+
+DOCTOR X709
+Things are going good.  Just take that other inhaler and take your prostate medicine okay.
+
+PATIENT X709
+Okay very good.  There's no medication that I need to pick up today then is there?
+
+DOCTOR X709
+No I'm just gonna mail, oh unless you want to pick up that prostate one.  It's up to you; otherwise I can just mail it to you.
+
+PATIENT X709
+Well I guess they could just, well maybe if I could pick that up.
+
+DOCTOR X709
+You want to pick that one up okay.  Very good, okay, so I changed that you can pick that one right up.
+
+PATIENT X709
+Okay.
+
+DOCTOR X709
+Alright.
+
+PATIENT X709
+Alrighty, okay thank you.
+
+DOCTOR X709
+Okay have a good day.
+
+PATIENT X709
+Yeah.
+
+PATIENT LEAVES:  54:35.
+
+
+
+

@@ -1,0 +1,1018 @@
+
+DOCTOR X120
+PATIENT?  How you doing?
+
+PATIENT X120
+Fine doc, how you been?
+
+DOCTOR X120
+Not too bad.  Want to come on back?
+
+PATIENT X120
+Yeah.
+
+DOCTOR X120
+Good.
+
+PATIENT X120
+So you never know what you're going to find when you open up the door.
+
+DOCTOR X120
+Let me carry that for you.
+
+PATIENT X120
+You know I didn't get the MRI.
+
+DOCTOR X120
+How come?
+
+PATIENT X120
+Because I'm claustrophobic.
+
+DOCTOR X120
+Okay.
+
+PATIENT X120
+And I brought the medicine back to the room.
+
+DOCTOR X120
+Did you try the @@@?
+
+PATIENT X120
+No I didn't take it cause I couldn't even get in there.  I had a cold now.  I've got a cold now and that's the biggest problem I have when I'm laying down, due to my back or it's the postnasal drip and it makes me gag.
+
+DOCTOR X120
+Okay.
+
+PATIENT X120
+And that's my nightmare yeah.  And I'm sorry but you know.
+
+DOCTOR X120
+No and so we'll do something.  We'll figure this out.
+
+PATIENT X120
+Okay.  I brought you back the pill too cause I didn't take it.  I don't know if they want it, so I probably should give it back to the pharmacy or.
+
+DOCTOR X120
+Um yeah I can do that.
+
+PATIENT X120
+Oh good, okay.  Yeah I bet they can use it.  I didn't even open it doc you know.
+
+DOCTOR X120
+@@@ okay.  But you got a cold @@@?
+
+PATIENT X120
+Yeah, yeah I've got a cold for a couple weeks now and um yeah.  You know cold sneezes so that and um my biggest problem lately is I uh fell out of bed twice in the last month and last night, night before last I fell out of the bed, a queen-sized bed and uh I sat up and my daughter's telling me that cause she is in the living room and I sat up and as soon as I sat up, I went right out of the bed in between the dresser and the night stand right.  @@@ you know.
+
+DOCTOR X120
+Yeah.
+
+PATIENT X120
+I plastered the arm real good and I bump my head on the dresser and I didn't pass out but I was soaking wet with sweat and the last time I had that happen to me, that's what woke me up because I was having a nightmare and I was holding my breath again and uh she went to shake me to wake me up and I jumped out of bed and fell right down again.  So I'm having that fall thing going on.
+
+DOCTOR X120
+How often are you waking up at night?
+
+PATIENT X120
+A lot.
+
+DOCTOR X120
+At nighttime?
+
+PATIENT X120
+Yes, the medicine I'm getting ain't helping me.  You know I had a real bad one you know.
+
+DOCTOR X120
+Yeah.
+
+PATIENT X120
+A couple real scary ones.
+
+DOCTOR X120
+Okay.
+
+PATIENT X120
+They don't scare me as much as they scare my wife and my daughter you know.
+
+DOCTOR X120
+Yeah.
+
+PATIENT X120
+Cause I look like kind of a mad man.  My daughter said you look like a mad man this morning you know.  My eyes are this big you know.  You know I'm embarrassed because she came in, she seen me with the diaper on and you know.
+
+DOCTOR X120
+Yeah.
+
+PATIENT X120
+She's 17 you know I.  We don't even tell the kids I put them on you know.
+
+DOCTOR X120
+Uh-huh.
+
+PATIENT X120
+But I had that on and that's been a real bummer too.  The wetting the bed and the constipation God I got some stuff, what do you call it, the enemas you know the liquid enemas that come in a squeeze bottle, she had to go out yesterday and get me that because I couldn't make it go and then that helped it like a great deal but then I'm bleeding.
+
+DOCTOR X120
+You're having bleeding?
+
+PATIENT X120
+My hemorrhoids.
+
+DOCTOR X120
+Oh okay.
+
+PATIENT X120
+I was bleeding like a dog and uh it was terrible so.  Yeah I think I'm taking so much medicines I just think that's adding to it.  But I am putting weight back on.  I go to my cardiac exercise and now I'm on the next 12 week thing.
+
+DOCTOR X120
+Well good.
+
+PATIENT X120
+I got my 70% from the VA on my pension.
+
+DOCTOR X120
+Yeah.
+
+PATIENT X120
+But they rated me 70% so I'm going to file the appeal and get the other 30 cause they said the only thing that they were lacking was being able to substantiate that I'm unemployable.  Well I'm on Social Security for being unemployable and disabled and I been telling the nurse that I'm unemployable by the psychiatrist DOCTOR and by another doctor here but they said they have to have more evidence so I don't know what evidence they need.
+
+DOCTOR X120
+When was the last time you saw DOCTOR?
+
+PATIENT X120
+Oh I seen him about two weeks ago I think.  I think I have to see him this week coming.
+
+DOCTOR X120
+Okay, okay.  Do you talk about @@@?
+
+PATIENT X120
+Yeah.
+
+DOCTOR X120
+Do you see anyone on the outside at all?
+
+PATIENT X120
+No, really I mean.  He got me on this medication and you know, like I'll tell him I'm falling out of bed and he'll tell me well move the night stand and throw a couple comforters down on the floor next to your bed, don't do that.  So I ended up taking all the, it's insane.
+
+DOCTOR X120
+Yeah.
+
+PATIENT X120
+You know its insane man.  So the heart, @@@ is good.
+
+DOCTOR X120
+Yeah.
+
+PATIENT X120
+I @@@ neck and low back you know.  But uh that was tough because of the loss of weight you know.  Cause I've lost a lot of weight and I look like it too.
+
+DOCTOR X120
+You look better than when I saw you last.
+
+PATIENT X120
+Yeah.
+
+DOCTOR X120
+@@@.
+
+PATIENT X120
+Yeah I've done good now you know.  I'm starting to, you know put on the weight now.  I'm about 164, 165.
+
+DOCTOR X120
+Hmm.
+
+PATIENT X120
+But I'm working out so.  At the Cardiac Rehab.
+
+DOCTOR X120
+Yeah.
+
+PATIENT X120
+But I've just resigned myself about this waking up at night you know and wetting the bed and you know and not having any control over these nightmares you know.
+
+DOCTOR X120
+Okay.  They @@@.
+
+PATIENT X120
+Yeah.
+
+DOCTOR X120
+Okay.  
+
+PATIENT X120
+And I slowed down on drinking.  My wife tells me no you can't do that, you'll screw your kidneys up and.
+
+DOCTOR X120
+@@@ slow down drinking @@@.
+
+PATIENT X120
+Border yeah.
+
+DOCTOR X120
+@@@?
+
+PATIENT X120
+No, no, no. I had a couple drinks last month and I got uh some medicine from the psychiatrist to take if I feel like I'm going to start having a problem.  I can't think of the name of it now.  Uh, Antabuse.
+
+DOCTOR X120
+It's Antabuse yeah.
+
+PATIENT X120
+Yeah so.  But I was really depressed after a while.  My dad's funeral.
+
+DOCTOR X120
+Are you having neck pain?
+
+PATIENT X120
+Yeah I'm having some neck pain, back of my neck.  When I wake up in the mornings uh cause that's what I do is I try to sleep high.
+
+DOCTOR X120
+Uh-huh.
+
+PATIENT X120
+And @@@ I'm doing this at night and I wake up with a really pounding headache and uh I don't think it's anything to do with any damage from my body just the way that I sleep and uh that's about it.
+
+DOCTOR X120
+Okay.
+
+PATIENT X120
+Of course I'm making my wife crazy cause she's watching me now.  I went for the sleep apnea test.
+
+DOCTOR X120
+Yeah.
+
+PATIENT X120
+And the nurse told me I held my breath three times during the evening.
+
+DOCTOR X120
+Okay.
+
+PATIENT X120
+Well she said one of them was 40 seconds long.
+
+DOCTOR X120
+Yeah.
+
+PATIENT X120
+Then they woke me up about 10 to 5 on that one.
+
+DOCTOR X120
+Yeah.
+
+PATIENT X120
+And they tried to give me that little mask that you wear.
+
+DOCTOR X120
+Uh-huh.
+
+PATIENT X120
+I couldn't wear it.
+
+DOCTOR X120
+@@@.
+
+PATIENT X120
+Neither one.
+
+DOCTOR X120
+Oh.
+
+PATIENT X120
+So then they let me go home and she says DOCTOR called me and let me know about that.  I hadn't heard from DOCTOR.  Maybe she went on vacation or something.  xxx xxx doctor so.
+
+DOCTOR X120
+Okay.
+
+PATIENT X120
+Yeah so I don't know if we need a follow up on that.  @@@ thing is I even hold my breath during the day she notices.  I don't know what that's from.  Your guess is as good as mine.
+
+DOCTOR X120
+Well, it's @@@ sleep apnea.
+
+PATIENT X120
+Yeah.
+
+DOCTOR X120
+Um @@@ works as @@@.
+
+PATIENT X120
+Yeah, yeah, yeah.
+
+DOCTOR X120
+But for people like, like you and me and I have it as well.
+
+PATIENT X120
+Oh yeah.
+
+DOCTOR X120
+And uh I don't know why.
+
+PATIENT X120
+Yeah.  Okay.
+
+DOCTOR X120
+@@@.
+
+PATIENT X120
+It's not gonna kill you, let's put it that way.
+
+DOCTOR X120
+Well you know, the problem is that holding your breath while you sleep and struggling against holding your breath.
+
+PATIENT X120
+Yeah.
+
+DOCTOR X120
+It can put a strain on your heart and your lungs.
+
+PATIENT X120
+Yeah, yeah.
+
+DOCTOR X120
+Because you're creating high pressure inside your chest.
+
+PATIENT X120
+Yeah.
+
+DOCTOR X120
+And that straining can cause some damage.
+
+PATIENT X120
+It does.
+
+DOCTOR X120
+Yeah to the heart.
+
+PATIENT X120
+Could it have cause that tumor?
+
+DOCTOR X120
+It wouldn't cause a tumor but it can weaken the heart.
+
+PATIENT X120
+Okay.
+
+DOCTOR X120
+Quite a bit.
+
+PATIENT X120
+Then I got to do something about that then.
+
+DOCTOR X120
+So part of it is finding a CPAP machine that you like.
+
+PATIENT X120
+Yeah.
+
+DOCTOR X120
+Sort of finding a position where you sleep and don't hold your breath.  Are you going to see the pulmonologist again, have they reviewed that sleep study?
+
+PATIENT X120
+I hope so.  I don't know, who's it gonna be?
+
+DOCTOR X120
+There's one um.
+
+PATIENT X120
+Cause I want to get this taken care of cause I you know my heart took a beating with that surgery you know.  I ended up with a bad heart you know.
+
+DOCTOR X120
+Yeah.  So this @@@.  
+
+PATIENT X120
+Yeah it's frightening.
+
+DOCTOR X120
+Hmm.  You may need to give DOCTOR a call.
+
+PATIENT X120
+Yeah okay.  @@@ where is she at, what medicine.
+
+DOCTOR X120
+She's uh; I think she's a pulmonologist.  I think she died suddenly.  You could call the main line and ask for the Sleep Clinic.
+
+PATIENT X120
+Okay.  Yeah.  What floor was that on 11 or something like that?  I don't even remember when I went up there.  I think it was up there, 14, 11, I don't know.
+
+DOCTOR X120
+@@@ to get it.  Alright.
+
+PATIENT X120
+Yeah.
+
+DOCTOR X120
+Still something to get.  So you had an MRI in the past.  How did you get through the MRI?
+
+PATIENT X120
+Well I didn't have this thing because I took the medication for a couple days before that and it wasn't a long trip into that machine.  It was kind of fast.  I think I was in there maybe 15 minutes if that but I know I wanted to come out of there every second I was in there you know.  I just told myself to stay there and get this done.  But it's a real bummer for me.  You know I can't stand being in there.  @@@ not good.  You know not good.  The guy can't hear me you know.
+
+DOCTOR X120
+Yeah.
+
+PATIENT X120
+And I'm scared of it you know.  Not to be a sissy about it.
+
+DOCTOR X120
+@@@.
+
+PATIENT X120
+It scared the shit out of me.
+
+DOCTOR X120
+@@@.
+
+PATIENT X120
+You know.  I been in a couple situations where I was in trouble and I remember that, it was like so if we can do the same thing that SET scan will give you, you know if that'll work or if you could knock me out.
+
+DOCTOR X120
+Yeah we may have to.  I don't know.  Let's see, let me ask DOCTOR, @@@.  Mind if I take a quick listen to you?
+
+PATIENT X120
+Yeah.  I'll take this shirt off for you.  
+
+DOCTOR X120
+Yeah sure.  
+
+PATIENT X120
+Do you need this off?
+
+DOCTOR X120
+No that's okay.
+
+PATIENT X120
+Okay doctor.
+
+DOCTOR X120
+Take a couple of deep breaths.  Okay.  Any pain here?
+
+PATIENT X120
+No.
+
+DOCTOR X120
+Turn your head again @@@.  Does that feel weak at all?
+
+PATIENT X120
+No.
+
+DOCTOR X120
+Shrug your shoulder.  Squeeze my finger.  Okay.  Now pull towards me, push towards me.  You've gotten much stronger.  @@@ towards me @@@ okay good.  Look up toward the ceiling now look at the floor.  Doing great.  How's the exercise going?
+
+PATIENT X120
+Actually it's going good.
+
+DOCTOR X120
+@@@.
+
+PATIENT X120
+Exercise is doing good.
+
+DOCTOR X120
+Have you ever had a colonoscopy before?
+
+PATIENT X120
+No, no.  They were going to order one for me.
+
+DOCTOR X120
+We're going to need to get it done um sometime.
+
+PATIENT X120
+Okay.
+
+DOCTOR X120
+Maybe not right now.  We're going to get this MRI out of the way.
+
+PATIENT X120
+Okay.  What's the MRI going to be looking for?
+
+DOCTOR X120
+So on the CT or sorry @@@ so you had the MRI.  The MRI showed a mass in one of the vertebrae of your neck.
+
+PATIENT X120
+Okay.
+
+DOCTOR X120
+That might be causing the pain.
+
+PATIENT X120
+Okay.
+
+DOCTOR X120
+And I'm not sure exactly what the mass is or what to do about it.
+
+PATIENT X120
+Okay.
+
+DOCTOR X120
+Um and we want to take a better look at it and make sure that one it's nothing dangerous.
+
+PATIENT X120
+Okay.
+
+DOCTOR X120
+And two that uh see that if it's causing the neck pain then we can get it fixed.
+
+PATIENT X120
+Right.
+
+DOCTOR X120
+So, I don't know.  With the history of the prostate cancer, we can never be too careful.
+
+PATIENT X120
+Right.
+
+DOCTOR X120
+I want to make sure it's nothing dangerous.
+
+PATIENT X120
+Okay.
+
+DOCTOR X120
+I want to make sure it's not a spread of the cancer or something.
+
+PATIENT X120
+Right, right.  It's been a while.
+
+DOCTOR X120
+Well yeah.  Let me talk to DOCTOR.
+
+PATIENT X120
+Okay.
+
+DOCTOR X120
+Um.  
+
+PATIENT X120
+Is he here now?
+
+DOCTOR X120
+Yeah he's here now.  I'll go and talk to him.  I'll come right back in here and see you again.
+
+PATIENT X120
+Okay.  Should I put my shirt back on?
+
+DOCTOR X120
+Yes please.
+
+PATIENT X120
+Okay yeah.  
+
+DOCTOR X120
+I will be right back.  It'll be a couple minutes and I'll be right back in.
+
+PATIENT X120
+I'll be here.
+
+(DOCTOR OUT:  50:11  DOCTOR IN:  58:35)
+
+DOCTOR X120
+So we need to get a colonoscopy scheduled.
+
+PATIENT X120
+Okay.
+
+DOCTOR X120
+And we need to get that MRI.
+
+PATIENT X120
+Okay.
+
+DOCTOR X120
+If I give you Valium for the day before and then this one for the day of.
+
+PATIENT X120
+Uh-huh.
+
+DOCTOR X120
+Do you think you can do it?
+
+PATIENT X120
+What the CT scan?
+
+DOCTOR X120
+Yeah.
+
+PATIENT X120
+Yeah.
+
+DOCTOR X120
+And what if you bring your wife with you too.
+
+PATIENT X120
+Yeah.
+
+DOCTOR X120
+Do think that will help?
+
+PATIENT X120
+Yeah.
+
+DOCTOR X120
+Okay.
+
+PATIENT X120
+Yeah.  I got my nephew with me now.  He drove me here.
+
+DOCTOR X120
+Okay.
+
+PATIENT X120
+Alright.
+
+DOCTOR X120
+If no one else can make it and you need someone to be there, just have me paged.
+
+PATIENT X120
+Uh-huh.  Are you talking about the colonoscopy?
+
+DOCTOR X120
+No it's a CT scan.
+
+PATIENT X120
+CT scan oh okay.
+
+DOCTOR X120
+Yeah.
+
+PATIENT X120
+Yeah cause I can't drive after that.
+
+DOCTOR X120
+The colonoscopy you can't drive after.
+
+PATIENT X120
+Yeah.
+
+DOCTOR X120
+I'm talking about if you can't actually make it into the CT machine.
+
+PATIENT X120
+Oh yeah I can get in there, yeah no I go in you know.  It's not a tunnel @@@.
+
+DOCTOR X120
+That's the one they tried to do yesterday.
+
+PATIENT X120
+No that's the uh other machine.  That's not a CT scan it's a MRI you said it's a long.
+
+DOCTOR X120
+You're not getting an MRI you're getting a CT scan.
+
+PATIENT X120
+Yeah, well what did you have ordered yesterday?
+ 
+DOCTOR X120
+CT scan.
+
+PATIENT X120
+They told me an MRI down there.  
+
+DOCTOR X120
+@@@.
+
+PATIENT X120
+That's wacky doc.  Cause I'm going to show you, I hope I got it here.  Boy I'm telling you.  Give me a minute.
+
+DOCTOR X120
+Yeah sure.
+
+PATIENT X120
+Just give me one second.  MRI.
+
+DOCTOR X120
+I have no idea why they have that.
+
+PATIENT X120
+They made a mistake.
+
+DOCTOR X120
+Yeah it's right here.
+
+PATIENT X120
+I believe you.
+
+DOCTOR X120
+CT scan.
+
+PATIENT X120
+Yeah hey it's crappy.  
+
+DOCTOR X120
+Oh someone else tried to get @@@.
+
+PATIENT X120
+What was it?
+
+DOCTOR X120
+Yeah someone else tried to order you a MRI.
+
+PATIENT X120
+Yeah DOCTOR.
+
+DOCTOR X120
+Yeah.  Yeah oh a nurse practitioner.  For the liver @@@.
+
+PATIENT X120
+Oh yeah, yeah, yeah.
+
+DOCTOR X120
+That's why you had it.
+
+PATIENT X120
+Oh it wasn't yours.
+
+DOCTOR X120
+No mine was supposed to be.
+
+PATIENT X120
+Up a creek.
+
+DOCTOR X120
+The 16th.
+
+PATIENT X120
+Of what of April?
+
+DOCTOR X120
+Let me find it here.
+
+PATIENT X120
+That's what I'm saying.
+
+DOCTOR X120
+04/16/10.
+
+PATIENT X120
+Oh 04/16 yeah.
+
+DOCTOR X120
+@@@.
+
+PATIENT X120
+Yeah.  This is weird.  This is weird.  Because look at all of this, it says cancelled, cancelled by patient.  It doesn’t look too good does it?  I don't know why that came out like that.
+
+DOCTOR X120
+I know.
+
+PATIENT X120
+If I missed anything I missed a couple of them because the weather so I don't know who's doing all of this.  Maybe there's another patient here using my Social Security card and medical treatment.
+
+DOCTOR X120
+Alright let me uh @@@ from here.
+
+PATIENT X120
+Okay.  @@@ like that.  Okay.  Oh brother.  Put in for DOCTOR put me in for a handicapped parking.
+
+DOCTOR X120
+Yeah.
+
+PATIENT X120
+Thing and uh the girl over there never filed it.  I got to do it all over again.  So I guess they still have some of them problems with not filing stuff.  Do you want me to keep this or do you want to keep this?
+
+DOCTOR X120
+Uh you can keep it.
+
+PATIENT X120
+Okay.
+
+DOCTOR X120
+But uh just save it for @@@.
+
+PATIENT X120
+Yeah I got you.
+
+DOCTOR X120
+I'm going to put it in for Monday okay.
+
+PATIENT X120
+DOCTOR's coming Monday?
+
+DOCTOR X120
+Got it set up.
+
+PATIENT X120
+Okay.
+
+DOCTOR X120
+Alright.  Don't get lost @@@.
+
+PATIENT X120
+I'm just trying to make it, you can do that, cause you want to be here right?  Is that one of the reasons @@@.
+
+DOCTOR X120
+No I'm going to be here.
+
+PATIENT X120
+Oh okay, hold on one second.  Oh shoot man.  Can you make it for a Wednesday?
+
+DOCTOR X120
+Yeah.
+
+PATIENT X120
+Let's book it for Wednesday but somewhere around 10 o'clock if we can or they'll tell me.  Cause then I got stuff to do here too.
+
+DOCTOR X120
+Okay.
+
+PATIENT X120
+Okay, alright doc.  What’s going on here?  Can you get me a consult to the dentist?
+
+DOCTOR X120
+Uh @@@.
+
+PATIENT X120
+Okay I need you to do that cause I got a problem with these teeth and I need to see if they can do something with that cause there might be two of them @@@.
+
+DOCTOR X120
+So you have uh, what's the reason for this?  Have you seen the dentist before?
+
+PATIENT X120
+Well before I had the surgery they pulled a tooth you know.  Cause now I got one that's bothering but I'm not able to chew my food thoroughly.
+
+DOCTOR X120
+Oh if you've been seen by @@@ for a consult you just gotta call.
+
+PATIENT X120
+Call and make an appointment.
+
+DOCTOR X120
+Yeah.
+
+PATIENT X120
+Oh okay.  Great.  That'll work then.
+
+DOCTOR X120
+Have you been seen by the GI doctors before?
+
+PATIENT X120
+Yeah.
+
+DOCTOR X120
+But not for a colonoscopy?
+
+PATIENT X120
+No they didn't do a colonoscopy.  I thought they were going to do a lower GI or something, what is that?
+
+DOCTOR X120
+That's the same thing.  
+
+PATIENT X120
+What's a lower GI?  Is that when they put all that barium in you?
+
+DOCTOR X120
+Uh sort a yeah.
+
+PATIENT X120
+That milky stuff, that white stuff?
+
+DOCTOR X120
+@@@.
+
+PATIENT X120
+O brother.  I don't know what they want but I thought she had said the lower GI.  I don't need that, I had one of those many years ago and.
+
+DOCTOR X120
+If you can get the GI consult, you need to get the labs drawn.
+
+PATIENT X120
+I had labs drawn yesterday.
+
+DOCTOR X120
+Uh.
+
+PATIENT X120
+Did you get them back yet?  She got about six or eight things drawn on me.
+
+DOCTOR X120
+Do you have prosthetic heart valve?
+
+PATIENT X120
+No. 
+
+DOCTOR X120
+No uh, do you have a pacemaker?
+
+PATIENT X120
+No.
+
+DOCTOR X120
+Uh have you ever had a heart attack?
+
+PATIENT X120
+No.
+
+DOCTOR X120
+Uh pain in the chest?
+
+PATIENT X120
+No.
+
+DOCTOR X120
+Do you take Plavix?
+
+PATIENT X120
+No.
+
+DOCTOR X120
+Coumadin?
+
+PATIENT X120
+No.
+
+DOCTOR X120
+Lovenox, any @@@?
+
+PATIENT X120
+No.
+
+DOCTOR X120
+Do you take aspirin?
+
+PATIENT X120
+No.
+
+DOCTOR X120
+@@@ keep taking the 10 mg of @@@.
+
+PATIENT X120
+Yeah if I get a headache, I took it about three years ago.
+
+DOCTOR X120
+@@@.  You're not a diabetic are you?
+
+PATIENT X120
+No.
+
+DOCTOR X120
+@@@ medication.  Alrighty, @@@ labs.  Your INR looked fine.  Your B12 is just fine.  Your PSA is 0.01.
+
+PATIENT X120
+Where do you get that?
+
+DOCTOR X120
+Very low @@@.  Your hemoglobin A1c is normal, 6.3 moderately high so, let's do that again.  @@@ is normal.  All of your blood counts look just fine.  You're a little anemic.
+
+PATIENT X120
+What does that mean?
+
+DOCTOR X120
+That means uh that you have low red blood cells.  That's probably another reason why we need a colonoscopy.
+
+PATIENT X120
+Gotcha.
+
+DOCTOR X120
+It could be blood loss and otherwise looks pretty good and then your electrolytes and cholesterol are pretty good.  Actually fantastic.  You got great cholesterol.
+
+PATIENT X120
+Hmm, must be the olive oil.  @@@.
+
+DOCTOR X120
+@@@.  So we have some repeat labs for the colonoscopy.
+
+PATIENT X120
+Okay.
+
+DOCTOR X120
+@@@.
+
+PATIENT X120
+Barium okay.
+
+DOCTOR X120
+So otherwise um follow-up in two months.
+
+PATIENT X120
+Sounds @@@.
+
+DOCTOR X120
+And if anything comes up before.
+
+PATIENT X120
+You'll call me.
+
+DOCTOR X120
+Yeah.  You're good to go.
+
+PATIENT X120
+@@@.  Alright.
+
+DOCTOR X120
+@@@.
+
+PATIENT X120
+I think I'll be fine.
+
+DOCTOR X120
+You have a good day.
+
+PATIENT X120
+Alright doc you take care.
+
+PATIENT LEAVES:  71:18
+
+Time is 5:04 p.m.
+
+
+
+

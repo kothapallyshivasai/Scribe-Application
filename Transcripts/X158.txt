@@ -1,0 +1,1169 @@
+ 
+DOCTOR X158  
+One second. 
+
+PATIENT X158
+Yes sir.
+
+DOCTOR X158
+PATIENT right?
+
+PATIENT X158
+Yes sir.
+
+DOCTOR X158
+You want to come with me?  How you doing?
+
+PATIENT X158
+I'm a little irritable today.
+
+DOCTOR X158
+Oh what's the problem?  We all get a little frustrated right?
+
+PATIENT X158
+Yeah.
+
+DOCTOR X158
+Now we've met before right.  I've seen you one time.
+
+PATIENT X158
+Yes.
+
+DOCTOR X158
+Okay.  Just take a seat here.
+
+PATIENT X158
+No it's been a while though.
+
+DOCTOR X158
+How long has it been?
+
+PATIENT X158
+Uh I can't recall this second, pull it up let's see.
+
+DOCTOR X158
+Having one of those days huh?
+
+PATIENT X158
+One of those days, I got a skin problem and it's really.
+
+DOCTOR X158
+A skin problem?
+
+PATIENT X158
+Oh my goodness.
+
+DOCTOR X158
+Okay.
+
+PATIENT X158
+Um you know burning and it's itching real bad.  I can't even sleep, it's terrible.
+
+DOCTOR X158
+Okay.  Um when did I, or have I ever seen you?
+
+PATIENT X158
+Yes.
+
+DOCTOR X158
+Let's see you, you're listed as a DOCTOR as your attending.
+
+PATIENT X158
+Yeah I saw you one time.  I seen DOCTOR.
+
+DOCTOR X158
+Was it in the Outpatient?
+
+PATIENT X158
+Yes.
+
+DOCTOR X158
+Or did I just see you like when you were in the hospital?
+
+PATIENT X158
+I don't remember.
+
+DOCTOR X158
+Did you see DOCTOR maybe?
+
+PATIENT X158
+Yes.
+
+DOCTOR X158
+Oh that's not me, I'm DOCTOR.
+
+PATIENT X158
+Oh.
+
+DOCTOR X158
+So maybe you were used to seeing DOCTOR.  Is that who your normal doctor is?
+
+PATIENT X158
+No DOCTOR is my regular doctor.
+
+DOCTOR X158
+Oh okay.  So you're just here for an acute visit probably.
+
+PATIENT X158
+Yes. 
+
+DOCTOR X158
+Okay.  Now where's that, what's going on, what's been bothering you?
+
+PATIENT X158
+Oh I have to show you.  I broke out.  I've been breaking out with rashes and I got this so irritated.
+
+DOCTOR X158
+That looks like zoster.  Is it only on one spot?
+
+PATIENT X158
+No, all over my body.  I broke out and it's on my neck and my shoulders.
+
+DOCTOR X158
+I see it on your feet.
+
+PATIENT X158
+It's on my legs, it's in my scalp.
+
+DOCTOR X158
+Oh really.
+
+PATIENT X158
+Yes it's up in my arm pit.
+
+DOCTOR X158
+What's new?
+
+PATIENT X158
+All of it. 
+
+DOCTOR X158
+No I mean what have, has there been anything new that you've been, new medication or?
+
+PATIENT X158
+No.
+
+DOCTOR X158
+No okay.  Have you ever had this before?
+
+PATIENT X158
+No.  This right here came on, it just happened in one week.  This back, everything just came on one week.  That came on one week @@@.
+
+DOCTOR X158
+A week ago?
+
+PATIENT X158
+I mean all.
+
+DOCTOR X158
+Is it getting worse or better?
+
+PATIENT X158
+It's getting worse.  The skin is burning.  I'm having heat flashes.
+
+DOCTOR X158
+You had an abdominal rash in August.
+
+PATIENT X158
+This right here.
+
+DOCTOR X158
+You have a history of fungal infections?
+
+PATIENT X158
+Uh no, this never happened before.  This came out and this won't go away.
+
+DOCTOR X158
+Okay.
+
+PATIENT X158
+It just won't go away and now the whole body, in the middle spot in my body is getting worse.
+
+DOCTOR X158
+Now did you actually end up trying the statin powder?
+
+PATIENT X158
+Yes.  @@@ easing it, this right here.  It's helping the burns on the stomach but now this half is easing up.
+
+DOCTOR X158
+Right.
+
+PATIENT X158
+Everything else is just whoo.
+
+DOCTOR X158
+Now what do you do for hygiene?
+
+PATIENT X158
+Uh I take shower.
+
+DOCTOR X158
+Okay.  Do you use, are you using a new soap or?
+
+PATIENT X158
+I use soap.
+
+DOCTOR X158
+But no changes with what you've been using in them?
+
+PATIENT X158
+No.
+
+DOCTOR X158
+So when did the abdominal rash start?
+
+PATIENT X158
+It started about last Wednesday to be exact.  Uh I started to notice it.  I woke up with itching in the neck and a bump started and then I noticed in the back, it started with a few bumps and it just flamed up.
+
+DOCTOR X158
+No fevers or chills right?
+
+PATIENT X158
+Yes fevers and I get.
+
+DOCTOR X158
+Did you measure it yourself?
+
+PATIENT X158
+Huh?
+
+DOCTOR X158
+Did you actually measure it?
+
+PATIENT X158
+Measure the fever?
+
+DOCTOR X158
+Uh-huh.
+
+PATIENT X158
+No I just, I keep getting these hot flashes then it and every day I get very hot.  My skin just gets very hot, very extremely hot.
+
+DOCTOR X158
+Uh-huh.  So you haven't started any new medicines huh?
+
+PATIENT X158
+Um no I can't think of none no.
+
+DOCTOR X158
+Nothing was recently started?  Do you use the hydrocortisone cream at all?
+
+PATIENT X158
+Yeah but I been using it before this skin problem.
+
+DOCTOR X158
+What about this terbinafine cream?
+
+PATIENT X158
+I been using that before too.
+
+DOCTOR X158
+Does that work?
+
+PATIENT X158
+Uh I use it, yeah it works sometimes.
+
+DOCTOR X158
+Uh-huh.  Have you seen Dermatology before?
+
+PATIENT X158
+No.
+
+DOCTOR X158
+And you were also in the Emergency Room for it says back pain and then you also saw them for this panniculitis that they gave you @@@.  Have you been taking the Nystatin powder?
+
+PATIENT X158
+This right here?
+
+DOCTOR X158
+What does that say on it?  Yeah Nystatin powder, is that helping?
+
+PATIENT X158
+Oh it helps right here.  I haven't tried it on uh any other parts of my body yet.  I just haven't been putting anything on here because it just itches, burns so bad.
+
+DOCTOR X158
+You haven't been putting it anywhere?
+
+PATIENT X158
+No.
+
+DOCTOR X158
+Well when you're active do you put it on your belly?
+
+PATIENT X158
+Yes.
+
+DOCTOR X158
+Has it been helping?
+
+PATIENT X158
+A little bit, just a little bit.  All it does is keeps it dry but it's, it leaks so much fluid I don't know what to do about it.  I try to keep something on it but it just leaks so much fluid.  I don't know what to do about it though.  I'm just breaking out everywhere from feets to head.
+
+DOCTOR X158
+What else are you using on your skin?
+
+PATIENT X158
+Nothing now.
+
+DOCTOR X158
+Oh so you're not using the hydrocortisone?
+
+PATIENT X158
+I put it on everything.  It's not doing any good.
+
+DOCTOR X158
+Okay.
+
+PATIENT X158
+I'm just itching beyond itching and burning and it just seems like every hour I just get this hot feeling and I just get hot, just completely hot and then I just itch all day.
+
+DOCTOR X158
+Uh-huh.
+
+PATIENT X158
+I just wish I could get something to stop me from itching.  It's just all day.
+
+DOCTOR X158
+Have you tried xxxadryl?
+
+PATIENT X158
+No.  I haven't had any.
+
+DOCTOR X158
+So you've never tried xxxadryl?
+
+PATIENT X158
+I've tried it before.
+
+DOCTOR X158
+Did it not help?
+
+PATIENT X158
+Yes but @@@ right now.
+
+DOCTOR X158
+Uh-huh.
+
+PATIENT X158
+I'd like to have some @@@.
+
+DOCTOR X158
+I'll have you come over there.
+
+PATIENT X158
+Oh my God this itches so bad.  I mean it's itching, the bumps are everywhere.  From top to bottom.
+
+DOCTOR X158
+Well stop itching it for right now, let me take a look.
+
+PATIENT X158
+Ooh.
+
+DOCTOR X158
+Where do you live?
+
+PATIENT X158
+I live on @@@ Woods.
+
+DOCTOR X158
+In an apartment?
+
+PATIENT X158
+Uh a house.
+
+DOCTOR X158
+Who do you live with?
+
+PATIENT X158
+My aunt.
+
+DOCTOR X158
+And you've never had any issues with skin before in the past?
+
+PATIENT X158
+It's been a long time.
+
+DOCTOR X158
+Did you ever, were you ever told you had psoriasis?
+
+PATIENT X158
+No.
+
+DOCTOR X158
+The one on your back, have you been scratching it?
+
+PATIENT X158
+Yes, just a little bit.  I've been trying to avoid it.  You know these dark spots.
+
+DOCTOR X158
+Yeah I may just going to do a.  You haven't seen any bed bugs have you?
+
+PATIENT X158
+Huh?
+
+DOCTOR X158
+You haven't seen any bed bugs have you?
+
+PATIENT X158
+No.
+
+DOCTOR X158
+Who do you live with?
+
+PATIENT X158
+My aunt.
+
+DOCTOR X158
+Does she have a rash too?
+
+PATIENT X158
+No.  The woman has just a daughter and two grandkids.  And auntie is real careful too.
+
+DOCTOR X158
+Now what’s up with your abdomen?  Lay down.  Pull down your pants a little bit, no where else, none in your groin?
+
+PATIENT X158
+Huh?
+
+DOCTOR X158
+Not in your groin?
+
+PATIENT X158
+It itches in my groin.
+
+DOCTOR X158
+I mean, it could very well could be, it could be all fungal.  Although I don't know what your risk factors are really.  Do you have any on your legs?
+
+PATIENT X158
+Uh yes, I'm itching on my legs.
+
+DOCTOR X158
+@@@.  Do you have rash on your legs though?
+
+PATIENT X158
+Yes.
+
+DOCTOR X158
+Okay you can pull your pants up.  Where do you have them on your legs?  Actually take off your, you can keep your boxers on but pull.
+
+PATIENT X158
+Okay.  It feels like it's in my knees, yeah it is.
+
+DOCTOR X158
+Yeah I think this is all fungal cause it's mainly in the areas that are wet.  Look at the other one.  You haven't @@@ hepatitis see you?
+
+PATIENT X158
+No.
+
+DOCTOR X158
+Or HIV?
+
+PATIENT X158
+No.
+
+DOCTOR X158
+Put your arms up.  Lift up the other one.  So this is in your arm pits too?
+
+PATIENT X158
+Yes.
+
+DOCTOR X158
+Okay.  Hmm.  I don't know why you have the um, you're so easily getting fungal rashes.  Alright give me a little time okay.
+
+PATIENT X158
+Okay.
+
+DOCTOR X158
+Be right back.  Stay right there.
+
+PATIENT X158
+Yes sir.
+
+DOCTOR X158
+No keep your shirt off though cause I may have somebody come look.
+
+PATIENT X158
+Okay.
+
+DOCTOR X158
+Okay.
+
+(DOCTOR OUT:  47:40  DOCTOR IN:  57:15
+
+PATIENT X158
+(Knock on the door)  Yes.
+
+SECOND DOCTOR X158
+Hey.
+
+PATIENT X158
+Hello.
+
+SECOND DOCTOR X158
+Do you receive @@@ health care?
+
+PATIENT X158
+Yes.
+
+SECOND DOCTOR X158
+And you said you had an appointment today?
+
+PATIENT X158
+Yes.
+
+SECOND DOCTOR X158
+He told me it was painful.
+
+PATIENT X158
+Yes it is.
+
+SECOND DOCTOR X158
+He told me it was itchy.
+
+PATIENT X158
+It's itchy.  Actually it's burning and painful.
+
+SECOND DOCTOR X158
+It's burning and painful.
+
+PATIENT X158
+Yes.
+
+FIRST DOCTOR X158
+The back is the area that looks kind of like the stomach.
+
+SECOND DOCTOR X158
+It's not shingles.
+
+FIRST DOCTOR X158
+But even if they've healed, like they.
+
+SECOND DOCTOR X158
+Have you tried um hydrocortisone cream on the back here?
+
+FIRST DOCTOR X158
+The main one is the neck and these ones right here are as itchy as much as the neck ones right?
+
+PATIENT X158
+They all burn.
+
+SECOND DOCTOR X158
+Let me see @@@.  @@@.
+
+FIRST DOCTOR X158
+Yeah.  @@@.
+
+SECOND DOCTOR X158
+Have you seen the dermatologist?
+
+PATIENT X158
+No.
+
+FIRST DOCTOR X158
+You've been really scratching here?
+
+PATIENT X158
+Yeah @@@.  Itches and burns so bad.
+
+FIRST DOCTOR X158
+Yeah.
+
+PATIENT X158
+Ooh.
+
+FIRST DOCTOR X158
+How much, have you been scratching constantly at the stomach?
+
+SECOND DOCTOR X158
+Does it look red do you think?
+
+FIRST DOCTOR X158
+It looks red here.  Cause it looks like he's scratching right here.  We're going to put your legs up, hold up.
+
+SECOND DOCTOR X158
+How long has it been here?
+
+PATIENT X158
+About for three weeks.
+
+FIRST DOCTOR X158
+You're more tender now?
+
+PATIENT X158
+Yeah.
+
+FIRST DOCTOR X158
+@@@ tender.
+
+SECOND DOCTOR X158
+Let me see here.  Do you put hydrocortisone on this area?  You don't put hydrocortisone anywhere?  Where do you put the hydrocortisone?
+
+PATIENT X158
+I put it on my belly.
+
+FIRST DOCTOR X158
+Here right?
+
+PATIENT X158
+Yeah.
+
+FIRST DOCTOR X158
+The other one you're putting Nystatin on.
+
+PATIENT X158
+Yes.  Try to keep it dry.
+
+(Doctors are talking between themselves)
+
+SECOND DOCTOR X158
+So you put clotrimazole on here and Nystatin on here and it did not work?
+
+FIRST DOCTOR X158
+Or just the Nystatin.
+
+PATIENT X158
+I just put the @@@ on it.
+
+SECOND DOCTOR X158
+Did you put the clotrimazole?
+
+FIRST DOCTOR X158
+Yes historically he has @@@.
+
+SECOND DOCTOR X158
+Oh for the same thing or something for different?
+
+PATIENT X158
+I just put @@@ this keeps going through.
+
+SECOND DOCTOR X158
+But the clotrimazole, where did you put that?
+
+FIRST DOCTOR X158
+Historically.  You've had two medications.
+
+PATIENT X158
+Yeah.
+
+FIRST DOCTOR X158
+One the Nystatin historically but then you also had another one that was a cream.
+
+PATIENT X158
+Yeah the cream.
+
+FIRST DOCTOR X158
+@@@.
+
+PATIENT X158
+Yeah I stopped putting the cream.
+
+SECOND DOCTOR X158
+Why?
+
+PATIENT X158
+It kept it too moist and it kept it itchy.
+
+SECOND DOCTOR X158
+Did it make it better?
+
+PATIENT X158
+No.
+
+SECOND DOCTOR X158
+No.  I don't think this is fungal.  I think it's something totally different.  I think we should try a little topical steroid and get him in to see Dermatology because they may need to biopsy this.
+
+FIRST DOCTOR X158
+@@@ for dermatitis from this.
+
+SECOND DOCTOR X158
+Yes.
+
+FIRST DOCTOR X158
+This kind of treat him like that.
+
+PATIENT X158
+And there's just a lot of fluid that's been coming out of it.
+
+SECOND DOCTOR X158
+So what I would do is I would give him like @@@ cream 1%.
+
+FIRST DOCTOR X158
+@@@.
+
+SECOND DOCTOR X158
+Apply that twice a day and right in the small of your back, is it itchy?
+
+PATIENT X158
+It's burning and itchy.
+
+SECOND DOCTOR X158
+Burning and itchy.
+
+PATIENT X158
+Oh burning yeah.
+
+SECOND DOCTOR X158
+Burning.  It's been right at his belt line right?
+
+PATIENT X158
+Yes.
+
+FIRST DOCTOR X158
+Yeah.
+
+SECOND DOCTOR X158
+Oh.
+
+FIRST DOCTOR X158
+@@@ that's where it is. @@@ in his pants line too and a little bit higher.
+
+SECOND DOCTOR X158
+So let's, what so, even if it's diffuse if you're putting the medicine on it, I think it should have gotten better.
+
+FIRST DOCTOR X158
+Yeah.
+
+SECOND DOCTOR X158
+So I'm want to, @@@ so if you've only been putting the steroids @@@ and does your back get better with the steroids @@@?
+
+PATIENT X158
+Just a little bit.
+
+SECOND DOCTOR X158
+Okay, let's put, I'm going to give you some different steroids for here and on your back twice a day.  I want to get you into Dermatology.
+
+PATIENT X158
+Okay.
+
+SECOND DOCTOR X158
+And ask them.  Now the problem that I see is that if it becomes infected.  Now see some of these lesions that are open and weeping and what happens is that bacteria comes in and causes infection.  Do you know what that feels like?  It will be stinky, fevers, chills.
+
+PATIENT X158
+That's what I'm getting, fevers.
+
+SECOND DOCTOR X158
+@@@.  You're getting fevers, how high?
+
+FIRST DOCTOR X158
+Well he's not; he says he feels like his skin feels hot.
+
+PATIENT X158
+I just get very hot and it's like I get hot all over.
+
+FIRST DOCTOR X158
+Yeah hot all over.
+
+SECOND DOCTOR X158
+Let's um, yeah let's just try.  Looks like you're allergic to something.  I don't know what it is.
+
+PATIENT X158
+I don't know either.
+
+FIRST DOCTOR X158
+You're not; you said you're just using Dove soap which is not new.
+
+PATIENT X158
+No.
+
+FIRST DOCTOR X158
+You didn't add and you don't have any new detergents you said in your household either, nothing new that's come in contact with you.
+
+PATIENT X158
+Nothing I could think of.
+
+SECOND DOCTOR X158
+Okay.
+
+FIRST DOCTOR X158
+And you didn't switch combs; you didn't switch baths, nothing that corresponds to the timing of this?
+
+PATIENT X158
+Uh I switched one of the bedrooms to the basement.
+
+FIRST DOCTOR X158
+Is there anything different with what you used, the bedding, the sheets that corresponds to the change?
+
+PATIENT X158
+I'm using different sheets and different blankets.
+
+FIRST DOCTOR X158
+I don't think it would be sheet care or those blankets could even be a little.
+
+SECOND DOCTOR X158
+Yeah.  Okay.
+
+PATIENT X158
+I'm going to investigate to see if something is different down there.
+
+FIRST DOCTOR X158
+Do you think it you moved down there at the same time that this popped up?
+
+PATIENT X158
+No.
+
+FIRST DOCTOR X158
+Okay let me uh help you up.  Just 1%.
+
+PATIENT X158
+Ooh.
+
+SECOND DOCTOR X158
+@@@ 1%.
+
+PATIENT X158
+So this is not concerning that it keeps spreading all over?  It just don't look like it but its burning.
+
+FIRST DOCTOR X158
+Yeah.
+
+PATIENT X158
+It doesn't look like the rest of them but it burns just as worse.
+
+SECOND DOCTOR X158
+Yeah @@@.  How long has it been going on, three weeks?
+
+PATIENT X158
+No this was going on for three weeks and this just happened, it just come along and the rest has been about a week.  It doesn't look as bad but my scalp seems to be itching too and it's just a little bit at a time this comes along.
+
+FIRST DOCTOR X158
+@@@ medicine, over-the-counter.
+
+SECOND DOCTOR X158
+No fevers or chills?
+
+PATIENT X158
+Uh it seems like a fever, I been getting fevers.  And it's coming up along my ears to my scalp between my ears.  
+
+SECOND DOCTOR X158
+@@@ gel.
+
+FIRST DOCTOR X158
+I mean it looks like maybe he has been scratching but we can get some medicine for that right here.  Alright a little bit then, let me see right there.
+
+SECOND DOCTOR X158
+And what did they look like when they were first on your back; did they look like a pustule?
+
+FIRST DOCTOR X158
+To me it looked like you have old areas on your skin on your arms.  These look old.
+
+PATIENT X158
+Well they come and seem like they just came and disappeared and over here they seem like they new.
+
+SECOND DOCTOR X158
+Oh.  Is this something different?  Was this a different rash?
+
+PATIENT X158
+This one.
+
+FIRST DOCTOR X158
+This almost looks more like a dermatome right here.
+
+SECOND DOCTOR X158
+Yeah.
+
+FIRST DOCTOR X158
+But then.
+
+SECOND DOCTOR X158
+But then it goes, kind of yeah.
+
+PATIENT X158
+These is the little ones that started coming right here.
+
+SECOND DOCTOR X158
+What's his other medical history?
+
+FIRST DOCTOR X158
+He's also got.
+
+PATIENT X158
+These just started coming right here.  These are new.  You see those little bumps, these are just coming right here.
+
+FIRST DOCTOR X158
+He has a history of yeah.
+
+PATIENT X158
+These are little so these are just, this started right here like these.
+
+FIRST DOCTOR X158
+Yeah.  Now it says you were homeless at one point, well you're not homeless any more.
+
+PATIENT X158
+No.
+
+SECOND DOCTOR X158
+You don't have a history of HIV?
+
+PATIENT X158
+No.
+
+SECOND DOCTOR X158
+@@@ hepatitis C, have you been tested for all of that?
+
+PATIENT X158
+Yes.
+
+SECOND DOCTOR X158
+Do you do IV drugs at all?
+
+PATIENT X158
+No.
+
+FIRST DOCTOR X158
+He has a history of alcohol but not IV drug use.
+
+PATIENT X158
+No never.
+
+SECOND DOCTOR X158
+So this is what it looks like when it starts?  These little.
+
+PATIENT X158
+Huh?
+
+SECOND DOCTOR X158
+Is that a fresh one?
+
+PATIENT X158
+Yes.
+
+SECOND DOCTOR X158
+That looks fresh.
+
+PATIENT X158
+Yeah these are.  They start off like little bitty bumps.
+
+FIRST DOCTOR X158
+But they've never done an HIV test on you.
+
+PATIENT X158
+Yes I did a long time I had an HIV test done.
+
+SECOND DOCTOR X158
+Where?
+
+FIRST DOCTOR X158
+Well not here recently.  I can't pull it up on the computer.
+
+PATIENT X158
+Hmm.  I don't know when uh.
+
+SECOND DOCTOR X158
+It doesn't look like shingles, shingles really @@@.
+
+FIRST DOCTOR X158
+You know when I originally first just saw.
+
+SECOND DOCTOR X158
+Let's look at the fresh ones here okay.
+
+FIRST DOCTOR X158
+Yeah.
+
+SECOND DOCTOR X158
+That looks to be a chemical dermatitis.
+
+FIRST DOCTOR X158
+Yeah.
+
+PATIENT X158
+There's some over here too.
+
+FIRST DOCTOR X158
+@@@ that was negative.
+
+SECOND DOCTOR X158
+He could have hepatitis.  Are you sexually active now?
+
+PATIENT X158
+Off and on, but not regular.
+
+SECOND DOCTOR X158
+Do you use protection?
+
+PATIENT X158
+Yes.
+
+SECOND DOCTOR X158
+All the time?
+
+PATIENT X158
+All the time.
+
+SECOND DOCTOR X158
+Condoms?
+
+PATIENT X158
+Yes.
+
+SECOND DOCTOR X158
+Every single time?
+
+PATIENT X158
+Every single time, always.
+
+SECOND DOCTOR X158
+Always alright.  @@@ and um.
+
+FIRST DOCTOR X158
+Derm consult.
+
+SECOND DOCTOR X158
+Derm consult and if he's already having @@@.
+
+PATIENT X158
+I need to get something to stop this itching?
+
+SECOND DOCTOR X158
+So he's on an H2 blocker.
+
+FIRST DOCTOR X158
+Yeah right here, okay.  
+
+PATIENT X158
+If you get some xxxadryl for me, I need something to stop the itching.
+
+FIRST DOCTOR X158
+We'll give you, what's called @@@ to help with the itching @@@, that's what we're adding.
+
+PATIENT X158
+What?
+
+SECOND DOCTOR X158
+It'll help you with the itching.
+
+FIRST DOCTOR X158
+It'll help you with the itching.
+
+PATIENT X158
+Right.
+
+FIRST DOCTOR X158
+Yeah.
+
+SECOND DOCTOR X158
+Would you look and see if he @@@.
+
+FIRST DOCTOR X158
+He got, he didn't get the flu.
+
+SECOND DOCTOR X158
+@@@.
+
+PATIENT X158
+And something for pain please.
+
+FIRST DOCTOR X158
+He was here July 28th but that was before.  He saw DOCTOR.
+
+SECOND DOCTOR X158
+Have you started any new medications recently?
+
+FIRST DOCTOR X158
+He said no.  He saw him in August, he said before when he went to the ED he didn't get one.  He got them in July so that was pretty recent.
+
+SECOND DOCTOR X158
+@@@.
+
+FIRST DOCTOR X158
+So here's ER @@@.  So really um.  He hasn't been around sickness.
+
+SECOND DOCTOR X158
+You already have Norco?
+
+PATIENT X158
+Huh?
+
+SECOND DOCTOR X158
+@@@.  Give him something like ibuprofen or Naproxen and uh xxxadryl and tamsulosin and this one right here.
+
+FIRST DOCTOR X158
+Okay sounds good.
+
+SECOND DOCTOR X158
+Alright sir, @@@ for you okay.
+
+
+PATIENT X158
+Okay.
+
+SECOND DOCTOR X158
+Alright @@@.
+
+FIRST DOCTOR X158
+Okay so what we're going to do is give you a medicine for the itching okay.
+
+PATIENT X158
+And something for the pain please.
+
+FIRST DOCTOR X158
+Yep.
+
+PATIENT X158
+Oh goodness.  How long with this pain, itching.
+
+FIRST DOCTOR X158
+You can put your shirt back on.
+
+PATIENT X158
+How long with this itchy stuff, how long will it take before it will.
+
+FIRST DOCTOR X158
+Hopefully real soon.
+
+PATIENT X158
+Ooh wee.
+
+FIRST DOCTOR X158
+I'll give you xxxadryl but its just oral xxxadryl okay.
+
+PATIENT X158
+Okay.  @@@.
+
+FIRST DOCTOR X158
+Well antihistamines, we're going to give you loratadine, one or the other, it kind of goes together.  
+
+PATIENT X158
+What's the other stuff you going to give me to put on the rashes?
+
+FIRST DOCTOR X158
+A medication to help with the itching.
+
+PATIENT X158
+A topical?
+
+FIRST DOCTOR X158
+Uh-huh.  So take this four times @@@.  You'll pick it up at the window.
+
+PATIENT X158
+Okay.
+
+FIRST DOCTOR X158
+And I am going to give you triamcinolone.  Try not to, I know it's itchy but not to, the more you itch it the worse it's going to get alright, so try to avoid it.  Okay and let me put in an order for a consult for Dermatology okay.
+
+PATIENT X158
+Okay.
+
+FIRST DOCTOR X158
+Okay come with me, do you have everything?
+
+PATIENT X158
+Yes.
+
+FIRST DOCTOR X158
+Okay and you'll go pick everything up at the window okay.
+
+PATIENT X158
+Okay.
+
+FIRST DOCTOR X158
+Come on over here.  @@@ they'll give you the medicine okay.  Have a good one.
+
+PATIENT X158
+Thank you.
+
+Time is 1:45
+
+
+
+

@@ -1,0 +1,1264 @@
+
+DOCTOR X171
+PATIENT?
+
+PATIENT X171
+Hmm.
+
+DOCTOR X171
+How you doing?
+
+PATIENT X171
+Good to see you.
+
+DOCTOR X171
+You too, how are you?
+
+PATIENT X171
+I'm fine and yourself?
+
+DOCTOR X171
+I'm alright.  Alright, so how have things been since I saw you last?
+
+PATIENT X171
+Oh, sucky.
+
+DOCTOR X171
+What's wrong?
+
+PATIENT X171
+Can't seem to get my blood down.
+
+DOCTOR X171
+Alright so how high have you been?
+
+PATIENT X171
+It's been uh, I think well I'm averaging lately about 244.
+
+DOCTOR X171
+Okay.  You're taking metformin.
+
+PATIENT X171
+Twice a day.
+
+DOCTOR X171
+1000 mg twice a day.
+
+PATIENT X171
+Yep.
+
+DOCTOR X171
+Okay.  And you're checking once a day now?
+
+PATIENT X171
+Uh yeah.  I'm going usually about uh once a day when I'm up in the 240+ range.
+
+DOCTOR X171
+Okay.
+
+PATIENT X171
+And every other day when I'm closer to 2.
+
+DOCTOR X171
+Okay.  Now this seems uh you know, we don't have a hemoglobin A1c on you in a while.
+
+PATIENT X171
+Okay.
+
+DOCTOR X171
+But um this seems higher than it was before.
+
+PATIENT X171
+Yeah but I got a lot of stress going on.
+
+DOCTOR X171
+A lot of stress.
+
+PATIENT X171
+A lot of stress.
+
+DOCTOR X171
+Okay.  Um are you eating differently?
+
+PATIENT X171
+Everything I can.
+
+DOCTOR X171
+You're eating a lot?
+
+PATIENT X171
+Well I'm eating small amounts throughout the day.
+
+DOCTOR X171
+Okay, like what kind of foods are we talking about here?
+
+PATIENT X171
+Uh what kind of foods.  Uh oatmeal in the morning.
+
+DOCTOR X171
+Uh-huh.
+
+PATIENT X171
+Um no milk or sugar.  Um then a sandwich in the afternoon and then probably a larger meal around 4 o'clock and then a snack of some sort in the evening about 8 o'clock.
+
+DOCTOR X171
+Okay.  Are these things that have a lot of sugar in them, like cookies?
+
+PATIENT X171
+Of course.
+
+DOCTOR X171
+Okay and this is eating out of stress or what's going on?
+
+PATIENT X171
+Nervous eating I think.
+
+DOCTOR X171
+Nerves okay.
+
+PATIENT X171
+See I work out of my home so I have access to the refrigerator downstairs.
+
+DOCTOR X171
+Okay.
+
+PATIENT X171
+That's a problem.  It was better when I was exercising, I mean when I was walking which I haven't been doing and I probably in all fairness will not do it as long as it's winter.
+
+DOCTOR X171
+Do you have any way to exercise in your home or do you belong to the gym?
+
+PATIENT X171
+No.
+
+DOCTOR X171
+Cause you've also gained some weight since the last time you were here.
+
+PATIENT X171
+Yeah I think I've gained a couple pounds.
+
+DOCTOR X171
+Yeah.
+
+PATIENT X171
+And I feel it.
+
+DOCTOR X171
+Alright so we've got to get you on a different trajectory here.  Right now we're going in the wrong direction.
+
+PATIENT X171
+I am on a downhill slope.
+
+DOCTOR X171
+Yeah.
+
+PATIENT X171
+And I feel it.
+
+DOCTOR X171
+So the stress, what are you doing to deal with the stress other than eating?
+
+PATIENT X171
+Oh not a thing.
+
+DOCTOR X171
+Okay.
+
+PATIENT X171
+You know, I sleep about six hours a night and uh then I just get up and start doing what I got to do.
+
+DOCTOR X171
+Uh-huh, okay.  So walking, exercising does that help you feel better?
+
+PATIENT X171
+Evidently it does.
+
+DOCTOR X171
+Yeah.  Yeah.
+
+PATIENT X171
+But.
+
+DOCTOR X171
+But you're not doing that.
+
+PATIENT X171
+I'm not doing that.
+
+DOCTOR X171
+Okay.  Alright cause that you know, that's one of the best ways, everything is going to be interrelated for you.
+
+PATIENT X171
+Uh-huh.
+
+DOCTOR X171
+So.
+
+PATIENT X171
+Uh-huh.
+
+DOCTOR X171
+If you can exercise well first of all you'll just feel better, your blood sugars will be better.  
+
+PATIENT X171
+Uh-huh.
+
+DOCTOR X171
+You'll feel better overall and it helps a lot of people deal with stress to exercise like that.
+
+PATIENT X171
+Okay.
+
+DOCTOR X171
+@@@.  Every time I start talking I start coughing alright but in the meantime, I mean we'll check your hemoglobin A1c again today and see what your average blood sugars have been for the last three months.
+
+PATIENT X171
+Okay.
+
+DOCTOR X171
+Um and um but we should make some changes to your medications to manage your blood sugars in the meantime okay.
+
+PATIENT X171
+Alright.
+
+DOCTOR X171
+And what can you do to change your eating?  Would you like to see the nutritionist?
+
+PATIENT X171
+I've seen the nutritionist.
+
+DOCTOR X171
+So you know what's in your food.
+
+PATIENT X171
+I do yeah.
+
+DOCTOR X171
+You look at nutrition labels?
+
+PATIENT X171
+Uh no I don't you know. Um I'm the type of person who will make a bowl of spaghetti and eats the leftovers the next day, whatever is left in the frig.
+
+DOCTOR X171
+Okay.
+
+PATIENT X171
+I'll eat while I'm working.
+
+DOCTOR X171
+Uh-huh.
+
+PATIENT X171
+So.
+
+DOCTOR X171
+Can we change that?
+
+PATIENT X171
+Change that?  We can do anything.
+
+DOCTOR X171
+Right.  I mean what I would do is try to I mean you can do something like keeping a log of what you're eating.
+
+PATIENT X171
+On my intake?
+
+DOCTOR X171
+Yeah just to make yourself a little more cognitive of what you're eating.
+
+PATIENT X171
+Okay.
+
+DOCTOR X171
+And if you're holding yourself accountable in that way some people find it's easier to say well maybe I don't really need these cookies considering I've already eaten some spaghetti and some you know had some juice and whatever else.
+
+PATIENT X171
+Uh-huh.
+
+DOCTOR X171
+Um today so you know and then you'll see the correlation between days where eating more sugar with your blood sugars getting worse.
+
+PATIENT X171
+Alright.
+
+DOCTOR X171
+So that's, that's maybe one idea we can use to, to eat a little bit less hopefully um.
+
+PATIENT X171
+And exercise more.
+
+DOCTOR X171
+Yes
+
+PATIENT X171
+See these are things I know I'm supposed to be doing.
+
+DOCTOR X171
+Yeah I know, maybe reminding you of all of these things.  I'm going to get this page, give me one moment.
+
+PATIENT X171
+Alright, alright.
+
+DOCTOR X171
+(Doctor answers page)  Um otherwise any problems like fevers, chills, nausea, vomiting, diarrhea, constipation?
+
+PATIENT X171
+Hmm, um I've had an upset stomach for a while.
+
+DOCTOR X171
+How long? Like months? Years?
+
+PATIENT X171
+Ah a couple weeks.
+
+DOCTOR X171
+Weeks okay.
+
+PATIENT X171
+Couple.
+
+DOCTOR X171
+Uh and what do you mean by upset stomach?
+
+PATIENT X171
+Oh just a little uh, maybe it's more like a nervous stomach you know.
+
+DOCTOR X171
+Okay like what do you feel or what happens?  Is it um feeling like heartburn, indigestion?
+
+PATIENT X171
+Well yeah.
+
+DOCTOR X171
+Yeah.
+
+PATIENT X171
+More like a heartburn, an acid reflux or something yeah.
+
+DOCTOR X171
+Is it worse at night when you lay down?
+
+PATIENT X171
+No, no.
+
+DOCTOR X171
+What times do you?
+
+PATIENT X171
+Usually about midday.
+
+DOCTOR X171
+Okay.  Okay and have you tried anything for that?
+
+PATIENT X171
+Um I may have a glass of milk.
+
+DOCTOR X171
+Okay.  So are you eating to try and uh.
+
+PATIENT X171
+Sometimes yeah.
+
+DOCTOR X171
+Alleviate some of the discomfort in your stomach okay.  Alright.  Well we kind of, I think it sounds like maybe you've got some acid reflux.  It can go on with stress, that's another thing that can go along with stress.  So we kind of have two options for treating that or to see if they help you.
+
+PATIENT X171
+Uh-huh.
+
+DOCTOR X171
+And the first one would be to take something as needed like Tums or something like that.
+
+PATIENT X171
+Right.
+
+DOCTOR X171
+Have you tried that at all?
+
+PATIENT X171
+Well sometimes that helps.
+
+DOCTOR X171
+Uh-huh.
+
+PATIENT X171
+And I haven't, it hasn't gotten to the point where I need Tums.
+
+DOCTOR X171
+Okay, but you eat instead.
+
+PATIENT X171
+Yeah, I would rather have a sandwich than a Tums.
+
+DOCTOR X171
+Alright maybe what we could do instead is try um something that you take every day.
+
+PATIENT X171
+Okay.
+
+DOCTOR X171
+It takes a few weeks to build up in your system and then um and it'll work on suppressing the amount of acid in your stomach, decreasing the amount of irritation you have in your stomach and your esophagus.
+
+PATIENT X171
+Uh-huh.
+
+DOCTOR X171
+And then hopefully things will get, you know it'll prevent that feeling from coming on at all.
+
+PATIENT X171
+Actually coming here motivates me.  
+
+DOCTOR X171
+Uh-huh.
+
+PATIENT X171
+Not so much seeing you, although I enjoy seeing you.  It's because I see the other veterans and their condition and I don't want to get to that point.
+
+DOCTOR X171
+Uh-huh.
+
+PATIENT X171
+Okay, so that's kind of a motivating factor.
+
+DOCTOR X171
+Yep and it's, that's just fine.
+
+PATIENT X171
+Uh-huh.
+
+DOCTOR X171
+That's you know.
+
+PATIENT X171
+So.
+
+DOCTOR X171
+I want this, the goal in this clinic is to help you take care of yourself and prevent you from developing a lot of complications.
+
+PATIENT X171
+Right.
+
+DOCTOR X171
+That happens to a lot of these vets okay.  Alright now this, if you ever get pain in your stomach.
+
+PATIENT X171
+No.
+
+DOCTOR X171
+Or is it like a nausea feeling that you get or?
+
+PATIENT X171
+It's more of a heartburn.
+
+DOCTOR X171
+Heartburn okay.  Cause if you ever develop pain in your stomach.
+
+PATIENT X171
+Uh-huh.
+
+DOCTOR X171
+That's relieved by eating.
+
+PATIENT X171
+Uh-huh.
+
+DOCTOR X171
+That's something we should talk about cause that can be a sign of an ulcer.
+
+PATIENT X171
+Okay.
+
+DOCTOR X171
+Alright and uh if you have an ulcer we should have you see a gastroenterologist and get that addressed okay.  Now last time you were here or back in February.
+
+PATIENT X171
+Uh-huh.
+
+DOCTOR X171
+We checked your cholesterol levels and they were kind of borderline.  For someone with diabetes they were you know we have a really strict idea of what we want your cholesterol level to be.  Yours were like at the borderline and we didn't feel like we needed to start a medication for them.
+
+PATIENT X171
+Okay.
+
+DOCTOR X171
+Then because um you were doing a good job as far as your diet and exercise.  Now I would anticipate that these are going to be worse if we were to check them again today.
+
+PATIENT X171
+Yeah what was my cholesterol?
+
+DOCTOR X171
+Last time you were here your total cholesterol was 142.  The most important number that we look at is your bad cholesterol, your LDL which was 82.
+
+PATIENT X171
+Oh.
+
+DOCTOR X171
+Now for your average person that would be a great number but for a diabetic we want them to be under 70.  We want to see 70 or less.
+
+PATIENT X171
+Okay.
+
+DOCTOR X171
+Alright. 
+
+PATIENT X171
+So would think that my LDL would be higher than 82.
+
+DOCTOR X171
+Uh-huh.  Based on what you're telling me about your diet and not exercising both of them really help it.
+
+PATIENT X171
+Right.
+
+DOCTOR X171
+So I think we should check it again.
+
+PATIENT X171
+Alright.
+
+DOCTOR X171
+If they are significantly higher I think we should start a medication to treat your cholesterol and bring it down.
+
+PATIENT X171
+Okay.
+
+DOCTOR X171
+Um once we get a handle on everything else.
+
+PATIENT X171
+Fine.
+
+DOCTOR X171
+Okay now have you eaten yet today?
+
+PATIENT X171
+I have.
+
+DOCTOR X171
+Okay.
+
+PATIENT X171
+I had a bowl of oatmeal.
+
+DOCTOR X171
+Would it be possible for you to come back another time on an empty stomach and get blood drawn?
+
+PATIENT X171
+Uh well I can always come back.
+
+DOCTOR X171
+Uh-huh.  Okay cause we have to do these labs the first thing in the morning, have you fast for 12 hours.
+
+PATIENT X171
+Uh-huh.
+
+DOCTOR X171
+And then get the blood drawn.
+
+PATIENT X171
+Okay.
+
+DOCTOR X171
+Um and what else.  I think that's pretty much all you're due for.  Your blood pressure looks great today.  Um you saw the ophthalmologist, they didn't see any problems.
+
+PATIENT X171
+I see him again today.
+
+DOCTOR X171
+Okay good, good um.  No signs of kidney problems related to the diabetes.
+
+PATIENT X171
+No.
+
+DOCTOR X171
+And you've been seeing the podiatrist.
+
+PATIENT X171
+Now remember I had the kidney stone removed in January.
+
+DOCTOR X171
+Are you still seeing a urologist?
+
+PATIENT X171
+Um no but I am on a medication um and I brought the bottle but I forgot to bring it up.
+
+DOCTOR X171
+Oh okay.
+
+PATIENT X171
+Yeah.
+
+DOCTOR X171
+Um cause right now all I have as far as the medications that you're taking is the metformin and then we're ordering your test strips through here.
+
+PATIENT X171
+Right.
+
+DOCTOR X171
+And you're on something for your prostate?
+
+PATIENT X171
+Uh with the doctor that I was seeing yeah.
+
+DOCTOR X171
+Okay so you're not seeing him anymore?
+
+PATIENT X171
+No I'm not scheduled till later in the year.
+
+DOCTOR X171
+Oh okay.  Is it like something to shrink your prostate cause yours was enlarged?
+
+PATIENT X171
+Yes he thought it was larger than normal.
+
+DOCTOR X171
+Okay.
+
+PATIENT X171
+And I just told him I just had a large prostate.
+
+DOCTOR X171
+But you did, okay.  Um is it like Flomax or?
+
+PATIENT X171
+No.
+
+DOCTOR X171
+Um uh, I forget the brand names um like finasteride.
+
+PATIENT X171
+No, starts with an O I think.
+
+DOCTOR X171
+Starts with an O?  Hmm.
+
+PATIENT X171
+Well.
+
+DOCTOR X171
+Your PSA, I know we talked about this before.
+
+PATIENT X171
+Right.
+
+DOCTOR X171
+Your PSA was high when we took it this year.
+
+PATIENT X171
+Uh-huh.
+
+DOCTOR X171
+And you said it's been high in the past.
+
+PATIENT X171
+Yes.
+
+DOCTOR X171
+Have you ever had a biopsy of your prostate?
+
+PATIENT X171
+I have, I did not like it.
+
+DOCTOR X171
+Yeah.  Alright so can we get, I really like to get reports from your urologist of whatever they found.
+
+PATIENT X171
+Okay.
+
+DOCTOR X171
+Or whatever evidence they have that this is you know that there's no prostate cancer cause that's what the elevated PSA is suggestive of.
+
+PATIENT X171
+Right.
+
+DOCTOR X171
+@@@.
+
+PATIENT X171
+They don't think I ever had seizures.
+
+DOCTOR X171
+Uh-huh.
+
+PATIENT X171
+So that I don't have to uh have problems down the road.
+
+DOCTOR X171
+Right um so that, if they could just send us whatever like biopsy results they have or anything, just so we can have it on our record and we can stop asking you about it.
+
+PATIENT X171
+Okay.
+
+DOCTOR X171
+Um I can give you our fax number here and they can go ahead and fax it to me.  That way you don't have to @@@.
+
+PATIENT X171
+Well actually the only person I explain this to is you so.
+
+DOCTOR X171
+Alright then it'll make me feel better.
+
+PATIENT X171
+Alright.
+
+DOCTOR X171
+Um okay so our fax number here is 708-202-7359.  So why don't you have a seat up here.
+
+PATIENT X171
+Okay.
+
+DOCTOR X171
+Take a deep breath for me.  Okay open your mouth ah.  No chest pain ever or shortness of breath?
+
+PATIENT X171
+Oh the shortness of breath?
+
+DOCTOR X171
+Yeah.
+
+PATIENT X171
+Yeah.
+
+DOCTOR X171
+When does that happen?
+
+PATIENT X171
+Oh I think if I bend over too long.
+
+DOCTOR X171
+Okay.  Um does it happen like when you're walking?
+
+PATIENT X171
+No.
+
+DOCTOR X171
+Climbing a flight of stairs?
+
+PATIENT X171
+No.
+
+DOCTOR X171
+Lying down?
+
+PATIENT X171
+No.
+
+DOCTOR X171
+Just when you bend over?
+
+PATIENT X171
+Yeah.
+
+DOCTOR X171
+Okay just when you stand back up?
+
+PATIENT X171
+It may just be like my diaphragm it's possible.
+
+DOCTOR X171
+Okay.
+
+PATIENT X171
+@@@.
+
+DOCTOR X171
+Alright take a deep breath in and out.  Any pain in your belly here?
+
+PATIENT X171
+No.
+
+DOCTOR X171
+When I push?
+
+PATIENT X171
+No.
+
+DOCTOR X171
+Okay.  You get any swelling in your legs ever?
+
+PATIENT X171
+No um oh yeah sometimes I have socks that are tight around the.
+
+DOCTOR X171
+Uh-huh.
+
+PATIENT X171
+Top and they leave a mark and it goes away.
+
+DOCTOR X171
+It looks like you might have a little bit of swelling in your legs.
+
+PATIENT X171
+Well you know, as I told you previously and you probably don't recall it is I do have cases of gout.
+
+DOCTOR X171
+Uh-huh.
+
+PATIENT X171
+Sometimes it comes and goes or I really don't know what gout is but when it becomes inflamed I can tell a couple days before it starts.
+
+DOCTOR X171
+And where do you get that?  What joints?
+
+PATIENT X171
+Uh either the knees.
+
+DOCTOR X171
+Uh-huh.
+
+PATIENT X171
+Or the ankles.
+
+DOCTOR X171
+Okay.  So you've never been given any medications for.
+
+PATIENT X171
+No.
+
+DOCTOR X171
+To prevent it from happening.  Do you get medication when you have a flare?
+
+PATIENT X171
+Uh no.  I'll take uh Tylenol.
+
+DOCTOR X171
+Okay and how long does it take for it to go way usually?
+
+PATIENT X171
+When I feel an onset?
+
+DOCTOR X171
+Uh-huh.
+
+PATIENT X171
+Uh I start taking Tylenol two tablets three times a day.
+
+DOCTOR X171
+Uh-huh.
+
+PATIENT X171
+And it'll prevent it from getting becoming a problem.
+
+DOCTOR X171
+Okay.
+
+PATIENT X171
+And it'll be around for three days and then it'll stop.
+
+DOCTOR X171
+Okay.  Do they get real red and inflamed?
+
+PATIENT X171
+No I can just feel it.  I can feel it's tender sometimes.
+
+DOCTOR X171
+Okay you can come back and have a seat.  Alright so we have.
+
+PATIENT X171
+But I believe that's my diet also.
+
+DOCTOR X171
+Okay, eating a lot of red meat and things like that?
+
+PATIENT X171
+Cause I think it's.
+
+DOCTOR X171
+Does red meat trigger it or alcohol?
+
+PATIENT X171
+It's probably more of alcohol.
+
+DOCTOR X171
+Uh-huh.
+
+PATIENT X171
+Because I really do not drink a lot but when I do because it's hot and you know or there's some sort of event, it'll come down the road a few days later.
+
+DOCTOR X171
+You're not a smoker are you?
+
+PATIENT X171
+No.
+
+DOCTOR X171
+Okay.
+
+PATIENT X171
+Not any longer.
+
+DOCTOR X171
+How long ago did you quit?
+
+PATIENT X171
+Uh about 28 years ago, 23, 25, somewhere around there.  You know some people just know the date and time.  I just noticed I wasn't smoking so.
+
+DOCTOR X171
+Okay.  Alright I'm going to step out for one minute I'll be right back.
+
+PATIENT X171
+Okay.
+
+(DOCTOR OUT:  47:43  DOCTOR IN:  61:54)
+
+DOCTOR X171
+@@@.
+
+PATIENT X171
+@@@ right now.
+
+DOCTOR X171
+Alright so what we're going to do.  I think we can wait on getting your uh cholesterol checked for the time being.
+
+PATIENT X171
+Okay.
+
+DOCTOR X171
+Um but I would like to check your hemoglobin A1c and your kidney function and stuff today.  So if you can stay and get some labs today we'll take care of that.
+
+PATIENT X171
+Alright.
+
+DOCTOR X171
+Um and we can add another medication for your diabetes to try and get that under control.
+
+PATIENT X171
+Okay.
+
+DOCTOR X171
+Um you know in dealing with whatever this stress is that you have in your life is going to be key.  It's going to be key in controlling your blood sugar.
+
+PATIENT X171
+Exactly.
+
+DOCTOR X171
+Your weight and everything.  Is there anything that you can do about that?  I mean you said you're working from home.
+
+PATIENT X171
+Uh-huh.
+
+DOCTOR X171
+Um and is it just trying to get the work done or is it dealing with colleagues or?
+
+PATIENT X171
+No I have um; I deal in the foreclosure market.
+
+DOCTOR X171
+Uh-huh.
+
+PATIENT X171
+Um you know doing short sales and helping businesses and homeowners uh keep their businesses going.
+
+DOCTOR X171
+Yeah.
+
+PATIENT X171
+So um it's a financial stress.
+
+DOCTOR X171
+Yeah.
+
+PATIENT X171
+You know we're not always successful.
+
+DOCTOR X171
+Right.
+
+PATIENT X171
+So.
+
+DOCTOR X171
+Okay.  Um.
+
+PATIENT X171
+It's just the nature of the job.
+
+DOCTOR X171
+Yeah.  Is there a lot of anxiety that you're feeling related to it?
+
+PATIENT X171
+No I think it's more a frustration.
+
+DOCTOR X171
+Okay.
+
+PATIENT X171
+Yeah.
+
+DOCTOR X171
+Alright.  Alright, do you think talking with someone would help you deal with it?
+
+PATIENT X171
+No because uh I've been doing this for a long time.  I pretty much uh understand that you know there's a lot items out of my control.
+
+DOCTOR X171
+Uh-huh.
+
+PATIENT X171
+So.
+
+DOCTOR X171
+Alright.  But it's still affecting your.
+
+PATIENT X171
+Well it affects me because its, you know I'm still dealing with people and you know what's going on in their lives.
+
+DOCTOR X171
+Right, right, right.
+
+PATIENT X171
+So.
+
+DOCTOR X171
+Hmm.
+
+PATIENT X171
+I was listening to the radio coming in and uh they said that the poverty levels in the suburbs have gone up.
+
+DOCTOR X171
+Uh-huh.
+
+PATIENT X171
+And um you know I think @@@ poverty has gone up in the suburbs 70%, in xxx 120%, @@@ where I live is 500%.  
+
+DOCTOR X171
+Wow.
+
+PATIENT X171
+So there's a lot of it going on and you know I'm trying to help people keep their houses.
+
+DOCTOR X171
+@@@.
+
+PATIENT X171
+Or move on to the next.
+
+DOCTOR X171
+Uh-huh.
+
+PATIENT X171
+Situation.
+
+DOCTOR X171
+Uh-huh.  As cleanly as possible.
+
+PATIENT X171
+That's just you know the price of business.
+
+DOCTOR X171
+Yeah.
+
+PATIENT X171
+If I didn't care I wouldn't have the stress.
+
+DOCTOR X171
+Yes.  Yeah but I don't want this to have such a large negative impact on your health.
+
+PATIENT X171
+Well I just think it's, I just think as the economy gets worse, which it will continue to do, there's just going to be more of it.
+
+DOCTOR X171
+Uh-huh.
+
+PATIENT X171
+Fortunately I can only do so much.
+
+DOCTOR X171
+Right.
+
+PATIENT X171
+So.
+
+DOCTOR X171
+Alright well I don't want this to keep you.
+
+PATIENT X171
+No.  I'll just go home and drink.
+
+DOCTOR X171
+That's really true but this can be just as bad like when we talk about you, you see some of the veterans here who.
+
+PATIENT X171
+Right.
+
+DOCTOR X171
+Yeah and so it's, we don't want what's happening now affect you much further down the road.
+
+PATIENT X171
+Right.
+
+DOCTOR X171
+Alright cause.
+
+PATIENT X171
+But if you give you an assignment of monitoring my intake.
+
+DOCTOR X171
+Uh-huh.
+
+PATIENT X171
+Uh I'll do that.
+
+DOCTOR X171
+Okay, alright and we'll see how it goes and we're going to start this new medication.  Do you want to pick it up at the Pharmacy or have them mailed to you?
+
+PATIENT X171
+Oh just have it mailed to me.
+
+DOCTOR X171
+Okay.  So.
+
+PATIENT X171
+What is it?
+
+DOCTOR X171
+Um glipizide is the name of it.  It's another oral medication that is going to work in a slightly different way.
+
+PATIENT X171
+Is it in replace of or in addition to?
+
+DOCTOR X171
+No in addition to.
+
+PATIENT X171
+Okay are there any side effects?
+
+DOCTOR X171
+Well the one thing that can.
+
+PATIENT X171
+Will it make me sexy or something?
+
+DOCTOR X171
+It can make your blood sugar drop low.  Unlike metformin, it's very rare with metformin to have a low blood sugar because it works in a different way but this medication is going to increase your own secretion of insulin and so sometimes the side effect can be low blood sugars.  We're starting you on a dose that probably won't have that affect given what your blood sugars are.
+
+PATIENT X171
+Okay.
+
+DOCTOR X171
+But I would like to um you know, I'd like you to keep checking just like you are.
+
+PATIENT X171
+Uh-huh.
+
+DOCTOR X171
+And every once in a while.  Are these mostly fasting blood sugars in the morning that you're checking or are they during the day?
+
+PATIENT X171
+Usually in the morning.
+
+DOCTOR X171
+Yeah so let's try checking maybe one day a week check a blood sugar before dinnertime.
+
+PATIENT X171
+Okay.
+
+DOCTOR X171
+And see where things are there, at that time of day, so we know what your fluctuation is okay.  And today we'll do, we'll just check a couple labs.  Um and give us a call, maybe in a month and if you can give us a call and just tell us how your blood sugars are doing.
+
+PATIENT X171
+Alright.  Who do I call?
+
+DOCTOR X171
+I have a number here.  Um you can call, I'll have you call the nursing like hot line and then they'll send the message along to me.  So the phone number is 708-282-3800.  Oh and the last thing I wanted to do, just for your stomach in the meantime.
+
+PATIENT X171
+Uh-huh.
+
+DOCTOR X171
+Is give you that medication we were talking about, it's called omeprazole and I'll have you take it for a month.
+
+PATIENT X171
+Alright.
+
+DOCTOR X171
+And then you can stop.
+
+PATIENT X171
+Alright.
+
+DOCTOR X171
+It will work to decrease the acid secretion in your stomach.  Hopefully you won't be eating to try and you know.
+
+PATIENT X171
+Help me give it up.
+
+DOCTOR X171
+Yeah I mean what you're trying to do is neutralize that acid.
+
+PATIENT X171
+Uh-huh.
+
+DOCTOR X171
+And create a barrier to protect your stomach.  That's why, especially milk, things like that are counteracting the acid so, so do it for a month and see if that helps.
+
+PATIENT X171
+Okay.  That's not something I would have to stay on?
+
+DOCTOR X171
+No.  Hopefully after a month it gives your stomach some time to heal.
+
+PATIENT X171
+Alright.
+
+DOCTOR X171
+And then most people are able to stop.  If it does persist then that's a sign that something a little bit more worrisome is going on and we'll have you checked out by the gastroenterologist okay.
+
+PATIENT X171
+Alright.
+
+DOCTOR X171
+Alright so.  I want you to come back and see me in three months.  We'll get the hemoglobin A1c.
+
+PATIENT X171
+Alright.
+
+DOCTOR X171
+And check the electrolytes today.  Um and have you give us a call in about a month and let me know how your blood sugars are doing.
+
+PATIENT X171
+Alright.
+
+DOCTOR X171
+And if you're getting low blood sugars give a call too.
+
+PATIENT X171
+And where do I go again for the?
+
+DOCTOR X171
+We'll see if they can get you in out here.
+
+PATIENT X171
+Alright.
+
+DOCTOR X171
+You know it looks like she's not here, so we'll have you go down to the Lab to have your labs drawn.
+
+PATIENT X171
+Alright
+
+DOCTOR X171
+Alright so I'll give you this and you can turn that in at the front and you'll head down to the first floor for blood work.
+
+PATIENT X171
+Alright.
+
+DOCTOR X171
+Okay.  I won't shake your hand.
+
+PATIENT X171
+Alright.
+
+DOCTOR X171
+I'll give you a call if there are any problems with the labs.
+
+PATIENT X171
+Okay.  Thank you.
+
+PATIENT LEAVES:  69:57
+
+Time is 10:15
+
+
+
+

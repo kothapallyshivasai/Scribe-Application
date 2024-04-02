@@ -1,0 +1,334 @@
+
+DOCTOR X149
+PATIENT?
+
+PATIENT X149
+Hi doc.
+
+DOCTOR X149
+Hi.  Good to meet you.  How are you doing?  What can I help you with today?
+
+PATIENT X149
+Uh, I ran out of some of this, this one I don't have no.
+
+DOCTOR X149
+Sudafed.
+
+PATIENT X149
+This one uh, you told me to take one a day but they still have a half on the prescription and I ran out last week and couldn't get another one so I just wondered.
+
+DOCTOR X149
+Okay.  How's your hand numbness?
+
+PATIENT X149
+No it went away.
+
+DOCTOR X149
+Went away?
+
+PATIENT X149
+Yeah.
+
+DOCTOR X149
+Good.
+
+PATIENT X149
+My feet are still numb on the bottom.
+
+DOCTOR X149
+And the feet numbness has been going on the same amount of time?
+
+PATIENT X149
+More or less, right on the bottom.
+
+DOCTOR X149
+Both feet?
+
+PATIENT X149
+No just this one.
+
+DOCTOR X149
+Your left one.  Did you take your lisinopril this morning?
+
+PATIENT X149
+Yeah I took both of them yeah.
+
+DOCTOR X149
+The pills that, you said you were on @@@ right?
+
+PATIENT X149
+I got some one medicine, this one.
+
+DOCTOR X149
+Okay.
+
+PATIENT X149
+That is the half dose.
+
+DOCTOR X149
+So you took it on Wednesday.
+
+PATIENT X149
+No I took it this morning, I took it yesterday.  I got the medicine Wednesday.
+
+DOCTOR X149
+So you took it yesterday and you took it today.
+
+PATIENT X149
+Yeah a whole one and then a half of the other one.
+
+DOCTOR X149
+So when did you take a half, don't you take that twice a day.
+
+PATIENT X149
+One in the morning and one at night.
+
+DOCTOR X149
+Good.
+
+PATIENT X149
+And I got one of those machines that says the average of my last three readings was 142, 143.
+
+DOCTOR X149
+Okay.
+
+PATIENT X149
+And a couple times it said I had an irregular heartbeat detected, so I don't know what that means.
+
+DOCTOR X149
+Uh if you're moving around sometimes it'll say irregular heartbeat.
+
+PATIENT X149
+The machine?
+
+DOCTOR X149
+Yeah, it's just try to sit still if it says that.
+
+PATIENT X149
+Okay.  Then will @@@ come here or, when will they have more refill?
+
+DOCTOR X149
+I'll order them.  Do you want me to order so you can pick it up downstairs or.
+
+PATIENT X149
+They'll mail them right?
+
+DOCTOR X149
+Yeah.  How's your urination?
+
+PATIENT X149
+Still about the same.
+
+DOCTOR X149
+You know the last time we had talked you were going too often right.
+
+PATIENT X149
+Right yeah.
+
+DOCTOR X149
+You still going three or four times at night?
+
+PATIENT X149
+Yeah.
+
+DOCTOR X149
+And you still feel like you have urgency and a weak stream?
+
+PATIENT X149
+Sometimes yeah.
+
+DOCTOR X149
+Can you feel your heel?  Can you feel, like does it feel totally numb or is it you can feel a little bit there?
+
+PATIENT X149
+Sometimes I can't feel nothing.
+
+DOCTOR X149
+Okay.  That medicine for your prostate does that make you feel lightheaded?
+
+PATIENT X149
+No.  I only take that at night right now.
+
+DOCTOR X149
+Yes.  Okay can I get you to come over here?  Everything went okay with the colonoscopy?
+
+PATIENT X149
+Yeah he said everything is good.
+
+DOCTOR X149
+Deep breath.  And your heart. Can I get you to lay back now?  Okay you can sit up.  Say ah.
+
+PATIENT X149
+Ah.
+
+DOCTOR X149
+Okay.  Um so I'll reorder your medications um and we're going to go, um I'm going to increase the medication for the prostate cause you're still having problems going in the middle of the night right?
+
+PATIENT X149
+Uh-huh.
+
+DOCTOR X149
+Okay.  So we'll go up on that medicine and we'll keep everything else the same I think.
+
+PATIENT X149
+Okay.
+
+DOCTOR X149
+Okay.
+
+PATIENT X149
+Right.
+
+DOCTOR X149
+Alright I'll be right back.  I'm going to go talk to DOCTOR.
+
+PATIENT X149
+Okay.
+
+(DOCTOR OUT:  89:07  DOCTOR IN:  93:25)
+
+PATIENT X149
+Finish that other medicine first or do I just take this new one?
+
+DOCTOR X149
+Prostate?
+
+PATIENT X149
+Yeah.
+
+DOCTOR X149
+I'm not going to give you a new one; I'm just going to increase your dose.
+
+PATIENT X149
+Oh so I'll increase the other one @@@.
+
+DOCTOR X149
+Well you have 5 mg now, so I'm going to go to 10 mg.
+
+PATIENT X149
+But I say finish all the 5 first?
+
+DOCTOR X149
+No but you're on 5 mg now and I'll have you go to 10 mg, so just start taking two pills at the same time.
+
+PATIENT X149
+Oh just take two okay alright.
+
+DOCTOR X149
+Take two pills and then when the new.  Here let me see if they even have 10 mg doses.  
+
+PATIENT X149
+But those I have to take at night, I can't those during the day.
+
+DOCTOR X149
+Um you can take them any time you want but if you take them during the day they can make you lightheaded which is usually why we say take them at night.
+
+PATIENT X149
+Oh okay.  And the other one take half, one half still?
+
+DOCTOR X149
+Uh.
+
+PATIENT X149
+There's one @@@ a whole one.
+
+DOCTOR X149
+Yep and then the last one is the cholesterol pill where you take 1/2 one at night.
+
+PATIENT X149
+Right.
+
+DOCTOR X149
+Yeah.  And you still take the aspirin every night?
+
+PATIENT X149
+Every morning I take it, right after breakfast.  I just take them after breakfast right.
+
+DOCTOR X149
+Yeah, I didn't mean to say every night.  You can take aspirin whenever you want.
+
+PATIENT X149
+Hmm.  No I just take one in the morning actually.
+
+DOCTOR X149
+So the prostate pills, you'll get 10 mg pills now, so when the new pills come in the mail.
+
+PATIENT X149
+Just take one.
+
+DOCTOR X149
+Take one but for now you can start taking two.  If you start getting lightheaded with those medications you can stop and call into the clinic and I can try giving you a different medication then okay.
+
+PATIENT X149
+I just call the number?
+
+DOCTOR X149
+Yeah call the clinic number and say that you need to leave a message for your doctor.
+
+PATIENT X149
+Okay.
+
+DOCTOR X149
+And I'll give you my card.  It's a xxx card so don't dial the phone numbers.
+
+PATIENT X149
+No just dial the one here.
+
+DOCTOR X149
+Yeah.
+
+PATIENT X149
+Well I usually come when I'm not working down to the exercise, the cardiac rehab.
+
+DOCTOR X149
+Uh-huh.
+
+PATIENT X149
+I'm there two to three times a week.
+
+DOCTOR X149
+Sure.  Yeah any one of those times would be fine.
+
+PATIENT X149
+Alright.
+
+DOCTOR X149
+Yeah you can stop by; I'll give them to you.
+
+PATIENT X149
+Yeah that's when I do best.
+
+DOCTOR X149
+Okay.
+
+PATIENT X149
+Alright.
+
+DOCTOR X149
+No problem.
+
+PATIENT X149
+Okay.  Thanks a lot doc.
+
+DOCTOR X149
+Take care okay.  Have a good day.  Oh wait you need this, see you back in six months.
+
+PATIENT X149
+Okay.
+
+DOCTOR X149
+Remember to give that to the checkout people.
+
+PATIENT X149
+Alright thank you.
+
+DOCTOR X149
+Alright take care.
+
+PATIENT LEAVES:  97:55
+
+Time is 4:05
+
+
+
+

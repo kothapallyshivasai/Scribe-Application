@@ -1,0 +1,695 @@
+
+DOCTOR X658
+PATIENT?
+
+PATIENT X658
+Hey how you doing?
+
+DOCTOR X658
+Oh that's fine.  Hi I'm DOCTOR, pleased to meet you.  Come on back.  Alright just take a seat wherever.  How you feeling today?
+
+PATIENT X658
+Pretty good.  Refills that's my only problem.
+
+DOCTOR X658
+Let's see, I just have to put in some blood work for the last patient, okay just give me one second here.
+
+PATIENT X658
+Okay.
+
+DOCTOR X658
+Okay.  So it looks like I don't think we've seen you here for quite a while.
+ 
+PATIENT X658
+Well I don't know about that.  I came in here three weeks ago and that's when they told me that they wanted to start me on insulin.
+
+DOCTOR X658
+Was this the Urgent Care?
+
+PATIENT X658
+Oh yeah it was in Urgent Care.
+
+DOCTOR X658
+Yeah.  So let me see what they said actually um.
+
+PATIENT X658
+And I been waiting to find out about the insulin probably for my diabetes it was 200 and something.
+
+DOCTOR X658
+@@@?
+
+PATIENT X658
+Yeah.
+
+DOCTOR X658
+Okay.
+
+PATIENT X658
+And the blood pressure dropped.
+
+DOCTOR X658
+You have a history of so you had a gastric bypass.
+
+PATIENT X658
+Yeah, everything going good when I lost 100 pounds till I gained 50 back recently.
+
+DOCTOR X658
+I think I'm supposed to give you the, I think this is why this is stapled here.
+
+PATIENT X658
+Hmm.
+
+DOCTOR X658
+@@@.  You gained 50 pounds back?
+
+PATIENT X658 
+Yep.
+
+DOCTOR X658
+Okay.
+
+PATIENT X658
+And as I gained it back I could feel that the diabetes was coming back cause I could see when I pee, I pee all night.
+
+DOCTOR X658
+Okay.  Okay.  And your blood pressure's high as well.
+
+PATIENT X658
+Yeah.  I can see them little dots in my eyes when I sit down and go to sleep.
+
+DOCTOR X658
+Okay.  Now medication wise you're not taking anything.
+
+PATIENT X658
+I don't have anything yet no.
+
+DOCTOR X658
+Okay.  So you were taking insulin before?
+
+PATIENT X658
+No. 
+
+DOCTOR X658
+What were you taking?
+
+PATIENT X658
+I was taking uh metformin and glyburide.
+
+DOCTOR X658
+Yeah I don't think we'll have to @@@ metformin or anything like that.  Um so how have you been feeling?
+
+PATIENT X658
+I've been feeling kind of sluggish mostly.  Cause I don’t sleep regular.  I have to take a sleeping pill to sleep so.  I had stopped taking them period cause I don't work no more so I stay up all night.
+
+DOCTOR X658
+Why were you seen in Urgent Care?
+
+PATIENT X658
+Just cause I hadn't seen anybody for a long time so they told me to go to Urgent Care.
+
+DOCTOR X658
+Oh okay.
+
+PATIENT X658
+So I could get in cause they just told me I had to wait and go to the clinic was so long I got @@@.
+
+DOCTOR X658
+Okay.  And why do you think you've put back on all this weight?
+
+PATIENT X658
+Cause I don't work no more.
+
+DOCTOR X658
+Oh okay.
+
+PATIENT X658
+I went to Rehab.  See I used to work here and they told me to go to Rehab and when you come back you could get back on board but I went to Rehab and when I came back they didn't put me back on board and I been sitting at home for like a year now.
+
+DOCTOR X658
+Uh-huh.
+
+PATIENT X658
+I ain't have nothing to do.
+
+DOCTOR X658
+And your sugars at home are usually around 200?
+
+PATIENT X658
+Well when I came here and they did it, it was like I don't have no meter at my house.
+
+DOCTOR X658
+Oh.
+
+PATIENT X658
+So that was one of the reasons I came here so I could you know start getting back into the Diabetic Clinic or something cause I know when she did my blood work it was over 250.
+
+DOCTOR X658
+Okay let me put in an order to go to Prosthetics or actually Pharmacy can give you a sugar monitor, I can I'll order that.
+
+PATIENT X658
+And if you can, put me in for a PSA because I just found out my brother had surgery a month ago cause he had cancer of the prostate.
+
+DOCTOR X658
+Okay.
+
+PATIENT X658
+And I don't think I've one of them in like four or five years.
+
+DOCTOR X658
+So it looks like the last clinic they did some blood work when you were here.
+
+PATIENT X658
+Yeah.
+
+DOCTOR X658
+Your LDL was good.  Your cholesterol looks good, except your triglycerides were high.
+
+PATIENT X658
+Uh-huh.
+
+DOCTOR X658
+Had you just eaten?
+
+PATIENT X658
+Uh uh, I fasted.
+
+DOCTOR X658
+This was fasting okay.  So, your kidneys look fine but yeah your sugars, definitely diabetic again.
+
+PATIENT X658
+Uh-huh.
+
+DOCTOR X658
+Your sugar was very high.  So what kind of diet have you been eating?
+
+PATIENT X658
+I don't even eat pork hardly any more cause I, @@@ she got married she won't allow it and so I eat turkey, @@@ it's pretty good.  Lots of beans and rice.
+
+DOCTOR X658
+Oh lots of rice though?
+
+PATIENT X658
+Uh-huh.
+
+DOCTOR X658
+Rice has a lot of sugar.
+
+PATIENT X658
+Oh it do.
+
+DOCTOR X658
+Yeah, so that's kind of a no no.
+
+PATIENT X658
+What about spaghetti?
+
+DOCTOR X658
+It has all sugar.
+
+PATIENT X658
+Oh well that's the problem.
+
+DOCTOR X658
+All pastas and those are all carbohydrates.
+
+PATIENT X658
+I thought it was good for you.
+
+DOCTOR X658
+No, no, it's terrible for you actually.
+
+PATIENT X658
+Yeah cause I eat spaghetti like twice a week and rice once or twice a week.
+
+DOCTOR X658
+Well we'll get you hooked up with the MOVE Program again um.
+
+PATIENT X658
+Cause once I had the surgery and lost weight, my sugar went down to like 85-90 all the time so I had to stop taking the medicine completely cause then my blood sugar went too low.
+
+DOCTOR X658
+Okay.
+
+PATIENT X658
+I passed out at work one day but then I stopped taking all medications and I was fine for a couple years.
+
+DOCTOR X658
+Have you been drinking a lot of fluids?
+
+PATIENT X658
+Oh yeah, lots, a lot of water.
+
+DOCTOR X658
+So you were trying uh metformin?
+
+PATIENT X658
+I was taking that and glyburide cause for like a year or a year and a half I was on glyburide but it wasn't working and I was taking like four or five pills a day and they ended up giving me metformin to go with it and told me to take two of them a day with the glyburide.  It brought it down some but not enough.  It was still like 120 or 130 every day.
+
+DOCTOR X658
+And what were you taking for your blood pressure?
+
+PATIENT X658
+I can't remember the name of that stuff.
+
+DOCTOR X658
+Let's see if it's here.
+
+PATIENT X658
+I hated it because it give me a soft but then they started giving me Viagra but I used too many pills.
+
+DOCTOR X658
+@@@.  Okay maybe we could just start like a hydrochlorothiazide, that doesn't do anything sexually.
+
+PATIENT X658
+Yeah cause I got married, I can't be soft @@@.
+
+DOCTOR X658
+Okay um and any other pain or problems besides the diabetes and.
+
+PATIENT X658
+Just my knees cause I'm pretty sure I got to have my knees replaced.
+
+DOCTOR X658
+Have you talked with the surgeons?
+
+PATIENT X658
+I got an appointment Monday upstairs.
+
+DOCTOR X658
+Okay.
+
+PATIENT X658
+Uh-huh.
+
+DOCTOR X658
+With who, oh with them here?
+
+PATIENT X658
+Yeah.
+
+DOCTOR X658
+Okay.
+
+PATIENT X658
+Ortho.
+
+DOCTOR X658
+Okay and so you had some anemia after.
+
+PATIENT X658
+Yeah.
+
+DOCTOR X658
+So I think its fine now.
+
+PATIENT X658
+They had me taking iron pills and all that stuff yeah; I'm supposed to take a vitamin every day.
+
+DOCTOR X658
+And are you still taking, you're not taking the omeprazole anymore?
+
+PATIENT X658
+No.
+
+DOCTOR X658
+Okay.  But you had a bleed?
+
+PATIENT X658
+Yeah uh-huh.  That's when I was drinking a lot of liquor every day.
+
+DOCTOR X658
+Okay.
+
+PATIENT X658
+And uh I think it healed up right now.
+
+DOCTOR X658
+Okay.  Any alcohol use?
+
+PATIENT X658
+Uh-huh.
+
+DOCTOR X658
+How much?
+
+PATIENT X658
+I drink about three pints a week.
+
+DOCTOR X658
+Um cause I know you have a history of problems with alcohol right?
+
+PATIENT X658
+Uh-huh.
+
+DOCTOR X658
+And how much are you drinking?
+
+PATIENT X658
+I drink about a 4-pack of beer.
+
+DOCTOR X658
+A 4-pack?
+
+PATIENT X658
+Yeah when I drink.
+
+DOCTOR X658
+A 4-pack of a regular sized beer?
+
+PATIENT X658
+Yes.
+
+DOCTOR X658
+Okay.  Some people say I drink a beer but it's like a 40 ounce.
+
+PATIENT X658
+No, no, no it's a regular but I get the strong beer, the malt liquor.
+
+DOCTOR X658
+Okay.  Do you feel you need help trying to stop drinking; do you think that's too much?
+
+PATIENT X658
+I did.  I mean I went to Rehab six months.
+
+DOCTOR X658
+So you feel.
+
+PATIENT X658
+But I'm gonna tell you I didn't make no promises about alcohol but I did stop smoking crack.  I smoked crack for 25 years.
+
+DOCTOR X658
+And you stopped?
+
+PATIENT X658
+And I stopped.  I ain't had crack since I came back home from Great Lakes.
+
+DOCTOR X658
+Well good for you.
+
+PATIENT X658
+I got 18 months clean now.  I tell my wife all the time I would love to try to stop but I'm gonna drink my beer.  I get maybe this far and I not gonna hit that fighting no more I don't care.
+
+DOCTOR X658
+So maybe @@@.
+
+PATIENT X658
+Can you see the A1c that I took in there?
+
+DOCTOR X658
+Yeah it's extremely high.
+
+PATIENT X658
+Is it past 10?
+
+DOCTOR X658
+Yeah.  It's double what it's supposed to be.
+
+PATIENT X658
+Double a 10?
+
+DOCTOR X658
+Well it's 11.
+
+PATIENT X658
+Oh okay.
+
+DOCTOR X658
+Because it should be less than 6.
+
+PATIENT X658
+Right.  I had got it down to 7.3.
+
+DOCTOR X658
+Yeah.
+
+PATIENT X658
+When I was losing the weight cause it was like 10 1/2 and I got it down to 7.
+
+DOCTOR X658
+Well let me have you sit up here and um do an exam.
+
+PATIENT X658
+Yeah.
+
+DOCTOR X658
+Deep breath.  Knees to your chest, any problems.  
+
+PATIENT X658
+Well it's kind of sore right here.  Cause there's one time when I was gaining weight back I thought they had opened a vein up.
+
+DOCTOR X658
+Oh, pardon.  I think it feels fine, I'm not feeling a hernia or anything like that.
+
+PATIENT X658
+Yeah.  I'm talking about down here.  At one time it was hurting for like a week.
+
+DOCTOR X658
+Uh-huh.
+
+PATIENT X658
+And I thought I'd stretched the stomach thing and it was permanently little.
+
+DOCTOR X658
+Oh okay.  Um okay so I think as far as I think our main problems today are the diabetes and the blood pressure.  So we're gonna restart some medications which I'm gonna discuss with DOCTOR.  As far as just health screening type of stuff, I know you had a colonoscopy a few years ago.
+
+PATIENT X658
+Yes.
+
+DOCTOR X658
+So you're not due for that for eight more years.  You're fine.
+
+PATIENT X658
+Yeah.
+
+DOCTOR X658
+Um we could check a PSA today um otherwise you just had all your other blood work.
+
+PATIENT X658
+Right.
+
+DOCTOR X658
+I might, your 1+ on the number which we usually start medications for it looks okay but your triglycerides are really high.
+
+PATIENT X658
+Okay.  How.
+
+DOCTOR X658
+We don't like that, 473.
+
+PATIENT X658
+Okay.
+
+DOCTOR X658
+It's supposed to be below 150.
+
+PATIENT X658
+I know, I know.
+
+DOCTOR X658
+So I might um.
+
+PATIENT X658
+But at one time it was 1100.
+
+DOCTOR X658
+Oh.  Do you have a family history of that?
+
+PATIENT X658
+Yeah I think so.  The other one is on cholesterol medicine.
+
+DOCTOR X658
+Or do you want to go on fenofibrate?
+
+PATIENT X658
+What that one?
+
+DOCTOR X658
+I think I'm probably going to start you on that.  It's a medicine that mostly just works on the triglycerides.
+
+PATIENT X658
+Okay.
+
+DOCTOR X658
+But otherwise.
+
+PATIENT X658
+I know I got it from 1100 to 100 some, I was shocked.  It took about four months but.
+
+DOCTOR X658
+Well I'm gonna go talk with DOCTOR about all this and otherwise we'll, I'll get you to see somebody about that MOVE Program, the Diabetes Program.
+
+PATIENT X658
+Okay.
+
+DOCTOR X658
+So we can kind of get you back on track okay.
+
+PATIENT X658
+Okay.
+
+DOCTOR X658
+Anything else?
+
+PATIENT X658
+One thing.
+
+DOCTOR X658
+Yeah.
+
+PATIENT X658
+They said I supposed to go through you about getting my travel pay so you can check me out.
+
+DOCTOR X658
+Oh I'll set you up.
+
+PATIENT X658
+Okay.
+
+DOCTOR X658
+Anything else?
+
+PATIENT X658
+But other than that, when you say get a meter do they do that fasting meter like you use when you got to stick your finger?
+
+DOCTOR X658
+Yes.
+
+PATIENT X658
+They ain't got the disks yet?
+
+DOCTOR X658
+No.  Alright.
+
+PATIENT X658
+I wanted to get rid of the diabetes.
+
+DOCTOR X658
+Yeah.
+
+(DOCTOR OUT:  61:06  DOCTOR IN:  64:44)
+
+DOCTOR X658
+Alright.  So he's good with all those medicines.
+
+PATIENT X658
+Uh-huh.
+
+DOCTOR X658
+This is the information about that MOVE Program.
+
+PATIENT X658
+Okay.
+
+DOCTOR X658
+These are @@@.  So we're going to start metformin.
+
+PATIENT X658
+Uh-huh.
+
+DOCTOR X658
+And glyburide and hydrochlorothiazide.
+
+PATIENT X658
+That's for blood pressure.
+
+DOCTOR X658
+That's for blood pressure and fenofibrate for your triglycerides.
+
+PATIENT X658
+Oh okay.
+
+DOCTOR X658
+We'll check your PSA and then I'm gonna have you follow up with the Pharm-D, the pharmacist.
+
+PATIENT X658
+Uh-huh.
+
+DOCTOR X658
+In a month to look at your sugars.
+
+PATIENT X658
+Okay.
+
+DOCTOR X658
+Start keeping a log again.  You know the early morning and then do one in the afternoon.
+
+PATIENT X658
+Uh-huh.
+
+DOCTOR X658
+And bring that with you.
+
+PATIENT X658
+Okay.
+
+DOCTOR X658
+Okay.
+
+PATIENT X658
+Okay.
+
+DOCTOR X658
+I'll give you this, stop at the front they'll make the appointment.  It's just for Pharm-D in one month.
+
+PATIENT X658
+So do I need uh, do I need to go to the Pharmacy or.
+
+DOCTOR X658
+Um they can mail them to you.
+
+PATIENT X658
+Yeah.
+
+DOCTOR X658
+But if you want to start them today then they probably won't get to you for a while.
+
+PATIENT X658
+So I know they can mail them cause I know how long it takes for them.
+
+DOCTOR X658
+Okay that's fine.  Um I'll put in for the blood work, the PSA test and let me see the phone number where we can reach you is, make sure of the number, NUMBER.
+
+PATIENT X658
+Yeah.
+
+DOCTOR X658
+Okay cool.  Alright well then we'll sent you those.  We'll get you back in the MOVE Program.  We'll see you in six months and hopefully we'll get all this kind of taken care of okay.
+
+PATIENT X658
+Okay, that sound good.
+
+DOCTOR X658
+Sound good?
+
+PATIENT X658
+Sounds good.
+
+DOCTOR X658
+So you have to go see the knee doctors.
+
+PATIENT X658
+Yeah.
+
+DOCTOR X658
+Alright nice meeting you.
+
+PATIENT X658
+Now I'm gonna tell you, you the finest doctor I've had.
+
+DOCTOR X658
+Okay.
+
+PATIENT X658
+Don't forget to check me out.
+
+DOCTOR X658
+Alright I'll do that @@@ okay.
+
+PATIENT X658
+Okay you have a good one.
+
+PATIENT LEAVES:  66:49
+
+
+
+

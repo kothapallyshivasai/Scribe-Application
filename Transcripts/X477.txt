@@ -1,0 +1,594 @@
+
+DOCTOR X477
+PATIENT?
+
+PATIENT X477
+That's me.  How you doing?
+
+DOCTOR X477
+How are you?
+
+PATIENT X477
+Good.
+
+DOCTOR X477
+Here we go.  Okay.  Alright.  How you doing today?
+
+PATIENT X477
+Real good.  I had another appointment up there but they was taking so long I just came down here, back down here.  
+
+DOCTOR X477
+Oh which one was it?  Pulmonary?
+
+PATIENT X477
+Yeah.
+
+DOCTOR X477
+@@@.
+
+PATIENT X477
+Yeah, that was at 1:40.
+
+DOCTOR X477
+That's probably more important than ours cause they easy to reschedule.
+
+PATIENT X477
+@@@ had people out there sitting there, they didn't call nobody.
+
+DOCTOR X477
+Okay.
+
+PATIENT X477
+That's not right.
+
+DOCTOR X477
+How you doing today?  Anything bothering?
+
+PATIENT X477
+No uh, I need some uh breathing medication like uh to put in that, what do you call that little machine?
+
+DOCTOR X477
+The nebulizer?
+
+PATIENT X477
+Yeah.
+
+DOCTOR X477
+@@@.  That's what you were up there for.  Those were the lung doctors but that's fine.  You said that you were @@@ that was the problem.
+
+PATIENT X477
+Yeah.  Every time, what 1:30.
+
+DOCTOR X477
+Okay.
+
+PATIENT X477
+Then I come down here and went back up there.
+
+DOCTOR X477
+Okay.
+
+PATIENT X477
+Uh yeah uh.  Those little capsules, not capsules tubes really, they're tubes.  Know what I'm talking about?  You put in the medicine container yeah.
+
+DOCTOR X477
+Yeah.  Yeah they help.  Has that been helping you?
+
+PATIENT X477
+Yeah it helps.
+
+DOCTOR X477
+Good.  So let's see um.  When was the last time we saw you here?
+
+PATIENT X477
+Just a month ago.
+
+DOCTOR X477
+January, I see.  At that time, you had a cough right?  Has that improved at all?
+
+PATIENT X477
+No.
+
+DOCTOR X477
+The cough is gone?
+
+PATIENT X477
+It just stay the same.  I had surgery since I saw you.
+
+DOCTOR X477
+Yeah how's that going?
+
+PATIENT X477
+Oh man.  My arm is all bruised up and I said well what's that bruise, this bruise for?  Well we made that move just a little error, that's what they told me, you know.  
+
+DOCTOR X477
+Did they tell you that it had been an error @@@?
+
+PATIENT X477
+Yeah that's what she told me.
+
+DOCTOR X477
+You said there was bruising?
+
+PATIENT X477
+Bruise.
+
+DOCTOR X477
+Okay.  And then um has that resolved?
+
+PATIENT X477
+Uh uh.  She said it's gonna go away in time.
+
+DOCTOR X477
+Maybe we'll take a look at it afterwards okay.
+
+PATIENT X477
+Well.  Oh then DOCTOR explained to me about my elbows.  It's the first time somebody ever explained to me about it since I had the surgery on it.
+
+DOCTOR X477
+Okay.
+
+PATIENT X477
+Those doctors disappear.  I never could see the one who did the surgery.
+
+DOCTOR X477
+Who did the surgery?
+
+PATIENT X477
+Yeah and she told me that they took all the metal out but they had @@@.
+
+DOCTOR X477
+Yeah.
+
+PATIENT X477
+And they took the @@@ out.  I never did @@@ explained everything.  @@@.  Got a lot of arthritis in it.  @@@.  I might have to have another surgery though.
+
+DOCTOR X477
+@@@.
+
+PATIENT X477
+Yeah although I got a prescription they got going up there but I didn't see @@@ surgery.  @@@.
+
+DOCTOR X477
+@@@.
+
+PATIENT X477
+Oh no that's different @@@.
+
+DOCTOR X477
+@@@.
+
+PATIENT X477
+Those doctors @@@.
+
+DOCTOR X477
+Oh you know what sometimes it's the residents that they need to use @@@.
+
+PATIENT X477
+@@@ what the hospitals?
+
+DOCTOR X477
+Hospitals, emergencies.
+
+PATIENT X477
+Well.  
+
+DOCTOR X477
+I know it's frustrating.
+
+PATIENT X477
+@@@.  See that bruise, right over there.
+
+DOCTOR X477
+@@@.
+
+PATIENT X477
+Yeah that's all it is and the surgery was up here.
+
+DOCTOR X477
+Okay.
+
+PATIENT X477
+Right up here.
+
+DOCTOR X477
+I've got to see what @@@.
+
+PATIENT X477
+She said it was the bleeding on the inside.
+
+DOCTOR X477
+No that's not what happens.  There's like a @@@.
+
+PATIENT X477
+It don't hurt me none but.  What I'm saying, she wasn't there.
+
+DOCTOR X477
+Uh-huh.
+
+PATIENT X477
+She @@@ now.  @@@  You know what I'm saying?  I've been working with the other doctors.  That kind of stuff ain't right you know.  I don't know @@@.  I was thinking it's in there.
+
+DOCTOR X477
+Have you seen Physical Therapy?  Did they recommend anything?
+
+PATIENT X477
+No.  @@@ she want it to heal up.  I'm gonna go to them @@@ to see the doctor.
+
+DOCTOR X477
+Did they @@@ anything @@@?
+
+PATIENT X477
+Well I'm gonna see them Thursday.  I don't need it now.  @@@ but uh she told me @@@ and Physical Therapy.
+
+DOCTOR X477
+Okay.
+
+PATIENT X477
+For my elbow.
+
+DOCTOR X477
+Okay.
+
+PATIENT X477
+@@@ rotator cuff.
+
+DOCTOR X477
+Okay.  @@@ activity @@@.
+
+PATIENT X477
+Yes.
+
+DOCTOR X477
+Now have you been following with Infectious Disease?
+
+PATIENT X477
+@@@ see me in June I think.
+
+DOCTOR X477
+@@@.
+
+PATIENT X477
+Uh-huh.
+
+DOCTOR X477
+And then now that we were done with the surgeries will you follow up with the liver docs?
+
+PATIENT X477
+Yeah.
+
+DOCTOR X477
+Yes?
+
+PATIENT X477
+Yeah.
+
+DOCTOR X477
+You don't need us to send a new referral cause you saw them.
+
+PATIENT X477
+A what?
+
+DOCTOR X477
+You don't need a new referral from us cause you've seen them.  You saw them in January, do you remember?
+
+PATIENT X477
+Yeah.
+
+DOCTOR X477
+So we need to schedule a follow-up appointment okay.
+
+PATIENT X477
+Uh-huh.
+
+DOCTOR X477
+Yeah.
+
+PATIENT X477
+So can I go up there?
+
+DOCTOR X477
+Go up there and or you can uh call them, that's the Liver Clinic. 
+
+PATIENT X477
+Yeah.  
+
+DOCTOR X477
+Okay.
+
+PATIENT X477
+I can call that number on the phone?
+
+DOCTOR X477
+Yeah.
+
+PATIENT X477
+Oh okay.
+
+DOCTOR X477
+Okay.  Nothing to update.  So we can proceed, remember you had the ultrasound that had that abnormality and postponing @@@.
+
+PATIENT X477
+Yeah.
+
+DOCTOR X477
+So it sounds like maybe you're a little bit better than when I saw you last time.
+
+PATIENT X477
+Yeah.
+
+DOCTOR X477
+How's that rash?
+
+PATIENT X477
+It's still there.
+
+DOCTOR X477
+It's still there.
+
+PATIENT X477
+Yeah.
+
+DOCTOR X477
+Is it bothering you?
+
+PATIENT X477
+@@@.  Still got a little rash, a little red rash here and one over here.  What do you call it, it's another name for rash?  Uh.
+
+DOCTOR X477
+Dermatitis?
+
+PATIENT X477
+No.
+
+DOCTOR X477
+@@@.
+
+PATIENT X477
+No.  I don't know.
+
+DOCTOR X477
+Plaque?
+
+PATIENT X477
+Anyway.  She didn't give me nothing but some Vaseline.
+
+DOCTOR X477
+Yeah that's @@@.
+
+PATIENT X477
+And it's still there.
+
+DOCTOR X477
+How about the gabapentin?  Have you been using that?
+
+PATIENT X477
+Oh man I been, I had been taking that.  They ain't got nothing to do with that.
+
+DOCTOR X477
+Okay.  Yeah that's true.
+
+PATIENT X477
+You see, that's what she did.  She looked over my medications and gave me some of the same stuff you know.
+
+DOCTOR X477
+But they were thinking that maybe the nerve @@@.
+
+PATIENT X477
+I don't know.  I ain't have @@@.
+
+DOCTOR X477
+@@@?
+
+PATIENT X477
+No.
+
+DOCTOR X477
+That's good.
+
+PATIENT X477
+And she's telling me to buy some soap with lotion in it.  Anyway.  It is coming from dry skin sure enough.
+
+DOCTOR X477
+Yeah.
+
+PATIENT X477
+But, but uh I wanted her to see that, then it break out @@@.
+
+DOCTOR X477
+Right.  You know if you need to follow up with them, you can always do that.  Actually they did want to see you again you know and maybe they'll go into @@@ okay.
+
+PATIENT X477
+Uh-huh.
+
+DOCTOR X477
+They probably think, if it comes down to it, what they can do is take a sample, like a you know a small biopsy and review it under the microscope.
+
+PATIENT X477
+Why they have to do all that?
+
+DOCTOR X477
+No sometimes.  They, that's why they didn't do it yet but if its something that's really bothering you and it's not getting better you know we can, do you know what I mean?
+
+PATIENT X477
+Yeah.
+
+DOCTOR X477
+Okay.  Uh yeah they actually wrote in their note that they want to see you another time.  That's what they said.
+
+PATIENT X477
+Yeah.
+
+DOCTOR X477
+You actually have an appointment with them, March 22nd.  Oh I see you have an appointment with GI too on the 18th, which is tomorrow.  Actually just show up for that, you don't have to call them.
+
+PATIENT X477
+Okay.
+
+DOCTOR X477
+Okay.
+
+PATIENT X477
+Yeah.
+
+DOCTOR X477
+Do you have a list of all these appointments?
+
+PATIENT X477
+Yeah.
+
+DOCTOR X477
+So in Pulmonary they were gonna see you today um.
+
+PATIENT X477
+I'll go back up there when I leave here, see what they say.
+
+DOCTOR X477
+Okay, see if they can, they'll probably have to reschedule though.  Can I do a quick exam?
+
+PATIENT X477
+Uh-huh.
+
+DOCTOR X477
+Take a look and see your heart and lungs.  Can you lift up your shirt?  Do you get short of breath?
+
+PATIENT X477
+No.
+
+DOCTOR X477
+Are you smoking still?
+
+PATIENT X477
+Yeah.
+
+DOCTOR X477
+How much?
+
+PATIENT X477
+Same amount, a pack a day.
+
+DOCTOR X477
+Pack a day.  Want to quit?
+
+PATIENT X477
+Yeah that's why; I don't want to take this medicine with the nebulizer.
+
+DOCTOR X477
+Uh-huh.
+
+PATIENT X477
+Get rid of this cough and then use the patches I got.
+
+DOCTOR X477
+You have the patches already?
+
+PATIENT X477
+Yeah.
+
+DOCTOR X477
+I think you should try using them.
+
+PATIENT X477
+Yeah.
+
+DOCTOR X477
+And you don't have to wait until the cough is gone.
+
+PATIENT X477
+Yeah.
+
+DOCTOR X477
+If anything that's probably a good time because the smoking is probably going to make the cough worse.
+
+PATIENT X477
+Yeah but that's @@@.
+
+DOCTOR X477
+Take a deep breath.  Is there anything new about the cough or is it just @@@?  Are you coughing up junk?  You got any mucous?
+
+PATIENT X477
+Yeah.  It's not a whole lot but it's.
+
+DOCTOR X477
+Yeah.
+
+PATIENT X477
+Still comes up.
+
+DOCTOR X477
+@@@.  
+
+PATIENT X477
+Yeah.  @@@.
+
+DOCTOR X477
+Yeah I'm just going to go talk to DOCTOR and I'll be right back okay.
+
+PATIENT X477
+Thank you.
+
+(DOCTOR OUT:  76:29  DOCTOR IN:  82:35)
+
+DOCTOR X477
+PATIENT?
+
+PATIENT X477
+Yeah.
+
+DOCTOR X477
+What I'll do is, we can everything looks good today.  I think @@@ with all the right people in terms of follow-ups and.
+
+PATIENT X477
+Uh-huh.
+
+DOCTOR X477
+Specialists.  We'll refill your medications, including the nebulizers which is the main thing that you wanted.
+
+PATIENT X477
+Yes.
+
+DOCTOR X477
+And I do want you to follow up with Pulmonary though.
+
+PATIENT X477
+I'm gonna go up there.
+
+DOCTOR X477
+Okay.
+
+PATIENT X477
+I'll go see them.
+
+DOCTOR X477
+Stop in, but you have to reschedule uh @@@.
+
+PATIENT X477
+Okay.
+
+DOCTOR X477
+And uh we'll go from there okay.
+
+PATIENT X477
+Yeah.
+
+DOCTOR X477
+Make sure @@@.
+
+PATIENT X477
+Alright.
+
+DOCTOR X477
+@@@.
+
+PATIENT X477
+Okay.  See you later.
+
+DOCTOR X477
+Okay, take care.
+
+PATIENT LEAVES:  83:32.
+
+
+
+
+

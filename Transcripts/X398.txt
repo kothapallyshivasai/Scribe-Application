@@ -1,0 +1,788 @@
+
+DOCTOR X398
+PATIENT?  
+
+PATIENT X398
+Oh how you doing?
+
+DOCTOR X398
+Good to see you.
+
+PATIENT X398
+I'm doing good.
+
+DOCTOR X398
+How's the weather been treating you?
+
+PATIENT X398
+Oh the weather's been fine.
+
+DOCTOR X398
+I'm just going to do your vitals.
+
+PATIENT X398
+That's fine.
+
+DOCTOR X398
+They're gonna switch them over and they're going to do your vitals by the nurses now.
+
+PATIENT X398
+Hey.  
+
+DOCTOR X398
+@@@.  Yeah believe @@@.
+
+PATIENT X398
+@@@ the reason I called in @@@.
+
+DOCTOR X398
+Some people with work @@@.
+
+PATIENT X398
+@@@.
+
+DOCTOR X398
+@@@.  All this time, you know if we keep you within your range and I've always found sometimes people with work ethics @@@.
+
+PATIENT X398
+Oh no.
+
+DOCTOR X398
+Yeah I know, you know especially gentlemen like you, @@@ hard @@@ you know but @@@.  You know people here they just don't appreciate that, being a lot of countries come and take their jobs.  Actually @@@.  Now @@@.  
+
+PATIENT X398
+Right.
+
+DOCTOR X398
+So all we got to do is @@@.  
+
+PATIENT X398
+@@@.
+
+DOCTOR X398
+Once in a while I do do it.  @@@.  You've got some @@@ on you.
+
+PATIENT X398
+Yeah.
+
+DOCTOR X398
+And uh.
+
+PATIENT X398
+I'm gaining too much weight doc.  And my blood pressure shoot up, so it went from 125s to 130s.
+
+DOCTOR X398
+Did you take your medication today?
+
+PATIENT X398
+Uh-huh.  Part of it.
+
+DOCTOR X398
+You been taking the blood pressure at home?
+
+PATIENT X398
+Uh-huh.
+
+DOCTOR X398
+@@@ what do you get?  @@@ blood pressure, so we'll do it again after this.  How's the family been?
+
+PATIENT X398
+Just fine.
+
+DOCTOR X398
+Sit up.  It's still a little bit high @@@.  Are you due for your medications today?
+
+PATIENT X398
+2:30, 4:00 o'clock @@@.
+
+DOCTOR X398
+Cause I want to know about the @@@.
+
+PATIENT X398
+Okay.
+
+DOCTOR X398
+You should be there right now right?
+
+PATIENT X398
+@@@.
+
+DOCTOR X398
+Do you take your blood pressure at home?
+
+PATIENT X398
+Uh-huh.
+
+DOCTOR X398
+And what do you get then?
+
+PATIENT X398
+125 to 130.
+
+DOCTOR X398
+Okay.  One other thing @@@.  So how you been feeling since the last time I saw you?
+
+PATIENT X398
+Um good.  Except for the sugars.
+
+DOCTOR X398
+Still high?
+
+PATIENT X398
+Yeah.
+
+DOCTOR X398
+How high?
+
+PATIENT X398
+Well 240, 250 and I'm breaking some 3s now and then.  It was 3 something the day.  I'm taking the uh 60s.  Well I've gone up to 65.
+
+DOCTOR X398
+Of the Neurontin?  In the evening?
+
+PATIENT X398
+No it was 200, @@@.
+
+DOCTOR X398
+@@@ that.
+
+PATIENT X398
+Yeah I always do that.  Just like the mornings, this morning it was, that's what it's been, @@@.  And I get, I used to get 5 units of Aspart.
+
+DOCTOR X398
+So you were on 5 units three times a day and 65 units of Glargine?
+
+PATIENT X398
+But she had me on 60 units of Glargine but they told me if it didn't do any good or go down in the morning go up to 65.
+
+DOCTOR X398
+What we could do.
+
+PATIENT X398
+It's not getting @@@.
+
+DOCTOR X398
+No @@@.  Okay let's see.  That's not too good, not too good.
+
+PATIENT X398
+@@@ my sugars are really bad.
+
+DOCTOR X398
+@@@.  So then when do you test @@@.
+
+PATIENT X398
+Well now a week ago.
+
+DOCTOR X398
+And you started on 5 units of Aspart.
+
+PATIENT X398
+Uh-huh.
+
+DOCTOR X398
+Before meals?
+
+PATIENT X398
+Right.
+
+DOCTOR X398
+Three times a day?
+
+PATIENT X398
+Right.
+
+DOCTOR X398
+And did you notice improvement in your sugars after you had gone up to 65?  @@@.
+
+PATIENT X398
+I think I did yeah and it's like after I eat dinner, around 6:30, 7 o'clock I'm not eating anything.
+
+DOCTOR X398
+@@@.  
+
+PATIENT X398
+When I'm waking up I'm checking my sugars, 260 you know, 240.
+
+DOCTOR X398
+Have you been @@@ a lot?
+
+PATIENT X398
+Oh yeah @@@.
+
+DOCTOR X398
+Have you been real thirsty?
+
+PATIENT X398
+No, not real thirsty.  When I wake up in the night I be thirsty.
+
+DOCTOR X398
+Any chest pain, fever, chills?
+
+PATIENT X398
+No.
+
+DOCTOR X398
+No trouble breathing?
+
+PATIENT X398
+No.
+
+DOCTOR X398
+What about @@@?  I mean obviously this does not, you know, help @@@ but what about exercise?
+
+PATIENT X398
+Yeah I try; I mean I try to walk a little bit yeah.  I might get on the treadmill and I might do seven minutes.  I know that ain't nothing but it's something.
+
+DOCTOR X398
+@@@ more than I've done.  I mean I don't expect you to run a marathon.
+
+PATIENT X398
+Right.
+
+DOCTOR X398
+Now what happens?  Do you get real tired with that?
+
+PATIENT X398
+Oh I don't get tired @@@ but my hip.  I guess it's because it's not used you know.
+
+DOCTOR X398
+@@@ take Tylenol do you do that?
+
+PATIENT X398
+No.
+
+DOCTOR X398
+You don't want to take Tylenol?
+
+PATIENT X398
+Oh I have enough @@@ yeah @@@ you know if it's just for a few, you know, from exercise.
+
+DOCTOR X398
+The problem is as we get older we'll get arthritis @@@ right.
+
+PATIENT X398
+I don't know I may have that, especially here you know.
+
+DOCTOR X398
+Yeah so you know when your hip starts hurting, take the Tylenol before, about a half an hour you know before, sure just to kind of calm it down so you can keep walking.
+
+PATIENT X398
+Alright.
+
+DOCTOR X398
+Cause you're doing the right thing and I know that your intentions are great.
+
+PATIENT X398
+Uh-huh.
+
+DOCTOR X398
+But you just got to keep going.  You've got to find a way so you can keep exercises cause what happens when you exercise the muscles use up the sugar and @@@ baseline they use it up without insulin okay.  That's the way the body's made you know.  The muscles, you know when you exercise they know that they can't wait for the insulin.
+
+PATIENT X398
+Right.
+
+DOCTOR X398
+They predict you and they use the sugar @@@ and they're going to be dropping your sugar level and it's a natural way of the body controlling the diabetes.
+
+PATIENT X398
+Yeah like when I walk, I always get pain while I'm going, coming back it's you know, it's not too bad.
+
+DOCTOR X398
+Okay.  @@@ sugar is controlled @@@.  And @@@ I think we've got to be real aggressive with this.  @@@.  I'm gonna talk to my boss, DOCTOR @@@.  Possibly going to 75 @@@.
+
+PATIENT X398
+Uh-huh.
+
+DOCTOR X398
+Possibly going to 75 and increasing the Aspart @@@.  See how the 75 does and if that's okay with the 5 and it's too high then we can increase again.
+
+PATIENT X398
+I can't @@@ anything.  Isn't my prescription supposed to be @@@.
+
+DOCTOR X398
+No.  @@@.  So you know you been diabetes right for nine years.  The pancreas which is the main organ involved with @@@ okay so when you first started @@@ it's not making insulin well.
+
+PATIENT X398
+Right.
+
+DOCTOR X398
+Most of the cells are not working with the kidneys, but @@@ are working.  As time goes on the cells that are working start dying, they give up because they @@@.
+
+PATIENT X398
+Right.
+
+DOCTOR X398
+It's like pumping.
+
+PATIENT X398
+Yeah they're doing all the work.
+
+DOCTOR X398
+Right so what you find is a lot of times people are controlled and some of those cells stop working and you get to the point that these cells kind of give up.  You know that's why @@@ anything so and that's one of the problems you're having is @@@ you know, what do you @@@ right.  But you know it's not, @@@ not getting better @@@.
+
+PATIENT X398
+Right.
+
+DOCTOR X398
+You're eating fruits; you're eating good meals and watching it?
+
+PATIENT X398
+Right.
+
+DOCTOR X398
+At home you told me your blood pressures are in the 130s @@@?
+
+PATIENT X398
+Yeah.  Between 125.
+
+DOCTOR X398
+Alright, so you know don't worry about the, you know I mentioned when you're at home just write them down for me, you know write them and kind of keep a log @@@.
+
+PATIENT X398
+Well I @@@ a couple weeks @@@.
+
+DOCTOR X398
+But just write them down for me and bring it in so I can actually see it.
+
+PATIENT X398
+Let's go up to uh @@@.  Even 10 on that Aspart.
+
+DOCTOR X398
+Uh I mean the Aspart I don't know if it's gonna do the trick.
+
+PATIENT X398
+I don't either but I can't, it's hard for me to @@@ with one eye.  It's easier for me to see the 10.
+
+DOCTOR X398
+@@@.
+
+PATIENT X398
+Than it is for me to try to @@@.
+
+DOCTOR X398
+We'll @@@, we'll go up on the Aspart dose.
+
+PATIENT X398
+Okay.
+
+DOCTOR X398
+And that'll help you out.  Other than that you been doing okay?
+
+PATIENT X398
+Yeah.
+
+DOCTOR X398
+Have a seat.  How's your vision been?
+
+PATIENT X398
+Uh pretty good.  @@@.
+
+DOCTOR X398
+Have you seen the eye doctor yet?
+
+PATIENT X398
+I go to the @@@ doctor for @@@ vision.
+
+DOCTOR X398
+Okay.
+
+PATIENT X398
+And @@@.
+
+DOCTOR X398
+And you're gonna see the eye doctor for anything?
+
+PATIENT X398
+No.
+
+DOCTOR X398
+Okay.  You can also pop by the clinic and @@@.
+
+PATIENT X398
+@@@.
+
+DOCTOR X398
+@@@.
+
+PATIENT X398
+Uh.
+
+DOCTOR X398
+@@@.
+
+PATIENT X398
+No @@@.
+
+DOCTOR X398
+@@@ yeah you should stop by the clinic and see what's going on.  Say ah for me.  Say ah.
+
+PATIENT X398
+Ah.
+
+DOCTOR X398
+But I know that some of this stuff would be definitely very helpful for your sugars.
+
+PATIENT X398
+@@@ you know even with my glasses I can't see my watch.
+
+DOCTOR X398
+Take a deep breath, again, again.  Breathe normal now, @@@.  Any leg swelling?
+
+PATIENT X398
+This one sometimes @@@.
+
+DOCTOR X398
+They both have a little swelling.  You're using the water pill right?
+
+PATIENT X398
+Yes.
+
+DOCTOR X398
+And when you're home are you elevating your legs?  You don't elevate them?
+
+PATIENT X398
+Yeah.
+
+DOCTOR X398
+Even when you're watching TV?
+
+PATIENT X398
+Hmm.
+
+DOCTOR X398
+Were you doing it?
+
+PATIENT X398
+Uh uh.
+
+DOCTOR X398
+Well when you're watching TV or just sitting down, you know what happens is you need to elevate it.
+
+PATIENT X398
+A lot of times I'm laying down and elevate it and when I go in the bed.
+
+DOCTOR X398
+Yeah.  @@@.  Your breath sounds are great.  
+
+PATIENT X398
+@@@.  
+
+DOCTOR X398
+Yeah @@@ great.  Those keep the bowel going.
+
+PATIENT X398
+@@@.  Lots of the medicine I'm taking it keeps me constipated.
+
+DOCTOR X398
+Right.  I might give you a couple of refills and if you happen to be running low call me.
+
+PATIENT X398
+Well I usually feel I @@@.  I mean I use @@@.
+
+DOCTOR X398
+@@@ four refills @@@.
+
+PATIENT X398
+Right.
+
+DOCTOR X398
+I'm going to go talk with my attending and I'll be right back.
+
+(DOCTOR OUT:  74:38  DOCTOR IN:  85:08)
+
+DOCTOR X398
+Okay.  We're going to go up @@@.  Um you're having a little problem @@@ and I know your vision is not the best so you just @@@ the line.
+
+PATIENT X398
+Right, right.  @@@ I have to look real close.  I have a magnifier, even with a magnifier it's hard you know.  Things are you know the line.
+
+DOCTOR X398
+Why don't you pop @@@.
+
+PATIENT X398
+Oh yeah I believe so.
+
+DOCTOR X398
+100%?  90%?  75%?
+
+PATIENT X398
+Well I don't @@@ but on my insulin I might be miss just maybe one line or two.
+
+DOCTOR X398
+So on the Aspart you want to make sure and give yourself 65.
+
+PATIENT X398
+And go up to 5 units.
+
+DOCTOR X398
+@@@.
+
+PATIENT X398
+Is it marked?  I might go halfway that's the way I've been judging it now.
+
+DOCTOR X398
+@@@ I think maybe you might not have to do maybe almost @@@ but maybe because of your vision then you have a hard time doing it.  That may have a lot to do with it.  
+
+DOCTOR X398
+Do you live by yourself or is there anybody at home that could help you with it?
+
+PATIENT X398
+I'm all by myself.
+
+(Silence from 87:38 - 90:59)
+
+DOCTOR X398
+So this is the stuff we're trying to figure out.  We're trying, we're gonna try to get something different that's gonna help with that.  Instead of using the needle, we're going to try to give you these insulin tabs okay.  Instead of drawing blood, like drawing into a syringe you're going, it's a pump, not a pump but a little contraption okay and then it'll show the number on it. 
+
+PATIENT X398
+Oh.
+
+DOCTOR X398
+Instead of drawing and looking at the lines, you're going to set it for numbers and we think it is something that will help and it has a little insulin bottle.  Do you think that's be a lot easier than the insulin?
+
+PATIENT X398
+Yeah.  So I was going to tell you was I made a mistake, one or two units too much and not too less.
+
+DOCTOR X398
+Okay.  Do you hold @@@?
+
+PATIENT X398
+I could be I mean, if that's my probably @@@.  Cause I have a problem counting those lines, I'm not going to go, I'm not going to go over you know.
+
+DOCTOR X398
+So let's see.  I think if that could work and we could get @@@ right.  So if that's going to be a lot easier anyway and we should be 100% sure exactly how much you have okay.  Does that sound like fun?
+
+PATIENT X398
+Whatever you want to do.  What about this Losartan?
+
+DOCTOR X398
+Oh yeah it's a blood thinner.
+
+PATIENT X398
+Oh I thought it was for the @@@.
+
+DOCTOR X398
+Yeah it is for the @@@ cause the problem is your blood pressure and your sugar, those are the two most important things.  We got to get your blood pressure and sugars corrected okay and no overloading your sugars.  So your blood pressure @@@ okay.
+
+PATIENT X398
+Yeah the blood pressure's fine cause it has dropped down to 113, 118 you know.  Like I said, most of the time at home it's pretty good you know because all these 120s, anywhere from 120-133 I'll say it like that.  It's never in the 140s at home.  That's why I'm so surprised that they get 147.
+
+DOCTOR X398
+Well let me go check with him once more.
+
+(DOCTOR OUT:  93:29)  DOCTOR IN:  94:10)
+
+FIRST DOCTOR X398
+We'll have you on your way we just want to check out one more spot.
+
+SECOND DOCTOR X398
+Alright.
+
+PATIENT X398
+Hi.
+
+SECOND DOCTOR X398
+So um the only um, @@@ the only change is that um @@@ Glargine and @@@.  The @@@ is actually cheaper @@@ VA physician prefers.  Glargine can @@@.
+
+PATIENT X398
+Okay.
+
+SECOND DOCTOR X398
+So that was their preferred action.  @@@.  There are two @@@ but can you feel it click, to get the dose as opposed to having to measure you know.
+
+PATIENT X398
+Right.
+
+SECOND DOCTOR X398
+So it's easier for people who can't see 100% anymore.  @@@ and I guess @@@.  
+
+FIRST DOCTOR X398
+@@@.
+
+SECOND DOCTOR X398
+Yes definitely.  Okay, good.
+
+FIRST DOCTOR X398
+Alright we'll do that.
+
+PATIENT X398
+Sounds good.
+
+FIRST DOCTOR X398
+We'll try to do this.  
+
+PATIENT X398
+But I can still take them at the same time?
+
+FIRST DOCTOR X398
+Yeah the same.
+
+PATIENT X398
+@@@ don't mix them.
+
+FIRST DOCTOR X398
+So it looks right now, a couple of things.  I'm willing to go up to 70 as long as you're more sure that you're giving yourself.  How confident are you that you're giving yourself @@@?
+
+PATIENT X398
+Um well I @@@.
+
+DOCTOR X398
+@@@ so we'll do 70.  And 7 units at night right?
+
+PATIENT X398
+Yes.
+
+DOCTOR X398
+@@@ have anything @@@. Actually you could probably pick it up at the window if you like.
+
+PATIENT X398
+Yeah okay.  Now I need the, I order the isosorbide. 
+
+DOCTOR X398
+Okay.
+
+PATIENT X398
+I need it now cause.
+
+DOCTOR X398
+Are you talking about @@@.
+
+PATIENT X398
+I take it three times a day.
+
+DOCTOR X398
+Okay so we're giving you a pen for that.
+
+PATIENT X398
+No, no, that's the insulin.
+
+DOCTOR X398
+Yeah we're going to adjust the insulin.
+
+PATIENT X398
+Uh is this the, this is the one for the heart.
+
+DOCTOR X398
+Oh okay, I'm going to refill all of your medications.  
+
+PATIENT X398
+@@@.  The last time they gave me 160 refills.
+
+DOCTOR X398
+Before?
+
+PATIENT X398
+Yeah and I did then, but I don't know why they not charging me now.  Somebody made a mistake somehow.  I never get refills after you take so much of this like I said @@@.  So right now I'm going to the Kidney Center and they want to talk about dialysis.  
+
+DOCTOR X398
+@@@ it always help just having it @@@ refills so you know you just put the little @@@ they'll show you how to do it.  Put the cartridges in, select the number and @@@.
+
+PATIENT X398
+Uh no.  I been taking @@@.
+
+DOCTOR X398
+The hydralazine okay.
+
+PATIENT X398
+Uh-huh.
+
+DOCTOR X398
+You need Lantus.
+
+PATIENT X398
+I don't need the Lantus.
+
+DOCTOR X398
+You're allowed two refills.  @@@.
+
+PATIENT X398
+Yes if you want to do that.  @@@.
+
+DOCTOR X398
+@@@.  Stay on the metoprolol.  Quetiapine and furosemide.
+
+PATIENT X398
+Yeah I'm taking that.  @@@.
+
+DOCTOR X398
+Omeprazole?
+
+PATIENT X398
+Yeah.
+
+DOCTOR X398
+Do you still get heartburn?
+
+PATIENT X398
+No.  Every now and, you know if I don't.  I can go three, four or five days without taking one of those but I get it you know.
+
+DOCTOR X398
+Maybe once a week you get it?
+
+PATIENT X398
+Yeah.
+
+DOCTOR X398
+Does it only happen when you eat the wrong foods?
+
+PATIENT X398
+No, it just comes automatically if I don't, you know like I say after three or four days you know.
+
+DOCTOR X398
+Simvastatin.  Are you using the Vicodin still?
+
+PATIENT X398
+No, I haven't.
+
+DOCTOR X398
+Isosorbide.
+
+PATIENT X398
+Yeah.  @@@.  I need that one.
+
+DOCTOR X398
+And what about the vitamin D?
+
+PATIENT X398
+Everyone keeps wanting me to take it.  @@@ take it just once a week I think.
+
+DOCTOR X398
+And they're having you take it once a week?
+
+PATIENT X398
+Right.
+
+DOCTOR X398
+Okay so I'll @@@ you have your sugars down but @@@ in two weeks?
+
+PATIENT X398
+Uh-huh.
+
+DOCTOR X398
+There you go and in the meantime I want to get it today to go by the Lab and @@@.  @@@.
+
+PATIENT X398
+@@@.
+
+DOCTOR X398
+(Someone knocked on the door)  Doctor speaks to someone at the door.  Um are you going to go see the eye doctor @@@?
+
+PATIENT X398
+Uh no I @@@ for me.
+
+DOCTOR X398
+I'm going to set you up for another appointment so they can help you out @@@.
+
+PATIENT X398
+Okay.  @@@.
+
+DOCTOR X398
+Okay.  And when you're coming in @@@.
+
+PATIENT LEAVES:  105:30  (Talks with the pharmacist)
+
+It is 4:10.
+
+
+
+

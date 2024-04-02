@@ -1,0 +1,1139 @@
+
+DOCTOR X113
+PATIENT?  How you doing today?
+
+PATIENT X113
+Will @@@.
+
+DOCTOR X113
+@@@.  @@@ came from.  Perfect, exactly.  Well nice to meet you.
+
+PATIENT X113
+Yeah nice to meet you too.
+
+DOCTOR X113
+Good job.  I haven't been to the VA too much in the past but uh.
+
+PATIENT X113
+Oh really.
+
+DOCTOR X113
+Yeah.
+
+PATIENT X113
+Wow, man I just.
+
+DOCTOR X113
+You special timed out on the 228?
+
+PATIENT X113
+Uh I spent more time in ATC.
+
+DOCTOR X113
+Oh really.
+
+PATIENT X113
+I was in ATC.
+
+DOCTOR X113
+Oh really.  Op.  Where are you in uptown?
+
+PATIENT X113
+I had detached a tendon.
+
+DOCTOR X113
+Oh yeah.
+
+PATIENT X113
+In my ankle with it and had that all reattached and everything else.
+
+DOCTOR X113
+Yeah.
+
+PATIENT X113
+Uh but eventually uh one of the screws backed out.
+
+DOCTOR X113
+Oh really.
+
+PATIENT X113
+So they had to go back in and take all the hardware out.
+
+DOCTOR X113
+Okay.
+
+PATIENT X113
+You know but yeah that's what that was all about.
+
+DOCTOR X113
+Okay.  Alrighty uh well let's see.  Let me pull up your record here.  Um it doesn't look like you've ever really established care with anybody here at the VA before right?
+
+PATIENT X113
+Well I was.
+
+DOCTOR X113
+In the Medicine Department.
+
+PATIENT X113
+Well I was with DOCTOR for quite some time.
+
+DOCTOR X113
+Okay, alright.
+
+PATIENT X113
+Uh after my stroke.
+
+DOCTOR X113
+Okay.
+
+PATIENT X113
+But now the last @@@ in August.
+
+DOCTOR X113
+But when was that stroke again?
+
+PATIENT X113
+Uh 06/06, I think it was.
+
+DOCTOR X113
+Okay and then also you have heart disease?
+
+PATIENT X113
+I had a heart attack.
+
+DOCTOR X113
+You had a heart attack.
+
+PATIENT X113
+Yeah.
+
+DOCTOR X113
+Do you remember when that was?
+
+PATIENT X113
+That was in October of 98.
+
+DOCTOR X113
+Okay and did they do anything like a bypass, did you have a stent?
+
+PATIENT X113
+I have a stent.
+
+DOCTOR X113
+No stent.
+
+PATIENT X113
+In my left descending.
+
+DOCTOR X113
+Okay.  Uh and did you take Plavix after.
+
+PATIENT X113
+Uh I take lovastatin.
+
+DOCTOR X113
+Lovastatin.
+
+PATIENT X113
+Yeah.
+
+DOCTOR X113
+Okay were you ever on a medicine called clopidogrel or Plavix for that?  No.
+
+PATIENT X113
+I don't think so.
+
+DOCTOR X113
+That's alright.
+
+PATIENT X113
+I may have.
+
+DOCTOR X113
+You may not have been back then but that's okay, that's fine.  Um let's see.
+
+PATIENT X113
+Now I took, at one point, let me see what.  I keep calling it metoprolol.
+
+DOCTOR X113
+Yeah, yeah @@@.
+
+PATIENT X113
+Is that right?
+
+DOCTOR X113
+Yeah.
+
+PATIENT X113
+Okay.
+
+DOCTOR X113
+What medicines are you taking right now though?
+
+PATIENT X113
+Right now lovastatin uh, @@@, trazodone.
+
+DOCTOR X113
+Okay.
+
+PATIENT X113
+Aspirin.
+
+DOCTOR X113
+Okay.  Do you remember what doses you're on?
+
+PATIENT X113
+No.
+
+DOCTOR X113
+Okay.  Um and where do you get that medicine from?
+
+PATIENT X113
+Here.
+
+DOCTOR X113
+Um okay.  So we have our records as actually taking simvastatin.  Does that, does that?
+
+PATIENT X113
+Yeah.
+
+DOCTOR X113
+Okay so the records show you get all your medicines here.
+
+PATIENT X113
+Yeah my medicines come from here.
+
+DOCTOR X113
+That would be accurate okay good.
+
+PATIENT X113
+I've got like stockpiles of them in the last couple days.  Not that, in the past couple weeks uh.
+
+DOCTOR X113
+Yeah you've just been getting more of them.
+
+PATIENT X113
+Yeah and so.
+
+DOCTOR X113
+@@@ needing it.
+
+PATIENT X113
+All of a sudden I got all these uh.
+
+DOCTOR X113
+Yeah.
+
+PATIENT X113
+Pharmaceuticals coming in you know.
+
+DOCTOR X113
+Yeah @@@.  Okay.
+
+PATIENT X113
+Uh it's straightened out, I mean I know it's hard but.
+
+DOCTOR X113
+How have you been feeling lately?
+
+PATIENT X113
+Right now my allergies are beating me up.
+
+DOCTOR X113
+Do you get allergies every year around this time?
+
+PATIENT X113
+No.
+
+DOCTOR X113
+So this is kind of new.
+
+PATIENT X113
+Yeah.
+
+DOCTOR X113
+What type of problems are you having?
+
+PATIENT X113
+Oh just uh sneezing and sore throat and headache.  You know my sinuses are of course all clogged up.
+
+DOCTOR X113
+Okay and are you taking any over-the-counter medicines for that?
+
+PATIENT X113
+Yeah I've been taking Zyrtec is that right?
+
+DOCTOR X113
+Yeah.  Is that working for you?
+
+PATIENT X113
+Ah.
+
+DOCTOR X113
+Okay.
+
+PATIENT X113
+No.
+
+DOCTOR X113
+Okay.
+
+PATIENT X113
+You know.  But that's not the only problem I; at the house we redid the kitchen.
+
+DOCTOR X113
+Yeah.
+
+PATIENT X113
+So there's no dry wall.
+
+DOCTOR X113
+Right, right, right.
+
+PATIENT X113
+Demo, yeah.
+
+DOCTOR X113
+You tore it up a lot.
+
+PATIENT X113
+Right, on top of the allergies it's you know so.
+
+DOCTOR X113
+Alright um, sounds good.  We can see if we can do anything for that.  We have a medicine I think would be a little stronger that Zyrtec you could maybe try.
+
+PATIENT X113
+Yeah I talked to the pharmacist there at Walgreen’s.
+
+DOCTOR X113
+Yeah.
+
+PATIENT X113
+And I told him what I was taking.
+
+DOCTOR X113
+Yeah.
+
+PATIENT X113
+And he said here, try the Zyrtec.
+
+DOCTOR X113
+Yeah.  We can just keep on that then; hopefully it will get better once the dust settles.
+
+PATIENT X113
+But like I said if I could get something stronger I'd sure @@@.
+
+DOCTOR X113
+It's the same medicine.  You don't know dose your taking do you?
+
+PATIENT X113
+Uh I'm taking one every 24 hours so.
+
+DOCTOR X113
+So probably @@@ would change is what we can offer for now so keep you going with what your doing.
+
+PATIENT X113
+Yeah that's fine.  If you're not going to change it.
+
+DOCTOR X113
+Yeah.
+
+PATIENT X113
+@@@.
+
+DOCTOR X113
+Okay um just because this is required that you see me; I got a couple questions for you.
+
+PATIENT X113
+Uh-huh.
+
+DOCTOR X113
+Um previous surgeries you had your foot surgery in 2008 anything else?
+
+PATIENT X113
+Heart.
+
+DOCTOR X113
+Oh then you had a heart surgery stent okay.  Okay.
+
+PATIENT X113
+And I had a cancer behind my back.
+
+DOCTOR X113
+Okay what; I don't have any record but what was done there?
+
+PATIENT X113
+No it was done here.
+
+DOCTOR X113
+Okay.
+
+PATIENT X113
+Uh it's kind of @@@ cancer you know like.
+
+DOCTOR X113
+It was like a @@@.
+
+PATIENT X113
+Yeah, yeah.
+
+DOCTOR X113
+A mole or something?
+
+PATIENT X113
+It was more like a pimple.
+
+DOCTOR X113
+Okay.
+
+PATIENT X113
+That just wouldn't heal.
+
+DOCTOR X113
+Okay.
+
+PATIENT X113
+And uh, yeah but it was like a kids cancer.
+
+DOCTOR X113
+And when was that removed?
+
+PATIENT X113
+Uh a couple years ago, last year I think, maybe the year before.
+
+DOCTOR X113
+Okay.  Alright.
+
+PATIENT X113
+But that was nothing, it was all outpatient.
+
+DOCTOR X113
+Okay.  2007.
+
+PATIENT X113
+Right.
+
+DOCTOR X113
+Right yeah.
+
+PATIENT X113
+And uh yeah I was in and out of Hematology for quite a while too.  Uh my blood platelets were like off the charts.
+
+DOCTOR X113
+Platelets were off yeah.
+
+PATIENT X113
+Okay you got that.
+
+DOCTOR X113
+Right, got that.  And now they're doing okay as far as you know?
+
+PATIENT X113
+As far as I know yeah.
+
+DOCTOR X113
+Okay.  Do you remember when the last time you had it checked was?
+
+PATIENT X113
+Uh my understanding it's every time they draw blood uh they get it.
+
+DOCTOR X113
+So it was back in December they took a look at it.
+
+PATIENT X113
+Okay.
+
+DOCTOR X113
+It looked good okay, good.  Alright that's it.  Um I'm looking through your chart.  It looks like family history wise your mother had a stroke?  
+
+PATIENT X113
+My mother had a heart attack.
+
+DOCTOR X113
+Heart attack.
+
+PATIENT X113
+Numerous.
+
+DOCTOR X113
+Yeah.
+
+PATIENT X113
+Three or four.
+
+DOCTOR X113
+Did she not have a stroke then?
+
+PATIENT X113
+No my mom never had a stroke.
+
+DOCTOR X113
+Okay, alright.
+
+PATIENT X113
+And my dad either died of a heart attack or a stroke, they don't know what.
+
+DOCTOR X113
+And then your brother has hypertension and high blood pressure?
+
+PATIENT X113
+Uh one of my brothers.
+
+DOCTOR X113
+One of your brothers does.
+
+PATIENT X113
+Well it's not hypertension, its more cholesterol related.
+
+DOCTOR X113
+Anything else run in the family, cancers or anything like that?
+
+PATIENT X113
+No uh it's all like heart.  They all drop dead.
+
+DOCTOR X113
+Do you know how old your parents were when they had heart attacks?
+
+PATIENT X113
+Oh my mother was young uh, probably in her late 40s her first one and she's had like three or four.  I think she's had three bypasses, separate you know.
+
+DOCTOR X113
+Okay.  Then your dad.
+
+PATIENT X113
+He never saw a doctor.  @@@ but he died at 52 of either a heart attack or a stroke; they don't know what killed him.  But he got that taking his pants off.  
+
+DOCTOR X113
+Um I have also in the records that you are currently smoking.  Are you still smoking?  Okay.
+
+PATIENT X113
+Yeah and it's less.
+
+DOCTOR X113
+About one pack a day?
+
+PATIENT X113
+You know I kind of laid off.
+
+DOCTOR X113
+Great.
+
+PATIENT X113
+Okay uh.
+
+DOCTOR X113
+But previously you were a lot more, about two packs a day?
+
+PATIENT X113
+Yeah I was way up there.
+
+DOCTOR X113
+Okay.
+
+PATIENT X113
+I was a smoking fool.
+
+DOCTOR X113
+And then you've had problems with alcohol in the past too?
+
+PATIENT X113
+Yes.
+
+DOCTOR X113
+And have you quit?
+
+PATIENT X113
+Yeah.
+
+DOCTOR X113
+When did you quit?
+
+PATIENT X113
+Oh, in the last ten years I've been sober a lot more than I've been drunk really but uh.  I haven't had a drink since January now.
+
+DOCTOR X113
+Okay.  Alright great.  Um let's see and what branch of the military were you?
+
+PATIENT X113
+I was in the Navy.  I was a heavy equipment operator in the Seabees.  
+
+DOCTOR X113
+Alright.  Um are you living with anybody right now?
+
+PATIENT X113
+I live with my sister.
+
+DOCTOR X113
+You do okay.  Anything else bothering you besides the allergies we need to talk about?
+
+PATIENT X113
+My ankle right now, it's not the ankle itself, so it's starting to be every day.  But the skin.
+
+DOCTOR X113
+Yeah.
+
+PATIENT X113
+Okay and that's before, sometimes okay but now its four days we're doing all that @@@.
+
+DOCTOR X113
+Okay.  What's the specific symptom that you have a complaint about today?  Is it like itchiness, dryness?
+
+PATIENT X113
+Yeah.
+
+DOCTOR X113
+Of the skin or is it something else?
+
+PATIENT X113
+No it does hurt from time to time.
+
+DOCTOR X113
+Okay.
+
+PATIENT X113
+I mean it'll get so dry it'll bleed.
+
+DOCTOR X113
+Okay.
+
+PATIENT X113
+Uh I don't know like once a month.
+
+DOCTOR X113
+Okay.  You know it looks; it does look definitely really dried out down there.
+
+PATIENT X113
+Yes.
+
+DOCTOR X113
+And kind of where it is, it's in a bad spot and you tend to rub it up against @@@.
+
+PATIENT X113
+Right.
+
+DOCTOR X113
+I'd try just having some lotion on it.
+
+PATIENT X113
+Yeah.
+
+DOCTOR X113
+But um, that @@@ stuff or something.  Probably a jar like a emollient or whatever you can get at Walgreen’s or something.  It's kind of like a moisturizer but it's not, it doesn't come in a bottle, a can of it almost.
+
+PATIENT X113
+Okay.
+
+DOCTOR X113
+Like an oil product.
+
+PATIENT X113
+Okay.
+
+DOCTOR X113
+Apply that twice a day.
+
+PATIENT X113
+Yeah.
+
+DOCTOR X113
+Uh it should help.  @@@ will help you out a lot.
+
+PATIENT X113
+Okay.
+
+DOCTOR X113
+A lot of times for a scar too, it seems to be like having a lot of problems, it helps healing, helps it really to stay like stay healthy so.
+
+PATIENT X113
+Yeah that's kind of been a small concern.
+
+DOCTOR X113
+Okay.
+
+PATIENT X113
+You know.
+
+DOCTOR X113
+Okay.  Your blood pressure is a little bit low today.
+
+PATIENT X113
+Yeah.
+
+DOCTOR X113
+Is that normal for you?
+
+PATIENT X113
+Yep.
+
+DOCTOR X113
+Okay, sounds good.  And otherwise um.  Like I told you before your platelets all looked fine.  The rest of your electrolytes back in December when we looked at them all looked fine.
+
+PATIENT X113
+Uh-huh.
+
+DOCTOR X113
+Um I don't know if there's a whole lot more to talk about outside of having getting down to uh making sure that you're as healthy as you can be and it looks like you're doing pretty good right now.
+
+PATIENT X113
+Yeah I think I you now.  Beside the allergies I feel fine.
+
+DOCTOR X113
+Okay.
+
+PATIENT X113
+You know.
+
+DOCTOR X113
+Alright.  Let's see you had a colonoscopy back in 2007.
+
+PATIENT X113
+Uh-huh.
+
+DOCTOR X113
+Make this look a little prettier um and they didn't find anything?
+
+PATIENT X113
+As far as I know.  I never heard anything.
+
+DOCTOR X113
+No polyps or anything.  @@@.  It showed they found some hemorrhoids but.
+
+PATIENT X113
+Oh.
+
+DOCTOR X113
+But that's nothing to be concerned about obviously okay.
+
+PATIENT X113
+Uh-huh.
+
+DOCTOR X113
+Alright.
+
+PATIENT X113
+That turned out to be expensive if that's all that fine; in some ways I could have told them there were hemorrhoids.
+
+DOCTOR X113
+Have you ever had your prostate levels checked?
+
+PATIENT X113
+Uh no.
+
+DOCTOR X113
+Um it is a test that we can do for you.
+
+PATIENT X113
+Yeah.
+
+DOCTOR X113
+So you have had the test before whether you know it or not.
+
+PATIENT X113
+Okay.
+
+DOCTOR X113
+Uh this we, it's a blood test that uh that we can look to see if there is any elevation in it we can be a little more aggressive to see if there's any prostate cancer.
+
+PATIENT X113
+Right.
+
+DOCTOR X113
+Your tests have been normal in the past; we don't need to repeat anything.
+
+PATIENT X113
+Okay.
+
+DOCTOR X113
+If you want to, it's just something that's followed yearly.
+
+PATIENT X113
+Uh you're in charge here alright so.
+
+DOCTOR X113
+I will tell you to get this so you know, @@@ checking the prostate levels, sometimes it can elevate for no reason whatsoever.
+
+PATIENT X113
+Uh-huh.
+
+DOCTOR X113
+I'll need you down the road getting a biopsy.
+
+PATIENT X113
+Uh-huh.
+
+DOCTOR X113
+That has its own complications.
+
+PATIENT X113
+Right.
+
+DOCTOR X113
+Um but then you don't get the, if we're not checking it you don't get the benefits of early detection so.
+
+PATIENT X113
+Hmm.
+
+DOCTOR X113
+Uh but no prostate cancer in your family history, I'd take a look either way.  I would say if.
+
+PATIENT X113
+You're calling the shots.
+
+DOCTOR X113
+If you're the kind of guy that would be really concerned about that, otherwise if uh we want to check it then we can go ahead and check it.
+
+PATIENT X113
+Yeah.
+
+DOCTOR X113
+If you really don't care too much or.
+
+PATIENT X113
+Right now I'm not worried about it.
+
+DOCTOR X113
+Okay, so we'll hold off on checking it.
+
+PATIENT X113
+Alright.
+
+DOCTOR X113
+Okay.  Okay and then cholesterol.  Have you had that checked?
+
+PATIENT X113
+Oh yeah.
+
+DOCTOR X113
+Okay.
+
+PATIENT X113
+And it goes up and down I mean.
+
+DOCTOR X113
+It looks like you're doing pretty good actually so.
+
+PATIENT X113
+Yeah.
+
+DOCTOR X113
+Uh your.
+
+PATIENT X113
+Is that something to check?
+
+DOCTOR X113
+Your last cholesterol test was back in February.  I think you're probably due for another check.
+
+PATIENT X113
+Okay.
+
+DOCTOR X113
+As well as the thiamine and the blood sugars, making sure those all look good as well.
+
+PATIENT X113
+Uh-huh.
+
+DOCTOR X113
+You've never had a problem with those before.
+
+PATIENT X113
+No.
+
+DOCTOR X113
+So it looks like that would be a problem.  Do you remember when your last tetanus shot was?
+
+PATIENT X113
+Um it was a few years back but it was here, it should be on record.
+
+DOCTOR X113
+Yeah 2007, good.  Alright.  So I need you to come on here.
+
+PATIENT X113
+Whatever you got to do buddy.
+
+DOCTOR X113
+Alright um, also you're taking the fluoxetine for depression is that right?
+
+PATIENT X113
+Uh-huh.
+
+DOCTOR X113
+How's that going?  Are you having any symptoms?
+
+PATIENT X113
+No I'm doing alright.
+
+DOCTOR X113
+@@@.
+
+PATIENT X113
+Yeah I'm doing okay with it you know.  @@@.
+
+DOCTOR X113
+Sounds good.
+
+PATIENT X113
+You know.
+
+DOCTOR X113
+Um some of the things they ask us to ask you about are about risk factors for sexually transmitted infections um, you're not having any unprotected sex or anything?
+
+PATIENT X113
+I'm not having any sex period so.
+
+DOCTOR X113
+Oh you're not, alright.  Um and then do you have any tattoos?
+
+PATIENT X113
+Yeah I have a tattoo.
+
+DOCTOR X113
+Have you ever been checked for hepatitis C before?
+
+PATIENT X113
+I don't know, I don't think so.  Uh but actually that's something we probably should look at.
+
+DOCTOR X113
+Okay.
+
+PATIENT X113
+Cause the last uh partner I had uh she died of Hep C.
+
+DOCTOR X113
+Yeah that's been tested; it looks like back in 2007.
+
+PATIENT X113
+Okay.
+
+DOCTOR X113
+Uh and it was normal.
+
+PATIENT X113
+And she died, when did she die, @@@.
+
+DOCTOR X113
+Let me see, have you ever had the HIV test done?
+
+PATIENT X113
+Yeah, yeah, more than one occasion yeah.
+
+DOCTOR X113
+Great well, it appears to me that you're a pretty healthy fellow right now um.  I'd say keep taking that Zyrtec for the allergies and do the moisturizer on your ankle.
+
+PATIENT X113
+Yeah.
+
+DOCTOR X113
+We'll make sure everything else is doing well.  We'll check some blood tests.  I'm assuming you've eaten today?
+
+PATIENT X113
+Yes.
+
+DOCTOR X113
+So uh when you get a chance to get some fasting blood draw for us, just stop down at the first floor Laboratory.
+
+PATIENT X113
+Okay.
+
+DOCTOR X113
+Um we'll check your cholesterol, we'll check your electrolytes and check your platelets again to make sure everything looks okay uh and then following that, you've got my clearance for doing whatever you have been doing.
+
+PATIENT X113
+Well I want this fixed.
+
+DOCTOR X113
+Hop up here.
+
+PATIENT X113
+Alright.
+
+DOCTOR X113
+@@@.
+
+PATIENT X113
+Yeah.
+
+DOCTOR X113
+Okay.
+
+PATIENT X113
+And what I need, is a little help with a lesion back there.
+
+DOCTOR X113
+Okay.  Take a look up here.
+
+PATIENT X113
+Uh-huh.
+
+DOCTOR X113
+Couple deep breaths.  Good, again, good.  Again, good, one more, alright.  Breathe normal.  Deep breathe in and hold it.
+
+PATIENT X113
+Okay.
+
+DOCTOR X113
+Lift that chest, again deep breath in and hold it.  Great.  It sounds very good.  Now you've never had any chest pain or any trouble breathing?
+
+PATIENT X113
+I didn't have any uh chest pains even with my heart attack.
+
+DOCTOR X113
+What kind of symptoms were you having then?
+
+PATIENT X113
+That was right through here.
+
+DOCTOR X113
+You had an arm pain?
+
+PATIENT X113
+Oh yeah.  I mean it's like, kind of like you cut it off okay.  You know.  Okay here's what they did oh okay.  This was, okay this was what I received from the VA.
+
+DOCTOR X113
+Okay.
+
+PATIENT X113
+For my non-service-connected.
+
+DOCTOR X113
+Right.
+
+PATIENT X113
+Which is 100%.
+
+DOCTOR X113
+Okay.
+
+PATIENT X113
+But the state needs, if you could just fill this out.
+
+DOCTOR X113
+Um so.  You can fill this part out.
+
+PATIENT X113
+Oh I can fill that out.
+
+DOCTOR X113
+Um, so actually just the physical part.  @@@.  If I'm not mistaken here for the form I fill out, I think you'd be a 1 or a 1A.  Let's see here.  Um let's see.
+
+PATIENT X113
+Yeah.
+
+DOCTOR X113
+I think that should do it.
+
+PATIENT X113
+Alright thank you doctor.
+
+DOCTOR X113
+Alright this should do it.  Alright.
+
+PATIENT X113
+I turn off; when you say just go down to the lab uh, like I'm going to be here Tuesday.
+
+DOCTOR X113
+Great.  Tuesday morning.
+
+PATIENT X113
+It's between the lab and.
+
+DOCTOR X113
+Before you eat anything.
+
+PATIENT X113
+Okay.
+
+DOCTOR X113
+Just go down to the first floor and Lab has the orders @@@ computer systems.
+
+PATIENT X113
+Uh-huh.
+
+DOCTOR X113
+@@@ and uh they'll be able to do a quick blood draw and @@@.
+
+PATIENT X113
+Yeah.
+
+DOCTOR X113
+Okay, I will call you with the results, good or bad.
+
+PATIENT X113
+Alright.
+
+DOCTOR X113
+And if it changes then I will uh, I'll let you know when I call you but I don't think I need to see you probably unless any thing’s off for another year or so okay.  Um why don't you wait in here for a little bit.  I have to talk to one of my supervisors for the clinic real quick.
+
+PATIENT X113
+Okay.
+
+DOCTOR X113
+But we'll get you out of here soon okay.
+
+PATIENT X113
+Uh-huh.
+
+DOCTOR X113
+Alright.
+
+PATIENT X113
+Alright.
+
+DOCTOR X113
+Wait right here I'll be right back.
+
+PATIENT X113
+Yeah sure.
+
+(DOCTOR OUT:  32:54  DOCTOR IN:  41:31)
+
+DOCTOR X113
+Okay, so you're good to go okay.  Nothing new.  Stop by and get those labs for us.
+
+PATIENT X113
+Uh-huh.  Like I say I'll be here Tuesday.
+
+DOCTOR X113
+Should be good.
+
+PATIENT X113
+Okay doctor alright.
+
+DOCTOR X113
+Pleasure to meet you.  Let me do that.
+
+PATIENT X113
+Yeah, okay I was thinking about that too.  Like next time I'm walking around @@@.
+
+DOCTOR X113
+Got it.  Holler if you need anything okay.
+
+PATIENT X113
+Okay thank you doctor.
+
+DOCTOR X113
+Drop those off up front.
+
+PATIENT X113
+Okay.
+
+DOCTOR X113
+I'll see you later alright, take care.
+
+PATIENT X113
+Thanks man.  Alright.  To the left alright.
+
+
+DOCTOR X113
+Yeah to the left and then take a right then all the way out.
+
+PATIENT X113
+Alright thanks doctor.
+
+PATIENT LEAVES:  42:11
+
+Time is 12:56.
+
+
+
+

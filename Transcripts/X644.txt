@@ -1,0 +1,811 @@
+
+DOCTOR X644
+PATIENT.  
+
+PATIENT X644
+Yeah.
+
+DOCTOR X644
+Come on back.  I'm DOCTOR.  @@@.  How are you feeling?  Did you used to see DOCTOR?
+
+PATIENT X644
+What?
+
+DOCTOR X644
+Did you used to see DOCTOR @@@.  I've been looking at your plan there.  @@@.  Is that who you used to see?
+
+PATIENT X644
+I don't remember him.
+
+DOCTOR X644
+No?  Let's see.  You saw DOCTOR.
+
+PATIENT X644
+Yeah.
+
+DOCTOR X644
+Last April right?  Oh actually in December you saw him too.  Okay.  Great, so how have you been feeling?
+
+PATIENT X644
+Good.
+
+DOCTOR X644
+Good.  Just a regular old check-up?
+
+PATIENT X644
+Yes.
+
+DOCTOR X644
+No complaints?  Alright, it looks like the last time you were here you had some dizziness right?  When you would stand up or wake up in the morning.
+
+PATIENT X644
+Yeah but I, the prescription that I, DOCTOR gave me, what was it, lisinopril.
+
+DOCTOR X644
+Uh-huh.
+
+PATIENT X644
+It, the medication shows that take two pills a day.
+
+DOCTOR X644
+Okay.
+
+PATIENT X644
+But I was taking one in the morning and one at night.
+
+DOCTOR X644
+I see.
+
+PATIENT X644
+And then for cholesterol was taking the other ones you know.
+
+DOCTOR X644
+Okay.
+
+PATIENT X644
+And one time, I don't know, the blood pressure was way too low in the morning.
+
+DOCTOR X644
+Yeah.
+
+PATIENT X644
+That's why I was dizzy, you know @@@.
+
+DOCTOR X644
+Oh okay.
+
+PATIENT X644
+Yeah so now I take them both in the morning.
+
+DOCTOR X644
+And it's alright?
+
+PATIENT X644
+Yeah.
+
+DOCTOR X644
+Good.  Then it's okay.
+
+PATIENT X644
+No that is good, the reason for this dizziness was my blood pressure was too low and then I was taking one of those at night, so.
+
+DOCTOR X644
+Sorry, @@@.
+
+PATIENT X644
+Yeah that's gone.
+
+DOCTOR X644
+Uh how have your blood sugars been?  Okay?
+
+PATIENT X644
+Kind of okay.
+
+DOCTOR X644
+There were like 120s, 140 in the morning, about the same?
+
+PATIENT X644
+Yeah except this morning it was 119, okay.
+
+DOCTOR X644
+Okay.  
+
+PATIENT X644
+Yeah, I see the blood pressure is.
+
+DOCTOR X644
+Very good.
+
+PATIENT X644
+Yeah.  And it was a little less when I got here.
+
+DOCTOR X644
+Good.  Are you still feeling your hands are a little shaky?
+
+PATIENT X644
+No.
+
+DOCTOR X644
+They do okay.
+
+PATIENT X644
+No I got shaking a little bit.
+
+DOCTOR X644
+Oh I see.
+
+PATIENT X644
+Oh yeah.
+
+DOCTOR X644
+Um alright how's your @@@, I know that's hard to work with.
+
+PATIENT X644
+It's probably the same, I just trade @@@.  Sometime I work all night sometimes.
+
+DOCTOR X644
+So what do you do?
+
+PATIENT X644
+I have like property.
+
+DOCTOR X644
+Good for you.
+
+PATIENT X644
+Well my son is running it but at times.
+
+DOCTOR X644
+You do that okay.  I understand, I understand.  Um.  Okay um.  You still have some kind of numbness in your right arm?
+
+PATIENT X644
+It's only the, not in the arm, it's just in the pinky and a little bit here you know.
+
+DOCTOR X644
+Okay.
+
+PATIENT X644
+So it's, either it's less noticeable to me now or it's beginning to come back.  I mean the feeling is beginning to come back.
+
+DOCTOR X644
+Right.
+
+PATIENT X644
+Or I guess I'm used to it you know.
+
+DOCTOR X644
+Yeah.
+
+PATIENT X644
+I don't even know about it.
+
+DOCTOR X644
+It doesn't change you that much okay.  Um let's see.  I think you had a history of some skin cancer so you saw the dermatologist.
+
+PATIENT X644
+Yeah.
+
+DOCTOR X644
+In the clinic.
+
+PATIENT X644
+Yeah.
+
+DOCTOR X644
+Very good.  Um, no colonoscopy huh?
+
+PATIENT X644
+No.
+
+DOCTOR X644
+No.
+
+PATIENT X644
+I pass.
+
+DOCTOR X644
+You'll pass okay.  Um think about it sometime.
+
+PATIENT X644
+I did yeah.  My much younger sister had it done two weeks ago you know but I.
+
+DOCTOR X644
+Oh and she did okay?
+
+PATIENT X644
+Yeah she's an RN so.
+
+DOCTOR X644
+Oh perfect.
+
+PATIENT X644
+So retired but she was a nurse.
+
+DOCTOR X644
+Perfect.  Um I think you're due for a tetanus shot.  Is that something that you'd be okay with?  It's the one you get just like once every ten years.  Um it prevents you from getting tetanus you know if you scrape with any dirty metals, that kind of thing.
+
+PATIENT X644
+Yeah.  I, you know I got it here but I don't remember when.  I know.
+
+DOCTOR X644
+I think it must have been past the ten year deadline cause it's showing up that you're due.
+
+PATIENT X644
+Okay yeah, okay.
+
+DOCTOR X644
+Yes.
+
+PATIENT X644
+Now I'm seeing when I got it.
+
+DOCTOR X644
+Oh.
+
+PATIENT X644
+I think, I know one time I stepped on a @@@ nail at the xxx xxx and it was my outside doctor gave it to me.
+
+DOCTOR X644
+Oh okay, okay.
+
+PATIENT X644
+It probably was ten years ago.
+
+DOCTOR X644
+Probably was that long then okay.  Still smoking?
+
+PATIENT X644
+No.
+
+DOCTOR X644
+When was the last time you smoked.
+
+PATIENT X644
+Oh you don't smoke okay.
+
+DOCTOR X644
+Drink?
+
+PATIENT X644
+A little bit.
+
+DOCTOR X644
+A little bit okay.  And no drugs.
+
+PATIENT X644
+No, no, no.
+
+DOCTOR X644
+Good.
+
+PATIENT X644
+I take all the drugs you're giving me.
+
+DOCTOR X644
+Oh yeah.  You're like isn't that enough.
+
+PATIENT X644
+No, nobody in my family uses drugs.  Smoked or drugs.
+
+DOCTOR X644
+Alright.  Well let's see how the diabetes is doing.  So it looks those numbers that we monitor your diabetes okay and it was 7.1 in April of last year and 7.3.  So the goal is to get you under 7, that's the goal. 
+
+PATIENT X644
+Okay.
+
+DOCTOR X644
+So right now the only thing you're taking is the Actos.  The what is, the um the diabetes medication is that the only one right?
+
+PATIENT X644
+No the glyburide.
+
+DOCTOR X644
+The glyburide.  Looks like that's expired.
+
+PATIENT X644
+Well I mean it expired, you need to put the prescription in.
+
+DOCTOR X644
+Just renew the prescription.
+
+PATIENT X644
+I think the glyburide and metformin, I just the last one DOCTOR was, the first ones that are crossed off there.
+
+DOCTOR X644
+Uh-huh.  Pioglitazone.
+
+PATIENT X644
+Right.
+
+DOCTOR X644
+Okay.  Are you still taking that or no?
+
+PATIENT X644
+Yeah I'm taking it.
+
+DOCTOR X644
+Still taking it.
+
+PATIENT X644
+I got, I don't know I have a couple refills, but the other pill is less than that but uh the glyburide and the metformin I need a prescription for those.
+
+DOCTOR X644
+Okay.
+
+PATIENT X644
+And lisinopril.
+
+DOCTOR X644
+So are you, so just the lisinopril and the metformin um and no more hydralazine then, you don't take that anymore or you do?
+
+PATIENT X644
+Yeah I'm still taking it.
+
+DOCTOR X644
+Still taking it and you're doing okay with that?
+
+PATIENT X644
+Yeah.
+
+DOCTOR X644
+Let me see what your, your cholesterol actually looks pretty good um.  In December like last year so it's probably time to do that, let's see.  Um, the prostate let's see when was that cause I think.  Okay and they did that in December and that number was good as well.  Okay and otherwise you don't have any chest pains, shortness of breath, problems breathing, shortness of breath or anything?
+
+PATIENT X644
+I'm fairly active still.
+
+DOCTOR X644
+Still active okay.  No vomiting, diarrhea, fevers, chills, things like that.  Oh Accu-Cheks.
+
+PATIENT X644
+Yeah.  Because @@@.
+
+DOCTOR X644
+Do you have swelling in your legs?
+
+PATIENT X644
+Yeah.
+
+DOCTOR X644
+Okay.
+
+PATIENT X644
+It depends on how long I stay up you know.  I never wear them to come here but I wear them on long trips.
+
+DOCTOR X644
+When you go out okay.
+
+PATIENT X644
+And stuff and I'll take them.
+
+DOCTOR X644
+Sure if you're sitting in a car or something for a while, sure.  Let me take um a quick look at you.  Go ahead and take off your jacket.  Look straight ahead at me.
+
+PATIENT X644
+Yeah I had uh an implant here.
+
+DOCTOR X644
+Okay.
+
+PATIENT X644
+Uh.
+
+DOCTOR X644
+What did they implant?
+
+PATIENT X644
+That's my eye surgery, uh cataract removed.
+
+DOCTOR X644
+Oh cataract removal, sorry about that.
+
+PATIENT X644
+And I have the plastic lens in there.
+
+DOCTOR X644
+Oh perfect, perfect.
+
+PATIENT X644
+@@@.
+
+DOCTOR X644
+Yes, they usually turn out okay.  So look straight at me.  Say ah.
+
+PATIENT X644
+Ah.
+
+DOCTOR X644
+You can put your glasses on.  @@@, sorry my hands are cold.  I'll listen to your back.
+
+PATIENT X644
+My back.
+
+DOCTOR X644
+Yes your back.  You can take off your jacket yeah.  @@@. 
+PATIENT X644
+I was born and raised in Italy.
+
+DOCTOR X644
+Oh.
+
+PATIENT X644
+It's a Polish name.
+
+DOCTOR X644
+Oh really okay.
+
+PATIENT X644
+Yeah, I was raised on @@@.
+
+DOCTOR X644
+I was born and raised here but my family's from Pakistan.
+
+PATIENT X644
+Okay my outside doctor of 20 years, he's from India.
+
+DOCTOR X644
+Oh okay.
+
+PATIENT X644
+DOCTOR.
+
+DOCTOR X644
+DOCTOR yeah that's an Indian name.
+
+PATIENT X644
+Yeah husband and wife are both MDs.
+
+DOCTOR X644
+Oh good for them.  Yeah everybody's from somewhere it seems like right.  Take a deep breath.  Just breathe normally.  Any pain?  Let's see, is that painful at all?
+
+PATIENT X644
+No.
+
+DOCTOR X644
+No nothing, okay.  Sometimes swelling can be a little painful.  So we'll get.
+
+PATIENT X644
+@@@ take my shoes off and it'll just move from my @@@ or something @@@ over this foot and I still get a lot of sensitivity, I'm very ticklish.
+
+DOCTOR X644
+Oh very ticklish.
+
+PATIENT X644
+My nerves are just too good, I guess that's good.
+
+DOCTOR X644
+No that is good.  I'm trying to see if um DOCTOR checked, let's see it looks like you've had.  Are you talking about one of these things, little pokey things? You know.
+
+PATIENT X644
+The what?
+
+DOCTOR X644
+This is just to um.
+
+PATIENT X644
+Oh for checking yeah.
+
+DOCTOR X644
+Yeah, I actually that's a good point.  Would you mind taking off your shoes for a second, I don't think we checked it last time.  Have you seen the eye doctor in the last year?
+
+PATIENT X644
+Uh probably a year ago.  I cancelled my appointment because I went to surgery.
+
+DOCTOR X644
+Okay.
+
+PATIENT X644
+And I completed everything there.
+
+DOCTOR X644
+Okay.
+
+PATIENT X644
+And everything was.
+
+DOCTOR X644
+Yeah we should probably.  Oh you can go ahead and take your socks off.
+
+PATIENT X644
+I mean, both feet or?
+
+DOCTOR X644
+Yes please.  We should probably have you see the eye doctor um.  You know @@@ here they can just kind of dilate your eyes; it makes it look really big but uh.  Okay give me your foot, close your eyes.  Okay tell me when you feel the prick okay.  
+
+PATIENT X644
+Yes.
+
+DOCTOR X644
+Which toe?
+
+PATIENT X644
+The big one.
+
+DOCTOR X644
+Okay.
+
+PATIENT X644
+Little one.  @@@.
+
+DOCTOR X644
+Okay.
+
+PATIENT X644
+Yeah.
+
+DOCTOR X644
+Give me the other foot.  
+
+PATIENT X644
+Big toe.  Little, next to the little left, middle, right side.
+
+DOCTOR X644
+@@@.  Let me go run this by DOCTOR, he's my boss.
+
+PATIENT X644
+Okay.
+
+DOCTOR X644
+And I'll come back in and we'll get your new prescriptions.
+
+PATIENT X644
+Okay can I put my shoes on?
+
+DOCTOR X644
+Yes, yes, you're done.
+
+(DOCTOR OUT:  22:12  DOCTOR IN:  29:47)
+
+DOCTOR X644
+Hi, sorry for your wait.
+
+PATIENT X644
+Uh-huh.
+
+DOCTOR X644
+So um we'll go ahead and refill your medicines and um.  You don't have pain in your legs just when you're at rest do you?
+
+PATIENT X644
+No.
+
+DOCTOR X644
+Good cause your pulse is a little bit hard to feel but um I just wanted to make sure that uh.
+
+PATIENT X644
+No problems.
+
+DOCTOR X644
+You're not having any symptoms of that.  Now this will be for you to take to the front.  So you'll see the Eye Clinic the next available appointment that they have just to, you know just to check that your eyes are doing okay because of your diabetes.
+
+PATIENT X644
+Yeah I've got a, have them make it in July.
+
+DOCTOR X644
+Oh so yeah that's fine.
+
+PATIENT X644
+Cause next month I'll be out of town.
+
+DOCTOR X644
+Sure alright no problem.  Um and we will get your tetanus shot.
+
+PATIENT X644
+I get that today?
+
+DOCTOR X644
+Uh-huh.  They'll just give it to you.
+
+PATIENT X644
+Yeah I'm not worry about it.
+
+DOCTOR X644
+You'll get your compression stockings.
+
+PATIENT X644
+@@@.
+
+DOCTOR X644
+We'll get all the repeat of your labs; you don't have to get them today but just sometime before your next appointment.
+
+PATIENT X644
+The what?
+
+DOCTOR X644
+Repeat blood draw, labs.  But then your kidney numbers look a little bit worse so we just have to check them you know every once in a while to kind of make sure.  They're not terrible but they just, you know what I mean and it's because of the blood pressure and diabetes and stuff that these things happen.
+
+PATIENT X644
+Okay when will they get the blood drawn?
+
+DOCTOR X644
+Um you can get it today, you can go tomorrow.  I mean it doesn't have to be really now, but just like in the next month.  You could get it today if you want it.
+
+PATIENT X644
+Yeah I'll do it today.
+
+DOCTOR X644
+You'll do it today okay, that's fine.
+
+PATIENT X644
+Cause the next month I'm not gonna be around here.
+
+DOCTOR X644
+Oh perfect yeah then I would just do that.  Um okay and then which medications do you need today?  Glyburide, do you want them to mail these to you or have you pick them up here?
+
+PATIENT X644
+The what?
+
+DOCTOR X644
+Medications.
+
+PATIENT X644
+Uh just mail them out to me.
+
+DOCTOR X644
+Mail them to you okay.
+
+PATIENT X644
+Unless I'm short of something then I'll wait for it but.
+
+DOCTOR X644
+Sure, sure.  Which ones do you need today?
+
+PATIENT X644
+Uh @@@ and metformin.
+
+DOCTOR X644
+Uh-huh.
+
+PATIENT X644
+The lisinopril and glyburide.
+
+DOCTOR X644
+Okay. 
+
+PATIENT X644
+I'm not out of them either you know but its.
+
+DOCTOR X644
+I know.  Just to make sure you've got it.
+
+PATIENT X644
+That's just to renew the prescription.
+
+DOCTOR X644
+Exactly.  Okay sire I think you're set.
+
+PATIENT X644
+Okay uh so I'm gonna see you from now on then or?
+
+DOCTOR X644
+If you're okay with that yes.  I mean there's tons of other doctors here but if you're okay with that I can be your primary care.
+
+PATIENT X644
+Yeah I don't care, I don't.
+
+DOCTOR X644
+Perfect.
+
+PATIENT X644
+Good uh @@@.
+
+DOCTOR X644
+Yeah.
+
+PATIENT X644
+@@@.
+
+DOCTOR X644
+Good.
+
+PATIENT X644
+@@@.
+
+DOCTOR X644
+Looks good.
+
+PATIENT X644
+And uh is it DOCTOR.
+
+DOCTOR X644
+Uh-huh.
+
+PATIENT X644
+Your last name is DOCTOR.
+
+DOCTOR X644
+Right.
+
+PATIENT X644
+Yeah.
+
+DOCTOR X644
+Yeah there's, I know someone who lives in St. xxx and there's NAME there.
+
+PATIENT X644
+My last name is just PATIENT.
+
+DOCTOR X644
+Uh-huh.
+
+PATIENT X644
+It's @@@ Polish, Russian.
+
+DOCTOR X644
+Oh, so how did you end up with a Polish name?
+
+PATIENT X644
+I lived in northern Italy so @@@.
+
+DOCTOR X644
+Oh yeah.
+
+PATIENT X644
+Moved south you know.
+
+DOCTOR X644
+That's true.
+
+PATIENT X644
+I guess, I mean.
+
+DOCTOR X644
+It's so funny that you mention that because tonight I am tiramisu.  
+
+PATIENT X644
+Yeah.
+
+DOCTOR X644
+Yeah.  My mom always made it for us.
+
+PATIENT X644
+To you have a phone number too?
+
+DOCTOR X644
+Yeah, let me get a phone number for you.  It's on my card, I'll find you the number, it'll have it on it.
+
+PATIENT X644
+Okay.
+
+DOCTOR X644
+Okay, alright sir, so this is the number you can go ahead and call and they'll find a way to get in touch with me.
+
+PATIENT X644
+Alright.  I mean I never call.
+
+DOCTOR X644
+That's just for you.
+
+PATIENT X644
+Anybody but I know sometimes I can go through them and the patient will want the doctor to call and it's not that I'm you know like.
+
+DOCTOR X644
+In case you need, of course.
+
+PATIENT X644
+I'm not gonna bug you with anything.
+
+DOCTOR X644
+No, no, not, no that's what we're here for.  Um and we'll get your shot.
+
+PATIENT X644
+Okay, I'll get the shot now.
+
+DOCTOR X644
+Uh-huh.
+
+PATIENT X644
+And then you'll put the things in for the blood.
+
+DOCTOR X644
+Uh-huh.
+
+PATIENT X644
+And you got it all over with.
+
+DOCTOR X644
+We got it all.  Good.
+
+PATIENT LEAVES:  37:13
+
+
+
+

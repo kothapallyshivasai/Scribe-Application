@@ -1,0 +1,607 @@
+
+DOCTOR X110
+PATIENT?  How are you?
+
+PATIENT X110
+Not well.
+
+DOCTOR X110
+Thank you for waiting.  Good to see you.  Let me help you up here. 
+
+PATIENT X110
+Let me get my junk here.
+
+DOCTOR X110
+@@@.
+
+PATIENT X110
+I got a problem.
+
+DOCTOR X110
+Right this way.  Have a seat right here for me.  What are the problems today?
+
+PATIENT X110
+Well, I'm not @@@.
+
+DOCTOR X110
+I hear that you're not doing well.
+
+PATIENT X110
+No I'm not uh.  I don't quite know how to explain it but I got a general feeling of malaise.
+
+DOCTOR X110
+Yeah.
+
+PATIENT X110
+That I've had for some time, for months I would say.
+
+DOCTOR X110
+Hmm.
+
+PATIENT X110
+Uh it's like pins and needles.  I think it might be called, I don't know but what is that called you know uh.
+
+DOCTOR X110
+Neuropathy?
+
+PATIENT X110
+Yeah peripheral neuropathy.
+
+DOCTOR X110
+Yeah, yeah it could be.  So where are you having this feeling?
+
+PATIENT X110
+Um mostly all over.
+
+DOCTOR X110
+Any place uh worse than others?
+
+PATIENT X110
+Yeah in my hands, fingers.
+
+DOCTOR X110
+And how long has this been going on?
+
+PATIENT X110
+Feet, ankles.
+
+DOCTOR X110
+How long have you had this?
+
+PATIENT X110
+Oh I've had this for I'd say six months now.
+
+DOCTOR X110
+So this has been going on for six months and its worse in the fingers, the toes.
+
+PATIENT X110
+Yeah along the legs.  It can be anywhere, stabbing pains.
+
+DOCTOR X110
+Alright.
+
+PATIENT X110
+Like needles going into my legs, arms, my face and scalp.
+
+DOCTOR X110
+And when does this happen, every day?
+
+PATIENT X110
+Yeah just about every day.
+
+DOCTOR X110
+Okay.  And are there things that make it worse?
+
+PATIENT X110
+Um I guess mainly when I'm lying down.
+
+DOCTOR X110
+Is it worse at night or?
+
+PATIENT X110
+Yeah I think it's worse at night although it can occur at any time.
+
+DOCTOR X110
+Okay, worse at night and it's causing you a lot of discomfort?
+
+PATIENT X110
+Yes very much.
+
+DOCTOR X110
+Okay.
+
+PATIENT X110
+Very much.
+
+DOCTOR X110
+And to the best of my knowledge you are not a diabetic is that right?
+
+PATIENT X110
+That's right.
+
+DOCTOR X110
+You don't have diabetes.
+
+PATIENT X110
+Not that I know of, although one of my tests was borderline they said.
+
+DOCTOR X110
+The glucose or your sugar?  Your sugar was borderline huh?
+
+PATIENT X110
+I think so.
+
+DOCTOR X110
+Yeah I don't know if you were fasting during these but you've had some that were slightly high.
+
+PATIENT X110
+Blood sugar.
+
+DOCTOR X110
+Yeah.  Yeah.  Let's see, check another test on you.  Have you ever had this problem with the tingling before?
+
+PATIENT X110
+No.
+
+DOCTOR X110
+No okay.
+
+PATIENT X110
+No I think in the last six months or so, maybe longer.  But it's a very weird feeling.  Just I can't relax.  I never feel relaxed.  It's just a general feeling of malaise.
+
+DOCTOR X110
+Okay.
+
+PATIENT X110
+It's pretty bad.
+
+DOCTOR X110
+And how are you feeling since getting that tumor resected?
+
+PATIENT X110
+That didn't seem any different you know.
+
+DOCTOR X110
+Did you do okay with the surgery?
+
+PATIENT X110
+Yeah the surgery was good.
+
+DOCTOR X110
+But you're still feeling tired is that right?
+
+PATIENT X110
+Tired yeah.  Yeah I do feel tired.  
+
+DOCTOR X110
+Let's see.  I'm just looking back to see when we last saw the endocrine doctors.  
+
+PATIENT X110
+Yeah DOCTOR.
+
+DOCTOR X110
+Yeah, let's see here they checked your thyroid.
+
+PATIENT X110
+I'm taking a lot of medicines.
+
+DOCTOR X110
+Yeah you're on a bunch.
+
+PATIENT X110
+I wonder could some of those be causing a problem?
+
+DOCTOR X110
+Hmm.  Are you having any other problems?  
+
+PATIENT X110
+Um, well the last, yesterday I came down with this illness.  A very uh, almost like a flu, flu-like symptoms and it came yesterday.  Today I felt so bad I didn't know if I was going to be able to drive to the hospital you know.
+
+DOCTOR X110
+Okay what kind of symptoms like, you sick to your stomach, do you have fevers?
+
+PATIENT X110
+No fever I don't think but uh.  Yeah my stomach was upset this morning.  I had some nausea.
+
+DOCTOR X110
+Stomach's upset alright.  Nausea and did you vomit?
+
+PATIENT X110
+No.
+
+DOCTOR X110
+Okay do you have fevers?
+
+PATIENT X110
+I don't think so no.
+
+DOCTOR X110
+Chills?
+
+PATIENT X110
+I had the sweats.  I was sweating then it went away then it came back.  I was just sitting down here in that chair and then it went away.
+
+DOCTOR X110
+Okay.  Alright and what about um like muscle aches, muscle pains, those kind of problems?
+
+PATIENT X110
+No.
+
+DOCTOR X110
+Okay.
+
+PATIENT X110
+No no muscle pains.
+
+DOCTOR X110
+Okay.  So are you feeling better now or worse?
+
+PATIENT X110
+I think at the moment I feel better although I'm achy like flu symptoms.
+
+DOCTOR X110
+Yeah.
+
+PATIENT X110
+Which I've had since yesterday.
+
+DOCTOR X110
+Yeah.
+
+PATIENT X110
+Yeah kind of achy.
+
+DOCTOR X110
+Uh-huh.  Let's see, I'm just looking here about when you saw the neurologist last time.  
+
+PATIENT X110
+Quite a while ago.
+
+DOCTOR X110
+So you saw them in January and.
+
+PATIENT X110
+Yeah she gave me gabapentin.
+
+DOCTOR X110
+Yeah.
+
+PATIENT X110
+I don't know if that does any good or not.
+
+DOCTOR X110
+Um, gabapentin can work really well if you're on the right amount.  How much are you taking now?
+
+PATIENT X110
+I'm taking two.
+
+DOCTOR X110
+You're taking two at night?  Uh do you want.
+
+PATIENT X110
+I changed it to three; I went up to three at night.
+
+DOCTOR X110
+Okay and is that helping at all?
+
+PATIENT X110
+I don't think it's any better than it was when I was taking one.
+
+DOCTOR X110
+Oh okay.  You don't think it's any better huh?
+
+PATIENT X110
+I beg your pardon?
+
+DOCTOR X110
+It's not any better?
+
+PATIENT X110
+No, I don't think so.
+
+DOCTOR X110
+Okay.  Alright.  Let's see.  
+
+PATIENT X110
+I just taking that new one.  I just started taking the @@@.
+
+DOCTOR X110
+Let's see, okay.  How's your vision?  Has it gotten better since they took that, removed the tumor?
+
+PATIENT X110
+Yeah it has.  My peripheral vision is better in my good eye.  I've only got one good eye.
+
+DOCTOR X110
+Alright.  So that did get better.
+
+PATIENT X110
+Yes.
+
+DOCTOR X110
+Good.
+
+PATIENT X110
+Yeah.
+
+DOCTOR X110
+Alright.  Are you still seeing a cardiologist outside of here?
+
+PATIENT X110
+Uh no, no I'm not.
+
+DOCTOR X110
+You see cardiology here.
+
+PATIENT X110
+I haven't seen a cardiologist for quite a while.  I don't remember when my last appointment was uh.
+
+DOCTOR X110
+Okay.
+
+PATIENT X110
+My blood pressure is good.
+
+DOCTOR X110
+You probably do have, you're just right on the borderline of diabetes and uh right now it's not really bad enough that we would probably treat it.
+
+PATIENT X110
+Uh-huh.
+
+DOCTOR X110
+But we do want to keep an eye on it.
+
+PATIENT X110
+Okay.
+
+DOCTOR X110
+Let's see.  Are you urinating okay?  You're following with Urology how's that?
+
+PATIENT X110
+Yeah I'm taking that new medication.  I just started that a couple days ago, tolterodine and that helps.
+
+DOCTOR X110
+It does.
+
+PATIENT X110
+Yeah because I was having to go every hour or so.
+
+DOCTOR X110
+Okay.
+
+PATIENT X110
+And now I'm only about two or three times a night.
+
+DOCTOR X110
+Okay.
+
+PATIENT X110
+So that seemed to help.
+
+DOCTOR X110
+Let's see.  Your cholesterol looks good.  Check the CBC alright.  So we can help you out with this numbness and tingling a little bit, that would.
+
+PATIENT X110
+Oh that would be great.
+
+DOCTOR X110
+That would be the best thing.
+
+PATIENT X110
+Yes.
+
+DOCTOR X110
+Have a seat up here for me.
+
+PATIENT X110
+I really hate that feeling.
+
+DOCTOR X110
+Well how's your wife doing?
+
+PATIENT X110
+She's doing great.
+
+DOCTOR X110
+Sometimes she's here with you.
+
+PATIENT X110
+I beg your pardon?
+
+DOCTOR X110
+Some days I've seen her here with you.
+
+PATIENT X110
+Yeah.
+
+DOCTOR X110
+How is like your memory and everything like that doing?
+
+PATIENT X110
+Pretty @@@.
+
+DOCTOR X110
+Slip off your glasses for me.  Look straight ahead.  Open your mouth.  Okay.  @@@.  Are you uh doing most things on your own, like your day to day stuff, or does your wife help you out?
+
+PATIENT X110
+Oh yeah.  I do most things on my own.
+
+DOCTOR X110
+Okay take some big breaths, again alright, relax.  Stomach is okay?
+
+PATIENT X110
+Yeah.
+
+DOCTOR X110
+Any blood in the stool?
+
+PATIENT X110
+No.
+
+DOCTOR X110
+Black stool?
+
+PATIENT X110
+No.
+
+DOCTOR X110
+Okay.  Alright.
+
+PATIENT X110
+Do you think that anything can be done for that feeling I have?
+
+DOCTOR X110
+I don't know.  I mean that can be a tough thing to treat.  I mean gabapentin can be a good drug but the problem is you have to get it up to a high enough dose or it doesn't do much.
+
+PATIENT X110
+Oh.  Okay, well I'm taking three presently.
+
+DOCTOR X110
+I know.  Let me go chat with one of my bosses back here.  I'll be right back in okay.
+
+PATIENT X110
+Okay.
+
+(DOCTOR OUT: 95:45  DOCTOR IN:  98:41)
+
+DOCTOR X110
+Thank you sir.  Taking a nap there?
+
+PATIENT X110
+Yeah.
+
+DOCTOR X110
+You know, if you want to, I'm waiting for one of the attendings, one of my bosses back there.  He's in the middle of something.
+
+PATIENT X110
+Uh-huh.
+
+DOCTOR X110
+Um so if you don't mind I can go ahead and have you kind of get the check-out process started.  Um just don't leave um.  After you check out, you know the Waiting Room up front?
+
+PATIENT X110
+Yeah.
+
+DOCTOR X110
+You know what I'm talking about?  Can you just wait there until I come and talk to you?  Um I don't you to, I feel bad you having to sit here um.
+
+PATIENT X110
+Yeah.
+
+DOCTOR X110
+Um you know I think it might speed it up a little bit you getting out of here and getting home uh.
+
+PATIENT X110
+Yeah.
+
+DOCTOR X110
+Uh I guess he's in the middle of admitting a patient to the hospital.
+
+PATIENT X110
+How long do you think it'll be?
+
+DOCTOR X110
+Five minutes.
+
+PATIENT X110
+Oh okay.
+
+DOCTOR X110
+But I just hate for you to have to sit here so I was thinking, what I'm thinking about doing is uh you know you're due for some blood testing uh, just to check the sugar and the cholesterol.
+
+PATIENT X110
+Yeah.
+
+DOCTOR X110
+Um and I'm gonna talk to him about the neuropathy pain to see if he agrees with.  See part of the thing is you're also seeing Neurology, who are kind of helping managing that so I don't want to step on their toes and change what they were doing but I think we may be able to help you out somewhere.  Uh.
+
+PATIENT X110
+Yeah.
+
+DOCTOR X110
+Let's uh, if you want, as long as you promise me that you're not gonna escape on me before I talk to you, this may just help speed things up.  So if you want to go check out okay and uh then I'll come find you in the Waiting Room.
+
+PATIENT X110
+In the Waiting Room okay.
+
+DOCTOR X110
+Yep, sound good?
+
+PATIENT X110
+Okay there's one thing that I was supposed to, the nurse left me a note here.
+
+DOCTOR X110
+Oh yeah what's this?
+
+PATIENT X110
+I see that the lisinopril, the lisinopril is not on the list.  
+
+DOCTOR X110
+@@@ list.  So it looks like lisinopril needs to be added to your online prescription list.  You've been taking this @@@ since your tumor surgery and your blood pressure is stable.
+
+PATIENT X110
+Yeah she uh, she orders it on the internet and she says it's not on the list.
+
+DOCTOR X110
+Where do you get it?  Do you get it from the VA or you get it from somewhere else?
+
+PATIENT X110
+No, from the VA.
+
+DOCTOR X110
+Cause I don't think you've been getting it from us.  Did they give it to you at xxx?
+
+PATIENT X110
+Uh I'm pretty sure I've been getting it from the VA.
+
+DOCTOR X110
+It says since your tumor surgery, so I wonder if they put you on that at xxx.
+
+PATIENT X110
+Oh maybe.
+
+DOCTOR X110
+Hmm.  
+
+PATIENT X110
+You know what I think it's on my list.
+
+DOCTOR X110
+I don't think it's on your list.  @@@ potassium, @@@.
+
+PATIENT X110
+Oh I guess not.
+
+DOCTOR X110
+So you must be getting it from somewhere else.
+
+PATIENT X110
+Okay.
+
+DOCTOR X110
+Okay.
+
+PATIENT X110
+Can you add that to the list cause she wants to order all my medications.  She usually gets it from the VA on the internet yeah.
+
+DOCTOR X110
+Alright and your blood pressure was good today huh?  Yeah.
+
+PATIENT X110
+@@@.
+
+DOCTOR X110
+I'll make sure it's okay with my boss alright.
+
+PATIENT X110
+Okay.  I'll get checked out okay.  Hmm.  I'm going to check out.
+
+PATIENT LEAVES:  103:10.
+
+Time is 5:44.
+
+
+
+
+
+
+

@@ -1,0 +1,277 @@
+
+DOCTOR X228 
+PATIENT?
+
+PATIENT X228
+Yes.
+
+DOCTOR X228
+Go ahead and have a seat over there.  @@@.
+
+PATIENT X228
+That's okay.  @@@.
+
+DOCTOR X228
+Uh so how uh, so yeah I'm sorry to hear about that.  Yeah you got the lesion on the larynx there, uh something that @@@ when we sent you there.
+
+PATIENT X228
+Yeah well.
+
+DOCTOR X228
+@@@.  So sorry.
+
+PATIENT X228
+Well the good news is they caught it.
+
+DOCTOR X228
+Yeah it looks like there's no spread and they're just going to pound it with the radiation.
+
+PATIENT X228
+Right and that should be okay.
+
+DOCTOR X228
+Okay that's good.  Uh alright and then you had some plaque in your cheeks I guess that they biopsied.
+
+PATIENT X228
+Uh yeah they biopsied @@@.
+
+DOCTOR X228
+It doesn't look like it's anything major.  Alright well so but that pretty well, I mean the Ear, Nose and Throat guys are doing a good job.
+
+PATIENT X228
+Yeah.
+
+DOCTOR X228
+Um now this covers, um what are you taking now?  You're still taking the metformin.
+
+PATIENT X228
+Uh the metformin and then uh Lantus.
+
+DOCTOR X228
+Lantus.
+
+PATIENT X228
+Lantus too.
+
+DOCTOR X228
+30 units?
+
+PATIENT X228
+Uh yeah but the thing that happened was they had been sending it to me and for some reason the post office would send it back.
+
+DOCTOR X228
+Oh okay.
+
+PATIENT X228
+And so my children got me @@@ so that I can have my insulin @@@.  
+
+DOCTOR X228
+Alright so. 
+
+PATIENT X228
+So @@@.
+
+DOCTOR X228
+And when was that?
+
+PATIENT X228
+Oh that was Monday.
+
+DOCTOR X228
+Uh so you had not gotten it.  Cause I noticed some labs from December and uh the hemoglobin A1c was doing a little worse, it was up to 8.7.  You think that and I know you were in the hospital for something else; you had another bout of pancreatitis.
+
+PATIENT X228
+Uh yeah.  So they probably improved and then got worse.  @@@.
+
+DOCTOR X228
+Probably be better.
+
+PATIENT X228
+It was bad.
+
+DOCTOR X228
+Well why don't we just recheck it in a couple of months.
+
+PATIENT X228
+Okay.
+
+DOCTOR X228
+And keep doing what we're doing uh you've been through a lot so it may have @@@.  Um. 
+
+PATIENT X228
+How do we know if it's related to the radiation or anything?  But I notice @@@.
+
+DOCTOR X228
+Okay uh it's tingling?
+
+PATIENT X228
+Uh-huh.
+
+DOCTOR X228
+How often does it happen?
+
+PATIENT X228
+Um, uh several times a day.
+
+DOCTOR X228
+Okay.
+
+PATIENT X228
+Yeah I don't know if it's related to the radiation or what.
+
+DOCTOR X228
+Hmm.  Any chest pain?
+
+PATIENT X228
+No.
+
+DOCTOR X228
+Does it happen if you use it more or?
+
+PATIENT X228
+No it just comes and goes and I just noticed it started when I started the radiation.
+
+DOCTOR X228
+Okay.  Yeah it could possibly be related to the radiation, it's hard to say.  Uh do you feel weakness in your arm?
+
+PATIENT X228
+No.  Just strange, just this strange feeling still.
+
+DOCTOR X228
+Yeah.  Alright.
+
+PATIENT X228
+I also mentioned to the radiation doctor @@@.
+
+DOCTOR X228
+Yeah.
+
+PATIENT X228
+Oh one other thing doctor, I @@@.
+
+DOCTOR X228
+Okay.
+
+PATIENT X228
+And uh I need for you to order the patches.
+
+DOCTOR X228
+Oh okay yeah.
+
+PATIENT X228
+And uh some of those nicotine patches @@@.  They told me I have to stop smoking.  
+
+DOCTOR X228
+Yeah.
+
+PATIENT X228
+I definitely have to do that.
+
+DOCTOR X228
+You can't use uh; you cannot smoke with uh this stuff either.
+
+PATIENT X228
+Uh-huh.
+
+DOCTOR X228
+Uh.  Do you want to pick it up today or?
+
+PATIENT X228
+Yes I would appreciate it if I could.
+
+DOCTOR X228
+Do you want the gum?  I think we have the gum.
+
+PATIENT X228
+Uh okay, okay.
+
+DOCTOR X228
+Uh and I know there are lozenges.  So you take, you know you take them predominantly when you have uh cravings.  
+
+PATIENT X228
+I don't feel like nothings even wrong @@@.
+
+DOCTOR X228
+Well it's not too bad.  Alright your blood pressure's been good.  I want to bring you back and then we'll repeat everything okay.
+
+PATIENT X228
+Okay, good enough.
+
+DOCTOR X228
+You need to get labs drawn beforehand.
+
+PATIENT X228
+Okay.  @@@.
+
+DOCTOR X228
+Yeah I mean it's up to you.  If you're here you can do it and otherwise you can do it the day of and you know I don't want to make you come in just for that um.  Don't worry about it, just uh anytime no.
+
+PATIENT X228
+Alright.  @@@.
+
+DOCTOR X228
+Yeah, don't worry.  Yeah exactly.  Alright uh so let me talk to DOCTOR and I'll be right back.
+
+PATIENT X228
+Okay.
+
+DOCTOR X228
+Alright it'll only take a few minutes.  I'm just telling the numbers, going over those.
+
+(DOCTOR OUT:  89:15  DOCTOR IN:  96:11)  
+
+DOCTOR X228
+Alright everything looks good.  Uh we see you back in.
+
+PATIENT X228
+In three months.
+
+DOCTOR X228
+Three months and we'll get the labs beforehand.  Uh I ordered the nicotine stuff so you should go pick it up today.
+
+PATIENT X228
+Okay.
+
+DOCTOR X228
+Just don't smoke on it.  It's got a lot of nicotine.
+
+PATIENT X228
+I know.
+
+DOCTOR X228
+And you could get a blood clot or something from this.
+
+PATIENT X228
+Right.
+
+DOCTOR X228
+Uh and then I wish you well with everything with the radiation you know.  I'm glad it got caught early you know.
+
+PATIENT X228
+Yeah.
+
+DOCTOR X228
+I'm just glad you saw them.
+
+PATIENT X228
+Well I'm glad too, I'm glad @@@.  Like I'm highly motivated.
+
+DOCTOR X228
+Alright.  Take care.
+
+PATIENT X228
+Thank you.
+
+DOCTOR X228
+Alright take care.
+
+PATIENT X228
+I'll see you in three months.
+
+PATIENT LEAVES:  97:04
+
+Time is @@@.
+
+
+
+

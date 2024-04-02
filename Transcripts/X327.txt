@@ -1,0 +1,1447 @@
+
+DOCTOR X327 
+PATIENT?  Hello.
+
+PATIENT X327
+How you doing doctor?
+
+DOCTOR X327
+Good how are you?
+
+PATIENT X327
+I'm good?  Got married yet?
+
+DOCTOR X327
+No.  One month.
+
+PATIENT X327
+One more month.
+
+SECOND PERSON X327
+I can't imagine.
+
+DOCTOR X327
+Yeah grab a seat.
+
+PATIENT X327
+Oh.
+
+DOCTOR X327
+Just about there.
+
+PATIENT X327
+Okay.
+
+DOCTOR X327
+You know I'm looking forward to it a little bit.
+
+PATIENT X327
+Yeah.
+
+DOCTOR X327
+But it's scary.
+
+PATIENT X327
+That's okay.  
+SECOND PERSON X327
+You're jumping.
+
+PATIENT X327
+Oh it'll be alright.
+
+DOCTOR X327
+How are things going for you?
+
+PATIENT X327
+Pretty good.  I got my little quirks.
+
+DOCTOR X327
+Yeah.
+
+PATIENT X327
+Yeah.  Pain here and there.
+
+DOCTOR X327
+Any problems?  Sleep well?  Any kind of problems?
+
+PATIENT X327
+No, no big problems, except every so often my ankle hurts right here.
+
+DOCTOR X327
+Yeah.
+
+PATIENT X327
+Right there.
+
+DOCTOR X327
+What do you do when it hurts?  Like elevate it or?
+
+PATIENT X327
+I don't know it just comes and goes.
+
+DOCTOR X327
+You ever hurt it before?
+
+PATIENT X327
+Not that I can remember.
+
+DOCTOR X327
+Do any exercising or anything?
+
+SECOND PERSON X327
+Only walking around the house.
+
+DOCTOR X327
+Okay, walking around.  I mean the only thing we kind of do for that, do you take anything for it to help?
+
+PATIENT X327
+Uh well I got some medicine Naproxen and that @@@.
+
+DOCTOR X327
+Yeah probably Naproxen.
+
+PATIENT X327
+Yeah that and my wife, she rubs it and washes it with a liniment, like a liniment and it gets better.
+
+DOCTOR X327
+Yeah.  You probably just have some strain on the ligaments and everything.
+
+PATIENT X327
+Right it's just like a little pain that comes.
+
+DOCTOR X327
+It comes up here?
+
+PATIENT X327
+Yeah.
+
+DOCTOR X327
+It's probably a little strain in the muscle.  Does it seem to be on the outside?
+
+PATIENT X327
+Yeah like right, right in here.
+
+DOCTOR X327
+There's a kind of strain where you're pushing your down and you're using these muscles.
+
+PATIENT X327
+Oh.
+
+DOCTOR X327
+And so usually the muscles on the outside of the ankle.
+
+PATIENT X327
+Right.
+
+DOCTOR X327
+Pushing down like that so.
+
+PATIENT X327
+Right.
+
+DOCTOR X327
+The one thing to do is just you know keep exercising the ankle movement around.
+
+PATIENT X327
+Right.
+
+DOCTOR X327
+And don't overwork it too much.
+
+PATIENT X327
+Okay.
+
+DOCTOR X327
+Heating pads and stuff will help with that.
+
+PATIENT X327
+Right.
+
+DOCTOR X327
+Well and I mean and I'll take a look at it just to make sure there's nothing swollen in there or anything.
+
+SECOND PERSON X327
+Right.
+
+DOCTOR X327
+Um, anything else?  Have you been checking your sugars?
+
+PATIENT X327
+Yeah.  I've been doing that steady you know.
+
+DOCTOR X327
+Oh right yeah.
+
+PATIENT X327
+@@@ every day, especially when I can't sleep.
+
+DOCTOR X327
+Okay.  Um how do they look at home?
+
+SECOND PERSON X327
+They look good.  @@@.
+
+DOCTOR X327
+So when do you check them?
+
+PATIENT X327
+Uh in the mornings and before I eat.
+
+DOCTOR X327
+What have they each been?
+
+PATIENT X327
+Uh it depends on @@@ at night.
+
+DOCTOR X327
+Yeah and in the morning?
+
+PATIENT X327
+124, 27 you know.
+
+DOCTOR X327
+So 120s that's pretty good.
+
+PATIENT X327
+Right.
+
+DOCTOR X327
+Any low ones?
+
+PATIENT X327
+Uh in the morning no.  I've had a few high ones like in the 150 range.
+
+DOCTOR X327
+That's still not too bad so that's good.
+
+PATIENT X327
+But after I take the medicine you know it's back to 130, 12 goes down to like 116, 107.
+
+DOCTOR X327
+So it's pretty good.  So you're keeping in a good range and how about the blood pressure?
+
+PATIENT X327
+Uh blood pressures range from like 130 you know, the bottom like 78 and heart rate, the heart rate always seems a little high.
+
+DOCTOR X327
+@@@.
+
+PATIENT X327
+Yeah about 93, 98 just had a long trip.
+
+DOCTOR X327
+Any reason why it's so fast?
+
+PATIENT X327
+You mean.
+
+DOCTOR X327
+No chest pain, shortness of breath?
+
+SECOND PERSON X327
+No not really.  
+
+PATIENT X327
+It usually go up whenever I do my inhaler you know.
+
+DOCTOR X327
+Okay that's why.  The inhaler makes it a little fast that makes sense yeah.
+
+PATIENT X327
+Right.  @@@.
+
+DOCTOR X327
+It speeds you up.
+
+PATIENT X327
+Right.
+
+DOCTOR X327
+It @@@ should.
+
+PATIENT X327
+Right.
+
+DOCTOR X327
+Alright.  So all the meds here, you're still taking the metformin?
+
+PATIENT X327
+Yeah.
+
+DOCTOR X327
+And the lisinopril, amlodipine.
+
+PATIENT X327
+Yeah.
+
+DOCTOR X327
+Niacin?
+
+PATIENT X327
+Yeah.  I'm taking every damn thing.
+
+DOCTOR X327
+We gave you more than enough so.
+
+PATIENT X327
+Right.
+
+DOCTOR X327
+So his blood pressure is good today.
+
+PATIENT X327
+Yeah.
+
+DOCTOR X327
+Really well-controlled, better than even before.  Pulse is high still.
+
+PATIENT X327
+Yeah.
+
+DOCTOR X327
+We'll recheck that.  Okay.  How is that knee?
+
+PATIENT X327
+Uh it's doing pretty good.
+
+DOCTOR X327
+Okay.
+
+PATIENT X327
+Yeah, seems like it leaves one area and go into another area.  @@@ and that wasn't a normal thing it's, just had a pain and that's normal but shit what can you do?  @@@.  
+
+DOCTOR X327
+Well I know we tested a bunch of labs @@@.
+
+PATIENT X327
+Yeah, yeah.
+
+DOCTOR X327
+And I remember that they all came back normal so @@@.
+
+PATIENT X327
+Didn't I get an x-ray or something?
+
+DOCTOR X327
+You did like x-ray and that was okay.  Your iron was okay, we checked that.
+
+PATIENT X327
+Okay.
+
+DOCTOR X327
+And you know everything else here, your thyroid looks okay so I don't think there's any like any cause for, so you probably did something like first @@@ and it happens sometimes you don't even.
+
+PATIENT X327
+Yeah.
+
+SECOND PERSON X327
+Okay.
+
+DOCTOR X327
+So today there's nothing prominent.  When was the last time you saw the eye doctor?  In October?  Remember that?
+
+PATIENT X327
+I think so.  Yeah that's it.
+
+DOCTOR X327
+And your level was not too bad.  Your A1c level was good, it was 7.2.  Now I want it below 7.
+
+PATIENT X327
+Right.
+
+DOCTOR X327
+So that's not bad.
+
+PATIENT X327
+What's that fellow when I called in for my shoes?
+
+DOCTOR X327
+Uh-huh.
+
+PATIENT X327
+They asked me did I know my A1c.
+
+DOCTOR X327
+Oh they asked you, that's the one you want to know.
+
+PATIENT X327
+Okay.
+
+DOCTOR X327
+7.2 so.
+
+PATIENT X327
+7.2 and they want it below 6 right?
+
+DOCTOR X327
+Well closer to, probably under 6.5 would be best.
+
+PATIENT X327
+Okay.
+
+DOCTOR X327
+I'd be happy to get you under 7.
+
+PATIENT X327
+Yeah okay.
+
+DOCTOR X327
+So I mean, you're almost there and you're not on a ton of meds so.
+
+PATIENT X327
+Right.
+
+DOCTOR X327
+I mean we could probably let it go up a little bit.  I mean I think the way your sugars are looking and how's the diet and exercise doing?
+
+SECOND PERSON X327
+Good.
+
+PATEITN X327
+Yeah.
+
+DOCTOR X327
+Yeah so you been losing weight, the same.
+
+SECOND PERSON X327
+Well I might let him @@@.
+
+DOCTOR X327
+Pretty good.  So he's losing a little?
+
+SECOND PERSON X327
+Yeah.
+
+DOCTOR X327
+Pretty similar to last time.
+
+PATIENT X327
+I've stopped eating a lot.
+
+DOCTOR X327
+Okay.
+
+SECOND PERSON X327
+We diet @@@.
+
+PATIENT X327
+Yeah.  Cause I got to @@@
+
+DOCTOR X327
+So that's how it's working?
+
+PATIENT X327
+Yeah I got do another @@@.  Sometimes I tell you I can't eat nothing.
+
+DOCTOR X327
+Oh all the good stuff you can't eat.
+
+PATIENT X327
+Yeah, like fried chicken, cause that's hard.
+
+DOCTOR X327
+Yeah, it hurts too much.
+
+PATIENT X327
+Yeah.
+
+DOCTOR X327
+Yeah okay.
+
+PATIENT X327
+Go ahead.
+
+DOCTOR X327
+Oh no just stay where you're at.
+
+SECOND PERSON X327
+Okay.
+
+DOCTOR X327
+Eat today already?
+
+PATIENT X327
+Yeah I ate.  I went for blood work.
+
+DOCTOR X327
+Okay.  So did they check your cholesterol?
+
+PATIENT X327
+Right yeah did the blood work.
+
+DOCTOR X327
+Okay.
+
+PATIENT X327
+They called me and told me to come in and check my @@@.
+
+DOCTOR X327
+Okay.  It should be here.
+
+PATIENT X327
+@@@.
+
+DOCTOR X327
+It's still a little high.
+
+PATIENT X327
+Oh they did it already?
+
+DOCTOR X327
+Yep.  So we might need to uh, let's see.  Are you taking the um simvastatin, you're taking it?
+
+PATIENT X327
+Yeah.
+
+DOCTOR X327
+And you're taking the niacin.
+
+PATIENT X327
+Niacin.  I don't really keep track of that one.
+
+DOCTOR X327
+Okay try and take it daily so I don't have to.
+
+PATIENT X327
+Okay.
+
+SECOND PERSON X327
+One time when he took that pill.
+
+DOCTOR X327
+Uh-huh.
+
+SECOND PERSON X327
+The other night he was burning and he was burning and he said my skin's on fire.
+
+DOCTOR X327
+I can give you something for that.
+
+PATIENT X327
+Okay.
+
+DOCTOR X327
+Usually the xxxadryl or using an aspirin before you take it.
+
+SECOND PERSON X327
+Right.
+
+DOCTOR X327
+So you take aspirin anyway right?
+
+SECOND PERSON X327
+Right.
+
+DOCTOR X327
+Baby aspirin at night like when you're going to take the niacin.  So take the aspirin a little before you take that pill.
+
+PATIENT X327
+Oh okay, like 81 mg.
+
+DOCTOR X327
+Yeah.
+
+SECOND PERSON X327
+Oh okay.
+
+DOCTOR X327
+So if you take that before it should help. So when you take the aspirin.
+
+PATIENT X327
+That scared the shit out of me.
+
+PATIENT X327
+Right and I like to know, hearing these reports about @@@ about testosterone.
+
+DOCTOR X327
+Yes.
+
+PATIENT X327
+So um now um I was been on the computer and found that.  Like I don't seem like I don't want my, you have to want desire for sex or whatever.
+
+DOCTOR X327
+Uh-huh.
+
+PATIENT X327
+And that's one of the reason low testosterone.
+
+DOCTOR X327
+Right.
+
+PATIENT X327
+Is there a something for that?
+
+DOCTOR X327
+There is but it's something I don't like to check because I'll tell you the reason because giving testosterone has it’s own risk, it hurts your liver you know.
+
+PATIENT X327
+Oh really.
+
+DOCTOR X327
+It can do a lot of different things.  It changes your sugar levels.
+
+PATIENT X327
+Oh.
+
+DOCTOR X327
+It'll do @@@ at the same time, so like the prostate.  So if
+you're older obviously there's an increased risk of prostate cancer.
+
+PATIENT X327
+Yeah.
+
+DOCTOR X327
+I think it's probably good that they advertise and we don't know who really has that.
+
+PATIENT X327
+Oh okay.
+
+DOCTOR X327
+So I don't recommend it unless like you're getting really fatigued, it's like maybe you know it's like you're getting more like your hair like on the arms falling out.
+
+PATIENT X327
+Right.
+
+DOCTOR X327
+You're developing breasts then I would think oh you don't have testosterone you know.
+
+PATIENT X327
+Oh okay.
+
+DOCTOR X327
+But like @@@ you know for low energy I wouldn't recommend it because of all the risks and benefits.
+
+PATIENT X327
+Cause that's just a bunch of hype.
+
+DOCTOR X327
+Yeah I mean we could check it but even if it was low and nothing was right.
+
+PATIENT X327
+Yeah.
+
+DOCTOR X327
+You may be low, there's no @@@.
+
+PATIENT X327
+Okay.
+
+DOCTOR X327
+You know we'd have to keep it low.
+
+PATIENT X327
+Okay.
+
+DOCTOR X327
+I would be, I mean it's something we can look into.
+
+PATIENT X327
+Right.
+
+DOCTOR X327
+I mean as you get older, you lose a little bit of desire.  Do you have any trouble getting erections or anything?
+
+PATIENT X327
+Uh, kind of, sort of.
+
+DOCTOR X327
+Oh yeah, sometimes.
+
+PATIENT X327
+Sometimes it still works, sometime it don't.
+
+DOCTOR X327
+Okay.  Well then we'll do something.
+
+PATIENT X327
+Yeah I got a wife that's 10 years younger than me so she @@@.
+
+DOCTOR X327
+She wants you to do well.  @@@.
+
+PATIENT X327
+That's alright.  I think it's um we'll have to get her a toy.  Hey whatever does it?  Right.
+
+DOCTOR X327
+But I guess the question is you know is there anything else that could be contributing and like how's your sleep been?
+
+PATIENT X327
+Uh that's kind of shitty at times.
+
+DOCTOR X327
+What happens? Do you wake up?  
+
+PATIENT X327
+Yeah.
+
+DOCTOR X327
+Do you think you snore or are you short of breath or anything?
+
+SECOND PERSON X327
+No.
+
+PATIENT X327
+I goes to bed 9-9:30, go to sleep and I wake up.  If I don't take a Advil P.M. I wake up like 2 o'clock.
+
+DOCTOR X327
+Why are you waking up?  What's going on?
+
+PATIENT X327
+I don't know.  I just wake up.
+
+DOCTOR X327
+Are you tired @@@.
+
+SECOND PERSON X327
+No, uh uh.  I say what's up.
+
+PATIENT X327
+What. 
+
+DOCTOR X327
+Huh.  Can you go back to sleep?
+
+PATIENT X327
+Yeah maybe after a while I go back to sleep.
+
+DOCTOR X327
+Are you tired during the day?
+
+PATIENT X327
+No I don't really do shit.  It's just that I wake up, I don't know why.
+
+SECOND PERSON X327
+I don't know why either yeah.
+
+PATIENT X327
+I wake up, I'm thinking on things that are important you know, crazy.
+
+DOCTOR X327
+Have been anxious?
+
+PATIENT X327
+What?
+
+DOCTOR X327
+Have you been anxious?
+
+PATIENT X327
+Sometimes I do get a little anxious.
+
+DOCTOR X327
+With worries about what?  Any in general?
+
+PATIENT X327
+Yeah, just thinking about overall affairs.
+
+DOCTOR X327
+Yeah.
+
+PATIENT X327
+Just you know crazy shit.  How's the money going to last you know, I know, you know like and if I take an Advil P.M. I sleep good.
+
+DOCTOR X327
+I don't recommend probably continuing to do that.
+
+PATIENT X327
+Why?
+
+DOCTOR X327
+You know when you can.
+
+PATIENT X327
+Right.
+
+DOCTOR X327
+Now all we're going is @@@.
+
+PATIENT X327
+Right.
+
+DOCTOR X327
+If you feel like you're gonna wake up or you're having trouble, just take it before you go to bed.
+
+PATIENT X327
+It's like a half a pill you know.
+
+DOCTOR X327
+Good you know I mean I think it's real easy but I can give you a different medicine that might help with your @@@ problem.
+
+PATIENT X327
+Right.
+
+DOCTOR X327
+And if you feel maybe, you know another thing I think having a younger lady, do you feel pressure?
+
+PATIENT X327
+No.
+
+DOCTOR X327
+Any pressure to like perform?
+
+PATIENT X327
+No she's understanding.
+
+DOCTOR X327
+Okay.  
+
+PATIENT X327
+@@@.
+
+DOCTOR X327
+You get worked up and you want to do it and when you want to do it so bad you can't.
+
+PATIENT X327
+I know sometimes I see @@@.
+
+DOCTOR X327
+Hmm.
+
+PATIENT X327
+She's going through menopause.
+
+DOCTOR X327
+Hmm.
+
+PATIENT X327
+Man she can get real crazy.
+
+DOCTOR X327
+Yeah.
+
+PATIENT X327
+@@@.  These little things, you know it's sad you know.  @@@.
+
+DOCTOR X327
+I think around menopause is probably the worst.
+
+PATIENT X327
+Yeah.
+
+DOCTOR X327
+Cause the woman knows what's happening.
+
+PATIENT X327
+Is that worse than menopause?
+
+SECOND PERSON X327
+Not really um.
+
+DOCTOR X327
+You @@@ kind of go slowly.  It's not like how you where you just shut off.
+
+SECOND PERSON X327
+Right, right.
+
+DOCTOR X327
+Like a slow drop so over time you know it's like obviously testosterone is @@@ talking about.
+
+SECOND PERSON X327
+Right, right.
+
+DOCTOR X327
+Not really and that's how you, unless you're, I'm not sure if it totally fails but when it fails you want to go to @@@.
+
+PATIENT X327
+Right okay.  Yeah I guess I just have to, @@@, get all the memories.
+
+DOCTOR X327
+Yeah.  Well you know it's something I would think about checking from.
+
+PATIENT X327
+Right.
+
+DOCTOR X327
+If you really want, if you're really concerned about, how often can you get an erection?  Do you wake up with erections?
+
+PATIENT X327
+No not really.
+
+DOCTOR X327
+No.
+
+PATIENT X327
+I don't know even @@@.
+
+DOCTOR X327
+No, not anymore.
+
+PATIENT X327
+That's what I say is it supposed to drop like that?
+
+DOCTOR X327
+How quickly does it fall off, I mean fall away?
+
+PATIENT X327
+Um rapidly.
+
+DOCTOR X327
+Like all the time?
+
+PATIENT X327
+Yeah.
+
+DOCTOR X327
+Well I think you know, part of that is getting the diabetes under control.
+
+PATIENT X327
+Right.
+
+SECOND PERSON X327
+Yeah.
+
+PATIENT X327
+The medicines.
+
+DOCTOR X327
+Yeah.  Now that your sugars are getting pretty good.
+
+PATIENT X327
+Right.
+
+DOCTOR X327
+I think that's gonna help.
+
+PATIENT X327
+Okay.
+
+DOCTOR X327
+And now the blood pressures even looks a little better.
+
+PATIENT X327
+Right.
+
+DOCTOR X327
+So the only thing that I would say that I think will help rather than the testosterone is you know getting around and like walking.
+
+PATIENT X327
+Exercising.
+
+DOCTOR X327
+Get the blood flowing.  The biggest problem is the blood flow.
+
+PATIENT X327
+Right, right.
+
+DOCTOR X327
+I doubt if its testosterone but we know @@@ shortness of breath.
+
+PATIENT X327
+Yeah okay doc.
+
+DOCTOR X327
+I knew you did.  So I wouldn't worry about it.
+
+PATIENT X327
+Right okay.
+
+DOCTOR X327
+So I think you'll be okay.
+
+PATIENT X327
+Alright.
+
+DOCTOR X327
+Get moving.  Anything that gets the blood flowing is good.
+
+PATIENT X327
+Okay.
+
+DOCTOR X327
+Into the blood flow.
+
+PATIENT X327
+Okay.  I know I went out of town and I work, you know, I was in clothing @@@ and sent people to help me.
+
+DOCTOR X327
+Oh.
+
+PATIENT X327
+I worked every day.
+
+SECOND PERSON X327
+And I @@@ weather.
+
+DOCTOR X327
+That's really good.
+
+PATIENT X327
+After working you know so hard and all of that, I start feeling better though.  So I got to start exercising.
+
+DOCTOR X327
+You need to do that.
+
+PATIENT X327
+Yeah, yeah.
+
+DOCTOR X327
+Well you got to do it then.
+
+PATIENT X327
+Right, okay.
+
+DOCTOR X327
+So maybe that's the main thing.  I don't think you have any medications that are causing a problem and I'm just looking here.  Yeah you don't have any medications that should interfere.
+
+PATIENT X327
+Okay.
+
+DOCTOR X327
+That would be another thing I'd check.
+
+PATIENT X327
+Don't the water pills do that?  The water pill?
+
+DOCTOR X327
+They shouldn't no.  Everything else looks good.  
+
+SECOND PERSON X327
+@@@.
+
+DOCTOR X327
+I need to do an exam on you and you already got all your labs done.  They look obviously the cholesterol is still a little high.  Not where I want to see the bad cholesterol, the 128.
+
+PATIENT X327
+Okay.
+
+DOCTOR X327
+I want that under 100 but if you take the niacin.
+
+PATIENT X327
+Right.
+
+DOCTOR X327
+That might help.
+
+PATIENT X327
+Okay.
+
+DOCTOR X327
+Just take the aspirin before.  Cholesterol's okay.
+
+PATIENT X327
+Okay.
+
+DOCTOR X327
+Not where we want it to be, it's just a little high triglycerides but that will go down when the diabetes is under better control, reasonably better so.  @@@ before and your blood looks fine, nothing worrisome.
+
+PATIENT X327
+Okay.
+
+DOCTOR X327
+So that's about it.
+
+PATIENT X327
+Okay.
+
+DOCTOR X327
+Let me do a quick exam on you.  I'll go talk with the other doc and we'll get you out of here.  Do you need anything else?
+
+PATIENT X327
+Uh no I'm good.
+
+DOCTOR X327
+Okay.
+
+PATIENT X327
+It's all good.
+
+DOCTOR X327
+When did you take your inhaler last?
+
+PATIENT X327
+Uh let's see @@@.
+
+DOCTOR X327
+Okay I think it's been fast but nothing.  Did you walk around a lot before you got here?
+
+PATIENT X327
+No.
+
+DOCTOR X327
+Okay.  You don't feel short or breath, chest pain?
+
+PATIENT X327
+No.
+
+DOCTOR X327
+Okay.  Nausea, vomiting?
+
+PATIENT X327
+No.
+
+DOCTOR X327
+You've been taking them with liquid?
+
+PATIENT X327
+Yeah, yeah.
+
+DOCTOR X327
+No fevers, chills?
+
+PATIENT X327
+No.
+
+DOCTOR X327
+Coughing up anything?
+
+PATIENT X327
+No.
+
+DOCTOR X327
+Pain when you urinate?
+
+PATIENT X327
+Uh what?
+
+DOCTOR X327
+Any pain when you urinate?
+
+PATIENT X327
+No.
+
+DOCTOR X327
+Okay.  You are actually just a little bit fast.  I'm making you nervous.
+
+PATIENT X327
+@@@.  You put me on the spot doc.
+
+DOCTOR X327
+Take a deep breath.  Again.  Any pain here?
+
+PATIENT X327
+No.
+
+DOCTOR X327
+Can I take a look at your feet?
+
+PATIENT X327
+Yeah sure.
+
+DOCTOR X327
+@@@.  Alright.
+
+PATIENT X327
+@@@.
+
+DOCTOR X327
+Is that right.  You don't want them too moist anyway.
+
+PATIENT X327
+Yeah.
+
+DOCTOR X327
+With diabetes.  So you got some feeling along through here?
+
+PATIENT X327
+Yes.  I had um surgery on that @@@.
+
+DOCTOR X327
+Yeah what'd you have done there?
+
+PATIENT X327
+I had like a hammertoe and.
+
+DOCTOR X327
+@@@.
+
+SECOND PERSON X327
+About a year or less.
+
+PATIENT X327
+Yeah.  It's hanging my belt in that joint @@@.
+
+DOCTOR X327
+Better now?
+
+PATIENT X327
+Yeah it got kind of dark you know and they cut that joint up.  They broke that bone, put a pin in it and straightened it out.
+
+DOCTOR X327
+They chopped out a lot?
+
+PATIENT X327
+What?
+
+DOCTOR X327
+They chopped out a lot?
+
+PATIENT X327
+Oh yeah.
+
+DOCTOR X327
+Do you have feeling here?
+
+PATIENT X327
+Yes.
+
+DOCTOR X327
+@@@, working.
+
+PATIENT X327
+Right.  No I'm really @@@.
+
+DOCTOR X327
+Oh they look good.
+
+PATIENT X327
+Yeah.
+
+DOCTOR X327
+@@@.
+
+PATIENT X327
+Right.
+
+DOCTOR X327
+Oh they want me to screen everyone for HIV.  I mean you already had labs drawn today.  I'll just say we'll do it next time.
+
+PATIENT X327
+Okay.  Yeah I think I'm straight.  But you're young.
+
+DOCTOR X327
+They tell you to do it for everyone.
+
+PATIENT X327
+Yeah okay, okay.
+
+DOCTOR X327
+So but I suppose we could take it today.  @@@.
+
+PATIENT X327
+Alright.
+
+DOCTOR X327
+And you had your c-scope four to five years ago.
+
+PATIENT X327
+Right.  
+
+DOCTOR X327
+I got it all set up.
+
+PATIENT X327
+What the?
+
+DOCTOR X327
+Oh the colonoscopy.
+
+PATIENT X327
+Oh.
+
+DOCTOR X327
+Everything else looks okay.  You said the @@@ is better.  Normal.  Everything else is normal.  Alright let me talk with the other doc.
+
+PATIENT X327
+Okay.
+
+DOCTOR X327
+And I think, yeah no big changes.  Just we'll try that niacin okay.
+
+PATIENT X327
+Okay.
+
+DOCTOR X327
+I'll be back in a moment.
+
+PATIENT X327
+And that aspirin won't let me get the burns huh?
+
+DOCTOR X327
+It'll help.  If it doesn't work we can try a full dose aspirin.
+
+PATIENT X327
+Okay.
+
+DOCTOR X327
+The 3.5 and you can try that and that should help prevent it at least.
+
+PATIENT X327
+Okay.
+
+DOCTOR X327
+Either that and if that doesn't work xxxadryl.
+
+PATIENT X327
+Oh xxxadryl.
+
+DOCTOR X327
+Yeah sometimes that works.  That's what's in the Tylenol P.M. anyway.
+
+PATIENT X327
+Right.
+
+DOCTOR X327
+So take it before bed.
+
+PATIENT X327
+Yeah.
+
+DOCTOR X327
+And it works like Tylenol P.M., it'll work.
+
+PATIENT X327
+Okay.
+
+DOCTOR X327
+Try it with the aspirin first.
+
+PATIENT X327
+Okay.  Alright.
+
+(DOCTOR OUT:  46:23  DOCTOR IN:  52:33)
+
+DOCTOR X327
+Alright one change.
+
+PATIENT X327
+Okay.
+
+DOCTOR X327
+We are going to change your one cholesterol medicine.
+
+PATIENT X327
+Okay.
+
+DOCTOR X327
+Not the niacin, the simvastatin.
+
+PATIENT X327
+Right.
+
+DOCTOR X327
+We're gonna stop that one and we're going to put you on something called Crestor.
+
+PATIENT X327
+Crestor.
+
+DOCTOR X327
+Yeah.  But keep taking this until they get you the Crestor cause I got to get it approved.
+
+PATIENT X327
+Okay.  What's the difference?
+
+DOCTOR X327
+Stronger.
+
+PATIENT X327
+Stronger?
+
+DOCTOR X327
+@@@.
+
+PATIENT X327
+Right.
+
+DOCTOR X327
+But um it's a little stronger and @@@ benefit.
+
+PATIENT X327
+Okay.
+
+DOCTOR X327
+It's @@@ too.  So we'll do whatever we can to help you.
+
+PATIENT X327
+Okay the Crestor, once I get the Crestor then and take the niacin.
+
+DOCTOR X327
+You take the niacin and you stop the simvastatin.
+
+PATIENT X327
+Okay.
+
+DOCTOR X327
+So let me uh make sure, it's not formulary for Crestor.  Hmm.  We'll start you at 10 mg and we'll go up if we need to but we'll start you low so we'll have someplace to go.
+
+PATIENT X327
+Okay.
+
+DOCTOR X327
+And I'll do refills.  @@@.  Okay.  Right there.
+
+PATIENT X327
+So they going to do six months, every six months?
+
+DOCTOR X327
+Yeah you want to come back in six months or three months?
+
+PATIENT X327
+Oh I'll come in six.  @@@.
+
+DOCTOR X327
+Uh where we at?
+
+PATIENT X327
+July?
+
+DOCTOR X327
+April, July.
+
+PATIENT X327
+Uh.
+
+DOCTOR X327
+If you want to come in July we could do that and then we could get, I mean you know see how you're doing with the medications.
+
+PATIENT X327
+Okay.
+
+DOCTOR X327
+I mean actually @@@ for this time.
+
+PATIENT X327
+Okay.
+
+DOCTOR X327
+Okay.  I'm going to go ahead and do six months.
+
+PATIENT X327
+Okay.
+
+DOCTOR X327
+And no labs today.  @@@.  I'll have them send it to you, take about a week.
+
+PATIENT X327
+Okay.
+
+SECOND PERSON X327
+@@@.
+
+DOCTOR X327
+Okay.  See you in three months?
+
+PATIENT X327
+Alright.  Hey I'm glad to have met you.
+
+DOCTOR X327
+@@@.
+
+PATIENT X327
+Walking around with your chest out.
+
+DOCTOR X327
+Yeah I don't know about that.  @@@.  She'll be in control.
+
+PATIENT X327
+Right.
+
+DOCTOR X327
+Here you go, just check out with her okay.
+
+PATIENT X327
+Okay.  Have a good one sir.
+
+DOCTOR X327
+You too.
+
+PATIENT X327
+@@@.
+
+PATIENT LEAVES:  55:31.
+
+Time is 2:01 p.m.
+
+
+
+

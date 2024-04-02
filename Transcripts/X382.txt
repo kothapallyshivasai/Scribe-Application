@@ -1,0 +1,885 @@
+
+DOCTOR X382
+PATIENT?
+
+PATIENT X382
+What's up doc?
+
+DOCTOR X382
+Hi how are you? 
+
+PATIENT X382
+Fine.  You?
+
+DOCTOR X382
+Good.  
+
+PATIENT X382
+I just seen you in August.
+
+DOCTOR X382
+Huh.  I know.
+
+PATIENT X382
+And.
+
+DOCTOR X382
+But you've had some movement since then right?
+
+PATIENT X382
+Uh.
+
+DOCTOR X382
+You've been busy since then?
+
+PATIENT X382
+Well I was in the hospital.
+
+DOCTOR X382
+Yeah that's what I mean.
+
+PATIENT X382
+This is supposed to be a follow-up from that I guess.
+
+DOCTOR X382
+Uh-huh.  To see how you're doing.  So you were kind of dizzy and things were going on and then you went to the hospital.
+
+PATIENT X382
+Vertigo, dehydrated.
+
+DOCTOR X382
+Yeah you were pretty dehydrated.
+
+PATIENT X382
+Yeah um.  They said my blood and creatinine was way off.
+
+DOCTOR X382
+Yeah.  That's probably because of the dehydration.
+
+PATIENT X382
+Yeah.
+
+DOCTOR X382
+Um.  They stopped some of your meds and I know Cardiology restarted one of them.  How have you been doing since then?
+
+PATIENT X382
+Okay.
+
+DOCTOR X382
+Okay.  You were discharged end of August right?
+
+PATIENT X382
+Should have been like in September I think it was.
+
+DOCTOR X382
+Be September yeah somewhere around.
+
+PATIENT X382
+Third or fourth.
+
+DOCTOR X382
+Third or fourth.  Yeah it looks uh it looks like it may be the end of August I'm not sure.
+
+PATIENT X382
+End of August.
+
+DOCTOR X382
+You had been admitted on the 28th.
+
+PATIENT X382
+Right.
+
+DOCTOR X382
+How is it since then, your dizziness and everything?
+
+PATIENT X382
+Well it's going away.
+
+DOCTOR X382
+Okay.
+
+PATIENT X382
+I lost three more pounds.
+
+DOCTOR X382
+Oh good.  But maybe in a bad way right?
+
+PATIENT X382
+No.
+
+DOCTOR X382
+You've been actively trying right?
+
+PATIENT X382
+Yes.
+
+DOCTOR X382
+Okay good.  I don't want to lose it because you're in the hospital.  Let's see.  Okay so your pressure is a little better.  You've been doing okay at home right?
+
+PATIENT X382
+Yeah.
+
+DOCTOR X382
+I know you were low so you're probably running, you know what are you running at home?
+
+PATIENT X382
+Uh, I wasn't, gee back then I was running 90 over like 60 something.
+
+DOCTOR X382
+Okay.
+
+PATIENT X382
+But the vertigo was so bad that I just lied in bed for like three days before I even came in here.
+
+DOCTOR X382
+Right now?
+
+PATIENT X382
+No way back then.
+
+DOCTOR X382
+Oh back then okay.  Okay.  Um.
+
+PATIENT X382
+I couldn't eat nothing.  I was nauseated all the time.
+
+DOCTOR X382
+You're still taking 80 and 90 of Lantus morning and evening?
+
+PATIENT X382
+Uh-huh.
+
+DOCTOR X382
+Okay and then are you still on 60 three times a day?
+
+PATIENT X382
+Yes.
+
+DOCTOR X382
+Of the.
+
+PATIENT X382
+Yes.
+
+DOCTOR X382
+Uh Aspart and you're still on the @@@? 
+
+PATIENT X382
+Yeah.
+
+DOCTOR X382
+Okay and you're not sure which one you're on, if you're on the placebo or the uh?
+
+PATIENT X382
+I tell you the way it's been working I have seen where my sugars have been and it even went @@@, it's the real thing I think.
+
+DOCTOR X382
+It might be the real thing.  Okay.  When were you due to see Ophthalmology?
+
+PATIENT X382
+Did.
+
+DOCTOR X382
+You saw them.
+
+PATIENT X382
+Last week.
+
+DOCTOR X382
+You saw them yeah.  You saw them on the 7th.
+
+PATIENT X382
+Yeah everything's good.
+
+DOCTOR X382
+Everything looked good back there?
+
+PATIENT X382
+Yep.
+
+DOCTOR X382
+Okay.  You see Podiatry too right?
+
+PATIENT X382
+Um I'm still following up with the nail thing all the way from February.
+
+DOCTOR X382
+Okay so they check your, you did that in August?
+
+PATIENT X382
+Yeah.  Plus they checked me with my gout too.
+
+DOCTOR X382
+Okay.
+
+PATIENT X382
+Cause they say I'm a strange person.  I have it in a weird spot.
+
+DOCTOR X382
+Yeah.  Did they repeat any echo or imaging on you?
+
+PATIENT X382
+Uh coming up.
+
+DOCTOR X382
+You're coming up for a repeat okay.  So you'll get those and no increased shortness of breath, increased swelling in your legs?
+
+PATIENT X382
+Still having a little problem when I overdo it with fluid.
+
+DOCTOR X382
+Okay.
+
+PATIENT X382
+And I can tell when I'm having, I'm being orthopneic at night is because maybe I'm sleeping on maybe three, four pillows.
+
+DOCTOR X382
+And is that your baseline?
+
+PATIENT X382
+If I overdo it with the fluids.
+
+DOCTOR X382
+You know more.  
+
+PATIENT X382
+Yeah.
+
+DOCTOR X382
+You've got to be careful about the fluid.
+
+PATIENT X382
+Yeah, yeah.
+
+DOCTOR X382
+Okay.
+
+PATIENT X382
+Yes.
+
+DOCTOR X382
+You got, you're getting an ultrasound of your thyroid again?
+
+PATIENT X382
+I guess yes.
+
+DOCTOR X382
+And that is.
+
+PATIENT X382
+It's coming up.
+
+DOCTOR X382
+That should of been coming up right?
+
+PATIENT X382
+Yeah October some time, 2nd.
+
+DOCTOR X382
+Yeah it's coming up.  I think you can get it any time.  They just ordered it a day or two ago so.
+
+PATIENT X382
+Okay.
+
+DOCTOR X382
+I think you can get it whenever now.  Um, losing the weight which is good.
+
+PATIENT X382
+What you told me to do.
+
+DOCTOR X382
+Uh-huh.  Things are gonna get better and they're already getting better okay.
+
+PATIENT X382
+Yeah.  What was it back in May you and DOCTOR almost read me the riot act.
+
+DOCTOR X382
+I think you have PTSD from that.  Sorry.
+
+PATIENT X382
+And then who and then when I get admitted that day, who's down there?
+
+DOCTOR X382
+Uh was she your attending?
+
+PATIENT X382
+No.
+
+DOCTOR X382
+In oh she was on first?
+
+PATIENT X382
+Yeah.
+
+DOCTOR X382
+DOCTOR was.
+
+PATIENT X382
+Yeah.
+
+DOCTOR X382
+I saw, I got an alert and I saw DOCTOR admit you and I was like.
+
+PATIENT X382
+Yeah.
+
+DOCTOR X382
+What is he doing in the hospital?  I was looking at your thing and I was like but yeah, I was looking at it seeing what they were doing.
+
+PATIENT X382
+Believe it or not I came in to see DOCTOR uh for my follow-up for refractory @@@ and.
+
+DOCTOR X382
+Uh-huh.
+
+PATIENT X382
+What it was is I was in the office there and they said you don't look good.
+
+DOCTOR X382
+Oh.
+
+PATIENT X382
+Over there in building @@@ where my @@@ is.
+
+DOCTOR X382
+Uh-huh.
+
+PATIENT X382
+And they said you don't look good and they're the ones that put me in.  They told me to go to the Emergency Room and the Emergency put you in.
+
+DOCTOR X382
+And put you in because your numbers didn't look good either.
+
+PATIENT X382
+Cause I tried to be good this year.  I tried to stay out.
+
+DOCTOR X382
+Yeah I mean I think your renal function is improving.  You got it done on the 30th.  It was 1.58, it was 4-ish I think when you were admitted.  All your other labs look good.  I mean your cholesterol is looking better but I think the last time that was whatever we had last time.
+
+PATIENT X382
+Yeah.
+
+DOCTOR X382
+You're still on the niacin right and the?
+
+PATIENT X382
+Yes.
+
+DOCTOR X382
+Do you see NAME at all for your anything?  NAME.
+
+PATIENT X382
+She told me that uh now that I'm in this program okay.
+
+DOCTOR X382
+Which program?
+
+PATIENT X382
+The Excel Program for the diabetes.
+
+DOCTOR X382
+Okay.
+
+PATIENT X382
+She says that.
+
+DOCTOR X382
+She can't mess with them.
+
+PATIENT X382
+She's taken off and so is my uh.
+
+DOCTOR X382
+Okay.
+
+PATIENT X382
+My diabetic doctor which is DOCTOR.
+
+DOCTOR X382
+DOCTOR.  So who sees you?
+
+PATIENT X382
+That.
+
+DOCTOR X382
+The one doctor who does your?
+
+PATIENT X382
+Uh doctor yeah.  That's who.
+
+DOCTOR X382
+What are you on, let me see, you're on the niacin, fish oil you take 3000.
+
+PATIENT X382
+Yeah I called in.
+
+DOCTOR X382
+Fenofibrate.
+
+PATIENT X382
+The other night because I was filling my pills and there's a couple on there that you have to refill I think.
+
+DOCTOR X382
+Okay, I'll renew them.  No problem.
+
+PATIENT X382
+Have them sent please.
+
+DOCTOR X382
+Okay in the mail okay.
+
+PATIENT X382
+Yeah.
+
+DOCTOR X382
+I saw your A1c was 9.
+
+PATIENT X382
+Down from almost 11.
+
+DOCTOR X382
+Yeah.  We can probably get it checked out.
+
+PATIENT X382
+She's got me going for an INR today.
+
+DOCTOR X382
+Okay.
+
+PATIENT X382
+So if you want to put something in.
+
+DOCTOR X382
+Let's see.  It's only been a month.
+
+PATIENT X382
+I don't see you until like Christmas or something around there again.  Right?
+
+DOCTOR X382
+Yeah.
+
+PATIENT X382
+Something like six months annually?
+
+DOCTOR X382
+Yeah we're annually.
+
+PATIENT X382
+Or January uh semi-annual.
+
+DOCTOR X382
+Semi-annual yeah.  I'll probably have to renew a few times a year to try to keep you out of the hospital.
+
+PATIENT X382
+Yes.
+
+DOCTOR X382
+So they stopped your Aldactone and they stopped your.
+
+PATIENT X382
+Whatever it was.
+
+DOCTOR X382
+Metolazone.
+
+PATIENT X382
+Yeah.
+
+DOCTOR X382
+And you just restarted metolazone.
+
+PATIENT X382
+Right.
+
+DOCTOR X382
+And the dizziness is better right?
+
+PATIENT X382
+Yes.
+
+DOCTOR X382
+And then you're checking your blood pressure okay.  Let me take a listen to you.
+
+PATIENT X382
+Okay.  You need the shirt off, what?
+
+DOCTOR X382
+No you're fine.  Okay.  Same amount of pillows though, same amount of distance walking that you can tolerate?  Good, better?
+
+PATIENT X382
+The distance is getting better.
+
+DOCTOR X382
+Okay.
+
+PATIENT X382
+Because I.
+
+DOCTOR X382
+You're losing the weight too.
+
+PATIENT X382
+Yeah.
+
+DOCTOR X382
+It's gonna get better you know the more active you are so.  
+
+PATIENT X382
+But uh the sleep thing, because I've been having trouble sleeping at night because of the back pain.
+
+DOCTOR X382
+The back pain that you're having?
+
+PATIENT X382
+Yeah but I'm having, I have an epidural scheduled for the 18th of October.
+
+DOCTOR X382
+Okay.  Take some deep breaths.  You can breathe normally, I'm just gonna listen to your heart.  Any swelling?
+
+PATIENT X382
+Just the normal.
+
+DOCTOR X382
+Just the normal amount.
+
+PATIENT X382
+Yeah.
+
+DOCTOR X382
+Just by your sock line and everything.
+
+PATIENT X382
+Yeah.  Nothing gross.
+
+DOCTOR X382
+Have a seat.  Alright we'll probably gonna need to repeat your lipids before we see you next time.  Um and then I'll do the A1c at that time too okay.  But um I'll be right back okay.
+
+PATIENT X382
+Sure.
+
+DOCTOR X382
+Cause it looks like your DOCTOR.
+
+PATIENT X382
+Oh gosh.
+
+DOCTOR X382
+Oh yeah.
+
+DOCTOR OUT:  33:31  DOCTOR IN:  50:54
+
+DOCTOR X382
+Alright.  We think you're doing okay okay.
+
+PATIENT X382
+Alright.
+
+DOCTOR X382
+Um I want to see you probably, let's see now is, saw you in October right, we'll see you in two months, we'll have you back.
+
+PATIENT X382
+Alright.
+
+DOCTOR X382
+Um.  Get your A1c and fasting lipid and you're going to all your appointments for like the echo and the ultrasound.  You know to get all those done okay.
+
+PATIENT X382
+Yes.
+
+DOCTOR X382
+And I'm gonna renew your medications and you just want them mailed.
+
+PATIENT X382
+Yep.
+
+DOCTOR X382
+Right okay.  If you need anything else from us besides that, we'll see you soon okay and we'll get this.
+
+PATIENT X382
+Question.
+
+DOCTOR X382
+Yeah.  
+
+PATIENT X382
+Uh.  I seem to be having a GI problem again.
+
+DOCTOR X382
+What kind?
+
+PATIENT X382
+Uh.
+
+DOCTOR X382
+What's going on?
+
+PATIENT X382
+Is it alright to have bowel movements four or five times a day?
+
+DOCTOR X382
+So what are you having like loose bowel movements or just.
+
+PATIENT X382
+No.
+
+DOCTOR X382
+Regular bowel movements?  How long have you been doing that?
+
+PATIENT X382
+I mean even with the morphine too.  I should be having it be a slow GI.
+
+DOCTOR X382
+Yeah.  How long has it been going on?
+
+PATIENT X382
+What I'm showing.  Uh for about the last three months now.
+
+DOCTOR X382
+Any blood or mucous in the stool?
+
+PATIENT X382
+Just if I go a lot you know during the day I think it's just the ring around there it's irritated, that's it because it's bright red.
+
+DOCTOR X382
+So you have bright red blood?
+
+PATIENT X382
+Yeah around the rectum.
+
+DOCTOR X382
+And it's bright red too.
+
+PATIENT X382
+No, no, just when I wipe.
+
+DOCTOR X382
+When you're wiping?
+
+PATIENT X382
+Yeah.
+
+DOCTOR X382
+Do you have hemorrhoids?
+
+PATIENT X382
+Yeah.
+
+DOCTOR X382
+So @@@.
+
+PATIENT X382
+No fistula.  They said I had a fistula before.
+
+DOCTOR X382
+No pain there?
+
+PATIENT X382
+No.
+
+DOCTOR X382
+Uh-huh.  No abdominal pain, no nausea or vomiting?
+
+PATIENT X382
+Not like before I had the colonoscopy done.  I had @@@.
+
+DOCTOR X382
+When did you have your colonoscopy?
+
+PATIENT X382
+Not the colonoscopy.
+
+DOCTOR X382
+You had a hemicolectomy.
+
+PATIENT X382
+Hemicolectomy, I had a sigmoidectomy you mean.
+
+DOCTOR X382
+When they took part of it out right?
+
+PATIENT X382
+Yeah.
+
+DOCTOR X382
+Cause you had the.
+
+PATIENT X382
+So I can eat popcorn again.
+
+DOCTOR X382
+@@@.  So they're normal four bowel movements but you're just having multiple ones?
+
+PATIENT X382
+Soft.  They're not round they're kind of.
+
+DOCTOR X382
+Like runny kind of?
+
+PATIENT X382
+No flat.
+
+DOCTOR X382
+Okay.
+
+PATIENT X382
+Like the intestine the ziggy collapsed like.
+
+DOCTOR X382
+Like a pencil thin kind of?
+
+PATIENT X382
+Like a ribbon.
+
+DOCTOR X382
+Okay.
+
+PATIENT X382
+Okay.
+
+DOCTOR X382
+I wonder if you're gonna need another colonoscopy again.
+
+PATIENT X382
+Check it out.
+
+DOCTOR X382
+No pain though?
+
+PATIENT X382
+No.
+
+DOCTOR X382
+Okay.
+
+PATIENT X382
+Okay.  About the only other problem I noticed.  I got a thing coming up with the urologist.
+
+DOCTOR X382
+And you feel like you can't completely go to the bathroom?
+
+PATIENT X382
+I go but it's you know, it's like its inadequate and I go four, five, six times a day.
+
+DOCTOR X382
+Okay maybe you're not completely going those times that you do go.
+
+PATIENT X382
+I mean.
+
+DOCTOR X382
+Have you been.  I mean it might be because.
+
+PATIENT X382
+And sometimes when I do have a bowel movement it's like I cannot control it.  I mean when it says go now it means go now because or else you're gonna fill your pants.
+
+DOCTOR X382
+Okay.
+
+PATIENT X382
+Alright.
+
+DOCTOR X382
+And that's been recent?
+
+PATIENT X382
+Yeah.
+
+DOCTOR X382
+Okay.  Let me go talk to, let me go talk to DOCTOR and see if we might need to set you up right now with a colonoscopy or if there's something.
+
+PATIENT X382
+Okay.
+
+DOCTOR X382
+We can try okay.
+
+PATIENT X382
+Yes ma'am.
+
+DOCTOR OUT:  55:09    DOCTOR IN:  57:33
+
+DOCTOR X382
+Okay.  I think we're gonna, it looks like it might be like you're not completely going is my, what the issue is.  I think we need to bulk up your stool a little bit more.  It could still be from the morphine.  It might be just presenting differently in you, you know.
+
+PATIENT X382
+Okay.
+
+DOCTOR X382
+Um I'm gonna give you some fiber to take okay.  Why don't you take it for the next uh whatever month or so and see if that helps with your stool okay.  I'll mail it to you okay.
+
+PATIENT X382
+Yes ma'am.
+
+DOCTOR X382
+Um and then if that, you know whether or not it works what not I'm gonna see you in ten weeks anyways okay.
+
+PATIENT X382
+Okay.
+
+DOCTOR X382
+See if that works.  Alright and then if we have to go and do a colonoscopy then we'll do that but let's see if we can figure out what it is.  I mean it's like a motility problem or whatever it is okay.
+
+PATIENT X382
+Okay.  
+
+DOCTOR X382
+And I'm gonna put in labs for you okay.
+
+PATIENT X382
+Yes.
+
+DOCTOR X382
+In two weeks, in about two months sorry.  Getting all messed up okay.
+
+PATIENT X382
+Why you getting all messed up?  Rough day?
+
+DOCTOR X382
+Well it was a rough long day.
+
+PATIENT X382
+You're only here one day a week ain't you?
+
+DOCTOR X382
+I'm doing other things.
+
+PATIENT X382
+Oh I know you gotta do your rounds here.
+
+DOCTOR X382
+I'm here the whole week.
+
+PATIENT X382
+Yeah but I mean you're clinic is just on Wednesday.
+
+DOCTOR X382
+Every five weeks we're in clinic yeah.
+
+PATIENT X382
+Yeah.
+
+DOCTOR X382
+There you go, you're all set okay.
+
+PATIENT X382
+Yes ma'am.
+
+DOCTOR X382
+Call if you have any questions okay.
+
+PATIENT X382
+I'll see you in two months.
+
+DOCTOR X382
+Yeah.
+
+PATIENT X382
+Okay.
+
+PATIENT LEAVES:  59:11.
+
+Time is 4:05.
+
+
+
+

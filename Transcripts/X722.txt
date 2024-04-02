@@ -1,0 +1,846 @@
+
+DOCTOR X722 
+PATIENT.
+
+PATIENT X722
+Over here.
+
+DOCTOR X722
+@@@.  It's just past the Pharmacy.  Alright, how you doing today?
+
+PATIENT X722
+Doing alright.
+
+DOCTOR X722
+Okay uh.  
+
+PATIENT 447
+Is this just an annual?
+
+DOCTOR X722
+Yeah, yeah, it's just a routine visit here so if you have anything specific you want to talk about we can talk about that otherwise I'll have some questions and some generic stuff here.
+
+PATIENT X722
+Okay.
+
+DOCTOR X722
+But how you feeling?
+
+PATIENT X722
+I'm feeling okay.  I still get like a strange pain in my right hip.  I just had it done in February.  I don't know what that means.
+
+DOCTOR X722
+Uh-huh.
+
+PATIENT 447
+But maybe it's just arthritis, I'm not sure.  That's the way they're talking to me cause they done had x-rays done and everything is looking good they're saying but um.
+
+DOCTOR X722
+You had it done February of last year right?
+
+PATIENT X722
+Yes, it's been a year.  It's been over a year now.
+
+DOCTOR X722
+Yeah I mean it looks like, you know you had the hip replacement there.
+
+PATIENT X722
+Uh-huh.
+
+DOCTOR X722
+Uh it looks like it's in position properly.  Cause you know once you have the joint replaced it's a little, you know arthritis is not really gonna happen right cause you've got a prosthetic joint in there now.  But it's just, you know the things you worry about is if it's not aligned properly or something like that but it looks like it's in proper position.
+
+PATIENT 447
+Oh it's what they tell me with the x-rays.
+
+DOCTOR X722
+Yeah.
+
+PATIENT X722
+I guess its okay you know.  I don't really know but.
+
+DOCTOR X722
+Yeah.  Have you been taking anything for the pain?
+
+PATIENT X722
+Just the Vicodins.
+
+DOCTOR X722
+Does that help?
+
+PATIENT 447
+Yes.  Yes.
+
+DOCTOR X722
+Yeah.  
+
+PATIENT X722
+Uh I'm running low on my prescription now.
+
+DOCTOR X722
+Which one for Vicodin?
+
+PATIENT X722
+Yes.
+
+DOCTOR X722
+Okay for your hip yeah.
+
+PATIENT 447
+And then um one other thing um.  The blood pressure pills that they give me.
+
+DOCTOR X722
+Uh-huh.
+
+PATIENT X722
+Okay I guess that's like my fault.  Sometimes like this morning I just totally forgot but I've been on it for the last two weeks you know straight you know.
+
+DOCTOR X722
+Uh-huh.
+
+PATIENT X722
+But um.
+
+DOCTOR X722
+And that's what you're on lisinopril and you're on amlodipine.  You're on two?
+
+PATIENT 447
+Yes.  Half pill on each.
+
+DOCTOR X722
+Half and half exactly and the lisinopril it looks like you're about to run out here.
+
+PATIENT X722
+So that's.
+
+DOCTOR X722
+So I'll refill that for you.  Your blood pressure today actually looks pretty good.
+
+PATIENT X722
+Yeah but I didn't take my medicine and usually when I take that medicine you know I run my blood pressure I'm like below 120 it was like 118.
+
+DOCTOR X722
+That's alright.
+
+PATIENT 447
+One.
+
+DOCTOR X722
+That's fine.
+
+PATIENT X722
+Really?  I'm not sure you know I'm just.
+
+DOCTOR X722
+No, no, that's fine.  The only time you worry about, there's nothing saying, a low blood pressure is that you're getting symptomatic from it.  You're feeling dizzy, lightheaded; weak like you're gonna pass out, that's too low.  Otherwise 118, 120, that's fine.
+
+PATIENT X722
+Yeah.  That means it's normal right?
+
+DOCTOR X722
+Yeah actually 120 is what we try to run as normal.
+
+PATIENT 447
+Uh-huh.
+
+DOCTOR X722
+You know we want you to stay around there.  A little bit lower than that's okay, a little bit higher than that's okay, it's kind of a generalized range.
+
+PATIENT X722
+So anything below 90 then?
+
+DOCTOR X722
+Yeah I mean, are you dropping below 90?
+
+PATIENT X722
+There's times when I read it I am below 90 you know or like 90 now I don't know if its gonna be the pill and then I'll start taking them because you know I do feel like lightheaded and stuff.
+
+DOCTOR X722
+Uh-huh.
+
+PATIENT 447
+And then I stop taking them and then I feel better.  But I don't know if it's the medicine or and you know what here's my problem though I'm not doing it uh consistently you know, the way I'm supposed to do it.  I fail sometimes.
+
+DOCTOR X722
+Yeah.
+
+PATIENT X722
+And then they told me, my brother told me well if I don't take that medicine regularly at the right time or whatever it changes all my uh.
+
+DOCTOR X722
+It does.  The last time you were here your blood pressure was high.  It was really high.  I just saw you back in July and your blood pressure was really high.
+
+PATIENT X722
+But I think I over drank that day.
+
+DOCTOR X722
+Uh-huh.
+
+PATIENT 447
+You know what I mean and when I came in I was still like uh, I guess like still intoxicated but not intoxicated but.
+
+DOCTOR X722
+Yeah.
+
+PATIENT X722
+I felt like a hangover in other words.
+
+DOCTOR X722
+Yeah so that's probably what brought it up a little bit.  I think if its, where is it most of the time.  The majority of the time you check it where is it at?
+
+PATIENT X722
+But you know what, okay you know like 119, maybe 130.
+
+DOCTOR X722
+Okay.  That's okay.
+
+PATIENT 447
+Sometimes 140 you know something like that.
+
+DOCTOR X722
+If that's the case I would say stick with the two that you're on.
+
+PATIENT X722
+Uh-huh.
+
+DOCTOR X722
+If it's routinely going below 90 or even below 100 then I'd probably stop at least one of them.  I know you stopped the amlodipine.  Let me ask you; is it hard for you to get here for appointments?
+
+PATIENT X722
+No.
+
+DOCTOR X722
+So how about we do this.  Keep taking both of them, take them regularly.
+
+PATIENT 447
+Okay.
+
+DOCTOR X722
+Every day.
+
+PATIENT X722
+Uh-huh.
+
+DOCTOR X722
+We'll have you come back in two weeks just for a blood pressure check.
+
+PATIENT X722
+Okay.
+
+DOCTOR X722
+Just to see if you are too low when you're taking them regularly we could probably stop one of them.
+
+PATIENT 447
+Yeah because I would have to stay on them for two weeks I know and then we could go from there you know that sounds like a good plan cause.
+
+DOCTOR X722 
+Yeah.
+
+PATIENT X722
+I'm a little confused.  Sometimes I take them sometimes I don't.
+
+DOCTOR X722
+Yeah.
+
+PATIENT X722
+And I don't even know if it's the medicine, maybe it's just me, I don't know.
+
+DOCTOR X722
+Yeah so let's do that.  Take them regularly every day for the next two weeks and then I'll have you come back for a blood pressure check with one of the nurses.
+
+PATIENT 447
+Okay.
+
+DOCTOR X722
+And then we'll have that in the computer and we'll see how it looks.
+
+PATIENT X722
+Okay.
+
+DOCTOR X722
+@@@.
+
+PATIENT X722
+Sounds good to me I'll just come in.
+
+DOCTOR X722
+Otherwise I saw you uh, they're seeing you in the Urology Clinic now is that right?
+
+PATIENT 447
+Well GU yes.
+
+DOCTOR X722
+Diagnosis is prostate cancer?
+
+PATIENT X722
+Yes.
+
+DOCTOR X722
+Okay so you're getting treatment for that.
+
+PATIENT X722
+Well right.  We made a game plan.
+
+DOCTOR X722
+Okay.
+
+PATIENT 447
+The last time I seen them.
+
+DOCTOR X722
+You have a plan.
+
+PATIENT X722
+DOCTOR or whatever.
+
+DOCTOR X722
+Yeah DOCTOR.
+
+PATIENT X722
+DOCTOR.
+
+DOCTOR X722
+So what's the plan?
+
+PATIENT 447
+Okay uh you know what I had the biopsy done and the specimens were detected here at the VA only the right side.
+
+DOCTOR X722
+Uh-huh.
+
+PATIENT X722
+Of the paperwork they give me the right side.
+
+DOCTOR X722
+Yeah.
+
+PATIENT X722
+So my sister-in-law wrote to a pathologist in xxx.
+
+DOCTOR X722
+Uh-huh.
+
+PATIENT 447
+So I sent the specimens, well the VA sent the specimens to their office or whatever and they ran their tests and they found that the VA had missed cancer on the left side also.
+
+DOCTOR X722
+Okay.
+
+PATIENT X722
+So that changed all my numbers.
+
+DOCTOR X722
+Yeah.
+
+PATIENT X722
+And so now the doctor is saying, see I'm getting married in April.
+
+DOCTOR X722
+Oh congrats.
+
+PATIENT 447
+Yeah so you know we've been together 25 years so I'm getting married in April and I didn't want, he wanted to do the surgery next month you know in March, the 8th or something and I'm going well I want to get married I don't want to be stuck you know for six weeks healing you know and I don't even know what, I don't know there's a lot of side effects and you know I don't know if I want to fall into one of them side effects.
+
+DOCTOR X722
+Yeah.
+
+PATIENT X722
+And have.
+
+DOCTOR X722
+Sure.
+
+PATIENT X722
+So I just keep, what he did was give me a shot in my stomach.
+
+DOCTOR X722
+Uh-huh.
+
+PATIENT 447
+To prolong the cancer or whatever.
+
+DOCTOR X722
+Yeah.
+
+PATIENT X722
+And uh and scheduled me in three months to see him again or within the three, February, March, April, somewhere in May have the surgery or whatever I decide to do you know.
+
+DOCTOR X722
+Okay.
+
+PATIENT X722
+As far as the chemo or surgery.
+
+DOCTOR X722
+Perfect.  So we're gonna do the shot and that'll keep you good for three months.
+
+PATIENT 447
+I already did that.
+
+DOCTOR X722
+Yeah.
+
+PATIENT X722
+I did that already.
+
+DOCTOR X722
+And then we can talk surgery at that point.
+
+PATIENT X722
+Yes.
+
+DOCTOR X722
+Okay.
+
+PATIENT 447
+Either talk surgery or whatever I decide to do.
+
+DOCTOR X722
+Possible options.
+
+PATIENT X722
+Right.
+
+DOCTOR X722
+Okay, okay.
+
+PATIENT X722
+Now I spoke to him about the robotic because of the side effects, less potential side effects.
+
+DOCTOR X722
+Sure.
+
+PATIENT 447
+And um but the VA don't do it here.
+
+DOCTOR X722
+Okay.
+
+PATIENT X722
+So he gave me something.  I don't know maybe there's a VA somewhere around here that might do that I don't know.
+
+DOCTOR X722
+There's one out by xxx, xxx xxx.  I don't know, see that's the thing I'm not sure, I would maybe try giving them a call.
+
+PATIENT X722
+I could call them?
+
+DOCTOR X722
+Yeah no actually I'm not sure who does it I would maybe even ask the GU Clinic.
+
+PATIENT 447
+Yeah she gave me a VA.com type of deal you know the internet and go to the computer route.
+
+DOCTOR X722
+Okay.
+
+PATIENT X722
+If they do something like that at the VA you know.  I don't feel like going on the outside.  I've been here.
+
+DOCTOR X722
+Sure.
+
+PATIENT X722
+Through the years and.
+
+DOCTOR X722
+Yeah.
+
+PATIENT 447
+Everybody knows what's going on with me.  I go over there and I got to start this whole story all over again.
+
+DOCTOR X722
+Yeah.
+
+PATIENT X722
+Tests and.
+
+DOCTOR X722
+Better @@@ to go to one place.
+
+PATIENT X722
+I'll probably.
+
+DOCTOR X722
+Okay yeah.
+
+PATIENT 447
+I'm more satisfied you know.
+
+DOCTOR X722
+Gotcha.  Alright well good.  As long as they're following for all that stuff.  
+
+PATIENT X722
+Yeah.
+
+DOCTOR X722
+I just wanted you to have someone here.
+
+PATIENT X722
+Yeah what they send me an appointment with the @@@.
+
+DOCTOR X722
+Uh for protected @@@?
+
+PATIENT 447
+Cause it was low before they found out my PSA levels were low okay and that's why I was having this erection problem or whatever so but they told me that uh, how do you call it that if they treat the testosterone levels that that would advance the cancer because whatever they give you.
+
+DOCTOR X722
+@@@ yeah you know in people with prostate cancer already I don't think they want to treat that number instead they probably want to treat the cancer first.
+
+PATIENT X722
+Well that's the way I'm doing it.
+
+DOCTOR X722
+Yeah.
+
+PATIENT X722
+But see they set me up for another appointment.  I guess I'll just go ahead and keep it.
+
+DOCTOR X722
+Yeah.
+
+PATIENT 447
+And at that time just let them know what's going on.  I met and they know too because that's one of the questions they asked me the last time I was there, well you have this prostate cancer and that's how I found out that if they treated the testosterone levels that that would affect my cancer.
+
+DOCTOR X722
+Yeah.
+
+PATIENT X722
+So that was like on hold.
+
+DOCTOR X722
+I gotcha yeah.  Take care of the cancer first.  I mean it sounds like there's a good game plan in place.
+
+PATIENT X722
+Yeah.
+
+DOCTOR X722
+I would just treat that first.
+
+PATIENT 447
+Uh-huh.
+
+DOCTOR X722
+Otherwise I mean it sounds like you're doing well.  The hip pain as long as it's controlled on the Vicodin I wouldn't worry too much about it.
+
+PATIENT X722
+Okay.
+
+DOCTOR X722
+I can refill that for you today.
+
+PATIENT X722
+Okay alright.
+
+DOCTOR X722
+Um the blood pressure I guess we'll have you come back in two weeks.
+
+PATIENT 447
+Okay.
+
+DOCTOR X722
+To get it rechecked.
+
+PATIENT X722
+That'll be fine.
+
+DOCTOR X722
+Uh and it looks like you're due for a colonoscopy next year.
+
+PATIENT X722
+Yes.
+
+DOCTOR X722
+Um and then let me check when we checked your labs last in terms of your cholesterol and everything.
+
+PATIENT 447
+I think that was done last year too in February you know cause they go through a whole procedure.
+
+DOCTOR X722
+Yeah.
+
+PATIENT X722
+Before a surgery.
+
+DOCTOR X722
+So they were done, the last thing I see in here is from March 2011 in terms of your cholesterol um looks okay.  Are you on, you're not on anything for?
+
+PATIENT X722
+No I just take a stomach pill for acid reflux, reflux or whatever.
+
+DOCTOR X722
+Yeah.  Okay alright.  You want to sit up here for me?
+
+PATIENT 447
+Sure.
+
+DOCTOR X722
+Alright.  Just normal breathing okay.  Actually I'm just going to go just right under here.
+
+PATIENT X722
+Oh.
+
+DOCTOR X722
+Alright deep breaths for me in and out through your mouth.  Okay.  Okay good.  Any pain down here?
+
+PATIENT X722
+No.
+
+DOCTOR X722
+No okay.  Any swelling in the legs?
+
+PATIENT 447
+No not that I know of.
+
+DOCTOR X722
+Okay.  Okay great.  I'm gonna go talk to DOCTOR um I'll be back in just a couple minutes okay.
+
+PATIENT X722
+Alrighty.
+
+DOCTOR X722
+Let me just take a listen to your lungs here real fast. Okay.  
+
+PATIENT X722
+@@@.
+
+DOCTOR X722
+Still @@@ then.
+
+PATIENT 447
+Yeah a little bit longer, 60 years old.
+
+DOCTOR X722
+Well you've got some time to go.
+
+PATIENT X722
+I hear you.
+
+DOCTOR X722
+Alright I'll be back okay.
+
+PATIENT X722
+Absolutely, see you soon.
+
+(DOCTOR OUT:  38:06  DOCTOR IN:  41:38)
+
+DOCTOR X722
+Alright.  So here's what we're gonna do.  Pretty much exactly what we talked about.  I'm gonna refill your meds.  Do you want to pick them up here or do you want them to come in the mail?
+
+PATIENT 447
+I could pick them up here.
+
+DOCTOR X722
+Okay.  So.
+
+PATIENT X722
+Oh one other thing um.
+
+DOCTOR X722
+Sure.
+
+PATIENT X722
+I think my Viagra is also running out or something or other.  I might need to.
+
+DOCTOR X722
+Uh you still got a refill on that.
+
+PATIENT 447
+Oh okay.
+
+DOCTOR X722
+So you can just, when you stop by the Pharmacy just tell them you have a refill on it.
+
+PATIENT X722
+Okay.
+
+DOCTOR X722
+Okay um and then what I'll do I'll refill your Vicodin and your blood pressure medicine.  I think everything else has got refills on it so um we're gonna have you come back in two weeks for that blood pressure check.
+
+PATIENT X722
+Okay.
+
+DOCTOR X722
+Um did you eat anything today?
+
+PATIENT 447
+No I drank a cup of coffee.
+
+DOCTOR X722
+Okay.  When you come back in for the blood pressure check if you can come in the morning.  I want to recheck your cholesterol levels.
+
+PATIENT X722
+Uh-huh.
+
+DOCTOR X722
+We don't want you to eat or drink anything before that if possible.
+
+PATIENT X722
+Okay.
+
+DOCTOR X722
+So I figure maybe when you come back for the blood pressure check just stop by the Lab too and get that drawn.
+
+PATIENT 447
+Alright.
+
+
+DOCTOR X722
+That sound okay?
+
+PATIENT X722
+Okay.  Uh so don't eat anything after 12 that night?
+
+DOCTOR X722
+Well.
+
+PATIENT X722
+You like preparing for whatever.
+
+DOCTOR X722
+You know all you had today is coffee?
+
+PATIENT 447
+That's all I had.
+
+DOCTOR X722
+Do you put a lot of sugar in it?
+
+PATIENT X722
+I put some.
+
+DOCTOR X722
+Well how long ago did you have it, a couple hours?
+
+PATIENT X722
+Yeah @@@.
+
+DOCTOR X722
+@@@.
+
+PATIENT 447
+I was still drinking it at 9 o'clock so right when I got here basically.
+
+DOCTOR X722
+You know it should be okay.  You could stop by the Lab today if you want and just get that.  Cause your blood pressure meds you usually probably take with food right?
+
+PATIENT X722
+Yes.
+
+DOCTOR X722
+Yeah so I don't want you to you know go hungry when you're taking your blood pressure meds that day um you could just stop by the Lab today and you can get it done if you want.
+
+PATIENT X722
+I'll just wait the two weeks that way I'll be prepared you know.
+
+DOCTOR X722
+Okay.
+
+PATIENT 447
+If I have to, do you suggest I eat something or nothing?
+
+DOCTOR X722
+Uh I mean ideally, ideally nothing but.
+
+PATIENT X722
+Okay well then that's fine.
+
+DOCTOR X722
+If you eat something with your blood pressure medicine you know.
+
+PATIENT X722
+Uh I don't really, sometimes I do, sometimes I don't maybe just a piece of toast or something you know.
+
+DOCTOR X722
+Yeah.  If you take something small, just don't eat too much.
+
+PATIENT 447
+Okay, I gotcha.
+
+DOCTOR X722
+Okay the blood pressure check in two weeks and then other than that I'll see you back, what do you think six months sound good?
+
+PATIENT X722
+Fine with me.  I mean after they take care of this cancer I should be good.
+
+DOCTOR X722
+Should be good to go.  Let me just uh refill this and put in a couple other things for you and then we'll have you on your way okay.
+
+PATIENT X722
+Okay.  Uh I collect travel pay so that's got to be in the.
+
+DOCTOR X722
+Gotcha.  So we just have to get all that stuff done and then we'll uh @@@.
+
+PATIENT 447
+So I can just go right here to the Pharmacy then huh, take a number.
+
+DOCTOR X722
+You go right over here.
+
+PATIENT X722
+Okay then just wait.
+
+DOCTOR X722
+Uh-huh.
+
+PATIENT X722
+Okay sounds good.
+
+DOCTOR X722
+Yeah just give me a minute to get all this stuff done.
+
+PATIENT 447
+Alright.  So this is my permanent clinic, the Gold Clinic okay.
+
+DOCTOR X722
+Uh-huh.
+
+PATIENT X722
+Uh so you're my doctor DOCTOR.
+
+DOCTOR X722
+Yeah.
+
+PATIENT X722
+Okay, alright gotcha.
+
+DOCTOR X722
+Okay so I got your refills should be ready at the window.
+
+PATIENT 447
+Okay.
+
+DOCTOR X722
+Put in for the blood work and then just in two weeks come back to see the nurse.
+
+PATIENT X722
+And I hand this to the people here in front?
+
+DOCTOR X722
+Yeah and I'll get you checked out here okay.
+
+PATIENT X722
+Alright doc.
+
+DOCTOR X722
+Uh good to see you.  Have a good day alright.
+
+PATIENT 447
+Enjoy your day.
+
+DOCTOR X722
+Alright thank you alright.
+
+PATIENT X722
+Close it?
+
+DOCTOR X722
+Um yeah.
+
+PATIENT LEAVES:  46:45.
+
+
+
+

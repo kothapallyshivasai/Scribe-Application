@@ -1,0 +1,1003 @@
+
+DOCTOR X450
+PATIENT?
+
+PATIENT X450
+Yes.  @@@.
+
+DOCTOR X450
+Have a seat.
+
+PATIENT X450
+Okay.
+
+DOCTOR X450
+Is this your first visit here?
+
+PATIENT X450
+Yes.
+
+DOCTOR X450
+First time.  Alright, let's see.  You've been to the ER, when was the last time?
+
+PATIENT X450
+I've been twice.
+
+DOCTOR X450
+Twice huh.
+
+PATIENT X450
+The first one was for chest pain.
+
+DOCTOR X450
+Okay.
+
+PATIENT X450
+And then the second one, I'd had a headache for four days and it turned out was a severe sinus infection.
+
+DOCTOR X450
+Okay.  Did they give you treatment for that?
+
+PATIENT X450
+Yes I'm taking uh antibiotics.
+
+DOCTOR X450
+Okay.  Are you feeling better?  Is your headache feeling better?
+
+PATIENT X450
+Yeah the headache is gone actually.
+
+DOCTOR X450
+Uh-huh.
+
+PATIENT X450
+Uh you know I haven't, I haven't been able to really breathe out of my nose for the last ten years.
+
+DOCTOR X450
+Uh-huh.
+
+PATIENT X450
+And I've been to doctors uh and all they said was well you've got a sinus infection, they would give me antibiotic and no one would ever follow up including myself.
+
+DOCTOR X450
+Uh-huh.
+
+PATIENT X450
+And I just wanted.
+
+(Knock on the door, doctor speaks with other person)
+
+DOCTOR X450
+Sorry.
+
+PATIENT X450
+No that's okay.  To make a long story short I haven't been able to breathe, really breathe or smell for almost the last ten years.
+
+DOCTOR X450
+Oh.
+
+PATIENT X450
+I've been basically mouth-breather for those years and uh the doctor was so great.  I mean I'm starting to smell again, stuff I haven't smelled for years.
+
+DOCTOR X450
+Oh really.  So you've been using a saline, that type of thing.
+
+PATIENT X450
+Yeah.
+
+DOCTOR X450
+@@@.  Alright.  Yeah so that's good.  So they just told you then, you just needed to complete those antibiotics?
+
+PATIENT X450
+Yes.
+
+DOCTOR X450
+But after that @@@ you kind of stopped @@@.
+
+PATIENT X450
+And I got off them the next day.
+
+DOCTOR X450
+Um the clindamycin, did they give you, how many days did you use do you think?
+
+PATIENT X450
+It was probably only about six days.
+
+DOCTOR X450
+Okay.
+
+PATIENT X450
+I usually take 12 a day so.
+
+DOCTOR X450
+Right.  Okay.  But yeah the specific @@@ fair enough.
+
+PATIENT X450
+Okay.
+
+DOCTOR X450
+Okay and that's gonna help drain things in the long run and the @@@ suffer so long. 
+
+PATIENT X450
+And it got to the point where my gums were swollen and I think they're starting to recede now.
+
+DOCTOR X450
+Okay.
+
+PATIENT X450
+But over this time I had gotten to the point where I mean you could barely see my front teeth on the teeth.
+
+DOCTOR X450
+Yeah.
+
+PATIENT X450
+The gums were really bad.
+
+DOCTOR X450
+Yeah.  And uh I see that you had a chest x-ray I'm just trying to see what the results were.
+
+PATIENT X450
+yeah you now they called my house and gave it to my wife.  They told my wife something but I'm confused with what they told her or maybe she's confused as to what she heard.
+
+DOCTOR X450
+That's fine.
+
+PATIENT X450
+Um and I haven't been able to get hold of anybody to call me back.  Basically what I get out of my wife's message was that they found uh some type of irregularity but it's no big deal basically is what she said.  Um but I'm thinking if there's anything abnormal that's a big deal to me.
+
+DOCTOR X450
+Yeah, let me see what you might have.  So @@@ talk to you, you got time?  
+
+PATIENT X450
+From the stress test?
+
+DOCTOR X450
+Yeah.
+
+PATIENT X450
+It depends okay bring them down you know I don't know.
+
+DOCTOR X450
+Oh so it's high?
+
+PATIENT X450
+You know I work late.
+
+DOCTOR X450
+Okay.
+
+PATIENT X450
+I work all night from midnight to 8.
+
+DOCTOR X450
+Okay.
+
+PATIENT X450
+But if I'm working and my legs just start to give out I just sit.
+
+DOCTOR X450
+Well the good news is that you actually had a normal stress test.
+ 
+PATIENT X450
+Okay.  
+
+DOCTOR X450
+That's @@@ and I'm not sure what the abnormality they were talking about but there is a question on why they @@@ what they call poor R wave progression.
+
+PATIENT X450
+Uh-huh.
+
+DOCTOR X450
+And uh @@@ at the end and I think that's probably what they think.
+
+PATIENT X450
+Okay.
+
+DOCTOR X450
+Okay.
+
+PATIENT X450
+So what's causing my chest pains?
+
+DOCTOR X450
+So let's talk about that.  Why don't you tell me about um, well first of all let me, there are some questions I need to ask you.
+
+PATIENT X450
+Sure, sure.
+
+DOCTOR X450
+Just to get to know you a little better.
+
+PATIENT X450
+Yeah did you need me to bring my uh.
+
+DOCTOR X450
+So I'll be your primary care, I'm looking at graduating in June so as long as @@@.
+
+PATIENT X450
+That's okay because I haven't really seen a doctor as far as a primary care physician in about 18 years.
+
+DOCTOR X450
+So let's get you established here and then DOCTOR will be your, he's going to be my supervisor and he'll be there.
+
+PATIENT X450
+Okay.
+
+DOCTOR X450
+And he expects to be here.  Tell me about your past medical history, what else do you have?
+
+PATIENT X450
+Uh allergic to penicillin.  Um I had bronchiolitis as an infant.
+
+DOCTOR X450
+Okay.
+
+PATIENT X450
+I had my appendix taken out uh.
+
+DOCTOR X450
+How long ago?  How long?
+
+PATIENT X450
+It would've been 99.
+
+DOCTOR X450
+Okay.
+
+PATIENT X450
+98, right around there but I forget the month.  Um I've had maybe two bouts of kidney stones.  I know the first one they did the fluids and then it suddenly went away and that kind of helped a little bit but the second time I had to have the surgery.
+
+DOCTOR X450
+Oh okay.  Where they like they busted it up or did they have to go in?
+
+PATIENT X450
+No they had to go in.
+
+DOCTOR X450
+Alright.  
+
+PATIENT X450
+Um I've got two bulging disks in my back, L4-L5 and this was from about 1987-88.
+
+DOCTOR X450
+Did they do anything?
+
+PATIENT X450
+The doctor didn't want to do; the doctor I was seeing at the time did not want to do surgery.  He did not believe in surgery for any of that so he just basically gave me anti-inflammatories.
+
+DOCTOR X450
+And then uh.
+
+PATIENT X450
+I was out of work for like three months.
+
+DOCTOR X450
+Because of the low back pain?
+
+PATIENT X450
+Yes.
+
+DOCTOR X450
+So you had the kidney problems.  Any blood pressure?
+
+PATIENT X450
+The last time, no not the last time but as far back as I can remember it's been borderline.
+
+DOCTOR X450
+Okay.
+
+PATIENT X450
+Uh I was told to watch your weight you could bring it down.  Uh from when I first come in with the stress test to when you took it today it's gone down quite a bit.
+
+DOCTOR X450
+Okay and your not on any medications right?
+
+PATIENT X450
+Correct.  
+
+DOCTOR X450
+Do you have anxiety?
+
+PATIENT X450
+Yeah.  Seems to @@@ for that.
+
+DOCTOR X450
+Okay.
+
+PATIENT X450
+And another thing is the weight gain.  The last four months I've put on an average of about nine pounds a month.
+
+DOCTOR X450
+That.
+
+PATIENT X450
+I was going to talk to somebody today or I was gonna talk to you is I can get the note.  I want to go to the gym but if it's too taxing, if you could give me a little cheat pad or something with some water pills or uh a diuretic or something I mean.
+
+DOCTOR X450
+You know mostly @@@ and that might not be the appropriate thing to do.
+
+PATIENT X450
+Okay.
+
+DOCTOR X450
+Okay.  So let's uh, I'll kind of talk to you a little bit more about that.  Let's see so you're past medical, you said you had the borderline hypertension, you had L4-L5 disk, you've had the kidney stones, you had the appendectomy and um any kind of cholesterol problems, nothing like that?
+
+PATIENT X450
+No, no.
+
+DOCTOR X450
+Okay.  @@@?
+
+PATIENT X450
+No.
+
+DOCTOR X450
+And you told me @@@.  You've had any surgeries?
+
+PATIENT X450
+Surgeries I've only had those two.
+
+DOCTOR X450
+And then uh do you work now?
+
+PATIENT X450
+Yeah it's about 30 hours a week.
+
+DOCTOR X450
+What do you do?
+
+PATIENT X450
+I'm a driver for a bakery.
+
+DOCTOR X450
+And uh @@@, who do you live with?
+
+PATIENT X450
+Uh with my wife and children.
+
+DOCTOR X450
+@@@.
+
+PATIENT X450
+@@@.
+
+DOCTOR X450
+Three kids.
+
+PATIENT X450
+Three kids.  Three kids and @@@ grandchild to support.
+
+DOCTOR X450
+@@@.
+
+PATIENT X450
+Yeah.
+
+DOCTOR X450
+And do you smoke at all?
+
+PATIENT X450
+No.
+
+DOCTOR X450
+Uh drink?
+
+PATIENT X450
+I'm an occasional drinker.  I'll drink, a drink at Christmas, a drink or two at New Year's and maybe you know at the family picnic I'll have a couple of beers.  It's not really.  If I do have drinks it's never more than two or three at a time.
+
+DOCTOR X450
+And you haven't done any drug use?
+
+PATIENT X450
+In the past yeah.
+
+DOCTOR X450
+Like what'd you use?
+
+PATIENT X450
+Uh marijuana was about 1982 that I stopped.  Um I did some amphetamines back then and I think I stopped in the 80s.  Uh I've done cocaine in the past.
+
+DOCTOR X450
+How long has that been?
+
+PATIENT X450
+Uh it's been a while.
+
+DOCTOR X450
+How often was that?
+
+PATIENT X450
+90s.
+
+DOCTOR X450
+And then @@@.
+
+PATIENT X450
+Yes.
+
+DOCTOR X450
+Any family history of illnesses or anything?
+
+PATIENT X450
+Well my mother passed away of lymphoma uh back in September but that was, she was taking some medicine uh Humira and one of the side effects was that it could cause lymphoma.
+
+DOCTOR X450
+Okay.
+
+PATIENT X450
+So when they found out she was already in the late stage for it.  Uh my dad passed away um in 2001 um, oh it's the one where it attacks your bones um I can't think of the name, it's weird.  It @@@ bones um I forget the name of it now.  
+
+DOCTOR X450
+@@@?
+
+PATIENT X450
+No.
+
+DOCTOR X450
+@@@.
+
+PATIENT X450
+Uh I can't remember the name but it was something that again that.
+
+DOCTOR X450
+@@@ was it a cancer or something?
+
+PATIENT X450
+Yeah it was a type of cancer, he was taking chemo and stuff like that and I don't remember the name now but uh it's never been in our family history.  We believe he contracted that at work.  He was working with shrink wrap, when they do shrink wrap and uh there was no ventilation in the.
+
+DOCTOR X450
+How old was he?
+
+PATIENT X450
+74.
+
+DOCTOR X450
+And it wasn't @@@.
+
+PATIENT X450
+No.  Basically he had a stroke but it was all, all uh.
+
+DOCTOR X450
+Any um any heart disease in the family?
+
+PATIENT X450
+Uh on my mother's side longevity, I mean there's a lot of longevity.  I mean I've got an aunt now who is in her 90s.  My grandmother died at 108.  Um now @@@.
+
+DOCTOR X450
+No diabetes?
+
+PATIENT X450
+No uh well, I got a cousin that had it but you know I don't keep much in touch with him.  I think it's because of his weight, he's up there.
+
+DOCTOR X450
+Okay.  And uh let's go back to the um, I need to ask, you were telling me how do you feel today actually?  Any concerns you want to bring up today or just kind of establish care and talk about these things.
+
+PATIENT X450
+Just wanted to establish care and the follow-up today.
+
+DOCTOR X450
+Okay.  And your chest pain, why don't we talk about your chest pain.
+
+PATIENT X450
+I was getting the chest pain right here.
+
+DOCTOR X450
+Uh-huh.
+
+PATIENT X450
+And sometimes it will shoot into my armpit and sometimes it would shoot into my back.
+
+DOCTOR X450
+Okay.
+
+PATIENT X450
+Um and you know for a couple of weeks before that I would, my hands would go numb right from the elbow to the fingertips.
+
+DOCTOR X450
+Oh is that right.
+
+PATIENT X450
+If I'm in a certain position, let's say I'm driving and my arm's this way it would do it and then I'd have to either lower my arm.
+
+DOCTOR X450
+If you lowered it, it would go away.
+
+PATIENT X450
+Yeah it would be fine or if I'd sit you know and I'd put my hand like this.
+
+DOCTOR X450
+Right.
+
+PATIENT X450
+Then it would go numb.  Uh.
+
+DOCTOR X450
+That was only for those two weeks?
+
+PATIENT X450
+Uh for about two weeks beforehand and then once I started having those pains it would still do it during those while I was having the chest pain but after that, excuse me I'm plugged up.
+
+DOCTOR X450
+Yeah @@@.
+
+PATIENT X450
+I'm out of the medicines.
+
+DOCTOR X450
+So the chest pain only came on, was it like a sharp presentation?
+
+PATIENT X450
+No it wasn't sharp pain, sharp pain.
+
+DOCTOR X450
+@@@.
+
+PATIENT X450
+Yes.
+
+DOCTOR X450
+Do you get any shortness of breath with it?
+
+PATIENT X450
+Yes.
+
+DOCTOR X450
+Any nausea or vomiting when you have it?
+
+PATIENT X450
+No vomiting uh I think once or twice I had a little bit of nausea, nothing major.
+
+DOCTOR X450
+Any dizziness?
+
+PATIENT X450
+Yes.
+
+DOCTOR X450
+Did it seem like your heart was racing or anything?
+
+PATIENT X450
+Uh, once or twice I felt it was pumping really hard and it almost felt like it was an irregular heartbeat or something.
+
+DOCTOR X450
+Okay.
+
+PATIENT X450
+Uh but it didn't last long.  Uh I didn't, I was so freaked out about it when it happened that uh I really didn't focus on I mean my heartbeat or anything like that, I was more freaked out than anything.
+
+DOCTOR X450
+I gotcha.  And then @@@ or anything?
+
+PATIENT X450
+No.
+
+DOCTOR X450
+And then how long would you say that chest pain is lasting?
+
+PATIENT X450
+Uh, within five minutes, sometimes half an hour.
+
+DOCTOR X450
+Five minutes to half an hour.
+
+PATIENT X450
+Uh-huh.
+
+DOCTOR X450
+And uh @@@.
+
+PATIENT X450
+Uh I had pain for about a week uh sometimes it was; when I was alone it would be like one time a day otherwise it would be a bunch of them every day.
+
+DOCTOR X450
+So it varies.
+
+PATIENT X450
+Yes.
+
+DOCTOR X450
+@@@.  
+
+PATIENT X450
+Um I was having just a tinge uh yesterday, just like a little you know just kind of a little minor @@@ um but really right after the stress test I freaked.  Once or twice more I think I had them and that was it.
+
+DOCTOR X450
+After you just go out and walk around do you have any trouble breathing at all?
+
+PATIENT X450
+No um.  Right after, right after when I started walking when the weather was so good.
+
+DOCTOR X450
+Right.
+
+PATIENT X450
+Before it got cold, I was trying to walk about a mile and a half, two miles a day.  Um for the first two days I'd walk about a mile, mile and a half and I was kind like out of breath and hurting but at the end of the week I was walking two miles um at a good pace with no problems.
+
+DOCTOR X450
+@@@ all about your conditioning.
+
+PATIENT X450
+Yeah.
+
+DOCTOR X450
+Did you get that chest pain after you walked?
+
+PATIENT X450
+No.
+
+DOCTOR X450
+Okay.  And then @@@ and fevers or chills right now?
+
+PATIENT X450
+No, not right now.
+
+DOCTOR X450
+And uh any nausea or vomiting?
+
+PATIENT X450
+No.
+
+DOCTOR X450
+And any abdominal pain?
+
+PATIENT X450
+Yes I get it but I think it's a byproduct of the medicine I'm taking.
+
+DOCTOR X450
+Okay.
+
+PATIENT X450
+The uh antibiotics cause diarrhea.
+
+DOCTOR X450
+Okay.  So you're @@@.  What color is it?
+
+PATIENT X450
+What color is what?
+
+DOCTOR X450
+@@@.  Does it have @@@ odor to it?  @@@.
+
+PATIENT X450
+Uh it's different than usual yeah.
+
+DOCTOR X450
+Okay.  That started on the same day or?
+
+PATIENT X450
+Yeah pretty much or half a day after, 10 hours after or a couple hours after.
+
+DOCTOR X450
+Clindamycin can cause that as a side effect.  That can also cause like a bacterial super infection.
+
+PATIENT X450
+Okay.
+
+DOCTOR X450
+So that's something to watch out for.  This sounds more like the diarrhea is a side effect from the antibiotic and not the other one.
+
+PATIENT X450
+Hmm.
+
+DOCTOR X450
+@@@ you're having a lot of this diarrhea, you find you get fevers and chills I think you should come @@@.
+
+PATIENT X450
+Okay.
+
+DOCTOR X450
+And then uh the stuffy or runny nose.
+
+PATIENT X450
+It's not uh, it's never been runny, it's just stuffy uh but it's been a lot better.
+
+DOCTOR X450
+@@@.  Any dizziness?
+
+PATIENT X450
+Um no not really.
+
+DOCTOR X450
+And then any chest pain right now?
+
+PATIENT X450
+Not right now.  I had a little bit last night.
+
+DOCTOR X450
+It was the same thing that you were talking about?
+
+PATIENT X450
+Yeah but not as strong and it didn't last as long and that's basically this time I felt it and a couple of days but before it was happening every day.
+
+DOCTOR X450
+Any swelling or redness of your legs?
+
+PATIENT X450
+Um it's hard to tell with all this weight gain.  I mean I'm gaining weight so fast uh no @@@.
+
+DOCTOR X450
+And when you've been gaining weight over how long?
+
+PATIENT X450
+Um from October to now I've put on about 40 pounds.
+
+DOCTOR X450
+Why do you think that is?
+
+PATIENT X450
+I don't know uh well I mean I've been at the job doing what I'm doing now since March.
+
+DOCTOR X450
+Okay.
+
+PATIENT X450
+Uh and I don't know what it is from uh October to now I don't know why all of a sudden a big weight gain.  I was pretty much steady.  I've always been between 205 and 220, pretty much my entire adult life.
+
+DOCTOR X450
+Uh-huh.
+
+PATIENT X450
+Ever since I got out of the military uh and it's just ballooned.  I'm not eating as much.  I only eat basically two meals a day um but I mean it gets winter and I'm not getting out and doing as much but.
+
+DOCTOR X450
+Any swollen @@@ coughing or cold.
+
+PATIENT X450
+I'm usually the other way around.  Usually I always drive with the windows @@@ open.
+
+DOCTOR X450
+Okay.  Any problems with numbness?
+
+PATIENT X450
+No.
+
+DOCTOR X450
+Any problems breathing?
+
+PATIENT X450
+Uh, right since I've been here yeah, I'm getting a little more stuffy but I've been really, really good since.
+
+DOCTOR X450
+@@@.  You're not wheezing or anything like that?
+
+PATIENT X450
+No.
+
+DOCTOR X450
+@@@.
+
+PATIENT X450
+Yeah.
+
+DOCTOR X450
+Well let's see, let me see what lab tests I'm gonna need.  Your blood work looks pretty good. @@@.  Yeah I think we need to check your cholesterol and that's up there pretty high.  It's high but for someone with no risk factors we definitely @@@.  So we might want to try to get that down with the T waves @@@ start with that and see if it helps okay.  We'll have to talk a little more about that, what we may want to do is check a couple more labs.
+
+PATIENT X450
+And I wanted to ask when I came in this time with the headaches.
+
+DOCTOR X450
+Uh-huh.
+
+PATIENT X450
+The sinus infection my wife suggested I ask the doctor @@@ cause when I come in for any type of blood work I do have them checked.
+
+DOCTOR X450
+Uh-huh.
+
+PATIENT X450
+@@@.
+
+DOCTOR X450
+Is that hepatitis B?
+
+PATIENT X450
+She has C and was infected too.
+
+DOCTOR X450
+Okay.  Uh, yeah we don't have any C here, the tests are hepatitis B and that one you don't have.  But if you want we can @@@, you want the test?  @@@.  The one thing to worry about with weight gain sometimes is your thyroid.
+
+PATIENT X450
+Okay.
+
+DOCTOR X450
+So this is the area we tested.
+
+PATIENT X450
+Okay.
+
+DOCTOR X450
+And see if everything is normal.
+
+PATIENT X450
+Okay.
+
+DOCTOR X450
+Let me have you sit up here and I'll listen to your chest.
+
+PATIENT X450
+You want the shirt off?
+
+DOCTOR X450
+I'll have you pull it up if that's okay.  @@@.  Say ah.
+
+PATIENT X450
+Ah.
+
+DOCTOR X450
+@@@.
+
+PATIENT X450
+Yes.
+
+DOCTOR X450
+Take a deep breath for me.  @@@.  Push against me now, good.  Can you look up for me, lean back good?  Now can you @@@.  @@@.  Close your eyes @@@.  Good.  @@@.  You still getting that numbness and tingling in here?
+
+PATIENT X450
+Uh-huh, @@@.
+
+DOCTOR X450
+@@@.  
+
+PATIENT X450
+No.
+
+DOCTOR X450
+Okay @@@.  Can you do this for me?  Any problems?  @@@.  Any problem with this?
+
+PATIENT X450
+Uh uh.
+
+DOCTOR X450
+Okay.  Let me go talk to my supervisor @@@ and uh we just need to @@@ okay.
+
+PATIENT X450
+Okay.
+
+DOCTOR X450
+Now one thing I should tell you about is the MOVE Program and we'll probably recommend that anyway, that's obviously what we do.  That's kind of the local gym here and we help you out with @@@.
+
+PATIENT X450
+Well I was looking at joining a gym.  I mean I'm really uh, I've been really, really, really worried about my weight.
+
+DOCTOR X450
+Yeah.
+
+PATIENT X450
+Um and I was even looking to you know like find a gym.  I think there's one on a T-shirt close to my house.
+
+DOCTOR X450
+Okay.
+
+PATIENT X450
+Um I really, I've been trying to talk my daughter into and I think she's finally agreed to join with me but if I could do that here @@@.
+
+DOCTOR X450
+Okay.  I'll see if that helps you out.
+
+PATIENT X450
+Okay.
+
+DOCTOR X450
+I'll be right back.
+
+PATIENT X450
+Uh-huh.  Uh one other question um now this is probably due to age but within the last year my eyes have really been getting bad.  I was wondering if I could @@@.
+
+DOCTOR X450
+I could put in for an eye appointment okay.
+
+(DOCTOR OUT:  64:45  DOCTOR IN:  73:12)
+
+DOCTOR X450
+Alright.  So we were talking about it.  I think what we'll do is the you know some of the things that we talked about causing the weight gain.
+
+PATIENT X450
+Uh-huh.
+
+DOCTOR X450
+Things to worry about would be the thyroid or adrenal problems.  Uh @@@ some sort of @@@ for labs for @@@ and then your thyroid function studies @@@.  What I think you could do is uh like I said we can try that MOVE Program.  @@@ weight gain @@@.  That would be more @@@ okay.  So we'll do that.  We'll send you to the MOVE Program and then we'll see you start losing weight and we'll have you come back and we'll check it @@@ every week, make sure you're checking your weight and then we'll have you come back in a month to see if there's any change at all okay.
+
+PATIENT X450
+Okay.
+
+DOCTOR X450
+I also want to check @@@ so that's why we'll have you come back.  
+
+PATIENT X450
+@@@.
+
+DOCTOR X450
+Yeah so the MOVE Program, the nice thing about it is it's not just a gym but you'll have someone that works with you there to recommend exercises and @@@ just before we do that I do also want to get some stool studies from you.  That diarrhea that you're telling me, even though it just started and it could be directly from the antibiotic but @@@.
+
+PATIENT X450
+Uh-huh.
+
+DOCTOR X450
+Just make sure that's all it is cause @@@ antibiotics.  Okay.
+
+PATIENT X450
+Do you just want to know the color or I mean.
+
+DOCTOR X450
+No, no, they check it for that testing.  Okay.  @@@.  But if it is positive then we'll work out something different.  Is this the right number to call you at, NUMBER.
+
+PATIENT X450
+No I changed it.  NUMBER.
+
+DOCTOR X450
+@@@.  Alright let's take you over to.
+
+PATIENT X450
+Leave my stuff here?
+
+DOCTOR X450
+Uh no let's take it with you, @@@.
+
+PATIENT X450
+Leave from here?
+
+DOCTOR X450
+Yeah.  I'll give you that.  Okay on the way out just check out and they'll give you an appointment for one month from now.
+
+PATIENT X450
+Okay.
+
+DOCTOR X450
+Okay.
+
+PATIENT X450
+Do you know where the MOVE Program is?
+
+DOCTOR X450
+Yeah @@@ there.
+
+PATIENT X450
+Oh okay so @@@.
+
+DOCTOR X450
+@@@.  Are you going to be around next, are you able to come back @@@?
+
+PATIENT X450
+@@@.
+
+DOCTOR X450
+Okay this is the room.
+
+PATIENT X450
+@@@.  @@@ I'll have her follow me. @@@.
+
+DOCTOR X450
+And then @@@.
+
+PATIENT X450
+Okay.
+
+DOCTOR X450
+Okay.  @@@ and then they'll set you up.  @@@ and then they'll tell you when you get there.
+
+PATIENT X450
+Okay.
+
+DOCTOR X450
+@@@.  Oh you know what they did order it, it probably just.
+
+PATIENT X450
+@@@.
+
+DOCTOR X450
+Yeah.  @@@.
+
+PATIENT X450
+See you doc.
+
+DOCTOR X450
+Take care and then if things change call us or come back to the ER @@@.
+
+PATIENT X450
+Okay.  
+
+PATIENT LEAVES:  79:49
+
+
+
+

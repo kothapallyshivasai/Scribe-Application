@@ -1,0 +1,1139 @@
+
+DOCTOR X194
+PATIENT.
+
+PATIENT X194
+Okay.
+
+DOCTOR X194
+@@@.
+
+PATIENT X194
+Okay.
+
+DOCTOR X194
+How are you?
+
+PATIENT X194
+Good how are you?
+
+DOCTOR X194
+Good.  I'm DOCTOR; this is a large room so you can set it all out there. 
+
+PATIENT X194
+Okay.
+
+DOCTOR X194
+So you got your flu shot.
+
+PATIENT X194
+Uh-huh.
+
+DOCTOR X194
+Did you get a Pneumovax?
+
+PATIENT X194
+Pardon?
+
+DOCTOR X194
+Okay, oh yeah they gave you a Pneumovax too okay.  So who was your primary care doctor before?
+
+PATIENT X194
+Uh DOCTOR.
+
+DOCTOR X194
+Okay and where was she?
+
+PATIENT X194
+Uh with DOCTOR in Mcxxx.
+
+DOCTOR X194
+Okay DOCTOR?
+
+PATIENT X194
+Uh-huh.
+
+DOCTOR X194
+And where?
+
+PATIENT X194
+Mcxxx, Illinois.
+
+DOCTOR X194
+Mcxxx, Illinois okay.  And what did she treat you for there?
+
+PATIENT X194
+I'm diabetic.
+
+DOCTOR X194
+High blood pressure too?
+
+PATIENT X194
+No.
+
+DOCTOR X194
+Okay.  And now you're 64.
+
+PATIENT X194
+63.
+
+DOCTOR X194
+Did you know they have listed as 64?
+
+PATIENT X194
+Huh?
+
+DOCTOR X194
+They have your age as 64.
+
+PATIENT X194
+Oh.
+
+DOCTOR X194
+@@@.
+
+PATIENT X194
+Well the last time I was 63.
+
+DOCTOR X194
+Okay.  Alright.  When were you diagnosed with diabetes?
+
+PATIENT X194
+Uh maybe two or three years ago.
+
+DOCTOR X194
+Okay, so like 2007?
+
+PATIENT X194
+Yeah.
+
+DOCTOR X194
+Okay, so what do you take now?  @@@.
+
+PATIENT X194
+Let's see 500 mg of metformin one time a day.
+
+DOCTOR X194
+Anything else?
+
+PATIENT X194
+Uh one aspirin 325 mg one a day.
+
+DOCTOR X194
+Okay.
+
+PATIENT X194
+And then one 40 mg pravastatin, I can't say it.
+
+DOCTOR X194
+Oh pravastatin.
+
+PATIENT X194
+Pravastatin.  It's for cholesterol and I don't know if I even still need that yet.
+
+DOCTOR X194
+When were your lipids, your cholesterol last checked?  When was that last checked?
+
+PATIENT X194
+Yeah that one time issuing, it's a zero refill until next lab and I haven't had next lab.
+
+DOCTOR X194
+Okay anything else that you're taking?
+
+PATIENT X194
+Uh no but I need two things, like a cream for the, to keep the toenails kind of fresh.
+
+DOCTOR X194
+Okay.
+
+PATIENT X194
+And Viagra.
+
+DOCTOR X194
+Okay.  Alright.  So let's get a little more history.
+
+PATIENT X194
+Okay.
+
+DOCTOR X194
+Okay, so you're only taking the metformin daily, once daily?  So where are your Accu-Cheks, how often do you check your blood sugar?  
+
+PATIENT X194
+Daily but sometimes I forget.
+
+DOCTOR X194
+What do they run?
+
+PATIENT X194
+About 125.
+
+DOCTOR X194
+What's the range?  Do you check it before meals?  Do you check it before you eat or after you eat?
+
+PATIENT X194
+Generally it's after in the evening, about 9 or 10 p.m.
+
+DOCTOR X194
+9 p.m.  Okay.  And where is it usually?
+SECOND PERSON X194
+The same time as for his urine.
+
+DOCTOR X194
+Put the urine there.
+
+SECOND PERSON X194
+He needs to urinate here.
+
+DOCTOR X194
+Okay.
+
+SECOND PERSON X194
+He has his name and social security, I'm sorry to interrupt you.
+
+DOCTOR X194
+Oh okay, no it's okay.
+
+SECOND PERSON X194
+I @@@.
+
+DOCTOR X194
+Okay thank you.  I understand we need a urine sample.  Okay.  And you said it's usually in the 120s.
+
+PATIENT X194
+125s.
+
+DOCTOR X194
+It's usually 125 every time or whenever you check that?
+
+PATIENT X194
+It varies.
+
+DOCTOR X194
+Okay and what is it other than 125?
+
+PATIENT X194
+I think the highest was 165.
+
+DOCTOR X194
+When was that?
+
+PATIENT X194
+And my first day in here was 115, that was the best so.
+
+DOCTOR X194
+Okay.  What brought you to the Emergency Room?
+
+PATIENT X194
+Pardon?
+
+DOCTOR X194
+When did you come to the Emergency Room, December 2nd?
+
+PATIENT X194
+When we lost our health coverage.
+
+DOCTOR X194
+Oh you needed a refill on your medications when you went to the Emergency Room?
+
+PATIENT X194
+Yeah because I was running out of the uh diabetic pills.
+
+DOCTOR X194
+Okay.
+
+PATIENT X194
+And they gave me a temporary issuance of; I think they gave me a 45 day supply.
+
+DOCTOR X194
+Okay.
+
+PATIENT X194
+But they only had the 1000 mg and so they gave me a pill cutter.
+
+DOCTOR X194
+Okay.  So, other than the diabetes you're pretty healthy okay.  When did you last have your eye exam?
+
+PATIENT X194
+Pardon?
+
+DOCTOR X194
+When did you last have an eye exam?
+
+PATIENT X194
+Oh, probably two years ago.  Yeah the glasses are getting a little off so I'm going to have to be getting new glasses.
+
+DOCTOR X194
+So no one has looked for diabetic changes behind your eyes in two years?
+
+PATIENT X194
+Yeah they did do that, the last eye doctor did that.
+
+DOCTOR X194
+When was that?
+
+PATIENT X194
+It would be about two years ago.
+
+DOCTOR X194
+Okay.  So in 2008.
+
+PATIENT X194
+Yeah.
+
+DOCTOR X194
+Okay.  When were your last labs from DOCTOR?  When did you last see DOCTOR?
+
+PATIENT X194
+About six months ago.
+
+DOCTOR X194
+Okay.  Probably close to the time to repeat everything anyway.
+
+PATIENT X194
+What?
+
+DOCTOR X194
+It's time to just repeat everything anyway.
+
+PATIENT X194
+Okay.
+
+DOCTOR X194
+Um so.  Now I'm going to ask you a question.  You may not remember it and its okay if you don't.  Do you remember what your hemoglobin A1c test was?  It tells your long term control for your diabetes.
+
+PATIENT X194
+Oh I don't remember.
+
+DOCTOR X194
+Okay, no it's okay.  We need to check that.  We need to check your urine.
+
+PATIENT X194
+Oh I had, yeah I mentioned the cholesterol pill.
+
+DOCTOR X194
+Uh-huh.  We have to check your lipids and your um liver function tests.  Do you have any foot problems, foot pain?
+
+PATIENT X194
+No I get, I got the cold thing going you know from the diabetes so.
+
+DOCTOR X194
+You have that.  How long have you had it?
+
+PATIENT X194
+Oh, about three years.
+
+DOCTOR X194
+So you've had it since you were diagnosed?
+
+PATIENT X194
+Yeah.
+
+DOCTOR X194
+Okay.
+
+PATIENT X194
+I came in shortly afterwards and told them that sort of thing, after the diagnosis.
+
+DOCTOR X194
+Okay.
+
+PATIENT X194
+The first thing that happened that nobody caught on to it, when I went swimming I would get a severe pain along side my toenail but there was no sliver there.
+
+DOCTOR X194
+Uh-huh.
+
+PATIENT X194
+Then a little later on then she got the diagnosis test came through on the diabetic thing.
+
+DOCTOR X194
+Uh-huh.
+
+PATIENT X194
+And then I noticed I was getting a loss of sensation starting at the tip of the toe and it just, when it got halfway through I knew it was spreading.
+
+DOCTOR X194
+Okay.  Have you had your thyroid tests?  Have you felt any palpitations or felt cold?
+
+PATIENT X194
+No.
+
+DOCTOR X194
+Okay.  Any concern that you may have hepatitis C or have you had a tattoo or IV drugs, IV or anything else that can be a risk for hep C?
+
+PATIENT X194
+No.
+
+DOCTOR X194
+How about HIV?  Have you been screening for that?  Are you in a monogamous, you're married?   Are you married?
+
+PATIENT X194
+Yes.
+
+DOCTOR X194
+Okay and you're in a monogamous marriage?
+
+PATIENT X194
+Absolutely yes.
+
+DOCTOR X194
+Okay, I mean we can screen anyone for HIV if you'd like to.
+
+PATIENT X194
+I know this.
+
+DOCTOR X194
+But if you're okay with not then you know, you don't have to but anyone can be screened for hepatitis C and HIV really.  It's up to you.  Would you like to be?
+
+PATIENT X194
+I guess better safe than sorry right?
+
+DOCTOR X194
+Okay, yeah.
+
+PATIENT X194
+It'd be fine with me.
+
+DOCTOR X194
+Okay, let's do it.  We'll check that.  You got your shot, your flu shot.  Have you had a colonoscopy for colon cancer screening?
+
+PATIENT X194
+No.
+
+DOCTOR X194
+You've never had a colonoscopy and you're 64, so you're 14 years late so you're due for that.
+
+PATIENT X194
+Okay.
+
+DOCTOR X194
+So we need to screen you for colon cancer.
+
+PATIENT X194
+Okay.
+
+DOCTOR X194
+Have you had any black stool?
+
+PATIENT X194
+No.
+
+DOCTOR X194
+Or blood in your stool?  Or @@@ of stool?  Your stools are normal?
+
+PATIENT X194
+Yeah.
+
+DOCTOR X194
+They're not different from before?
+
+PATIENT X194
+No.
+
+DOCTOR X194
+Okay.  Okay.
+
+PATIENT X194
+My father died from prostate cancer.
+
+DOCTOR X194
+Did he?
+
+PATIENT X194
+Yeah.
+
+DOCTOR X194
+At what age?  At what age?
+
+PATIENT X194
+Huh?
+
+DOCTOR X194
+How old was he? 
+
+PATIENT X194
+I think 68.
+
+DOCTOR X194
+Okay.  What other illnesses are in your family?
+
+PATIENT X194
+Huh?
+
+DOCTOR X194
+What other illnesses run in your family?
+
+PATIENT X194
+Hmm asthma was in there.
+
+DOCTOR X194
+Okay.
+
+PATIENT X194
+I caught that for a while.
+
+DOCTOR X194
+Diabetes? 
+
+PATIENT X194
+Now my wife thinks my grandmother was diabetic.
+
+DOCTOR X194
+Okay.
+
+PATIENT X194
+But I never heard right from her or anything.
+
+DOCTOR X194
+Okay.  How about cancer other than the prostate cancer?  Any brother, sister, mom, dad?
+
+PATIENT X194
+My mother died of ovarian cancer.
+
+DOCTOR X194
+At what age?
+
+PATIENT X194
+Oh she was younger.
+
+DOCTOR X194
+Younger than 50?
+
+PATIENT X194
+Might have been 54.
+
+DOCTOR X194
+Okay.   And um how about heart attack or strokes?
+
+PATIENT X194
+None.
+
+DOCTOR X194
+Okay.  Do you smoke?
+
+PATIENT X194
+Yeah.
+
+DOCTOR X194
+How long have you smoked?
+
+PATIENT X194
+Oh about since age 15.
+
+DOCTOR X194
+How much per day?
+
+PATIENT X194
+About 2-3 packs a day, I'm down to one.  I'm starting the electronic cigarettes in January.
+
+DOCTOR X194
+How long have you been smoking one?
+
+PATIENT X194
+Huh?
+
+DOCTOR X194
+How long have you been smoking one pack?
+
+PATIENT X194
+A year.
+
+DOCTOR X194
+Who'll helped you get on the electronic cigarettes?
+
+PATIENT X194
+Huh?
+
+DOCTOR X194
+You're using a stimulator to keep yourself from smoking?
+
+PATIENT X194
+I just got it now.
+
+DOCTOR X194
+Oh you just got it, you're going to try that?
+
+PATIENT X194
+Yeah.
+
+DOCTOR X194
+Do you want to go to our Smoking Cessation Clinic?
+
+PATIENT X194
+I'm enrolled in one up in Mcxxx.
+
+DOCTOR X194
+Oh okay.  Okay any alcohol use?
+
+PATIENT X194
+Huh?
+
+DOCTOR X194
+Alcohol use?
+
+PATIENT X194
+No.
+
+DOCTOR X194
+Okay.  Okay any trouble with your hearing?
+
+PATIENT X194
+Yeah frequency.
+
+DOCTOR X194
+How long have you known that?  Were you diagnosed?
+
+PATIENT X194
+Yeah uh, well actually I get the final number to it but they think it was coming on for a long time cause I was a security police for the Air Force.
+
+DOCTOR X194
+Okay.
+
+PATIENT X194
+The jet engine noise and then I was on the police department and sheriff's department here in xxx.
+
+DOCTOR X194
+Okay.
+
+PATIENT X194
+So we're shooting gun range noise and then one day my tractor tire froze to the axel and I used a metal thing to try to hammer it out.
+
+DOCTOR X194
+Uh-huh.
+
+PATIENT X194
+And I was under a deck.
+
+DOCTOR X194
+Okay.
+
+PATIENT X194
+And it created a lot of echoing and when I went in the house I was on the far side of the living room, the TV was on and I realized I could not understand the people talking on the TV.
+
+DOCTOR X194
+Yeah.  So have you needed hearing aids?
+
+PATIENT X194
+And it didn't get better later.
+
+DOCTOR X194
+Okay.  When did you see Audiology last?
+
+PATIENT X194
+About a year and a half ago.
+
+DOCTOR X194
+Okay.
+
+PATIENT X194
+I had an hearing test done and they said it was the frequency.  I can hear deep frequency.
+
+DOCTOR X194
+@@@ okay.
+
+PATIENT X194
+But all the words are kind of different.  When high frequency enters the word sometimes then I miss it.
+
+DOCTOR X194
+Okay.  How long have you had hearing loss?
+
+PATIENT X194
+Oh I probably had it without realizing for a while.
+
+DOCTOR X194
+Okay.
+
+PATIENT X194
+But the actual, when I really did all that hammering.
+
+DOCTOR X194
+Okay.
+
+PATIENT X194
+You know it was like probably the last straw for the eardrums.
+
+DOCTOR X194
+I'm going to get you to the Lab today.
+
+PATIENT X194
+Okay.
+
+DOCTOR X194
+Okay and we'll get electrolytes.  Just a standard blood count just so that we have it on file and then you're diabetic test, your hemoglobin A1c and then I'll check your liver.  The cholesterol, did you eat lunch today?
+
+PATIENT X194
+Huh?
+
+DOCTOR X194
+Did you eat lunch?
+
+PATIENT X194
+No.
+
+DOCTOR X194
+No, okay you didn't. 
+
+PATIENT X194
+No because I expected you might be sending to the Lab.
+
+DOCTOR X194
+Right.  Did you eat breakfast?
+
+PATIENT X194
+No.
+
+DOCTOR X194
+Good, okay let's do your cholesterol.
+
+PATIENT X194
+I had coffee this morning.
+
+DOCTOR X194
+That's okay.
+
+PATIENT X194
+Alright.
+
+DOCTOR X194
+Okay.  So we'll get your cholesterol.  I'll get your prostrate lab and some urine tests.  Okay.  And send you to Audiology for your hearing.  Have they talked with you about hearing aids before?
+
+PATIENT X194
+Pardon?
+
+DOCTOR X194
+Have they ever talked to you about hearing aids before?
+
+PATIENT X194
+Oh when I had that first hearing test.
+
+DOCTOR X194
+Okay but then it got better so they didn't want to do that and then I'll put in a referral for your um because you're due for a colonoscopy and actually a lot of these tests are the same @@@.  But I'll check that one and this is for a colonoscopy.  This is a screening for colorectal cancer.  You have a prosthetic heart valve?
+
+PATIENT X194
+Pardon?
+
+DOCTOR X194
+Any trouble with your heart valve?
+
+PATIENT X194
+No.
+
+DOCTOR X194
+No pacemaker or defibrillator?  You don't need oxygen?
+
+PATIENT X194
+No.
+
+DOCTOR X194
+No recent stroke or heart attack?
+
+PATIENT X194
+Nope.
+
+DOCTOR X194
+Okay.  No stents in your heart?
+
+PATIENT X194
+Nope.
+
+DOCTOR X194
+And you're not on Plavix, Coumadin, Aggrenox.  You are on aspirin every day?  Are you on an aspirin every day?
+
+PATIENT X194
+Yes.
+
+DOCTOR X194
+Okay.  Um and you're okay with having a colonoscopy?
+
+PATIENT X194
+Yeah.
+
+DOCTOR X194
+Okay.  Have you ever been screened for an aneurysm in your aorta?
+
+PATIENT X194
+I don't know.
+
+DOCTOR X194
+Okay you smoked for a while and you have diabetes, high cholesterol, um your blood pressure looks okay but all of that together puts at high risk for having maybe aneurysm of your aorta.  And an aneurysm is like, you know how you see bubble gum and you blow a bubble and if you blew a bubble, the bubble is a thin layer of gum compared to the rest of the gum that you're chewing in your mouth so the wall of your aorta pouches out like that and is very thin and it could rupture.  And so if it ruptures um, so what we do is we screen for it and if we see that you have one and it's a certain size, very little, we just watch it but if we see that it grows fast or that it's big then we refer you to a vascular surgeon so that they can fix it.
+
+PATIENT X194
+Uh-huh.
+
+DOCTOR X194
+So we can elect you to be screened for that knowing that if it's large then you'd have to go to surgery for it.  When they rupture 50% are fatal so that's why we screen for them, in males who have high risks and who smoked.  Would you like to elect for it, it's an ultrasound, it's an ultrasound.  Okay.  Okay, so we'll do that screening test too.  Alright.  Let me just um, standing you up here and I'll look at your feet.
+
+PATIENT X194
+Okay.
+
+DOCTOR X194
+You need an eye exam.  So I'll have you sit there and we can start with removing your socks and shoes.  Since you have smoked for 50 years, it's just to make sure that you don't have that.  Okay you can sit back.  
+
+PATIENT X194
+Oh I did have one kind of surgery I forgot to mention.  What do they call it, um?
+
+DOCTOR X194
+A laminectomy?
+
+PATIENT X194
+When the thing bubbles out and pushes against the nerve bundle?
+
+DOCTOR X194
+Oh stenosis, spinal stenosis.
+
+PATIENT X194
+Yeah, the soft tissue in the spine?  Uh it herniated out.
+
+DOCTOR X194
+Oh a herniated disk.
+
+PATIENT X194
+Yes.  They did a laser discectomy on it.
+
+DOCTOR X194
+Oh when was that?
+
+PATIENT X194
+It was uh, it was maybe a year to a year and a half ago.
+
+DOCTOR X194
+Okay.  Deep breath, deep breath, deep breath, deep breath, deep breath okay.  You can breathe normally.  Hold your breath okay and breathe.  Okay and hold your breath again.  Okay.  Any belly pain?  Any chest pain?
+
+PATIENT X194
+No.
+
+DOCTOR X194
+@@@ back pain?
+
+PATIENT X194
+No.
+
+DOCTOR X194
+Do you take any um pain medications for chest pain?
+
+PATIENT X194
+No.
+
+DOCTOR X194
+Do you take any medications called nitrates?
+
+PATIENT X194
+No.
+
+DOCTOR X194
+Any long acting?  How about medications, you've never had chest pain.  I'm sure you're not on any additional that you take when you have chest pain.
+
+PATIENT X194
+No.
+
+DOCTOR X194
+Nitroglycerin?
+
+PATIENT X194
+No, uh uh.
+
+DOCTOR X194
+Okay, alright.  Did you have Viagra before?
+
+PATIENT X194
+No.
+
+DOCTOR X194
+No, you've never tried it before okay?  So why do you think you need it now?
+
+PATIENT X194
+It ain't working.
+
+DOCTOR X194
+Okay.
+
+PATIENT X194
+Also because I heard on the net that it opens up blood cells and @@@ too.
+
+DOCTOR X194
+Okay what are you using for?
+
+PATIENT X194
+Pardon?
+
+DOCTOR X194
+You're using it for sexual activity right?  Viagra.
+
+PATIENT X194
+I would need it for that but.
+
+DOCTOR X194
+Okay, okay.
+
+PATIENT X194
+But it might open up blood cells around the feet a little bit so my feet feel a little warmer too.
+
+DOCTOR X194
+Hmm, well you wouldn't take it that often to do that.
+
+PATIENT X194
+Huh?
+
+DOCTOR X194
+You wouldn't take it that often to see it affect long term like that.
+
+PATIENT X194
+Yeah.  Okay.
+
+DOCTOR X194
+If you were just taking it intermittently.
+
+PATIENT X194
+Yeah.
+
+DOCTOR X194
+It's not something that you would use every you know, every day like you use the metformin.
+
+PATIENT X194
+Right.
+
+DOCTOR X194
+So.  This sensation here can you feel that?
+
+PATIENT X194
+Yep.
+
+DOCTOR X194
+Okay.  Can you feel this?
+
+PATIENT X194
+Yep.
+
+DOCTOR X194
+You have calluses here.  Okay and thickened toenails.  I'm going to send you to the podiatrist.  Can you tell me if I'm moving your toe up or down?
+
+PATIENT X194
+Pardon?
+
+DOCTOR X194
+Up or down.
+
+PATIENT X194
+What's that?
+
+DOCTOR X194
+Close your eyes.  Close your eyes and tell me if I'm moving your toe up or down.
+
+PATIENT X194
+Up. Down, up, up.
+
+DOCTOR X194
+Okay alright and no swelling here okay.  You can sit back up.  Do you have children?
+
+PATIENT X194
+Pardon?
+
+DOCTOR X194
+Do you have children?
+
+PATIENT X194
+Yeah two grown now.
+
+DOCTOR X194
+Okay they're healthy?
+
+PATIENT X194
+Yes.
+
+DOCTOR X194
+Okay.  Okay.  What year was the surgery?
+
+PATIENT X194
+Huh?
+
+DOCTOR X194
+What year was the surgery?
+
+PATIENT X194
+Actually two years ago.
+
+DOCTOR X194
+Okay.  I'll be back shortly.  So you're just on the lovastatin, aspirin and metformin?
+
+PATIENT X194
+Yep.
+
+DOCTOR X194
+Okay.  Alright.
+
+(DOCTOR OUT:  99:53  DOCTOR IN:  103:31)
+
+DOCTOR X194
+Alright so let's get all these labs.  Can you go today?
+
+PATIENT X194
+Yep.
+
+DOCTOR X194
+Okay.  So we'll check all of your labs.  I'll put in for that screening ultrasound, your eye exam, I'll send you to the foot doctor and then you're going to need this when you go to the Lab downstairs.  I'll be right back.  You can put one of your socks on your feet.
+
+PATIENT X194
+Okay.
+
+DOCTOR X194
+Okay.
+
+(DOCTOR OUT:  104:1  DOCTOR IN:  106:20)
+
+DOCTOR X194
+Okay.  So put your feet up here and then tell me if you can feel this when I touch your feet.  Okay.  Can you feel that?  
+
+PATIENT X194
+Yeah.
+
+DOCTOR X194
+Here?
+
+PATIENT X194
+Uh-huh.
+
+DOCTOR X194
+Here?
+
+PATIENT X194
+Uh-huh.
+
+DOCTOR X194
+Can you feel this?
+
+PATIENT X194
+Little bit.
+
+DOCTOR X194
+A little here?
+
+PATIENT X194
+A little bit.
+
+DOCTOR X194
+Here?
+
+PATIENT X194
+Real lightly.
+
+DOCTOR X194
+How about here?
+
+PATIENT X194
+Yeah.
+
+DOCTOR X194
+And here?
+
+PATIENT X194
+Yeah.
+
+DOCTOR X194
+Here?
+
+PATIENT X194
+Yep.
+
+DOCTOR X194
+Here?
+
+PATIENT X194
+Yeah.
+
+DOCTOR X194
+Here?
+
+PATIENT X194
+Yep.
+
+DOCTOR X194
+Here?
+
+PATIENT X194
+Yep.
+
+DOCTOR X194
+You keep saying yep.
+
+PATIENT X194
+Yes.
+
+DOCTOR X194
+Oh yes okay.
+
+PATIENT X194
+Yep.
+
+DOCTOR X194
+Okay, alright, good.
+
+PATIENT X194
+Okay.
+
+DOCTOR X194
+Alright you're all set.  Can you go to the Lab?
+
+PATIENT X194
+Yeah.
+
+DOCTOR X194
+Okay.  I want to see you back in a month.
+
+PATIENT X194
+Huh?
+
+DOCTOR X194
+I want to see you back in a month.
+
+PATIENT X194
+Okay.
+
+DOCTOR X194
+And then I can just you know check your blood pressure; go over your labs and everything with you when you come back then.  Alright there's the form and then you can just head to the Lab.  When you check out up front so that they make your appointment, just ask them how you get to the Lab.
+
+PATIENT X194
+Yep.
+
+DOCTOR X194
+Okay.  Okay let's walk.
+
+PATIENT X194
+Okay.
+
+DOCTOR X194
+Okay.  Okay.  Now you go all the way down where you see the writing on the wall.
+
+PATIENT X194
+Uh-huh.
+
+DOCTOR X194
+Okay and then look to the right there's a desk.
+
+PATIENT X194
+Okay.
+
+DOCTOR X194
+And turn this in and they'll schedule you for one month.
+
+PATIENT X194
+Okay.
+
+DOCTOR X194
+Okay and then ask them how to get to the Lab from there.
+
+PATIENT X194
+Okay.
+
+DOCTOR X194
+Okay.  Okay, take care.
+
+PATIENT X194
+Okay thank you.
+
+PATIENT LEAVES:  109:20
+
+Time is 4:18.
+
+
+
+

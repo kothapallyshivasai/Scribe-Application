@@ -1,0 +1,831 @@
+
+DOCTOR X52
+PATIENT?  How are you doing PATIENT?  I'm DOCTOR.
+
+PATIENT X52
+Hi.
+
+DOCTOR X52
+It's nice to meet you.  Do you want the back lifted?  Go ahead and have a seat right here for me okay.
+
+PATIENT X52
+Okay.
+
+DOCTOR X52
+So what you doing to see me today, what's going on?
+
+PATIENT X52
+I got a cold.
+
+DOCTOR X52
+A cold.
+
+PATIENT X52
+A cold and the flu.
+
+DOCTOR X52
+How long has this been going on for?
+
+PATIENT X52
+Ooh, oh about four days.  @@@ yellow and red streaks.
+
+DOCTOR X52
+With a cough or?
+
+PATIENT X52
+Cough.
+
+DOCTOR X52
+What was the first symptom you had?
+
+PATIENT X52
+Huh?
+
+DOCTOR X52
+What was the first symptom you had?  What was the first problem that you had?
+
+PATIENT X52
+Oh my throat @@@.  Nose running.
+
+DOCTOR X52
+That's the first thing was starting?
+
+PATIENT X52
+Uh-huh.  Nose running, eyes running.  Then they was white I had to cough it up, fluid up was white and @@@.  I was gonna come out here cause I can't take nothing unless the doctor say, @@@.
+
+DOCTOR X52
+You uh, go to Bethel?
+
+PATIENT X52
+Uh-huh.  Yeah I walked to the elevator @@@.
+
+DOCTOR X52
+How'd you get here?
+
+PATIENT X52
+I flew.
+
+DOCTOR X52
+Any chest pain?
+
+PATIENT X52
+Uh uh.
+
+DOCTOR X52
+Do you have emphysema?
+
+PATIENT X52
+I don't know what that is, I don't know.
+
+DOCTOR X52
+Any lung disease, emphysema?
+
+PATIENT X52
+No.
+
+DOCTOR X52
+Do you take inhalers because of your lungs?
+
+PATIENT X52
+Uh uh.
+
+DOCTOR X52
+Did you get a pneumonia shot ever?  The pneumonia vaccine?
+
+PATIENT X52
+Uh the last one I take it uh, when I go to get a shot and they say I didn't need it, it was the pneumonia shot but that's been a year ago.
+
+DOCTOR X52
+You got a flu shot right?
+
+PATIENT X52
+Uh-huh.
+
+DOCTOR X52
+Did you get both flu shots or just one?
+
+PATIENT X52
+Just one.
+
+DOCTOR X52
+The regular flu?
+
+PATIENT X52
+Uh-huh.
+
+DOCTOR X52
+Who do you live with?
+
+PATIENT X52
+Uh me and my wife and my son.  I don't feel bad.
+
+DOCTOR X52
+You don't.  @@@.
+
+PATIENT X52
+Yeah I do, that's what I do, try to heal this cold.  We got uh a hot @@@ in the feet, hot chocolate. 
+
+DOCTOR X52
+Do you have abdominal pain or symptoms of nausea?
+
+PATIENT X52
+Uh uh.
+
+DOCTOR X52
+Okay.  Have been around anybody sick?
+ 
+PATIENT X52
+Huh.
+
+DOCTOR X52
+Have you been around anybody sick?
+
+PATIENT X52
+Yeah.
+
+DOCTOR X52
+Who was it?
+
+PATIENT X52
+My son, both my son and my wife.
+
+DOCTOR X52
+What are they sick with?
+
+PATIENT X52
+Uh.
+
+DOCTOR X52
+What are they sick with?
+
+PATIENT X52
+Cold, same thing.
+
+DOCTOR X52
+Do they have muscle aches and pains?
+
+PATIENT X52
+I don't know but they cough a lot, cough up @@@.
+
+DOCTOR X52
+What about you?
+
+PATIENT X52
+I have aches and pains in the muscles, in the side.  I get that from coughing after so much.
+
+DOCTOR X52
+Well is it all over, your legs and your arms?
+
+PATIENT X52
+Really just my arms here and both sides of my muscles.
+
+DOCTOR X52
+When you cough?
+
+PATIENT X52
+Uh-huh.
+
+DOCTOR X52
+What about your arms here or your legs?
+
+PATIENT X52
+Uh uh.
+
+DOCTOR X52
+Anything hurt?
+
+PATIENT X52
+Just, I hurt right here, I don't know what you get but it @@@.
+
+DOCTOR X52
+Have you had fever?
+
+PATIENT X52
+Uh-huh.
+
+DOCTOR X52
+How high?
+
+PATIENT X52
+I don't know.  I know I woke up sweats the night before last and last night and the night before that.  I wake up @@@ and dripping in sweat.
+
+DOCTOR X52
+@@@ with you?
+
+PATIENT X52
+Uh-huh.  Both of them.
+
+DOCTOR X52
+Both of them @@@.
+
+PATIENT X52
+@@@.
+
+DOCTOR X52
+Have been all sick?
+
+PATIENT X52
+Yeah they all got colds.
+
+DOCTOR X52
+Are you all really sick with fevers too?
+
+PATIENT X52
+Now I don't know about fevers, but they got that bad cough.
+
+DOCTOR X52
+Do you have heart disease?
+
+PATIENT X52
+Uh yeah I had a heart attack, @@@ time ago.
+
+DOCTOR X52
+Did you have bypass surgery?
+
+PATIENT X52
+And they split me open and I was open from my naval all the way up to the throat.
+
+DOCTOR X52
+Have you ever had heart failure?
+
+PATIENT X52
+What?
+
+DOCTOR X52
+Have you ever had congestive heart failure?
+
+PATIENT X52
+Yeah I had, before I had the heart attack I had a little heart attack or something like that but that wouldn't @@@.  They just told me to stop drinking and stop smoking and I didn't quit so I had the big, @@@.
+
+DOCTOR X52
+When was the big one?
+
+PATIENT X52
+Oh @@@.
+
+DOCTOR X52
+Yeah when did you have that?
+
+PATIENT X52
+Huh?
+
+DOCTOR X52
+When did you have that?
+
+PATIENT X52
+Oh.
+
+DOCTOR X52
+Open heart surgery when was that?
+
+PATIENT X52
+Oh, it was about seven years, about seven or eight years ago in Mississippi at the VA.
+
+DOCTOR X52
+Your blood sugars doing okay?
+
+PATIENT X52
+Yeah.
+
+DOCTOR X52
+What are they running at home?
+
+PATIENT X52
+Oh around 103, 104, 102 something like that.  I check it every once in a while @@@.
+
+DOCTOR X52
+Has it been higher or no?
+
+PATIENT X52
+Uh uh.
+
+DOCTOR X52
+And you take all these medications in here?
+
+PATIENT X52
+Uh-huh.
+
+DOCTOR X52
+So all of them?
+
+PATIENT X52
+You bet.
+
+DOCTOR X52
+There's a lot of them.
+
+PATIENT X52
+Oh yeah.
+
+DOCTOR X52
+Amlodipine, aspirin, carvedilol, Lantus, @@@.
+
+PATIENT X52
+Yeah.
+
+DOCTOR X52
+Lisinopril, donepezil, simvastatin, spironolactone, terazosin, trazodone, bupropion.
+
+PATIENT X52
+All that stuff.  @@@.  There are about eight that I take @@@.
+
+DOCTOR X52
+Okay.  I'm gonna have you sit up here for me okay.
+
+PATIENT X52
+Okay.
+
+DOCTOR X52
+@@@ I want your shoes off, @@@ monitor, I'll be right back.
+
+PATIENT X52
+Okay.
+
+(DOCTOR OUT:  39:07  DOCTOR IN:  39:46)
+
+DOCTOR X52
+Are you on Coumadin?
+
+PATIENT X52
+I'm on what?
+
+DOCTOR X52
+You on Coumadin?
+
+PATIENT X52
+Yeah.  Yes I am.
+
+DOCTOR X52
+Have your numbers been okay?
+
+PATIENT X52
+Uh-huh.
+
+DOCTOR X52
+You take uh.  
+
+PATIENT X52
+@@@.
+
+DOCTOR X52
+Good.  Your lungs have a good sound.  I'm gonna have you cough for me a couple times.   Give me a good cough.
+
+PATIENT X52
+Uh-huh. (coughs)
+
+DOCTOR X52
+Okay.  @@@ okay.  
+
+PATIENT X52
+Hmm.
+
+DOCTOR X52
+Take a deep breath.  Out and up and in and out.  Deep breath, and out, and in and out, again.  Deep breath and out and in.  You never had an inhaler before?
+
+PATIENT X52
+No.
+
+DOCTOR X52
+You've never had an inhaler?
+
+PATIENT X52
+Yeah but it was a long time ago.  What it read?
+
+DOCTOR X52
+Say E for me.
+
+PATIENT X52
+E.
+
+DOCTOR X52
+Again.
+
+PATIENT X52
+E.
+
+DOCTOR X52
+Again.
+
+PATIENT X52
+E.
+
+DOCTOR X52
+Again.
+
+PATIENT X52
+E.
+
+DOCTOR X52
+Okay good.  @@@?  Do you feel short of breath right now?
+
+PATIENT X52
+Uh-huh.  @@@.
+
+DOCTOR X52
+Do you need me to come in?
+
+PATIENT X52
+What?
+
+DOCTOR X52
+Do you need me to come in?
+
+PATIENT X52
+No I don't feel like it, just a cough and cold.
+
+DOCTOR X52
+I'd like to give you another inhaler okay.  I think I'd like to get a chest x-ray and let's take a look at your mouth.  Okay open your mouth real big.  Say ah.
+
+PATIENT X52
+Ah.
+
+DOCTOR X52
+Stick out your tongue.  Do you have dentures up there?
+
+PATIENT X52
+I have partials, @@@.
+
+DOCTOR X52
+You don't have dentures right.
+
+PATIENT X52
+No.
+
+DOCTOR X52
+Do you ever choke when you swallow?
+
+PATIENT X52
+Uh uh.
+
+DOCTOR X52
+Any real pain?
+
+PATIENT X52
+Uh uh.
+
+DOCTOR X52
+@@@ anywhere?
+
+PATIENT X52
+Uh-huh.
+
+DOCTOR X52
+Who's your primary doctor?
+
+PATIENT X52
+@@@ so I don't know who, who it is.  I don't think I've been here in a good while.  These low doctors.  @@@ that brought me out here is this cold.
+
+DOCTOR X52
+I don't see Coumadin on your medication list.  It's also called Warfarin.
+
+PATIENT X52
+Yeah.
+
+DOCTOR X52
+Do you take that?
+
+PATIENT X52
+Uh-huh.
+
+DOCTOR X52
+You're getting it here?
+
+PATIENT X52
+Yeah.
+
+DOCTOR X52
+I don't think you take that cause you're not on @@@.
+
+PATIENT X52
+Oh they probably taken it off then, they probably take me off it.  I was taking it.
+
+DOCTOR X52
+Yeah.  In the past you were but now you're off.
+
+PATIENT X52
+Yeah, uh-huh.
+
+DOCTOR X52
+Okay.
+
+PATIENT X52
+I don't feel sick with this.  I @@@ cough @@@.
+
+DOCTOR X52
+So it was mainly the coughing and the shortness of breath?
+
+PATIENT X52
+Yeah that's all.  I was sore on both sides.
+
+DOCTOR X52
+Are you smoking?
+
+PATIENT X52
+Uh uh.
+
+DOCTOR X52
+When did you quit?
+
+PATIENT X52
+Oh, about two years ago.
+
+DOCTOR X52
+How much did you smoke then?
+
+PATIENT X52
+About a pack and a half a day.
+
+DOCTOR X52
+For how long?
+
+PATIENT X52
+Oh, man all my life, since I was about 10 years.  I'm 82 now.
+
+DOCTOR X52
+Well they checked your lungs for emphysema in 2006 and it looks like you had emphysema.
+
+PATIENT X52
+Oh I did.
+
+DOCTOR X52
+Yeah.  So.
+
+PATIENT X52
+They didn't tell me.
+
+DOCTOR X52
+I think what we're seeing a little bit now is emphysema.
+
+PATIENT X52
+Oh.
+
+DOCTOR X52
+Sounds like we gotta get you tuned up okay.  I'll be right back okay.
+
+PATIENT X52
+You gotta get me tuned up?
+
+DOCTOR X52
+Yeah we're going to tune you up like a car, so we'll treat you better, I'll be right back okay.
+
+PATIENT X52
+Alright.
+
+(DOCTOR OUT:  46:57  DOCTOR IN:  57:33)
+
+DOCTOR X52
+Okay.  I was talking to DOCTOR, he's my attending okay.
+
+PATIENT X52
+Uh-huh.
+
+DOCTOR X52
+And you have to; I think what's going on with you more than anything is what we call and exacerbation of emphysema.  We're gonna look at your lungs and see what the problem is if you have emphysema.  Do you know what emphysema is?
+
+PATIENT X52
+Uh uh.
+
+DOCTOR X52
+Emphysema is when people who smoke all their life, even though you quit a couple years ago your lungs don't work as well and they start trapping air and you have a hard time getting air out.
+
+PATIENT X52
+Yeah.
+
+DOCTOR X52
+And um when you start having productive sputum like you're having with shortness of breath you can get an exacerbation of COPD and I think that's what we're seeing with you.
+
+PATIENT X52
+Hmm.
+
+DOCTOR X52
+Okay.
+
+PATIENT X52
+Okay.
+
+DOCTOR X52
+So this @@@ treating that, number one when I listen to you I don't hear pneumonia but given that you've had a lot going on.
+
+PATIENT X52
+Uh-huh.
+
+DOCTOR X52
+I want you to get a chest x-ray on the way.
+
+PATIENT X52
+Uh-huh.
+
+DOCTOR X52
+When you go down Radiology will call you.
+
+PATIENT X52
+Okay.
+
+DOCTOR X52
+I'm still going to give you it's for part of COPD exacerbations, 
+what works well is I want to try giving antibiotics for five days.
+
+PATIENT X52
+Okay.
+
+DOCTOR X52
+It's called azithromycin okay.  I'll also want to give you um, who gives you your medications at home?
+
+PATIENT X52
+I take them myself.
+
+DOCTOR X52
+Okay, so you're pretty good about your medications?
+
+PATIENT X52
+Oh yeah.  @@@.
+
+DOCTOR X52
+Okay so, the antibiotic is going to be and these will all be in the instructions, its two pills the first day and then one pill the next four days okay.
+
+PATIENT X52
+Okay.
+
+DOCTOR X52
+The steroid is going to be similar, what I'm gonna do is I'm going to give you some steroids to decrease the inflammation in your lungs.
+
+PATIENT X52
+Hmm.
+
+DOCTOR X52
+Okay.
+
+PATIENT X52
+Okay.
+
+DOCTOR X52
+This other stuff, have you ever been on steroids before?
+
+PATIENT X52
+No.
+
+DOCTOR X52
+Uh they always have side effects okay.  Usually in the short term there are not that many side effects.
+
+PATIENT X52
+No.
+
+DOCTOR X52
+But sometimes people can get a little anxious.
+
+PATIENT X52
+Your right.
+
+DOCTOR X52
+And can cause some confusion and it can cause your blood sugar to go higher.
+
+PATIENT X52
+Uh-huh.
+
+DOCTOR X52
+Okay.
+
+PATIENT X52
+Uh-huh.
+
+DOCTOR X52
+But it's gonna really help with your breathing I think.
+
+PATIENT X52
+That's good.
+
+DOCTOR X52
+It's a 9 day course where the first two days you take four pills, the next three days you take you know two pills, the next three days you take one pill.  It will all be on the instructions.
+
+PATIENT X52
+Okay.
+
+DOCTOR X52
+You take all of them and taper off, does that make sense?
+
+PATIENT X52
+That makes sense.
+
+DOCTOR X52
+And then I'm gonna start you on inhalers.  And inhalers are to help you breathe better.
+
+PATIENT X52
+Uh-huh.
+
+DOCTOR X52
+And you take two puffs of this inhaler every six hours and it's to open up your breathing a little bit.
+
+PATIENT X52
+Yeah.
+
+DOCTOR X52
+So we're doing three medications, steroid, antibiotic and inhaler and you're getting a chest x-ray on the way out.
+
+PATIENT X52
+Uh-huh.
+
+DOCTOR X52
+You normally see DOCTOR.  He's your primary doctor.
+
+PATIENT X52
+Hmm.
+
+DOCTOR X52
+And I think it's time you see him again for follow-up.
+
+PATIENT X52
+Yeah.
+
+DOCTOR X52
+You've had problems like this in the past.  @@@ DOCTOR we need to have you back within three or four weeks okay.  Now if you home and you're not doing better, the fevers persist and your breathing becomes harder, you got to come back to the Emergency Room.
+
+PATIENT X52
+Oh.
+
+DOCTOR X52
+Okay.  You can stop at the X-ray today okay.
+
+PATIENT X52
+Uh-huh, okay.
+
+DOCTOR X52
+And the Pharmacy today to pick up all the medicines I'm putting through.  Probably get your x-rays first to give the Pharmacy time to fill the medications.
+
+PATIENT X52
+Okay.
+
+DOCTOR X52
+And you'll take the steroids today, the antibiotic today and start using the inhalers today.
+
+PATIENT X52
+Uh-huh.
+
+DOCTOR X52
+Okay?
+
+PATIENT X52
+Okay.
+
+DOCTOR X52
+Do you have questions for me?
+
+PATIENT X52
+No, no.  All the instructions will be on the bottle, I might forget.
+
+DOCTOR X52
+Yep and @@@ don't be shy to have your family help you out okay.
+
+PATIENT X52
+Okay.
+
+DOCTOR X52
+Cause this is a lot of new medications.
+
+PATIENT X52
+Yeah.
+
+DOCTOR X52
+The steroid might make your blood sugars go higher so keep checking your blood sugars and if they get high you have to call us and let us know.
+
+PATIENT X52
+Okay.
+
+DOCTOR X52
+And DOCTOR @@@.  Just, I don't @@@ so I'll give you an appointment card.  DOCTOR @@@ doctor.
+
+PATIENT X52
+Yeah.
+
+DOCTOR X52
+And you can't burn out.
+
+PATIENT X52
+Right.
+
+DOCTOR X52
+You're gonna call me and let me know.  So you're going to @@@ and then @@@ stop on the x-rays on the first floor Radiology and the Pharmacy.
+
+PATIENT X52
+Okay.
+
+DOCTOR X52
+Okay.
+
+PATIENT X52
+Okay thank you.
+
+DOCTOR X52
+You're welcome.  
+
+PATIENT X52
+@@@.
+
+DOCTOR X52
+You're welcome.
+
+PATIENT LEAVES 62:51
+Time is 3 o'clock.
+
+
+
+

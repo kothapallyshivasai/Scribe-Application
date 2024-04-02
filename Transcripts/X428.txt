@@ -1,0 +1,755 @@
+
+PATIENT X428
+DOCTOR.
+
+DOCTOR X428
+Come in. 
+
+PATIENT X428
+I'm okay, how you doing?
+
+DOCTOR X428
+How you doing?
+
+PATIENT X428
+@@@.
+
+DOCTOR X428
+So we haven't seen you since September huh?
+
+PATIENT X428
+Was it September, okay.
+
+DOCTOR X428
+Uh-huh.  Back then you were having some, you were getting shortness of breath when you were walking so we had you.
+
+PATIENT X428
+Oh yeah and that was when uh they took me off those water pills. 
+
+DOCTOR X428
+Oh right.
+
+PATIENT X428
+Yeah and that seemed to did it.
+
+DOCTOR X428
+Really.
+
+PATIENT X428
+You know, it looks like they was making me feel tired.
+
+DOCTOR X428
+Okay.
+
+PATIENT X428
+Yeah so I feel better now but uh.
+
+DOCTOR X428
+You feel better now?
+
+PATIENT X428
+Yes.
+
+DOCTOR X428
+So you think it was going off that water pill that did it?
+
+PATIENT X428
+I think why.  At first I thought it was the @@@ but it was doing it, it make me feel tired you know.
+
+DOCTOR X428
+Okay.
+
+PATIENT X428
+But uh the water pills, he cut me, he took me off the water pills.
+
+DOCTOR X428
+Okay.
+
+PATIENT X428
+I was taking a half of them.
+
+DOCTOR X428
+Right, right and we just stopped it all together.
+
+PATIENT X428
+Right.
+
+DOCTOR X428
+Right.
+
+PATIENT X428
+And then too I had a little notation here that, uh I was a little tired and @@@ a little stronger.  Okay it was a medicine that I may cancel, uh @@@. 
+
+DOCTOR X428
+You want to get rid of some medicines?
+
+PATIENT X428
+Yeah I wants to know if there are any that I shouldn't have, shouldn't take.
+
+DOCTOR X428
+You shouldn't have any more.
+
+PATIENT X428
+Uh-huh.
+
+DOCTOR X428
+Well what are you taking right now?  Cause I have a list here but.
+
+PATIENT X428
+I take uh about six different medicines now, including the aspirin.  I take uh omeprazole and not the white pills.
+
+DOCTOR X428
+Lisinopril?
+
+PATIENT X428
+Yeah for the cholesterol.
+
+DOCTOR X428
+The simvastatin.  You need that one.
+
+PATIENT X428
+Yeah I need that one and uh.
+
+DOCTOR X428
+The lisinopril you need to.
+
+PATIENT X428
+The what?
+
+DOCTOR X428
+The lisinopril for your blood pressure.
+
+PATIENT X428
+Oh right yeah.
+
+DOCTOR X428
+Um I was actually thinking we might want to increase that today because your blood pressures have been high.
+
+PATIENT X428
+Yeah and there too, I got a notation of my blood pressures.
+
+DOCTOR X428
+Oh good that you have this.
+
+PATIENT X428
+Uh it's somewhat yeah but he was changing it the last time but he said I was a little late.  
+
+DOCTOR X428
+Yeah so it's just, it's running a little on the high side.  Not bad but you know 140s, 150s, I'm seeing a lot of those.  So I think we could go up on the lisinopril cause I think you need to uh.
+
+PATIENT X428
+Okay and uh you know I don't feel no pain or nothing but for the last about couple two or three weeks it feels like a little blood around my @@@.
+
+DOCTOR X428
+Blood in there.
+
+PATIENT X428
+Uh-huh I told the lady about it that was taking my blood pressure a while ago.
+
+DOCTOR X428
+Uh-huh.
+
+PATIENT X428
+And she said tell the doctor.
+
+DOCTOR X428
+Yeah that's fine.  But it feels like, does it feel like it's going back or?
+
+PATIENT X428
+Uh it feels like, just like when I take a belch it uh, then it feels better you know.  There's no pain just a lot of @@@ right here.
+
+DOCTOR X428
+Okay.  Can you feel it beating?  Does it feel like it beats faster or does it skip beats or?
+
+PATIENT X428
+It now that seems like a little thing and then sometimes it will skip a lot of beats though.
+
+DOCTOR X428
+It feels like you skip a beat okay.  @@@.  When does it usually happen?
+
+PATIENT X428
+Oh it just, it mostly uh when I do a little extra work uh moving around you know.
+
+DOCTOR X428
+When you're moving around.
+
+PATIENT X428
+I feel it.
+
+DOCTOR X428
+Do you exercise?
+
+PATIENT X428
+No, no.
+
+DOCTOR X428
+Do you up stairs much?
+
+PATIENT X428
+Uh-huh I got stairs.
+
+DOCTOR X428
+Do you get it more when you go up the stairs?  At that point?
+
+PATIENT X428
+Just when I get a little tired, doing a little extra work or something.
+
+DOCTOR X428
+Doing a little extra work okay.  
+
+PATIENT X428
+There's no pain just it feels like it's just a flutter.
+
+DOCTOR X428
+Fluttering.
+
+PATIENT X428
+Uh-huh.
+
+DOCTOR X428
+Right.
+
+PATIENT X428
+And when I think that like I belch or something like that uh and then it feels like it goes away.
+
+DOCTOR X428
+Better when you belch okay.  It feels regular now but you don't feel it right now right?  
+
+PATIENT X428
+No.
+
+DOCTOR X428
+You're not feeling it right now the flutters?
+
+PATIENT X428
+No, no.  Off and on.
+
+DOCTOR X428
+Off and on.  How many times do you get it?  The flutters?
+
+PATIENT X428
+Oh practically uh every day.
+
+DOCTOR X428
+About every day.
+
+PATIENT X428
+Yeah off and on.  And sometimes I was wondering if wasn't gas or when I'm having it or something.
+
+DOCTOR X428
+Well I mean it's getting better with belching it sounds like it could be gas but the fluttering and feeling like it might skip a beat.
+
+PATIENT X428
+Hmm.
+
+DOCTOR X428
+That's sounds more like the heart and it's not uncommon actually to have skipped beats.
+
+PATIENT X428
+Uh-huh.
+
+DOCTOR X428
+I get them sometimes too.  I can feel it.  Um if you get it, it's a normal thing.  It's not a big deal.
+
+PATIENT X428
+Uh-huh.
+
+DOCTOR X428
+Um but when it happens more often or you start to feel short of breath.
+
+PATIENT X428
+Uh-huh.
+
+DOCTOR X428
+Or pain or you start to have symptoms because of it then we start to worry.
+
+PATIENT X428
+Hmm.
+
+DOCTOR X428
+Um so I don't know.
+
+PATIENT X428
+There's no pain.
+
+DOCTOR X428
+No pain at all.
+
+PATIENT X428
+No pain.  Cause I have a certain alert related to my service that uh you know before I went in the service the doctor told me I had to go to a doctor once and he said uh the Army would never take you.  Oh I said why and he says because you have a weakness of the heart and then he said well if you happen to live right he says because at your age you would outgrow it.
+
+DOCTOR X428
+Oh okay.
+
+PATIENT X428
+So like when I went into the service I took my physical to go into the service and in the service the doctor looked at what the other doctor had told me a few years ago and he said no, he said your heart is alright now.
+
+DOCTOR X428
+Yeah.  We've looked at your heart a few times and it looks okay.
+
+PATIENT X428
+Yeah.
+
+DOCTOR X428
+Actually it looks okay.
+
+PATIENT X428
+He said if you had a weakened heart we would not take you in here.  I think I have all of the questions that I had to ask you right here oh yeah.  And you think I should increase what'd you say the, what is that uh cholesterol.
+
+DOCTOR X428
+No the lisinopril it's the blood pressure medicine.
+
+PATIENT X428
+Oh for the blood pressure.
+
+DOCTOR X428
+And it helps you with depression too.
+
+PATIENT X428
+Yeah.
+
+DOCTOR X428
+It helps your heart.  It's a good medicine.
+
+PATIENT X428
+Hmm.
+
+DOCTOR X428
+Alright so what I'll do here for you so I think we can increase that.  Do you need refills on anything else?
+
+PATIENT X428
+Oh, oh I think I actually I need refills on practically all of them but see I have some medicine but I think they all is low.  They need to be updated.
+
+DOCTOR X428
+Okay.  Are you still smoking?
+
+PATIENT X428
+No, no, I don't smoke and don't drink no more cause they told me not to drink and don't smoke.
+
+DOCTOR X428
+When did you quit smoking?
+
+PATIENT X428
+Oh 201, that's when I was told.
+
+DOCTOR X428
+Oh great.
+
+PATIENT X428
+And then I told them I quit drinking then they asked because I was a heavy drinking and I said I wasn't gonna throw it away but I said when I finish I would stop.
+
+DOCTOR X428
+Okay.
+
+PATIENT X428
+Then I ended up stopping for maybe a couple years and then I started back for about six months and then I stopped again and that's it.
+
+DOCTOR X428
+Okay so you've stopped for good.
+
+PATIENT X428
+I have.
+
+DOCTOR X428
+That's great news.
+
+PATIENT X428
+Hung it up for good.
+
+DOCTOR X428
+Well that's great.  Okay.  And you never and you've had high blood pressure for now long?
+
+PATIENT X428
+Oh I don't know but it was during the time I was drinking they said that my blood pressure was high but I think it was because I was a heavy drinker.
+
+DOCTOR X428
+Yeah.
+
+PATIENT X428
+And uh that had something to do with it but now it, at first it was would kind of be normal like you know.
+
+DOCTOR X428
+Uh-huh.
+
+PATIENT X428
+But then all of a sudden it started going back up again.
+
+DOCTOR X428
+Okay.  So yeah.
+
+PATIENT X428
+And I know she checked it over here just a while ago and it seemed to be high.  I guess because I told her I had been drinking some coffee this morning and then she took it again and it was, it was much better.
+
+DOCTOR X428
+It was better yeah.  Still a little high.
+
+PATIENT X428
+Yeah.
+
+DOCTOR X428
+We can get it better but it's not bad.  It's actually not bad.  Have you thought about whether you want to do a colonoscopy for the colon cancer screening?
+
+PATIENT X428
+Uh.
+
+DOCTOR X428
+We talked about it last time.
+
+PATIENT X428
+Yeah for the colon uh now I don't have no problem uh you know, no pain around my rectum and I don't have no bleeding and nothing like that but.
+
+DOCTOR X428
+Yeah.
+
+PATIENT X428
+So uh I'd just rather hold off on that for a while.
+
+DOCTOR X428
+You don't want to do it okay.
+
+PATIENT X428
+And what you call the other prostate I had that and it came out good.
+
+DOCTOR X428
+Yeah, yeah it looks okay alright.
+
+PATIENT X428
+So I had that.
+
+DOCTOR X428
+Have you had your flu shots?
+
+PATIENT X428
+No.  I had one shot she gave me but they didn't have the swine flu, you know what you call it, the swine.
+
+DOCTOR X428
+H1N1?
+
+PATIENT X428
+Yeah they didn't have that in at the time.
+
+DOCTOR X428
+You want to get that today?
+
+PATIENT X428
+Yeah I can get that shot.
+
+DOCTOR X428
+Okay.
+
+PATIENT X428
+If it's not free I don't want it.
+
+DOCTOR X428
+I had to get it.  It's actually a little bit more mild than the other two shots.
+
+PATIENT X428
+Yeah.
+
+DOCTOR X428
+Depending on where you have it.
+
+PATIENT X428
+I know that they was talking about it they had to send it back in and it wasn't right or something like that.
+
+DOCTOR X428
+Oh yeah right.
+
+PATIENT X428
+But I guess they got all that straightened out.
+
+DOCTOR X428
+I think they got it straightened out.  They got it straightened out.  So you were taking medicine for your stomach for your acid reflux before called omeprazole.
+
+PATIENT X428
+Yes.
+
+DOCTOR X428
+Or Prilosec or Prevacid kind of thing.
+
+PATIENT X428
+Yeah that's what I was concerned about.  Now what was that really for?
+
+DOCTOR X428
+You were having reflux, the acid reflux symptoms.  I think that was why you were on it.  Do you tend to have it?
+
+PATIENT X428
+It was a capsule.
+
+DOCTOR X428
+Yeah.
+
+PATIENT X428
+No uh I think I was taking it because I was a heavy, used to be a heavy drinker and it what is it for, for gas or what?
+
+DOCTOR X428
+It suppresses the acid in the stomach so there's less acid in the stomach which means you get less symptoms of reflux coming up that would cause you know like burning you know belching, getting up at night, mainly burning pain at night and after meals.
+
+PATIENT X428
+Now I.
+
+DOCTOR X428
+Are you having any problems with that?
+
+PATIENT X428
+The only problem I have mostly is like a try to clear my throat like that.
+
+DOCTOR X428
+Okay.
+
+PATIENT X428
+And.
+
+DOCTOR X428
+But at night do you get burning sensation or a taste in the back of your mouth?
+
+PATIENT X428
+No.
+
+DOCTOR X428
+Okay so you probably don't need it anymore.
+
+PATIENT X428
+Yeah that's the only thing.  I thought it was for; for like to clear my throat like at sometime I had the and uh do that.
+
+DOCTOR X428
+Hmm.
+
+PATIENT X428
+But otherwise if it was for acid or something coming up I mean.
+
+DOCTOR X428
+You don't need that okay.  
+
+PATIENT X428
+But I still have some, @@@.  You know I taste them.
+
+DOCTOR X428
+But you can take it you want to if you feel that.
+
+PATIENT X428
+Uh it'd be up to it's just really up to me.
+
+DOCTOR X428
+Yeah you can choose.
+
+PATIENT X428
+Oh okay.
+
+DOCTOR X428
+I mean if you start to get that burning, acid reflux.
+
+PATIENT X428
+Uh-huh.
+
+DOCTOR X428
+You know right after you eat a meal you just.
+
+PATIENT X428
+The gas.
+
+DOCTOR X428
+Gas.  Pain you can take then.
+
+PATIENT X428
+Sometime I was wondering if that was caused my heart you know.
+
+DOCTOR X428
+Well the fluttering probably not but you know like if it's skipping a beat.
+
+PATIENT X428
+Yeah and it just goes like something like fluttering when I'm.
+
+DOCTOR X428
+Yeah @@@ yeah that's fine.  Sounds very regular.  Deep breath and again.  I'm going to go talk to DOCTOR and I'll be right back okay.
+
+PATIENT X428
+Okay.  Okay.
+
+(DOCTOR OUT:  62:25  DOCTOR IN:  78:10)
+
+DOCTOR X428
+We need to @@@.
+
+PATIENT X428
+Okay.
+
+DOCTOR X428
+Um okay so we're just gonna do one thing today.  We're gonna have you go up to the third floor of the xxx Building.
+
+PATIENT X428
+Uh-huh.
+
+DOCTOR X428
+And get an EKG of your heart.
+
+PATIENT X428
+Uh-huh.
+
+DOCTOR X428
+Today and um when you get it come back down to the clinic and I want to take a look at it.
+
+PATIENT X428
+Okay.  Come back here.
+
+DOCTOR X428
+Yeah you'll go up, they'll put some stickers on your chest, they'll take an EKG.
+
+PATIENT X428
+Yeah.
+
+DOCTOR X428
+Uh make sure that the rhythm is okay um.
+
+PATIENT X428
+Uh again I was wondering about me, when I was taking the medicine.
+
+DOCTOR X428
+Uh-huh.
+
+PATIENT X428
+The one time I was, I was taking uh the drug you got too many pills at one time.  I mean you know right together.
+
+DOCTOR X428
+Oh.
+
+PATIENT X428
+But I started spacing them off now.  I take two uh in the morning and you know and then I wait.  I take them about an hour apart yeah.
+
+DOCTOR X428
+Okay.  Did that help?
+
+PATIENT X428
+Yeah that seemed to be, @@@ like when I would take it in the a.m. at one time it look like that when I started getting it.
+
+DOCTOR X428
+Oh okay, alright.  Well if that's helping.  You feel like, has it gotten better recently, the fluttering?
+
+PATIENT X428
+Uh-huh.
+
+DOCTOR X428
+It has.
+
+PATIENT X428
+Oh yeah.
+
+DOCTOR X428
+Good okay.  Well why don't you go ahead and have this because.
+
+PATIENT X428
+Yeah I can still go over.
+
+DOCTOR X428
+It's a really quick thing.
+
+PATIENT X428
+Right, right.
+
+DOCTOR X428
+Um and then come back down here.
+
+PATIENT X428
+Right.
+
+DOCTOR X428
+And to this hallway and we'll take a look at it.
+
+PATIENT X428
+And you said to get the flu shot or something.
+
+DOCTOR X428
+Oh yeah H1N1 yeah you can get that.
+
+PATIENT X428
+Uh when I come back?
+
+DOCTOR X428
+Yeah.  So.
+
+PATIENT X428
+You updated all the medications right?
+
+DOCTOR X428
+Yeah.
+
+PATIENT X428
+Uh-huh.
+
+DOCTOR X428
+The reason I want you to take the lisinopril.
+
+PATIENT X428
+The what?
+
+DOCTOR X428
+The lisinopril that you take.
+
+PATIENT X428
+Uh-huh.
+
+DOCTOR X428
+I want you to take, instead of taking a half tab.
+
+PATIENT X428
+Uh-huh.
+
+DOCTOR X428
+Take one whole tablet.
+
+PATIENT X428
+Uh-huh.
+
+DOCTOR X428
+There okay.
+
+PATIENT X428
+Okay.
+
+DOCTOR X428
+Instead of taking uh 10 mg a day you'll take 20 mg a day.
+
+PATIENT X428
+Okay.
+
+DOCTOR X428
+Okay uh and I'll change it in the computer so when they send it to you in the mail you'll get more.
+
+PATIENT X428
+Okay then.
+
+DOCTOR X428
+@@@.
+
+PATIENT X428
+Okay.  So @@@.
+
+DOCTOR X428
+The third floor of the xxx Building.
+
+PATIENT X428
+Oh over there.
+
+DOCTOR X428
+Yeah it's called the Heart Station.
+
+PATIENT X428
+Uh-huh.
+
+DOCTOR X428
+Okay.
+
+PATIENT X428
+Okay.
+
+DOCTOR X428
+Alright we'll see you a little bit later.
+
+PATIENT X428
+Okay man.
+
+PATIENT LEAVES:  80:47
+
+
+
+

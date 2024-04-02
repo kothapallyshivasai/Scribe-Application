@@ -1,0 +1,1221 @@
+
+DOCTOR X65
+PATIENT?
+
+PATIENT X65
+Oh.
+
+DOCTOR X65
+@@@.
+
+PATIENT X65
+Yes it is thank you.  @@@.
+
+DOCTOR X65
+I'm DOCTOR, nice to meet you.
+
+PATIENT X65
+Nice to meet you.
+
+DOCTOR X65
+If you want to take your coat off here, okay.  
+
+PATIENT X65
+Keep the hospital warm here huh.
+
+DOCTOR X65
+@@@.
+
+PATIENT X65
+It's warm in here @@@.
+
+DOCTOR X65
+Oh @@@.
+
+PATIENT X65
+@@@ warm.
+
+DOCTOR X65
+Yeah, yes.
+
+PATIENT X65
+@@@ blood pressure to go up too.
+
+DOCTOR X65
+@@@.  Oh what can I do for you today?
+
+PATIENT X65
+I have an issue for @@@ have uh osteoarthritis.
+
+DOCTOR X65
+Uh-huh.
+
+PATIENT X65
+In my left spine.
+
+DOCTOR X65
+Okay.
+
+PATIENT X65
+And for about a week and a half @@@ I have pain right here in my back that radiates to my thigh.
+
+DOCTOR X65
+Okay.
+
+PATIENT X65
+And my thigh throbs and hurts real bad.
+
+DOCTOR X65
+Okay.
+
+PATIENT X65
+And I've been through an ultrasound and everything to make sure it wasn't a clot uh.
+
+DOCTOR X65
+Yeah.
+
+PATIENT X65
+@@@.  I just wondered if you had any idea for that part of my, you know, it's the lower back is where the problem is so.
+
+DOCTOR X65
+Okay.
+
+PATIENT X65
+You know.
+
+DOCTOR X65
+Is it more on the right side or the left side?
+
+PATIENT X65
+Right side.
+
+DOCTOR X65
+And you said the problem was pain.
+
+PATIENT X65
+@@@ or anything like that.
+
+DOCTOR X65
+@@@ okay.  
+
+PATIENT X65
+So.
+
+DOCTOR X65
+Is that something new or have you had @@@?
+
+PATIENT X65
+It happened before, it happened about six months ago but.
+
+DOCTOR X65
+Okay.
+
+PATIENT X65
+And especially lately.  I mean I go to a civilian doctor too and I'm switching my care from here on so.  He gave me blood pressure pills and he got me a @@@.  I have a duodenal ulcer and I have a hiatal hernia.  They had me on @@@ and I put 15 pounds on in a month.
+
+DOCTOR X65
+Okay.
+
+PATIENT X65
+Easily in a month, month and a half.  @@@ I know it's probably more of a back problem.
+
+DOCTOR X65
+Uh-huh.
+
+PATIENT X65
+@@@.
+
+DOCTOR X65
+Does it make it difficult to walk at all?
+ 
+PATIENT X65
+Uh it's more of just a knawing pain you know.
+
+DOCTOR X65
+Do you get it every day?
+
+PATIENT X65
+Uh almost every day yeah.  It comes and goes.
+
+DOCTOR X65
+What makes it worse?
+
+PATIENT X65
+Standing, walking.
+
+DOCTOR X65
+Uh-huh and what makes it better?
+
+PATIENT X65
+Laying down, relaxing you know.
+
+DOCTOR X65
+Do you take anything for the pain?
+
+PATIENT X65
+I was taking Naproxen.  I had a doctor that gave me some pills and.
+
+DOCTOR X65
+Uh-huh.
+
+PATIENT X65
+I didn't really took them @@@.  I'm taking 500 mg of Naproxen.
+
+DOCTOR X65
+Does it help at all?
+
+PATIENT X65
+A little bit not much.
+
+DOCTOR X65
+Okay.
+
+PATIENT X65
+But uh I do, I work in an industrial environment.
+
+DOCTOR X65
+Uh-huh.
+
+PATIENT X65
+He gave me Flexeril and.
+
+DOCTOR X65
+Did that help?
+
+PATIENT X65
+I @@@.
+
+DOCTOR X65
+Okay.
+
+PATIENT X65
+In my environment I couldn't take it so.
+
+DOCTOR X65
+Alright @@@.
+
+PATIENT X65
+And I'm not going to take it unless I have @@@.
+
+DOCTOR X65
+Exactly, okay.  Um any problems going to the bathroom, either constipated or you go and can't make it to the bathroom?
+
+PATIENT X65
+No, no.  Like I said I have @@@ to go, I get a lot of gas and.
+
+DOCTOR X65
+Okay.
+
+PATIENT X65
+Sort of right groin pain.
+
+DOCTOR X65
+Okay.  Right groin pain.
+
+PATIENT X65
+A little bit, not heavy, it's mostly actually when I have the pain here.
+ 
+DOCTOR X65
+Okay, the kidney pain okay.  Um and any difficulty urinating?
+
+PATIENT X65
+No.
+
+DOCTOR X65
+Okay or any incontinence at all?  Any numbness from your like around your anal area at all?
+
+PATIENT X65
+No, no.
+
+DOCTOR X65
+Okay.  And um and nothing in your left leg?
+
+PATIENT X65
+No not that I know.
+
+DOCTOR X65
+Uh-huh, okay um I need to see you bend the left.  @@@.
+
+PATIENT X65
+Are you gonna graduate in December?
+
+DOCTOR X65
+November 09.
+
+PATIENT X65
+November.
+
+DOCTOR X65
+09, yeah, almost December.
+
+PATIENT X65
+I also have another issue.
+
+DOCTOR X65
+Yeah.
+
+PATIENT X65
+@@@ one at a time.   I have a mole on my neck I want to get removed.
+
+DOCTOR X65
+Okay.
+
+PATIENT X65
+It really bothers me.  I keep picking it @@@.
+
+DOCTOR X65
+Okay.
+
+PATIENT X65
+And it hurts.
+
+DOCTOR X65
+Okay, okay.  Has it increased in size?
+
+PATIENT X65
+Yes it has.  It's gotten a lot larger I'd like for you to look at it.
+
+DOCTOR X65
+Okay.
+
+PATIENT X65
+And I have a bunch of little ones around it now too, sort of weird.
+
+DOCTOR X65
+And your civilian doctor you said, have you checked for your glucose levels?
+
+PATIENT X65
+They've done a lot of testing.  I have quite.  I'm on Novena and cholesterol meds as well cause I have high cholesterol.
+
+DOCTOR X65
+Okay.
+
+PATIENT X65
+Um.
+
+DOCTOR X65
+How about diabetes?
+
+PATIENT X65
+They said I was good, I think it was 84 or something like that.
+
+DOCTOR X65
+Okay.
+
+PATIENT X65
+That was almost uh eight months, nine months ago though, the last time I checked.
+
+DOCTOR X65
+Okay.
+
+PATIENT X65
+So.
+
+DOCTOR X65
+Okay, um.  Let me see.  Do you have a list of your medications that you're taking?
+
+PATIENT X65
+Yes.
+
+DOCTOR X65
+Let me see what you have on this compared to what we have here.
+
+PATIENT X65
+I haven't been here in a while.
+
+DOCTOR X65
+Come over here.  Can I see your list of medications?
+
+PATIENT X65
+Uh I don't have a list but I can say what my meds are okay.
+
+DOCTOR X65
+Oh you don't have the list, that's okay.
+
+PATIENT X65
+I'm on uh 60 mg of Actonel @@@ every day.
+
+DOCTOR X65
+Atenolol okay.  Is that for depression?
+
+PATIENT X65
+I'm on.  Yes uh-huh and it's usually once a day but I haven't taken my pill today so.
+
+DOCTOR X65
+Oh okay.
+
+PATIENT X65
+Probably my blood pressure is a little high.
+
+DOCTOR X65
+Okay.  It will be.
+
+PATIENT X65
+Um I'm also on @@@ which is fish oil, @@@.
+
+DOCTOR X65
+How much?
+
+PATIENT X65
+It's 4 mg a day.
+
+DOCTOR X65
+Okay.
+
+PATIENT X65
+Oh I'm sorry 4 grams a day, 4 milligrams.
+
+DOCTOR X65
+Okay.
+
+PATIENT X65
+Milligrams a day, pretty low, 4 grams.
+
+DOCTOR X65
+Okay.
+
+PATIENT X65
+And I'm on Nexium 40 mg of Nexium.  I think that I, I don't know I'm putting weight on like crazy and I mean my diet is not the greatest and I don't have a lot of exercise but I mean just to put.  I work at another part-time company and I work full-time during the week and I got two kids and you know so I'm moving around a lot.  It's like I'm just sitting there you know.
+
+DOCTOR X65
+Right.
+
+PATIENT X65
+And it's like as soon as I started some of these @@@.  I feel bloated and you know.
+
+DOCTOR X65
+Well let me examine you.  If you mind taking off your shoes and socks and then taking a seat right here okay.
+
+PATIENT X65
+You asked about diabetes.
+
+DOCTOR X65
+Yes.
+
+PATIENT X65
+Obviously a drop in sugar would be typical for diabetes right.
+
+DOCTOR X65
+Um drop in sugar could, I mean you mean with dizziness?
+
+PATIENT X65
+Once in a while, like just now before I was here, @@@ too I'm sweating here but um.  I have this thing where I feel sort of like I have pain in my stomach like a real hunger pain, hunger pain.
+
+DOCTOR X65
+Uh-huh.
+
+PATIENT X65
+And I'll start sweating and I'll start feeling shaky.
+
+DOCTOR X65
+Oh okay.
+
+PATIENT X65
+Like I thought that might be due.
+
+DOCTOR X65
+Yeah it could be if you don't have enough insulin.
+
+PATIENT X65
+Right.
+
+DOCTOR X65
+To settle the sugar into the cells then your cells think that there isn't any sugar around and it could have that type of affect on you and sometimes people who have.
+
+PATIENT X65
+You want my socks off too?
+
+DOCTOR X65
+Yes I do.
+
+PATIENT X65
+Uh you might not.
+
+DOCTOR X65
+Please, you can only imagine what I smell @@@.
+
+PATIENT X65
+I can't smell.
+
+DOCTOR X65
+I know.  You might have a problem.  So uh sometimes insulin insensitivity can manifest by skin tags on the neck.
+
+PATIENT X65
+I have a lot of them.
+
+DOCTOR X65
+Yeah they will probably ask you to test your sugars.
+
+PATIENT X65
+@@@ good.  I mean I was fasting.
+
+DOCTOR X65
+When was that?
+
+PATIENT X65
+My God it's been a while, I think seven or eight months.
+
+DOCTOR X65
+Okay.  Here have a seat.
+
+PATIENT X65
+@@@.
+
+DOCTOR X65
+Um no let me just @@@.  Let me start with @@@.  @@@ eyes @@@.  The @@@ tight.  Open and raise your eyebrows, @@@.  Good @@@.  Lifting your arms, turn your palms up, @@@ good.  And the right @@@ lift it towards the ceiling @@@.  @@@.  Okay.  Push me away, good, @@@ good.  How about turn your toes up @@@.  Good.  Alright @@@.  That has to do with reflexes.
+
+PATIENT X65
+@@@ too is reflex.  @@@ where I get like a shakiness I have.  
+
+DOCTOR X65
+Yeah.  And when was the last time you ate?
+
+PATIENT X65
+Uh 11 o'clock and then I got one of those @@@ bags or whatever the.
+
+DOCTOR X65
+Right.  @@@.  Hold your arms like this and on the count of three I want you to pull, one, two, three pull, good.  Okay one, two, three pull good and let your foot drop.  I'm going to pick it up so I can help you.
+
+PATIENT X65
+Let it drop.
+
+DOCTOR X65
+Just let it drop in my hand.
+
+PATIENT X65
+Right.
+
+DOCTOR X65
+Good, @@@.  Deep breath, good and another one, good.  @@@.
+
+PATIENT X65
+Uh-huh.
+
+DOCTOR X65
+@@@.
+
+PATIENT X65
+Yes.
+
+DOCTOR X65
+How about this?
+
+PATIENT X65
+Yes.
+
+DOCTOR X65
+How about this?
+
+PATIENT X65
+Yes.
+
+DOCTOR X65
+Good.  I'm lift this finger up and down, this is up, this is down, I want you to @@@.
+
+PATIENT X65
+Up, up, down, up, down.
+
+DOCTOR X65
+Okay, so.  Go ahead and have a seat.  @@@ further down.  Anything when I press?  @@@?
+
+PATIENT X65
+Where do I get the pain?
+
+DOCTOR X65
+Yes.
+
+PATIENT X65
+Right here.
+
+DOCTOR X65
+@@@.
+
+PATIENT X65
+Yes.  A little farther down?
+
+DOCTOR X65
+Here?
+
+PATIENT X65
+Right about here.
+
+DOCTOR X65
+Right about there good.  @@@.
+
+PATIENT X65
+@@@.
+
+DOCTOR X65
+Have you had any @@@ there?
+
+PATIENT X65
+Uh not that I know of no.
+
+DOCTOR X65
+Okay @@@. Alrighty.
+
+PATIENT X65
+@@@.  I actually went to a masseuse to @@@ because of the pain.
+
+DOCTOR X65
+Uh-huh.
+
+PATIENT X65
+And when she would push on my low back it really hurt.
+
+DOCTOR X65
+Uh-huh.
+
+PATIENT X65
+But eventually it started feeling better.
+
+DOCTOR X65
+Yeah, sit up uh-huh that's good.  @@@.  Tell me if it hurts when I press on your bone.
+
+PATIENT X65
+Right here.
+
+DOCTOR X65
+There.
+
+PATIENT X65
+@@@.
+
+DOCTOR X65
+Yeah.
+
+PATIENT X65
+@@@ on both sides but um, @@@.
+
+DOCTOR X65
+@@@.  Right here?
+
+PATIENT X65
+Uh-huh and when I was little @@@.  I've had this one since I was born.
+
+DOCTOR X65
+Uh-huh.
+
+PATIENT X65
+This one just showed up not like, maybe within a year and a half.
+
+DOCTOR X65
+@@@.
+
+PATIENT X65
+@@@.
+
+DOCTOR X65
+Okay, have a seat.
+
+PATIENT X65
+@@@.
+
+DOCTOR X65
+@@@ not all of them.  Um.
+
+PATIENT X65
+Can I put my socks back on again?
+
+DOCTOR X65
+So, regarding your hip and your legs.  The reason why it's your hip is because groin pain a lot of times is because of a hip problem um.  When people have pain in their hip it radiates to their groin.  Now the side pain I think.
+
+PATIENT X65
+Sciatica?
+
+DOCTOR X65
+No, it's not sciatica.  I don't think it's sciatica at least but um it could be that you have a little bit of a disk herniation.  Cause you're telling me you have burning in that area.  Does it sometimes feel @@@ at all?
+
+PATIENT X65
+@@@ burning @@@.  It sometimes feels like its throbbing @@@.
+
+DOCTOR X65
+Right.
+
+PATIENT X65
+So.
+
+DOCTOR X65
+And so that makes me think its neuropathic pain like sometimes when the disk bulges and hits @@@ spinal cord a little bit.  So and for that type of pain there's something called gabapentin which is for burning.
+
+PATIENT X65
+Uh-huh.
+
+DOCTOR X65
+Nerve pain.
+
+PATIENT X65
+@@@ nerves.  I've had tests on my hands.
+
+DOCTOR X65
+Uh-huh.
+
+PATIENT X65
+They say the nerves in my thumb are shot.
+
+DOCTOR X65
+Oh, where they put the needle in there and.
+
+PATIENT X65
+They put an electric shock on my hand.
+
+DOCTOR X65
+Right, right.
+
+PATIENT X65
+And they said @@@ cause I had the carpal tunnel the VA took care of.
+
+DOCTOR X65
+Right.
+
+PATIENT X65
+But uh doctor out there tried to put me on uh Cymbalta.
+
+DOCTOR X65
+Yeah.
+
+PATIENT X65
+For nerve pain.
+
+DOCTOR X65
+Uh-huh.
+
+PATIENT X65
+I never took it.
+
+DOCTOR X65
+Okay.
+
+PATIENT X65
+@@@ but.
+
+DOCTOR X65
+So the gabapentin, I know you said you worked with machines.
+
+PATIENT X65
+I work with machines.
+
+DOCTOR X65
+Gabapentin can make you sleepy but that's if you start taking it the 300 mg three times a day.  What I would recommend is the following.  I want to get uh an x-ray of your hip.
+
+PATIENT X65
+Okay.
+
+DOCTOR X65
+And if @@@ and then you had those spine films which look fine but you could be getting some neuropathic pain.  I think an MRI would be a good idea.  Are you claustrophobic?
+
+PATIENT X65
+No.
+
+DOCTOR X65
+Okay.  So um, have you had an MRI before?
+
+PATIENT X65
+Yeah.
+
+DOCTOR X65
+Okay so @@@.
+
+PATIENT X65
+I can't.
+
+DOCTOR X65
+@@@.
+
+PATIENT X65
+My wife @@@, 11 years ago, 12 years ago.
+
+DOCTOR X65
+Okay, okay.
+
+PATIENT X65
+@@@.
+
+DOCTOR X65
+Okay, alright.  So we'll set you up for a @@@ if you're claustrophobic or not.
+
+PATIENT X65
+(Laughter)
+
+DOCTOR X65
+Um, just to see if the disk is coming out and um, @@@ test I want to do and in the meantime for this pain because of the discomfort that you're having I want to start the gabapentin and that is a dose that can be titrated up to 1000 mg three times a day.
+
+PATIENT X65
+Okay.
+
+DOCTOR X65
+I'm gonna start you on a lower dose though because it can really knock you out if you take it.
+
+PATIENT X65
+Is this an anti-inflammatory or?
+
+DOCTOR X65
+No it's not.  It is specifically for this burning, throbbing pain.
+
+PATIENT X65
+Okay.
+
+DOCTOR X65
+But I want you to start taking 300 mg at night.
+
+PATIENT X65
+Okay.
+
+DOCTOR X65
+And then.
+
+PATIENT X65
+For the neuropathic pain.
+
+DOCTOR X65
+@@@ at night and then you build tolerance to it and then you take it twice a day, once at night for a week then twice a day
+for a week and then three times a day.
+
+PATIENT X65
+Okay.
+
+DOCTOR X65
+If you notice at any time that one of those doses makes you too sleepy then go back to the lower dose two times a day or one time a day.
+
+PATIENT X65
+I can mix with the meds I do now?
+
+DOCTOR X65
+Yeah, definitely yes.
+
+PATIENT X65
+@@@ I mean like I said it got real bad.  Well I had heat stroke.
+
+DOCTOR X65
+Uh-huh.
+
+PATIENT X65
+And this Nexium, I first had uh what's that stuff called, @@@ no, no it's the other.
+
+DOCTOR X65
+Prilosec.
+
+PATIENT X65
+It's a @@@ something else.
+
+DOCTOR X65
+Lansoprazole.
+
+PATIENT X65
+Yes.
+
+DOCTOR X65
+Okay.
+
+PATIENT X65
+I had that and I started getting, I had my statin at the time for my cholesterol.
+
+DOCTOR X65
+Oh no.
+
+PATIENT X65
+Oh yeah I took it and oh God.
+
+DOCTOR X65
+Oh no.
+
+PATIENT X65
+And so I started and then I lost some weight then I was looking at doing herbal stuff and @@@ for a while and I DOCTOR approved that fish oil.
+
+DOCTOR X65
+I'm glad you brought that up so the weight issue.
+
+PATIENT X65
+Yeah.
+
+DOCTOR X65
+And with any time of uh like muscular pain.  Especially if you have some disk herniation, the weight loss.
+
+PATIENT X65
+Weight loss right.
+
+DOCTOR X65
+The @@@.
+
+PATIENT X65
+Oh how do you, the @@@ makes you gain weight.
+
+DOCTOR X65
+Right.
+
+PATIENT X65
+I know doctors say some of that is not true.
+
+DOCTOR X65
+Right.
+
+PATIENT X65
+But every @@@ that I've talked to.
+
+DOCTOR X65
+@@@.
+
+PATIENT X65
+30 or 40 pounds of weight gain within a short time.
+
+DOCTOR X65
+Yeah.  Um, that's why @@@.  Well in terms of specifics, especially because you have @@@ ulcers, @@@ is important.
+
+PATIENT X65
+Yes.
+
+DOCTOR X65
+Um and so I know you say you've been trying to eat healthy and you move a lot at work.
+
+PATIENT X65
+Definitely right.
+
+DOCTOR X65
+And you have consistent activity.
+
+PATIENT X65
+Right.
+
+DOCTOR X65
+You know instead of short bursts.
+
+PATIENT X65
+Right short bursts and whatever right.
+
+DOCTOR X65
+What we usually look for is consistent activity to keep your heart rate elevated for a half an hour and so you probably work long hours as well but if there's any way that you can fit in some type of physical activity.
+
+PATIENT X65
+@@@.
+
+DOCTOR X65
+At least three times a week and then really cut out @@@.
+
+PATIENT X65
+@@@ it was like a trail mix.
+
+DOCTOR X65
+Okay, okay.
+
+PATIENT X65
+The raisins @@@.
+
+DOCTOR X65
+Okay, okay, that's not too bad.
+
+PATIENT X65
+Sunflowers and.
+
+DOCTOR X65
+@@@  But you know eating healthy so um and I'm not saying completely take you out @@@ diet because then people won't do it but if you know @@@ if you have that multiple times a day or multiple times a week just limit it to once a week.  If you have that fluid every day, @@@.  You know @@@.
+
+PATIENT X65
+I'm trying to lose some weight though.
+
+DOCTOR X65
+Okay, just start and then cut out @@@.
+
+PATIENT X65
+@@@.
+
+DOCTOR X65
+So stuff like that will help and then hopefully with the losing weight and then the last thing I can give @@@ offer you physical therapy.
+
+PATIENT X65
+Okay.
+
+DOCTOR X65
+And so they can you know show you strengthening exercises specifically you know after you get the MRI done uh, what we can do is wait to see what the MRI results are and if there are some abnormalities then Physical Therapy can work with you.
+
+PATIENT X65
+Okay.
+
+DOCTOR X65
+Okay.
+
+PATIENT X65
+@@@ therapy?
+
+DOCTOR X65
+I don't know.
+
+PATIENT X65
+Okay.
+
+DOCTOR X65
+@@@ okay.
+
+PATIENT X65
+Alright.  Also I have these @@@ down my back.
+
+DOCTOR X65
+Yeah.
+
+PATIENT X65
+The first one I found @@@ like three years ago.
+
+DOCTOR X65
+Uh-huh.
+
+PATIENT X65
+I've been finding more, quite a few more.
+
+DOCTOR X65
+Uh-huh.
+
+PATIENT X65
+There were only certain ones that hurt.
+
+DOCTOR X65
+Yeah.
+
+PATIENT X65
+I @@@ sort of spiky whatever.
+
+DOCTOR X65
+Hmm.
+
+PATIENT X65
+But they will cause some pain.
+
+DOCTOR X65
+Uh-huh.
+
+PATIENT X65
+But their uh.
+
+DOCTOR X65
+Well if it's more we can refer you to the dermatologist and you can talk to them also about that.
+
+PATIENT X65
+Okay.
+
+DOCTOR X65
+Cause they would be @@@ as well.
+
+PATIENT X65
+Okay.
+
+DOCTOR X65
+I need to @@@ and I'll be right back.
+
+PATIENT X65
+Alright.
+
+DOCTOR X65
+Alright.
+
+PATIENT X65
+You look awfully young for a doctor.  Are you a PA or you actually a doctor?
+
+DOCTOR X65
+No I'm a doctor.
+
+PATIENT X65
+You are?  @@@.
+
+DOCTOR X65
+Yeah.  @@@.
+
+(DOCTOR OUT:  66:40  DOCTOR IN:  77:31)
+
+DOCTOR X65
+Alright sir.  @@@.
+
+PATIENT X65
+November.
+
+DOCTOR X65
+@@@ thoracic.  @@@ and we want to go look at the lumbar spine, that @@@.
+
+PATIENT X65
+Okay.
+
+DOCTOR X65
+So, I'm gonna order that first, do an x-ray of your lumbar spine and hip.
+
+PATIENT X65
+Okay.
+
+DOCTOR X65
+Based on that, then we'll decide whether to order the MRI or not.  
+
+PATIENT X65
+Yeah.
+
+DOCTOR X65
+If we can see enough from there then.
+
+PATIENT X65
+Okay.
+
+DOCTOR X65
+@@@.  MRI um.  Do you want me to mail the medications to you or?
+
+PATIENT X65
+Sure, yeah @@@.
+
+DOCTOR X65
+So I'd be happy to mail them to you.  So the gabapentin I will order for you.  300 mg three times a day is what you'll take.
+
+PATIENT X65
+@@@.
+
+DOCTOR X65
+You're gonna take one pill of 300 mg for @@@.  I just want you to start with taking one pill at night for a week and then twice a day for a week and then up to three times a day.
+
+PATIENT X65
+@@@?
+
+DOCTOR X65
+@@@.
+
+PATIENT X65
+Okay.
+
+DOCTOR X65
+That should help with that type of pain.  Um.
+
+PATIENT X65
+Is this like something that my body @@@ a day.  Is this going to cause dizziness or anything @@@?
+
+DOCTOR X65
+No, it can cause sleepiness which is why I want you to start taking it at night so that your body can get used to it.
+
+PATIENT X65
+Uh-huh.
+
+DOCTOR X65
+And usually people find that they respond @@@ with it but @@@.
+
+PATIENT X65
+@@@.
+
+DOCTOR X65
+Oh I know, there you go.
+
+PATIENT X65
+Can we get @@@ blood work today.  @@@ It's been a while.
+
+DOCTOR X65
+Sure, which one did you want?
+
+PATIENT X65
+Uh, stick to the cholesterol, @@@.  Blood sugar @@@.
+
+DOCTOR X65
+Okay.
+
+PATIENT X65
+@@@.  Drink or two.
+
+DOCTOR X65
+But you don't drink?
+
+PATIENT X65
+I @@@ heavily.
+
+DOCTOR X65
+Okay.
+
+PATIENT X65
+@@@.  I work full-time for a @@@ manufacturer and I work part-time @@@.
+
+DOCTOR X65
+Oh yeah.  @@@.
+
+PATIENT X65
+@@@.
+
+DOCTOR X65
+Oh wow.
+
+PATIENT X65
+@@@.
+
+
+DOCTOR X65
+@@@.
+
+PATIENT X65
+Yeah.
+
+DOCTOR X65
+So we might as well get a Dermatology right now and uh.
+
+PATIENT X65
+@@@.  I've noticed it for about a year or so.
+
+DOCTOR X65
+So that I don't know.  @@@.
+
+PATIENT X65
+@@@.
+
+DOCTOR X65
+@@@.  I don't know.
+
+PATIENT X65
+@@@.
+
+DOCTOR X65
+@@@ and they'll let you know.  Let's see @@@.  Alright.
+
+PATIENT X65
+Okay.
+
+DOCTOR X65
+And they you can call back to get the results of your blood tests at any time.  Actually you can @@@.
+
+PATIENT X65
+Right.  @@@.  Um and @@@.
+
+DOCTOR X65
+@@@.
+
+PATIENT X65
+Yeah.
+
+DOCTOR X65
+But no later than that.  Okay.
+
+PATIENT X65
+Okay.  It's all good, thanks doc.
+
+DOCTOR X65
+No problem, I hope you feel better okay.
+
+PATIENT X65
+Yeah, yeah.
+
+DOCTOR X65
+And also call for the results of the x-rays too.
+
+PATIENT X65
+Okay.
+
+DOCTOR X65
+Just check back.
+
+PATIENT X65
+Okay.
+
+DOCTOR X65
+Okay.
+
+PATIENT X65
+@@@.
+
+DOCTOR X65
+Alright take care.
+PATIENT LEAVES:  83:47.
+
+Time is 4:05.
+
+
+
+
+
+
+
+

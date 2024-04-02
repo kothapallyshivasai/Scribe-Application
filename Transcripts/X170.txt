@@ -1,0 +1,318 @@
+
+PATIENT X170
+Hi doctor how are you?
+
+DOCTOR X170
+Good how are you?
+
+PATIENT X170
+I'm hanging in there.
+
+DOCTOR X170
+Alright.  What can I help you with today?
+
+PATIENT X170
+Well I had the appointment to see you today.
+
+DOCTOR X170
+Okay.
+
+PATIENT X170
+I thought maybe something come up that you need to talk to me about.
+
+DOCTOR X170
+Um no they were supposed to make an appointment with your primary care DOCTOR.
+
+PATIENT X170
+They were supposed to.
+
+DOCTOR X170
+What happened there?
+
+PATIENT X170
+Ah probably a mix up.
+
+DOCTOR X170
+Alright let's see.  Your blood pressure is good.  Very good so whatever we did last time worked I guess.
+
+PATIENT X170
+Yeah I guess you're right.  I'm glad of that.  You approve of that uh, good.
+
+DOCTOR X170
+So let's see.  We'll see what it's telling us today.  So you just saw DOCTOR right?
+
+PATIENT X170
+I saw him a week ago right.
+
+DOCTOR X170
+And she, sounds like she said everything could stop, everything is doing okay.
+
+PATIENT X170
+Yeah.  But you could look at that, I think my blood and everything, it didn't come up but do you, would have that on the screen or no?
+
+DOCTOR X170
+Uh-huh.  
+
+PATIENT X170
+Could you check that and let me know what's going on, I'd like to know.
+
+DOCTOR X170
+Okay you're blood look, the electrolytes is good.  Um your hemoglobin is still anemic and your platelets are in the right place so your blood counts are good.
+
+PATIENT X170
+Okay.
+
+DOCTOR X170
+Your PSA is very low.
+
+PATIENT X170
+Okay.
+
+DOCTOR X170
+Almost 0 and uh electrolytes, they're just, nothing really to write home about and that's all.
+
+PATIENT X170
+Okay.
+
+DOCTOR X170
+That looks good to.
+
+PATIENT X170
+Okay.
+
+DOCTOR X170
+Your PSA is low for a while, so nothing exciting.
+
+PATIENT X170
+Okay, great.
+
+DOCTOR X170
+Okay alright then we also need to get you the eyes or how @@@.
+
+PATIENT X170
+That's what they did.
+
+DOCTOR X170
+They did, alright.
+
+PATIENT X170
+Okay.
+
+DOCTOR X170
+I'm going to listen to your heart.
+
+PATIENT X170
+Yeah.
+
+DOCTOR X170
+Your heart and lungs.
+
+PATIENT X170
+@@@.
+
+DOCTOR X170
+Okay, take a real deep breath.  Good, any swelling in your legs?
+
+PATIENT X170
+I don't think so.
+
+DOCTOR X170
+No okay.  No looks good, well alright.  Uh so I would just say that it worked since whatever we changed to works, uh can you check it only once in a while for your blood pressures?
+
+PATIENT X170
+Yeah.
+
+DOCTOR X170
+This amlodipine.
+
+PATIENT X170
+Right.
+
+DOCTOR X170
+Okay.
+
+PATIENT X170
+Okay.
+
+DOCTOR X170
+Good.  
+
+PATIENT X170
+That should be sufficient shouldn't it?
+
+DOCTOR X170
+Yeah it's low; it's like 108 so that's good.
+
+PATIENT X170
+Okay.  And I think there's something wrong with that machine cause at the house I get a different reading.
+
+DOCTOR X170
+Really.
+
+PATIENT X170
+Uh-huh.
+
+DOCTOR X170
+Does it give you a higher one?
+
+PATIENT X170
+Yeah.
+
+DOCTOR X170
+Um so what I would say is uh.
+
+PATIENT X170
+Could you try another machine though?
+
+DOCTOR X170
+Um come back for a nursing visit.  Do you have any other appointments?  You have an eye doctor and Hematology on the 20th.  You have an appointment with DOCTOR.
+
+PATIENT X170
+Yeah on the 20th.
+
+DOCTOR X170
+So come here for a blood pressure check, for nursing blood pressure check.
+
+PATIENT X170
+Okay.
+
+DOCTOR X170
+And bring your machine, your home machine.
+
+PATIENT X170
+Okay.
+
+DOCTOR X170
+And so they can correlate to see if it's reading right or not.
+
+PATIENT X170
+Thank you.
+
+DOCTOR X170
+And we'll solve that problem.
+
+PATIENT X170
+Right.
+
+DOCTOR X170
+And other than that um did you get shots, you know the immunization shots?  You didn't so it looks like the flu, I think you should have the flu shot.  Do you want to get flu shot today?
+
+PATIENT X170
+Uh can I wait later?
+
+DOCTOR X170
+You can.
+
+PATIENT X170
+Thanks.
+
+DOCTOR X170
+Alright and did you have a colonoscopy?
+
+PATIENT X170
+I've had one but maybe it's time for another one maybe.
+
+DOCTOR X170
+Let's see.
+
+PATIENT X170
+What do you think?
+
+DOCTOR X170
+Let me see when it was.  You didn't have anything there so it's still good for a couple years alright.
+
+PATIENT X170
+Okay.
+
+DOCTOR X170
+Okay well let me talk to my bosses and we're not doing anything really today.
+
+PATIENT X170
+Thank you.
+
+DOCTOR X170
+But we'll get in two weeks a blood pressure check.
+
+PATIENT X170
+Okay.
+
+DOCTOR X170
+With um your machine in the nurses clinic and we'll have you come back in three months and probably on appointment.  Not that I'm not glad to see you but seeing how you didn't like when we pull patients from one clinic to another.
+
+PATIENT X170
+Oh okay.
+
+DOCTOR X170
+With DOCTOR.  
+
+PATIENT X170
+Alright.
+
+DOCTOR X170
+Alright, I'll be right back.
+
+PATIENT X170
+Thank you, alright.
+(DOCTOR OUT:  17:35  DOCTOR IN:  20:11)
+
+DOCTOR X170
+Alrighty.
+
+PATIENT X170
+Thank you.
+
+DOCTOR X170
+You're all set today.  Do you have enough of refills and everything for your, well why don't you let me just check if you have your medications.
+
+PATIENT X170
+Alright.
+
+DOCTOR X170
+Do you want to have a 90 day supply?
+
+PATIENT X170
+Please.
+
+DOCTOR X170
+To mail you?
+
+PATIENT X170
+Yes, good.
+
+DOCTOR X170
+Okay, you're welcome.  To mail yep.
+
+PATIENT X170
+Good.
+
+DOCTOR X170
+Alright.
+
+PATIENT X170
+Thank you.
+
+DOCTOR X170
+All done.
+
+PATIENT X170
+Alright, thank you again.
+
+DOCTOR X170
+Okay, well just call if there is anything.
+
+PATIENT X170
+Will do and the same to you.
+
+DOCTOR X170
+Okay, you take care.
+
+PATIENT X170
+Yes.
+
+PATIENT LEAVES:  21:03
+
+Time is 4:10.
+
+
+
+

@@ -1,0 +1,1427 @@
+
+DOCTOR X344
+PATIENT?
+
+PATIENT X344
+How are you?
+
+DOCTOR X344
+Good how are you?
+
+PATIENT X344
+Oh, yeah, hurting but come here.
+
+DOCTOR X344
+Okay, just give me one second to bring things up okay.
+
+PATIENT X344
+No problem.
+
+DOCTOR X344
+(Doctor working on computer from 9:39 - 12:17)  Okay, one second.
+
+PATIENT X344
+Take your time.
+
+DOCTOR X344
+(Doctor working on computer from 12:25 - 13:23, takes a phone call from 13:23 to 16:16)  Okay, so PATIENT what's going on?
+
+PATIENT X344
+Um I started so I think the diabetes pill; I think I'm feeling a little better.
+
+DOCTOR X344
+Okay.
+
+PATIENT X344
+I'm not going to say great but.
+
+DOCTOR X344
+Okay.
+
+PATIENT X344
+I had my hopes so.
+
+DOCTOR X344
+Good.
+
+PATIENT X344
+But uh.
+
+DOCTOR X344
+So how are your sugars?
+
+PATIENT X344
+Um, of course I bring you this.
+
+DOCTOR X344
+Good.
+
+PATIENT X344
+Paperwork and let you see.
+
+DOCTOR X344
+Okay.
+
+PATIENT X344
+It seems like it's a slow process but it has gotten better I think anyway.
+
+DOCTOR X344
+Okay.  Let's see, so you're taking 15 of Glargine at night now, is that right?
+
+PATIENT X344
+Correct.
+
+DOCTOR X344
+Okay.  Okay and no one's called you from the Pharmacy still?  None of the pharmacists have called you yet?
+
+PATIENT X344
+No.
+
+DOCTOR X344
+I wonder what the deal is, let's see.
+
+PATIENT X344
+I remember you mentioning that someone.
+
+DOCTOR X344
+Yeah.
+
+PATIENT X344
+Is supposed to call me from the Pharmacy.
+
+DOCTOR X344
+Yeah, I @@@ anyway, let's see.  Okay, well.  I know it mentions it, so uh the reason I wants you to get involved with the pharmacist is that you know I'm only here every so often.
+
+PATIENT X344
+Okay.
+
+DOCTOR X344
+Uh and they can, they'll call you like once a week at least.
+
+PATIENT X344
+Uh-huh.
+
+DOCTOR X344
+And they can adjust your medications much more frequently than I can.
+
+PATIENT X344
+Okay.
+
+DOCTOR X344
+Um and so I think it'll be good to have them involved too so we can get you exactly where we want you with your sugars.
+
+PATIENT X344
+Okay.
+
+DOCTOR X344
+Okay and in the meantime we'll have to do it, I'm happy to do it, I want someone who can even be more involved with you, you know every single week and help you.
+
+PATIENT X344
+Okay.
+
+DOCTOR X344
+Okay.  Um so how are you feeling on the insulin, you doing okay?
+
+PATIENT X344
+Um I think so um.  Like I say it's.
+
+DOCTOR X344
+@@@ yeah.
+
+PATIENT X344
+It seems like I definitely monitor it but it seems like it might be a slow process but um.
+
+DOCTOR X344
+But your number isn't in the 300s anymore.
+
+PATIENT X344
+I know.
+
+DOCTOR X344
+But okay.
+
+PATIENT X344
+No, no.  I mean I had a couple of 400s too.
+
+DOCTOR X344
+Yeah.
+
+PATIENT X344
+That's when I really, really got concerned cause.
+
+DOCTOR X344
+Yeah.
+
+PATIENT X344
+I felt maybe the first time I got a 400 you know it was just a bad day you know.
+
+DOCTOR X344
+Yeah.
+
+PATIENT X344
+But after I got a couple of them.
+
+DOCTOR X344
+Yeah you had.
+
+PATIENT X344
+Yeah this is way too high.
+
+DOCTOR X344
+Yeah.  Are you feeling any better?
+
+PATIENT X344
+A little bit.
+
+DOCTOR X344
+Okay.
+
+PATIENT X344
+A little bit.
+
+DOCTOR X344
+Okay.
+
+PATIENT X344
+You know um I'm still having problems with blurry vision but um I'm hoping that it's going to get a little better you know.
+
+DOCTOR X344
+Yeah.
+
+PATIENT X344
+But uh as far as how I was feeling before.
+
+DOCTOR X344
+Yeah.
+
+PATIENT X344
+You started the insulin.
+
+DOCTOR X344
+Yeah.
+
+PATIENT X344
+Uh I definitely feel a little better than that.
+
+DOCTOR X344
+Okay.
+
+PATIENT X344
+You know because it got so bad that um, I just didn't want to do anything.
+
+DOCTOR X344
+Yeah.  You were real @@@ the last time you were here.
+
+PATIENT X344
+Yeah.
+
+DOCTOR X344
+Yeah.
+
+PATIENT X344
+So uh I do appreciate that cause.
+
+DOCTOR X344
+Oh no problem.
+
+PATIENT X344
+I was trying to stay away from the insulin as long as I could too so.
+
+DOCTOR X344
+Yes, yes.
+
+PATIENT X344
+I completely understood that but uh it just seemed like the pills weren't helping at all.
+
+DOCTOR X344
+Right, yeah.  It was getting a little out of control so.  Well okay.  Uh what about, do you think you're energy is low or is that kind of doing a little better?
+
+PATIENT X344
+Um it's been a little bit better.
+
+DOCTOR X344
+Okay.
+
+PATIENT X344
+As a matter of fact a couple of times I almost had some serious rest.
+
+DOCTOR X344
+Oh okay.
+
+PATIENT X344
+Um because I wasn't jumping up.  I mean there were nights when I was getting up five, six times.
+
+DOCTOR X344
+Yeah, I mean if they're going to go that high, it's like a diuretic so.
+
+PATIENT X344
+Yeah so uh.
+
+DOCTOR X344
+Uh-huh.
+
+PATIENT X344
+I think I've been getting up like two or three times.
+
+DOCTOR X344
+Okay.
+
+PATIENT X344
+And that's definitely a improvement so.
+
+DOCTOR X344
+Good.
+
+PATIENT X344
+Um.
+
+DOCTOR X344
+That's good.
+
+PATIENT X344
+Like I say, I'm just hoping that you know as time goes on it gets a little better and a little better.
+
+DOCTOR X344
+Yeah, yeah.
+
+PATIENT X344
+And a little better.
+
+DOCTOR X344
+Absolutely.  Now so I wonder if you've seen an eye doctor, yeah it was in the summer of 2011 was the last time?
+
+PATIENT X344
+Yeah I think they told me that you can go once a year I think it is.
+
+DOCTOR X344
+Yeah.
+
+PATIENT X344
+So I think I'm not due to go back to see them until September.
+
+DOCTOR X344
+Okay.
+
+PATIENT X344
+2012.
+
+DOCTOR X344
+When did you notice that your vision was getting blurry?
+
+PATIENT X344
+Oh way before um my sugar went up.
+
+DOCTOR X344
+Yeah.
+
+PATIENT X344
+It just, it wasn't continuous since alright.  I would have a few days where they seemed to be blurry and.
+
+DOCTOR X344
+Uh-huh.
+
+PATIENT X344
+I would put some uh Visine in them.
+
+DOCTOR X344
+Uh-huh.
+
+PATIENT X344
+You know and uh cold compresses on my eyes that.
+
+DOCTOR X344
+Uh-huh.
+
+PATIENT X344
+And that would seem to clear it up a little bit.
+
+DOCTOR X344
+Uh-huh.
+
+PATIENT X344
+But um as time has gone on and when my sugars went up so high, seemed like they got blurry and uh they didn't want to clear up.
+
+DOCTOR X344
+Okay, okay.  Um I do think it'll get better as your sugars go down.
+
+PATIENT X344
+Okay.
+
+DOCTOR X344
+So um, we could see if we could get you in a little earlier with the opticians and that would be a good thing too.  So I'll put in a consult in for them okay.
+
+PATIENT X344
+Yeah, they gave me um a pair of glasses and you know xxx wasn't doing that at first so I was more than appreciative for that.
+
+DOCTOR X344
+Yeah.
+
+PATIENT X344
+You know so.
+
+DOCTOR X344
+Yeah. 
+
+PATIENT X344
+Um.
+
+DOCTOR X344
+That's good also if they want to change I think we could do that.
+
+PATIENT X344
+Yeah.
+
+DOCTOR X344
+And have them check you out as well.
+
+PATIENT X344
+Okay.
+
+DOCTOR X344
+Okay.  @@@.  And I'm looking at your thyroid here.
+
+PATIENT X344
+Yeah I just had the test this month.
+
+DOCTOR X344
+Uh-huh.  Now you don't have any, um you don't notice that your heart was beating quickly or anything have you?
+
+PATIENT X344
+Uh it's.
+
+DOCTOR X344
+@@@.
+
+PATIENT X344
+As a matter of fact, it's, to me it's an undescribable feeling um, I'm not necessarily sure if it's that my heart is beating fast but uh it's a funny feeling.  It's hard to describe um.  Kind of feels like gas but it's not, it's like, I can't describe it.  I really tried to put my finger on it but um.
+
+DOCTOR X344
+Hmm.  Like someone is sitting on your chest kind of?
+
+PATIENT X344
+Yeah, it's I don't know if it's respiratory or what because I've been having problems with my sinuses, I was going to ask you about that too but.
+
+DOCTOR X344
+Okay.
+
+PATIENT X344
+Um, I can't really describe what it is and that's unusual for me but.
+
+DOCTOR X344
+Uh-huh.
+
+PATIENT X344
+But um I want to say like a flushed feeling but it's in the chest area and it's um.
+
+DOCTOR X344
+Hmm, how long has this been going on for?
+
+PATIENT X344
+Oh um maybe the last couple of weeks I think you know and it's not continuous, it's just.
+
+DOCTOR X344
+Yeah.
+
+PATIENT X344
+Some mornings or some afternoons uh, I thought possibly it could be gas cause I've been trying to eat a little more.
+
+DOCTOR X344
+Uh-huh.
+
+PATIENT X344
+Cause the weight loss has been unbearable you know.
+
+DOCTOR X344
+Yeah.
+
+PATIENT X344
+Although I think I've gained a pound or two.
+
+DOCTOR X344
+Oh good.
+
+PATIENT X344
+Uh.
+
+DOCTOR X344
+Your sugars too, if they're better controlled you should be able to gain weight a little better.
+
+PATIENT X344
+Yeah.
+
+DOCTOR X344
+So having them higher.
+
+PATIENT X344
+I think they told me it was 140 something the last time I was here.
+
+DOCTOR X344
+Yeah.  145 today so that's a little.
+
+PATIENT X344
+Yeah she told me it was 153 today.
+
+DOCTOR X344
+Oh good.
+
+PATIENT X344
+Yeah.
+
+DOCTOR X344
+That's awesome.
+
+PATIENT X344
+Well I've been eating like a little pig so.
+
+DOCTOR X344
+Oh yeah that's a good way.
+
+PATIENT X344
+Even when I didn't want it you know cause I got a sister who tells me that I need to eat.
+
+DOCTOR X344
+Uh-huh.
+
+PATIENT X344
+It's chemistry but um I don't know if it was the sugar but I really, really didn't have, it's the pain too so, but I really didn't have the desire to eat a whole lot so.
+
+DOCTOR X344
+Yeah.
+
+PATIENT X344
+I mean I was missing meals and not eating @@@ so.
+
+DOCTOR X344
+Okay.
+
+PATIENT X344
+I think it's gotten a little better.
+
+DOCTOR X344
+Okay.  What's going on with your pain?
+
+PATIENT X344
+Oh, well the um, I got the plate and screws in the front of my neck.
+
+DOCTOR X344
+Yeah, yeah.
+
+PATIENT X344
+And screws in the back.
+
+DOCTOR X344
+Yeah.
+
+PATIENT X344
+And I forgot about the screw in my hip and.
+
+DOCTOR X344
+Uh-huh.
+
+PATIENT X344
+The weather's been.
+
+DOCTOR X344
+It's been acting up.
+
+PATIENT X344
+So yeah it's been going back and forth, back and forth and I've been trying to cut back on the um Vicodin.
+
+DOCTOR X344
+Uh-huh.
+
+PATIENT X344
+You know because I've been taking it a long time.
+
+DOCTOR X344
+Yeah.
+
+PATIENT X344
+Um and the pain has been rough.
+
+DOCTOR X344
+Okay.
+
+PATIENT X344
+It really has but um if I'm in pain I'm trying not to.
+
+DOCTOR X344
+Take the Vicodin.
+
+PATIENT X344
+Yeah.
+
+DOCTOR X344
+Do you have enough?
+
+PATIENT X344
+Uh yeah because I haven't been taking it.
+
+DOCTOR X344
+You haven't been taking it.
+
+PATIENT X344
+Yeah.
+
+DOCTOR X344
+Okay.
+
+PATIENT X344
+So, if I didn't @@@ I would be sure to listen.
+
+DOCTOR X344
+Okay.
+
+PATIENT X344
+You know I've had pills in my hand a couple of times and I put them up because I said no.
+
+DOCTOR X344
+It's probably not worth it yeah, okay.
+
+PATIENT X344
+Yeah.
+
+DOCTOR X344
+Well we don't want you to be miserable so let's you know.
+
+PATIENT X344
+Too late.
+
+DOCTOR X344
+Oh, well you can take that.
+
+PATIENT X344
+I know my sis told me the same thing.
+
+DOCTOR X344
+Take it you need it.
+
+PATIENT X344
+Yeah.
+
+DOCTOR X344
+Yeah.
+
+PATIENT X344
+She said the same thing but you know you got to take them.
+
+DOCTOR X344
+Yeah.
+
+PATIENT X344
+So I also think it might have affected my appetite so.
+
+DOCTOR X344
+The pills?
+
+PATIENT X344
+Yeah that's one of the reasons.
+
+DOCTOR X344
+Yeah @@@ the appetite too so.
+
+PATIENT X344
+Yeah so.
+
+DOCTOR X344
+You know yourself the best so you shouldn't be living in horrible pain because the pain medicine is there when you need it okay.
+
+PATIENT X344
+I will.
+
+DOCTOR X344
+Okay.
+
+PATIENT X344
+Believe me.
+
+DOCTOR X344
+Okay.
+
+PATIENT X344
+Definitely after I eat I'll.
+
+DOCTOR X344
+Okay.
+
+PATIENT X344
+I'll take it cause I will not take it on an empty stomach.
+
+DOCTOR X344
+Okay.  Well, I want to go up on your insulin again.
+
+PATIENT X344
+Okay.
+
+DOCTOR X344
+Uh now your thyroid, so you did the ultrasound.
+
+PATIENT X344
+Uh-huh.
+
+DOCTOR X344
+So we kind of picked this up incidentally so we did the scan of your tests and they said there's nothing going on with your weight loss or anything.
+
+PATIENT X344
+Okay.
+
+DOCTOR X344
+And they noticed that you have what they're calling like a multi-nodule goiter um that they thought you may need a CT scan but that's not the best test to look at it so.
+
+PATIENT X344
+Oh don't tell me that cause I had uh, a aunt who had a goiter.  I was thinking that my mother had one too but my aunt was way out of control.
+
+DOCTOR X344
+Was it big?
+
+PATIENT X344
+Yeah.
+
+DOCTOR X344
+Oh okay, so that sort of thing shouldn't happen anymore uh nowadays we don't let it get that bad.
+
+PATIENT X344
+Okay.
+
+DOCTOR X344
+Yeah.
+
+PATIENT X344
+Well she was in pain, she older, much different generation.
+
+DOCTOR X344
+Oh okay.
+
+PATIENT X344
+Definitely tried to have her, um I think doctors had suggested surgery and she refused.
+
+DOCTOR X344
+Oh okay.
+
+PATIENT X344
+All kind of ways, she just would not have it.
+
+DOCTOR X344
+It just kind of got out of control huh.
+
+PATIENT X344
+Oh it was big.
+
+DOCTOR X344
+Oh okay, well we don't feel that it's getting big.
+
+PATIENT X344
+Yeah okay.
+
+DOCTOR X344
+We've got lots of medicine for it if you need it nowadays.
+
+PATIENT X344
+Good.
+
+DOCTOR X344
+Uh but I don't, it's a little, it's a little interesting so you have an enlarged thyroid and you do have some nodules in it.
+
+PATIENT X344
+Okay.
+
+DOCTOR X344
+But the biggest one is 1.7 cm which is small um and your thyroid function tests are normal.
+
+PATIENT X344
+Okay.
+
+DOCTOR X344
+Um so and you can look this up actually, I don't remember what the @@@.  I do think we should probably just have you see Endocrinology who are thyroid doctors um particularly because of you know your weight loss and everything.
+
+PATIENT X344
+Okay.
+
+DOCTOR X344
+The thyroid is kind of intimately involved with weight.
+
+PATIENT X344
+Okay.
+
+DOCTOR X344
+Um and so I'll probably wait to get there opinion just to make sure um see what they think about this.
+
+PATIENT X344
+Okay.
+
+DOCTOR X344
+Okay um I think that we're some progress with your sugars and everything.  Actually I think then we'll be really good.  Have you ever seen Endocrine here with us?
+
+PATIENT X344
+Possibly um, probably when I first started coming over I'm not sure.
+
+DOCTOR X344
+Okay, I'm going to look back because Endocrinology, let's see.
+Yeah I don't see anything about your thyroid so yeah so maybe the thyroid experts um.
+
+PATIENT X344
+Okay.
+
+DOCTOR X344
+So let me go talk to one of the other doctors real quick too about this.
+
+PATIENT X344
+I know what your, I think about three or four years ago.
+
+DOCTOR X344
+Uh-huh.
+
+PATIENT X344
+One of the doctors had given me some medicine for sinuses and I'm hoping that she can find.
+
+DOCTOR X344
+Your sinuses have been bothering you?
+
+PATIENT X344
+Oh.
+
+DOCTOR X344
+Okay remind me before you leave okay.
+
+PATIENT X344
+I shall do that.
+
+DOCTOR X344
+Before you go okay, I'll be right back.
+
+PATIENT X344
+Okie dokie.
+
+(DOCTOR OUT:  31:15  DOCTOR IN:  36:34)
+
+DOCTOR X344
+Alright.  So I talked with one of the other doctors.  He agrees you should probably see the endocrinologist about this nodule.
+
+PATIENT X344
+Okay.
+
+DOCTOR X344
+Especially with your family history and stuff so I'll have you set you up okay.
+
+PATIENT X344
+Yeah.  I think my mom's had one too but uh hers was not as pronounced as the one.
+
+DOCTOR X344
+As your aunt.
+
+PATIENT X344
+Aunt yeah.
+
+DOCTOR X344
+Okay.  Um okay so in terms of your Glargine I want you to go up to 20 units.
+
+PATIENT X344
+Okay.
+
+DOCTOR X344
+You're at 15 right now okay.
+
+PATIENT X344
+Okay.
+
+DOCTOR X344
+Um and then so @@@ I said that you could get in touch with the pharmacist who would kind of talk to you every week.
+
+PATIENT X344
+Uh-huh.
+
+DOCTOR X344
+Um.
+
+PATIENT X344
+Well maybe they tried to call and.
+
+DOCTOR X344
+I don't think so because it wasn't registered yet on the @@@.
+
+PATIENT X344
+Okay so.  I got a bad habit of screening the sales people who be trying to get.
+
+DOCTOR X344
+Oh yeah.
+
+PATIENT X344
+To sell you stuff all the time.
+
+DOCTOR X344
+Yeah we all do that, that's alright.  What you can do is @@@ for the next week.
+
+PATIENT X344
+Okay.
+
+DOCTOR X344
+And if your numbers are still above 120.
+
+PATIENT X344
+Okay.
+
+DOCTOR X344
+You can go up another 2 units okay, so you can go to like 22.
+
+PATIENT X344
+So how long are we talking about uh for a week?
+
+DOCTOR X344
+Yeah do what I'm telling you for a week.
+
+PATIENT X344
+Okay.
+
+DOCTOR X344
+See how you do um and then if it's still, if your numbers are still consistently above 120, they're still in the high 100s or even 200s.
+
+PATIENT X344
+Uh-huh.
+
+DOCTOR X344
+Then go up to 22 for the next week.
+
+PATIENT X344
+Okay.
+
+DOCTOR X344
+And then call me and let me know how you're doing.
+
+PATIENT X344
+Okay.
+
+DOCTOR X344
+And we'll just keep going up until we get your numbers where we want them but slowly.
+
+PATIENT X344
+Okay.
+
+DOCTOR X344
+Okay.
+
+PATIENT X344
+Okay.
+
+DOCTOR X344
+Does that make sense?
+
+PATIENT X344
+Sure.
+
+DOCTOR X344
+Okay.
+
+PATIENT X344
+I mean you've been right so far, you know why would I challenge you, no way.
+
+DOCTOR X344
+Okay.
+
+PATIENT X344
+No, I was so happy for it to come down I just.
+
+DOCTOR X344
+Yeah no this is great, it looks like the last two days or so, yes the 22nd looks good.
+
+PATIENT X344
+I was wondering because I been having so much orthopedic surgery alright.
+
+DOCTOR X344
+Uh-huh.
+
+PATIENT X344
+Cause usually when I get up in the morning uh, generally the first thing I do is brush the teeth and stuff and then I do a little exercise and I was wondering was the exercise causing it to.
+
+DOCTOR X344
+Your sugars no.
+
+PATIENT X344
+I mean the blood glucose, not necessarily my sugar but.
+
+DOCTOR X344
+Oh, no I think that's actually supposed to be the opposite.
+
+PATIENT X344
+That's what I thought.
+
+DOCTOR X344
+Yeah.
+
+PATIENT X344
+You know yeah but I started um exercising after I did the blood glucose cause I'm saying I need to check everything.
+
+DOCTOR X344
+Oh.
+
+PATIENT X344
+I'm not sure so.
+
+DOCTOR X344
+Uh-huh yeah, no it sure won't have a negative affect on your sugars but so what's going on with your sinuses?
+
+PATIENT X344
+Um like I said about three or four years ago the doctor I had at the time had told me I needed this medicine for my sinuses and.
+
+DOCTOR X344
+Uh-huh.
+
+PATIENT X344
+Um I took it for, I don't know two months or so and it seemed like my sinuses got better and of course just like most men I stopped taking the medicine.
+
+DOCTOR X344
+Okay.
+
+PATIENT X344
+All of a sudden now it just seems like they're giving me the blues and I think I've had quite a few sinus headaches too with uh, so I was just wondering if there's something you can't find.
+
+DOCTOR X344
+Yeah.
+
+PATIENT X344
+You can't find what they was giving me, it was a little teeny weeny white pill that they were giving me.
+
+DOCTOR X344
+Okay.
+
+PATIENT X344
+Yeah.
+
+DOCTOR X344
+Um and what kind of symptoms are you having?  Are you having like a runny nose?
+
+PATIENT X344
+Runny nose um, a little mucous and it doesn't seem like cold mucous.
+
+DOCTOR X344
+Uh-huh.
+
+PATIENT X344
+It's uh it's hard to describe.  I know that uh because I been cutting back on smoking.
+
+DOCTOR X344
+Uh-huh.
+
+PATIENT X344
+I noticed though when I smoke a regular cigarettes.
+
+DOCTOR X344
+Uh-huh.
+
+PATIENT X344
+It seemed to dry them up a little bit so.
+
+DOCTOR X344
+Do you think it's all coming from your nose and then you're having problems with it dripping down your throat and @@@.
+
+PATIENT X344
+I haven't had, I haven't had a whole lot dripping down the throat.
+
+DOCTOR X344
+Okay.
+
+PATIENT X344
+I have to be honest but I definitely know that it gets to the point sometime where I can't breathe.
+
+DOCTOR X344
+Okay.
+
+PATIENT X344
+You know through my nose.
+
+DOCTOR X344
+Yeah, do you have a lot of pain like in your @@@.
+
+PATIENT X344
+A little bit in the cheeks and mostly up in here.
+
+DOCTOR X344
+Yeah okay.
+
+PATIENT X344
+So I'm, I'm.
+
+DOCTOR X344
+Do you have any itching in your eyes or watery that you notice?
+
+PATIENT X344
+Oh, you know cause I'm blurry-eyed half the time anyway so.
+
+DOCTOR X344
+Yeah.
+
+PATIENT X344
+Yeah but I think the Visine probably help a little bit with that too.
+
+DOCTOR X344
+Yeah.
+
+PATIENT X344
+So um.
+
+DOCTOR X344
+Well there's lots of different sinus medications so we need to decide what would be best for you.  Um, one of the, @@@ well all of the sinus medicines have some side effects but um.
+
+PATIENT X344
+Like what?
+
+DOCTOR X344
+Um like a lot of them are antihistamines.
+
+PATIENT X344
+Uh-huh.
+
+DOCTOR X344
+So they can make you tired and they can, if you're on them for too long you know.
+
+PATIENT X344
+Well we don't need to be.
+
+DOCTOR X344
+When you go off of them, so one of things @@@ for sinuses is @@@ steroids um.
+
+PATIENT X344
+Okay.
+
+DOCTOR X344
+And it gets rid of all that kind of congestion.
+
+PATIENT X344
+I think I had um years ago um I had the doctor give me something that was nasal and I had to squirt it up.
+
+DOCTOR X344
+Put it in your nose a couple of times.
+
+PATIENT X344
+Yeah.  Was that, I think was that um what's the word I'm looking for steroid?
+
+DOCTOR X344
+Yeah so, yeah.
+
+PATIENT X344
+Right.
+
+DOCTOR X344
+Something I would give you is the steroid.  I forget which one you had here at the VA.
+
+PATIENT X344
+Now would that react the same way as the um the steroid oral medicine?
+
+DOCTOR X344
+No.
+
+PATIENT X344
+Okay cause.
+
+DOCTOR X344
+No yeah steroids orally you can't take for a long time they have a lot of side effects.
+
+PATIENT X344
+I couldn't take it at all.
+
+DOCTOR X344
+Yeah.
+
+PATIENT X344
+That's what originally popped my.
+
+DOCTOR X344
+Sugars up yeah.
+
+PATIENT X344
+Yeah.
+
+DOCTOR X344
+No this is just you definitely no this is just locally.
+
+PATIENT X344
+Yeah.
+
+DOCTOR X344
+So yeah you'll be fine with your sugars, it won't make it.
+
+PATIENT X344
+Okay.
+
+DOCTOR X344
+So let's start with that.
+
+PATIENT X344
+Okay.
+
+DOCTOR X344
+Cause the other ones I don't really like that much you know these are the ones we can start on.
+
+PATIENT X344
+Like I said.
+
+DOCTOR X344
+So let's start with the nasal spray okay.
+
+PATIENT X344
+You've been right so far why would I.
+
+DOCTOR X344
+You're trying to convince me here.
+
+PATIENT X344
+No I'm not, no I'm not.
+
+DOCTOR X344
+So let me see what kind you had here in your chart.  Okay so you had it looks like flunisolide, that's the brand that they have here.  You're going to do two sprays in each nostril twice a day.
+
+PATIENT X344
+Okay.
+
+DOCTOR X344
+First thing when you wake up in the morning and then sometime you know halfway through the day so.
+
+PATIENT X344
+Okay.
+
+DOCTOR X344
+Now you just want to have them mail it or do you want to pick it up?
+
+PATIENT X344
+Yeah please.
+
+DOCTOR X344
+Okay.
+
+PATIENT X344
+I did the other one your way, the um the insulin.
+
+DOCTOR X344
+Did it take a long time?
+
+PATIENT X344
+Oh right.
+
+DOCTOR X344
+Oh yeah, did you have to wait down there.
+
+PATIENT X344
+Oh right.  But I remember that's the way it's always been.
+
+DOCTOR X344
+Oh okay.
+
+PATIENT X344
+@@@.
+
+DOCTOR X344
+Yeah @@@.
+
+PATIENT X344
+I'd rather do the mail cause I'm saying God, xxx.
+
+DOCTOR X344
+Yeah gotcha.  Okay so try your Glargine, we'll send the nasal steroids.
+
+PATIENT X344
+Okay.
+
+DOCTOR X344
+And then a week from now you can come in too.
+
+PATIENT X344
+You mean I just stick it on my envelope to make sure that the old man don't forget.
+
+DOCTOR X344
+Okay.  And that's that.
+
+PATIENT X344
+Uh-huh.
+
+DOCTOR X344
+Okay and then if you're coming here and your sugars are still higher than 120.
+
+PATIENT X344
+Uh-huh.
+
+DOCTOR X344
+Then just call me and we'll go definitely go up but we'll talk first.
+
+PATIENT X344
+Okay.
+
+DOCTOR X344
+Okay.
+
+PATIENT X344
+Okay.
+
+DOCTOR X344
+And then the Endocrinology people will call you and they can get you in for your thyroid.
+
+PATIENT X344
+Okay.
+
+DOCTOR X344
+Um and it's not anything you know emergent so.
+
+PATIENT X344
+Okay.  Now that wouldn't because I got those plate and screws in my neck.
+
+DOCTOR X344
+No, no.
+
+PATIENT X344
+Okay.
+
+DOCTOR X344
+The CT scan they did was overall clear but the ultrasound was specifically looking at the thyroid and you definitely have some nodules.
+
+PATIENT X344
+Okay.
+
+DOCTOR X344
+Um so the question is if they need to be biopsied or not so, your thyroid function is normal.
+
+PATIENT X344
+Okay.
+
+DOCTOR X344
+So I know you're not hyperthyroid or hypothyroid um, there are people that have that problem.
+
+PATIENT X344
+When you say hypo what is it?
+
+DOCTOR X344
+Hyperthyroid is when you have too much thyroid hormones.
+
+PATIENT X344
+Uh-huh.
+
+DOCTOR X344
+So some people will be um, it can cause weight loss, it can cause people to be a little bit hyper and agitated and stuff and so then sometimes we have to get rid of it either surgically or with medicine get rid of the thyroid.  More times in older people are hypothyroid which means they don't make enough thyroid hormones.
+
+PATIENT X344
+Uh-huh.
+
+DOCTOR X344
+And usually you're tired and you put on weight and stuff like that and so we just give them that kind of a hormone.
+
+PATIENT X344
+Okay.
+
+DOCTOR X344
+Your thyroid function test you actually looked like they were normal.  So your thyroid is working correctly.
+
+PATIENT X344
+Okay.
+
+DOCTOR X344
+You just have these little nodules in it.
+
+PATIENT X344
+Okay.
+
+DOCTOR X344
+And so a lot of times we just biopsy them to make sure that there you know not cancerous or anything.
+
+PATIENT X344
+Now it's just @@@ alright.  If they have to be biopsies that mean they have to go in through my throat?
+
+DOCTOR X344
+It's a @@@, I don't deal with that, it's pretty easy they will use that ultrasound probe again.
+
+PATIENT X344
+Uh-huh.
+
+DOCTOR X344
+And it's just a needle, it's a needle biopsy so it's in your throat but it's not like cutting your throat or anything, they just stick a needle into it and they would numb up the whole area and stuff.
+
+PATIENT X344
+That's the word numb @@@.  Yeah yeah and then definitely they would kick into the plate and screws right?
+
+DOCTOR X344
+Sure, yeah, yeah, yeah.  They do this all the time so but @@@.
+
+PATIENT X344
+Oh I bet.
+
+DOCTOR X344
+Yeah but the thyroid actually is right here, right up front.
+
+PATIENT X344
+Uh-huh.
+
+DOCTOR X344
+So yeah it's sort of @@@ and they will use the imaging so they can see exactly where they're going.
+
+PATIENT X344
+Okay.
+
+DOCTOR X344
+Okay.  Um I'm not sure the size of yours is kind on the border where they might just want to watch it or they may biopsy it right off the bat.  If it's greater than 2 centimeters they would definitely biopsy it and yours was like 1.7 so you're kind of in that grey zone of you know, not totally sure what they'll do.
+
+PATIENT X344
+Okay.
+
+DOCTOR X344
+Okay.
+
+PATIENT X344
+Alright.
+
+DOCTOR X344
+Alright good to see you again.
+
+PATIENT X344
+Same here.
+
+DOCTOR X344
+I think we'll see you in a little longer this time.
+
+PATIENT X344
+Okay.
+
+DOCTOR X344
+Let's go like 4-6 months.
+
+PATIENT X344
+Okay.
+
+DOCTOR X344
+So we'll talk on the phone about your sugars okay.
+
+PATIENT X344
+Alrighty.
+
+DOCTOR X344
+Alright.
+
+PATIENT X344
+Thank you doc I appreciate it.
+
+DOCTOR X344
+You take care, no problem have a good weekend.
+
+PATIENT X344
+You do the same.
+
+DOCTOR X344
+Do know where to check out?
+
+PATIENT X344
+Uh always at the desk.
+
+DOCTOR X344
+Yeah just right here so they'll help you with that.
+
+PATIENT X344
+Okay.
+
+DOCTOR X344
+Okay, alright you take care.
+
+PATIENT X344
+Uh-huh.
+
+PATIENT LEAVES:  47:45
+
+Time is 12:05 p.m.
+
+
+
+

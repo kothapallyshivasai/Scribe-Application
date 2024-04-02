@@ -1,0 +1,648 @@
+
+DOCTOR X593
+PATIENT?
+ 
+PATIENT X593
+Okay.
+
+DOCTOR X593
+Come on back.  How are you sir?
+
+PATIENT X593
+Oh I guess I'll make it.  Yeah.
+
+DOCTOR X593
+Hi.
+
+PATIENT X593
+Hello.
+
+DOCTOR X593
+How's everything else?
+
+PATIENT X593
+What is your name?
+
+DOCTOR X593
+DOCTOR.
+
+PATIENT X593
+DOCTOR.  Nice to meet you doctor.
+
+DOCTOR X593
+Nice to meet you.  Okay.
+
+PATIENT X593
+Yeah.
+
+DOCTOR X593
+You haven't been since June?
+
+PATIENT X593
+Oh yeah, it's been a year since the last time I've been here.  It's been a pretty good while.
+
+DOCTOR X593
+Alright.  
+
+PATIENT X593
+Uh-huh.
+
+DOCTOR X593
+So you have diabetes.
+
+PATIENT X593
+Yeah that's what I ask you about today.
+
+DOCTOR X593
+Yeah.
+
+PATIENT X593
+I want know if this diabetes pill that I take, it just make me kind of uh dizzy or something and I don't know what kind of pill it is.
+
+DOCTOR X593
+Uh-huh.
+
+PATIENT X593
+But if the still makes, I'm gonna say, make you tired or something like that.  @@@ get up when I walk I'm dizzy.
+
+DOCTOR X593
+@@@.
+
+PATIENT X593
+Uh-huh but anyway I went away and I forgot to take my, I took blood pressure pill, I had that with me but the diabetes pill I been taking, I forgot to take it with me.  I went down to Tennessee to a funeral.  A first cousin of mine passed away.
+
+DOCTOR X593
+Oh.
+
+PATIENT X593
+But anyway.  I was gone for about six days and I didn't take any medicine at all that I had, the test, it's the, what is it?  
+
+DOCTOR X593
+@@@.
+
+PATIENT X593
+Anyhow the reading was 91, 101, 91, 92.
+
+DOCTOR X593
+But that doesn't @@@.
+
+PATIENT X593
+That's low enough, I can't say I'm gonna.
+
+DOCTOR X593
+Yeah.
+
+PATIENT X593
+So I kind of did a May Day but I forgot @@@.  It's always there you know low I mean so I believe I'm on the borderline or something.  I'm gonna be, @@@ I mean @@@.
+
+DOCTOR X593
+But do you have diabetes?
+
+PATIENT X593
+When I took that pill one time that pill put my reading down to 49.
+
+DOCTOR X593
+Oh really.
+
+PATIENT X593
+And I took it.
+
+DOCTOR X593
+Okay, don't take it anymore.
+
+PATIENT X593
+For like two or three days.
+
+DOCTOR X593
+@@@.
+
+PATIENT X593
+But no I didn't take it today cause I stayed @@@ all night anyway cause @@@.  So I be getting back when I leave @@@. 
+
+DOCTOR X593
+Okay, so you have not been taking your medicine?
+
+PATIENT X593
+Well like I be telling, I got the pills the day before yesterday.
+
+DOCTOR X593
+Okay.  So you haven't been taking it, hold on, you're taking the medicine on and off?
+
+PATIENT X593
+Just that diabetes medicine.
+
+DOCTOR X593
+Right.
+
+PATIENT X593
+Now that I got the pills, now I take two pills a day.
+
+DOCTOR X593
+Right.  So you're taking that on and off.
+
+PATIENT X593
+Yeah I was but.
+
+DOCTOR X593
+Okay.  You took one pill two days ago.
+
+PATIENT X593
+That's right.
+
+DOCTOR X593
+And some days you have not taken the medicine.
+
+PATIENT X593
+@@@ I had @@@ in the car.  Uh my sugar was 93.
+
+DOCTOR X593
+Without taking the medicine.
+
+PATIENT X593
+Yeah without taking it.  That's why I don't understand like I don't get myself taking @@@.
+
+DOCTOR X593
+And then when you do take the medicine you checked your sugar and it was in the 40s?
+
+PATIENT X593
+Well it be 49.
+
+DOCTOR X593
+Well don't take it then.
+
+PATIENT X593
+I @@@.  I really @@@ not that bad.
+
+DOCTOR X593
+Don't take it then.
+
+PATIENT X593
+That pill.
+
+DOCTOR X593
+Don't take it then.
+
+PATIENT X593
+I believe that little pill makes you, makes you feel tired.  I got some dizziness, @@@ dizzy now.
+
+DOCTOR X593
+Okay don't take it, don't take it.
+
+PATIENT X593
+Alright.  Yeah cause as long as my sugars staying down I'd just keep them.  As long as my sugars stay down cause I try not to eat any starchy food and uh.
+
+DOCTOR X593
+Don't take it.
+
+PATIENT X593
+@@@.
+
+DOCTOR X593
+Don't take that, don't take the medicine.  What do you do when your sugar's in the 40s?  Do you take sugar?
+
+PATIENT X593
+Well no I don't take nothing.  I believe if my sugar's that low, drink some orange juice.
+
+DOCTOR X593
+Uh-huh.
+
+PATIENT X593
+That's what I do.  @@@ low sugars don't take it.
+
+DOCTOR X593
+Okay.  We're gonna recheck all of your labs but don't take any diabetes medicine.
+
+PATIENT X593
+Alright cause.
+
+DOCTOR X593
+Do you have high blood pressure?
+
+PATIENT X593
+Yes I do yeah.
+
+DOCTOR X593
+What do you take for it?  
+
+PATIENT X593
+Uh.
+
+DOCTOR X593
+The hydrochlorothiazide half tablet?
+
+PATIENT X593
+Uh yeah, I take two halves.
+
+DOCTOR X593
+Oh you have been taking it?
+
+PATIENT X593
+Uh yeah, I take my water; I take my blood pressure pill every morning right about 6:30.
+
+DOCTOR X593
+Okay do you have refills on it?
+
+PATIENT X593
+Huh.
+
+DOCTOR X593
+You have refills.
+
+PATIENT X593
+I have.
+
+DOCTOR X593
+Have you been getting the medicine?
+
+PATIENT X593
+Yeah, I got the medicine.
+
+DOCTOR X593
+Okay.
+
+PATIENT X593
+Uh-huh.
+
+DOCTOR X593
+Are you taking lisinopril?
+
+PATIENT X593
+What's that?
+
+DOCTOR X593
+Uh do you take two blood pressure meds or one blood pressure med?
+
+PATIENT X593
+Three.  I take that big old round pill, 90 mg.
+
+DOCTOR X593
+Yeah 90 mg.
+
+PATIENT X593
+Yeah that color yeah, look it's down here what all I just said I don't know what it is but it messes my love life.
+
+DOCTOR X593
+It affects your love life?
+
+PATIENT X593
+That's what I said, @@@ cause I have, look I'm 86 years old, you probably know.  Well I got a girlfriend and she's waiting for it, she's cool @@@ and I don't have any @@@.  
+
+DOCTOR X593
+You don't have any what?
+
+PATIENT X593
+Nature, cause I mean it's usually this long.  You know @@@ right.  I mean, yeah excuse me for having to deal with it.
+
+DOCTOR X593
+Uh-huh.
+
+PATIENT X593
+But I think it's that blood pressure pill.
+
+DOCTOR X593
+Uh-huh.
+
+PATIENT X593
+Cause she probably said, my girlfriend probably said it's the big pill, the 90 mg, can I get the Viagra, I want to get the Viagra but before I could take it cause @@@.  Could I get some of that?  @@@.
+
+DOCTOR X593
+You do have some of that actually.
+
+PATIENT X593
+Oh.
+
+DOCTOR X593
+That you could take um but it's not the blood pressure.
+
+PATIENT X593
+So it's not the pill on that.  Well I can make it come up but it don't stay too long I mean, it's messing up cause we're not married.  I mean a couple of weeks ago I had some troubles.
+
+DOCTOR X593
+Hmm.
+
+PATIENT X593
+I wasn't @@@ have to talk to you like that.
+
+DOCTOR X593
+Oh no, don't worry about it.
+
+PATIENT X593
+Oh that's right well you're a doctor but I don't want to embarrass you cause @@@.  I'm gonna lose the friendship.
+
+DOCTOR X593
+Okay.  Now.
+
+PATIENT X593
+(Laughter)
+
+DOCTOR X593
+Now have you always had this mole on your legs?
+
+PATIENT X593
+This right here?
+
+DOCTOR X593
+Yeah.
+
+PATIENT X593
+I had this on my leg before I lost my health.
+
+DOCTOR X593
+Has it always been there?
+
+PATIENT X593
+This all the time, @@@.
+
+DOCTOR X593
+You had the mole.
+
+PATIENT X593
+What's that?
+
+DOCTOR X593
+It's a black mole.
+
+PATIENT X593
+Oh, I did not have that until uh yeah I was born with this I'm sure cause I had this @@@.
+
+DOCTOR X593
+Okay.
+
+PATIENT X593
+But it's been that color absolutely that long.  @@@.
+
+DOCTOR X593
+Uh-huh.
+
+PATIENT X593
+@@@.
+
+DOCTOR X593
+@@@.
+
+PATIENT X593
+All of my life, I'm sure I was born with that thing.  I didn't know I had it.
+
+DOCTOR X593
+Are you sure you were born with it?
+
+PATIENT X593
+I'm pretty sure cause @@@.
+
+DOCTOR X593
+Yeah.  It hasn't changed in size or color?
+
+PATIENT X593
+I don't know, I didn't know I had it until I @@@.
+
+DOCTOR X593
+Okay, let me listen to you.  No chest pain right?
+
+PATIENT X593
+No, I don't have any.
+
+DOCTOR X593
+Shortness of breath?
+
+PATIENT X593
+None of that.
+
+DOCTOR X593
+Do you smoke?
+
+PATIENT X593
+No, @@@ no.  I @@@ about 15 years ago.
+
+DOCTOR X593
+Well good.  Um any other problems?
+
+PATIENT X593
+No nothing but this sugar problem.
+
+DOCTOR X593
+Okay.  Let me listen to you.
+
+PATIENT X593
+Want me to take my jacket off?
+
+DOCTOR X593
+@@@.  Deep breaths.  Okay you can take the jacket off and put it right here.
+
+PATIENT X593
+If I can just sit straight up.  I knew it was gonna be cold you know.
+
+DOCTOR X593
+Deep breath, out again, again, out.
+
+PATIENT X593
+I got a cold for one thing.  I been buying some Vicks cough syrup and stuff from the drug store.
+
+DOCTOR X593
+Oh.
+
+PATIENT X593
+For a cold uh-huh.  Cause you all gave me a flu shot back here, I don't know I took it a while ago.
+
+DOCTOR X593
+How long have you had the cold?
+
+PATIENT X593
+Well @@@, sometime I imagine.
+
+DOCTOR X593
+Any problems with your eyes or anything?
+
+PATIENT X593
+No my eyes @@@ for cataracts and I wear contact lens.
+
+DOCTOR X593
+Uh-huh.
+
+PATIENT X593
+And I have an appointment to go to see them on @@@ to the Eye Clinic.  They checks me out about once or twice a year to see what my eyes are doing.  Both my eyes been operated on.  
+
+DOCTOR X593
+Okay.  I'll be back.
+
+PATIENT X593
+Alright doc.
+
+DOCTOR X593
+Okay.  I'm going to put your meds in here.
+
+PATIENT X593
+I'll put my coat back on I guess.
+
+DOCTOR X593
+Sure.
+
+(DOCTOR OUT:  26:25    DOCTOR IN:  41:47)
+
+DOCTOR X593
+Alright.
+
+PATIENT X593
+Huh.
+
+DOCTOR X593
+Okay.  One question.  How is your vision?
+
+PATIENT X593
+Huh?
+
+DOCTOR X593
+How is your eyesight?
+
+PATIENT X593
+Okay.
+
+DOCTOR X593
+So when do you see the eye doctor here?
+
+PATIENT X593
+I see the eye doctor on the 7th.  I mean, yeah the 7th of February.
+
+DOCTOR X593
+Do you need to go see a dentist?
+
+PATIENT X593
+No the eye doctor.
+
+DOCTOR X593
+Okay.  Do you need to go to the dentist?
+
+PATIENT X593
+Dentist, yeah I could have one tooth here.  No I don't see nobody now cause I have maybe a tooth cause I don't have any way to eat hardly.
+
+DOCTOR X593
+Well what about having dentures?
+
+PATIENT X593
+Uh.
+
+DOCTOR X593
+Go see them.  Go to see the dentist because you could probably wear dentures and be able to eat the food.
+
+PATIENT X593
+Oh yeah but.
+
+DOCTOR X593
+The way that your teeth are right now how can you eat anything?
+
+PATIENT X593
+Well I do eat.  I know, cause @@@ here, I got some in the back on both sides on the bottom.
+
+DOCTOR X593
+Okay.
+
+PATIENT X593
+But.
+
+DOCTOR X593
+Well which dentist do you normally see?
+
+PATIENT X593
+I don't have a regular dentist you see because I, in fact to be totally straight with you, I'm afraid of the dentist cause I don't want to get my teeth pulled.
+
+DOCTOR X593
+Uh-huh.
+
+PATIENT X593
+But maybe that's, I'm gonna have to see them at some time but right now, I pull the teeth out myself cause it got loser and I took my @@@ one morning when I woke up.
+
+DOCTOR X593
+I don't want you to do that but um you should probably go to a dentist.  Um how's your hearing?
+
+PATIENT X593
+Okay.
+
+DOCTOR X593
+It's okay.
+
+PATIENT X593
+Yeah I'm not having hearing trouble @@@.
+
+DOCTOR X593
+Oh okay.
+
+PATIENT X593
+@@@.
+
+DOCTOR X593
+So don't take the metformin, I renewed all your meds um and you can go pick them up.  You can go pick them up in the Pharmacy.  But don't take the diabetes med., the metformin.
+
+PATIENT X593
+But I'm glad to hear that cause I been afraid of that cause I'm tired of that stuff.
+
+DOCTOR X593
+Yeah.  Don't take that.  I'll let you know if you need to come back and see us, they'll send you a letter.
+
+PATIENT X593
+Alright, uh-huh.
+
+DOCTOR X593
+Okay.
+
+PATIENT X593
+Okay.
+
+DOCTOR X593
+Um and everything else is fine.
+
+PATIENT X593
+But now I go to the Pharmacy now?
+
+DOCTOR X593
+Yeah and get all your labs checked right now.
+
+PATIENT X593
+Oh.
+
+DOCTOR X593
+Go to the Lab and go to the Pharmacy.
+
+PATIENT X593
+Oh I got to go to the Lab huh?  Okay.
+
+DOCTOR X593
+Okay.
+
+PATIENT X593
+Then go to the Pharmacy okay then doctor.
+
+DOCTOR X593
+Alright.
+
+PATIENT X593
+You be good now.
+
+DOCTOR X593
+You too.
+
+PATIENT X593
+Thank you doctor and I really appreciate it.
+
+DOCTOR X593
+No.
+
+PATIENT X593
+About that diabetes cause @@@.
+
+DOCTOR X593
+@@@.
+
+PATIENT X593
+Cause instead of staying down and I got that old big white pill I'm taking now but no sex.  That just @@@ on top of it alright doc.
+
+DOCTOR X593
+Alright.
+
+PATIENT X593
+Okay and @@@ doc.  Okay.
+
+PATIENT LEAVES:  44:27.
+
+
+
+
+

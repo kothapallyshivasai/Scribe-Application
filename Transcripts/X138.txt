@@ -1,0 +1,552 @@
+
+DOCTOR X138
+@@@ I think you're supposed to be my 3:30 but if you want to go early.  Okay.  We just kind of have to be a little quicker so let's put next to the 1:30 so @@@ can get them in okay.
+
+PATIENT X138
+Okay.
+
+DOCTOR X138
+Unless you want to wait.
+
+PATIENT X138
+No that's fine.
+
+DOCTOR X138
+You'd rather come in?
+
+PATIENT X138
+Yes ma'am.
+
+DOCTOR X138
+Okay, come on in.  I'm DOCTOR and I think you already have a doctor.  I think DOCTOR is your doctor right?
+
+PATIENT X138
+I'm not sure.  
+
+DOCTOR X138
+He saw you in March.
+
+PATIENT X138
+Yes ma'am.
+
+DOCTOR X138
+Yeah.  So what brings you in today?
+
+PATIENT X138
+Uh I had an appointment to see the doctor and I wanted to know when it would be possible to get into a group.
+
+DOCTOR X138
+What kind of group?
+
+PATIENT X138
+Uh.
+
+DOCTOR X138
+You'll have to come over here, we can talk and I can go through your chart up at the same time.  Okay. What kind of group?
+
+PATIENT X138
+You know any kind of group where you sit down and start saying things.
+
+DOCTOR X138
+Like a mental health group or?
+
+PATIENT X138
+@@@.
+
+DOCTOR X138
+What's bothering you?
+
+PATIENT X138
+Oh, uh it's hard for me to explain reality.
+
+DOCTOR X138
+Give me an example.
+
+PATIENT X138
+I keep seeing monsters and seeing people dying.
+
+DOCTOR X138
+But it's not real as far as you know?
+
+PATIENT X138
+I can feel just it just about @@@ going to the bathroom.
+
+DOCTOR X138
+So you feel like you're kind of seeing a few things?  When did this start?
+
+PATIENT X138
+In 71.
+
+DOCTOR X138
+So you're kind of seeing into the future.
+
+PATIENT X138
+Yes ma'am.
+
+DOCTOR X138
+Okay.  What's your past medical history?  What else do you have wrong?
+
+PATIENT X138
+@@@ I need an operation on my leg.
+
+DOCTOR X138
+Do you have heart disease?
+
+PATIENT X138
+I had three stents put in.
+
+DOCTOR X138
+When was that?
+
+PATIENT X138
+Just about two months ago.
+
+DOCTOR X138
+Okay.  What else?
+
+PATIENT X138
+They had to operate on my eye too.
+
+DOCTOR X138
+The @@@ data has you've had some heart disease um, he talked about where do you have screws in your, in your leg?
+
+PATIENT X138
+Right here, right here.
+
+DOCTOR X138
+So in the right knee, you had a right knee surgery and that's all really.  You don't have too much going on, in terms of chronic medical things.
+
+PATIENT X138
+And it's hard for me to see.
+
+DOCTOR X138
+Okay.  Do you see a psychiatrist?
+
+PATIENT X138
+Yes ma'am, I just started coming here.
+
+DOCTOR X138
+Okay they just saw you on June 30th and you told them, are you taking the sleeping pill they gave you?
+
+PATIENT X138
+Yes ma'am.
+
+DOCTOR X138
+Are you taking the olanzapine and sertraline?
+
+PATIENT X138
+Yes.
+
+DOCTOR X138
+And is that helping these symptoms?
+
+PATIENT X138
+No.
+
+DOCTOR X138
+We might just have to send you back to the Mental Health Center.  You know you have this condition which is atypical psychosis.
+
+PATIENT X138
+Oh yeah.
+
+DOCTOR X138
+You know that's what those medications are for.
+
+PATIENT X138
+I see.
+
+DOCTOR X138
+But if they're not controlling your symptoms then you probably need those medications to be changed.
+
+PATIENT X138
+Okay.  I understand.  Could you make them a little stronger @@@?
+
+DOCTOR X138
+I can't, but we're going to send you to them.
+
+PATIENT X138
+Okay.
+
+DOCTOR X138
+Hopefully today.  Hold on just a second.  The other question I had, I'm looking at your Mental Health Note from June 30th and they said that they gave you an appointment to come and see me um because you were having a cough and nasal congestion.  Are you still having that?
+
+PATIENT X138
+Yes ma'am.
+
+DOCTOR X138
+Well why don't we take care of that problem since you're here.
+
+PATIENT X138
+Okay.
+
+DOCTOR X138
+And then I'll call over to Mental Health and see if we can follow up over there today.
+
+PATIENT X138
+Okay.
+
+DOCTOR X138
+Okay.  Tell me about the cough.
+
+PATIENT X138
+Oh, it's hard for me to @@@.
+
+DOCTOR X138
+How long has that been going on?
+
+PATIENT X138
+The last month.
+
+DOCTOR X138
+Okay so you have sore throat.  When does the cough happen the most?  At night or during the day?
+
+PATIENT X138
+At night.
+
+DOCTOR X138
+Okay.  Does it keep you up?
+
+PATIENT X138
+Yes ma'am.
+
+DOCTOR X138
+Okay.  Um do you ever have like a sour taste in your mouth?
+
+PATIENT X138
+Yes.
+
+DOCTOR X138
+Okay.  AT nighttime?
+
+PATIENT X138
+Yes.
+
+DOCTOR X138
+Okay.  And with the nasal congestion do you feel like stuff is dripping down your throat?
+
+PATIENT X138
+Yes ma'am.
+
+DOCTOR X138
+Okay.  Any history of asthma?
+
+PATIENT X138
+No but I do have hay fever.
+
+DOCTOR X138
+Okay.  Are you taking that loratadine that they gave you?
+
+PATIENT X138
+Yes.
+
+DOCTOR X138
+Does that help?
+
+PATIENT X138
+Somewhat.
+
+DOCTOR X138
+Okay.  So you've been taking @@@ for about a month.
+
+PATIENT X138
+Yeah.
+
+DOCTOR X138
+So @@@.
+
+PATIENT X138
+Yeah.
+
+DOCTOR X138
+Has this ever happened before, like years before?
+
+PATIENT X138
+No.
+
+DOCTOR X138
+Okay.  Okay any fevers or chills.
+
+PATIENT X138
+Fever.  I had a fever.
+
+DOCTOR X138
+Okay.  Any trouble breathing?
+
+PATIENT X138
+No.
+
+DOCTOR X138
+Okay.  When you cough are you bringing anything up?
+
+PATIENT X138
+Yeah.
+
+DOCTOR X138
+What types of stuff?
+
+PATIENT X138
+Mucous.
+
+DOCTOR X138
+What color?
+
+PATIENT X138
+Sometimes it'll be yellow.
+
+DOCTOR X138
+Do you have any other complaints today or just the initial complaint?
+
+PATIENT X138
+I need to sleep, I'm tired.
+
+DOCTOR X138
+Okay did you try that medicine they gave you?
+
+PATIENT X138
+I didn't do nothing @@@.
+
+DOCTOR X138
+Do you have the number for the @@@?  Let me see if this is the number.  Do you think you'd like to go over there and see somebody so they could change your medicines?
+
+PATIENT X138
+If you send me I'll go.
+
+DOCTOR X138
+Let me call them.  I don't know if this is the right number but we'll try.  I'm looking at your meds now and you know.  Did you try the cough syrup they gave you?
+
+PATIENT X138
+Yes.
+
+DOCTOR X138
+Did it help?
+
+PATIENT X138
+No, no.
+
+DOCTOR X138
+Any of kind of pain @@@ here?
+
+(Doctor made phone call in the room with patient)
+
+DOCTOR X138
+They'll see you right when we're done okay.
+
+PATIENT X138
+Okay.
+
+DOCTOR X138
+So you take this omeprazole medicine, do you know that one?
+
+PATIENT X138
+Yeah.
+
+DOCTOR X138
+So the omeprazole you can take maybe at nighttime instead of in the morning and maybe that'll help your cough.
+
+PATIENT X138
+Okay.
+
+DOCTOR X138
+You sound like you're laying down and maybe you're getting acid reflux.
+
+PATIENT X138
+Uh-huh.
+
+DOCTOR X138
+So maybe we can change that medicine to twice a day.  You take it in the morning and at night.
+
+PATIENT X138
+Okay.
+
+DOCTOR X138
+And hopefully that'll help your cough.
+
+PATIENT X138
+Okay.
+
+DOCTOR X138
+So that sounds good?
+
+PATIENT X138
+Yeah.
+
+DOCTOR X138
+I'm going to take a listen though and make sure your lungs sound good and then we'll get you on your way and I can have you take that medicine twice a day.
+
+PATIENT X138
+Okay.
+
+DOCTOR X138
+Here have a seat over here.  Do you know where the Intake Center is on the first floor of Building 228?
+
+PATIENT X138
+Uh, @@@.  On my way back home.
+
+DOCTOR X138
+Do you know where 228 is, the Mental Health Building?
+
+PATIENT X138
+@@@ where I just come from?
+
+DOCTOR X138
+Yes.
+
+PATIENT X138
+Okay.
+
+DOCTOR X138
+And then you go to where it says Intake.
+
+PATIENT X138
+Okay.
+
+DOCTOR X138
+Um you're not having any voices telling you to hurt yourself or anything?
+
+PATIENT X138
+Yesterday I did.
+
+DOCTOR X138
+You did?
+
+PATIENT X138
+Weird sounds and I have been getting @@@.
+
+DOCTOR X138
+Do you think you need to go to the Emergency Room instead or would you rather try going.  Have you ever had that happen to you before?
+
+PATIENT X138
+Twice before.
+
+DOCTOR X138
+What happened then, did you just go to Mental Health?
+
+PATIENT X138
+Uh-huh yeah.
+
+DOCTOR X138
+And they helped you with your medicines?
+
+PATIENT X138
+Yeah.
+
+DOCTOR X138
+Okay.  So I'm going to take a quick listen okay.  Take a deep breath.  Have you ever used an inhaler?
+
+PATIENT X138
+Uh yes.
+
+DOCTOR X138
+Do you want to try one now to help your cough?
+
+PATIENT X138
+Okay, alright.
+
+DOCTOR X138
+And do you want me to mail it to you or do you want to pick them up?
+
+PATIENT X138
+Probably pick them up.
+
+DOCTOR X138
+Okay.  Now this medicine, you can take two puffs, so two inhales um every six hours as you need it okay.
+
+PATIENT X138
+Alright.
+
+DOCTOR X138
+So see if it helps.  Now real quick, let me just look through here.  So what exactly are the voices telling you to do?
+
+PATIENT X138
+@@@.
+
+DOCTOR X138
+Okay and how are they telling you to hurt yourself?  What do they say?
+
+PATIENT X138
+I can do better than what I'm doing @@@.
+
+DOCTOR X138
+They want your help, okay.  You need to feel better than this right?  So I think this is probably the best option to go to the first floor, 228.
+
+PATIENT X138
+@@@.
+
+DOCTOR X138
+I wrote it on here for you.  Um.  So and you're going to Building 228 first floor Mental Health Intake.
+
+PATIENT X138
+Okay.
+
+DOCTOR X138
+Okay so maybe if you get lost you can ask someone, you know Building 228.
+
+PATIENT X138
+Okay.
+
+DOCTOR X138
+It's like that way.
+
+PATIENT X138
+Alright.
+
+DOCTOR X138
+You go to the first floor and then instead of going out the front you kind of walk to the other building right?
+
+PATIENT X138
+Yes ma'am.
+
+DOCTOR X138
+So I'll be right back but here's this that you'll need.  I'll be right back you stay here for a minute.
+
+PATIENT X138
+Okay.
+
+DOCTOR X138
+Now I can leave the door open to get you some air okay.
+
+PATIENT X138
+Please.
+
+(DOCTOR OUT:  50:12  DOCTOR IN:  56:55
+
+DOCTOR X138
+Alright come on.  We got someone to walk you over so you won't get lost.
+
+PATIENT X138
+@@@.
+
+DOCTOR X138
+I was worried because I'm not exactly sure where this @@@ is either so, we might as well send someone who knows exactly where you're going.
+
+PATIENT X138
+Yes ma'am.
+
+DOCTOR X138
+@@@.  You got a lot of fun stuff here.  So it's nice to meet you.
+
+PATIENT X138
+Nice to meet.
+
+DOCTOR X138
+So you take that antacid medicine twice a day okay.
+
+PATIENT X138
+Yes ma'am.  Okay I have @@@ yes ma'am.  I'll be doing that.
+
+DOCTOR X138
+Okay.
+
+PATIENT X138
+Okay thank you.
+
+DOCTOR X138
+Thank you sir.  
+
+PATIENT LEAVES:  57:30
+
+(Someone takes the patient to the Mental Health Building)
+
+
+
+

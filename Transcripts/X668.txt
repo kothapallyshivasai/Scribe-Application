@@ -1,0 +1,215 @@
+
+DOCTOR X668
+PATIENT?
+
+PATIENT X668 
+That's me.
+
+DOCTOR X668
+Hi, come on back.  @@@.
+
+PATIENT X668
+You said PATIENT, @@@
+
+DOCTOR X668
+Yeah PATIENT.
+
+PATIENT X668
+Oh alright.
+
+DOCTOR X668
+Good.  I'm DOCTOR; I'm one of the residents.  Sorry about the wait.  Come on back this way.  So it looks like the last time you were here you saw DOCTOR.  So you can just have a seat right over here.
+
+PATIENT X668
+Okay.
+
+DOCTOR X668
+And it looks like @@@ things are doing pretty good, so all I see that last time we started you on some the cholesterol medicine and a aspirin, is that right?
+
+PATIENT X668
+Repeat that again.
+
+DOCTOR X668
+The last time you were here everything was going good.
+
+PATIENT X668
+Yes.
+
+DOCTOR X668
+They got some blood work so you were started on a cholesterol medicine.
+
+PATIENT X668
+Yes.
+
+DOCTOR X668
+Okay and a aspirin.
+
+PATIENT X668
+Yes.
+
+DOCTOR X668
+And that's it.
+
+PATIENT X668
+Yep.
+
+DOCTOR X668
+So you're only on four medicines it looks like.  You're on propranolol for your blood pressure, you're on Flomax for your prostate, you're on simvastatin for your cholesterol and you're on aspirin for preventive and that's it right?
+
+PATIENT X668
+Yeah.
+
+DOCTOR X668
+And how are you feeling?
+
+PATIENT X668
+Alright.
+
+DOCTOR X668
+Good.  Now we probably don't have to do anything.  Oh so it looks like uh last time you were here that your blood pressure medicine was switched from propranolol to metoprolol twice a day.
+
+PATIENT X668
+Yeah I got to take a half pill.
+
+DOCTOR X668
+Perfect.  So your blood pressure today looks fine.  Do you have a home blood pressure cuff to check your blood pressures?
+
+PATIENT X668
+No.
+
+DOCTOR X668
+So let's give you one of those cause you know sometimes your first number when you got here was a little bit high.
+
+PATIENT X668
+Uh-huh.
+
+DOCTOR X668
+Being at the doctor's office tends to make people nervous so instead of us going up on your medicines, if your blood pressure at home is fine we'll just check your blood pressure.
+
+PATIENT X668
+Uh-huh.
+
+DOCTOR X668
+At home and then we just leave things as they are.  And thankfully, at your age you're doing so well, there probably isn't a whole lot else that we need to do.  Let's see if there is anything on our reminders list.  They gave you a flu shot today which is great, excellent.
+
+PATIENT X668
+Yeah.
+
+DOCTOR X668
+Let me note that so that, yes so remember things, good, see if there's anything on our reminders, looks like everything.  Uh let's see, do you think you've ever had a tetanus shot.  When do you think the tetanus shot was, do you know, do not know?  Tetanus shot. 
+
+PATIENT X668
+I don't know if I ever had a tetanus shot.
+
+DOCTOR X668
+Are you interested in a tetanus shot?
+
+PATIENT X668
+What is it I'd like to know?
+
+DOCTOR X668
+So basically tetanus, like if you would step on a rusty nail you could probably get a tetanus infection where basically all of the muscles in your body kind of lock and then not being able to breathe so if you feel like it's pretty unlikely that you would step on a nail or get bitten by an animal then you can go ahead and defer it but we recommend if for everybody just in case.  Might as well right?  Cause it couldn't hurt.  So we'll put that in, so let the nurse give that to you.  And then uh you quit smoking right?
+
+PATIENT X668
+I never smoked.
+
+DOCTOR X668
+Never smoked.
+
+PATIENT X668
+Oh wait a minute, I did.  I haven't smoked in over 50 years.
+
+DOCTOR X668
+Amazing, good, good, good, good.  Let's keep up that good work and let's see, your chemistry panel looks good, tetanus.  And do you live by yourself?
+
+PATIENT X668
+Yes.
+
+DOCTOR X668
+Good, wow and you do everything on your own?
+
+PATIENT X668
+Yes.
+
+DOCTOR X668
+Good.  That's more than I can say for lots of people my own age who seem to need a lot more help, good.  So that is good news definitely.  And as far as, so you're on the medication to help with your prostate uh are you getting up a lot at night to pee or are you sleeping okay through the night?
+
+PATIENT X668
+No I get up maybe four times a night.
+
+DOCTOR X668
+You're getting up, does that bother you?
+
+PATIENT X668
+No I'm used to it.
+
+DOCTOR X668
+Okay.  I mean we could certainly send you to the urologist.  We could change the medicines around if you want but if you don't care then we don't care.  It's up to you.
+
+PATIENT X668
+It's alright.
+
+DOCTOR X668
+Okay good and let's see you're scheduled to see the eye doctors it looks like in a couple of weeks.
+
+PATIENT X668
+That's on the 6th.
+
+DOCTOR X668
+Perfect and you saw the hearing doctors last week.
+
+PATIENT X668
+Yeah.
+
+DOCTOR X668
+And they made some adjustments.
+
+PATIENT X668
+They did, they gave me my hearing aids.  However it goes backwards.
+
+DOCTOR X668
+Oh, okay good.  So let me just take a quick look and then we'll have the nurse give you your shot and we'll get out of here.  We don't need to keep healthy people at the doctor's office @@@.
+
+PATIENT X668
+Okay what you gonna give me that tetanus shot?
+
+DOCTOR X668
+Oh the nurse is.  I'm just going to take a quick listen to your heart and lungs.
+
+PATIENT X668
+Okay.
+
+DOCTOR X668
+Good.  Let me see if the nurse is free.  I'll walk you right over there and get your shots and then we'll get you out of here.  Do you have enough of all your medicines at home?  Do you need refills?
+
+PATIENT X668
+Uh.  No I'm alright yeah.
+
+DOCTOR X668
+Okay so then the only thing today that you are gonna need to do is to go up to Prosthetics and pick up a home blood pressure cuff.  So that's on the third floor of this building here.
+
+PATIENT X668
+Oh okay.
+
+DOCTOR X668
+In the xxx xxx, so we'll have you do that.  Let me order this for you.
+
+PATIENT X668
+Now are there instructions on that and how to use the thing?
+
+DOCTOR X668
+Uh they'll show you.  You just put your arm in it and I think it's automatic.  They'll show you when you pick it up.  Let me go see if the nurse is free, I'll get you over here, we'll get you out of here, I'll be right back.
+
+PATIENT X668
+Alright.
+
+(DOCTOR OUT:  70:17  DOCTOR IN:  74:18)
+
+DOCTOR X668
+Alright, so looks like you're in for a tetanus shot.  So we're going to have fun today.  Let's get some labs drawn.  Oh we'll put in for that yeah.  So you can come around this way, we'll drop you where the nurse is at and you get that blood pressure cuff and you are out of here.  I'll make sure you have enough refills until your next appointment.  @@@ one more time.  You @@@ we'll have you wait right over here.  You can just stand wait here, should I get you a chair, do you feel like you can hang out here okay?  Well you just have to sit back out in the waiting area and they said they'll call you.  
+
+PATIENT LEAVES:  75:33.
+
+
+
+
